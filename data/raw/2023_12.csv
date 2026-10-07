@@ -1,0 +1,817 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,SOFT,1.0,True,1,False,4.0,18.0,29.2,58.0,False,3.0,115.659,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,2.0,1.0,SOFT,2.0,True,12,True,4.0,18.0,28.7,60.0,False,2.9,113.103,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,3.0,1.0,SOFT,3.0,True,21,True,4.0,18.1,29.4,58.0,False,2.4,112.277,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,4.0,1.0,SOFT,4.0,True,1,True,4.0,18.1,30.1,57.0,False,1.7,112.789,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,5.0,1.0,SOFT,5.0,True,1,True,4.0,18.1,30.4,57.0,False,2.0,112.602,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,6.0,1.0,SOFT,6.0,True,1,True,3.0,18.1,31.4,57.0,False,1.5,112.13,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,7.0,1.0,SOFT,7.0,True,1,True,3.0,18.1,31.5,57.0,False,0.8,112.415,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,8.0,1.0,SOFT,8.0,True,1,True,3.0,18.1,30.6,58.0,False,1.2,112.472,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,9.0,1.0,SOFT,9.0,True,1,True,2.0,18.1,30.1,57.0,False,2.2,111.88,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,10.0,1.0,SOFT,10.0,True,1,True,2.0,18.2,29.6,58.0,False,1.7,112.455,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,11.0,1.0,SOFT,11.0,True,1,True,2.0,18.3,29.9,58.0,False,1.2,112.613,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,12.0,1.0,SOFT,12.0,True,1,True,2.0,18.2,29.2,60.0,False,2.5,112.714,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,13.0,1.0,SOFT,13.0,True,1,True,1.0,18.0,29.1,60.0,False,1.7,112.962,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,14.0,1.0,SOFT,14.0,True,1,False,1.0,18.0,28.4,60.0,False,1.0,117.166,True,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,15.0,2.0,MEDIUM,1.0,True,1,False,2.0,18.0,28.3,61.0,False,2.7,123.986,True,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,16.0,2.0,MEDIUM,2.0,True,1,True,2.0,18.2,28.3,61.0,False,1.0,110.696,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,17.0,2.0,MEDIUM,3.0,True,1,True,1.0,18.2,28.8,61.0,False,2.4,110.108,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,18.0,2.0,MEDIUM,4.0,True,1,True,1.0,18.2,28.3,61.0,False,1.0,111.637,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,19.0,2.0,MEDIUM,5.0,True,1,True,1.0,18.0,27.9,61.0,False,0.8,111.956,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,20.0,2.0,MEDIUM,6.0,True,1,True,1.0,17.9,27.5,62.0,True,0.3,115.733,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,21.0,2.0,MEDIUM,7.0,True,1,True,1.0,17.7,27.2,63.0,True,1.5,114.915,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,22.0,2.0,MEDIUM,8.0,True,1,True,1.0,17.5,26.0,65.0,True,1.5,115.325,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,23.0,2.0,MEDIUM,9.0,True,1,True,1.0,17.4,25.6,65.0,True,1.7,112.905,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,24.0,2.0,MEDIUM,10.0,True,1,True,1.0,17.1,25.1,66.0,True,1.7,110.996,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,25.0,2.0,MEDIUM,11.0,True,1,True,1.0,17.0,25.0,68.0,True,1.7,111.106,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,26.0,2.0,MEDIUM,12.0,True,1,True,1.0,16.9,25.0,69.0,False,1.1,111.377,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,27.0,2.0,MEDIUM,13.0,True,1,True,1.0,16.9,25.9,67.0,False,1.0,111.472,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,28.0,2.0,MEDIUM,14.0,True,1,True,1.0,17.0,26.9,69.0,False,0.8,111.41,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,29.0,2.0,MEDIUM,15.0,True,1,True,1.0,17.3,27.9,66.0,False,1.6,111.595,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,30.0,2.0,MEDIUM,16.0,True,1,False,1.0,17.4,29.3,66.0,False,1.0,115.882,True,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,31.0,3.0,SOFT,1.0,True,1,False,1.0,17.6,30.3,66.0,False,1.1,123.585,True,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,32.0,3.0,SOFT,2.0,True,1,True,1.0,18.0,31.0,63.0,False,1.7,108.922,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,33.0,3.0,SOFT,3.0,True,1,True,1.0,18.3,31.1,61.0,False,2.7,110.586,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,34.0,3.0,SOFT,4.0,True,1,True,1.0,18.5,30.0,62.0,False,1.3,110.792,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,35.0,3.0,SOFT,5.0,True,1,True,1.0,18.4,29.3,61.0,False,0.6,110.408,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,36.0,3.0,SOFT,6.0,True,1,True,1.0,18.5,30.1,60.0,False,1.0,110.362,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,37.0,3.0,SOFT,7.0,True,1,True,1.0,18.8,30.7,59.0,False,1.3,110.317,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,38.0,3.0,SOFT,8.0,True,1,True,1.0,18.8,29.1,60.0,False,1.7,110.147,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,39.0,3.0,SOFT,9.0,True,1,True,1.0,18.8,29.1,60.0,False,2.0,110.113,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,40.0,3.0,SOFT,10.0,True,1,True,1.0,18.8,28.8,62.0,False,1.7,110.067,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,41.0,3.0,SOFT,11.0,True,1,True,1.0,18.9,29.0,62.0,False,1.5,109.954,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,42.0,3.0,SOFT,12.0,True,1,True,1.0,19.0,30.0,60.0,False,1.5,110.187,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,43.0,3.0,SOFT,13.0,True,1,True,1.0,19.2,29.3,59.0,False,2.2,110.095,False,44,2023,12,Belgian Grand Prix,2023_12
+VER,Red Bull Racing,44.0,3.0,SOFT,14.0,True,1,True,1.0,18.8,28.4,61.0,False,1.2,110.579,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,1.0,1.0,SOFT,1.0,True,1,False,1.0,18.0,29.2,58.0,False,3.0,113.295,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,2.0,1.0,SOFT,2.0,True,12,True,1.0,18.0,28.7,60.0,False,2.9,112.166,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,3.0,1.0,SOFT,3.0,True,21,True,1.0,18.1,29.4,58.0,False,2.4,112.153,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,4.0,1.0,SOFT,4.0,True,1,True,1.0,18.1,30.1,58.0,False,2.0,112.336,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,5.0,1.0,SOFT,5.0,True,1,True,1.0,18.1,30.4,57.0,False,2.0,112.572,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,6.0,1.0,SOFT,6.0,True,1,True,1.0,18.1,31.4,57.0,False,1.5,112.466,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,7.0,1.0,SOFT,7.0,True,1,True,1.0,18.1,31.5,57.0,False,0.8,112.52,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,8.0,1.0,SOFT,8.0,True,1,True,1.0,18.1,30.6,58.0,False,1.2,112.305,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,9.0,1.0,SOFT,9.0,True,1,True,1.0,18.1,30.1,57.0,False,2.2,112.465,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,10.0,1.0,SOFT,10.0,True,1,True,1.0,18.2,29.6,58.0,False,1.7,112.72,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,11.0,1.0,SOFT,11.0,True,1,True,1.0,18.3,29.9,58.0,False,1.2,112.644,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,12.0,1.0,SOFT,12.0,True,1,True,1.0,18.1,29.5,60.0,False,1.2,112.973,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,13.0,1.0,SOFT,13.0,True,1,False,2.0,18.0,29.1,60.0,False,1.7,117.632,True,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,14.0,2.0,MEDIUM,1.0,True,1,False,2.0,18.0,28.4,60.0,False,1.0,126.242,True,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,15.0,2.0,MEDIUM,2.0,True,1,True,1.0,18.0,28.3,61.0,False,2.7,111.621,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,16.0,2.0,MEDIUM,3.0,True,1,True,1.0,18.2,28.3,61.0,False,1.0,111.416,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,17.0,2.0,MEDIUM,4.0,True,1,True,2.0,18.2,28.8,61.0,False,2.4,112.175,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,18.0,2.0,MEDIUM,5.0,True,1,True,2.0,18.2,28.3,61.0,False,1.0,112.289,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,19.0,2.0,MEDIUM,6.0,True,1,True,2.0,18.0,27.9,61.0,False,0.8,113.525,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,20.0,2.0,MEDIUM,7.0,True,1,True,2.0,17.9,27.5,62.0,True,0.3,115.459,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,21.0,2.0,MEDIUM,8.0,True,1,True,2.0,17.7,27.2,63.0,True,1.5,115.448,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,22.0,2.0,MEDIUM,9.0,True,1,True,2.0,17.5,26.0,65.0,True,1.5,116.286,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,23.0,2.0,MEDIUM,10.0,True,1,True,2.0,17.3,25.3,65.0,True,1.3,113.361,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,24.0,2.0,MEDIUM,11.0,True,1,True,2.0,17.1,25.1,66.0,True,1.7,111.716,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,25.0,2.0,MEDIUM,12.0,True,1,True,2.0,17.0,25.0,68.0,True,1.7,111.692,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,26.0,2.0,MEDIUM,13.0,True,1,True,2.0,16.9,25.0,69.0,False,1.1,111.891,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,27.0,2.0,MEDIUM,14.0,True,1,True,2.0,16.9,25.9,67.0,False,1.0,112.199,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,28.0,2.0,MEDIUM,15.0,True,1,True,2.0,17.0,26.9,69.0,False,0.8,112.162,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,29.0,2.0,MEDIUM,16.0,True,1,False,2.0,17.3,27.9,66.0,False,1.6,116.724,True,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,30.0,3.0,SOFT,1.0,True,1,False,2.0,17.6,29.5,66.0,False,1.8,124.522,True,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,31.0,3.0,SOFT,2.0,True,1,True,2.0,17.7,30.6,65.0,False,1.6,110.308,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,32.0,3.0,SOFT,3.0,True,1,True,2.0,18.1,31.0,62.0,False,2.4,111.184,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,33.0,3.0,SOFT,4.0,True,1,True,2.0,18.3,31.1,61.0,False,2.7,111.44,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,34.0,3.0,SOFT,5.0,True,1,True,2.0,18.5,30.0,62.0,False,1.3,111.387,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,35.0,3.0,SOFT,6.0,True,1,True,2.0,18.4,29.3,61.0,False,0.6,110.827,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,36.0,3.0,SOFT,7.0,True,1,True,2.0,18.5,30.1,60.0,False,1.0,111.082,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,37.0,3.0,SOFT,8.0,True,1,True,2.0,18.8,30.7,59.0,False,1.3,111.103,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,38.0,3.0,SOFT,9.0,True,1,True,2.0,18.8,29.1,60.0,False,1.7,111.42,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,39.0,3.0,SOFT,10.0,True,1,True,2.0,18.7,28.8,62.0,False,2.5,111.117,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,40.0,3.0,SOFT,11.0,True,1,True,2.0,18.8,28.8,62.0,False,1.7,111.318,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,41.0,3.0,SOFT,12.0,True,1,True,2.0,18.9,29.0,62.0,False,1.5,110.935,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,42.0,3.0,SOFT,13.0,True,1,True,2.0,19.0,30.0,60.0,False,1.5,111.24,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,43.0,3.0,SOFT,14.0,True,1,True,2.0,19.2,29.3,59.0,False,2.2,110.911,False,44,2023,12,Belgian Grand Prix,2023_12
+PER,Red Bull Racing,44.0,3.0,SOFT,15.0,True,12,True,2.0,18.8,28.4,61.0,False,1.2,111.508,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,1.0,1.0,SOFT,1.0,True,1,False,2.0,18.0,29.2,58.0,False,3.0,114.584,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,2.0,1.0,SOFT,2.0,True,12,True,2.0,18.0,28.7,60.0,False,2.9,112.839,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,3.0,1.0,SOFT,3.0,True,21,True,2.0,18.1,29.4,58.0,False,2.4,112.292,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,4.0,1.0,SOFT,4.0,True,1,True,2.0,18.1,30.1,57.0,False,1.7,112.479,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,5.0,1.0,SOFT,5.0,True,1,True,2.0,18.1,30.4,57.0,False,2.0,112.575,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,6.0,1.0,SOFT,6.0,True,1,True,2.0,18.1,31.4,57.0,False,1.5,112.684,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,7.0,1.0,SOFT,7.0,True,1,True,2.0,18.1,31.5,57.0,False,0.8,112.763,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,8.0,1.0,SOFT,8.0,True,1,True,2.0,18.1,30.6,58.0,False,1.2,112.641,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,9.0,1.0,SOFT,9.0,True,1,True,3.0,18.1,30.1,57.0,False,2.2,113.603,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,10.0,1.0,SOFT,10.0,True,1,True,3.0,18.2,29.6,58.0,False,1.7,113.559,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,11.0,1.0,SOFT,11.0,True,1,True,3.0,18.3,29.9,58.0,False,1.2,113.232,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,12.0,1.0,SOFT,12.0,True,1,True,3.0,18.2,29.2,60.0,False,2.5,113.523,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,13.0,1.0,SOFT,13.0,True,1,False,3.0,18.0,29.1,60.0,False,1.7,117.485,True,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,14.0,2.0,MEDIUM,1.0,True,1,False,3.0,18.0,28.4,60.0,False,1.0,125.902,True,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,15.0,2.0,MEDIUM,2.0,True,1,True,3.0,18.0,28.3,61.0,False,1.5,111.88,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,16.0,2.0,MEDIUM,3.0,True,1,True,3.0,18.2,28.3,61.0,False,1.0,112.064,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,17.0,2.0,MEDIUM,4.0,True,1,True,3.0,18.2,28.8,61.0,False,2.4,112.243,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,18.0,2.0,MEDIUM,5.0,True,1,True,3.0,18.2,28.3,61.0,False,1.0,112.168,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,19.0,2.0,MEDIUM,6.0,True,1,True,3.0,18.0,27.9,61.0,False,0.8,112.868,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,20.0,2.0,MEDIUM,7.0,True,1,True,3.0,17.9,27.5,62.0,True,0.3,115.838,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,21.0,2.0,MEDIUM,8.0,True,1,True,3.0,17.7,27.2,63.0,True,1.5,115.901,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,22.0,2.0,MEDIUM,9.0,True,1,True,3.0,17.5,26.0,65.0,True,1.5,116.499,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,23.0,2.0,MEDIUM,10.0,True,1,True,3.0,17.3,25.3,65.0,True,1.3,113.585,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,24.0,2.0,MEDIUM,11.0,True,1,True,3.0,17.1,25.0,67.0,True,2.2,111.81,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,25.0,2.0,MEDIUM,12.0,True,1,True,3.0,17.0,25.0,68.0,True,1.7,111.717,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,26.0,2.0,MEDIUM,13.0,True,1,True,3.0,16.9,25.0,69.0,False,1.1,111.75,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,27.0,2.0,MEDIUM,14.0,True,1,True,3.0,16.9,25.9,67.0,False,1.0,111.865,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,28.0,2.0,MEDIUM,15.0,True,1,False,3.0,17.0,26.9,69.0,False,0.8,115.953,True,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,29.0,3.0,SOFT,1.0,True,1,False,3.0,17.3,27.9,66.0,False,1.6,123.881,True,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,30.0,3.0,SOFT,2.0,True,1,True,3.0,17.6,29.5,66.0,False,1.8,110.436,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,31.0,3.0,SOFT,3.0,True,1,True,3.0,17.7,30.6,65.0,False,1.6,110.903,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,32.0,3.0,SOFT,4.0,True,1,True,3.0,18.1,31.0,62.0,False,2.4,111.681,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,33.0,3.0,SOFT,5.0,True,1,True,3.0,18.4,31.0,61.0,False,2.0,111.189,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,34.0,3.0,SOFT,6.0,True,1,True,3.0,18.5,30.0,62.0,False,1.3,110.726,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,35.0,3.0,SOFT,7.0,True,1,True,3.0,18.4,29.3,61.0,False,0.6,111.267,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,36.0,3.0,SOFT,8.0,True,1,True,3.0,18.5,30.1,60.0,False,1.0,111.143,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,37.0,3.0,SOFT,9.0,True,1,True,3.0,18.8,30.7,59.0,False,1.3,111.298,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,38.0,3.0,SOFT,10.0,True,1,True,3.0,18.8,29.1,60.0,False,1.7,111.312,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,39.0,3.0,SOFT,11.0,True,1,True,3.0,18.7,28.8,62.0,False,2.5,110.919,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,40.0,3.0,SOFT,12.0,True,1,True,3.0,18.8,28.8,61.0,False,1.6,111.833,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,41.0,3.0,SOFT,13.0,True,1,True,3.0,18.9,29.0,62.0,False,1.5,112.252,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,42.0,3.0,SOFT,14.0,True,1,True,3.0,19.0,30.0,60.0,False,1.5,111.419,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,43.0,3.0,SOFT,15.0,True,1,True,3.0,19.2,29.3,59.0,False,2.2,112.442,False,44,2023,12,Belgian Grand Prix,2023_12
+LEC,Ferrari,44.0,3.0,SOFT,16.0,True,12,True,3.0,18.8,28.4,61.0,False,1.2,113.706,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,1.0,1.0,SOFT,1.0,True,1,False,3.0,18.0,29.2,58.0,False,3.0,115.21,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,2.0,1.0,SOFT,2.0,True,12,True,3.0,18.0,28.7,60.0,False,2.9,113.02,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,3.0,1.0,SOFT,3.0,True,21,True,3.0,18.1,29.4,58.0,False,2.4,112.454,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,4.0,1.0,SOFT,4.0,True,1,True,3.0,18.1,30.1,57.0,False,1.7,112.506,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,5.0,1.0,SOFT,5.0,True,1,True,3.0,18.1,30.4,57.0,False,2.0,112.717,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,6.0,1.0,SOFT,6.0,True,1,True,4.0,18.1,31.4,57.0,False,1.5,113.813,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,7.0,1.0,SOFT,7.0,True,1,True,4.0,18.1,31.5,57.0,False,0.8,113.43,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,8.0,1.0,SOFT,8.0,True,1,True,4.0,18.1,30.6,58.0,False,1.2,113.276,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,9.0,1.0,SOFT,9.0,True,1,True,4.0,18.1,30.1,57.0,False,2.2,113.472,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,10.0,1.0,SOFT,10.0,True,1,True,4.0,18.2,29.6,58.0,False,1.7,113.381,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,11.0,1.0,SOFT,11.0,True,1,True,4.0,18.3,29.9,58.0,False,1.2,114.073,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,12.0,1.0,SOFT,12.0,True,1,False,4.0,18.2,29.2,60.0,False,2.5,118.156,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,13.0,2.0,MEDIUM,1.0,True,1,False,4.0,18.1,28.8,60.0,False,1.1,125.716,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,14.0,2.0,MEDIUM,2.0,True,1,True,4.0,17.9,28.4,61.0,False,0.8,111.523,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,15.0,2.0,MEDIUM,3.0,True,1,True,4.0,18.0,28.3,61.0,False,1.5,112.126,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,16.0,2.0,MEDIUM,4.0,True,1,True,4.0,18.2,28.3,61.0,False,1.0,112.215,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,17.0,2.0,MEDIUM,5.0,True,1,True,4.0,18.2,28.8,61.0,False,2.4,112.421,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,18.0,2.0,MEDIUM,6.0,True,1,True,4.0,18.2,28.3,61.0,False,1.0,112.764,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,19.0,2.0,MEDIUM,7.0,True,1,True,4.0,18.0,27.9,61.0,False,0.8,112.953,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,20.0,2.0,MEDIUM,8.0,True,1,True,4.0,17.9,27.5,62.0,True,0.3,115.105,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,21.0,2.0,MEDIUM,9.0,True,1,True,4.0,17.7,27.2,63.0,True,1.5,116.302,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,22.0,2.0,MEDIUM,10.0,True,1,True,4.0,17.5,26.0,65.0,True,1.5,116.499,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,23.0,2.0,MEDIUM,11.0,True,1,True,4.0,17.3,25.3,65.0,True,1.3,112.296,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,24.0,2.0,MEDIUM,12.0,True,1,True,4.0,17.1,25.0,67.0,True,2.2,111.998,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,25.0,2.0,MEDIUM,13.0,True,1,True,4.0,17.0,25.0,68.0,True,1.7,112.191,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,26.0,2.0,MEDIUM,14.0,True,1,True,4.0,16.9,25.0,69.0,False,1.1,112.36,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,27.0,2.0,MEDIUM,15.0,True,1,False,4.0,16.9,25.9,67.0,False,1.0,116.092,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,28.0,3.0,SOFT,1.0,True,1,False,5.0,17.0,26.9,69.0,False,0.8,123.721,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,29.0,3.0,SOFT,2.0,True,1,True,4.0,17.3,27.9,66.0,False,1.6,110.283,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,30.0,3.0,SOFT,3.0,True,1,True,4.0,17.6,29.5,66.0,False,1.8,110.923,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,31.0,3.0,SOFT,4.0,True,1,True,4.0,17.7,30.6,65.0,False,1.6,111.134,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,32.0,3.0,SOFT,5.0,True,1,True,4.0,18.1,31.0,62.0,False,2.4,110.935,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,33.0,3.0,SOFT,6.0,True,1,True,4.0,18.4,31.0,61.0,False,2.0,111.136,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,34.0,3.0,SOFT,7.0,True,1,True,4.0,18.5,30.0,62.0,False,1.3,111.05,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,35.0,3.0,SOFT,8.0,True,1,True,4.0,18.4,29.3,61.0,False,0.6,111.65,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,36.0,3.0,SOFT,9.0,True,1,True,4.0,18.5,30.1,60.0,False,1.0,111.224,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,37.0,3.0,SOFT,10.0,True,1,True,4.0,18.8,30.7,59.0,False,1.3,111.428,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,38.0,3.0,SOFT,11.0,True,1,True,4.0,18.8,29.1,60.0,False,1.7,111.109,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,39.0,3.0,SOFT,12.0,True,1,True,4.0,18.7,28.8,62.0,False,2.5,111.408,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,40.0,3.0,SOFT,13.0,True,1,True,4.0,18.8,28.8,61.0,False,1.6,112.166,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,41.0,3.0,SOFT,14.0,True,1,True,4.0,18.9,29.0,62.0,False,1.5,111.796,False,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,42.0,3.0,SOFT,15.0,True,1,False,4.0,19.0,30.0,60.0,False,1.5,115.22,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,43.0,4.0,MEDIUM,1.0,True,1,False,4.0,19.2,29.3,59.0,False,2.2,129.564,True,44,2023,12,Belgian Grand Prix,2023_12
+HAM,Mercedes,44.0,4.0,MEDIUM,2.0,True,12,True,4.0,18.8,28.4,61.0,False,1.2,107.305,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,18.0,29.2,58.0,False,3.0,118.27,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,12,True,6.0,18.0,28.7,60.0,False,2.9,114.343,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,21,True,6.0,18.1,29.4,58.0,False,2.4,114.585,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,18.1,30.1,57.0,False,1.7,113.395,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,18.1,30.6,57.0,False,1.2,113.596,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,18.1,31.4,57.0,False,1.5,113.643,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,18.1,31.5,57.0,False,0.8,113.455,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,18.1,30.6,58.0,False,1.2,113.585,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,18.1,30.1,57.0,False,2.2,113.456,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,False,5.0,18.2,29.6,58.0,False,1.7,118.157,True,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,11.0,2.0,MEDIUM,1.0,True,1,False,9.0,18.3,29.9,58.0,False,1.2,128.573,True,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,12.0,2.0,MEDIUM,2.0,True,1,True,8.0,18.2,29.2,60.0,False,2.5,111.942,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,13.0,2.0,MEDIUM,3.0,True,1,True,8.0,18.1,28.8,60.0,False,1.1,112.499,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,14.0,2.0,MEDIUM,4.0,True,1,True,8.0,17.9,28.4,61.0,False,0.8,111.886,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,15.0,2.0,MEDIUM,5.0,True,1,True,6.0,18.0,28.3,61.0,False,1.5,113.029,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,16.0,2.0,MEDIUM,6.0,True,1,True,5.0,18.3,28.8,61.0,False,1.2,112.635,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,17.0,2.0,MEDIUM,7.0,True,1,True,5.0,18.2,28.8,61.0,False,2.4,112.886,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,18.0,2.0,MEDIUM,8.0,True,1,True,5.0,18.2,28.3,61.0,False,1.0,112.812,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,19.0,2.0,MEDIUM,9.0,True,1,True,5.0,18.0,27.9,61.0,False,0.8,113.374,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,20.0,2.0,MEDIUM,10.0,True,1,True,5.0,17.9,27.5,62.0,True,0.3,115.606,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,21.0,2.0,MEDIUM,11.0,True,1,True,5.0,17.7,27.2,63.0,True,1.5,116.204,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,22.0,2.0,MEDIUM,12.0,True,1,True,5.0,17.5,26.0,65.0,True,1.5,116.909,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,23.0,2.0,MEDIUM,13.0,True,1,True,5.0,17.3,25.3,65.0,True,1.3,114.11,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,24.0,2.0,MEDIUM,14.0,True,1,True,5.0,17.1,25.0,67.0,True,2.2,112.249,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,25.0,2.0,MEDIUM,15.0,True,1,True,5.0,17.0,25.0,68.0,False,1.5,112.717,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,26.0,2.0,MEDIUM,16.0,True,1,True,5.0,16.8,25.6,69.0,False,1.7,112.187,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,27.0,2.0,MEDIUM,17.0,True,1,True,5.0,16.9,25.9,67.0,False,1.0,112.505,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,28.0,2.0,MEDIUM,18.0,True,1,True,4.0,17.0,26.9,69.0,False,0.8,112.928,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,29.0,2.0,MEDIUM,19.0,True,1,False,5.0,17.3,27.9,66.0,False,1.6,118.063,True,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,30.0,3.0,SOFT,1.0,True,1,False,5.0,17.6,29.5,66.0,False,1.8,126.152,True,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,31.0,3.0,SOFT,2.0,True,1,True,5.0,17.7,30.6,65.0,False,1.6,112.098,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,32.0,3.0,SOFT,3.0,True,1,True,5.0,18.1,31.0,62.0,False,2.4,111.756,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,33.0,3.0,SOFT,4.0,True,1,True,5.0,18.4,31.0,61.0,False,2.0,110.955,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,34.0,3.0,SOFT,5.0,True,1,True,5.0,18.5,29.7,61.0,False,1.3,111.834,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,35.0,3.0,SOFT,6.0,True,1,True,5.0,18.4,29.3,60.0,False,0.8,111.967,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,36.0,3.0,SOFT,7.0,True,1,True,5.0,18.8,30.7,59.0,False,1.7,111.666,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,37.0,3.0,SOFT,8.0,True,1,True,5.0,18.8,30.7,59.0,False,1.3,111.505,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,38.0,3.0,SOFT,9.0,True,1,True,5.0,18.8,29.1,60.0,False,1.7,111.442,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,39.0,3.0,SOFT,10.0,True,1,True,5.0,18.7,28.8,62.0,False,2.5,111.214,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,40.0,3.0,SOFT,11.0,True,1,True,5.0,18.8,28.8,61.0,False,1.6,111.279,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,41.0,3.0,SOFT,12.0,True,1,True,5.0,19.0,29.9,61.0,False,1.2,111.326,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,42.0,3.0,SOFT,13.0,True,1,True,5.0,19.1,29.7,59.0,False,1.5,110.938,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,43.0,3.0,SOFT,14.0,True,1,True,5.0,19.1,28.9,60.0,False,1.2,111.351,False,44,2023,12,Belgian Grand Prix,2023_12
+ALO,Aston Martin,44.0,3.0,SOFT,15.0,True,12,True,5.0,18.8,28.4,61.0,False,1.2,111.552,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,18.0,29.2,58.0,False,3.0,120.809,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,12,True,11.0,18.0,28.7,60.0,False,2.9,115.207,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,21,True,11.0,18.1,29.4,58.0,False,2.4,114.15,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,18.1,30.1,57.0,False,1.7,115.162,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,18.1,30.6,57.0,False,1.2,115.531,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,18.1,31.5,57.0,False,1.8,116.057,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,18.1,31.5,57.0,False,0.8,113.791,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,18.1,30.6,58.0,False,1.2,113.789,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,18.1,30.1,57.0,False,2.2,113.972,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,18.2,29.6,58.0,False,1.7,114.1,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,18.3,29.9,58.0,False,1.2,114.008,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,18.2,29.2,60.0,False,2.5,113.983,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,18.1,28.8,60.0,False,1.1,114.611,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,17.9,28.4,61.0,False,0.8,114.012,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,18.0,28.3,61.0,False,1.5,115.729,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,18.3,28.8,61.0,False,1.2,114.828,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,18.3,28.7,61.0,False,2.9,113.66,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,18.2,28.3,61.0,False,1.0,114.223,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,18.0,27.9,61.0,False,0.8,114.726,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,17.9,27.5,62.0,True,0.3,116.771,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,17.7,27.2,63.0,True,1.5,117.525,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,False,8.0,17.5,26.0,65.0,True,1.5,122.178,True,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,23.0,2.0,SOFT,1.0,True,1,False,15.0,17.3,25.3,65.0,True,1.3,128.989,True,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,24.0,2.0,SOFT,2.0,True,1,True,10.0,17.1,25.0,67.0,True,2.2,110.843,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,25.0,2.0,SOFT,3.0,True,1,True,7.0,17.0,25.0,68.0,False,1.5,110.603,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,26.0,2.0,SOFT,4.0,True,1,True,6.0,16.8,25.6,69.0,False,1.7,111.424,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,27.0,2.0,SOFT,5.0,True,1,True,6.0,16.9,26.1,69.0,False,1.0,111.588,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,28.0,2.0,SOFT,6.0,True,1,True,6.0,17.1,27.9,68.0,False,1.7,111.742,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,29.0,2.0,SOFT,7.0,True,1,True,6.0,17.4,29.3,66.0,False,1.0,111.813,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,30.0,2.0,SOFT,8.0,True,1,True,6.0,17.6,29.5,66.0,False,1.8,112.221,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,31.0,2.0,SOFT,9.0,True,1,True,6.0,17.7,30.6,65.0,False,1.6,111.805,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,32.0,2.0,SOFT,10.0,True,1,True,6.0,18.1,31.0,62.0,False,2.4,111.273,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,33.0,2.0,SOFT,11.0,True,1,True,6.0,18.4,31.0,61.0,False,2.0,111.524,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,34.0,2.0,SOFT,12.0,True,1,True,6.0,18.5,29.7,61.0,False,1.3,111.75,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,35.0,2.0,SOFT,13.0,True,1,True,6.0,18.4,29.3,60.0,False,0.8,111.796,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,36.0,2.0,SOFT,14.0,True,1,True,6.0,18.8,30.7,59.0,False,1.7,111.842,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,37.0,2.0,SOFT,15.0,True,1,True,6.0,18.8,30.7,59.0,False,1.3,111.89,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,38.0,2.0,SOFT,16.0,True,1,True,6.0,18.8,29.1,60.0,False,1.7,111.828,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,39.0,2.0,SOFT,17.0,True,1,True,6.0,18.7,28.8,62.0,False,2.5,111.966,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,40.0,2.0,SOFT,18.0,True,1,True,6.0,18.8,28.8,61.0,False,1.6,111.757,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,41.0,2.0,SOFT,19.0,True,1,True,6.0,19.0,29.9,61.0,False,1.2,111.982,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,42.0,2.0,SOFT,20.0,True,1,True,6.0,19.1,29.7,59.0,False,1.5,112.009,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,43.0,2.0,SOFT,21.0,True,1,True,6.0,19.1,28.9,60.0,False,1.2,112.072,False,44,2023,12,Belgian Grand Prix,2023_12
+RUS,Mercedes,44.0,2.0,SOFT,22.0,True,12,True,6.0,18.9,28.4,61.0,False,3.2,112.012,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,18.0,29.2,58.0,False,3.0,118.832,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,12,True,7.0,18.0,28.7,60.0,False,2.9,114.921,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,21,True,8.0,18.1,29.4,58.0,False,2.4,114.717,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,18.1,30.1,57.0,False,1.7,116.661,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,False,17.0,18.1,30.6,57.0,False,1.2,120.43,True,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,6.0,2.0,HARD,1.0,True,1,False,17.0,18.1,31.5,57.0,False,1.8,129.109,True,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,7.0,2.0,HARD,2.0,True,1,True,16.0,18.1,30.7,58.0,False,1.8,113.072,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,8.0,2.0,HARD,3.0,True,1,True,15.0,18.1,30.2,57.0,False,2.7,113.812,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,9.0,2.0,HARD,4.0,True,1,True,14.0,18.2,29.6,57.0,False,3.0,113.209,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,10.0,2.0,HARD,5.0,True,1,True,15.0,18.2,29.6,58.0,False,1.7,114.599,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,11.0,2.0,HARD,6.0,True,1,True,15.0,18.3,29.9,58.0,False,1.2,113.289,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,12.0,2.0,HARD,7.0,True,1,True,15.0,18.2,29.2,60.0,False,2.5,113.561,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,13.0,2.0,HARD,8.0,True,1,True,14.0,18.1,28.8,60.0,False,1.1,114.112,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,14.0,2.0,HARD,9.0,True,1,True,15.0,17.9,28.4,61.0,False,0.8,115.04,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,15.0,2.0,HARD,10.0,True,1,True,15.0,18.0,28.3,61.0,False,1.5,115.659,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,16.0,2.0,HARD,11.0,True,1,True,16.0,18.3,28.8,61.0,False,1.2,115.611,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,17.0,2.0,HARD,12.0,True,1,False,16.0,18.3,28.7,61.0,False,2.9,118.917,True,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,18.0,3.0,SOFT,1.0,True,1,False,19.0,18.1,28.2,61.0,False,3.0,126.244,True,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,19.0,3.0,SOFT,2.0,True,1,True,18.0,17.9,27.8,62.0,False,1.2,111.729,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,20.0,3.0,SOFT,3.0,True,1,True,18.0,17.7,27.4,63.0,True,1.0,111.745,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,21.0,3.0,SOFT,4.0,True,1,True,17.0,17.6,27.2,63.0,True,1.5,113.769,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,22.0,3.0,SOFT,5.0,True,1,True,15.0,17.5,26.0,65.0,True,1.5,113.725,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,23.0,3.0,SOFT,6.0,True,1,True,13.0,17.3,25.3,65.0,True,1.3,112.578,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,24.0,3.0,SOFT,7.0,True,1,True,9.0,17.1,25.0,67.0,True,2.2,112.859,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,25.0,3.0,SOFT,8.0,True,1,True,8.0,17.0,25.0,68.0,False,1.5,112.283,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,26.0,3.0,SOFT,9.0,True,1,True,7.0,16.8,25.6,69.0,False,1.7,111.682,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,27.0,3.0,SOFT,10.0,True,1,True,7.0,16.9,26.1,69.0,False,1.0,111.789,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,28.0,3.0,SOFT,11.0,True,1,True,7.0,17.1,27.9,68.0,False,1.7,111.991,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,29.0,3.0,SOFT,12.0,True,1,True,7.0,17.4,29.3,66.0,False,1.0,112.195,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,30.0,3.0,SOFT,13.0,True,1,True,7.0,17.6,29.5,66.0,False,1.8,112.289,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,31.0,3.0,SOFT,14.0,True,1,True,7.0,17.7,30.6,65.0,False,1.6,112.21,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,32.0,3.0,SOFT,15.0,True,1,True,7.0,18.1,31.0,62.0,False,2.4,111.914,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,33.0,3.0,SOFT,16.0,True,1,True,7.0,18.4,31.0,61.0,False,2.0,112.239,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,34.0,3.0,SOFT,17.0,True,1,True,7.0,18.5,29.7,61.0,False,1.3,112.221,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,35.0,3.0,SOFT,18.0,True,1,True,7.0,18.4,29.3,60.0,False,0.8,112.736,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,36.0,3.0,SOFT,19.0,True,1,True,7.0,18.8,30.7,59.0,False,1.7,112.433,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,37.0,3.0,SOFT,20.0,True,1,True,7.0,18.9,30.0,59.0,False,1.2,112.618,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,38.0,3.0,SOFT,21.0,True,1,True,7.0,18.8,29.1,60.0,False,1.7,112.659,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,39.0,3.0,SOFT,22.0,True,1,True,7.0,18.7,28.8,62.0,False,2.5,112.717,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,40.0,3.0,SOFT,23.0,True,1,True,7.0,18.8,28.8,61.0,False,1.6,112.811,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,41.0,3.0,SOFT,24.0,True,1,True,7.0,19.0,29.9,61.0,False,1.2,112.428,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,42.0,3.0,SOFT,25.0,True,1,True,7.0,19.1,29.7,59.0,False,1.5,112.0,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,43.0,3.0,SOFT,26.0,True,1,True,7.0,19.1,28.9,60.0,False,1.2,112.309,False,44,2023,12,Belgian Grand Prix,2023_12
+NOR,McLaren,44.0,3.0,SOFT,27.0,True,12,True,7.0,18.9,28.4,61.0,False,3.2,112.445,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,1.0,1.0,SOFT,1.0,True,1,False,13.0,18.0,29.2,58.0,False,3.0,121.887,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,2.0,1.0,SOFT,2.0,True,12,True,13.0,18.0,28.7,60.0,False,2.9,115.421,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,3.0,1.0,SOFT,3.0,True,21,True,12.0,18.1,29.4,58.0,False,2.4,113.76,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,4.0,1.0,SOFT,4.0,True,1,True,12.0,18.1,30.1,57.0,False,1.7,114.967,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,5.0,1.0,SOFT,5.0,True,1,True,11.0,18.1,30.6,57.0,False,1.2,115.853,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,6.0,1.0,SOFT,6.0,True,1,False,15.0,18.1,31.5,57.0,False,1.8,120.088,True,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,7.0,2.0,MEDIUM,1.0,True,1,False,17.0,18.1,30.7,58.0,False,1.8,126.224,True,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,8.0,2.0,MEDIUM,2.0,True,1,True,14.0,18.1,30.2,57.0,False,2.7,112.486,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,9.0,2.0,MEDIUM,3.0,True,1,True,13.0,18.2,29.6,57.0,False,3.0,113.128,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,10.0,2.0,MEDIUM,4.0,True,1,True,12.0,18.2,29.6,58.0,False,1.7,112.232,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,11.0,2.0,MEDIUM,5.0,True,1,True,12.0,18.3,29.9,58.0,False,1.2,112.962,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,12.0,2.0,MEDIUM,6.0,True,1,True,11.0,18.2,29.2,60.0,False,2.5,113.238,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,13.0,2.0,MEDIUM,7.0,True,1,True,11.0,18.1,28.8,60.0,False,1.1,113.389,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,14.0,2.0,MEDIUM,8.0,True,1,True,11.0,17.9,28.4,61.0,False,0.8,114.085,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,15.0,2.0,MEDIUM,9.0,True,1,True,11.0,18.0,28.3,61.0,False,1.5,114.456,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,16.0,2.0,MEDIUM,10.0,True,1,True,10.0,18.3,28.8,61.0,False,1.2,113.606,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,17.0,2.0,MEDIUM,11.0,True,1,True,10.0,18.3,28.7,61.0,False,2.9,113.702,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,18.0,2.0,MEDIUM,12.0,True,1,True,10.0,18.1,28.2,61.0,False,3.0,114.951,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,19.0,2.0,MEDIUM,13.0,True,1,True,10.0,18.0,27.9,61.0,False,0.8,115.886,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,20.0,2.0,MEDIUM,14.0,True,1,True,9.0,17.9,27.5,62.0,True,0.3,116.533,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,21.0,2.0,MEDIUM,15.0,True,1,True,9.0,17.7,27.2,63.0,True,1.5,116.379,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,22.0,2.0,MEDIUM,16.0,True,1,True,10.0,17.5,26.0,65.0,True,1.5,117.125,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,23.0,2.0,MEDIUM,17.0,True,1,True,7.0,17.3,25.3,65.0,True,1.3,115.109,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,24.0,2.0,MEDIUM,18.0,True,1,True,7.0,17.1,25.0,67.0,True,2.2,113.714,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,25.0,2.0,MEDIUM,19.0,True,1,False,6.0,17.0,25.0,68.0,False,1.5,117.52,True,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,26.0,3.0,SOFT,1.0,True,1,False,12.0,16.8,25.6,69.0,False,1.7,125.354,True,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,27.0,3.0,SOFT,2.0,True,1,True,12.0,16.9,26.1,69.0,False,1.0,110.439,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,28.0,3.0,SOFT,3.0,True,1,True,12.0,17.1,27.9,68.0,False,1.7,110.774,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,29.0,3.0,SOFT,4.0,True,1,True,11.0,17.4,29.3,66.0,False,1.0,112.095,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,30.0,3.0,SOFT,5.0,True,1,True,10.0,17.6,30.3,66.0,False,1.1,111.758,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,31.0,3.0,SOFT,6.0,True,1,True,10.0,18.0,31.0,63.0,False,1.7,111.807,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,32.0,3.0,SOFT,7.0,True,1,True,10.0,18.1,31.0,62.0,False,2.4,111.595,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,33.0,3.0,SOFT,8.0,True,1,True,10.0,18.4,31.0,61.0,False,2.0,111.864,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,34.0,3.0,SOFT,9.0,True,1,True,10.0,18.5,29.7,61.0,False,1.3,112.092,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,35.0,3.0,SOFT,10.0,True,1,True,10.0,18.4,29.3,60.0,False,0.8,112.727,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,36.0,3.0,SOFT,11.0,True,1,True,10.0,18.8,30.7,59.0,False,1.7,112.533,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,37.0,3.0,SOFT,12.0,True,1,True,10.0,18.9,30.0,59.0,False,1.2,111.809,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,38.0,3.0,SOFT,13.0,True,1,True,9.0,18.8,29.1,60.0,False,2.0,111.484,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,39.0,3.0,SOFT,14.0,True,1,True,9.0,18.7,28.8,62.0,False,2.5,111.869,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,40.0,3.0,SOFT,15.0,True,1,True,9.0,18.8,28.8,61.0,False,1.6,111.876,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,41.0,3.0,SOFT,16.0,True,1,True,8.0,19.0,29.9,61.0,False,1.2,111.098,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,42.0,3.0,SOFT,17.0,True,1,True,8.0,19.1,29.7,59.0,False,1.5,111.71,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,43.0,3.0,SOFT,18.0,True,1,True,8.0,19.1,28.9,60.0,False,1.2,111.664,False,44,2023,12,Belgian Grand Prix,2023_12
+OCO,Alpine,44.0,3.0,SOFT,19.0,True,12,True,8.0,18.9,28.4,61.0,False,3.2,111.92,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,18.0,29.2,58.0,False,3.0,120.096,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,12,True,10.0,18.0,28.7,60.0,False,2.9,115.619,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,21,True,10.0,18.1,29.4,58.0,False,2.4,113.977,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,18.1,30.1,57.0,False,1.7,115.058,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,18.1,30.6,57.0,False,1.2,115.795,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,18.1,31.5,57.0,False,1.8,115.063,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,18.1,31.5,57.0,False,0.8,114.307,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,18.1,30.6,58.0,False,1.2,113.908,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,18.1,30.1,57.0,False,2.2,113.838,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,18.2,29.6,58.0,False,1.7,113.889,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,18.3,29.9,58.0,False,1.2,113.869,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,18.2,29.2,60.0,False,2.5,114.079,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,18.1,28.8,60.0,False,1.1,114.812,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,17.9,28.4,61.0,False,0.8,114.264,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,18.0,28.3,61.0,False,1.5,114.934,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,18.3,28.8,61.0,False,1.2,115.68,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,18.3,28.7,61.0,False,2.9,115.513,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,18.2,28.3,61.0,False,1.0,115.474,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,18.0,27.9,61.0,False,0.8,116.9,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,False,11.0,17.9,27.5,62.0,True,0.3,123.672,True,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,21.0,2.0,SOFT,1.0,True,1,False,18.0,17.7,27.2,63.0,True,1.5,133.65,True,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,22.0,2.0,SOFT,2.0,True,1,True,18.0,17.4,25.6,65.0,True,1.7,116.412,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,23.0,2.0,SOFT,3.0,True,1,True,17.0,17.1,25.1,66.0,True,1.7,111.394,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,24.0,2.0,SOFT,4.0,True,1,True,14.0,17.1,25.0,67.0,True,2.2,111.446,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,25.0,2.0,SOFT,5.0,True,1,True,10.0,17.0,25.0,68.0,False,1.5,111.741,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,26.0,2.0,SOFT,6.0,True,1,True,8.0,16.8,25.6,69.0,False,1.7,111.297,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,27.0,2.0,SOFT,7.0,True,1,True,8.0,16.9,26.1,69.0,False,1.0,111.707,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,28.0,2.0,SOFT,8.0,True,1,True,8.0,17.1,27.9,68.0,False,1.7,111.705,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,29.0,2.0,SOFT,9.0,True,1,True,8.0,17.4,29.3,66.0,False,1.0,111.919,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,30.0,2.0,SOFT,10.0,True,1,True,8.0,17.6,30.3,66.0,False,1.1,112.035,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,31.0,2.0,SOFT,11.0,True,1,True,8.0,17.7,30.6,65.0,False,1.6,112.203,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,32.0,2.0,SOFT,12.0,True,1,True,8.0,18.1,31.0,62.0,False,2.4,112.218,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,33.0,2.0,SOFT,13.0,True,1,True,8.0,18.4,31.0,61.0,False,2.0,112.139,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,34.0,2.0,SOFT,14.0,True,1,True,8.0,18.5,29.7,61.0,False,1.3,112.367,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,35.0,2.0,SOFT,15.0,True,1,True,8.0,18.4,29.3,60.0,False,0.8,112.258,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,36.0,2.0,SOFT,16.0,True,1,True,8.0,18.8,30.7,59.0,False,1.7,112.884,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,37.0,2.0,SOFT,17.0,True,1,True,8.0,18.9,30.0,59.0,False,1.2,112.569,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,38.0,2.0,SOFT,18.0,True,1,True,8.0,18.8,29.1,60.0,False,2.0,112.315,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,39.0,2.0,SOFT,19.0,True,1,True,8.0,18.7,28.8,62.0,False,2.5,112.605,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,40.0,2.0,SOFT,20.0,True,1,True,8.0,18.8,28.8,61.0,False,1.6,112.617,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,41.0,2.0,SOFT,21.0,True,1,True,9.0,19.0,29.9,61.0,False,1.2,113.416,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,42.0,2.0,SOFT,22.0,True,1,True,9.0,19.1,29.7,59.0,False,1.5,112.736,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,43.0,2.0,SOFT,23.0,True,1,True,9.0,19.1,28.9,60.0,False,1.2,112.632,False,44,2023,12,Belgian Grand Prix,2023_12
+STR,Aston Martin,44.0,2.0,SOFT,24.0,True,12,True,9.0,18.9,28.4,61.0,False,3.2,112.778,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,18.0,29.2,58.0,False,3.0,119.555,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,12,True,8.0,18.0,28.7,60.0,False,2.9,114.71,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,21,True,7.0,18.1,29.4,58.0,False,2.4,113.774,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,18.1,30.1,57.0,False,1.7,115.437,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,18.1,30.6,57.0,False,1.2,113.829,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,18.1,31.4,57.0,False,1.5,114.027,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,18.1,31.5,57.0,False,0.8,113.679,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,18.1,30.6,58.0,False,1.2,113.81,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,False,6.0,18.1,30.1,57.0,False,2.2,118.292,True,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,10.0,2.0,MEDIUM,1.0,True,1,False,11.0,18.2,29.6,58.0,False,1.7,126.819,True,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,11.0,2.0,MEDIUM,2.0,True,1,True,10.0,18.3,29.9,58.0,False,1.2,112.246,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,12.0,2.0,MEDIUM,3.0,True,1,True,9.0,18.2,29.2,60.0,False,2.5,114.228,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,13.0,2.0,MEDIUM,4.0,True,1,True,9.0,18.1,28.8,60.0,False,1.1,112.504,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,14.0,2.0,MEDIUM,5.0,True,1,True,9.0,17.9,28.4,61.0,False,0.8,112.963,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,15.0,2.0,MEDIUM,6.0,True,1,True,9.0,18.0,28.3,61.0,False,1.5,113.326,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,16.0,2.0,MEDIUM,7.0,True,1,True,9.0,18.3,28.8,61.0,False,1.2,113.657,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,17.0,2.0,MEDIUM,8.0,True,1,True,9.0,18.3,28.7,61.0,False,2.9,114.123,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,18.0,2.0,MEDIUM,9.0,True,1,True,9.0,18.2,28.3,61.0,False,1.0,114.752,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,19.0,2.0,MEDIUM,10.0,True,1,True,9.0,18.0,27.9,61.0,False,0.8,115.757,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,20.0,2.0,MEDIUM,11.0,True,1,True,8.0,17.9,27.5,62.0,True,0.3,116.587,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,21.0,2.0,MEDIUM,12.0,True,1,True,8.0,17.7,27.2,63.0,True,1.5,116.674,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,22.0,2.0,MEDIUM,13.0,True,1,True,7.0,17.5,26.0,65.0,True,1.5,117.058,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,23.0,2.0,MEDIUM,14.0,True,1,True,6.0,17.3,25.3,65.0,True,1.3,114.848,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,24.0,2.0,MEDIUM,15.0,True,1,False,6.0,17.1,25.0,67.0,True,2.2,117.947,True,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,25.0,3.0,SOFT,1.0,True,1,False,11.0,17.0,25.0,68.0,False,1.5,126.716,True,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,26.0,3.0,SOFT,2.0,True,1,True,9.0,16.8,25.6,69.0,False,1.7,111.394,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,27.0,3.0,SOFT,3.0,True,1,True,9.0,16.9,26.1,69.0,False,1.0,111.76,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,28.0,3.0,SOFT,4.0,True,1,True,9.0,17.1,27.9,68.0,False,1.7,111.945,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,29.0,3.0,SOFT,5.0,True,1,True,9.0,17.4,29.3,66.0,False,1.0,112.147,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,30.0,3.0,SOFT,6.0,True,1,True,9.0,17.6,30.3,66.0,False,1.1,112.482,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,31.0,3.0,SOFT,7.0,True,1,True,9.0,17.7,30.6,65.0,False,1.6,112.222,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,32.0,3.0,SOFT,8.0,True,1,True,9.0,18.1,31.0,62.0,False,2.4,111.997,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,33.0,3.0,SOFT,9.0,True,1,True,9.0,18.4,31.0,61.0,False,2.0,112.133,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,34.0,3.0,SOFT,10.0,True,1,True,9.0,18.5,29.7,61.0,False,1.3,112.411,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,35.0,3.0,SOFT,11.0,True,1,True,9.0,18.4,29.3,60.0,False,0.8,112.48,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,36.0,3.0,SOFT,12.0,True,1,True,9.0,18.8,30.7,59.0,False,1.7,112.317,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,37.0,3.0,SOFT,13.0,True,1,True,9.0,18.9,30.0,59.0,False,1.2,112.21,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,38.0,3.0,SOFT,14.0,True,1,True,10.0,18.8,29.1,60.0,False,2.0,113.457,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,39.0,3.0,SOFT,15.0,True,1,True,10.0,18.7,28.8,62.0,False,2.5,112.467,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,40.0,3.0,SOFT,16.0,True,1,True,10.0,18.8,28.8,61.0,False,1.6,112.298,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,41.0,3.0,SOFT,17.0,True,1,True,10.0,19.0,29.9,61.0,False,1.2,112.243,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,42.0,3.0,SOFT,18.0,True,1,True,10.0,19.1,29.7,59.0,False,1.5,112.367,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,43.0,3.0,SOFT,19.0,True,1,True,10.0,19.1,28.9,60.0,False,1.2,112.554,False,44,2023,12,Belgian Grand Prix,2023_12
+TSU,AlphaTauri,44.0,3.0,SOFT,20.0,True,12,True,10.0,18.9,28.4,61.0,False,3.2,112.469,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,1.0,1.0,SOFT,1.0,True,1,False,16.0,18.0,29.2,58.0,False,3.0,122.849,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,2.0,1.0,SOFT,2.0,True,12,True,16.0,18.0,28.7,60.0,False,2.9,116.015,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,3.0,1.0,SOFT,3.0,True,21,True,16.0,18.1,29.4,58.0,False,2.4,114.814,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,4.0,1.0,SOFT,4.0,True,1,True,16.0,18.1,30.1,57.0,False,1.7,114.371,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,5.0,1.0,SOFT,5.0,True,1,True,14.0,18.1,30.6,57.0,False,1.2,115.415,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,6.0,1.0,SOFT,6.0,True,1,True,12.0,18.1,31.5,57.0,False,1.8,115.56,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,7.0,1.0,SOFT,7.0,True,1,True,11.0,18.1,30.7,58.0,False,1.8,115.449,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,8.0,1.0,SOFT,8.0,True,1,True,9.0,18.1,30.6,58.0,False,1.2,113.984,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,9.0,1.0,SOFT,9.0,True,1,True,9.0,18.1,30.1,57.0,False,2.2,113.43,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,10.0,1.0,SOFT,10.0,True,1,True,8.0,18.2,29.6,58.0,False,1.7,113.587,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,11.0,1.0,SOFT,11.0,True,1,True,7.0,18.3,29.9,58.0,False,1.2,113.822,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,12.0,1.0,SOFT,12.0,True,1,True,7.0,18.2,29.2,60.0,False,2.5,113.641,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,13.0,1.0,SOFT,13.0,True,1,True,7.0,18.1,28.8,60.0,False,1.1,113.769,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,14.0,1.0,SOFT,14.0,True,1,True,7.0,17.9,28.4,61.0,False,0.8,114.014,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,15.0,1.0,SOFT,15.0,True,1,True,8.0,18.0,28.3,61.0,False,1.5,115.359,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,16.0,1.0,SOFT,16.0,True,1,True,8.0,18.3,28.8,61.0,False,1.2,114.782,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,17.0,1.0,SOFT,17.0,True,1,True,8.0,18.3,28.7,61.0,False,2.9,114.87,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,18.0,1.0,SOFT,18.0,True,1,True,8.0,18.2,28.3,61.0,False,1.0,115.278,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,19.0,1.0,SOFT,19.0,True,1,True,7.0,18.0,27.9,61.0,False,0.8,115.566,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,20.0,1.0,SOFT,20.0,True,1,True,7.0,17.9,27.5,62.0,True,0.3,116.854,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,21.0,1.0,SOFT,21.0,True,1,True,7.0,17.7,27.2,63.0,True,1.5,116.834,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,22.0,1.0,SOFT,22.0,True,1,True,6.0,17.5,26.0,65.0,True,1.5,117.187,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,23.0,1.0,SOFT,23.0,True,1,False,8.0,17.3,25.3,65.0,True,1.3,121.28,True,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,24.0,2.0,MEDIUM,1.0,True,1,False,17.0,17.1,25.0,67.0,True,2.2,129.405,True,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,25.0,2.0,MEDIUM,2.0,True,1,True,13.0,17.0,25.0,68.0,False,1.5,110.911,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,26.0,2.0,MEDIUM,3.0,True,1,True,11.0,16.8,25.6,69.0,False,1.7,111.509,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,27.0,2.0,MEDIUM,4.0,True,1,True,11.0,16.9,26.1,69.0,False,1.0,111.966,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,28.0,2.0,MEDIUM,5.0,True,1,True,11.0,17.1,27.9,68.0,False,1.7,112.131,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,29.0,2.0,MEDIUM,6.0,True,1,True,12.0,17.4,29.3,66.0,False,1.0,113.343,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,30.0,2.0,MEDIUM,7.0,True,1,True,12.0,17.6,30.3,66.0,False,1.1,112.362,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,31.0,2.0,MEDIUM,8.0,True,1,True,12.0,18.0,31.0,63.0,False,1.7,112.866,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,32.0,2.0,MEDIUM,9.0,True,1,True,11.0,18.1,31.0,62.0,False,2.4,113.097,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,33.0,2.0,MEDIUM,10.0,True,1,True,11.0,18.4,31.0,61.0,False,2.0,112.384,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,34.0,2.0,MEDIUM,11.0,True,1,True,11.0,18.5,29.7,61.0,False,1.3,112.246,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,35.0,2.0,MEDIUM,12.0,True,1,True,11.0,18.4,29.3,60.0,False,0.8,112.022,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,36.0,2.0,MEDIUM,13.0,True,1,True,11.0,18.8,30.7,59.0,False,1.7,112.227,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,37.0,2.0,MEDIUM,14.0,True,1,True,11.0,18.9,30.0,59.0,False,1.2,111.902,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,38.0,2.0,MEDIUM,15.0,True,1,True,11.0,18.8,29.1,60.0,False,2.0,111.831,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,39.0,2.0,MEDIUM,16.0,True,1,True,11.0,18.7,28.8,62.0,False,2.5,112.369,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,40.0,2.0,MEDIUM,17.0,True,1,True,11.0,18.8,28.8,61.0,False,1.6,112.084,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,41.0,2.0,MEDIUM,18.0,True,1,True,11.0,19.0,29.9,61.0,False,1.2,111.8,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,42.0,2.0,MEDIUM,19.0,True,1,True,11.0,19.1,29.7,59.0,False,1.5,112.234,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,43.0,2.0,MEDIUM,20.0,True,1,True,11.0,19.1,28.9,60.0,False,1.2,113.022,False,44,2023,12,Belgian Grand Prix,2023_12
+GAS,Alpine,44.0,2.0,MEDIUM,21.0,True,12,True,11.0,18.9,28.4,61.0,False,3.2,113.093,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,1.0,1.0,SOFT,1.0,True,1,False,12.0,18.0,29.2,58.0,False,3.0,121.163,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,2.0,1.0,SOFT,2.0,True,12,True,12.0,18.0,28.7,60.0,False,2.9,115.608,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,3.0,1.0,SOFT,3.0,True,21,True,13.0,18.1,29.4,58.0,False,2.4,114.834,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,True,14.0,18.1,30.1,57.0,False,1.7,115.571,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,True,13.0,18.1,30.6,57.0,False,1.2,115.599,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,6.0,1.0,SOFT,6.0,True,1,False,16.0,18.1,31.5,57.0,False,1.8,120.115,True,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,7.0,2.0,MEDIUM,1.0,True,1,False,19.0,18.1,30.7,58.0,False,1.8,126.796,True,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,8.0,2.0,MEDIUM,2.0,True,1,True,17.0,18.1,30.2,57.0,False,2.7,112.919,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,9.0,2.0,MEDIUM,3.0,True,1,True,16.0,18.2,29.6,57.0,False,3.0,113.499,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,10.0,2.0,MEDIUM,4.0,True,1,True,16.0,18.2,29.6,58.0,False,1.7,113.782,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,11.0,2.0,MEDIUM,5.0,True,1,True,16.0,18.3,29.9,58.0,False,1.2,113.53,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,12.0,2.0,MEDIUM,6.0,True,1,True,16.0,18.2,29.2,60.0,False,2.5,113.411,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,13.0,2.0,MEDIUM,7.0,True,1,True,15.0,18.1,28.8,60.0,False,1.1,113.924,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,14.0,2.0,MEDIUM,8.0,True,1,True,14.0,17.9,28.4,61.0,False,0.8,113.719,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,15.0,2.0,MEDIUM,9.0,True,1,True,14.0,18.0,28.3,61.0,False,1.5,115.311,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,16.0,2.0,MEDIUM,10.0,True,1,True,14.0,18.3,28.8,61.0,False,1.2,114.537,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,17.0,2.0,MEDIUM,11.0,True,1,True,14.0,18.3,28.7,61.0,False,2.9,114.71,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,18.0,2.0,MEDIUM,12.0,True,1,True,14.0,18.1,28.2,61.0,False,3.0,114.982,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,19.0,2.0,MEDIUM,13.0,True,1,True,14.0,17.9,27.8,62.0,False,1.2,115.107,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,20.0,2.0,MEDIUM,14.0,True,1,True,14.0,17.7,27.4,63.0,True,1.0,115.526,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,21.0,2.0,MEDIUM,15.0,True,1,True,13.0,17.7,27.2,63.0,True,1.5,117.084,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,22.0,2.0,MEDIUM,16.0,True,1,True,12.0,17.5,26.0,65.0,True,1.5,116.219,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,23.0,2.0,MEDIUM,17.0,True,1,True,11.0,17.3,25.3,65.0,True,1.3,114.59,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,24.0,2.0,MEDIUM,18.0,True,1,False,11.0,17.1,25.0,67.0,True,2.2,118.044,True,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,25.0,3.0,MEDIUM,1.0,True,1,False,15.0,17.0,25.0,68.0,False,1.5,124.853,True,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,26.0,3.0,MEDIUM,2.0,True,1,True,13.0,16.8,25.6,69.0,False,1.7,110.515,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,27.0,3.0,MEDIUM,3.0,True,1,True,13.0,16.9,26.1,69.0,False,1.0,111.131,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,28.0,3.0,MEDIUM,4.0,True,1,True,13.0,17.1,27.9,68.0,False,1.7,111.46,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,29.0,3.0,MEDIUM,5.0,True,1,True,13.0,17.4,29.3,66.0,False,1.0,111.672,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,30.0,3.0,MEDIUM,6.0,True,1,True,13.0,17.6,30.3,66.0,False,1.1,111.904,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,31.0,3.0,MEDIUM,7.0,True,1,True,13.0,18.0,31.0,63.0,False,1.7,112.128,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,32.0,3.0,MEDIUM,8.0,True,1,True,13.0,18.1,31.0,62.0,False,2.4,112.898,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,33.0,3.0,MEDIUM,9.0,True,1,True,12.0,18.4,31.0,61.0,False,2.0,113.414,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,34.0,3.0,MEDIUM,10.0,True,1,True,12.0,18.5,29.7,61.0,False,1.3,112.188,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,35.0,3.0,MEDIUM,11.0,True,1,True,12.0,18.4,29.3,60.0,False,0.8,112.412,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,36.0,3.0,MEDIUM,12.0,True,1,True,12.0,18.8,30.7,59.0,False,1.7,112.391,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,37.0,3.0,MEDIUM,13.0,True,1,True,12.0,18.9,30.0,59.0,False,1.2,112.129,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,38.0,3.0,MEDIUM,14.0,True,1,True,12.0,18.8,29.1,60.0,False,2.0,112.077,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,39.0,3.0,MEDIUM,15.0,True,1,True,12.0,18.8,28.8,62.0,False,1.7,112.396,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,40.0,3.0,MEDIUM,16.0,True,1,True,12.0,18.8,28.8,61.0,False,1.6,112.344,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,41.0,3.0,MEDIUM,17.0,True,1,True,12.0,19.0,29.9,61.0,False,1.2,112.363,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,42.0,3.0,MEDIUM,18.0,True,1,True,12.0,19.1,29.7,59.0,False,1.5,112.382,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,43.0,3.0,MEDIUM,19.0,True,1,True,12.0,19.1,28.9,60.0,False,1.2,112.17,False,44,2023,12,Belgian Grand Prix,2023_12
+BOT,Alfa Romeo,44.0,3.0,MEDIUM,20.0,True,12,True,12.0,18.9,28.4,61.0,False,3.2,112.234,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,1.0,1.0,SOFT,1.0,True,1,False,14.0,18.0,29.2,58.0,False,3.0,121.921,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,2.0,1.0,SOFT,2.0,True,12,True,14.0,18.0,28.7,60.0,False,2.9,115.929,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,3.0,1.0,SOFT,3.0,True,21,True,15.0,18.1,29.4,58.0,False,2.4,115.198,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,True,15.0,18.1,30.1,57.0,False,1.7,114.639,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,True,15.0,18.1,30.6,57.0,False,1.2,116.11,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,6.0,1.0,SOFT,6.0,True,1,True,13.0,18.1,31.5,57.0,False,1.8,115.867,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,7.0,1.0,SOFT,7.0,True,1,False,14.0,18.1,30.7,58.0,False,1.8,119.727,True,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,8.0,2.0,MEDIUM,1.0,True,1,False,19.0,18.1,30.2,57.0,False,2.7,127.212,True,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,9.0,2.0,MEDIUM,2.0,True,1,True,18.0,18.2,29.6,57.0,False,3.0,112.422,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,10.0,2.0,MEDIUM,3.0,True,1,True,18.0,18.2,29.8,59.0,False,1.8,113.904,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,11.0,2.0,MEDIUM,4.0,True,1,True,17.0,18.3,29.9,58.0,False,1.2,112.645,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,12.0,2.0,MEDIUM,5.0,True,1,True,17.0,18.2,29.2,60.0,False,2.5,113.303,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,13.0,2.0,MEDIUM,6.0,True,1,True,16.0,18.1,28.8,60.0,False,1.1,113.733,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,14.0,2.0,MEDIUM,7.0,True,1,True,16.0,17.9,28.4,61.0,False,0.8,113.927,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,15.0,2.0,MEDIUM,8.0,True,1,True,16.0,18.0,28.3,61.0,False,1.5,114.979,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,16.0,2.0,MEDIUM,9.0,True,1,True,15.0,18.3,28.8,61.0,False,1.2,114.295,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,17.0,2.0,MEDIUM,10.0,True,1,True,15.0,18.3,28.7,61.0,False,2.9,114.886,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,18.0,2.0,MEDIUM,11.0,True,1,True,15.0,18.1,28.2,61.0,False,3.0,115.003,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,19.0,2.0,MEDIUM,12.0,True,1,True,15.0,17.9,27.8,62.0,False,1.2,115.516,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,20.0,2.0,MEDIUM,13.0,True,1,True,15.0,17.7,27.4,63.0,True,1.0,115.451,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,21.0,2.0,MEDIUM,14.0,True,1,True,14.0,17.7,27.2,63.0,True,1.5,115.811,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,22.0,2.0,MEDIUM,15.0,True,1,True,13.0,17.5,26.0,65.0,True,1.5,118.747,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,23.0,2.0,MEDIUM,16.0,True,1,True,14.0,17.3,25.3,65.0,True,1.3,115.68,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,24.0,2.0,MEDIUM,17.0,True,1,True,12.0,17.1,25.0,67.0,True,2.2,114.616,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,25.0,2.0,MEDIUM,18.0,True,1,False,14.0,17.0,25.0,68.0,False,1.5,117.989,True,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,26.0,3.0,SOFT,1.0,True,1,False,18.0,16.8,25.6,69.0,False,1.7,126.229,True,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,27.0,3.0,SOFT,2.0,True,1,True,18.0,16.9,26.1,69.0,False,1.0,110.188,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,28.0,3.0,SOFT,3.0,True,1,True,18.0,17.1,27.9,68.0,False,1.7,111.466,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,29.0,3.0,SOFT,4.0,True,1,True,18.0,17.4,29.3,66.0,False,1.0,112.052,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,30.0,3.0,SOFT,5.0,True,1,True,18.0,17.6,30.3,66.0,False,1.1,112.82,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,31.0,3.0,SOFT,6.0,True,1,True,18.0,18.0,31.0,63.0,False,1.7,112.35,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,32.0,3.0,SOFT,7.0,True,1,True,18.0,18.3,31.1,61.0,False,2.7,112.247,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,33.0,3.0,SOFT,8.0,True,1,True,17.0,18.4,31.0,61.0,False,2.0,111.506,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,34.0,3.0,SOFT,9.0,True,1,True,16.0,18.5,29.7,61.0,False,1.3,112.052,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,35.0,3.0,SOFT,10.0,True,1,True,16.0,18.4,29.3,60.0,False,0.8,112.507,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,36.0,3.0,SOFT,11.0,True,1,True,16.0,18.8,30.7,59.0,False,1.7,112.809,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,37.0,3.0,SOFT,12.0,True,1,True,16.0,18.9,30.0,59.0,False,1.2,112.981,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,38.0,3.0,SOFT,13.0,True,1,True,16.0,18.8,29.1,60.0,False,2.0,113.446,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,39.0,3.0,SOFT,14.0,True,1,True,15.0,18.8,28.8,62.0,False,1.7,113.017,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,40.0,3.0,SOFT,15.0,True,1,True,14.0,18.9,29.0,62.0,False,1.5,111.884,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,41.0,3.0,SOFT,16.0,True,1,True,14.0,19.0,29.9,61.0,False,1.2,113.108,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,42.0,3.0,SOFT,17.0,True,1,True,13.0,19.1,29.7,59.0,False,1.5,111.69,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,43.0,3.0,SOFT,18.0,True,1,True,13.0,19.1,28.9,60.0,False,1.2,112.023,False,44,2023,12,Belgian Grand Prix,2023_12
+ZHO,Alfa Romeo,44.0,3.0,SOFT,19.0,True,12,True,13.0,18.9,28.4,61.0,False,3.2,112.006,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,1.0,1.0,SOFT,1.0,True,1,False,10.0,18.0,29.2,58.0,False,3.0,120.359,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,2.0,1.0,SOFT,2.0,True,12,True,9.0,18.0,28.7,60.0,False,2.9,114.821,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,3.0,1.0,SOFT,3.0,True,21,True,9.0,18.1,29.4,58.0,False,2.4,113.907,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,4.0,1.0,SOFT,4.0,True,1,True,8.0,18.1,30.1,57.0,False,1.7,115.004,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,5.0,1.0,SOFT,5.0,True,1,True,7.0,18.1,30.6,57.0,False,1.2,115.653,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,6.0,1.0,SOFT,6.0,True,1,True,7.0,18.1,31.5,57.0,False,1.8,114.309,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,7.0,1.0,SOFT,7.0,True,1,False,9.0,18.1,31.5,57.0,False,0.8,118.541,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,8.0,2.0,MEDIUM,1.0,True,1,False,13.0,18.1,30.6,58.0,False,1.2,127.31,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,9.0,2.0,MEDIUM,2.0,True,1,True,11.0,18.2,29.6,57.0,False,3.0,111.937,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,10.0,2.0,MEDIUM,3.0,True,1,True,10.0,18.2,29.6,58.0,False,1.7,111.774,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,11.0,2.0,MEDIUM,4.0,True,1,True,11.0,18.3,29.9,58.0,False,1.2,113.93,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,12.0,2.0,MEDIUM,5.0,True,1,True,10.0,18.2,29.2,60.0,False,2.5,113.815,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,13.0,2.0,MEDIUM,6.0,True,1,True,10.0,18.1,28.8,60.0,False,1.1,113.705,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,14.0,2.0,MEDIUM,7.0,True,1,True,10.0,17.9,28.4,61.0,False,0.8,113.822,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,15.0,2.0,MEDIUM,8.0,True,1,True,10.0,18.0,28.3,61.0,False,1.5,114.522,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,16.0,2.0,MEDIUM,9.0,True,1,True,11.0,18.3,28.8,61.0,False,1.2,115.068,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,17.0,2.0,MEDIUM,10.0,True,1,True,11.0,18.3,28.7,61.0,False,2.9,114.996,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,18.0,2.0,MEDIUM,11.0,True,1,True,11.0,18.1,28.2,61.0,False,3.0,114.701,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,19.0,2.0,MEDIUM,12.0,True,1,True,11.0,18.0,27.9,61.0,False,0.8,115.183,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,20.0,2.0,MEDIUM,13.0,True,1,True,10.0,17.9,27.5,62.0,True,0.3,116.307,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,21.0,2.0,MEDIUM,14.0,True,1,True,10.0,17.7,27.2,63.0,True,1.5,116.16,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,22.0,2.0,MEDIUM,15.0,True,1,True,9.0,17.5,26.0,65.0,True,1.5,115.435,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,23.0,2.0,MEDIUM,16.0,True,1,False,10.0,17.3,25.3,65.0,True,1.3,119.277,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,24.0,3.0,MEDIUM,1.0,True,1,False,15.0,17.1,25.0,67.0,True,2.2,126.441,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,25.0,3.0,MEDIUM,2.0,True,1,True,12.0,17.0,25.0,68.0,False,1.5,111.432,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,26.0,3.0,MEDIUM,3.0,True,1,True,10.0,16.8,25.6,69.0,False,1.7,111.563,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,27.0,3.0,MEDIUM,4.0,True,1,True,10.0,16.9,26.1,69.0,False,1.0,111.888,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,28.0,3.0,MEDIUM,5.0,True,1,True,10.0,17.1,27.9,68.0,False,1.7,112.076,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,29.0,3.0,MEDIUM,6.0,True,1,True,10.0,17.4,29.3,66.0,False,1.0,112.691,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,30.0,3.0,MEDIUM,7.0,True,1,True,11.0,17.6,30.3,66.0,False,1.1,113.203,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,31.0,3.0,MEDIUM,8.0,True,1,True,11.0,18.0,31.0,63.0,False,1.7,112.731,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,32.0,3.0,MEDIUM,9.0,True,1,True,12.0,18.1,31.0,62.0,False,2.4,114.306,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,33.0,3.0,MEDIUM,10.0,True,1,False,15.0,18.4,31.0,61.0,False,2.0,117.737,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,34.0,4.0,SOFT,1.0,True,1,False,18.0,18.5,29.7,61.0,False,1.3,125.488,True,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,35.0,4.0,SOFT,2.0,True,1,True,17.0,18.4,29.3,60.0,False,0.8,109.841,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,36.0,4.0,SOFT,3.0,True,1,True,17.0,18.8,30.7,59.0,False,1.7,110.82,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,37.0,4.0,SOFT,4.0,True,1,True,17.0,18.9,30.0,59.0,False,1.2,111.065,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,38.0,4.0,SOFT,5.0,True,1,True,17.0,18.8,29.1,60.0,False,2.0,111.575,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,39.0,4.0,SOFT,6.0,True,1,True,17.0,18.8,28.8,62.0,False,1.7,112.918,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,40.0,4.0,SOFT,7.0,True,1,True,15.0,18.9,29.0,62.0,False,1.5,112.75,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,41.0,4.0,SOFT,8.0,True,1,True,15.0,19.0,29.9,61.0,False,1.2,112.064,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,42.0,4.0,SOFT,9.0,True,1,True,14.0,19.1,29.7,59.0,False,1.5,112.918,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,43.0,4.0,SOFT,10.0,True,1,True,14.0,19.1,28.9,60.0,False,1.2,111.14,False,44,2023,12,Belgian Grand Prix,2023_12
+ALB,Williams,44.0,4.0,SOFT,11.0,True,12,True,14.0,18.9,28.4,61.0,False,3.2,111.451,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,1.0,1.0,SOFT,1.0,True,1,False,18.0,18.0,29.2,58.0,False,3.0,123.83,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,2.0,1.0,SOFT,2.0,True,12,True,18.0,18.0,28.7,60.0,False,2.9,115.592,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,3.0,1.0,SOFT,3.0,True,21,True,18.0,18.1,29.4,58.0,False,2.4,115.403,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,4.0,1.0,SOFT,4.0,True,1,True,18.0,18.1,30.1,57.0,False,1.7,114.635,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,5.0,1.0,SOFT,5.0,True,1,False,18.0,18.1,30.6,57.0,False,1.2,119.429,True,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,6.0,2.0,MEDIUM,1.0,True,1,False,18.0,18.1,31.5,57.0,False,1.8,126.556,True,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,7.0,2.0,MEDIUM,2.0,True,1,True,15.0,18.1,30.7,58.0,False,1.8,111.534,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,8.0,2.0,MEDIUM,3.0,True,1,True,12.0,18.1,30.2,57.0,False,2.7,112.645,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,9.0,2.0,MEDIUM,4.0,True,1,True,12.0,18.2,29.6,57.0,False,3.0,113.819,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,10.0,2.0,MEDIUM,5.0,True,1,True,13.0,18.2,29.6,58.0,False,1.7,114.01,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,11.0,2.0,MEDIUM,6.0,True,1,True,13.0,18.3,29.9,58.0,False,1.2,113.589,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,12.0,2.0,MEDIUM,7.0,True,1,True,13.0,18.2,29.2,60.0,False,2.5,113.828,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,13.0,2.0,MEDIUM,8.0,True,1,True,12.0,18.1,28.8,60.0,False,1.1,114.086,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,14.0,2.0,MEDIUM,9.0,True,1,True,12.0,17.9,28.4,61.0,False,0.8,114.434,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,15.0,2.0,MEDIUM,10.0,True,1,True,12.0,18.0,28.3,61.0,False,1.5,115.185,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,16.0,2.0,MEDIUM,11.0,True,1,True,12.0,18.3,28.8,61.0,False,1.2,114.434,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,17.0,2.0,MEDIUM,12.0,True,1,True,12.0,18.3,28.7,61.0,False,2.9,114.689,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,18.0,2.0,MEDIUM,13.0,True,1,True,12.0,18.1,28.2,61.0,False,3.0,114.812,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,19.0,2.0,MEDIUM,14.0,True,1,True,12.0,17.9,27.8,62.0,False,1.2,114.843,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,20.0,2.0,MEDIUM,15.0,True,1,True,12.0,17.9,27.5,62.0,True,0.3,115.621,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,21.0,2.0,MEDIUM,16.0,True,1,True,11.0,17.7,27.2,63.0,True,1.5,116.026,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,22.0,2.0,MEDIUM,17.0,True,1,True,11.0,17.5,26.0,65.0,True,1.5,116.72,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,23.0,2.0,MEDIUM,18.0,True,1,True,9.0,17.3,25.3,65.0,True,1.3,114.764,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,24.0,2.0,MEDIUM,19.0,True,1,True,8.0,17.1,25.0,67.0,True,2.2,114.351,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,25.0,2.0,MEDIUM,20.0,True,1,False,9.0,17.0,25.0,68.0,False,1.5,118.299,True,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,26.0,3.0,MEDIUM,1.0,True,1,False,14.0,16.8,25.6,69.0,False,1.7,125.615,True,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,27.0,3.0,MEDIUM,2.0,True,1,True,14.0,16.9,26.1,69.0,False,1.0,110.993,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,28.0,3.0,MEDIUM,3.0,True,1,True,14.0,17.1,27.9,68.0,False,1.7,111.362,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,29.0,3.0,MEDIUM,4.0,True,1,True,14.0,17.4,29.3,66.0,False,1.0,111.804,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,30.0,3.0,MEDIUM,5.0,True,1,True,14.0,17.6,30.3,66.0,False,1.1,112.039,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,31.0,3.0,MEDIUM,6.0,True,1,True,14.0,18.0,31.0,63.0,False,1.7,112.541,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,32.0,3.0,MEDIUM,7.0,True,1,True,14.0,18.1,31.0,62.0,False,2.4,112.826,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,33.0,3.0,MEDIUM,8.0,True,1,True,13.0,18.4,31.0,61.0,False,2.0,112.814,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,34.0,3.0,MEDIUM,9.0,True,1,True,13.0,18.5,29.7,61.0,False,1.3,112.789,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,35.0,3.0,MEDIUM,10.0,True,1,True,13.0,18.4,29.3,60.0,False,0.8,113.23,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,36.0,3.0,MEDIUM,11.0,True,1,True,13.0,18.8,30.7,59.0,False,1.7,113.437,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,37.0,3.0,MEDIUM,12.0,True,1,True,13.0,18.9,30.0,59.0,False,1.2,113.413,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,38.0,3.0,MEDIUM,13.0,True,1,True,13.0,18.8,29.1,60.0,False,2.0,113.103,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,39.0,3.0,MEDIUM,14.0,True,1,True,13.0,18.8,28.8,62.0,False,1.7,113.436,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,40.0,3.0,MEDIUM,15.0,True,1,True,13.0,18.9,29.0,62.0,False,1.5,113.598,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,41.0,3.0,MEDIUM,16.0,True,1,True,13.0,19.0,29.9,61.0,False,1.2,113.446,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,42.0,3.0,MEDIUM,17.0,True,1,True,15.0,19.1,29.7,59.0,False,1.5,115.236,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,43.0,3.0,MEDIUM,18.0,True,1,True,15.0,19.1,28.9,60.0,False,1.2,113.95,False,44,2023,12,Belgian Grand Prix,2023_12
+MAG,Haas F1 Team,44.0,3.0,MEDIUM,19.0,True,12,True,15.0,18.9,28.4,61.0,False,3.2,113.438,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,1.0,1.0,SOFT,1.0,True,1,False,19.0,18.0,29.2,58.0,False,3.0,124.175,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,2.0,1.0,SOFT,2.0,True,12,True,19.0,18.0,28.7,60.0,False,2.9,116.01,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,3.0,1.0,SOFT,3.0,True,21,True,19.0,18.1,29.4,58.0,False,2.4,115.204,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,True,19.0,18.1,30.1,57.0,False,1.7,114.815,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,False,19.0,18.1,30.6,57.0,False,1.2,119.336,True,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,6.0,2.0,MEDIUM,1.0,True,1,False,19.0,18.1,31.5,57.0,False,1.8,127.338,True,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,7.0,2.0,MEDIUM,2.0,True,1,True,18.0,18.1,30.7,58.0,False,1.8,112.398,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,8.0,2.0,MEDIUM,3.0,True,1,True,16.0,18.1,30.2,57.0,False,2.7,112.975,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,9.0,2.0,MEDIUM,4.0,True,1,True,15.0,18.2,29.6,57.0,False,3.0,113.378,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,10.0,2.0,MEDIUM,5.0,True,1,True,14.0,18.2,29.6,58.0,False,1.7,113.034,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,11.0,2.0,MEDIUM,6.0,True,1,True,14.0,18.3,29.9,58.0,False,1.2,113.369,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,12.0,2.0,MEDIUM,7.0,True,1,True,14.0,18.2,29.2,60.0,False,2.5,113.535,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,13.0,2.0,MEDIUM,8.0,True,1,True,13.0,18.1,28.8,60.0,False,1.1,114.036,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,14.0,2.0,MEDIUM,9.0,True,1,True,13.0,17.9,28.4,61.0,False,0.8,114.323,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,15.0,2.0,MEDIUM,10.0,True,1,True,13.0,18.0,28.3,61.0,False,1.5,115.31,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,16.0,2.0,MEDIUM,11.0,True,1,True,13.0,18.3,28.8,61.0,False,1.2,114.625,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,17.0,2.0,MEDIUM,12.0,True,1,True,13.0,18.3,28.7,61.0,False,2.9,114.58,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,18.0,2.0,MEDIUM,13.0,True,1,True,13.0,18.1,28.2,61.0,False,3.0,114.826,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,19.0,2.0,MEDIUM,14.0,True,1,True,13.0,17.9,27.8,62.0,False,1.2,115.001,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,20.0,2.0,MEDIUM,15.0,True,1,True,13.0,17.9,27.5,62.0,True,0.3,115.672,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,21.0,2.0,MEDIUM,16.0,True,1,True,12.0,17.7,27.2,63.0,True,1.5,117.354,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,22.0,2.0,MEDIUM,17.0,True,1,False,17.0,17.5,26.0,65.0,True,1.5,125.575,True,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,23.0,3.0,MEDIUM,1.0,True,1,False,18.0,17.3,25.3,65.0,True,1.3,129.835,True,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,24.0,3.0,MEDIUM,2.0,True,1,True,18.0,17.0,25.0,68.0,True,1.7,111.719,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,25.0,3.0,MEDIUM,3.0,True,1,True,16.0,17.0,25.0,68.0,False,1.5,110.994,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,26.0,3.0,MEDIUM,4.0,True,1,True,16.0,16.8,25.6,69.0,False,1.7,111.932,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,27.0,3.0,MEDIUM,5.0,True,1,True,16.0,16.9,26.1,69.0,False,1.0,111.567,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,28.0,3.0,MEDIUM,6.0,True,1,True,16.0,17.1,27.9,68.0,False,1.7,111.634,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,29.0,3.0,MEDIUM,7.0,True,1,True,16.0,17.4,29.3,66.0,False,1.0,112.143,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,30.0,3.0,MEDIUM,8.0,True,1,True,16.0,17.6,30.3,66.0,False,1.1,111.975,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,31.0,3.0,MEDIUM,9.0,True,1,True,16.0,18.0,31.0,63.0,False,1.7,112.068,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,32.0,3.0,MEDIUM,10.0,True,1,True,16.0,18.3,31.1,61.0,False,2.7,112.419,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,33.0,3.0,MEDIUM,11.0,True,1,True,16.0,18.4,31.0,61.0,False,2.0,112.469,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,34.0,3.0,MEDIUM,12.0,True,1,True,15.0,18.5,29.7,61.0,False,1.3,112.824,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,35.0,3.0,MEDIUM,13.0,True,1,True,15.0,18.4,29.3,60.0,False,0.8,113.391,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,36.0,3.0,MEDIUM,14.0,True,1,True,15.0,18.8,30.7,59.0,False,1.7,113.215,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,37.0,3.0,MEDIUM,15.0,True,1,True,15.0,18.9,30.0,59.0,False,1.2,113.131,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,38.0,3.0,MEDIUM,16.0,True,1,True,15.0,18.8,29.1,60.0,False,2.0,113.461,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,39.0,3.0,MEDIUM,17.0,True,1,True,16.0,18.8,28.8,62.0,False,1.7,114.52,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,40.0,3.0,MEDIUM,18.0,True,1,True,17.0,18.9,29.0,62.0,False,1.5,114.361,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,41.0,3.0,MEDIUM,19.0,True,1,True,17.0,19.0,30.0,60.0,False,1.5,113.367,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,42.0,3.0,MEDIUM,20.0,True,1,True,16.0,19.1,29.7,59.0,False,1.5,115.247,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,43.0,3.0,MEDIUM,21.0,True,1,True,16.0,19.1,28.9,60.0,False,1.2,112.115,False,44,2023,12,Belgian Grand Prix,2023_12
+RIC,AlphaTauri,44.0,3.0,MEDIUM,22.0,True,12,True,16.0,18.9,28.4,61.0,False,3.2,112.265,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,1.0,1.0,SOFT,1.0,True,1,False,15.0,18.0,29.2,58.0,False,3.0,122.372,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,2.0,1.0,SOFT,2.0,True,12,True,15.0,18.0,28.7,60.0,False,2.9,115.985,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,3.0,1.0,SOFT,3.0,True,21,True,14.0,18.1,29.4,58.0,False,2.4,114.142,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,4.0,1.0,SOFT,4.0,True,1,True,13.0,18.1,30.1,57.0,False,1.7,114.152,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,5.0,1.0,SOFT,5.0,True,1,True,12.0,18.1,30.6,57.0,False,1.2,115.729,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,6.0,1.0,SOFT,6.0,True,1,True,11.0,18.1,31.5,57.0,False,1.8,115.947,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,7.0,1.0,SOFT,7.0,True,1,True,10.0,18.1,31.5,57.0,False,0.8,115.4,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,8.0,1.0,SOFT,8.0,True,1,False,11.0,18.1,30.6,58.0,False,1.2,118.908,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,9.0,2.0,MEDIUM,1.0,True,1,False,19.0,18.1,30.1,57.0,False,2.2,127.068,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,10.0,2.0,MEDIUM,2.0,True,1,True,19.0,18.2,29.8,59.0,False,1.8,113.736,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,11.0,2.0,MEDIUM,3.0,True,1,True,19.0,18.3,29.9,58.0,False,1.2,114.844,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,12.0,2.0,MEDIUM,4.0,True,1,True,19.0,18.2,29.2,60.0,False,2.5,115.497,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,13.0,2.0,MEDIUM,5.0,True,1,True,18.0,18.1,28.8,60.0,False,1.1,114.596,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,14.0,2.0,MEDIUM,6.0,True,1,True,18.0,17.9,28.4,61.0,False,0.8,114.962,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,15.0,2.0,MEDIUM,7.0,True,1,True,18.0,18.0,28.3,61.0,False,1.5,115.749,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,16.0,2.0,MEDIUM,8.0,True,1,True,17.0,18.3,28.8,61.0,False,1.2,113.822,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,17.0,2.0,MEDIUM,9.0,True,1,True,17.0,18.3,28.7,61.0,False,2.9,114.913,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,18.0,2.0,MEDIUM,10.0,True,1,True,17.0,18.1,28.2,61.0,False,3.0,115.069,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,19.0,2.0,MEDIUM,11.0,True,1,True,17.0,17.9,27.8,62.0,False,1.2,114.603,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,20.0,2.0,MEDIUM,12.0,True,1,True,17.0,17.7,27.4,63.0,True,1.0,115.579,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,21.0,2.0,MEDIUM,13.0,True,1,True,16.0,17.6,27.2,63.0,True,1.5,115.771,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,22.0,2.0,MEDIUM,14.0,True,1,True,16.0,17.5,26.0,65.0,True,1.5,115.602,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,23.0,2.0,MEDIUM,15.0,True,1,True,16.0,17.3,25.3,65.0,True,1.3,114.853,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,24.0,2.0,MEDIUM,16.0,True,1,False,16.0,17.1,25.0,67.0,True,2.2,118.451,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,25.0,3.0,MEDIUM,1.0,True,1,False,18.0,17.0,25.0,68.0,False,1.5,125.126,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,26.0,3.0,MEDIUM,2.0,True,1,True,17.0,16.8,25.6,69.0,False,1.7,110.667,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,27.0,3.0,MEDIUM,3.0,True,1,True,17.0,16.9,26.1,69.0,False,1.0,111.329,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,28.0,3.0,MEDIUM,4.0,True,1,True,17.0,17.1,27.9,68.0,False,1.7,111.821,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,29.0,3.0,MEDIUM,5.0,True,1,True,17.0,17.4,29.3,66.0,False,1.0,112.192,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,30.0,3.0,MEDIUM,6.0,True,1,True,17.0,17.6,30.3,66.0,False,1.1,112.727,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,31.0,3.0,MEDIUM,7.0,True,1,True,17.0,18.0,31.0,63.0,False,1.7,112.285,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,32.0,3.0,MEDIUM,8.0,True,1,True,17.0,18.3,31.1,61.0,False,2.7,112.6,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,33.0,3.0,MEDIUM,9.0,True,1,True,18.0,18.4,31.0,61.0,False,2.0,113.556,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,34.0,3.0,MEDIUM,10.0,True,1,False,17.0,18.5,29.7,61.0,False,1.3,117.484,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,35.0,4.0,SOFT,1.0,True,1,False,18.0,18.4,29.3,60.0,False,0.8,124.478,True,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,36.0,4.0,SOFT,2.0,True,1,True,18.0,18.8,30.7,59.0,False,1.7,110.236,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,37.0,4.0,SOFT,3.0,True,1,True,18.0,18.9,30.0,59.0,False,1.2,110.486,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,38.0,4.0,SOFT,4.0,True,1,True,18.0,18.8,29.1,60.0,False,2.0,110.818,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,39.0,4.0,SOFT,5.0,True,1,True,18.0,18.8,28.8,62.0,False,1.7,111.513,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,40.0,4.0,SOFT,6.0,True,1,True,18.0,18.9,29.0,62.0,False,1.5,112.082,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,41.0,4.0,SOFT,7.0,True,1,True,18.0,19.0,30.0,60.0,False,1.5,111.581,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,42.0,4.0,SOFT,8.0,True,1,True,18.0,19.1,29.7,59.0,False,1.5,112.364,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,43.0,4.0,SOFT,9.0,True,1,True,17.0,19.1,28.9,60.0,False,1.2,111.241,False,44,2023,12,Belgian Grand Prix,2023_12
+SAR,Williams,44.0,4.0,SOFT,10.0,True,12,True,17.0,18.9,28.4,61.0,False,3.2,112.59,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,18.0,29.2,58.0,False,3.0,123.27,True,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,12,True,17.0,18.0,28.7,60.0,False,2.9,115.743,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,21,True,17.0,18.1,29.4,58.0,False,2.4,115.176,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,18.1,30.1,57.0,False,1.7,114.581,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,18.1,30.6,57.0,False,1.2,115.53,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,18.1,31.5,57.0,False,1.8,115.923,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,18.1,30.7,58.0,False,1.8,115.607,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,18.1,30.6,58.0,False,1.2,114.741,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,18.1,30.1,57.0,False,2.2,115.36,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,18.2,29.6,58.0,False,1.7,114.655,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,18.3,29.9,58.0,False,1.2,114.262,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,False,12.0,18.2,29.2,60.0,False,2.5,119.37,True,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,13.0,2.0,SOFT,1.0,True,1,False,19.0,18.1,28.8,60.0,False,1.1,127.044,True,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,14.0,2.0,SOFT,2.0,True,1,True,19.0,17.9,28.4,61.0,False,0.8,112.348,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,15.0,2.0,SOFT,3.0,True,1,True,19.0,18.0,28.3,61.0,False,1.5,115.586,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,16.0,2.0,SOFT,4.0,True,1,True,18.0,18.3,28.8,61.0,False,1.2,113.91,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,17.0,2.0,SOFT,5.0,True,1,True,18.0,18.3,28.7,61.0,False,2.9,114.852,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,18.0,2.0,SOFT,6.0,True,1,True,16.0,18.1,28.2,61.0,False,3.0,112.937,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,19.0,2.0,SOFT,7.0,True,1,True,16.0,17.9,27.8,62.0,False,1.2,113.743,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,20.0,2.0,SOFT,8.0,True,1,True,16.0,17.7,27.4,63.0,True,1.0,114.393,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,21.0,2.0,SOFT,9.0,True,1,True,15.0,17.6,27.2,63.0,True,1.5,114.691,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,22.0,2.0,SOFT,10.0,True,1,True,14.0,17.5,26.0,65.0,True,1.5,117.8,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,23.0,2.0,SOFT,11.0,True,1,True,12.0,17.3,25.3,65.0,True,1.3,113.292,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,24.0,2.0,SOFT,12.0,True,1,False,13.0,17.1,25.0,67.0,True,2.2,117.257,True,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,25.0,3.0,SOFT,1.0,True,1,False,17.0,17.0,25.0,68.0,False,1.5,127.746,True,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,26.0,3.0,SOFT,2.0,True,1,True,15.0,16.8,25.6,69.0,False,1.7,109.907,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,27.0,3.0,SOFT,3.0,True,1,True,15.0,16.9,26.1,69.0,False,1.0,111.225,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,28.0,3.0,SOFT,4.0,True,1,True,15.0,17.1,27.9,68.0,False,1.7,111.545,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,29.0,3.0,SOFT,5.0,True,1,True,15.0,17.4,29.3,66.0,False,1.0,111.844,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,30.0,3.0,SOFT,6.0,True,1,True,15.0,17.6,30.3,66.0,False,1.1,112.495,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,31.0,3.0,SOFT,7.0,True,1,True,15.0,18.0,31.0,63.0,False,1.7,112.588,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,32.0,3.0,SOFT,8.0,True,1,True,15.0,18.3,31.1,61.0,False,2.7,112.332,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,33.0,3.0,SOFT,9.0,True,1,True,14.0,18.4,31.0,61.0,False,2.0,112.601,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,34.0,3.0,SOFT,10.0,True,1,True,14.0,18.5,29.7,61.0,False,1.3,113.056,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,35.0,3.0,SOFT,11.0,True,1,True,14.0,18.4,29.3,60.0,False,0.8,113.676,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,36.0,3.0,SOFT,12.0,True,1,True,14.0,18.8,30.7,59.0,False,1.7,113.401,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,37.0,3.0,SOFT,13.0,True,1,True,14.0,18.9,30.0,59.0,False,1.2,113.019,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,38.0,3.0,SOFT,14.0,True,1,True,14.0,18.8,29.1,60.0,False,2.0,113.621,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,39.0,3.0,SOFT,15.0,True,1,True,14.0,18.8,28.8,62.0,False,1.7,113.522,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,40.0,3.0,SOFT,16.0,True,1,True,16.0,18.9,29.0,62.0,False,1.5,115.26,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,41.0,3.0,SOFT,17.0,True,1,True,16.0,19.0,30.0,60.0,False,1.5,113.845,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,42.0,3.0,SOFT,18.0,True,1,True,17.0,19.1,29.7,59.0,False,1.5,116.987,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,43.0,3.0,SOFT,19.0,True,1,True,18.0,19.1,28.9,60.0,False,1.2,115.314,False,44,2023,12,Belgian Grand Prix,2023_12
+HUL,Haas F1 Team,44.0,3.0,SOFT,20.0,True,12,True,18.0,18.9,28.4,61.0,False,3.2,114.845,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,1.0,1.0,SOFT,1.0,True,1,False,5.0,18.0,29.2,58.0,False,3.0,117.901,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,2.0,1.0,SOFT,2.0,True,12,True,5.0,18.0,28.7,60.0,False,2.9,114.247,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,3.0,1.0,SOFT,3.0,True,21,True,5.0,18.1,29.4,58.0,False,2.4,114.718,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,4.0,1.0,SOFT,4.0,True,1,True,6.0,18.1,30.1,57.0,False,1.7,116.245,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,5.0,1.0,SOFT,5.0,True,1,True,8.0,18.1,30.6,57.0,False,1.2,116.974,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,6.0,1.0,SOFT,6.0,True,1,True,10.0,18.1,31.5,57.0,False,1.8,117.26,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,7.0,1.0,SOFT,7.0,True,1,False,13.0,18.1,31.5,57.0,False,0.8,121.147,True,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,8.0,2.0,MEDIUM,1.0,True,1,False,18.0,18.1,30.6,58.0,False,1.2,126.929,True,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,9.0,2.0,MEDIUM,2.0,True,1,True,17.0,18.2,29.6,57.0,False,3.0,113.138,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,10.0,2.0,MEDIUM,3.0,True,1,True,17.0,18.2,29.6,58.0,False,1.7,113.893,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,11.0,2.0,MEDIUM,4.0,True,1,True,18.0,18.3,29.9,58.0,False,1.2,115.201,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,12.0,2.0,MEDIUM,5.0,True,1,True,18.0,18.2,29.2,60.0,False,2.5,115.119,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,13.0,2.0,MEDIUM,6.0,True,1,True,17.0,18.1,28.8,60.0,False,1.1,114.907,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,14.0,2.0,MEDIUM,7.0,True,1,True,17.0,17.9,28.4,61.0,False,0.8,115.076,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,15.0,2.0,MEDIUM,8.0,True,1,True,17.0,18.0,28.3,61.0,False,1.5,115.834,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,16.0,2.0,MEDIUM,9.0,True,1,True,19.0,18.3,28.8,61.0,False,1.2,117.532,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,17.0,2.0,MEDIUM,10.0,True,1,True,19.0,18.3,28.7,61.0,False,2.9,116.062,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,18.0,2.0,MEDIUM,11.0,True,1,True,18.0,18.1,28.2,61.0,False,3.0,116.221,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,19.0,2.0,MEDIUM,12.0,True,1,True,19.0,17.9,27.8,62.0,False,1.2,117.541,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,20.0,2.0,MEDIUM,13.0,True,1,True,19.0,17.7,27.4,63.0,True,1.0,116.426,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,21.0,2.0,MEDIUM,14.0,True,1,True,19.0,17.6,27.2,63.0,True,1.5,120.162,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,22.0,2.0,MEDIUM,15.0,True,1,True,19.0,17.4,25.6,65.0,True,1.7,117.949,False,44,2023,12,Belgian Grand Prix,2023_12
+SAI,Ferrari,23.0,2.0,MEDIUM,16.0,True,1,False,19.0,17.1,25.1,66.0,True,1.7,123.363,True,44,2023,12,Belgian Grand Prix,2023_12
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,,18.0,29.2,58.0,False,3.0,,False,44,2023,12,Belgian Grand Prix,2023_12

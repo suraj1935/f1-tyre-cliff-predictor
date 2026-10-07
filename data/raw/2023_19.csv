@@ -1,0 +1,1283 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,12,False,1.0,24.5,48.1,28.0,False,1.1,85.653,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,24.5,48.1,28.0,False,1.2,83.859,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,24.6,48.6,27.0,False,0.6,83.573,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,24.8,48.2,26.0,False,2.2,83.708,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,167,False,1.0,24.8,47.5,26.0,False,2.0,104.819,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,24.9,47.5,27.0,False,2.0,83.339,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,25.0,47.0,27.0,False,2.4,83.453,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,12,True,1.0,25.1,47.0,27.0,False,1.2,83.357,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,25.3,47.0,27.0,False,2.2,83.218,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,25.4,47.2,28.0,False,2.0,83.276,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,25.4,47.2,28.0,False,2.0,83.626,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,25.4,47.4,27.0,False,3.7,83.644,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,25.4,47.4,25.0,False,1.7,83.792,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,25.5,47.6,24.0,False,1.1,83.695,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,25.6,47.4,22.0,False,0.6,83.714,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,25.7,47.4,23.0,False,1.2,83.585,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,25.7,47.5,22.0,False,1.2,83.644,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,25.6,47.1,22.0,False,1.1,83.927,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,False,1.0,25.5,47.7,22.0,False,2.4,86.825,True,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,20.0,2.0,HARD,1.0,True,1,False,7.0,25.5,47.2,25.0,False,2.2,101.221,True,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,21.0,2.0,HARD,2.0,True,1,True,7.0,25.6,47.5,22.0,False,3.2,82.643,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,22.0,2.0,HARD,3.0,True,1,True,6.0,25.6,47.0,23.0,False,0.8,82.622,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,23.0,2.0,HARD,4.0,True,1,True,5.0,25.7,47.0,23.0,False,1.2,82.781,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,24.0,2.0,HARD,5.0,True,1,True,5.0,25.8,47.5,22.0,False,0.8,83.762,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,25.0,2.0,HARD,6.0,True,1,True,3.0,25.8,47.6,22.0,False,1.2,82.354,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,26.0,2.0,HARD,7.0,True,1,True,3.0,25.8,47.4,22.0,False,2.2,82.972,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,27.0,2.0,HARD,8.0,True,1,True,3.0,25.8,46.8,22.0,False,1.2,83.023,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,28.0,2.0,HARD,9.0,True,1,True,3.0,25.8,46.6,22.0,False,0.8,83.162,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,29.0,2.0,HARD,10.0,True,1,True,2.0,25.7,46.8,22.0,False,0.5,82.224,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,30.0,2.0,HARD,11.0,True,1,True,2.0,25.7,46.8,22.0,False,1.2,82.904,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,31.0,2.0,HARD,12.0,True,1,True,2.0,25.7,46.5,22.0,False,1.1,83.436,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,32.0,2.0,HARD,13.0,True,1,True,1.0,25.7,46.7,23.0,False,0.6,83.204,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,33.0,2.0,HARD,14.0,True,124,False,1.0,25.8,46.7,22.0,False,0.0,95.664,True,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,34.0,3.0,HARD,1.0,True,45,False,1.0,25.9,46.8,21.0,False,1.6,,True,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,35.0,4.0,HARD,2.0,False,14,False,1.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,36.0,4.0,HARD,3.0,False,1,False,1.0,26.0,45.0,21.0,False,2.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,37.0,4.0,HARD,4.0,False,1,True,1.0,26.4,45.0,21.0,False,2.2,82.471,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,38.0,4.0,HARD,5.0,False,1,True,1.0,26.5,45.0,21.0,False,1.6,82.185,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,39.0,4.0,HARD,6.0,False,1,True,1.0,26.6,44.9,21.0,False,1.8,82.059,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,40.0,4.0,HARD,7.0,False,1,True,1.0,26.8,44.8,21.0,False,2.9,81.644,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,41.0,4.0,HARD,8.0,False,1,True,1.0,26.8,44.8,21.0,False,1.7,81.787,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,42.0,4.0,HARD,9.0,False,1,True,1.0,26.8,44.8,20.0,False,2.2,81.986,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,43.0,4.0,HARD,10.0,False,1,True,1.0,26.6,44.5,20.0,False,0.8,82.041,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,44.0,4.0,HARD,11.0,False,1,True,1.0,26.6,44.5,20.0,False,1.5,82.068,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,45.0,4.0,HARD,12.0,False,1,True,1.0,26.7,44.3,20.0,False,2.2,82.129,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,46.0,4.0,HARD,13.0,False,1,True,1.0,26.5,44.1,20.0,False,0.8,82.105,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,47.0,4.0,HARD,14.0,False,1,True,1.0,26.6,44.0,20.0,False,1.0,82.06,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,48.0,4.0,HARD,15.0,False,1,True,1.0,26.9,44.0,20.0,False,1.6,82.179,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,49.0,4.0,HARD,16.0,False,12,True,1.0,26.9,43.6,20.0,False,1.5,82.172,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,50.0,4.0,HARD,17.0,False,1,True,1.0,26.9,43.6,20.0,False,1.7,82.294,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,51.0,4.0,HARD,18.0,False,1,True,1.0,26.6,43.6,19.0,False,1.6,82.323,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,52.0,4.0,HARD,19.0,False,1,True,1.0,26.6,43.6,19.0,False,0.4,82.336,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,53.0,4.0,HARD,20.0,False,1,True,1.0,26.6,43.6,19.0,False,1.7,82.286,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,54.0,4.0,HARD,21.0,False,1,True,1.0,26.5,43.2,19.0,False,0.0,82.418,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,55.0,4.0,HARD,22.0,False,1,True,1.0,26.5,43.1,19.0,False,1.0,82.421,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,56.0,4.0,HARD,23.0,False,1,True,1.0,26.5,43.1,19.0,False,1.2,82.415,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,57.0,4.0,HARD,24.0,False,1,True,1.0,26.5,43.1,19.0,False,1.8,82.23,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,58.0,4.0,HARD,25.0,False,1,True,1.0,26.7,42.3,19.0,False,2.0,82.37,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,59.0,4.0,HARD,26.0,False,1,True,1.0,26.5,41.0,19.0,False,1.8,82.208,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,60.0,4.0,HARD,27.0,False,1,True,1.0,26.5,40.6,19.0,False,0.8,81.991,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,61.0,4.0,HARD,28.0,False,1,True,1.0,26.6,40.6,19.0,False,1.2,82.1,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,62.0,4.0,HARD,29.0,False,1,True,1.0,26.7,40.6,18.0,False,2.2,82.196,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,63.0,4.0,HARD,30.0,False,1,True,1.0,26.7,40.5,18.0,False,1.5,82.245,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,64.0,4.0,HARD,31.0,False,1,True,1.0,26.6,40.3,19.0,False,1.6,82.2,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,65.0,4.0,HARD,32.0,False,1,True,1.0,26.4,39.8,19.0,False,1.7,82.377,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,66.0,4.0,HARD,33.0,False,1,True,1.0,26.4,39.2,19.0,False,1.8,82.11,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,67.0,4.0,HARD,34.0,False,12,True,1.0,26.4,38.8,19.0,False,2.0,82.774,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,68.0,4.0,HARD,35.0,False,1,True,1.0,26.4,38.7,19.0,False,1.6,82.43,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,69.0,4.0,HARD,36.0,False,1,True,1.0,26.4,38.2,19.0,False,1.3,82.47,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,70.0,4.0,HARD,37.0,False,1,True,1.0,26.3,37.7,19.0,False,0.8,82.367,False,71,2023,19,Mexico City Grand Prix,2023_19
+VER,Red Bull Racing,71.0,4.0,HARD,38.0,False,1,True,1.0,26.3,37.4,19.0,False,0.6,82.85,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,12,False,9.0,24.5,48.1,28.0,False,1.1,91.942,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,24.5,48.1,28.0,False,1.2,85.443,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,24.6,48.6,27.0,False,0.6,84.804,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,24.8,48.2,26.0,False,2.2,84.249,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,167,False,9.0,24.8,47.5,26.0,False,2.0,105.637,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,24.9,47.5,27.0,False,2.0,83.989,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,25.0,47.0,27.0,False,2.4,84.292,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,12,True,9.0,25.1,47.0,27.0,False,1.2,84.829,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,25.4,47.2,28.0,False,2.7,84.958,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,25.4,47.2,28.0,False,2.0,84.88,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,25.3,47.3,27.0,False,0.6,84.9,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,25.4,47.4,27.0,False,3.7,85.189,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,25.4,47.4,25.0,False,1.7,85.153,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,25.6,47.3,23.0,False,0.5,85.003,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,25.6,47.4,22.0,False,0.6,85.11,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,25.8,47.5,22.0,False,1.3,85.121,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,25.7,47.5,22.0,False,1.2,85.331,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,9.0,25.6,47.1,22.0,False,1.1,85.419,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,9.0,25.5,47.7,24.0,False,3.0,85.126,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,9.0,25.5,47.2,25.0,False,2.2,84.779,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,9.0,25.6,47.5,22.0,False,3.2,84.732,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,9.0,25.6,47.0,23.0,False,0.8,85.087,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,8.0,25.8,47.3,23.0,False,1.0,85.36,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,24.0,1.0,MEDIUM,24.0,True,1,True,8.0,25.8,47.5,22.0,False,0.8,84.435,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,25.0,1.0,MEDIUM,25.0,True,1,True,8.0,25.8,47.6,22.0,False,1.2,85.078,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,26.0,1.0,MEDIUM,26.0,True,1,True,7.0,25.9,46.8,22.0,False,1.0,84.914,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,27.0,1.0,MEDIUM,27.0,True,1,True,6.0,25.8,46.8,22.0,False,1.2,84.978,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,28.0,1.0,MEDIUM,28.0,True,1,False,6.0,25.7,46.5,22.0,False,0.0,87.81,True,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,29.0,2.0,HARD,1.0,True,1,False,17.0,25.7,46.8,22.0,False,0.5,103.332,True,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,30.0,2.0,HARD,2.0,True,1,True,15.0,25.7,46.5,22.0,False,1.1,84.005,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,31.0,2.0,HARD,3.0,True,1,True,13.0,25.8,46.5,22.0,False,1.2,83.6,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,32.0,2.0,HARD,4.0,True,12,True,12.0,25.8,46.7,22.0,False,0.0,83.779,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,33.0,2.0,HARD,5.0,True,24,False,12.0,25.9,46.8,22.0,False,1.0,108.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,34.0,2.0,HARD,6.0,True,45,False,11.0,25.9,46.6,22.0,False,1.3,135.793,True,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,35.0,3.0,HARD,7.0,False,14,False,11.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,36.0,3.0,HARD,8.0,False,1,True,12.0,26.0,45.0,21.0,False,2.0,133.022,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,37.0,3.0,HARD,9.0,False,1,True,12.0,26.4,45.0,21.0,False,1.2,84.247,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,38.0,3.0,HARD,10.0,False,1,True,12.0,26.5,45.0,21.0,False,1.6,83.586,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,39.0,3.0,HARD,11.0,False,1,True,12.0,26.6,44.9,21.0,False,1.8,83.307,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,40.0,3.0,HARD,12.0,False,1,True,12.0,26.8,44.8,21.0,False,2.9,83.524,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,41.0,3.0,HARD,13.0,False,1,True,12.0,26.8,44.8,21.0,False,1.7,83.407,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,42.0,3.0,HARD,14.0,False,1,True,12.0,26.7,44.7,20.0,False,2.4,83.426,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,43.0,3.0,HARD,15.0,False,1,True,12.0,26.6,44.5,20.0,False,0.8,83.23,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,44.0,3.0,HARD,16.0,False,1,True,12.0,26.6,44.5,20.0,False,1.5,83.385,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,45.0,3.0,HARD,17.0,False,1,True,13.0,26.6,44.3,20.0,False,1.2,84.325,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,46.0,3.0,HARD,18.0,False,1,True,13.0,26.5,44.1,20.0,False,0.8,84.427,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,47.0,3.0,HARD,19.0,False,1,True,13.0,26.8,44.0,20.0,False,1.7,84.267,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,48.0,3.0,HARD,20.0,False,1,True,13.0,26.9,44.0,20.0,False,1.6,84.167,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,49.0,3.0,HARD,21.0,False,12,True,12.0,26.9,43.6,20.0,False,1.5,84.614,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,50.0,3.0,HARD,22.0,False,1,True,12.0,26.7,43.6,20.0,False,1.5,83.937,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,51.0,3.0,HARD,23.0,False,1,True,12.0,26.6,43.6,19.0,False,1.6,84.041,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,52.0,3.0,HARD,24.0,False,1,True,12.0,26.6,43.6,19.0,False,1.7,84.527,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,53.0,3.0,HARD,25.0,False,1,True,12.0,26.6,43.4,19.0,False,1.0,84.274,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,54.0,3.0,HARD,26.0,False,1,True,12.0,26.5,43.2,19.0,False,0.0,84.246,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,55.0,3.0,HARD,27.0,False,1,True,12.0,26.5,43.1,19.0,False,1.2,83.842,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,56.0,3.0,HARD,28.0,False,1,True,12.0,26.5,43.2,19.0,False,1.6,83.727,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,57.0,3.0,HARD,29.0,False,1,True,12.0,26.7,42.3,19.0,False,2.0,83.695,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,58.0,3.0,HARD,30.0,False,1,True,12.0,26.6,41.5,19.0,False,2.2,84.38,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,59.0,3.0,HARD,31.0,False,1,True,12.0,26.5,41.0,19.0,False,1.8,83.672,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,60.0,3.0,HARD,32.0,False,1,True,12.0,26.6,40.6,19.0,False,1.2,83.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,61.0,3.0,HARD,33.0,False,1,True,12.0,26.5,40.6,19.0,False,1.5,83.824,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,62.0,3.0,HARD,34.0,False,1,True,12.0,26.7,40.5,18.0,False,1.5,84.276,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,63.0,3.0,HARD,35.0,False,1,True,12.0,26.6,40.3,19.0,False,1.6,84.229,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,64.0,3.0,HARD,36.0,False,1,True,12.0,26.5,39.9,19.0,False,1.1,84.282,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,65.0,3.0,HARD,37.0,False,1,True,12.0,26.4,39.2,19.0,False,1.8,84.029,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,66.0,3.0,HARD,38.0,False,12,True,11.0,26.4,38.9,19.0,False,1.8,84.726,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,67.0,3.0,HARD,39.0,False,21,True,11.0,26.4,38.7,19.0,False,1.6,83.512,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,68.0,3.0,HARD,40.0,False,1,True,11.0,26.4,38.2,19.0,False,1.3,83.324,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,69.0,3.0,HARD,41.0,False,1,True,11.0,26.3,38.1,19.0,False,1.2,83.359,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,70.0,3.0,HARD,42.0,False,1,True,11.0,26.3,37.4,19.0,False,0.6,83.306,False,71,2023,19,Mexico City Grand Prix,2023_19
+GAS,Alpine,71.0,3.0,HARD,43.0,False,1,True,11.0,26.2,37.3,19.0,False,1.2,83.3,False,71,2023,19,Mexico City Grand Prix,2023_19
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,12,False,20.0,24.5,48.1,28.0,False,1.1,103.446,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,1.0,1.0,MEDIUM,2.0,False,12,False,14.0,24.5,48.1,28.0,False,1.1,94.72,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,2.0,1.0,MEDIUM,3.0,False,1,True,15.0,24.6,48.6,28.0,False,2.5,86.688,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,3.0,1.0,MEDIUM,4.0,False,1,True,16.0,24.6,48.6,27.0,False,0.6,85.829,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,16,False,16.0,24.8,48.2,26.0,False,2.2,89.12,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,671,False,16.0,24.8,47.5,26.0,False,2.0,101.773,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,16.0,25.0,47.0,27.0,False,1.3,84.716,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,17.0,25.0,47.0,27.0,False,2.4,85.748,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,8.0,1.0,MEDIUM,9.0,False,12,True,17.0,25.1,47.0,27.0,False,1.2,85.068,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,16.0,25.4,47.2,28.0,False,2.7,84.985,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,16.0,25.4,47.2,28.0,False,2.0,84.759,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,17.0,25.3,47.3,27.0,False,0.6,86.309,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,True,16.0,25.4,47.4,27.0,False,3.7,84.912,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,13.0,1.0,MEDIUM,14.0,False,1,True,16.0,25.4,47.4,25.0,False,1.7,85.464,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,14.0,1.0,MEDIUM,15.0,False,1,True,16.0,25.6,47.3,23.0,False,0.5,85.179,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,15.0,1.0,MEDIUM,16.0,False,1,True,16.0,25.6,47.4,22.0,False,0.6,85.329,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,16.0,1.0,MEDIUM,17.0,False,1,True,16.0,25.8,47.5,22.0,False,1.3,85.509,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,17.0,1.0,MEDIUM,18.0,False,1,True,16.0,25.7,47.5,22.0,False,1.2,85.485,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,18.0,1.0,MEDIUM,19.0,False,1,True,16.0,25.5,47.7,22.0,False,2.4,85.716,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,19.0,1.0,MEDIUM,20.0,False,1,True,16.0,25.5,47.7,24.0,False,3.0,85.088,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,20.0,1.0,MEDIUM,21.0,False,1,True,16.0,25.5,47.2,25.0,False,2.2,85.111,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,21.0,1.0,MEDIUM,22.0,False,1,True,16.0,25.6,47.5,22.0,False,3.2,86.642,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,22.0,1.0,MEDIUM,23.0,False,1,True,15.0,25.6,47.0,23.0,False,0.8,85.941,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,23.0,1.0,MEDIUM,24.0,False,1,True,15.0,25.8,47.3,23.0,False,1.0,85.938,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,24.0,1.0,MEDIUM,25.0,False,1,True,14.0,25.8,47.5,22.0,False,0.8,86.197,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,25.0,1.0,MEDIUM,26.0,False,1,True,14.0,25.8,47.4,22.0,False,2.2,85.212,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,26.0,1.0,MEDIUM,27.0,False,1,True,14.0,25.9,46.8,22.0,False,1.0,85.181,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,27.0,1.0,MEDIUM,28.0,False,1,True,14.0,25.8,46.8,22.0,False,1.2,85.247,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,28.0,1.0,MEDIUM,29.0,False,1,True,14.0,25.7,46.5,22.0,False,0.0,85.046,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,29.0,1.0,MEDIUM,30.0,False,1,False,15.0,25.7,46.8,22.0,False,0.5,88.472,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,30.0,2.0,HARD,2.0,False,1,False,19.0,25.7,46.5,22.0,False,1.1,102.893,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,31.0,2.0,HARD,3.0,False,1,True,19.0,25.8,46.5,22.0,False,1.2,83.685,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,32.0,2.0,HARD,4.0,False,124,False,18.0,25.8,46.7,22.0,False,0.0,90.304,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,33.0,2.0,HARD,5.0,False,4,False,18.0,25.9,46.8,22.0,False,1.0,109.953,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,34.0,2.0,HARD,6.0,False,45,False,18.0,25.9,46.6,22.0,False,1.3,132.573,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,35.0,3.0,HARD,7.0,False,14,False,18.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,36.0,3.0,HARD,8.0,False,1,True,17.0,26.3,45.0,21.0,False,2.0,113.229,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,37.0,3.0,HARD,9.0,False,1,True,17.0,26.4,45.0,21.0,False,1.2,85.575,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,38.0,3.0,HARD,10.0,False,1,True,17.0,26.5,45.0,21.0,False,1.6,84.272,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,39.0,3.0,HARD,11.0,False,1,True,17.0,26.6,44.9,21.0,False,1.8,83.846,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,40.0,3.0,HARD,12.0,False,1,True,17.0,26.8,44.8,21.0,False,2.9,83.531,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,41.0,3.0,HARD,13.0,False,1,True,18.0,26.8,44.8,21.0,False,1.7,85.289,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,42.0,3.0,HARD,14.0,False,1,True,18.0,26.7,44.7,20.0,False,2.4,84.07,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,43.0,3.0,HARD,15.0,False,1,True,18.0,26.6,44.5,20.0,False,0.8,83.913,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,44.0,3.0,HARD,16.0,False,1,True,18.0,26.6,44.5,20.0,False,1.5,83.994,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,45.0,3.0,HARD,17.0,False,1,True,18.0,26.6,44.3,20.0,False,1.2,84.283,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,46.0,3.0,HARD,18.0,False,1,True,17.0,26.5,44.1,20.0,False,0.8,83.932,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALO,Aston Martin,47.0,3.0,HARD,19.0,False,1,False,18.0,26.8,44.0,20.0,False,1.7,92.827,True,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,12,False,2.0,24.5,48.1,28.0,False,1.1,87.23,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,24.5,48.1,28.0,False,1.2,83.98,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,24.6,48.6,27.0,False,0.6,83.957,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,24.8,48.2,26.0,False,2.2,83.815,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,167,False,2.0,24.8,47.5,26.0,False,2.0,104.739,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,24.9,47.5,27.0,False,2.0,83.383,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,25.0,47.0,27.0,False,2.4,83.489,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,12,True,2.0,25.1,47.0,27.0,False,1.2,83.324,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,25.3,47.0,27.0,False,2.2,83.673,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,25.4,47.2,28.0,False,2.0,83.722,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,25.4,47.2,28.0,False,2.0,83.868,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,25.4,47.4,27.0,False,3.7,83.709,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,25.4,47.4,25.0,False,1.7,84.09,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,25.5,47.6,24.0,False,1.1,84.32,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,25.6,47.4,22.0,False,0.6,83.84,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,25.7,47.4,23.0,False,1.2,83.552,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,25.7,47.5,22.0,False,1.2,83.649,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,25.6,47.1,22.0,False,1.1,84.169,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,25.5,47.7,22.0,False,2.4,83.894,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,25.5,47.2,25.0,False,2.2,83.496,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,25.5,47.2,24.0,False,1.3,83.452,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,25.6,47.0,23.0,False,0.8,83.666,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,25.7,47.0,23.0,False,1.2,83.878,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,25.8,47.3,23.0,False,1.0,83.786,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,25.8,47.6,22.0,False,1.2,83.941,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,25.8,47.4,22.0,False,2.2,83.709,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,27.0,1.0,MEDIUM,27.0,True,1,True,1.0,25.8,46.8,22.0,False,1.2,84.264,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,28.0,1.0,MEDIUM,28.0,True,1,True,1.0,25.8,46.6,22.0,False,0.8,83.69,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,29.0,1.0,MEDIUM,29.0,True,1,True,1.0,25.7,46.5,22.0,False,0.0,83.86,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,30.0,1.0,MEDIUM,30.0,True,1,True,1.0,25.7,46.8,22.0,False,1.2,84.131,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,31.0,1.0,MEDIUM,31.0,True,1,False,1.0,25.7,46.5,22.0,False,1.1,87.924,True,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,32.0,2.0,HARD,1.0,True,1,False,2.0,25.7,46.7,23.0,False,0.6,101.329,True,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,33.0,2.0,HARD,2.0,True,124,False,2.0,25.8,46.7,22.0,False,0.0,97.428,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,34.0,2.0,HARD,3.0,True,45,False,2.0,25.9,46.8,21.0,False,1.6,,True,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,35.0,3.0,HARD,4.0,False,14,False,2.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,36.0,3.0,HARD,5.0,False,1,False,2.0,26.0,45.0,21.0,False,2.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,37.0,3.0,HARD,6.0,False,1,True,2.0,26.4,45.0,21.0,False,2.2,83.118,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,38.0,3.0,HARD,7.0,False,1,True,2.0,26.5,45.0,21.0,False,1.6,82.332,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,39.0,3.0,HARD,8.0,False,1,True,2.0,26.6,44.9,21.0,False,1.8,82.559,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,40.0,3.0,HARD,9.0,False,1,True,3.0,26.8,44.8,21.0,False,2.9,83.501,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,41.0,3.0,HARD,10.0,False,1,True,3.0,26.8,44.8,21.0,False,1.7,82.865,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,42.0,3.0,HARD,11.0,False,1,True,3.0,26.8,44.8,20.0,False,2.2,82.844,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,43.0,3.0,HARD,12.0,False,1,True,3.0,26.6,44.5,20.0,False,0.8,82.888,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,44.0,3.0,HARD,13.0,False,1,True,3.0,26.6,44.5,20.0,False,1.5,83.163,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,45.0,3.0,HARD,14.0,False,1,True,3.0,26.6,44.3,20.0,False,1.2,83.082,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,46.0,3.0,HARD,15.0,False,1,True,3.0,26.5,44.1,20.0,False,0.8,83.073,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,47.0,3.0,HARD,16.0,False,1,True,3.0,26.6,44.0,20.0,False,1.0,83.101,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,48.0,3.0,HARD,17.0,False,1,True,3.0,26.9,44.0,20.0,False,1.6,83.115,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,49.0,3.0,HARD,18.0,False,12,True,3.0,26.9,43.6,20.0,False,1.5,83.003,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,50.0,3.0,HARD,19.0,False,1,True,3.0,26.9,43.6,20.0,False,1.7,83.167,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,51.0,3.0,HARD,20.0,False,1,True,3.0,26.6,43.6,19.0,False,1.6,82.858,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,52.0,3.0,HARD,21.0,False,1,True,3.0,26.6,43.6,19.0,False,0.4,82.769,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,53.0,3.0,HARD,22.0,False,1,True,3.0,26.6,43.4,19.0,False,1.0,82.942,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,54.0,3.0,HARD,23.0,False,1,True,3.0,26.5,43.2,19.0,False,0.0,82.844,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,55.0,3.0,HARD,24.0,False,1,True,3.0,26.5,43.1,19.0,False,1.0,82.873,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,56.0,3.0,HARD,25.0,False,1,True,3.0,26.5,43.2,19.0,False,1.6,82.636,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,57.0,3.0,HARD,26.0,False,1,True,3.0,26.5,43.1,19.0,False,1.8,82.538,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,58.0,3.0,HARD,27.0,False,1,True,3.0,26.6,41.5,19.0,False,2.2,82.634,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,59.0,3.0,HARD,28.0,False,1,True,3.0,26.5,41.0,19.0,False,1.8,82.504,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,60.0,3.0,HARD,29.0,False,1,True,3.0,26.5,40.6,19.0,False,0.8,82.632,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,61.0,3.0,HARD,30.0,False,1,True,3.0,26.5,40.6,19.0,False,1.5,82.768,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,62.0,3.0,HARD,31.0,False,1,True,3.0,26.7,40.6,18.0,False,2.2,82.783,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,63.0,3.0,HARD,32.0,False,1,True,3.0,26.7,40.5,18.0,False,1.5,82.805,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,64.0,3.0,HARD,33.0,False,1,True,3.0,26.5,39.9,19.0,False,1.1,82.708,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,65.0,3.0,HARD,34.0,False,1,True,3.0,26.4,39.8,19.0,False,1.7,82.921,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,66.0,3.0,HARD,35.0,False,1,True,3.0,26.4,38.9,19.0,False,1.8,82.619,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,67.0,3.0,HARD,36.0,False,12,True,3.0,26.4,38.8,19.0,False,2.0,82.796,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,68.0,3.0,HARD,37.0,False,1,True,3.0,26.4,38.7,19.0,False,1.6,82.772,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,69.0,3.0,HARD,38.0,False,1,True,3.0,26.3,38.1,19.0,False,1.2,82.971,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,70.0,3.0,HARD,39.0,False,1,True,3.0,26.3,37.7,19.0,False,0.8,82.983,False,71,2023,19,Mexico City Grand Prix,2023_19
+LEC,Ferrari,71.0,3.0,HARD,40.0,False,1,True,3.0,26.3,37.4,19.0,False,0.6,82.905,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,1.0,1.0,MEDIUM,2.0,False,12,False,19.0,24.5,48.1,28.0,False,1.1,96.812,True,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,2.0,1.0,MEDIUM,3.0,False,1,True,19.0,24.6,48.6,28.0,False,2.5,86.402,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,3.0,1.0,MEDIUM,4.0,False,1,True,18.0,24.6,48.6,27.0,False,0.6,86.305,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,4.0,1.0,MEDIUM,5.0,False,16,False,18.0,24.8,48.2,26.0,False,2.2,90.303,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,5.0,1.0,MEDIUM,6.0,False,671,False,18.0,24.8,47.5,26.0,False,2.0,99.882,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,18.0,25.0,47.0,27.0,False,1.3,84.583,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,18.0,25.0,47.0,27.0,False,2.4,84.862,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,8.0,1.0,MEDIUM,9.0,False,12,True,18.0,25.1,47.0,27.0,False,1.2,85.079,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,18.0,25.4,47.2,28.0,False,2.7,85.134,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,17.0,25.4,47.2,28.0,False,2.0,84.877,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,16.0,25.3,47.3,27.0,False,0.6,84.375,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,True,15.0,25.4,47.4,27.0,False,3.7,84.635,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,13.0,1.0,MEDIUM,14.0,False,1,True,15.0,25.4,47.4,25.0,False,1.7,84.984,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,14.0,1.0,MEDIUM,15.0,False,1,True,15.0,25.6,47.3,23.0,False,0.5,85.029,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,15.0,1.0,MEDIUM,16.0,False,1,True,15.0,25.6,47.4,22.0,False,0.6,85.285,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,16.0,1.0,MEDIUM,17.0,False,1,True,15.0,25.8,47.5,22.0,False,1.3,85.325,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,17.0,1.0,MEDIUM,18.0,False,1,True,15.0,25.7,47.5,22.0,False,1.2,85.504,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,18.0,1.0,MEDIUM,19.0,False,1,True,15.0,25.5,47.7,22.0,False,2.4,85.749,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,19.0,1.0,MEDIUM,20.0,False,1,True,15.0,25.5,47.7,24.0,False,3.0,85.262,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,20.0,1.0,MEDIUM,21.0,False,1,True,15.0,25.5,47.2,25.0,False,2.2,85.219,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,21.0,1.0,MEDIUM,22.0,False,1,True,15.0,25.6,47.5,22.0,False,3.2,85.319,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,22.0,1.0,MEDIUM,23.0,False,1,True,13.0,25.6,47.0,23.0,False,0.8,85.268,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,23.0,1.0,MEDIUM,24.0,False,1,True,12.0,25.8,47.3,23.0,False,1.0,85.054,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,24.0,1.0,MEDIUM,25.0,False,1,True,11.0,25.8,47.5,22.0,False,0.8,85.192,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,25.0,1.0,MEDIUM,26.0,False,1,True,11.0,25.8,47.4,22.0,False,2.2,84.732,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,26.0,1.0,MEDIUM,27.0,False,1,True,12.0,25.9,46.8,22.0,False,1.0,85.801,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,27.0,1.0,MEDIUM,28.0,False,1,True,12.0,25.8,46.8,22.0,False,1.2,84.791,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,28.0,1.0,MEDIUM,29.0,False,1,True,12.0,25.7,46.5,22.0,False,0.0,84.834,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,29.0,1.0,MEDIUM,30.0,False,1,True,11.0,25.7,46.8,22.0,False,0.5,85.893,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,30.0,1.0,MEDIUM,31.0,False,1,False,12.0,25.7,46.5,22.0,False,1.1,90.059,True,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,31.0,2.0,HARD,2.0,False,1,False,18.0,25.8,46.5,22.0,False,1.2,102.668,True,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,32.0,2.0,HARD,3.0,False,124,False,17.0,25.8,46.7,22.0,False,0.0,88.238,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,33.0,2.0,HARD,4.0,False,4,False,17.0,25.9,46.8,22.0,False,1.0,110.376,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,34.0,2.0,HARD,5.0,False,45,False,17.0,25.9,46.6,22.0,False,1.3,133.808,True,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,35.0,3.0,HARD,6.0,False,14,False,17.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,36.0,3.0,HARD,7.0,False,1,True,16.0,26.3,45.0,21.0,False,2.0,115.557,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,37.0,3.0,HARD,8.0,False,1,True,15.0,26.4,45.0,21.0,False,1.2,84.657,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,38.0,3.0,HARD,9.0,False,1,True,15.0,26.5,45.0,21.0,False,1.6,83.726,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,39.0,3.0,HARD,10.0,False,1,True,15.0,26.6,44.9,21.0,False,1.8,83.27,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,40.0,3.0,HARD,11.0,False,1,True,15.0,26.8,44.8,21.0,False,2.9,83.559,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,41.0,3.0,HARD,12.0,False,1,True,15.0,26.8,44.8,21.0,False,1.7,83.516,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,42.0,3.0,HARD,13.0,False,1,True,15.0,26.7,44.7,20.0,False,2.4,83.688,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,43.0,3.0,HARD,14.0,False,1,True,15.0,26.6,44.5,20.0,False,0.8,83.257,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,44.0,3.0,HARD,15.0,False,1,True,15.0,26.6,44.5,20.0,False,1.5,83.415,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,45.0,3.0,HARD,16.0,False,1,True,15.0,26.6,44.3,20.0,False,1.2,83.732,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,46.0,3.0,HARD,17.0,False,1,True,15.0,26.5,44.1,20.0,False,0.8,83.901,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,47.0,3.0,HARD,18.0,False,1,True,15.0,26.8,44.0,20.0,False,1.7,83.963,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,48.0,3.0,HARD,19.0,False,1,True,15.0,26.9,44.0,20.0,False,1.6,84.163,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,49.0,3.0,HARD,20.0,False,12,True,14.0,26.9,43.6,20.0,False,1.5,84.352,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,50.0,3.0,HARD,21.0,False,1,True,14.0,26.7,43.6,20.0,False,1.5,83.973,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,51.0,3.0,HARD,22.0,False,1,True,14.0,26.6,43.6,19.0,False,1.6,83.854,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,52.0,3.0,HARD,23.0,False,1,True,14.0,26.6,43.6,19.0,False,1.7,84.6,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,53.0,3.0,HARD,24.0,False,1,True,14.0,26.6,43.4,19.0,False,1.0,84.548,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,54.0,3.0,HARD,25.0,False,1,True,14.0,26.5,43.2,19.0,False,0.0,84.217,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,55.0,3.0,HARD,26.0,False,1,True,14.0,26.5,43.1,19.0,False,1.2,84.058,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,56.0,3.0,HARD,27.0,False,1,True,14.0,26.5,43.2,19.0,False,1.6,84.729,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,57.0,3.0,HARD,28.0,False,1,True,14.0,26.7,42.3,19.0,False,2.0,84.506,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,58.0,3.0,HARD,29.0,False,1,True,14.0,26.6,41.5,19.0,False,2.2,83.648,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,59.0,3.0,HARD,30.0,False,1,True,14.0,26.5,41.0,19.0,False,1.8,83.772,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,60.0,3.0,HARD,31.0,False,1,True,14.0,26.6,40.6,19.0,False,1.2,83.507,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,61.0,3.0,HARD,32.0,False,1,True,14.0,26.5,40.6,19.0,False,1.5,83.686,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,62.0,3.0,HARD,33.0,False,1,True,14.0,26.7,40.5,18.0,False,1.5,83.903,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,63.0,3.0,HARD,34.0,False,1,True,14.0,26.6,40.3,19.0,False,1.6,84.059,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,64.0,3.0,HARD,35.0,False,1,True,14.0,26.5,39.9,19.0,False,1.1,83.933,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,65.0,3.0,HARD,36.0,False,1,True,14.0,26.4,39.2,19.0,False,1.8,84.035,False,71,2023,19,Mexico City Grand Prix,2023_19
+STR,Aston Martin,66.0,3.0,HARD,37.0,False,12,False,17.0,26.4,38.9,19.0,False,1.8,106.965,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,12,False,17.0,24.5,48.1,28.0,False,1.1,95.924,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,24.6,48.6,28.0,False,2.5,86.47,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,24.6,48.6,27.0,False,0.6,85.693,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,16,False,17.0,24.8,48.2,26.0,False,2.2,89.415,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,671,False,17.0,24.8,47.5,26.0,False,2.0,101.215,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,25.0,47.0,27.0,False,1.3,84.692,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,25.0,47.0,27.0,False,2.4,84.28,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,12,True,16.0,25.1,47.0,27.0,False,1.2,85.087,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,25.4,47.2,28.0,False,2.7,84.834,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,25.4,47.2,28.0,False,2.0,84.508,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,25.3,47.3,27.0,False,0.6,84.71,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,14.0,25.4,47.4,27.0,False,3.7,84.636,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,14.0,25.4,47.4,25.0,False,1.7,85.043,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,14.0,25.6,47.3,23.0,False,0.5,85.037,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,25.6,47.4,22.0,False,0.6,85.154,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,25.8,47.5,22.0,False,1.3,85.274,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,14.0,25.7,47.5,22.0,False,1.2,85.282,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,25.5,47.7,22.0,False,2.4,85.424,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,14.0,25.5,47.7,24.0,False,3.0,85.604,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,14.0,25.5,47.2,25.0,False,2.2,85.893,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,14.0,25.6,47.5,22.0,False,3.2,85.219,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,22.0,1.0,MEDIUM,22.0,True,1,False,14.0,25.6,47.0,23.0,False,0.8,88.753,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,23.0,2.0,HARD,1.0,True,1,False,19.0,25.8,47.3,23.0,False,1.0,103.412,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,24.0,2.0,HARD,2.0,True,1,True,18.0,25.8,47.5,22.0,False,0.8,83.003,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,25.0,2.0,HARD,3.0,True,1,True,18.0,25.8,47.4,22.0,False,2.2,83.579,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,26.0,2.0,HARD,4.0,True,1,True,18.0,25.9,46.8,22.0,False,1.0,83.747,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,27.0,2.0,HARD,5.0,True,1,True,18.0,25.8,46.6,22.0,False,0.8,83.377,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,28.0,2.0,HARD,6.0,True,1,True,19.0,25.7,46.5,22.0,False,0.0,86.29,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,29.0,2.0,HARD,7.0,True,1,True,19.0,25.7,46.8,22.0,False,0.5,84.196,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,30.0,2.0,HARD,8.0,True,1,True,18.0,25.7,46.5,22.0,False,1.1,86.036,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,31.0,2.0,HARD,9.0,True,1,True,17.0,25.8,46.5,22.0,False,1.2,84.753,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,32.0,2.0,HARD,10.0,True,124,False,15.0,25.8,46.7,22.0,False,0.0,89.996,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,33.0,2.0,HARD,11.0,True,4,False,15.0,25.9,46.8,22.0,False,1.0,110.241,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,34.0,2.0,HARD,12.0,True,45,False,15.0,25.9,46.6,22.0,False,1.3,134.182,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,35.0,3.0,MEDIUM,1.0,True,14,False,15.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,36.0,3.0,MEDIUM,2.0,True,1,True,18.0,26.3,45.0,21.0,False,2.0,123.868,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,37.0,3.0,MEDIUM,3.0,True,1,True,18.0,26.4,45.0,21.0,False,1.2,85.762,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,38.0,3.0,MEDIUM,4.0,True,1,True,18.0,26.5,45.0,21.0,False,1.6,84.235,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,39.0,3.0,MEDIUM,5.0,True,1,True,18.0,26.6,44.9,21.0,False,1.8,84.108,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,40.0,3.0,MEDIUM,6.0,True,1,True,18.0,26.8,44.8,21.0,False,2.9,83.216,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,41.0,3.0,MEDIUM,7.0,True,1,True,17.0,26.8,44.8,21.0,False,1.7,83.485,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,42.0,3.0,MEDIUM,8.0,True,1,True,17.0,26.7,44.7,20.0,False,2.4,83.673,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,43.0,3.0,MEDIUM,9.0,True,1,True,16.0,26.6,44.5,20.0,False,0.8,83.871,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,44.0,3.0,MEDIUM,10.0,True,1,True,16.0,26.6,44.5,20.0,False,1.5,83.764,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,45.0,3.0,MEDIUM,11.0,True,1,True,16.0,26.6,44.3,20.0,False,1.2,84.013,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,46.0,3.0,MEDIUM,12.0,True,1,True,16.0,26.5,44.1,20.0,False,0.8,83.742,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,47.0,3.0,MEDIUM,13.0,True,1,True,16.0,26.8,44.0,20.0,False,1.7,83.45,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,48.0,3.0,MEDIUM,14.0,True,1,True,16.0,26.9,44.0,20.0,False,1.6,83.807,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,49.0,3.0,MEDIUM,15.0,True,12,True,15.0,26.9,43.6,20.0,False,1.5,84.536,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,50.0,3.0,MEDIUM,16.0,True,1,True,15.0,26.7,43.6,20.0,False,1.5,83.495,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,51.0,3.0,MEDIUM,17.0,True,1,True,15.0,26.6,43.6,19.0,False,1.6,83.799,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,52.0,3.0,MEDIUM,18.0,True,1,True,15.0,26.6,43.6,19.0,False,1.7,83.858,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,53.0,3.0,MEDIUM,19.0,True,1,True,15.0,26.6,43.4,19.0,False,1.0,83.817,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,54.0,3.0,MEDIUM,20.0,True,1,True,15.0,26.5,43.2,19.0,False,0.0,83.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,55.0,3.0,MEDIUM,21.0,True,1,True,15.0,26.5,43.1,19.0,False,1.2,83.817,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,56.0,3.0,MEDIUM,22.0,True,1,True,15.0,26.5,43.2,19.0,False,1.6,84.322,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,57.0,3.0,MEDIUM,23.0,True,1,True,15.0,26.7,42.3,19.0,False,2.0,84.89,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,58.0,3.0,MEDIUM,24.0,True,1,True,15.0,26.6,41.5,19.0,False,2.2,83.534,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,59.0,3.0,MEDIUM,25.0,True,1,True,15.0,26.5,41.0,19.0,False,1.8,83.805,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,60.0,3.0,MEDIUM,26.0,True,1,True,15.0,26.6,40.6,19.0,False,1.2,83.764,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,61.0,3.0,MEDIUM,27.0,True,1,True,15.0,26.5,40.6,19.0,False,1.5,83.822,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,62.0,3.0,MEDIUM,28.0,True,1,True,15.0,26.7,40.5,18.0,False,1.5,83.585,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,63.0,3.0,MEDIUM,29.0,True,1,True,15.0,26.6,40.3,19.0,False,1.6,84.008,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,64.0,3.0,MEDIUM,30.0,True,1,True,15.0,26.5,39.9,19.0,False,1.1,84.054,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,65.0,3.0,MEDIUM,31.0,True,1,True,15.0,26.4,39.2,19.0,False,1.8,83.751,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,66.0,3.0,MEDIUM,32.0,True,12,True,14.0,26.4,38.9,19.0,False,1.8,86.118,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,67.0,3.0,MEDIUM,33.0,True,21,True,13.0,26.4,38.7,19.0,False,1.6,83.347,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,68.0,3.0,MEDIUM,34.0,True,1,True,13.0,26.4,38.2,19.0,False,1.3,84.509,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,69.0,3.0,MEDIUM,35.0,True,1,True,13.0,26.3,38.1,19.0,False,1.2,84.978,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,70.0,3.0,MEDIUM,36.0,True,1,True,12.0,26.3,37.4,19.0,False,0.6,85.038,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAR,Williams,71.0,3.0,MEDIUM,37.0,True,1,False,12.0,26.2,37.3,19.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,12,False,13.0,24.5,48.1,28.0,False,1.1,94.366,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,24.5,48.1,28.0,False,1.2,85.699,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,24.6,48.6,27.0,False,0.6,85.057,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,16,False,13.0,24.8,48.2,26.0,False,2.2,84.395,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,671,False,13.0,24.8,47.5,26.0,False,2.0,106.238,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,25.0,47.0,27.0,False,1.3,84.04,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,25.0,47.0,27.0,False,2.4,84.469,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,12,True,13.0,25.1,47.0,27.0,False,1.2,84.904,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,25.4,47.2,28.0,False,2.7,84.523,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,25.4,47.2,28.0,False,2.0,84.965,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,25.3,47.3,27.0,False,0.6,84.984,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,25.4,47.4,27.0,False,3.7,85.139,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,25.4,47.4,25.0,False,1.7,85.255,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,25.6,47.3,23.0,False,0.5,85.2,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,25.6,47.4,22.0,False,0.6,85.77,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,13.0,25.8,47.5,22.0,False,1.3,85.748,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,25.7,47.5,22.0,False,1.2,85.53,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,13.0,25.5,47.7,22.0,False,2.4,85.736,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,13.0,25.5,47.7,24.0,False,3.0,85.668,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,13.0,25.5,47.2,25.0,False,2.2,85.549,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,12.0,25.6,47.5,22.0,False,3.2,85.373,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,25.6,47.0,23.0,False,0.8,85.48,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,False,13.0,25.8,47.3,23.0,False,1.0,88.228,True,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,24.0,2.0,HARD,1.0,True,1,False,19.0,25.8,47.5,22.0,False,0.8,103.471,True,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,25.0,2.0,HARD,2.0,True,1,True,19.0,25.8,47.4,22.0,False,2.2,83.146,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,26.0,2.0,HARD,3.0,True,1,True,19.0,25.9,46.8,22.0,False,1.0,83.881,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,27.0,2.0,HARD,4.0,True,1,True,19.0,25.8,46.6,22.0,False,0.8,83.216,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,28.0,2.0,HARD,5.0,True,1,True,18.0,25.7,46.5,22.0,False,0.0,84.585,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,29.0,2.0,HARD,6.0,True,1,True,18.0,25.7,46.8,22.0,False,0.5,84.579,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,30.0,2.0,HARD,7.0,True,1,True,17.0,25.7,46.5,22.0,False,1.1,85.593,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,31.0,2.0,HARD,8.0,True,1,True,16.0,25.8,46.5,22.0,False,1.2,85.226,False,71,2023,19,Mexico City Grand Prix,2023_19
+MAG,Haas F1 Team,32.0,2.0,HARD,9.0,True,124,False,,25.8,46.7,22.0,False,0.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,12,False,15.0,24.5,48.1,28.0,False,1.1,95.096,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,24.6,48.6,28.0,False,2.5,85.411,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,24.6,48.6,27.0,False,0.6,85.06,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,16,False,14.0,24.8,48.2,26.0,False,2.2,84.905,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,671,False,14.0,24.8,47.5,26.0,False,2.0,105.875,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,25.0,47.0,27.0,False,1.3,84.03,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,25.0,47.0,27.0,False,2.4,84.269,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,12,True,14.0,25.1,47.0,27.0,False,1.2,85.565,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,False,17.0,25.4,47.2,28.0,False,2.7,88.908,True,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,10.0,2.0,HARD,1.0,True,1,False,19.0,25.4,47.2,28.0,False,2.0,109.36,True,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,11.0,2.0,HARD,2.0,True,1,True,19.0,25.3,47.3,27.0,False,0.6,82.501,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,12.0,2.0,HARD,3.0,True,1,True,19.0,25.4,47.4,27.0,False,3.7,83.0,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,13.0,2.0,HARD,4.0,True,1,True,19.0,25.5,47.6,24.0,False,1.1,83.224,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,14.0,2.0,HARD,5.0,True,1,True,19.0,25.6,47.3,23.0,False,0.5,83.127,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,15.0,2.0,HARD,6.0,True,1,True,19.0,25.7,47.4,23.0,False,1.2,83.499,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,16.0,2.0,HARD,7.0,True,1,True,19.0,25.8,47.5,22.0,False,1.3,83.537,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,17.0,2.0,HARD,8.0,True,1,True,19.0,25.7,47.5,22.0,False,1.2,83.861,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,18.0,2.0,HARD,9.0,True,1,True,19.0,25.5,47.7,22.0,False,2.4,83.923,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,19.0,2.0,HARD,10.0,True,1,True,19.0,25.5,47.7,24.0,False,3.0,83.78,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,20.0,2.0,HARD,11.0,True,1,True,19.0,25.5,47.2,24.0,False,1.3,83.758,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,21.0,2.0,HARD,12.0,True,1,True,19.0,25.6,47.5,22.0,False,3.2,83.986,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,22.0,2.0,HARD,13.0,True,1,True,18.0,25.6,47.0,23.0,False,0.8,85.266,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,23.0,2.0,HARD,14.0,True,1,True,16.0,25.8,47.3,23.0,False,1.0,84.639,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,24.0,2.0,HARD,15.0,True,1,True,13.0,25.8,47.5,22.0,False,0.8,84.042,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,25.0,2.0,HARD,16.0,True,1,True,13.0,25.8,47.4,22.0,False,2.2,83.87,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,26.0,2.0,HARD,17.0,True,1,True,13.0,25.9,46.8,22.0,False,1.0,84.019,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,27.0,2.0,HARD,18.0,True,1,True,13.0,25.8,46.8,22.0,False,1.2,83.963,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,28.0,2.0,HARD,19.0,True,1,True,13.0,25.7,46.5,22.0,False,0.0,84.707,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,29.0,2.0,HARD,20.0,True,1,True,12.0,25.7,46.8,22.0,False,0.5,85.887,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,30.0,2.0,HARD,21.0,True,1,True,11.0,25.7,46.5,22.0,False,1.1,84.205,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,31.0,2.0,HARD,22.0,True,1,True,10.0,25.8,46.5,22.0,False,1.2,84.653,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,32.0,2.0,HARD,23.0,True,12,True,10.0,25.7,46.7,23.0,False,0.6,84.399,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,33.0,2.0,HARD,24.0,True,24,False,10.0,25.9,46.8,22.0,False,1.0,106.838,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,34.0,2.0,HARD,25.0,True,45,False,8.0,25.9,46.6,22.0,False,1.3,137.507,True,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,35.0,3.0,HARD,1.0,True,14,False,8.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,36.0,3.0,HARD,2.0,True,1,True,8.0,26.0,45.0,21.0,False,2.0,141.611,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,37.0,3.0,HARD,3.0,True,1,True,8.0,26.4,45.0,21.0,False,1.2,84.175,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,38.0,3.0,HARD,4.0,True,1,True,8.0,26.5,45.0,21.0,False,1.6,82.863,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,39.0,3.0,HARD,5.0,True,1,True,8.0,26.6,44.9,21.0,False,1.8,83.911,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,40.0,3.0,HARD,6.0,True,1,True,8.0,26.8,44.8,21.0,False,2.9,82.828,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,41.0,3.0,HARD,7.0,True,1,True,8.0,26.8,44.8,21.0,False,1.7,83.131,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,42.0,3.0,HARD,8.0,True,1,True,8.0,26.7,44.7,20.0,False,2.4,83.07,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,43.0,3.0,HARD,9.0,True,1,True,8.0,26.6,44.5,20.0,False,0.8,82.864,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,44.0,3.0,HARD,10.0,True,1,True,8.0,26.6,44.5,20.0,False,1.5,83.34,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,45.0,3.0,HARD,11.0,True,1,True,8.0,26.6,44.3,20.0,False,1.2,83.223,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,46.0,3.0,HARD,12.0,True,1,True,8.0,26.5,44.1,20.0,False,0.8,83.282,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,47.0,3.0,HARD,13.0,True,1,True,8.0,26.6,44.0,20.0,False,1.0,83.274,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,48.0,3.0,HARD,14.0,True,1,True,8.0,26.9,44.0,20.0,False,1.6,85.523,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,49.0,3.0,HARD,15.0,True,12,True,16.0,26.9,43.6,20.0,False,1.5,100.13,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,50.0,3.0,HARD,16.0,True,1,True,16.0,26.7,43.6,20.0,False,1.5,83.733,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,51.0,3.0,HARD,17.0,True,1,True,16.0,26.6,43.6,19.0,False,1.6,83.461,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,52.0,3.0,HARD,18.0,True,1,True,16.0,26.6,43.6,19.0,False,1.7,83.504,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,53.0,3.0,HARD,19.0,True,1,True,16.0,26.6,43.4,19.0,False,1.0,84.328,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,54.0,3.0,HARD,20.0,True,1,True,16.0,26.5,43.2,19.0,False,0.0,83.581,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,55.0,3.0,HARD,21.0,True,1,True,16.0,26.5,43.1,19.0,False,1.2,83.245,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,56.0,3.0,HARD,22.0,True,1,True,16.0,26.5,43.2,19.0,False,1.6,83.931,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,57.0,3.0,HARD,23.0,True,1,True,16.0,26.7,42.3,19.0,False,2.0,83.666,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,58.0,3.0,HARD,24.0,True,1,True,16.0,26.6,41.5,19.0,False,2.2,84.27,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,59.0,3.0,HARD,25.0,True,1,True,16.0,26.5,41.0,19.0,False,1.8,83.299,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,60.0,3.0,HARD,26.0,True,1,True,16.0,26.6,40.6,19.0,False,1.2,83.137,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,61.0,3.0,HARD,27.0,True,1,True,16.0,26.5,40.6,19.0,False,1.5,83.457,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,62.0,3.0,HARD,28.0,True,1,True,16.0,26.7,40.5,18.0,False,1.5,83.565,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,63.0,3.0,HARD,29.0,True,1,True,16.0,26.6,40.3,19.0,False,1.6,84.105,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,64.0,3.0,HARD,30.0,True,1,True,16.0,26.5,39.9,19.0,False,1.1,83.614,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,65.0,3.0,HARD,31.0,True,1,True,16.0,26.4,39.2,19.0,False,1.8,83.983,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,66.0,3.0,HARD,32.0,True,12,True,15.0,26.4,38.9,19.0,False,1.8,85.549,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,67.0,3.0,HARD,33.0,True,21,True,14.0,26.4,38.7,19.0,False,1.6,84.341,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,68.0,3.0,HARD,34.0,True,1,True,14.0,26.4,38.2,19.0,False,1.3,84.046,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,69.0,3.0,HARD,35.0,True,1,True,14.0,26.3,38.1,19.0,False,1.2,84.665,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,70.0,3.0,HARD,36.0,True,1,True,14.0,26.3,37.4,19.0,False,0.6,86.562,False,71,2023,19,Mexico City Grand Prix,2023_19
+TSU,AlphaTauri,71.0,3.0,HARD,37.0,True,1,True,13.0,26.2,37.3,19.0,False,1.2,86.054,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,1.0,1.0,HARD,1.0,True,12,False,11.0,24.5,48.1,28.0,False,1.1,93.136,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,2.0,1.0,HARD,2.0,True,1,True,11.0,24.5,48.1,28.0,False,1.2,85.552,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,3.0,1.0,HARD,3.0,True,1,True,11.0,24.6,48.6,27.0,False,0.6,84.801,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,4.0,1.0,HARD,4.0,True,16,False,11.0,24.8,48.2,26.0,False,2.2,84.37,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,5.0,1.0,HARD,5.0,True,671,False,11.0,24.8,47.5,26.0,False,2.0,105.821,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,6.0,1.0,HARD,6.0,True,1,True,11.0,24.9,47.5,27.0,False,2.0,84.193,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,7.0,1.0,HARD,7.0,True,1,True,11.0,25.0,47.0,27.0,False,2.4,84.402,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,8.0,1.0,HARD,8.0,True,12,True,11.0,25.1,47.0,27.0,False,1.2,84.662,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,9.0,1.0,HARD,9.0,True,1,True,11.0,25.4,47.2,28.0,False,2.7,84.906,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,10.0,1.0,HARD,10.0,True,1,True,11.0,25.4,47.2,28.0,False,2.0,85.0,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,11.0,1.0,HARD,11.0,True,1,True,11.0,25.3,47.3,27.0,False,0.6,84.924,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,12.0,1.0,HARD,12.0,True,1,True,11.0,25.4,47.4,27.0,False,3.7,84.901,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,13.0,1.0,HARD,13.0,True,1,True,11.0,25.4,47.4,25.0,False,1.7,85.442,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,14.0,1.0,HARD,14.0,True,1,True,11.0,25.6,47.3,23.0,False,0.5,85.448,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,15.0,1.0,HARD,15.0,True,1,True,10.0,25.6,47.4,22.0,False,0.6,85.172,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,16.0,1.0,HARD,16.0,True,1,True,10.0,25.8,47.5,22.0,False,1.3,85.531,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,17.0,1.0,HARD,17.0,True,1,True,10.0,25.7,47.5,22.0,False,1.2,85.222,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,18.0,1.0,HARD,18.0,True,1,True,10.0,25.6,47.1,22.0,False,1.1,85.542,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,19.0,1.0,HARD,19.0,True,1,True,10.0,25.5,47.7,24.0,False,3.0,85.457,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,20.0,1.0,HARD,20.0,True,1,True,10.0,25.5,47.2,25.0,False,2.2,85.397,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,21.0,1.0,HARD,21.0,True,1,True,10.0,25.6,47.5,22.0,False,3.2,85.097,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,22.0,1.0,HARD,22.0,True,1,True,10.0,25.6,47.0,23.0,False,0.8,85.154,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,23.0,1.0,HARD,23.0,True,1,True,10.0,25.8,47.3,23.0,False,1.0,84.89,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,24.0,1.0,HARD,24.0,True,1,True,9.0,25.8,47.5,22.0,False,0.8,85.019,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,25.0,1.0,HARD,25.0,True,1,True,9.0,25.8,47.6,22.0,False,1.2,84.813,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,26.0,1.0,HARD,26.0,True,1,True,8.0,25.9,46.8,22.0,False,1.0,84.79,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,27.0,1.0,HARD,27.0,True,1,True,7.0,25.8,46.8,22.0,False,1.2,85.131,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,28.0,1.0,HARD,28.0,True,1,True,8.0,25.7,46.5,22.0,False,0.0,85.709,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,29.0,1.0,HARD,29.0,True,1,True,8.0,25.7,46.8,22.0,False,0.5,85.968,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,30.0,1.0,HARD,30.0,True,1,True,8.0,25.7,46.5,22.0,False,1.1,85.279,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,31.0,1.0,HARD,31.0,True,1,True,9.0,25.8,46.5,22.0,False,1.2,85.936,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,32.0,1.0,HARD,32.0,True,12,True,9.0,25.7,46.7,23.0,False,0.6,85.094,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,33.0,1.0,HARD,33.0,True,24,False,9.0,25.9,46.8,22.0,False,1.0,106.537,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,34.0,2.0,MEDIUM,1.0,True,45,False,12.0,25.9,46.6,22.0,False,1.3,,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,35.0,3.0,MEDIUM,2.0,False,14,False,12.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,36.0,3.0,MEDIUM,3.0,False,1,True,9.0,26.0,45.0,21.0,False,2.0,129.393,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,37.0,3.0,MEDIUM,4.0,False,1,True,9.0,26.4,45.0,21.0,False,1.2,84.067,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,38.0,3.0,MEDIUM,5.0,False,1,True,9.0,26.5,45.0,21.0,False,1.6,82.998,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,39.0,3.0,MEDIUM,6.0,False,1,True,9.0,26.6,44.9,21.0,False,1.8,84.014,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,40.0,3.0,MEDIUM,7.0,False,1,True,9.0,26.8,44.8,21.0,False,2.9,83.008,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,41.0,3.0,MEDIUM,8.0,False,1,True,9.0,26.8,44.8,21.0,False,1.7,83.323,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,42.0,3.0,MEDIUM,9.0,False,1,True,9.0,26.7,44.7,20.0,False,2.4,83.347,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,43.0,3.0,MEDIUM,10.0,False,1,True,9.0,26.6,44.5,20.0,False,0.8,83.317,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,44.0,3.0,MEDIUM,11.0,False,1,True,9.0,26.6,44.5,20.0,False,1.5,83.409,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,45.0,3.0,MEDIUM,12.0,False,1,True,9.0,26.6,44.3,20.0,False,1.2,83.578,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,46.0,3.0,MEDIUM,13.0,False,1,True,9.0,26.5,44.1,20.0,False,0.8,83.898,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,47.0,3.0,MEDIUM,14.0,False,1,True,9.0,26.6,44.0,20.0,False,1.0,84.142,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,48.0,3.0,MEDIUM,15.0,False,1,True,9.0,26.9,44.0,20.0,False,1.6,84.063,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,49.0,3.0,MEDIUM,16.0,False,12,True,9.0,26.9,43.6,20.0,False,1.5,85.654,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,50.0,3.0,MEDIUM,17.0,False,1,True,9.0,26.7,43.6,20.0,False,1.5,83.805,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,51.0,3.0,MEDIUM,18.0,False,1,True,9.0,26.6,43.6,19.0,False,1.6,83.86,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,52.0,3.0,MEDIUM,19.0,False,1,True,9.0,26.6,43.6,19.0,False,1.7,83.768,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,53.0,3.0,MEDIUM,20.0,False,1,True,9.0,26.6,43.4,19.0,False,1.0,83.759,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,54.0,3.0,MEDIUM,21.0,False,1,True,9.0,26.5,43.2,19.0,False,0.0,83.608,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,55.0,3.0,MEDIUM,22.0,False,1,True,9.0,26.5,43.1,19.0,False,1.2,84.033,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,56.0,3.0,MEDIUM,23.0,False,1,True,9.0,26.5,43.2,19.0,False,1.6,83.568,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,57.0,3.0,MEDIUM,24.0,False,1,True,9.0,26.5,43.1,19.0,False,1.8,83.236,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,58.0,3.0,MEDIUM,25.0,False,1,True,9.0,26.6,41.5,19.0,False,2.2,83.238,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,59.0,3.0,MEDIUM,26.0,False,1,True,9.0,26.5,41.0,19.0,False,1.8,83.297,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,60.0,3.0,MEDIUM,27.0,False,1,True,9.0,26.6,40.6,19.0,False,1.2,83.146,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,61.0,3.0,MEDIUM,28.0,False,1,True,9.0,26.5,40.6,19.0,False,1.5,83.128,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,62.0,3.0,MEDIUM,29.0,False,1,True,9.0,26.7,40.6,18.0,False,2.2,83.189,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,63.0,3.0,MEDIUM,30.0,False,1,True,9.0,26.6,40.3,19.0,False,1.6,83.12,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,64.0,3.0,MEDIUM,31.0,False,1,True,9.0,26.5,39.9,19.0,False,1.1,82.913,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,65.0,3.0,MEDIUM,32.0,False,1,True,9.0,26.4,39.2,19.0,False,1.8,82.773,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,66.0,3.0,MEDIUM,33.0,False,1,True,9.0,26.4,38.9,19.0,False,1.8,82.826,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,67.0,3.0,MEDIUM,34.0,False,12,True,9.0,26.4,38.8,19.0,False,2.0,82.979,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,68.0,3.0,MEDIUM,35.0,False,1,True,9.0,26.4,38.2,19.0,False,1.3,82.806,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,69.0,3.0,MEDIUM,36.0,False,1,True,9.0,26.3,38.1,19.0,False,1.2,82.785,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,70.0,3.0,MEDIUM,37.0,False,1,True,9.0,26.3,37.7,19.0,False,0.8,83.024,False,71,2023,19,Mexico City Grand Prix,2023_19
+ALB,Williams,71.0,3.0,MEDIUM,38.0,False,1,True,9.0,26.2,37.3,19.0,False,1.2,82.845,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,12,False,10.0,24.5,48.1,28.0,False,1.1,92.482,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,24.5,48.1,28.0,False,1.2,85.512,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,24.6,48.6,27.0,False,0.6,84.86,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,16,False,10.0,24.8,48.2,26.0,False,2.2,84.161,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,671,False,10.0,24.8,47.5,26.0,False,2.0,105.974,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,24.9,47.5,27.0,False,2.0,84.088,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,25.0,47.0,27.0,False,2.4,84.269,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,12,True,10.0,25.1,47.0,27.0,False,1.2,84.652,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,25.4,47.2,28.0,False,2.7,84.89,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,25.4,47.2,28.0,False,2.0,85.091,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,25.3,47.3,27.0,False,0.6,84.814,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,25.4,47.4,27.0,False,3.7,85.07,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,25.4,47.4,25.0,False,1.7,85.447,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,25.6,47.3,23.0,False,0.5,85.602,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,25.6,47.4,22.0,False,0.6,86.641,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,16.0,1.0,MEDIUM,16.0,True,1,True,11.0,25.8,47.5,22.0,False,1.3,85.607,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,17.0,1.0,MEDIUM,17.0,True,1,True,11.0,25.7,47.5,22.0,False,1.2,85.314,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,18.0,1.0,MEDIUM,18.0,True,1,True,11.0,25.6,47.1,22.0,False,1.1,85.556,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,19.0,1.0,MEDIUM,19.0,True,1,True,11.0,25.5,47.7,24.0,False,3.0,85.186,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,20.0,1.0,MEDIUM,20.0,True,1,True,11.0,25.5,47.2,25.0,False,2.2,85.438,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,21.0,1.0,MEDIUM,21.0,True,1,False,13.0,25.6,47.5,22.0,False,3.2,88.634,True,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,22.0,2.0,HARD,1.0,True,1,False,19.0,25.6,47.0,23.0,False,0.8,101.962,True,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,23.0,2.0,HARD,2.0,True,1,True,18.0,25.8,47.3,23.0,False,1.0,83.583,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,24.0,2.0,HARD,3.0,True,1,True,17.0,25.8,47.5,22.0,False,0.8,83.839,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,25.0,2.0,HARD,4.0,True,1,True,17.0,25.8,47.4,22.0,False,2.2,84.336,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,26.0,2.0,HARD,5.0,True,1,True,17.0,25.9,46.8,22.0,False,1.0,84.623,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,27.0,2.0,HARD,6.0,True,1,True,17.0,25.8,46.6,22.0,False,0.8,84.6,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,28.0,2.0,HARD,7.0,True,1,True,17.0,25.7,46.5,22.0,False,0.0,84.564,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,29.0,2.0,HARD,8.0,True,1,True,16.0,25.7,46.8,22.0,False,0.5,84.596,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,30.0,2.0,HARD,9.0,True,1,True,16.0,25.7,46.5,22.0,False,1.1,86.166,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,31.0,2.0,HARD,10.0,True,1,True,15.0,25.8,46.5,22.0,False,1.2,84.896,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,32.0,2.0,HARD,11.0,True,124,False,13.0,25.8,46.7,22.0,False,0.0,84.377,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,33.0,2.0,HARD,12.0,True,4,False,13.0,25.9,46.8,22.0,False,1.0,110.859,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,34.0,2.0,HARD,13.0,True,45,False,13.0,25.9,46.6,22.0,False,1.3,137.543,True,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,35.0,3.0,HARD,14.0,False,14,False,13.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,36.0,3.0,HARD,15.0,False,1,True,15.0,26.0,45.0,21.0,False,2.0,129.188,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,37.0,3.0,HARD,16.0,False,1,True,16.0,26.4,45.0,21.0,False,1.2,86.21,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,38.0,3.0,HARD,17.0,False,1,True,16.0,26.5,45.0,21.0,False,1.6,84.081,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,39.0,3.0,HARD,18.0,False,1,True,16.0,26.6,44.9,21.0,False,1.8,83.567,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,40.0,3.0,HARD,19.0,False,1,True,16.0,26.8,44.8,21.0,False,2.9,83.672,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,41.0,3.0,HARD,20.0,False,1,True,16.0,26.8,44.8,21.0,False,1.7,83.859,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,42.0,3.0,HARD,21.0,False,1,True,16.0,26.7,44.7,20.0,False,2.4,83.988,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,43.0,3.0,HARD,22.0,False,1,True,17.0,26.6,44.5,20.0,False,0.8,85.204,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,44.0,3.0,HARD,23.0,False,1,True,17.0,26.6,44.5,20.0,False,1.5,84.303,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,45.0,3.0,HARD,24.0,False,1,True,17.0,26.6,44.3,20.0,False,1.2,84.336,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,46.0,3.0,HARD,25.0,False,1,True,18.0,26.5,44.1,20.0,False,0.8,86.227,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,47.0,3.0,HARD,26.0,False,1,True,17.0,26.8,44.0,20.0,False,1.7,84.657,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,48.0,3.0,HARD,27.0,False,12,True,17.0,26.9,44.0,20.0,False,1.6,84.348,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,49.0,3.0,HARD,28.0,False,21,True,17.0,26.9,43.6,20.0,False,1.7,84.907,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,50.0,3.0,HARD,29.0,False,1,True,17.0,26.7,43.6,20.0,False,1.5,84.119,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,51.0,3.0,HARD,30.0,False,1,True,17.0,26.6,43.6,19.0,False,1.6,84.354,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,52.0,3.0,HARD,31.0,False,1,True,17.0,26.6,43.6,19.0,False,1.7,84.489,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,53.0,3.0,HARD,32.0,False,1,True,17.0,26.6,43.4,19.0,False,1.0,84.354,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,54.0,3.0,HARD,33.0,False,1,True,17.0,26.5,43.1,19.0,False,1.0,84.008,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,55.0,3.0,HARD,34.0,False,1,True,17.0,26.5,43.1,19.0,False,1.2,83.845,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,56.0,3.0,HARD,35.0,False,1,True,17.0,26.5,43.2,19.0,False,1.6,83.754,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,57.0,3.0,HARD,36.0,False,1,True,17.0,26.7,42.3,19.0,False,2.0,84.404,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,58.0,3.0,HARD,37.0,False,1,True,17.0,26.6,41.5,19.0,False,2.2,84.08,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,59.0,3.0,HARD,38.0,False,1,True,17.0,26.5,40.6,19.0,False,0.8,83.846,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,60.0,3.0,HARD,39.0,False,1,True,17.0,26.6,40.6,19.0,False,1.2,83.698,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,61.0,3.0,HARD,40.0,False,1,True,17.0,26.5,40.6,19.0,False,1.5,83.846,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,62.0,3.0,HARD,41.0,False,1,True,17.0,26.7,40.5,18.0,False,1.5,83.859,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,63.0,3.0,HARD,42.0,False,1,True,17.0,26.6,40.3,19.0,False,1.6,84.259,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,64.0,3.0,HARD,43.0,False,1,True,17.0,26.4,39.8,19.0,False,1.7,84.237,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,65.0,3.0,HARD,44.0,False,1,True,17.0,26.4,39.2,19.0,False,1.8,84.047,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,66.0,3.0,HARD,45.0,False,12,True,16.0,26.4,38.9,19.0,False,1.8,84.464,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,67.0,3.0,HARD,46.0,False,1,True,16.0,26.4,38.7,19.0,False,1.6,84.876,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,68.0,3.0,HARD,47.0,False,1,True,16.0,26.4,38.2,19.0,False,1.3,84.121,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,69.0,3.0,HARD,48.0,False,1,True,16.0,26.3,37.7,19.0,False,0.8,83.742,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,70.0,3.0,HARD,49.0,False,1,True,16.0,26.3,37.4,19.0,False,0.6,83.829,False,71,2023,19,Mexico City Grand Prix,2023_19
+ZHO,Alfa Romeo,71.0,3.0,HARD,50.0,False,1,True,16.0,26.2,37.3,19.0,False,1.2,84.391,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,12,False,8.0,24.5,48.1,28.0,False,1.1,91.561,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,24.5,48.1,28.0,False,1.2,85.057,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,24.6,48.6,27.0,False,0.6,84.735,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,24.8,48.2,26.0,False,2.2,84.337,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,167,False,8.0,24.8,47.5,26.0,False,2.0,105.744,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,24.9,47.5,27.0,False,2.0,83.756,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,25.0,47.0,27.0,False,2.4,84.549,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,12,True,8.0,25.1,47.0,27.0,False,1.2,84.923,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,25.4,47.2,28.0,False,2.7,84.856,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,25.4,47.2,28.0,False,2.0,84.772,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,25.4,47.2,28.0,False,2.0,85.025,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,25.4,47.4,27.0,False,3.7,85.04,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,25.4,47.4,25.0,False,1.7,85.004,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,25.6,47.3,23.0,False,0.5,85.263,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,25.6,47.4,22.0,False,0.6,85.128,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,25.8,47.5,22.0,False,1.3,85.279,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,25.7,47.5,22.0,False,1.2,84.987,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,25.6,47.1,22.0,False,1.1,85.318,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,25.5,47.7,24.0,False,3.0,85.167,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,8.0,25.5,47.2,25.0,False,2.2,84.813,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,25.6,47.5,22.0,False,3.2,84.704,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,25.6,47.0,23.0,False,0.8,85.064,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,False,9.0,25.8,47.3,23.0,False,1.0,88.6,True,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,24.0,2.0,HARD,1.0,True,1,False,16.0,25.8,47.5,22.0,False,0.8,103.626,True,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,25.0,2.0,HARD,2.0,True,1,True,16.0,25.8,47.4,22.0,False,2.2,83.833,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,26.0,2.0,HARD,3.0,True,1,True,16.0,25.9,46.8,22.0,False,1.0,84.28,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,27.0,2.0,HARD,4.0,True,1,True,16.0,25.8,46.6,22.0,False,0.8,84.668,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,28.0,2.0,HARD,5.0,True,1,True,16.0,25.7,46.5,22.0,False,0.0,84.626,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,29.0,2.0,HARD,6.0,True,1,True,14.0,25.7,46.8,22.0,False,0.5,84.8,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,30.0,2.0,HARD,7.0,True,1,True,13.0,25.7,46.5,22.0,False,1.1,83.576,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,31.0,2.0,HARD,8.0,True,1,True,12.0,25.8,46.5,22.0,False,1.2,83.912,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,32.0,2.0,HARD,9.0,True,12,True,11.0,25.8,46.7,22.0,False,0.0,84.408,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,33.0,2.0,HARD,10.0,True,24,False,11.0,25.9,46.8,22.0,False,1.0,108.657,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,34.0,2.0,HARD,11.0,True,45,False,9.0,25.9,46.6,22.0,False,1.3,132.751,True,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,35.0,3.0,MEDIUM,1.0,True,14,False,9.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,36.0,3.0,MEDIUM,2.0,True,1,True,10.0,26.0,45.0,21.0,False,2.0,138.655,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,37.0,3.0,MEDIUM,3.0,True,1,True,10.0,26.4,45.0,21.0,False,1.2,84.022,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,38.0,3.0,MEDIUM,4.0,True,1,True,10.0,26.5,45.0,21.0,False,1.6,83.3,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,39.0,3.0,MEDIUM,5.0,True,1,True,10.0,26.6,44.9,21.0,False,1.8,83.83,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,40.0,3.0,MEDIUM,6.0,True,1,True,10.0,26.8,44.8,21.0,False,2.9,83.307,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,41.0,3.0,MEDIUM,7.0,True,1,True,10.0,26.8,44.8,21.0,False,1.7,83.263,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,42.0,3.0,MEDIUM,8.0,True,1,True,10.0,26.7,44.7,20.0,False,2.4,83.316,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,43.0,3.0,MEDIUM,9.0,True,1,True,10.0,26.6,44.5,20.0,False,0.8,83.222,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,44.0,3.0,MEDIUM,10.0,True,1,True,10.0,26.6,44.5,20.0,False,1.5,83.728,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,45.0,3.0,MEDIUM,11.0,True,1,True,10.0,26.6,44.3,20.0,False,1.2,83.947,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,46.0,3.0,MEDIUM,12.0,True,1,True,10.0,26.5,44.1,20.0,False,0.8,84.248,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,47.0,3.0,MEDIUM,13.0,True,1,True,11.0,26.8,44.0,20.0,False,1.7,85.12,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,48.0,3.0,MEDIUM,14.0,True,1,True,11.0,26.9,44.0,20.0,False,1.6,83.984,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,49.0,3.0,MEDIUM,15.0,True,12,True,10.0,26.9,43.6,20.0,False,1.5,84.467,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,50.0,3.0,MEDIUM,16.0,True,1,True,10.0,26.7,43.6,20.0,False,1.5,83.964,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,51.0,3.0,MEDIUM,17.0,True,1,True,10.0,26.6,43.6,19.0,False,1.6,83.969,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,52.0,3.0,MEDIUM,18.0,True,1,True,10.0,26.6,43.6,19.0,False,1.7,84.12,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,53.0,3.0,MEDIUM,19.0,True,1,True,10.0,26.6,43.4,19.0,False,1.0,84.276,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,54.0,3.0,MEDIUM,20.0,True,1,True,10.0,26.5,43.2,19.0,False,0.0,84.324,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,55.0,3.0,MEDIUM,21.0,True,1,True,10.0,26.5,43.1,19.0,False,1.2,84.151,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,56.0,3.0,MEDIUM,22.0,True,1,True,10.0,26.5,43.2,19.0,False,1.6,83.687,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,57.0,3.0,MEDIUM,23.0,True,1,True,10.0,26.7,42.3,19.0,False,2.0,83.757,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,58.0,3.0,MEDIUM,24.0,True,1,True,10.0,26.6,41.5,19.0,False,2.2,84.227,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,59.0,3.0,MEDIUM,25.0,True,1,True,10.0,26.5,41.0,19.0,False,1.8,83.977,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,60.0,3.0,MEDIUM,26.0,True,1,True,10.0,26.6,40.6,19.0,False,1.2,83.634,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,61.0,3.0,MEDIUM,27.0,True,1,True,10.0,26.5,40.6,19.0,False,1.5,83.843,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,62.0,3.0,MEDIUM,28.0,True,1,True,10.0,26.7,40.5,18.0,False,1.5,84.447,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,63.0,3.0,MEDIUM,29.0,True,1,True,10.0,26.6,40.3,19.0,False,1.6,84.444,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,64.0,3.0,MEDIUM,30.0,True,1,True,10.0,26.5,39.9,19.0,False,1.1,83.989,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,65.0,3.0,MEDIUM,31.0,True,1,True,10.0,26.4,39.2,19.0,False,1.8,84.37,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,66.0,3.0,MEDIUM,32.0,True,12,True,12.0,26.4,38.9,19.0,False,1.8,86.767,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,67.0,3.0,MEDIUM,33.0,True,21,True,12.0,26.4,38.7,19.0,False,1.6,85.346,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,68.0,3.0,MEDIUM,34.0,True,1,True,12.0,26.4,38.2,19.0,False,1.3,84.889,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,69.0,3.0,MEDIUM,35.0,True,1,True,12.0,26.3,38.1,19.0,False,1.2,85.013,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,70.0,3.0,MEDIUM,36.0,True,1,True,13.0,26.3,37.4,19.0,False,0.6,87.168,False,71,2023,19,Mexico City Grand Prix,2023_19
+HUL,Haas F1 Team,71.0,3.0,MEDIUM,37.0,True,1,True,14.0,26.2,37.3,19.0,False,1.2,87.623,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,12,False,4.0,24.5,48.1,28.0,False,1.1,88.847,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,24.5,48.1,28.0,False,1.2,84.178,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,24.6,48.6,27.0,False,0.6,84.166,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,24.8,48.2,26.0,False,2.2,83.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,167,False,4.0,24.8,47.5,26.0,False,2.0,104.973,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,24.9,47.5,27.0,False,2.0,83.426,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,25.0,47.0,27.0,False,2.4,83.817,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,12,True,4.0,25.1,47.0,27.0,False,1.2,84.03,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,25.4,47.2,28.0,False,2.7,83.938,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,25.4,47.2,28.0,False,2.0,84.133,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,25.4,47.2,28.0,False,2.0,85.563,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,25.4,47.4,27.0,False,3.7,84.129,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,25.4,47.4,25.0,False,1.7,84.347,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,25.6,47.3,23.0,False,0.5,84.028,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,25.6,47.4,22.0,False,0.6,84.116,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,25.7,47.4,23.0,False,1.2,84.248,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,25.7,47.5,22.0,False,1.2,84.311,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,25.6,47.1,22.0,False,1.1,84.559,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,25.5,47.7,24.0,False,3.0,84.59,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,25.5,47.2,25.0,False,2.2,84.321,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,25.5,47.2,24.0,False,1.3,84.236,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,25.6,47.0,23.0,False,0.8,84.5,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,25.7,47.0,23.0,False,1.2,84.319,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,25.8,47.5,22.0,False,0.8,84.593,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,25.0,1.0,MEDIUM,25.0,True,1,True,4.0,25.8,47.6,22.0,False,1.2,85.259,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,26.0,1.0,MEDIUM,26.0,True,1,True,4.0,25.8,47.4,22.0,False,2.2,84.215,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,27.0,1.0,MEDIUM,27.0,True,1,False,4.0,25.8,46.8,22.0,False,1.2,87.032,True,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,28.0,2.0,HARD,1.0,True,1,False,5.0,25.8,46.6,22.0,False,0.8,102.52,True,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,29.0,2.0,HARD,2.0,True,1,True,5.0,25.7,46.8,22.0,False,0.5,83.599,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,30.0,2.0,HARD,3.0,True,1,True,5.0,25.7,46.8,22.0,False,1.2,83.571,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,31.0,2.0,HARD,4.0,True,1,True,5.0,25.8,46.5,22.0,False,1.2,83.738,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,32.0,2.0,HARD,5.0,True,1,True,5.0,25.7,46.7,23.0,False,0.6,83.682,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,33.0,2.0,HARD,6.0,True,124,False,5.0,25.9,46.8,22.0,False,1.0,107.012,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,34.0,2.0,HARD,7.0,True,45,False,5.0,25.9,46.8,21.0,False,1.6,140.911,True,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,35.0,3.0,HARD,8.0,False,14,False,5.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,36.0,3.0,HARD,9.0,False,1,False,6.0,26.0,45.0,21.0,False,2.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,37.0,3.0,HARD,10.0,False,1,True,6.0,26.4,45.0,21.0,False,1.2,83.489,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,38.0,3.0,HARD,11.0,False,1,True,6.0,26.5,45.0,21.0,False,1.6,82.952,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,39.0,3.0,HARD,12.0,False,1,True,6.0,26.6,44.9,21.0,False,1.8,82.933,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,40.0,3.0,HARD,13.0,False,1,True,6.0,26.8,44.8,21.0,False,2.9,82.877,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,41.0,3.0,HARD,14.0,False,1,True,6.0,26.8,44.8,21.0,False,1.7,82.945,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,42.0,3.0,HARD,15.0,False,1,True,6.0,26.8,44.8,20.0,False,2.2,83.174,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,43.0,3.0,HARD,16.0,False,1,True,6.0,26.6,44.5,20.0,False,0.8,82.903,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,44.0,3.0,HARD,17.0,False,1,True,6.0,26.6,44.5,20.0,False,1.5,83.065,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,45.0,3.0,HARD,18.0,False,1,True,6.0,26.6,44.3,20.0,False,1.2,83.608,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,46.0,3.0,HARD,19.0,False,1,True,6.0,26.5,44.1,20.0,False,0.8,83.28,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,47.0,3.0,HARD,20.0,False,1,True,6.0,26.6,44.0,20.0,False,1.0,83.783,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,48.0,3.0,HARD,21.0,False,1,True,6.0,26.9,44.0,20.0,False,1.6,83.473,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,49.0,3.0,HARD,22.0,False,12,True,6.0,26.9,43.6,20.0,False,1.5,83.467,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,50.0,3.0,HARD,23.0,False,1,True,6.0,26.7,43.6,20.0,False,1.5,83.509,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,51.0,3.0,HARD,24.0,False,1,True,6.0,26.6,43.6,19.0,False,1.6,83.135,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,52.0,3.0,HARD,25.0,False,1,True,6.0,26.6,43.6,19.0,False,0.4,83.282,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,53.0,3.0,HARD,26.0,False,1,True,6.0,26.6,43.4,19.0,False,1.0,83.126,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,54.0,3.0,HARD,27.0,False,1,True,6.0,26.5,43.2,19.0,False,0.0,83.059,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,55.0,3.0,HARD,28.0,False,1,True,6.0,26.5,43.1,19.0,False,1.2,83.307,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,56.0,3.0,HARD,29.0,False,1,True,6.0,26.5,43.2,19.0,False,1.6,83.357,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,57.0,3.0,HARD,30.0,False,1,True,6.0,26.5,43.1,19.0,False,1.8,83.007,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,58.0,3.0,HARD,31.0,False,1,True,6.0,26.6,41.5,19.0,False,2.2,83.144,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,59.0,3.0,HARD,32.0,False,1,True,6.0,26.5,41.0,19.0,False,1.8,83.103,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,60.0,3.0,HARD,33.0,False,1,True,7.0,26.5,40.6,19.0,False,0.8,85.294,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,61.0,3.0,HARD,34.0,False,1,True,7.0,26.5,40.6,19.0,False,1.5,83.655,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,62.0,3.0,HARD,35.0,False,1,True,7.0,26.7,40.6,18.0,False,2.2,83.07,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,63.0,3.0,HARD,36.0,False,1,True,7.0,26.6,40.3,19.0,False,1.6,82.862,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,64.0,3.0,HARD,37.0,False,1,True,7.0,26.5,39.9,19.0,False,1.1,82.811,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,65.0,3.0,HARD,38.0,False,1,True,7.0,26.4,39.8,19.0,False,1.7,82.839,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,66.0,3.0,HARD,39.0,False,1,True,7.0,26.4,38.9,19.0,False,1.8,82.679,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,67.0,3.0,HARD,40.0,False,12,True,7.0,26.4,38.8,19.0,False,2.0,83.133,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,68.0,3.0,HARD,41.0,False,1,True,7.0,26.4,38.2,19.0,False,1.3,83.235,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,69.0,3.0,HARD,42.0,False,1,True,7.0,26.3,38.1,19.0,False,1.2,83.174,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,70.0,3.0,HARD,43.0,False,1,True,7.0,26.3,37.7,19.0,False,0.8,83.29,False,71,2023,19,Mexico City Grand Prix,2023_19
+RIC,AlphaTauri,71.0,3.0,HARD,44.0,False,1,True,7.0,26.2,37.3,19.0,False,1.2,85.314,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,1.0,1.0,HARD,1.0,True,12,False,18.0,24.5,48.1,28.0,False,1.1,96.27,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,2.0,1.0,HARD,2.0,True,1,True,18.0,24.6,48.6,28.0,False,2.5,86.563,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,3.0,1.0,HARD,3.0,True,1,True,19.0,24.6,48.6,27.0,False,0.6,87.456,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,4.0,1.0,HARD,4.0,True,16,False,19.0,24.8,48.2,26.0,False,2.2,90.735,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,5.0,1.0,HARD,5.0,True,671,False,19.0,24.8,47.5,26.0,False,2.0,99.89,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,6.0,1.0,HARD,6.0,True,1,True,19.0,25.0,47.0,27.0,False,1.3,84.322,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,7.0,1.0,HARD,7.0,True,1,True,19.0,25.0,47.0,27.0,False,2.4,84.643,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,8.0,1.0,HARD,8.0,True,12,True,19.0,25.1,47.0,27.0,False,1.2,85.088,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,9.0,1.0,HARD,9.0,True,1,True,19.0,25.4,47.2,28.0,False,2.7,85.135,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,10.0,1.0,HARD,10.0,True,1,True,18.0,25.4,47.2,28.0,False,2.0,84.888,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,11.0,1.0,HARD,11.0,True,1,True,18.0,25.3,47.3,27.0,False,0.6,85.26,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,12.0,1.0,HARD,12.0,True,1,True,17.0,25.4,47.4,27.0,False,3.7,85.116,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,13.0,1.0,HARD,13.0,True,1,True,17.0,25.5,47.6,24.0,False,1.1,85.395,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,14.0,1.0,HARD,14.0,True,1,True,17.0,25.6,47.3,23.0,False,0.5,85.287,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,15.0,1.0,HARD,15.0,True,1,True,17.0,25.6,47.4,22.0,False,0.6,85.315,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,16.0,1.0,HARD,16.0,True,1,True,17.0,25.8,47.5,22.0,False,1.3,85.822,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,17.0,1.0,HARD,17.0,True,1,True,17.0,25.7,47.5,22.0,False,1.2,85.323,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,18.0,1.0,HARD,18.0,True,1,True,17.0,25.5,47.7,22.0,False,2.4,85.973,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,19.0,1.0,HARD,19.0,True,1,True,17.0,25.5,47.7,24.0,False,3.0,84.929,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,20.0,1.0,HARD,20.0,True,1,True,17.0,25.5,47.2,25.0,False,2.2,85.015,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,21.0,1.0,HARD,21.0,True,1,True,17.0,25.6,47.5,22.0,False,3.2,86.46,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,22.0,1.0,HARD,22.0,True,1,True,17.0,25.6,47.0,23.0,False,0.8,86.725,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,23.0,1.0,HARD,23.0,True,1,True,17.0,25.8,47.3,23.0,False,1.0,86.072,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,24.0,1.0,HARD,24.0,True,1,True,15.0,25.8,47.5,22.0,False,0.8,85.338,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,25.0,1.0,HARD,25.0,True,1,True,15.0,25.8,47.4,22.0,False,2.2,85.468,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,26.0,1.0,HARD,26.0,True,1,True,15.0,25.9,46.8,22.0,False,1.0,85.088,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,27.0,1.0,HARD,27.0,True,1,True,15.0,25.8,46.8,22.0,False,1.2,85.291,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,28.0,1.0,HARD,28.0,True,1,True,15.0,25.7,46.5,22.0,False,0.0,85.134,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,29.0,1.0,HARD,29.0,True,1,True,13.0,25.7,46.8,22.0,False,0.5,85.273,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,30.0,1.0,HARD,30.0,True,1,True,14.0,25.7,46.5,22.0,False,1.1,85.669,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,31.0,1.0,HARD,31.0,True,1,True,14.0,25.8,46.5,22.0,False,1.2,86.761,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,32.0,1.0,HARD,32.0,True,124,False,14.0,25.8,46.7,22.0,False,0.0,87.763,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,33.0,1.0,HARD,33.0,True,4,False,14.0,25.9,46.8,22.0,False,1.0,111.953,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,34.0,1.0,HARD,34.0,True,45,False,14.0,25.9,46.6,22.0,False,1.3,136.517,True,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,35.0,2.0,MEDIUM,1.0,True,14,False,14.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,36.0,2.0,MEDIUM,2.0,True,1,True,11.0,26.3,45.0,21.0,False,2.0,121.608,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,37.0,2.0,MEDIUM,3.0,True,1,True,11.0,26.4,45.0,21.0,False,1.2,84.421,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,38.0,2.0,MEDIUM,4.0,True,1,True,11.0,26.5,45.0,21.0,False,1.6,83.38,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,39.0,2.0,MEDIUM,5.0,True,1,True,11.0,26.6,44.9,21.0,False,1.8,83.538,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,40.0,2.0,MEDIUM,6.0,True,1,True,11.0,26.8,44.8,21.0,False,2.9,83.571,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,41.0,2.0,MEDIUM,7.0,True,1,True,11.0,26.8,44.8,21.0,False,1.7,83.297,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,42.0,2.0,MEDIUM,8.0,True,1,True,11.0,26.7,44.7,20.0,False,2.4,83.334,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,43.0,2.0,MEDIUM,9.0,True,1,True,11.0,26.6,44.5,20.0,False,0.8,83.084,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,44.0,2.0,MEDIUM,10.0,True,1,True,11.0,26.6,44.5,20.0,False,1.5,83.618,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,45.0,2.0,MEDIUM,11.0,True,1,True,11.0,26.6,44.3,20.0,False,1.2,83.77,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,46.0,2.0,MEDIUM,12.0,True,1,True,12.0,26.5,44.1,20.0,False,0.8,85.128,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,47.0,2.0,MEDIUM,13.0,True,1,True,12.0,26.8,44.0,20.0,False,1.7,84.305,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,48.0,2.0,MEDIUM,14.0,True,1,True,12.0,26.9,44.0,20.0,False,1.6,83.921,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,49.0,2.0,MEDIUM,15.0,True,12,True,11.0,26.9,43.6,20.0,False,1.5,84.658,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,50.0,2.0,MEDIUM,16.0,True,1,True,11.0,26.7,43.6,20.0,False,1.5,83.817,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,51.0,2.0,MEDIUM,17.0,True,1,True,11.0,26.6,43.6,19.0,False,1.6,84.136,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,52.0,2.0,MEDIUM,18.0,True,1,True,11.0,26.6,43.6,19.0,False,1.7,83.99,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,53.0,2.0,MEDIUM,19.0,True,1,True,11.0,26.6,43.4,19.0,False,1.0,84.146,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,54.0,2.0,MEDIUM,20.0,True,1,True,11.0,26.5,43.2,19.0,False,0.0,84.734,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,55.0,2.0,MEDIUM,21.0,True,1,True,11.0,26.5,43.1,19.0,False,1.2,83.909,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,56.0,2.0,MEDIUM,22.0,True,1,True,11.0,26.5,43.2,19.0,False,1.6,83.824,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,57.0,2.0,MEDIUM,23.0,True,1,True,11.0,26.7,42.3,19.0,False,2.0,83.602,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,58.0,2.0,MEDIUM,24.0,True,1,True,11.0,26.6,41.5,19.0,False,2.2,84.249,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,59.0,2.0,MEDIUM,25.0,True,1,True,11.0,26.5,41.0,19.0,False,1.8,84.035,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,60.0,2.0,MEDIUM,26.0,True,1,True,11.0,26.6,40.6,19.0,False,1.2,83.739,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,61.0,2.0,MEDIUM,27.0,True,1,True,11.0,26.5,40.6,19.0,False,1.5,83.614,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,62.0,2.0,MEDIUM,28.0,True,1,True,11.0,26.7,40.5,18.0,False,1.5,84.486,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,63.0,2.0,MEDIUM,29.0,True,1,True,11.0,26.6,40.3,19.0,False,1.6,84.487,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,64.0,2.0,MEDIUM,30.0,True,1,True,11.0,26.5,39.9,19.0,False,1.1,84.002,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,65.0,2.0,MEDIUM,31.0,True,1,True,11.0,26.4,39.2,19.0,False,1.8,84.002,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,66.0,2.0,MEDIUM,32.0,True,12,True,10.0,26.4,38.9,19.0,False,1.8,82.976,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,67.0,2.0,MEDIUM,33.0,True,21,True,10.0,26.4,38.7,19.0,False,1.6,83.377,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,68.0,2.0,MEDIUM,34.0,True,1,True,10.0,26.4,38.2,19.0,False,1.3,83.211,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,69.0,2.0,MEDIUM,35.0,True,1,True,10.0,26.3,38.1,19.0,False,1.2,83.135,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,70.0,2.0,MEDIUM,36.0,True,1,True,10.0,26.3,37.4,19.0,False,0.6,83.197,False,71,2023,19,Mexico City Grand Prix,2023_19
+OCO,Alpine,71.0,2.0,MEDIUM,37.0,True,1,True,10.0,26.2,37.3,19.0,False,1.2,83.158,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,1.0,1.0,SOFT,1.0,True,12,False,16.0,24.5,48.1,28.0,False,1.1,95.404,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,2.0,1.0,SOFT,2.0,True,1,True,16.0,24.6,48.6,28.0,False,2.5,86.297,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,3.0,1.0,SOFT,3.0,True,1,True,15.0,24.6,48.6,27.0,False,0.6,84.635,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,4.0,1.0,SOFT,4.0,True,16,False,15.0,24.8,48.2,26.0,False,2.2,84.467,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,5.0,1.0,SOFT,5.0,True,671,False,15.0,24.8,47.5,26.0,False,2.0,106.139,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,6.0,1.0,SOFT,6.0,True,1,True,15.0,25.0,47.0,27.0,False,1.3,84.197,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,7.0,1.0,SOFT,7.0,True,1,True,15.0,25.0,47.0,27.0,False,2.4,84.27,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,8.0,1.0,SOFT,8.0,True,12,True,15.0,25.1,47.0,27.0,False,1.2,85.543,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,9.0,1.0,SOFT,9.0,True,1,True,14.0,25.4,47.2,28.0,False,2.7,85.601,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,10.0,1.0,SOFT,10.0,True,1,True,14.0,25.4,47.2,28.0,False,2.0,83.8,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,11.0,1.0,SOFT,11.0,True,1,False,15.0,25.3,47.3,27.0,False,0.6,87.653,True,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,12.0,2.0,HARD,1.0,True,1,False,18.0,25.4,47.4,27.0,False,3.7,103.864,True,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,13.0,2.0,HARD,2.0,True,1,True,18.0,25.5,47.6,24.0,False,1.1,83.481,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,14.0,2.0,HARD,3.0,True,1,True,18.0,25.6,47.3,23.0,False,0.5,83.201,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,15.0,2.0,HARD,4.0,True,1,True,18.0,25.7,47.4,23.0,False,1.2,83.294,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,16.0,2.0,HARD,5.0,True,1,True,18.0,25.8,47.5,22.0,False,1.3,83.531,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,17.0,2.0,HARD,6.0,True,1,True,18.0,25.7,47.5,22.0,False,1.2,83.611,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,18.0,2.0,HARD,7.0,True,1,True,18.0,25.5,47.7,22.0,False,2.4,83.719,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,19.0,2.0,HARD,8.0,True,1,True,18.0,25.5,47.7,24.0,False,3.0,83.715,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,20.0,2.0,HARD,9.0,True,1,True,18.0,25.5,47.2,24.0,False,1.3,83.832,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,21.0,2.0,HARD,10.0,True,1,True,18.0,25.6,47.5,22.0,False,3.2,85.057,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,22.0,2.0,HARD,11.0,True,1,True,16.0,25.6,47.0,23.0,False,0.8,85.162,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,23.0,2.0,HARD,12.0,True,1,True,14.0,25.8,47.3,23.0,False,1.0,83.483,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,24.0,2.0,HARD,13.0,True,1,True,12.0,25.8,47.5,22.0,False,0.8,83.978,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,25.0,2.0,HARD,14.0,True,1,True,12.0,25.8,47.4,22.0,False,2.2,83.729,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,26.0,2.0,HARD,15.0,True,1,True,11.0,25.9,46.8,22.0,False,1.0,83.202,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,27.0,2.0,HARD,16.0,True,1,True,11.0,25.8,46.8,22.0,False,1.2,83.997,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,28.0,2.0,HARD,17.0,True,1,True,11.0,25.7,46.5,22.0,False,0.0,84.306,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,29.0,2.0,HARD,18.0,True,1,True,9.0,25.7,46.8,22.0,False,0.5,84.383,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,30.0,2.0,HARD,19.0,True,1,True,9.0,25.7,46.5,22.0,False,1.1,84.643,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,31.0,2.0,HARD,20.0,True,1,True,8.0,25.8,46.5,22.0,False,1.2,83.351,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,32.0,2.0,HARD,21.0,True,12,True,8.0,25.7,46.7,23.0,False,0.6,83.275,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,33.0,2.0,HARD,22.0,True,24,False,8.0,25.9,46.8,22.0,False,1.0,106.374,True,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,34.0,3.0,MEDIUM,1.0,True,45,False,10.0,25.9,46.6,22.0,False,1.3,149.036,True,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,35.0,4.0,MEDIUM,2.0,False,14,False,10.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,36.0,4.0,MEDIUM,3.0,False,1,True,14.0,26.0,45.0,21.0,False,2.0,137.757,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,37.0,4.0,MEDIUM,4.0,False,1,True,14.0,26.4,45.0,21.0,False,1.2,84.243,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,38.0,4.0,MEDIUM,5.0,False,1,True,14.0,26.5,45.0,21.0,False,1.6,83.841,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,39.0,4.0,MEDIUM,6.0,False,1,True,14.0,26.6,44.9,21.0,False,1.8,83.521,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,40.0,4.0,MEDIUM,7.0,False,1,True,14.0,26.8,44.8,21.0,False,2.9,83.409,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,41.0,4.0,MEDIUM,8.0,False,1,True,13.0,26.8,44.8,21.0,False,1.7,83.043,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,42.0,4.0,MEDIUM,9.0,False,1,True,13.0,26.7,44.7,20.0,False,2.4,83.328,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,43.0,4.0,MEDIUM,10.0,False,1,True,13.0,26.6,44.5,20.0,False,0.8,82.974,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,44.0,4.0,MEDIUM,11.0,False,1,True,13.0,26.6,44.5,20.0,False,1.5,83.021,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,45.0,4.0,MEDIUM,12.0,False,1,True,12.0,26.6,44.3,20.0,False,1.2,83.1,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,46.0,4.0,MEDIUM,13.0,False,1,True,11.0,26.5,44.1,20.0,False,0.8,83.845,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,47.0,4.0,MEDIUM,14.0,False,1,True,10.0,26.8,44.0,20.0,False,1.7,83.041,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,48.0,4.0,MEDIUM,15.0,False,1,True,10.0,26.9,44.0,20.0,False,1.6,83.518,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,49.0,4.0,MEDIUM,16.0,False,12,True,8.0,26.9,43.6,20.0,False,1.5,83.356,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,50.0,4.0,MEDIUM,17.0,False,1,True,8.0,26.7,43.6,20.0,False,1.5,83.109,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,51.0,4.0,MEDIUM,18.0,False,1,True,8.0,26.6,43.6,19.0,False,1.6,82.672,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,52.0,4.0,MEDIUM,19.0,False,1,True,8.0,26.6,43.6,19.0,False,0.4,82.675,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,53.0,4.0,MEDIUM,20.0,False,1,True,8.0,26.6,43.4,19.0,False,1.0,82.601,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,54.0,4.0,MEDIUM,21.0,False,1,True,8.0,26.5,43.2,19.0,False,0.0,82.497,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,55.0,4.0,MEDIUM,22.0,False,1,True,8.0,26.5,43.1,19.0,False,1.2,82.642,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,56.0,4.0,MEDIUM,23.0,False,1,True,7.0,26.5,43.2,19.0,False,1.6,82.027,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,57.0,4.0,MEDIUM,24.0,False,1,True,7.0,26.5,43.1,19.0,False,1.8,82.635,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,58.0,4.0,MEDIUM,25.0,False,1,True,7.0,26.6,41.5,19.0,False,2.2,82.492,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,59.0,4.0,MEDIUM,26.0,False,1,True,7.0,26.5,41.0,19.0,False,1.8,82.46,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,60.0,4.0,MEDIUM,27.0,False,1,True,6.0,26.5,40.6,19.0,False,0.8,83.208,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,61.0,4.0,MEDIUM,28.0,False,1,True,6.0,26.5,40.6,19.0,False,1.5,82.498,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,62.0,4.0,MEDIUM,29.0,False,1,True,6.0,26.7,40.6,18.0,False,2.2,82.421,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,63.0,4.0,MEDIUM,30.0,False,1,True,6.0,26.6,40.3,19.0,False,1.6,82.403,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,64.0,4.0,MEDIUM,31.0,False,1,True,6.0,26.5,39.9,19.0,False,1.1,82.496,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,65.0,4.0,MEDIUM,32.0,False,1,True,6.0,26.4,39.8,19.0,False,1.7,82.775,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,66.0,4.0,MEDIUM,33.0,False,1,True,6.0,26.4,38.9,19.0,False,1.8,83.188,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,67.0,4.0,MEDIUM,34.0,False,12,True,5.0,26.4,38.8,19.0,False,2.0,83.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,68.0,4.0,MEDIUM,35.0,False,1,True,5.0,26.4,38.7,19.0,False,1.6,82.787,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,69.0,4.0,MEDIUM,36.0,False,1,True,5.0,26.3,38.1,19.0,False,1.2,82.502,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,70.0,4.0,MEDIUM,37.0,False,1,True,5.0,26.3,37.7,19.0,False,0.8,82.152,False,71,2023,19,Mexico City Grand Prix,2023_19
+NOR,McLaren,71.0,4.0,MEDIUM,38.0,False,1,True,5.0,26.2,37.3,19.0,False,1.2,81.944,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,12,False,5.0,24.5,48.1,28.0,False,1.1,89.425,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,24.5,48.1,28.0,False,1.2,84.314,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,24.6,48.6,27.0,False,0.6,84.162,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,24.8,48.2,26.0,False,2.2,83.887,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,167,False,5.0,24.8,47.5,26.0,False,2.0,105.164,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,24.9,47.5,27.0,False,2.0,83.3,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,25.0,47.0,27.0,False,2.4,83.707,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,12,True,5.0,25.1,47.0,27.0,False,1.2,84.296,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,25.4,47.2,28.0,False,2.7,83.964,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,25.4,47.2,28.0,False,2.0,83.785,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,25.4,47.2,28.0,False,2.0,83.951,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,25.4,47.4,27.0,False,3.7,83.632,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,25.4,47.4,25.0,False,1.7,84.072,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,25.6,47.3,23.0,False,0.5,83.839,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,25.6,47.4,22.0,False,0.6,83.831,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,25.7,47.4,23.0,False,1.2,83.94,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,25.7,47.5,22.0,False,1.2,84.365,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,25.6,47.1,22.0,False,1.1,84.107,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,25.5,47.7,24.0,False,3.0,84.34,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,25.5,47.2,25.0,False,2.2,84.181,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,3.0,25.5,47.2,24.0,False,1.3,84.172,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,25.6,47.0,23.0,False,0.8,84.58,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,25.7,47.0,23.0,False,1.2,84.231,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,False,3.0,25.8,47.5,22.0,False,0.8,86.973,True,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,25.0,2.0,HARD,1.0,True,1,False,7.0,25.8,47.6,22.0,False,1.2,100.629,True,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,26.0,2.0,HARD,2.0,True,1,True,6.0,25.9,46.8,22.0,False,1.0,82.87,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,27.0,2.0,HARD,3.0,True,1,True,5.0,25.8,46.8,22.0,False,1.2,83.717,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,28.0,2.0,HARD,4.0,True,1,True,4.0,25.8,46.6,22.0,False,0.8,83.472,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,29.0,2.0,HARD,5.0,True,1,True,4.0,25.7,46.8,22.0,False,0.5,83.381,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,30.0,2.0,HARD,6.0,True,1,True,4.0,25.7,46.8,22.0,False,1.2,83.219,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,31.0,2.0,HARD,7.0,True,1,True,3.0,25.8,46.5,22.0,False,1.2,83.607,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,32.0,2.0,HARD,8.0,True,1,True,3.0,25.7,46.7,23.0,False,0.6,83.19,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,33.0,2.0,HARD,9.0,True,124,False,3.0,25.8,46.7,22.0,False,0.0,99.15,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,34.0,2.0,HARD,10.0,True,45,False,3.0,25.9,46.8,21.0,False,1.6,,True,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,35.0,3.0,MEDIUM,5.0,False,14,False,3.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,36.0,3.0,MEDIUM,6.0,False,1,False,3.0,26.0,45.0,21.0,False,2.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,37.0,3.0,MEDIUM,7.0,False,1,True,3.0,26.4,45.0,21.0,False,2.2,83.152,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,38.0,3.0,MEDIUM,8.0,False,1,True,3.0,26.5,45.0,21.0,False,1.6,82.432,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,39.0,3.0,MEDIUM,9.0,False,1,True,3.0,26.6,44.9,21.0,False,1.8,82.394,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,40.0,3.0,MEDIUM,10.0,False,1,True,2.0,26.8,44.8,21.0,False,2.9,81.852,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,41.0,3.0,MEDIUM,11.0,False,1,True,2.0,26.8,44.8,21.0,False,1.7,82.231,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,42.0,3.0,MEDIUM,12.0,False,1,True,2.0,26.8,44.8,20.0,False,2.2,82.467,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,43.0,3.0,MEDIUM,13.0,False,1,True,2.0,26.6,44.5,20.0,False,0.8,82.354,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,44.0,3.0,MEDIUM,14.0,False,1,True,2.0,26.6,44.5,20.0,False,1.5,82.414,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,45.0,3.0,MEDIUM,15.0,False,1,True,2.0,26.7,44.3,20.0,False,2.2,82.438,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,46.0,3.0,MEDIUM,16.0,False,1,True,2.0,26.5,44.1,20.0,False,0.8,82.728,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,47.0,3.0,MEDIUM,17.0,False,1,True,2.0,26.6,44.0,20.0,False,1.0,82.413,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,48.0,3.0,MEDIUM,18.0,False,1,True,2.0,26.9,44.0,20.0,False,1.6,83.429,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,49.0,3.0,MEDIUM,19.0,False,12,True,2.0,26.9,43.6,20.0,False,1.5,82.615,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,50.0,3.0,MEDIUM,20.0,False,1,True,2.0,26.9,43.6,20.0,False,1.7,82.772,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,51.0,3.0,MEDIUM,21.0,False,1,True,2.0,26.6,43.6,19.0,False,1.6,83.538,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,52.0,3.0,MEDIUM,22.0,False,1,True,2.0,26.6,43.6,19.0,False,0.4,82.722,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,53.0,3.0,MEDIUM,23.0,False,1,True,2.0,26.6,43.4,19.0,False,1.0,82.563,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,54.0,3.0,MEDIUM,24.0,False,1,True,2.0,26.5,43.2,19.0,False,0.0,82.919,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,55.0,3.0,MEDIUM,25.0,False,1,True,2.0,26.5,43.1,19.0,False,1.0,82.831,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,56.0,3.0,MEDIUM,26.0,False,1,True,2.0,26.5,43.2,19.0,False,1.6,82.777,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,57.0,3.0,MEDIUM,27.0,False,1,True,2.0,26.5,43.1,19.0,False,1.8,82.629,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,58.0,3.0,MEDIUM,28.0,False,1,True,2.0,26.7,42.3,19.0,False,2.0,82.334,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,59.0,3.0,MEDIUM,29.0,False,1,True,2.0,26.5,41.0,19.0,False,1.8,82.437,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,60.0,3.0,MEDIUM,30.0,False,1,True,2.0,26.5,40.6,19.0,False,0.8,82.083,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,61.0,3.0,MEDIUM,31.0,False,1,True,2.0,26.5,40.6,19.0,False,1.5,82.691,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,62.0,3.0,MEDIUM,32.0,False,1,True,2.0,26.7,40.6,18.0,False,2.2,82.252,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,63.0,3.0,MEDIUM,33.0,False,1,True,2.0,26.7,40.5,18.0,False,1.5,82.412,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,64.0,3.0,MEDIUM,34.0,False,1,True,2.0,26.5,39.9,19.0,False,1.1,82.497,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,65.0,3.0,MEDIUM,35.0,False,1,True,2.0,26.4,39.8,19.0,False,1.7,81.991,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,66.0,3.0,MEDIUM,36.0,False,1,True,2.0,26.4,39.2,19.0,False,1.8,82.078,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,67.0,3.0,MEDIUM,37.0,False,12,True,2.0,26.4,38.8,19.0,False,2.0,83.926,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,68.0,3.0,MEDIUM,38.0,False,1,True,2.0,26.4,38.7,19.0,False,1.6,82.79,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,69.0,3.0,MEDIUM,39.0,False,1,True,2.0,26.3,38.1,19.0,False,1.2,82.566,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,70.0,3.0,MEDIUM,40.0,False,1,True,2.0,26.3,37.7,19.0,False,0.8,83.339,False,71,2023,19,Mexico City Grand Prix,2023_19
+HAM,Mercedes,71.0,3.0,MEDIUM,41.0,False,1,True,2.0,26.3,37.4,19.0,False,0.6,81.334,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,12,False,3.0,24.5,48.1,28.0,False,1.1,87.958,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,24.5,48.1,28.0,False,1.2,84.3,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,24.6,48.6,27.0,False,0.6,84.153,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,24.8,48.2,26.0,False,2.2,83.916,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,167,False,3.0,24.8,47.5,26.0,False,2.0,104.772,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,24.9,47.5,27.0,False,2.0,83.478,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,25.0,47.0,27.0,False,2.4,83.669,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,12,True,3.0,25.1,47.0,27.0,False,1.2,83.709,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,25.4,47.2,28.0,False,2.7,83.807,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,25.4,47.2,28.0,False,2.0,83.947,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,25.4,47.2,28.0,False,2.0,83.864,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,25.4,47.4,27.0,False,3.7,84.148,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,25.4,47.4,25.0,False,1.7,84.277,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,25.6,47.3,23.0,False,0.5,84.071,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,25.6,47.4,22.0,False,0.6,84.194,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,25.7,47.4,23.0,False,1.2,84.051,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,25.7,47.5,22.0,False,1.2,84.087,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,25.6,47.1,22.0,False,1.1,84.414,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,25.5,47.7,24.0,False,3.0,84.647,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,25.5,47.2,25.0,False,2.2,84.102,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,25.5,47.2,24.0,False,1.3,84.108,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,25.6,47.0,23.0,False,0.8,84.022,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,25.7,47.0,23.0,False,1.2,84.162,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,25.8,47.5,22.0,False,0.8,84.274,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,2.0,25.8,47.6,22.0,False,1.2,84.21,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,25.8,47.4,22.0,False,2.2,84.009,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,27.0,1.0,MEDIUM,27.0,True,1,True,2.0,25.8,46.8,22.0,False,1.2,84.352,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,28.0,1.0,MEDIUM,28.0,True,1,True,2.0,25.8,46.6,22.0,False,0.8,84.158,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,29.0,1.0,MEDIUM,29.0,True,1,True,3.0,25.7,46.8,22.0,False,0.5,84.99,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,30.0,1.0,MEDIUM,30.0,True,1,False,3.0,25.7,46.8,22.0,False,1.2,87.64,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,31.0,2.0,HARD,1.0,True,1,False,4.0,25.7,46.5,22.0,False,1.1,102.133,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,32.0,2.0,HARD,2.0,True,1,True,4.0,25.7,46.7,23.0,False,0.6,82.785,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,33.0,2.0,HARD,3.0,True,124,False,4.0,25.9,46.8,22.0,False,1.0,100.334,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,34.0,2.0,HARD,4.0,True,45,False,4.0,25.9,46.8,21.0,False,1.6,,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,35.0,3.0,HARD,5.0,False,14,False,4.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,36.0,3.0,HARD,6.0,False,1,False,4.0,26.0,45.0,21.0,False,2.0,,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,37.0,3.0,HARD,7.0,False,1,True,4.0,26.4,45.0,21.0,False,1.2,83.566,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,38.0,3.0,HARD,8.0,False,1,True,4.0,26.5,45.0,21.0,False,1.6,82.729,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,39.0,3.0,HARD,9.0,False,1,True,4.0,26.6,44.9,21.0,False,1.8,82.938,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,40.0,3.0,HARD,10.0,False,1,True,4.0,26.8,44.8,21.0,False,2.9,82.987,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,41.0,3.0,HARD,11.0,False,1,True,4.0,26.8,44.8,21.0,False,1.7,82.952,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,42.0,3.0,HARD,12.0,False,1,True,4.0,26.8,44.8,20.0,False,2.2,83.007,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,43.0,3.0,HARD,13.0,False,1,True,4.0,26.6,44.5,20.0,False,0.8,82.829,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,44.0,3.0,HARD,14.0,False,1,True,4.0,26.6,44.5,20.0,False,1.5,83.024,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,45.0,3.0,HARD,15.0,False,1,True,4.0,26.6,44.3,20.0,False,1.2,83.259,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,46.0,3.0,HARD,16.0,False,1,True,4.0,26.5,44.1,20.0,False,0.8,82.996,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,47.0,3.0,HARD,17.0,False,1,True,4.0,26.6,44.0,20.0,False,1.0,83.957,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,48.0,3.0,HARD,18.0,False,1,True,4.0,26.9,44.0,20.0,False,1.6,83.31,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,49.0,3.0,HARD,19.0,False,12,True,4.0,26.9,43.6,20.0,False,1.5,83.256,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,50.0,3.0,HARD,20.0,False,1,True,4.0,26.7,43.6,20.0,False,1.5,83.101,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,51.0,3.0,HARD,21.0,False,1,True,4.0,26.6,43.6,19.0,False,1.6,82.91,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,52.0,3.0,HARD,22.0,False,1,True,4.0,26.6,43.6,19.0,False,0.4,82.835,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,53.0,3.0,HARD,23.0,False,1,True,4.0,26.6,43.4,19.0,False,1.0,82.88,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,54.0,3.0,HARD,24.0,False,1,True,4.0,26.5,43.2,19.0,False,0.0,82.932,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,55.0,3.0,HARD,25.0,False,1,True,4.0,26.5,43.1,19.0,False,1.0,82.845,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,56.0,3.0,HARD,26.0,False,1,True,4.0,26.5,43.2,19.0,False,1.6,82.611,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,57.0,3.0,HARD,27.0,False,1,True,4.0,26.5,43.1,19.0,False,1.8,82.539,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,58.0,3.0,HARD,28.0,False,1,True,4.0,26.6,41.5,19.0,False,2.2,82.774,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,59.0,3.0,HARD,29.0,False,1,True,4.0,26.5,41.0,19.0,False,1.8,82.548,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,60.0,3.0,HARD,30.0,False,1,True,4.0,26.5,40.6,19.0,False,0.8,82.754,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,61.0,3.0,HARD,31.0,False,1,True,4.0,26.5,40.6,19.0,False,1.5,82.663,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,62.0,3.0,HARD,32.0,False,1,True,4.0,26.7,40.6,18.0,False,2.2,82.865,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,63.0,3.0,HARD,33.0,False,1,True,4.0,26.7,40.5,18.0,False,1.5,82.905,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,64.0,3.0,HARD,34.0,False,1,True,4.0,26.5,39.9,19.0,False,1.1,82.851,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,65.0,3.0,HARD,35.0,False,1,True,4.0,26.4,39.8,19.0,False,1.7,82.841,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,66.0,3.0,HARD,36.0,False,1,True,4.0,26.4,38.9,19.0,False,1.8,82.719,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,67.0,3.0,HARD,37.0,False,12,True,4.0,26.4,38.8,19.0,False,2.0,82.707,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,68.0,3.0,HARD,38.0,False,1,True,4.0,26.4,38.7,19.0,False,1.6,82.976,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,69.0,3.0,HARD,39.0,False,1,True,4.0,26.3,38.1,19.0,False,1.2,82.767,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,70.0,3.0,HARD,40.0,False,1,True,4.0,26.3,37.7,19.0,False,0.8,82.943,False,71,2023,19,Mexico City Grand Prix,2023_19
+SAI,Ferrari,71.0,3.0,HARD,41.0,False,1,True,4.0,26.2,37.3,19.0,False,1.2,82.72,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,12,False,7.0,24.5,48.1,28.0,False,1.1,91.098,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,24.5,48.1,28.0,False,1.2,84.5,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,24.6,48.6,27.0,False,0.6,84.27,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,24.8,48.2,26.0,False,2.2,84.136,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,167,False,7.0,24.8,47.5,26.0,False,2.0,105.102,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,24.9,47.5,27.0,False,2.0,83.453,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,25.0,47.0,27.0,False,2.4,84.207,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,12,True,7.0,25.1,47.0,27.0,False,1.2,84.201,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,25.4,47.2,28.0,False,2.7,84.1,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,25.4,47.2,28.0,False,2.0,83.842,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,25.4,47.2,28.0,False,2.0,84.641,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,25.4,47.4,27.0,False,3.7,84.223,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,25.4,47.4,25.0,False,1.7,84.512,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,25.6,47.3,23.0,False,0.5,84.648,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,25.6,47.4,22.0,False,0.6,84.39,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,25.7,47.4,23.0,False,1.2,85.192,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,25.7,47.5,22.0,False,1.2,84.502,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,25.6,47.1,22.0,False,1.1,84.307,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,7.0,25.5,47.7,24.0,False,3.0,84.285,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,25.5,47.2,25.0,False,2.2,84.071,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,25.5,47.2,24.0,False,1.3,84.19,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,7.0,25.6,47.0,23.0,False,0.8,85.257,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,7.0,25.7,47.0,23.0,False,1.2,84.273,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,7.0,25.8,47.5,22.0,False,0.8,84.477,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,True,5.0,25.8,47.6,22.0,False,1.2,84.329,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,False,5.0,25.9,46.8,22.0,False,1.0,87.165,True,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,27.0,2.0,HARD,1.0,True,1,False,10.0,25.8,46.8,22.0,False,1.2,103.233,True,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,28.0,2.0,HARD,2.0,True,1,True,9.0,25.7,46.5,22.0,False,0.0,84.021,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,29.0,2.0,HARD,3.0,True,1,True,7.0,25.7,46.8,22.0,False,0.5,83.18,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,30.0,2.0,HARD,4.0,True,1,True,7.0,25.7,46.8,22.0,False,1.2,83.435,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,31.0,2.0,HARD,5.0,True,1,True,7.0,25.8,46.5,22.0,False,1.2,83.508,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,32.0,2.0,HARD,6.0,True,1,True,7.0,25.7,46.7,23.0,False,0.6,83.097,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,33.0,2.0,HARD,7.0,True,124,False,7.0,25.9,46.8,22.0,False,1.0,107.634,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,34.0,2.0,HARD,8.0,True,45,False,7.0,25.9,46.8,21.0,False,1.6,145.843,True,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,35.0,3.0,MEDIUM,6.0,False,14,False,7.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,36.0,3.0,MEDIUM,7.0,False,1,True,5.0,26.0,45.0,21.0,False,2.0,141.168,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,37.0,3.0,MEDIUM,8.0,False,1,True,5.0,26.4,45.0,21.0,False,1.2,83.464,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,38.0,3.0,MEDIUM,9.0,False,1,True,5.0,26.5,45.0,21.0,False,1.6,82.78,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,39.0,3.0,MEDIUM,10.0,False,1,True,5.0,26.6,44.9,21.0,False,1.8,83.137,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,40.0,3.0,MEDIUM,11.0,False,1,True,5.0,26.8,44.8,21.0,False,2.9,82.802,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,41.0,3.0,MEDIUM,12.0,False,1,True,5.0,26.8,44.8,21.0,False,1.7,83.006,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,42.0,3.0,MEDIUM,13.0,False,1,True,5.0,26.8,44.8,20.0,False,2.2,83.21,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,43.0,3.0,MEDIUM,14.0,False,1,True,5.0,26.6,44.5,20.0,False,0.8,82.854,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,44.0,3.0,MEDIUM,15.0,False,1,True,5.0,26.6,44.5,20.0,False,1.5,82.908,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,45.0,3.0,MEDIUM,16.0,False,1,True,5.0,26.6,44.3,20.0,False,1.2,83.212,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,46.0,3.0,MEDIUM,17.0,False,1,True,5.0,26.5,44.1,20.0,False,0.8,82.932,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,47.0,3.0,MEDIUM,18.0,False,1,True,5.0,26.6,44.0,20.0,False,1.0,83.972,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,48.0,3.0,MEDIUM,19.0,False,1,True,5.0,26.9,44.0,20.0,False,1.6,83.358,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,49.0,3.0,MEDIUM,20.0,False,12,True,5.0,26.9,43.6,20.0,False,1.5,83.369,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,50.0,3.0,MEDIUM,21.0,False,1,True,5.0,26.7,43.6,20.0,False,1.5,83.612,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,51.0,3.0,MEDIUM,22.0,False,1,True,5.0,26.6,43.6,19.0,False,1.6,83.273,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,52.0,3.0,MEDIUM,23.0,False,1,True,5.0,26.6,43.6,19.0,False,0.4,83.035,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,53.0,3.0,MEDIUM,24.0,False,1,True,5.0,26.6,43.4,19.0,False,1.0,82.983,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,54.0,3.0,MEDIUM,25.0,False,1,True,5.0,26.5,43.2,19.0,False,0.0,83.06,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,55.0,3.0,MEDIUM,26.0,False,1,True,5.0,26.5,43.1,19.0,False,1.0,83.36,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,56.0,3.0,MEDIUM,27.0,False,1,True,5.0,26.5,43.2,19.0,False,1.6,82.995,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,57.0,3.0,MEDIUM,28.0,False,1,True,5.0,26.5,43.1,19.0,False,1.8,82.973,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,58.0,3.0,MEDIUM,29.0,False,1,True,5.0,26.6,41.5,19.0,False,2.2,83.348,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,59.0,3.0,MEDIUM,30.0,False,1,True,5.0,26.5,41.0,19.0,False,1.8,82.936,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,60.0,3.0,MEDIUM,31.0,False,1,True,5.0,26.5,40.6,19.0,False,0.8,82.929,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,61.0,3.0,MEDIUM,32.0,False,1,True,5.0,26.5,40.6,19.0,False,1.5,82.983,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,62.0,3.0,MEDIUM,33.0,False,1,True,5.0,26.7,40.6,18.0,False,2.2,83.029,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,63.0,3.0,MEDIUM,34.0,False,1,True,5.0,26.6,40.3,19.0,False,1.6,82.93,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,64.0,3.0,MEDIUM,35.0,False,1,True,5.0,26.5,39.9,19.0,False,1.1,83.004,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,65.0,3.0,MEDIUM,36.0,False,1,True,5.0,26.4,39.8,19.0,False,1.7,83.181,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,66.0,3.0,MEDIUM,37.0,False,1,True,5.0,26.4,38.9,19.0,False,1.8,83.239,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,67.0,3.0,MEDIUM,38.0,False,12,True,6.0,26.4,38.8,19.0,False,2.0,85.868,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,68.0,3.0,MEDIUM,39.0,False,1,True,6.0,26.4,38.2,19.0,False,1.3,83.749,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,69.0,3.0,MEDIUM,40.0,False,1,True,6.0,26.3,38.1,19.0,False,1.2,83.397,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,70.0,3.0,MEDIUM,41.0,False,1,True,6.0,26.3,37.7,19.0,False,0.8,83.391,False,71,2023,19,Mexico City Grand Prix,2023_19
+RUS,Mercedes,71.0,3.0,MEDIUM,42.0,False,1,True,6.0,26.2,37.3,19.0,False,1.2,85.487,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,12,False,12.0,24.5,48.1,28.0,False,1.1,93.64,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,24.5,48.1,28.0,False,1.2,85.666,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,24.6,48.6,27.0,False,0.6,85.036,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,16,False,12.0,24.8,48.2,26.0,False,2.2,84.543,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,671,False,12.0,24.8,47.5,26.0,False,2.0,106.058,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,25.0,47.0,27.0,False,1.3,83.903,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,25.0,47.0,27.0,False,2.4,84.343,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,12,True,12.0,25.1,47.0,27.0,False,1.2,84.673,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,25.4,47.2,28.0,False,2.7,84.825,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,25.4,47.2,28.0,False,2.0,85.099,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,25.3,47.3,27.0,False,0.6,84.831,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,25.4,47.4,27.0,False,3.7,84.996,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,25.4,47.4,25.0,False,1.7,85.444,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,25.6,47.3,23.0,False,0.5,85.362,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,25.6,47.4,22.0,False,0.6,85.948,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,25.8,47.5,22.0,False,1.3,85.658,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,25.7,47.5,22.0,False,1.2,85.29,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,25.5,47.7,22.0,False,2.4,85.459,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,25.5,47.7,24.0,False,3.0,85.452,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,25.5,47.2,25.0,False,2.2,85.092,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,21.0,1.0,MEDIUM,21.0,True,1,True,11.0,25.6,47.5,22.0,False,3.2,85.377,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,22.0,1.0,MEDIUM,22.0,True,1,True,11.0,25.6,47.0,23.0,False,0.8,84.462,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,23.0,1.0,MEDIUM,23.0,True,1,True,11.0,25.8,47.3,23.0,False,1.0,84.725,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,24.0,1.0,MEDIUM,24.0,True,1,True,10.0,25.8,47.5,22.0,False,0.8,85.171,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,25.0,1.0,MEDIUM,25.0,True,1,True,10.0,25.8,47.6,22.0,False,1.2,84.517,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,25.9,46.8,22.0,False,1.0,85.255,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,27.0,1.0,MEDIUM,27.0,True,1,True,9.0,25.8,46.8,22.0,False,1.2,85.58,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,28.0,1.0,MEDIUM,28.0,True,1,True,10.0,25.7,46.5,22.0,False,0.0,86.01,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,29.0,1.0,MEDIUM,29.0,True,1,True,10.0,25.7,46.8,22.0,False,0.5,86.401,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,30.0,1.0,MEDIUM,30.0,True,1,True,10.0,25.7,46.5,22.0,False,1.1,85.608,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,31.0,1.0,MEDIUM,31.0,True,1,False,11.0,25.8,46.5,22.0,False,1.2,88.264,True,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,32.0,2.0,HARD,1.0,True,124,False,16.0,25.7,46.7,23.0,False,0.6,109.016,True,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,33.0,2.0,HARD,2.0,True,4,False,16.0,25.9,46.8,22.0,False,1.0,109.507,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,34.0,2.0,HARD,3.0,True,45,False,16.0,25.9,46.6,22.0,False,1.3,132.556,True,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,35.0,3.0,HARD,4.0,False,14,False,16.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,36.0,3.0,HARD,5.0,False,1,True,13.0,26.3,45.0,21.0,False,2.0,118.173,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,37.0,3.0,HARD,6.0,False,1,True,13.0,26.4,45.0,21.0,False,1.2,84.136,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,38.0,3.0,HARD,7.0,False,1,True,13.0,26.5,45.0,21.0,False,1.6,83.675,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,39.0,3.0,HARD,8.0,False,1,True,13.0,26.6,44.9,21.0,False,1.8,83.322,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,40.0,3.0,HARD,9.0,False,1,True,13.0,26.8,44.8,21.0,False,2.9,83.788,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,41.0,3.0,HARD,10.0,False,1,True,14.0,26.8,44.8,21.0,False,1.7,84.367,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,42.0,3.0,HARD,11.0,False,1,True,14.0,26.7,44.7,20.0,False,2.4,83.203,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,43.0,3.0,HARD,12.0,False,1,True,14.0,26.6,44.5,20.0,False,0.8,83.166,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,44.0,3.0,HARD,13.0,False,1,True,14.0,26.6,44.5,20.0,False,1.5,83.43,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,45.0,3.0,HARD,14.0,False,1,True,14.0,26.6,44.3,20.0,False,1.2,83.956,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,46.0,3.0,HARD,15.0,False,1,True,14.0,26.5,44.1,20.0,False,0.8,83.987,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,47.0,3.0,HARD,16.0,False,1,True,14.0,26.8,44.0,20.0,False,1.7,84.057,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,48.0,3.0,HARD,17.0,False,1,True,14.0,26.9,44.0,20.0,False,1.6,84.077,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,49.0,3.0,HARD,18.0,False,12,True,13.0,26.9,43.6,20.0,False,1.5,84.581,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,50.0,3.0,HARD,19.0,False,1,True,13.0,26.7,43.6,20.0,False,1.5,83.992,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,51.0,3.0,HARD,20.0,False,1,True,13.0,26.6,43.6,19.0,False,1.6,83.88,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,52.0,3.0,HARD,21.0,False,1,True,13.0,26.6,43.6,19.0,False,1.7,84.861,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,53.0,3.0,HARD,22.0,False,1,True,13.0,26.6,43.4,19.0,False,1.0,84.297,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,54.0,3.0,HARD,23.0,False,1,True,13.0,26.5,43.2,19.0,False,0.0,84.402,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,55.0,3.0,HARD,24.0,False,1,True,13.0,26.5,43.1,19.0,False,1.2,84.004,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,56.0,3.0,HARD,25.0,False,1,True,13.0,26.5,43.2,19.0,False,1.6,84.356,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,57.0,3.0,HARD,26.0,False,1,True,13.0,26.7,42.3,19.0,False,2.0,83.726,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,58.0,3.0,HARD,27.0,False,1,True,13.0,26.6,41.5,19.0,False,2.2,83.831,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,59.0,3.0,HARD,28.0,False,1,True,13.0,26.5,41.0,19.0,False,1.8,83.681,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,60.0,3.0,HARD,29.0,False,1,True,13.0,26.6,40.6,19.0,False,1.2,83.788,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,61.0,3.0,HARD,30.0,False,1,True,13.0,26.5,40.6,19.0,False,1.5,83.671,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,62.0,3.0,HARD,31.0,False,1,True,13.0,26.7,40.5,18.0,False,1.5,84.204,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,63.0,3.0,HARD,32.0,False,1,True,13.0,26.6,40.3,19.0,False,1.6,84.088,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,64.0,3.0,HARD,33.0,False,1,True,13.0,26.5,39.9,19.0,False,1.1,84.079,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,65.0,3.0,HARD,34.0,False,1,True,13.0,26.4,39.2,19.0,False,1.8,84.214,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,66.0,3.0,HARD,35.0,False,12,True,13.0,26.4,38.9,19.0,False,1.8,87.353,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,67.0,3.0,HARD,36.0,False,21,True,15.0,26.4,38.7,19.0,False,1.6,86.217,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,68.0,3.0,HARD,37.0,False,1,True,15.0,26.4,38.2,19.0,False,1.3,84.695,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,69.0,3.0,HARD,38.0,False,1,True,15.0,26.3,38.1,19.0,False,1.2,84.295,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,70.0,3.0,HARD,39.0,False,1,True,15.0,26.3,37.4,19.0,False,0.6,85.619,False,71,2023,19,Mexico City Grand Prix,2023_19
+BOT,Alfa Romeo,71.0,3.0,HARD,40.0,False,1,True,15.0,26.2,37.3,19.0,False,1.2,87.033,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,12,False,6.0,24.5,48.1,28.0,False,1.1,90.74,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,24.5,48.1,28.0,False,1.2,84.416,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,24.6,48.6,27.0,False,0.6,84.096,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,24.8,48.2,26.0,False,2.2,83.649,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,167,False,6.0,24.8,47.5,26.0,False,2.0,105.259,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,24.9,47.5,27.0,False,2.0,83.407,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,25.0,47.0,27.0,False,2.4,84.111,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,12,True,6.0,25.1,47.0,27.0,False,1.2,83.998,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,25.4,47.2,28.0,False,2.7,84.422,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,25.4,47.2,28.0,False,2.0,84.181,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,25.4,47.2,28.0,False,2.0,84.534,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,25.4,47.4,27.0,False,3.7,84.123,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,25.4,47.4,25.0,False,1.7,84.266,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,25.6,47.3,23.0,False,0.5,84.14,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,25.6,47.4,22.0,False,0.6,84.391,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,25.7,47.4,23.0,False,1.2,84.382,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,25.7,47.5,22.0,False,1.2,84.419,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,25.6,47.1,22.0,False,1.1,84.694,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,25.5,47.7,24.0,False,3.0,84.599,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,25.5,47.2,25.0,False,2.2,84.368,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,25.5,47.2,24.0,False,1.3,84.228,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,25.6,47.0,23.0,False,0.8,84.261,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,6.0,25.7,47.0,23.0,False,1.2,85.126,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,6.0,25.8,47.5,22.0,False,0.8,84.676,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,False,6.0,25.8,47.6,22.0,False,1.2,87.574,True,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,26.0,2.0,HARD,1.0,True,1,False,10.0,25.9,46.8,22.0,False,1.0,103.446,True,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,27.0,2.0,HARD,2.0,True,1,True,8.0,25.8,46.8,22.0,False,1.2,83.69,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,28.0,2.0,HARD,3.0,True,1,True,7.0,25.7,46.5,22.0,False,0.0,83.519,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,29.0,2.0,HARD,4.0,True,1,True,6.0,25.7,46.8,22.0,False,0.5,83.471,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,30.0,2.0,HARD,5.0,True,1,True,6.0,25.7,46.8,22.0,False,1.2,83.265,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,31.0,2.0,HARD,6.0,True,1,True,6.0,25.8,46.5,22.0,False,1.2,83.669,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,32.0,2.0,HARD,7.0,True,1,True,6.0,25.7,46.7,23.0,False,0.6,83.531,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,33.0,2.0,HARD,8.0,True,124,False,6.0,25.9,46.8,22.0,False,1.0,106.934,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,34.0,2.0,HARD,9.0,True,45,False,6.0,25.9,46.8,21.0,False,1.6,141.809,True,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,35.0,3.0,MEDIUM,4.0,False,14,False,6.0,26.1,45.4,20.0,False,1.2,,True,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,36.0,3.0,MEDIUM,5.0,False,1,True,7.0,26.0,45.0,21.0,False,2.0,148.49,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,37.0,3.0,MEDIUM,6.0,False,1,True,7.0,26.4,45.0,21.0,False,1.2,83.8,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,38.0,3.0,MEDIUM,7.0,False,1,True,7.0,26.5,45.0,21.0,False,1.6,83.151,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,39.0,3.0,MEDIUM,8.0,False,1,True,7.0,26.6,44.9,21.0,False,1.8,83.653,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,40.0,3.0,MEDIUM,9.0,False,1,True,7.0,26.8,44.8,21.0,False,2.9,82.924,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,41.0,3.0,MEDIUM,10.0,False,1,True,7.0,26.8,44.8,21.0,False,1.7,82.947,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,42.0,3.0,MEDIUM,11.0,False,1,True,7.0,26.8,44.8,20.0,False,2.2,83.259,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,43.0,3.0,MEDIUM,12.0,False,1,True,7.0,26.6,44.5,20.0,False,0.8,82.88,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,44.0,3.0,MEDIUM,13.0,False,1,True,7.0,26.6,44.5,20.0,False,1.5,83.198,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,45.0,3.0,MEDIUM,14.0,False,1,True,7.0,26.6,44.3,20.0,False,1.2,83.117,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,46.0,3.0,MEDIUM,15.0,False,1,True,7.0,26.5,44.1,20.0,False,0.8,83.447,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,47.0,3.0,MEDIUM,16.0,False,1,True,7.0,26.6,44.0,20.0,False,1.0,83.442,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,48.0,3.0,MEDIUM,17.0,False,1,True,7.0,26.9,44.0,20.0,False,1.6,85.475,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,49.0,3.0,MEDIUM,18.0,False,12,True,7.0,26.9,43.6,20.0,False,1.5,84.269,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,50.0,3.0,MEDIUM,19.0,False,1,True,7.0,26.7,43.6,20.0,False,1.5,83.213,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,51.0,3.0,MEDIUM,20.0,False,1,True,7.0,26.6,43.6,19.0,False,1.6,83.004,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,52.0,3.0,MEDIUM,21.0,False,1,True,7.0,26.6,43.6,19.0,False,0.4,83.118,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,53.0,3.0,MEDIUM,22.0,False,1,True,7.0,26.6,43.4,19.0,False,1.0,82.76,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,54.0,3.0,MEDIUM,23.0,False,1,True,7.0,26.5,43.2,19.0,False,0.0,82.877,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,55.0,3.0,MEDIUM,24.0,False,1,True,7.0,26.5,43.1,19.0,False,1.2,83.016,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,56.0,3.0,MEDIUM,25.0,False,1,True,8.0,26.5,43.2,19.0,False,1.6,84.999,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,57.0,3.0,MEDIUM,26.0,False,1,True,8.0,26.5,43.1,19.0,False,1.8,83.473,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,58.0,3.0,MEDIUM,27.0,False,1,True,8.0,26.6,41.5,19.0,False,2.2,83.362,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,59.0,3.0,MEDIUM,28.0,False,1,True,8.0,26.5,41.0,19.0,False,1.8,83.231,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,60.0,3.0,MEDIUM,29.0,False,1,True,8.0,26.6,40.6,19.0,False,1.2,83.181,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,61.0,3.0,MEDIUM,30.0,False,1,True,8.0,26.5,40.6,19.0,False,1.5,82.815,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,62.0,3.0,MEDIUM,31.0,False,1,True,8.0,26.7,40.6,18.0,False,2.2,82.947,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,63.0,3.0,MEDIUM,32.0,False,1,True,8.0,26.6,40.3,19.0,False,1.6,83.157,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,64.0,3.0,MEDIUM,33.0,False,1,True,8.0,26.5,39.9,19.0,False,1.1,82.977,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,65.0,3.0,MEDIUM,34.0,False,1,True,8.0,26.4,39.8,19.0,False,1.7,83.208,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,66.0,3.0,MEDIUM,35.0,False,1,True,8.0,26.4,38.9,19.0,False,1.8,83.133,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,67.0,3.0,MEDIUM,36.0,False,12,True,8.0,26.4,38.8,19.0,False,2.0,83.238,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,68.0,3.0,MEDIUM,37.0,False,1,True,8.0,26.4,38.2,19.0,False,1.3,83.362,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,69.0,3.0,MEDIUM,38.0,False,1,True,8.0,26.3,38.1,19.0,False,1.2,83.168,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,70.0,3.0,MEDIUM,39.0,False,1,True,8.0,26.3,37.7,19.0,False,0.8,82.98,False,71,2023,19,Mexico City Grand Prix,2023_19
+PIA,McLaren,71.0,3.0,MEDIUM,40.0,False,1,True,8.0,26.2,37.3,19.0,False,1.2,83.421,False,71,2023,19,Mexico City Grand Prix,2023_19

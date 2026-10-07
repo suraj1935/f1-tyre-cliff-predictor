@@ -1,0 +1,1313 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,22.5,33.4,64.0,False,1.6,83.935,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,22.5,33.3,63.0,False,1.1,80.402,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,22.4,33.0,64.0,False,2.0,80.499,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,22.5,32.7,64.0,False,1.1,80.346,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,22.4,32.6,64.0,False,1.6,80.283,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,22.4,33.0,63.0,False,1.6,80.402,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,22.4,32.5,63.0,False,1.6,80.476,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,22.3,32.2,65.0,False,1.5,79.894,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,22.2,31.6,64.0,False,1.8,80.282,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,22.2,31.8,64.0,False,2.2,80.334,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,22.0,31.8,64.0,False,2.2,80.52,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,22.0,31.5,63.0,False,2.5,80.442,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,22.1,31.5,64.0,False,2.2,80.178,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,22.0,31.7,64.0,False,2.7,80.378,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,22.1,31.9,64.0,False,2.2,80.282,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,22.1,31.2,65.0,False,2.0,80.186,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,22.1,31.3,64.0,False,2.0,80.344,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,22.1,31.0,64.0,False,1.7,80.258,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,22.1,30.9,65.0,False,2.7,80.068,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,22.0,31.5,63.0,False,1.6,79.988,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,22.1,31.4,63.0,False,1.7,80.087,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,22.1,31.2,64.0,False,2.2,79.869,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,22.0,30.7,64.0,False,1.7,80.098,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,22.0,30.9,65.0,False,2.2,79.946,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,22.0,30.9,64.0,False,2.2,79.973,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,False,1.0,22.0,30.9,65.0,False,3.2,83.843,True,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,27.0,2.0,HARD,1.0,True,1,False,1.0,21.9,30.3,65.0,False,2.0,98.427,True,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,28.0,2.0,HARD,2.0,True,1,True,1.0,22.1,30.4,66.0,False,2.0,78.707,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,29.0,2.0,HARD,3.0,True,1,True,1.0,22.1,30.5,65.0,False,1.6,78.86,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,30.0,2.0,HARD,4.0,True,1,True,1.0,22.1,30.5,66.0,False,3.0,78.976,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,31.0,2.0,HARD,5.0,True,1,True,1.0,22.1,30.5,66.0,False,2.0,79.165,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,32.0,2.0,HARD,6.0,True,1,True,1.0,22.1,30.5,66.0,False,2.2,78.878,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,33.0,2.0,HARD,7.0,True,1,True,1.0,22.1,30.5,66.0,False,2.2,79.189,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,34.0,2.0,HARD,8.0,True,1,True,1.0,22.0,30.2,65.0,False,1.8,78.806,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,35.0,2.0,HARD,9.0,True,1,True,1.0,22.1,30.2,66.0,False,1.7,78.89,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,36.0,2.0,HARD,10.0,True,1,True,1.0,22.1,30.3,65.0,False,2.0,78.789,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,37.0,2.0,HARD,11.0,True,1,True,1.0,22.1,30.4,65.0,False,1.2,79.026,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,38.0,2.0,HARD,12.0,True,1,True,1.0,22.1,30.1,65.0,False,1.2,79.417,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,39.0,2.0,HARD,13.0,True,1,True,1.0,22.1,30.1,66.0,False,0.8,79.322,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,40.0,2.0,HARD,14.0,True,1,True,1.0,22.1,29.9,66.0,False,2.5,79.388,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,41.0,2.0,HARD,15.0,True,1,True,1.0,22.1,29.9,66.0,False,1.6,79.53,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,42.0,2.0,HARD,16.0,True,1,True,1.0,22.1,29.9,66.0,False,2.9,79.092,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,43.0,2.0,HARD,17.0,True,1,True,1.0,22.1,29.9,65.0,False,2.7,78.912,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,44.0,2.0,HARD,18.0,True,1,True,1.0,22.1,29.9,65.0,False,2.0,78.97,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,45.0,2.0,HARD,19.0,True,1,True,1.0,22.1,29.8,65.0,False,1.7,79.104,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,46.0,2.0,HARD,20.0,True,1,True,1.0,22.1,29.8,66.0,False,2.4,78.84,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,47.0,2.0,HARD,21.0,True,1,True,1.0,22.0,29.1,66.0,False,1.2,79.109,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,48.0,2.0,HARD,22.0,True,1,True,1.0,22.0,29.1,65.0,False,2.9,78.953,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,49.0,2.0,HARD,23.0,True,1,True,1.0,22.1,29.7,64.0,False,1.8,79.093,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,50.0,2.0,HARD,24.0,True,1,True,1.0,22.0,29.5,64.0,False,2.4,79.221,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,51.0,2.0,HARD,25.0,True,1,True,1.0,22.0,29.5,64.0,False,1.2,78.768,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,52.0,2.0,HARD,26.0,True,1,False,1.0,22.0,28.7,65.0,False,2.2,82.849,True,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,53.0,3.0,SOFT,3.0,False,1,False,1.0,22.0,28.6,66.0,False,1.7,97.231,True,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,54.0,3.0,SOFT,4.0,False,1,True,1.0,21.9,28.4,67.0,False,3.0,77.473,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,55.0,3.0,SOFT,5.0,False,1,True,1.0,21.9,28.4,67.0,False,2.5,77.766,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,56.0,3.0,SOFT,6.0,False,1,True,1.0,21.9,28.4,67.0,False,2.2,77.183,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,57.0,3.0,SOFT,7.0,False,1,True,1.0,21.9,28.2,67.0,False,1.7,77.306,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,58.0,3.0,SOFT,8.0,False,1,True,1.0,21.9,28.2,66.0,False,2.2,77.502,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,59.0,3.0,SOFT,9.0,False,1,True,1.0,21.8,28.2,66.0,False,1.2,77.761,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,60.0,3.0,SOFT,10.0,False,1,True,1.0,21.8,28.2,67.0,False,1.7,78.205,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,61.0,3.0,SOFT,11.0,False,1,True,1.0,21.6,27.7,67.0,False,2.5,76.33,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,62.0,3.0,SOFT,12.0,False,1,True,1.0,21.6,27.3,68.0,False,1.1,78.014,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,63.0,3.0,SOFT,13.0,False,1,True,1.0,21.5,27.3,68.0,False,2.5,77.697,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,64.0,3.0,SOFT,14.0,False,1,True,1.0,21.5,27.2,68.0,False,1.7,78.559,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,65.0,3.0,SOFT,15.0,False,1,True,1.0,21.5,27.1,69.0,False,2.2,77.611,False,66,2023,7,Spanish Grand Prix,2023_07
+VER,Red Bull Racing,66.0,3.0,SOFT,16.0,False,1,True,1.0,21.5,27.4,68.0,False,1.7,77.708,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,1.0,1.0,SOFT,4.0,False,1,False,4.0,22.5,33.4,64.0,False,1.6,86.376,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,2.0,1.0,SOFT,5.0,False,1,True,4.0,22.5,33.3,63.0,False,1.1,81.678,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,3.0,1.0,SOFT,6.0,False,1,True,4.0,22.4,33.0,64.0,False,2.0,80.839,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,4.0,1.0,SOFT,7.0,False,1,True,4.0,22.5,32.7,64.0,False,1.1,80.962,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,5.0,1.0,SOFT,8.0,False,1,True,4.0,22.4,32.6,64.0,False,1.6,80.755,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,6.0,1.0,SOFT,9.0,False,1,True,4.0,22.4,33.0,63.0,False,1.6,80.705,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,7.0,1.0,SOFT,10.0,False,1,True,4.0,22.4,32.5,63.0,False,1.6,80.488,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,8.0,1.0,SOFT,11.0,False,1,True,3.0,22.3,32.2,65.0,False,1.5,80.478,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,9.0,1.0,SOFT,12.0,False,1,True,3.0,22.2,31.6,64.0,False,1.8,80.812,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,10.0,1.0,SOFT,13.0,False,1,True,3.0,22.1,31.9,65.0,False,2.4,80.71,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,11.0,1.0,SOFT,14.0,False,1,True,3.0,22.0,31.8,64.0,False,2.2,80.646,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,12.0,1.0,SOFT,15.0,False,1,True,3.0,22.0,31.5,63.0,False,2.5,80.504,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,13.0,1.0,SOFT,16.0,False,1,True,3.0,22.1,31.7,65.0,False,2.7,80.552,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,14.0,1.0,SOFT,17.0,False,1,True,3.0,22.0,31.7,64.0,False,2.7,80.785,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,15.0,1.0,SOFT,18.0,False,1,True,2.0,22.1,31.9,64.0,False,2.2,80.865,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,16.0,1.0,SOFT,19.0,False,1,True,2.0,22.1,31.2,64.0,False,2.0,79.733,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,17.0,1.0,SOFT,20.0,False,1,True,2.0,22.1,31.3,64.0,False,2.0,80.253,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,18.0,1.0,SOFT,21.0,False,1,True,2.0,22.1,31.0,64.0,False,1.7,80.172,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,19.0,1.0,SOFT,22.0,False,1,True,2.0,22.1,31.2,64.0,False,2.4,80.324,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,20.0,1.0,SOFT,23.0,False,1,True,2.0,22.0,31.5,63.0,False,1.6,80.527,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,21.0,1.0,SOFT,24.0,False,1,True,2.0,22.1,31.4,63.0,False,1.7,80.681,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,22.0,1.0,SOFT,25.0,False,1,True,2.0,22.0,31.1,64.0,False,3.2,80.562,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,23.0,1.0,SOFT,26.0,False,1,True,2.0,22.0,30.7,64.0,False,1.7,80.786,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,24.0,1.0,SOFT,27.0,False,1,False,2.0,22.0,30.9,65.0,False,2.2,84.672,True,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,25.0,2.0,MEDIUM,1.0,True,1,False,5.0,22.0,31.0,64.0,False,2.7,99.313,True,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,26.0,2.0,MEDIUM,2.0,True,1,True,4.0,22.0,30.9,65.0,False,3.2,79.629,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,27.0,2.0,MEDIUM,3.0,True,1,True,3.0,22.0,30.4,66.0,False,1.6,79.186,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,28.0,2.0,MEDIUM,4.0,True,1,True,2.0,22.1,30.4,66.0,False,2.0,79.161,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,29.0,2.0,MEDIUM,5.0,True,1,True,2.0,22.1,30.5,65.0,False,1.6,79.8,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,30.0,2.0,MEDIUM,6.0,True,1,True,2.0,22.2,30.1,66.0,False,2.2,79.292,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,31.0,2.0,MEDIUM,7.0,True,1,True,2.0,22.1,30.5,66.0,False,2.0,79.483,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,32.0,2.0,MEDIUM,8.0,True,1,True,2.0,22.1,30.5,66.0,False,2.2,79.215,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,33.0,2.0,MEDIUM,9.0,True,1,True,2.0,22.1,30.6,65.0,False,2.2,79.199,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,34.0,2.0,MEDIUM,10.0,True,1,True,2.0,22.0,30.2,65.0,False,1.8,79.028,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,35.0,2.0,MEDIUM,11.0,True,1,True,2.0,22.1,30.2,66.0,False,1.7,78.927,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,36.0,2.0,MEDIUM,12.0,True,1,True,2.0,22.0,30.4,65.0,False,1.5,79.127,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,37.0,2.0,MEDIUM,13.0,True,1,True,2.0,22.1,30.4,65.0,False,1.2,79.835,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,38.0,2.0,MEDIUM,14.0,True,1,True,2.0,22.1,30.1,65.0,False,1.2,79.732,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,39.0,2.0,MEDIUM,15.0,True,1,True,2.0,22.2,29.9,66.0,False,2.0,79.594,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,40.0,2.0,MEDIUM,16.0,True,1,True,2.0,22.1,29.9,66.0,False,2.5,79.468,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,41.0,2.0,MEDIUM,17.0,True,1,True,2.0,22.1,29.9,66.0,False,1.6,79.523,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,42.0,2.0,MEDIUM,18.0,True,1,True,2.0,22.1,29.9,65.0,False,1.7,79.187,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,43.0,2.0,MEDIUM,19.0,True,1,True,2.0,22.1,29.9,65.0,False,2.7,79.078,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,44.0,2.0,MEDIUM,20.0,True,1,True,2.0,22.1,29.9,65.0,False,2.0,79.121,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,45.0,2.0,MEDIUM,21.0,True,1,True,2.0,22.1,29.6,66.0,False,2.2,79.201,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,46.0,2.0,MEDIUM,22.0,True,1,True,2.0,22.1,29.8,66.0,False,2.4,78.965,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,47.0,2.0,MEDIUM,23.0,True,1,True,2.0,22.0,29.1,66.0,False,1.2,78.933,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,48.0,2.0,MEDIUM,24.0,True,1,True,2.0,22.0,29.1,65.0,False,2.9,79.183,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,49.0,2.0,MEDIUM,25.0,True,1,True,2.0,22.1,29.7,64.0,False,1.8,78.968,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,50.0,2.0,MEDIUM,26.0,True,1,False,2.0,22.0,29.5,64.0,False,2.4,82.701,True,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,51.0,3.0,SOFT,4.0,False,1,False,2.0,22.0,29.5,64.0,False,1.2,98.688,True,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,52.0,3.0,SOFT,5.0,False,1,True,2.0,22.2,28.7,65.0,False,1.8,78.621,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,53.0,3.0,SOFT,6.0,False,1,True,2.0,22.0,28.6,66.0,False,1.7,78.564,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,54.0,3.0,SOFT,7.0,False,1,True,2.0,21.9,28.3,67.0,False,1.7,77.529,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,55.0,3.0,SOFT,8.0,False,1,True,2.0,21.9,28.4,67.0,False,2.5,77.575,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,56.0,3.0,SOFT,9.0,False,1,True,2.0,21.9,28.4,67.0,False,2.2,77.874,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,57.0,3.0,SOFT,10.0,False,1,True,2.0,21.9,28.1,66.0,False,1.8,77.725,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,58.0,3.0,SOFT,11.0,False,1,True,2.0,21.9,28.2,66.0,False,2.2,77.848,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,59.0,3.0,SOFT,12.0,False,1,True,2.0,21.8,28.2,66.0,False,1.2,78.138,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,60.0,3.0,SOFT,13.0,False,1,True,2.0,21.7,27.9,67.0,False,1.7,78.475,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,61.0,3.0,SOFT,14.0,False,1,True,2.0,21.6,27.7,67.0,False,2.5,77.627,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,62.0,3.0,SOFT,15.0,False,1,True,2.0,21.6,27.3,68.0,False,1.1,76.676,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,63.0,3.0,SOFT,16.0,False,1,True,2.0,21.5,27.3,68.0,False,2.5,78.967,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,64.0,3.0,SOFT,17.0,False,1,True,2.0,21.5,26.8,69.0,False,1.5,78.579,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,65.0,3.0,SOFT,18.0,False,1,True,2.0,21.5,27.1,69.0,False,2.2,80.31,False,66,2023,7,Spanish Grand Prix,2023_07
+HAM,Mercedes,66.0,3.0,SOFT,19.0,False,1,True,2.0,21.5,27.4,68.0,False,1.7,79.12,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,1.0,1.0,SOFT,1.0,True,1,False,7.0,22.5,33.4,64.0,False,1.6,88.534,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,2.0,1.0,SOFT,2.0,True,1,True,7.0,22.5,33.3,63.0,False,1.1,81.934,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,3.0,1.0,SOFT,3.0,True,1,True,7.0,22.4,33.0,64.0,False,2.0,81.637,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,4.0,1.0,SOFT,4.0,True,1,True,7.0,22.4,32.6,64.0,False,2.4,81.087,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,5.0,1.0,SOFT,5.0,True,1,True,7.0,22.4,32.6,64.0,False,1.6,80.975,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,6.0,1.0,SOFT,6.0,True,1,True,7.0,22.4,33.0,63.0,False,1.6,81.33,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,7.0,1.0,SOFT,7.0,True,1,True,6.0,22.3,32.2,64.0,False,2.0,80.516,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,8.0,1.0,SOFT,8.0,True,1,True,6.0,22.3,32.2,65.0,False,1.5,81.159,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,9.0,1.0,SOFT,9.0,True,1,True,6.0,22.2,31.6,64.0,False,1.8,81.032,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,10.0,1.0,SOFT,10.0,True,1,True,6.0,22.1,31.9,65.0,False,2.4,81.255,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,11.0,1.0,SOFT,11.0,True,1,True,5.0,22.0,31.8,64.0,False,2.2,80.747,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,12.0,1.0,SOFT,12.0,True,1,True,5.0,22.0,31.5,63.0,False,2.5,81.264,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,13.0,1.0,SOFT,13.0,True,1,True,5.0,22.1,31.7,65.0,False,2.7,80.872,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,14.0,1.0,SOFT,14.0,True,1,True,4.0,22.0,31.7,64.0,False,2.7,80.855,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,15.0,1.0,SOFT,15.0,True,1,True,4.0,22.1,31.9,64.0,False,2.2,80.677,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,16.0,1.0,SOFT,16.0,True,1,True,3.0,22.1,31.2,64.0,False,2.0,80.646,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,17.0,1.0,SOFT,17.0,True,1,True,3.0,22.1,31.3,64.0,False,2.0,80.503,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,18.0,1.0,SOFT,18.0,True,1,True,3.0,22.1,31.0,64.0,False,1.7,80.521,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,19.0,1.0,SOFT,19.0,True,1,True,3.0,22.1,31.2,64.0,False,2.4,80.742,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,20.0,1.0,SOFT,20.0,True,1,True,3.0,22.0,31.5,63.0,False,1.6,80.523,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,21.0,1.0,SOFT,21.0,True,1,True,3.0,22.1,31.4,63.0,False,1.7,80.757,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,22.0,1.0,SOFT,22.0,True,1,True,3.0,22.0,31.1,64.0,False,3.2,80.724,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,23.0,1.0,SOFT,23.0,True,1,True,3.0,22.0,30.7,64.0,False,1.7,80.794,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,24.0,1.0,SOFT,24.0,True,1,True,3.0,22.0,30.9,65.0,False,2.2,81.05,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,25.0,1.0,SOFT,25.0,True,1,False,2.0,22.0,31.0,64.0,False,2.7,84.632,True,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,26.0,2.0,MEDIUM,1.0,True,1,False,6.0,22.0,30.9,65.0,False,3.2,98.401,True,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,27.0,2.0,MEDIUM,2.0,True,1,True,6.0,22.0,30.4,66.0,False,1.6,78.878,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,28.0,2.0,MEDIUM,3.0,True,1,True,4.0,22.1,30.4,66.0,False,2.0,78.264,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,29.0,2.0,MEDIUM,4.0,True,1,True,4.0,22.1,30.5,65.0,False,1.6,79.199,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,30.0,2.0,MEDIUM,5.0,True,1,True,4.0,22.2,30.1,66.0,False,2.2,79.362,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,31.0,2.0,MEDIUM,6.0,True,1,True,4.0,22.1,30.5,66.0,False,2.0,79.186,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,32.0,2.0,MEDIUM,7.0,True,1,True,4.0,22.1,30.5,66.0,False,2.2,79.302,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,33.0,2.0,MEDIUM,8.0,True,1,True,4.0,22.1,30.6,65.0,False,2.2,79.568,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,34.0,2.0,MEDIUM,9.0,True,1,True,4.0,22.0,30.2,65.0,False,1.8,79.489,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,35.0,2.0,MEDIUM,10.0,True,1,True,3.0,22.1,30.2,66.0,False,1.7,79.698,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,36.0,2.0,MEDIUM,11.0,True,1,True,3.0,22.0,30.4,65.0,False,1.5,79.835,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,37.0,2.0,MEDIUM,12.0,True,1,True,3.0,22.1,30.4,65.0,False,1.2,79.68,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,38.0,2.0,MEDIUM,13.0,True,1,True,3.0,22.1,30.1,65.0,False,1.2,79.804,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,39.0,2.0,MEDIUM,14.0,True,1,True,3.0,22.2,29.9,66.0,False,2.0,79.73,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,40.0,2.0,MEDIUM,15.0,True,1,True,3.0,22.1,29.9,66.0,False,2.5,79.611,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,41.0,2.0,MEDIUM,16.0,True,1,True,3.0,22.1,29.9,66.0,False,1.6,79.471,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,42.0,2.0,MEDIUM,17.0,True,1,True,3.0,22.1,29.9,65.0,False,1.7,79.281,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,43.0,2.0,MEDIUM,18.0,True,1,True,3.0,22.1,29.9,65.0,False,2.7,79.198,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,44.0,2.0,MEDIUM,19.0,True,1,True,3.0,22.1,29.9,65.0,False,2.0,79.296,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,45.0,2.0,MEDIUM,20.0,True,1,False,3.0,22.1,29.6,66.0,False,2.2,82.981,True,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,46.0,3.0,SOFT,4.0,False,1,False,4.0,22.1,29.8,66.0,False,2.4,97.181,True,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,47.0,3.0,SOFT,5.0,False,1,True,4.0,22.0,29.1,65.0,False,2.9,78.057,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,48.0,3.0,SOFT,6.0,False,1,True,4.0,22.1,29.3,65.0,False,1.2,77.875,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,49.0,3.0,SOFT,7.0,False,1,True,4.0,22.1,29.7,64.0,False,1.8,78.383,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,50.0,3.0,SOFT,8.0,False,1,True,4.0,22.0,29.5,64.0,False,1.2,78.488,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,51.0,3.0,SOFT,9.0,False,1,True,3.0,22.0,28.7,65.0,False,2.2,78.611,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,52.0,3.0,SOFT,10.0,False,1,True,3.0,22.2,28.7,65.0,False,1.8,78.335,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,53.0,3.0,SOFT,11.0,False,1,True,3.0,21.9,28.4,67.0,False,3.0,78.504,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,54.0,3.0,SOFT,12.0,False,1,True,3.0,21.9,28.3,67.0,False,1.7,78.362,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,55.0,3.0,SOFT,13.0,False,1,True,3.0,21.9,28.4,67.0,False,2.5,78.133,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,56.0,3.0,SOFT,14.0,False,1,True,3.0,21.9,28.4,67.0,False,2.2,78.448,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,57.0,3.0,SOFT,15.0,False,1,True,3.0,21.9,28.1,66.0,False,1.8,78.29,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,58.0,3.0,SOFT,16.0,False,1,True,3.0,21.9,28.2,66.0,False,2.2,78.357,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,59.0,3.0,SOFT,17.0,False,1,True,3.0,21.8,28.2,66.0,False,1.2,78.129,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,60.0,3.0,SOFT,18.0,False,1,True,3.0,21.7,27.9,67.0,False,1.7,78.067,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,61.0,3.0,SOFT,19.0,False,1,True,3.0,21.6,27.7,67.0,False,2.5,78.201,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,62.0,3.0,SOFT,20.0,False,1,True,3.0,21.6,27.3,68.0,False,1.1,78.152,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,63.0,3.0,SOFT,21.0,False,1,True,3.0,21.5,27.2,68.0,False,1.7,78.631,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,64.0,3.0,SOFT,22.0,False,1,True,3.0,21.5,26.8,69.0,False,1.5,78.917,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,65.0,3.0,SOFT,23.0,False,1,True,3.0,21.5,27.1,69.0,False,2.2,79.163,False,66,2023,7,Spanish Grand Prix,2023_07
+RUS,Mercedes,66.0,3.0,SOFT,24.0,False,1,True,3.0,21.5,27.4,68.0,False,1.7,79.045,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,22.5,33.4,64.0,False,1.6,90.355,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,22.5,33.3,63.0,False,1.1,81.724,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,22.4,33.0,64.0,False,2.0,81.953,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,22.4,32.6,64.0,False,2.4,80.936,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,22.4,32.6,64.0,False,1.6,81.824,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,22.4,33.0,63.0,False,1.6,80.908,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,22.3,32.2,64.0,False,2.0,81.245,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,22.3,32.2,65.0,False,1.5,81.102,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,22.2,31.6,64.0,False,1.8,81.01,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,22.1,31.9,65.0,False,2.4,81.266,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,22.0,31.8,64.0,False,2.2,81.616,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,22.0,31.5,63.0,False,2.5,81.597,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,22.1,31.7,65.0,False,2.7,81.592,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,22.0,31.7,64.0,False,2.7,81.329,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,22.1,31.9,64.0,False,2.2,81.327,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,22.1,31.2,64.0,False,2.0,81.033,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,22.1,31.3,64.0,False,2.0,81.115,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,22.1,30.9,65.0,False,2.7,80.824,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,22.1,31.2,64.0,False,2.4,81.128,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,22.0,31.5,63.0,False,1.6,80.547,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,22.1,31.2,64.0,False,2.2,80.256,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,22.0,31.1,64.0,False,3.2,80.315,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,22.0,30.7,64.0,False,1.7,80.69,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,22.0,30.9,64.0,False,2.2,80.828,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,22.0,31.0,64.0,False,2.7,81.062,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,22.0,30.9,65.0,False,3.2,81.244,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,False,4.0,22.0,30.4,66.0,False,1.6,85.177,True,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,28.0,2.0,HARD,1.0,True,1,False,9.0,22.1,30.4,66.0,False,2.0,98.204,True,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,29.0,2.0,HARD,2.0,True,1,True,9.0,22.1,30.5,66.0,False,3.0,78.645,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,30.0,2.0,HARD,3.0,True,1,True,9.0,22.2,30.1,66.0,False,2.2,80.419,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,31.0,2.0,HARD,4.0,True,1,True,8.0,22.1,30.5,66.0,False,2.0,78.786,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,32.0,2.0,HARD,5.0,True,1,True,8.0,22.1,30.5,66.0,False,2.2,79.53,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,33.0,2.0,HARD,6.0,True,1,True,7.0,22.1,30.6,65.0,False,2.2,79.337,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,34.0,2.0,HARD,7.0,True,1,True,5.0,22.0,30.2,65.0,False,1.8,78.817,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,35.0,2.0,HARD,8.0,True,1,True,5.0,22.1,30.3,65.0,False,2.0,78.784,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,36.0,2.0,HARD,9.0,True,1,True,5.0,22.0,30.4,65.0,False,1.5,79.553,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,37.0,2.0,HARD,10.0,True,1,True,5.0,22.1,30.4,65.0,False,1.2,79.296,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,38.0,2.0,HARD,11.0,True,1,True,5.0,22.1,30.1,66.0,False,0.8,79.247,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,39.0,2.0,HARD,12.0,True,1,True,5.0,22.2,29.9,66.0,False,2.0,79.31,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,40.0,2.0,HARD,13.0,True,1,True,5.0,22.1,29.9,66.0,False,2.5,79.191,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,41.0,2.0,HARD,14.0,True,1,True,4.0,22.1,29.9,66.0,False,2.9,79.201,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,42.0,2.0,HARD,15.0,True,1,True,4.0,22.1,29.9,65.0,False,1.7,78.907,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,43.0,2.0,HARD,16.0,True,1,True,4.0,22.1,29.9,65.0,False,2.7,79.068,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,44.0,2.0,HARD,17.0,True,1,True,4.0,22.1,29.9,65.0,False,2.0,79.504,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,45.0,2.0,HARD,18.0,True,1,True,4.0,22.1,29.6,66.0,False,2.2,79.6,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,46.0,2.0,HARD,19.0,True,1,True,3.0,22.1,29.8,66.0,False,2.4,79.367,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,47.0,2.0,HARD,20.0,True,1,True,3.0,22.0,29.1,66.0,False,1.2,78.907,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,48.0,2.0,HARD,21.0,True,1,True,3.0,22.1,29.3,65.0,False,1.2,79.179,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,49.0,2.0,HARD,22.0,True,1,True,3.0,22.1,29.7,64.0,False,1.8,79.4,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,50.0,2.0,HARD,23.0,True,1,False,3.0,22.0,29.5,64.0,False,2.4,83.039,True,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,51.0,3.0,SOFT,1.0,True,1,False,5.0,22.0,28.7,65.0,False,2.2,95.599,True,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,52.0,3.0,SOFT,2.0,True,1,True,5.0,22.2,28.7,65.0,False,1.8,76.666,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,53.0,3.0,SOFT,3.0,True,1,True,4.0,21.9,28.4,67.0,False,3.0,77.122,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,54.0,3.0,SOFT,4.0,True,1,True,4.0,21.9,28.3,67.0,False,1.7,77.543,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,55.0,3.0,SOFT,5.0,True,1,True,4.0,21.9,28.4,67.0,False,2.5,77.776,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,56.0,3.0,SOFT,6.0,True,1,True,4.0,21.9,28.2,67.0,False,1.7,77.484,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,57.0,3.0,SOFT,7.0,True,1,True,4.0,21.9,28.1,66.0,False,1.8,77.44,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,58.0,3.0,SOFT,8.0,True,1,True,4.0,21.9,28.2,66.0,False,2.2,77.931,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,59.0,3.0,SOFT,9.0,True,1,True,4.0,21.8,28.2,66.0,False,1.2,78.623,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,60.0,3.0,SOFT,10.0,True,1,True,4.0,21.7,27.9,67.0,False,1.7,78.415,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,61.0,3.0,SOFT,11.0,True,1,True,4.0,21.6,27.7,67.0,False,2.5,77.789,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,62.0,3.0,SOFT,12.0,True,1,True,4.0,21.6,27.3,68.0,False,1.1,77.793,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,63.0,3.0,SOFT,13.0,True,1,True,4.0,21.5,27.2,68.0,False,1.7,77.828,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,64.0,3.0,SOFT,14.0,True,1,True,4.0,21.5,26.8,69.0,False,1.5,77.91,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,65.0,3.0,SOFT,15.0,True,1,True,4.0,21.5,27.1,69.0,False,2.2,78.476,False,66,2023,7,Spanish Grand Prix,2023_07
+PER,Red Bull Racing,66.0,3.0,SOFT,16.0,True,1,True,4.0,21.5,27.5,68.0,False,2.2,80.063,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,1.0,1.0,SOFT,4.0,False,1,False,2.0,22.5,33.4,64.0,False,1.6,85.014,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,2.0,1.0,SOFT,5.0,False,1,True,2.0,22.5,33.3,63.0,False,1.1,80.852,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,3.0,1.0,SOFT,6.0,False,1,True,2.0,22.4,33.0,64.0,False,2.0,80.571,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,4.0,1.0,SOFT,7.0,False,1,True,2.0,22.5,32.7,64.0,False,1.1,80.815,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,5.0,1.0,SOFT,8.0,False,1,True,2.0,22.4,32.6,64.0,False,1.6,80.935,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,6.0,1.0,SOFT,9.0,False,1,True,2.0,22.4,33.0,63.0,False,1.6,80.784,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,7.0,1.0,SOFT,10.0,False,1,True,2.0,22.4,32.5,63.0,False,1.6,80.644,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,8.0,1.0,SOFT,11.0,False,1,True,2.0,22.3,32.2,65.0,False,1.5,80.83,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,9.0,1.0,SOFT,12.0,False,1,True,2.0,22.2,31.6,64.0,False,1.8,80.734,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,10.0,1.0,SOFT,13.0,False,1,True,2.0,22.2,31.8,64.0,False,2.2,80.933,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,11.0,1.0,SOFT,14.0,False,1,True,2.0,22.0,31.8,64.0,False,2.2,80.73,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,12.0,1.0,SOFT,15.0,False,1,True,2.0,22.0,31.5,63.0,False,2.5,80.851,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,13.0,1.0,SOFT,16.0,False,1,True,2.0,22.1,31.7,65.0,False,2.7,80.715,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,14.0,1.0,SOFT,17.0,False,1,True,2.0,22.0,31.7,64.0,False,2.7,81.054,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,15.0,1.0,SOFT,18.0,False,1,False,3.0,22.1,31.9,64.0,False,2.2,84.981,True,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,16.0,2.0,MEDIUM,1.0,True,1,False,8.0,22.1,31.2,64.0,False,2.0,99.079,True,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,17.0,2.0,MEDIUM,2.0,True,1,True,7.0,22.1,31.3,64.0,False,2.0,80.165,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,18.0,2.0,MEDIUM,3.0,True,1,True,7.0,22.1,30.9,65.0,False,2.7,79.981,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,19.0,2.0,MEDIUM,4.0,True,1,True,6.0,22.1,31.2,64.0,False,2.4,79.832,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,20.0,2.0,MEDIUM,5.0,True,1,True,5.0,22.0,31.5,63.0,False,1.6,80.249,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,21.0,2.0,MEDIUM,6.0,True,1,True,5.0,22.1,31.2,64.0,False,2.2,80.164,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,22.0,2.0,MEDIUM,7.0,True,1,True,5.0,22.0,31.1,64.0,False,3.2,80.272,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,23.0,2.0,MEDIUM,8.0,True,1,True,5.0,22.0,30.7,64.0,False,1.7,80.479,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,24.0,2.0,MEDIUM,9.0,True,1,True,5.0,22.0,30.9,64.0,False,2.2,80.477,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,25.0,2.0,MEDIUM,10.0,True,1,True,4.0,22.0,31.0,64.0,False,2.7,80.693,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,26.0,2.0,MEDIUM,11.0,True,1,True,3.0,22.0,30.9,65.0,False,3.2,80.315,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,27.0,2.0,MEDIUM,12.0,True,1,True,2.0,22.0,30.4,66.0,False,1.6,80.333,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,28.0,2.0,MEDIUM,13.0,True,1,True,3.0,22.1,30.4,66.0,False,2.0,81.45,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,29.0,2.0,MEDIUM,14.0,True,1,True,3.0,22.1,30.5,65.0,False,1.6,80.687,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,30.0,2.0,MEDIUM,15.0,True,1,True,3.0,22.2,30.1,66.0,False,2.2,80.257,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,31.0,2.0,MEDIUM,16.0,True,1,True,3.0,22.1,30.5,66.0,False,2.0,80.257,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,32.0,2.0,MEDIUM,17.0,True,1,True,3.0,22.1,30.5,66.0,False,2.2,80.09,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,33.0,2.0,MEDIUM,18.0,True,1,True,3.0,22.1,30.6,65.0,False,2.2,80.316,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,34.0,2.0,MEDIUM,19.0,True,1,True,3.0,22.0,30.2,65.0,False,1.8,80.343,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,35.0,2.0,MEDIUM,20.0,True,1,True,4.0,22.1,30.2,66.0,False,1.7,82.307,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,36.0,2.0,MEDIUM,21.0,True,1,True,4.0,22.0,30.4,65.0,False,1.5,80.712,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,37.0,2.0,MEDIUM,22.0,True,1,True,4.0,22.1,30.4,65.0,False,1.2,80.133,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,38.0,2.0,MEDIUM,23.0,True,1,True,4.0,22.1,30.1,65.0,False,1.2,80.39,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,39.0,2.0,MEDIUM,24.0,True,1,True,4.0,22.2,29.9,66.0,False,2.0,80.151,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,40.0,2.0,MEDIUM,25.0,True,1,True,4.0,22.1,29.9,66.0,False,2.5,80.053,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,41.0,2.0,MEDIUM,26.0,True,1,False,5.0,22.1,29.9,66.0,False,1.6,84.28,True,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,42.0,3.0,HARD,1.0,True,1,False,6.0,22.1,29.9,65.0,False,1.7,99.152,True,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,43.0,3.0,HARD,2.0,True,1,True,6.0,22.1,29.9,65.0,False,2.0,79.331,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,44.0,3.0,HARD,3.0,True,1,True,6.0,22.1,29.8,65.0,False,1.7,79.241,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,45.0,3.0,HARD,4.0,True,1,True,5.0,22.1,29.6,66.0,False,2.2,79.325,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,46.0,3.0,HARD,5.0,True,1,True,5.0,22.1,29.8,66.0,False,2.4,78.698,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,47.0,3.0,HARD,6.0,True,1,True,5.0,22.0,29.1,65.0,False,2.9,78.562,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,48.0,3.0,HARD,7.0,True,1,True,5.0,22.1,29.3,65.0,False,1.2,78.521,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,49.0,3.0,HARD,8.0,True,1,True,5.0,22.1,29.7,64.0,False,1.8,78.635,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,50.0,3.0,HARD,9.0,True,1,True,5.0,22.0,29.5,64.0,False,1.2,78.518,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,51.0,3.0,HARD,10.0,True,1,True,4.0,22.0,28.7,65.0,False,2.2,78.562,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,52.0,3.0,HARD,11.0,True,1,True,4.0,22.2,28.7,65.0,False,1.8,78.595,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,53.0,3.0,HARD,12.0,True,1,True,5.0,21.9,28.4,67.0,False,3.0,79.738,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,54.0,3.0,HARD,13.0,True,1,True,5.0,21.9,28.3,67.0,False,1.7,78.886,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,55.0,3.0,HARD,14.0,True,1,True,5.0,21.9,28.4,67.0,False,2.5,78.513,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,56.0,3.0,HARD,15.0,True,1,True,5.0,21.9,28.2,67.0,False,1.7,78.559,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,57.0,3.0,HARD,16.0,True,1,True,5.0,21.9,28.1,66.0,False,1.8,78.725,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,58.0,3.0,HARD,17.0,True,1,True,5.0,21.9,28.2,66.0,False,2.2,78.623,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,59.0,3.0,HARD,18.0,True,1,True,5.0,21.8,28.2,67.0,False,1.7,78.799,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,60.0,3.0,HARD,19.0,True,1,True,5.0,21.7,27.9,67.0,False,1.7,78.403,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,61.0,3.0,HARD,20.0,True,1,True,5.0,21.6,27.7,67.0,False,2.5,78.714,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,62.0,3.0,HARD,21.0,True,1,True,5.0,21.6,27.3,68.0,False,1.1,78.712,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,63.0,3.0,HARD,22.0,True,1,True,5.0,21.5,27.2,68.0,False,1.7,78.999,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,64.0,3.0,HARD,23.0,True,1,True,5.0,21.5,26.8,69.0,False,1.5,78.687,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,65.0,3.0,HARD,24.0,True,1,True,5.0,21.5,27.1,69.0,False,2.2,78.785,False,66,2023,7,Spanish Grand Prix,2023_07
+SAI,Ferrari,66.0,3.0,HARD,25.0,True,1,True,5.0,21.5,27.5,68.0,False,2.2,78.447,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,1.0,1.0,SOFT,4.0,False,1,False,3.0,22.5,33.4,64.0,False,1.6,85.739,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,2.0,1.0,SOFT,5.0,False,1,True,3.0,22.5,33.3,63.0,False,1.1,80.967,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,3.0,1.0,SOFT,6.0,False,1,True,3.0,22.4,33.0,64.0,False,2.0,80.868,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,4.0,1.0,SOFT,7.0,False,1,True,3.0,22.5,32.7,64.0,False,1.1,80.996,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,5.0,1.0,SOFT,8.0,False,1,True,3.0,22.4,32.6,64.0,False,1.6,80.854,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,6.0,1.0,SOFT,9.0,False,1,True,3.0,22.4,33.0,63.0,False,1.6,81.033,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,7.0,1.0,SOFT,10.0,False,1,True,3.0,22.4,32.5,63.0,False,1.6,80.883,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,8.0,1.0,SOFT,11.0,False,1,True,4.0,22.3,32.2,65.0,False,1.5,82.382,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,9.0,1.0,SOFT,12.0,False,1,True,4.0,22.2,31.6,64.0,False,1.8,81.36,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,10.0,1.0,SOFT,13.0,False,1,True,4.0,22.1,31.9,65.0,False,2.4,81.263,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,11.0,1.0,SOFT,14.0,False,1,True,4.0,22.0,31.8,64.0,False,2.2,81.371,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,12.0,1.0,SOFT,15.0,False,1,True,4.0,22.0,31.5,63.0,False,2.5,81.31,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,13.0,1.0,SOFT,16.0,False,1,True,4.0,22.1,31.7,65.0,False,2.7,81.364,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,14.0,1.0,SOFT,17.0,False,1,False,5.0,22.0,31.7,64.0,False,2.7,85.694,True,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,15.0,2.0,SOFT,4.0,False,1,False,11.0,22.1,31.9,64.0,False,2.2,99.74,True,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,16.0,2.0,SOFT,5.0,False,1,True,10.0,22.1,31.2,64.0,False,2.0,80.907,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,17.0,2.0,SOFT,6.0,False,1,True,9.0,22.1,31.3,64.0,False,2.0,80.283,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,18.0,2.0,SOFT,7.0,False,1,True,8.0,22.1,30.9,65.0,False,2.7,80.392,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,19.0,2.0,SOFT,8.0,False,1,True,8.0,22.1,31.2,64.0,False,2.4,80.33,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,20.0,2.0,SOFT,9.0,False,1,True,6.0,22.0,31.5,63.0,False,1.6,80.496,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,21.0,2.0,SOFT,10.0,False,1,True,6.0,22.1,31.2,64.0,False,2.2,80.457,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,22.0,2.0,SOFT,11.0,False,1,True,6.0,22.0,31.1,64.0,False,3.2,80.506,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,23.0,2.0,SOFT,12.0,False,1,True,6.0,22.0,30.7,64.0,False,1.7,80.397,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,24.0,2.0,SOFT,13.0,False,1,True,6.0,22.0,30.9,64.0,False,2.2,80.44,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,25.0,2.0,SOFT,14.0,False,1,True,6.0,22.0,31.0,64.0,False,2.7,80.731,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,26.0,2.0,SOFT,15.0,False,1,True,5.0,22.0,30.9,65.0,False,3.2,80.533,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,27.0,2.0,SOFT,16.0,False,1,True,5.0,22.0,30.4,66.0,False,1.6,80.455,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,28.0,2.0,SOFT,17.0,False,1,True,5.0,22.1,30.4,66.0,False,2.0,81.2,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,29.0,2.0,SOFT,18.0,False,1,True,5.0,22.1,30.5,66.0,False,3.0,80.575,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,30.0,2.0,SOFT,19.0,False,1,True,5.0,22.2,30.1,66.0,False,2.2,80.742,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,31.0,2.0,SOFT,20.0,False,1,True,5.0,22.1,30.5,66.0,False,2.0,80.558,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,32.0,2.0,SOFT,21.0,False,1,True,5.0,22.1,30.5,66.0,False,2.2,80.514,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,33.0,2.0,SOFT,22.0,False,1,True,5.0,22.1,30.6,65.0,False,2.2,80.857,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,34.0,2.0,SOFT,23.0,False,1,False,7.0,22.0,30.2,65.0,False,1.8,85.2,True,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,35.0,3.0,HARD,1.0,False,1,False,13.0,22.1,30.3,65.0,False,2.0,100.11,True,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,36.0,3.0,HARD,2.0,False,1,True,12.0,22.0,30.4,65.0,False,1.5,79.746,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,37.0,3.0,HARD,3.0,False,1,True,11.0,22.1,30.1,65.0,False,1.2,79.948,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,38.0,3.0,HARD,4.0,False,1,True,10.0,22.1,30.1,66.0,False,0.8,80.024,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,39.0,3.0,HARD,5.0,False,1,True,10.0,22.2,29.9,66.0,False,2.0,79.067,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,40.0,3.0,HARD,6.0,False,1,True,8.0,22.1,29.9,66.0,False,1.6,79.53,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,41.0,3.0,HARD,7.0,False,1,True,7.0,22.1,29.9,66.0,False,2.9,79.819,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,42.0,3.0,HARD,8.0,False,1,True,7.0,22.1,29.9,65.0,False,1.7,79.542,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,43.0,3.0,HARD,9.0,False,1,True,7.0,22.1,29.9,65.0,False,2.0,79.508,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,44.0,3.0,HARD,10.0,False,1,True,7.0,22.1,29.8,65.0,False,1.7,80.121,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,45.0,3.0,HARD,11.0,False,1,True,6.0,22.1,29.6,66.0,False,2.2,79.671,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,46.0,3.0,HARD,12.0,False,1,True,6.0,22.0,29.1,66.0,False,1.2,79.593,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,47.0,3.0,HARD,13.0,False,1,True,6.0,22.0,29.1,65.0,False,2.9,79.477,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,48.0,3.0,HARD,14.0,False,1,True,6.0,22.1,29.3,65.0,False,1.2,79.129,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,49.0,3.0,HARD,15.0,False,1,True,6.0,22.0,29.5,64.0,False,2.4,79.413,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,50.0,3.0,HARD,16.0,False,1,True,6.0,22.0,29.5,64.0,False,1.2,79.283,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,51.0,3.0,HARD,17.0,False,1,True,6.0,22.0,28.7,65.0,False,2.2,79.164,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,52.0,3.0,HARD,18.0,False,1,True,6.0,22.0,28.6,66.0,False,1.7,79.018,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,53.0,3.0,HARD,19.0,False,1,True,6.0,21.9,28.4,67.0,False,3.0,78.998,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,54.0,3.0,HARD,20.0,False,1,True,6.0,21.9,28.3,67.0,False,1.7,79.068,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,55.0,3.0,HARD,21.0,False,1,True,6.0,21.9,28.4,67.0,False,2.5,78.933,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,56.0,3.0,HARD,22.0,False,1,True,6.0,21.9,28.2,67.0,False,1.7,78.722,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,57.0,3.0,HARD,23.0,False,1,True,6.0,21.9,28.1,66.0,False,1.8,79.041,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,58.0,3.0,HARD,24.0,False,1,True,6.0,21.9,28.2,66.0,False,2.2,79.251,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,59.0,3.0,HARD,25.0,False,1,True,6.0,21.8,28.2,67.0,False,1.7,79.193,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,60.0,3.0,HARD,26.0,False,1,True,6.0,21.7,27.9,67.0,False,1.7,78.967,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,61.0,3.0,HARD,27.0,False,1,True,6.0,21.6,27.7,67.0,False,2.5,78.988,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,62.0,3.0,HARD,28.0,False,1,True,6.0,21.5,27.3,68.0,False,2.5,79.081,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,63.0,3.0,HARD,29.0,False,1,True,6.0,21.5,27.2,68.0,False,1.7,79.084,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,64.0,3.0,HARD,30.0,False,1,True,6.0,21.5,26.8,69.0,False,1.5,79.413,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,65.0,3.0,HARD,31.0,False,1,True,6.0,21.5,27.4,68.0,False,1.7,79.195,False,66,2023,7,Spanish Grand Prix,2023_07
+STR,Aston Martin,66.0,3.0,HARD,32.0,False,1,True,6.0,21.5,27.5,68.0,False,2.2,79.766,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,1.0,1.0,SOFT,4.0,False,1,False,6.0,22.5,33.4,64.0,False,1.6,88.039,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,2.0,1.0,SOFT,5.0,False,1,True,6.0,22.5,33.3,63.0,False,1.1,81.792,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,3.0,1.0,SOFT,6.0,False,1,True,6.0,22.4,33.0,64.0,False,2.0,81.574,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,4.0,1.0,SOFT,7.0,False,1,True,6.0,22.5,32.7,64.0,False,1.1,80.717,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,5.0,1.0,SOFT,8.0,False,1,True,6.0,22.4,32.6,64.0,False,1.6,81.289,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,6.0,1.0,SOFT,9.0,False,1,True,6.0,22.4,33.0,63.0,False,1.6,81.631,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,7.0,1.0,SOFT,10.0,False,1,True,7.0,22.3,32.2,64.0,False,2.0,82.087,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,8.0,1.0,SOFT,11.0,False,1,True,7.0,22.3,32.2,65.0,False,1.5,81.776,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,9.0,1.0,SOFT,12.0,False,1,True,7.0,22.2,31.6,64.0,False,1.8,81.35,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,10.0,1.0,SOFT,13.0,False,1,True,7.0,22.1,31.9,65.0,False,2.4,81.34,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,11.0,1.0,SOFT,14.0,False,1,True,7.0,22.0,31.8,64.0,False,2.2,81.575,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,12.0,1.0,SOFT,15.0,False,1,True,7.0,22.0,31.5,63.0,False,2.5,81.291,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,13.0,1.0,SOFT,16.0,False,1,True,6.0,22.1,31.7,65.0,False,2.7,81.325,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,14.0,1.0,SOFT,17.0,False,1,True,6.0,22.0,31.7,64.0,False,2.7,80.876,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,15.0,1.0,SOFT,18.0,False,1,True,5.0,22.1,31.9,64.0,False,2.2,81.169,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,16.0,1.0,SOFT,19.0,False,1,True,4.0,22.1,31.2,64.0,False,2.0,81.15,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,17.0,1.0,SOFT,20.0,False,1,True,4.0,22.1,31.3,64.0,False,2.0,81.193,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,18.0,1.0,SOFT,21.0,False,1,True,4.0,22.1,31.0,64.0,False,1.7,81.147,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,19.0,1.0,SOFT,22.0,False,1,False,5.0,22.1,31.2,64.0,False,2.4,84.968,True,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,20.0,2.0,SOFT,4.0,False,1,False,10.0,22.0,31.5,63.0,False,1.6,99.017,True,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,21.0,2.0,SOFT,5.0,False,1,True,9.0,22.1,31.2,64.0,False,2.2,80.375,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,22.0,2.0,SOFT,6.0,False,1,True,9.0,22.0,31.1,64.0,False,3.2,80.954,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,23.0,2.0,SOFT,7.0,False,1,True,9.0,22.0,30.9,65.0,False,2.2,80.987,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,24.0,2.0,SOFT,8.0,False,1,True,9.0,22.0,30.9,64.0,False,2.2,80.813,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,25.0,2.0,SOFT,9.0,False,1,True,9.0,22.0,31.0,64.0,False,2.7,80.32,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,26.0,2.0,SOFT,10.0,False,1,True,9.0,21.9,30.3,65.0,False,2.0,80.367,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,27.0,2.0,SOFT,11.0,False,1,True,9.0,22.0,30.4,66.0,False,1.6,80.318,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,28.0,2.0,SOFT,12.0,False,1,True,8.0,22.1,30.4,66.0,False,2.0,80.404,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,29.0,2.0,SOFT,13.0,False,1,True,8.0,22.1,30.5,66.0,False,3.0,80.239,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,30.0,2.0,SOFT,14.0,False,1,True,8.0,22.2,30.1,66.0,False,2.2,80.916,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,31.0,2.0,SOFT,15.0,False,1,True,9.0,22.1,30.5,66.0,False,2.0,80.892,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,32.0,2.0,SOFT,16.0,False,1,True,9.0,22.1,30.5,66.0,False,2.2,80.379,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,33.0,2.0,SOFT,17.0,False,1,True,9.0,22.1,30.6,65.0,False,2.2,80.614,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,34.0,2.0,SOFT,18.0,False,1,True,8.0,22.0,30.2,65.0,False,1.8,80.634,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,35.0,2.0,SOFT,19.0,False,1,True,6.0,22.1,30.3,65.0,False,2.0,80.435,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,36.0,2.0,SOFT,20.0,False,1,True,6.0,22.0,30.4,65.0,False,1.5,80.323,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,37.0,2.0,SOFT,21.0,False,1,True,6.0,22.1,30.4,65.0,False,1.2,80.247,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,38.0,2.0,SOFT,22.0,False,1,True,6.0,22.1,30.1,66.0,False,0.8,80.074,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,39.0,2.0,SOFT,23.0,False,1,True,6.0,22.2,29.9,66.0,False,2.0,79.851,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,40.0,2.0,SOFT,24.0,False,1,True,6.0,22.1,29.9,66.0,False,2.5,79.832,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,41.0,2.0,SOFT,25.0,False,1,True,6.0,22.1,29.9,66.0,False,2.9,79.84,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,42.0,2.0,SOFT,26.0,False,1,True,5.0,22.1,29.9,65.0,False,1.7,79.9,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,43.0,2.0,SOFT,27.0,False,1,True,5.0,22.1,29.9,65.0,False,2.7,80.13,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,44.0,2.0,SOFT,28.0,False,1,False,5.0,22.1,29.8,65.0,False,1.7,83.902,True,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,45.0,3.0,HARD,1.0,False,1,False,10.0,22.1,29.6,66.0,False,2.2,98.759,True,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,46.0,3.0,HARD,2.0,False,1,True,10.0,22.0,29.1,66.0,False,1.2,78.442,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,47.0,3.0,HARD,3.0,False,1,True,10.0,22.0,29.1,65.0,False,2.9,78.321,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,48.0,3.0,HARD,4.0,False,1,True,9.0,22.1,29.3,65.0,False,1.2,78.237,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,49.0,3.0,HARD,5.0,False,1,True,8.0,22.0,29.5,64.0,False,2.4,78.083,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,50.0,3.0,HARD,6.0,False,1,True,8.0,22.0,29.5,64.0,False,1.2,78.935,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,51.0,3.0,HARD,7.0,False,1,True,7.0,22.0,28.7,65.0,False,2.2,78.833,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,52.0,3.0,HARD,8.0,False,1,True,7.0,22.0,28.6,66.0,False,1.7,78.543,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,53.0,3.0,HARD,9.0,False,1,True,7.0,21.9,28.4,67.0,False,3.0,79.225,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,54.0,3.0,HARD,10.0,False,1,True,7.0,21.9,28.3,67.0,False,1.7,78.536,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,55.0,3.0,HARD,11.0,False,1,True,7.0,21.9,28.4,67.0,False,2.2,78.584,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,56.0,3.0,HARD,12.0,False,1,True,7.0,21.9,28.2,67.0,False,1.7,78.749,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,57.0,3.0,HARD,13.0,False,1,True,7.0,21.9,28.1,66.0,False,1.8,78.77,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,58.0,3.0,HARD,14.0,False,1,True,7.0,21.9,28.2,66.0,False,2.2,78.861,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,59.0,3.0,HARD,15.0,False,1,True,7.0,21.8,28.2,67.0,False,1.7,78.87,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,60.0,3.0,HARD,16.0,False,1,True,7.0,21.7,27.9,67.0,False,1.7,79.111,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,61.0,3.0,HARD,17.0,False,1,True,7.0,21.6,27.7,67.0,False,2.5,79.624,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,62.0,3.0,HARD,18.0,False,1,True,7.0,21.5,27.3,68.0,False,2.5,79.445,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,63.0,3.0,HARD,19.0,False,1,True,7.0,21.5,27.2,68.0,False,1.7,78.532,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,64.0,3.0,HARD,20.0,False,1,True,7.0,21.5,26.8,69.0,False,1.5,79.229,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,65.0,3.0,HARD,21.0,False,1,True,7.0,21.5,27.4,68.0,False,1.7,78.845,False,66,2023,7,Spanish Grand Prix,2023_07
+ALO,Aston Martin,66.0,3.0,HARD,22.0,False,1,True,7.0,21.5,27.5,68.0,False,2.2,79.481,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,1.0,1.0,SOFT,4.0,False,1,False,5.0,22.5,33.4,64.0,False,1.6,87.129,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,2.0,1.0,SOFT,5.0,False,1,True,5.0,22.5,33.3,63.0,False,1.1,82.0,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,3.0,1.0,SOFT,6.0,False,1,True,5.0,22.4,33.0,64.0,False,2.0,81.445,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,4.0,1.0,SOFT,7.0,False,1,True,5.0,22.5,32.7,64.0,False,1.1,80.939,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,5.0,1.0,SOFT,8.0,False,1,True,5.0,22.4,32.6,64.0,False,1.6,80.792,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,6.0,1.0,SOFT,9.0,False,1,True,5.0,22.4,33.0,63.0,False,1.6,81.314,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,7.0,1.0,SOFT,10.0,False,1,True,5.0,22.3,32.2,64.0,False,2.0,80.963,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,8.0,1.0,SOFT,11.0,False,1,True,5.0,22.3,32.2,65.0,False,1.5,81.397,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,9.0,1.0,SOFT,12.0,False,1,True,5.0,22.2,31.6,64.0,False,1.8,81.378,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,10.0,1.0,SOFT,13.0,False,1,True,5.0,22.1,31.9,65.0,False,2.4,81.475,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,11.0,1.0,SOFT,14.0,False,1,True,6.0,22.0,31.8,64.0,False,2.2,82.763,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,12.0,1.0,SOFT,15.0,False,1,True,6.0,22.0,31.5,63.0,False,2.5,81.696,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,13.0,1.0,SOFT,16.0,False,1,False,8.0,22.1,31.7,65.0,False,2.7,85.472,True,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,14.0,2.0,MEDIUM,1.0,True,1,False,13.0,22.0,31.7,64.0,False,2.7,98.928,True,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,15.0,2.0,MEDIUM,2.0,True,1,True,13.0,22.1,31.2,65.0,False,2.0,80.523,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,16.0,2.0,MEDIUM,3.0,True,1,True,11.0,22.1,31.2,64.0,False,2.0,80.865,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,17.0,2.0,MEDIUM,4.0,True,1,True,10.0,22.1,31.3,64.0,False,2.0,80.556,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,18.0,2.0,MEDIUM,5.0,True,1,True,9.0,22.1,30.9,65.0,False,2.7,80.376,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,19.0,2.0,MEDIUM,6.0,True,1,True,9.0,22.1,31.2,64.0,False,2.4,80.395,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,20.0,2.0,MEDIUM,7.0,True,1,True,7.0,22.0,31.5,63.0,False,1.6,80.623,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,21.0,2.0,MEDIUM,8.0,True,1,True,7.0,22.1,31.2,64.0,False,2.2,80.646,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,22.0,2.0,MEDIUM,9.0,True,1,True,7.0,22.0,31.1,64.0,False,3.2,80.239,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,23.0,2.0,MEDIUM,10.0,True,1,True,7.0,22.0,30.9,65.0,False,2.2,80.539,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,24.0,2.0,MEDIUM,11.0,True,1,True,7.0,22.0,30.9,64.0,False,2.2,80.636,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,25.0,2.0,MEDIUM,12.0,True,1,True,7.0,22.0,31.0,64.0,False,2.7,80.534,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,26.0,2.0,MEDIUM,13.0,True,1,True,7.0,21.9,30.3,65.0,False,2.0,81.411,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,27.0,2.0,MEDIUM,14.0,True,1,True,7.0,22.0,30.4,66.0,False,1.6,80.39,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,28.0,2.0,MEDIUM,15.0,True,1,True,6.0,22.1,30.4,66.0,False,2.0,80.318,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,29.0,2.0,MEDIUM,16.0,True,1,True,6.0,22.1,30.5,66.0,False,3.0,80.341,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,30.0,2.0,MEDIUM,17.0,True,1,True,6.0,22.2,30.1,66.0,False,2.2,80.313,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,31.0,2.0,MEDIUM,18.0,True,1,True,6.0,22.1,30.5,66.0,False,2.0,80.502,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,32.0,2.0,MEDIUM,19.0,True,1,True,6.0,22.1,30.5,66.0,False,2.2,80.543,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,33.0,2.0,MEDIUM,20.0,True,1,True,6.0,22.1,30.6,65.0,False,2.2,80.82,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,34.0,2.0,MEDIUM,21.0,True,1,True,6.0,22.0,30.2,65.0,False,1.8,81.516,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,35.0,2.0,MEDIUM,22.0,True,1,False,7.0,22.1,30.3,65.0,False,2.0,84.355,True,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,36.0,3.0,HARD,1.0,True,1,False,14.0,22.0,30.4,65.0,False,1.5,100.678,True,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,37.0,3.0,HARD,2.0,True,1,True,13.0,22.1,30.1,65.0,False,1.2,79.679,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,38.0,3.0,HARD,3.0,True,1,True,12.0,22.1,30.1,66.0,False,0.8,79.027,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,39.0,3.0,HARD,4.0,True,1,True,11.0,22.2,29.9,66.0,False,2.0,79.368,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,40.0,3.0,HARD,5.0,True,1,True,9.0,22.1,29.9,66.0,False,1.6,79.729,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,41.0,3.0,HARD,6.0,True,1,True,9.0,22.1,29.9,66.0,False,2.9,79.703,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,42.0,3.0,HARD,7.0,True,1,True,8.0,22.1,29.9,65.0,False,1.7,79.696,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,43.0,3.0,HARD,8.0,True,1,True,8.0,22.1,29.9,65.0,False,2.0,79.7,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,44.0,3.0,HARD,9.0,True,1,True,8.0,22.1,29.8,65.0,False,1.7,79.862,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,45.0,3.0,HARD,10.0,True,1,True,7.0,22.1,29.6,66.0,False,2.2,79.843,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,46.0,3.0,HARD,11.0,True,1,True,7.0,22.0,29.1,66.0,False,1.2,79.654,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,47.0,3.0,HARD,12.0,True,1,True,7.0,22.0,29.1,65.0,False,2.9,79.669,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,48.0,3.0,HARD,13.0,True,1,True,7.0,22.1,29.3,65.0,False,1.2,79.618,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,49.0,3.0,HARD,14.0,True,1,True,7.0,22.0,29.5,64.0,False,2.4,78.965,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,50.0,3.0,HARD,15.0,True,1,True,7.0,22.0,29.5,64.0,False,1.2,79.163,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,51.0,3.0,HARD,16.0,True,1,True,8.0,22.0,28.7,65.0,False,2.2,81.212,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,52.0,3.0,HARD,17.0,True,1,True,8.0,22.0,28.6,66.0,False,1.7,79.213,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,53.0,3.0,HARD,18.0,True,1,True,8.0,21.9,28.4,67.0,False,3.0,79.177,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,54.0,3.0,HARD,19.0,True,1,True,8.0,21.9,28.3,67.0,False,1.7,78.946,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,55.0,3.0,HARD,20.0,True,1,True,8.0,21.9,28.4,67.0,False,2.2,79.057,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,56.0,3.0,HARD,21.0,True,1,True,8.0,21.9,28.2,67.0,False,1.7,79.097,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,57.0,3.0,HARD,22.0,True,1,True,8.0,21.9,28.1,66.0,False,1.8,79.365,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,58.0,3.0,HARD,23.0,True,1,True,8.0,21.8,28.2,66.0,False,1.2,79.207,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,59.0,3.0,HARD,24.0,True,1,True,8.0,21.8,28.2,67.0,False,1.7,79.189,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,60.0,3.0,HARD,25.0,True,1,True,8.0,21.7,27.9,67.0,False,1.7,78.97,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,61.0,3.0,HARD,26.0,True,1,True,8.0,21.6,27.3,68.0,False,1.1,79.175,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,62.0,3.0,HARD,27.0,True,1,True,8.0,21.5,27.3,68.0,False,2.5,79.057,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,63.0,3.0,HARD,28.0,True,1,True,8.0,21.5,27.2,68.0,False,1.7,79.174,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,64.0,3.0,HARD,29.0,True,1,True,8.0,21.5,26.8,69.0,False,1.5,79.228,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,65.0,3.0,HARD,30.0,True,1,True,8.0,21.5,27.4,68.0,False,1.7,79.174,False,66,2023,7,Spanish Grand Prix,2023_07
+OCO,Alpine,66.0,3.0,HARD,31.0,True,1,True,8.0,21.5,27.5,68.0,False,2.2,79.455,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,1.0,1.0,SOFT,1.0,True,1,False,9.0,22.5,33.4,64.0,False,1.6,89.482,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,2.0,1.0,SOFT,2.0,True,1,True,9.0,22.5,33.3,63.0,False,1.1,81.832,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,3.0,1.0,SOFT,3.0,True,1,True,9.0,22.4,33.0,64.0,False,2.0,81.997,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,True,9.0,22.4,32.6,64.0,False,2.4,81.232,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,True,8.0,22.4,32.6,64.0,False,1.6,80.397,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,6.0,1.0,SOFT,6.0,True,1,True,8.0,22.4,33.0,63.0,False,1.6,81.514,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,7.0,1.0,SOFT,7.0,True,1,True,8.0,22.3,32.2,64.0,False,2.0,81.494,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,8.0,1.0,SOFT,8.0,True,1,True,8.0,22.3,32.2,65.0,False,1.5,81.705,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,9.0,1.0,SOFT,9.0,True,1,False,11.0,22.2,31.6,64.0,False,1.8,86.163,True,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,10.0,2.0,HARD,1.0,True,1,False,16.0,22.1,31.9,65.0,False,2.4,101.115,True,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,11.0,2.0,HARD,2.0,True,1,True,15.0,22.0,31.8,64.0,False,2.2,81.174,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,12.0,2.0,HARD,3.0,True,1,True,15.0,22.1,31.5,64.0,False,2.2,79.955,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,13.0,2.0,HARD,4.0,True,1,True,15.0,22.1,31.7,65.0,False,2.7,79.948,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,14.0,2.0,HARD,5.0,True,1,True,16.0,22.0,31.7,64.0,False,2.7,82.523,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,15.0,2.0,HARD,6.0,True,1,True,16.0,22.1,31.2,65.0,False,2.0,81.185,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,16.0,2.0,HARD,7.0,True,1,True,15.0,22.1,31.2,64.0,False,2.0,80.906,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,17.0,2.0,HARD,8.0,True,1,True,12.0,22.1,31.0,64.0,False,1.7,80.815,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,18.0,2.0,HARD,9.0,True,1,True,11.0,22.1,30.9,65.0,False,2.7,80.568,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,19.0,2.0,HARD,10.0,True,1,True,11.0,22.1,31.2,64.0,False,2.4,80.49,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,20.0,2.0,HARD,11.0,True,1,True,9.0,22.1,31.4,63.0,False,1.7,80.479,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,21.0,2.0,HARD,12.0,True,1,True,10.0,22.1,31.2,64.0,False,2.2,81.619,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,22.0,2.0,HARD,13.0,True,1,True,10.0,22.0,31.1,64.0,False,3.2,81.227,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,23.0,2.0,HARD,14.0,True,1,True,10.0,22.0,30.9,65.0,False,2.2,81.493,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,24.0,2.0,HARD,15.0,True,1,True,10.0,22.0,30.9,64.0,False,2.2,81.399,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,25.0,2.0,HARD,16.0,True,1,True,10.0,22.0,31.0,64.0,False,2.7,81.114,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,26.0,2.0,HARD,17.0,True,1,True,10.0,21.9,30.3,65.0,False,2.0,80.895,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,27.0,2.0,HARD,18.0,True,1,True,10.0,22.0,30.4,66.0,False,1.6,80.55,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,28.0,2.0,HARD,19.0,True,1,True,10.0,22.1,30.4,66.0,False,2.0,80.946,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,29.0,2.0,HARD,20.0,True,1,True,10.0,22.1,30.5,66.0,False,3.0,80.508,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,30.0,2.0,HARD,21.0,True,1,True,10.0,22.2,30.1,66.0,False,2.2,80.405,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,31.0,2.0,HARD,22.0,True,1,True,10.0,22.1,30.5,66.0,False,2.0,80.673,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,32.0,2.0,HARD,23.0,True,1,True,10.0,22.1,30.5,66.0,False,2.2,80.679,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,33.0,2.0,HARD,24.0,True,1,True,10.0,22.1,30.6,65.0,False,2.2,80.782,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,34.0,2.0,HARD,25.0,True,1,True,10.0,22.0,30.2,65.0,False,1.8,80.446,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,35.0,2.0,HARD,26.0,True,1,True,8.0,22.1,30.3,65.0,False,2.0,80.371,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,36.0,2.0,HARD,27.0,True,1,False,9.0,22.0,30.4,65.0,False,1.5,84.35,True,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,37.0,3.0,HARD,1.0,True,1,False,15.0,22.1,30.1,65.0,False,1.2,99.856,True,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,38.0,3.0,HARD,2.0,True,1,True,15.0,22.1,30.1,66.0,False,0.8,78.753,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,39.0,3.0,HARD,3.0,True,1,True,14.0,22.2,29.9,66.0,False,2.0,78.982,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,40.0,3.0,HARD,4.0,True,1,True,12.0,22.1,29.9,66.0,False,1.6,79.119,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,41.0,3.0,HARD,5.0,True,1,True,12.0,22.1,29.9,66.0,False,2.9,79.065,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,42.0,3.0,HARD,6.0,True,1,True,11.0,22.1,29.9,65.0,False,1.7,79.044,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,43.0,3.0,HARD,7.0,True,1,True,10.0,22.1,29.9,65.0,False,2.0,79.073,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,44.0,3.0,HARD,8.0,True,1,True,10.0,22.1,29.8,65.0,False,1.7,79.336,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,45.0,3.0,HARD,9.0,True,1,True,9.0,22.1,29.6,66.0,False,2.2,79.326,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,46.0,3.0,HARD,10.0,True,1,True,9.0,22.0,29.1,66.0,False,1.2,79.122,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,47.0,3.0,HARD,11.0,True,1,True,9.0,22.0,29.1,65.0,False,2.9,79.214,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,48.0,3.0,HARD,12.0,True,1,True,10.0,22.1,29.3,65.0,False,1.2,79.749,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,49.0,3.0,HARD,13.0,True,1,True,10.0,22.0,29.5,64.0,False,2.4,79.276,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,50.0,3.0,HARD,14.0,True,1,True,10.0,22.0,29.5,64.0,False,1.2,79.461,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,51.0,3.0,HARD,15.0,True,1,True,10.0,22.0,28.7,65.0,False,2.2,79.699,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,52.0,3.0,HARD,16.0,True,1,True,10.0,22.0,28.6,66.0,False,1.7,79.04,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,53.0,3.0,HARD,17.0,True,1,True,10.0,21.9,28.4,67.0,False,3.0,79.086,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,54.0,3.0,HARD,18.0,True,1,True,10.0,21.9,28.3,67.0,False,1.7,79.057,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,55.0,3.0,HARD,19.0,True,1,True,10.0,21.9,28.4,67.0,False,2.2,79.147,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,56.0,3.0,HARD,20.0,True,1,True,10.0,21.9,28.2,67.0,False,1.7,80.335,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,57.0,3.0,HARD,21.0,True,1,True,10.0,21.9,28.1,66.0,False,1.8,79.425,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,58.0,3.0,HARD,22.0,True,1,True,10.0,21.8,28.2,66.0,False,1.2,79.123,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,59.0,3.0,HARD,23.0,True,1,True,10.0,21.8,28.2,67.0,False,1.7,78.973,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,60.0,3.0,HARD,24.0,True,1,True,10.0,21.7,27.9,67.0,False,1.7,79.07,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,61.0,3.0,HARD,25.0,True,1,True,10.0,21.6,27.3,68.0,False,1.1,78.954,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,62.0,3.0,HARD,26.0,True,1,True,10.0,21.5,27.3,68.0,False,2.5,79.369,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,63.0,3.0,HARD,27.0,True,1,True,10.0,21.5,27.2,68.0,False,1.7,79.231,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,64.0,3.0,HARD,28.0,True,1,True,10.0,21.5,27.1,69.0,False,2.2,79.257,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,65.0,3.0,HARD,29.0,True,1,True,10.0,21.5,27.4,68.0,False,1.7,79.137,False,66,2023,7,Spanish Grand Prix,2023_07
+ZHO,Alfa Romeo,66.0,3.0,HARD,30.0,True,1,True,10.0,21.5,27.5,68.0,False,2.2,79.108,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,1.0,1.0,SOFT,4.0,False,1,False,15.0,22.5,33.4,64.0,False,1.6,91.543,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,2.0,1.0,SOFT,5.0,False,1,True,14.0,22.5,33.3,63.0,False,1.1,82.874,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,3.0,1.0,SOFT,6.0,False,1,True,14.0,22.4,33.0,64.0,False,2.0,81.972,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,4.0,1.0,SOFT,7.0,False,1,True,14.0,22.4,32.6,64.0,False,2.4,81.884,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,5.0,1.0,SOFT,8.0,False,1,True,14.0,22.4,32.6,64.0,False,1.6,81.453,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,6.0,1.0,SOFT,9.0,False,1,True,14.0,22.4,33.0,63.0,False,1.6,81.432,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,7.0,1.0,SOFT,10.0,False,1,True,14.0,22.3,32.2,64.0,False,2.0,82.22,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,8.0,1.0,SOFT,11.0,False,1,True,13.0,22.3,32.2,65.0,False,1.5,82.579,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,9.0,1.0,SOFT,12.0,False,1,True,13.0,22.2,31.6,64.0,False,1.8,81.563,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,10.0,1.0,SOFT,13.0,False,1,True,11.0,22.1,31.9,65.0,False,2.4,81.41,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,11.0,1.0,SOFT,14.0,False,1,True,10.0,22.0,31.8,64.0,False,2.2,81.06,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,12.0,1.0,SOFT,15.0,False,1,True,10.0,22.0,31.5,63.0,False,2.5,81.058,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,13.0,1.0,SOFT,16.0,False,1,True,10.0,22.1,31.7,65.0,False,2.7,81.318,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,14.0,1.0,SOFT,17.0,False,1,True,9.0,22.0,31.7,64.0,False,2.7,81.307,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,15.0,1.0,SOFT,18.0,False,1,True,8.0,22.1,31.2,65.0,False,2.0,81.36,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,16.0,1.0,SOFT,19.0,False,1,True,7.0,22.1,31.2,64.0,False,2.0,81.543,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,17.0,1.0,SOFT,20.0,False,1,True,6.0,22.1,31.3,64.0,False,2.0,81.554,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,18.0,1.0,SOFT,21.0,False,1,True,6.0,22.1,30.9,65.0,False,2.7,81.199,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,19.0,1.0,SOFT,22.0,False,1,False,7.0,22.1,31.2,64.0,False,2.4,86.187,True,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,20.0,2.0,MEDIUM,1.0,True,1,False,16.0,22.0,31.5,63.0,False,1.6,100.742,True,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,21.0,2.0,MEDIUM,2.0,True,1,True,15.0,22.1,31.2,64.0,False,2.2,79.437,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,22.0,2.0,MEDIUM,3.0,True,1,True,15.0,22.0,31.1,64.0,False,3.2,80.694,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,23.0,2.0,MEDIUM,4.0,True,1,True,14.0,22.0,30.9,65.0,False,2.2,81.299,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,24.0,2.0,MEDIUM,5.0,True,1,True,13.0,22.0,30.9,64.0,False,2.2,79.647,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,25.0,2.0,MEDIUM,6.0,True,1,True,13.0,22.0,31.0,64.0,False,2.7,79.868,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,26.0,2.0,MEDIUM,7.0,True,1,True,12.0,21.9,30.3,65.0,False,2.0,80.473,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,27.0,2.0,MEDIUM,8.0,True,1,True,12.0,22.0,30.4,66.0,False,1.6,79.477,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,28.0,2.0,MEDIUM,9.0,True,1,True,12.0,22.1,30.4,66.0,False,2.0,79.996,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,29.0,2.0,MEDIUM,10.0,True,1,True,12.0,22.1,30.5,66.0,False,3.0,80.141,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,30.0,2.0,MEDIUM,11.0,True,1,True,12.0,22.2,30.1,66.0,False,2.2,80.474,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,31.0,2.0,MEDIUM,12.0,True,1,True,12.0,22.1,30.5,66.0,False,2.0,80.393,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,32.0,2.0,MEDIUM,13.0,True,1,True,12.0,22.1,30.5,66.0,False,2.2,80.506,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,33.0,2.0,MEDIUM,14.0,True,1,True,12.0,22.1,30.6,65.0,False,2.2,80.943,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,34.0,2.0,MEDIUM,15.0,True,1,True,12.0,22.0,30.2,65.0,False,1.8,80.433,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,35.0,2.0,MEDIUM,16.0,True,1,True,10.0,22.1,30.3,65.0,False,2.0,81.005,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,36.0,2.0,MEDIUM,17.0,True,1,True,8.0,22.0,30.4,65.0,False,1.5,80.884,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,37.0,2.0,MEDIUM,18.0,True,1,True,8.0,22.1,30.1,65.0,False,1.2,80.466,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,38.0,2.0,MEDIUM,19.0,True,1,True,8.0,22.1,30.1,66.0,False,0.8,80.404,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,39.0,2.0,MEDIUM,20.0,True,1,False,9.0,22.2,29.9,66.0,False,2.0,84.147,True,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,40.0,3.0,HARD,1.0,True,1,False,14.0,22.1,29.9,66.0,False,1.6,100.082,True,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,41.0,3.0,HARD,2.0,True,1,True,14.0,22.1,29.9,66.0,False,2.9,78.375,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,42.0,3.0,HARD,3.0,True,1,True,13.0,22.1,29.9,65.0,False,2.7,78.577,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,43.0,3.0,HARD,4.0,True,1,True,13.0,22.1,29.9,65.0,False,2.0,78.658,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,44.0,3.0,HARD,5.0,True,1,True,12.0,22.1,29.8,65.0,False,1.7,78.804,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,45.0,3.0,HARD,6.0,True,1,True,12.0,22.1,29.6,66.0,False,2.2,79.161,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,46.0,3.0,HARD,7.0,True,1,True,12.0,22.0,29.1,66.0,False,1.2,79.092,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,47.0,3.0,HARD,8.0,True,1,True,12.0,22.0,29.1,65.0,False,2.9,78.948,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,48.0,3.0,HARD,9.0,True,1,True,11.0,22.1,29.3,65.0,False,1.2,79.191,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,49.0,3.0,HARD,10.0,True,1,True,11.0,22.0,29.5,64.0,False,2.4,78.843,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,50.0,3.0,HARD,11.0,True,1,True,11.0,22.0,29.5,64.0,False,1.2,78.845,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,51.0,3.0,HARD,12.0,True,1,True,11.0,22.0,28.7,65.0,False,2.2,78.796,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,52.0,3.0,HARD,13.0,True,1,True,11.0,22.0,28.6,66.0,False,1.7,79.006,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,53.0,3.0,HARD,14.0,True,1,True,11.0,21.9,28.4,67.0,False,3.0,78.824,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,54.0,3.0,HARD,15.0,True,1,True,11.0,21.9,28.3,67.0,False,1.7,78.991,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,55.0,3.0,HARD,16.0,True,1,True,11.0,21.9,28.4,67.0,False,2.2,79.195,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,56.0,3.0,HARD,17.0,True,1,True,11.0,21.9,28.2,67.0,False,1.7,79.565,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,57.0,3.0,HARD,18.0,True,1,True,11.0,21.9,28.1,66.0,False,1.8,79.287,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,58.0,3.0,HARD,19.0,True,1,True,11.0,21.8,28.2,66.0,False,1.2,79.232,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,59.0,3.0,HARD,20.0,True,1,True,11.0,21.8,28.2,67.0,False,1.7,78.994,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,60.0,3.0,HARD,21.0,True,1,True,11.0,21.7,27.9,67.0,False,1.7,78.965,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,61.0,3.0,HARD,22.0,True,1,True,11.0,21.6,27.3,68.0,False,1.1,79.052,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,62.0,3.0,HARD,23.0,True,1,True,11.0,21.5,27.3,68.0,False,2.5,79.178,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,63.0,3.0,HARD,24.0,True,1,True,11.0,21.5,27.2,68.0,False,1.7,79.232,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,64.0,3.0,HARD,25.0,True,1,True,11.0,21.5,27.1,69.0,False,2.2,79.524,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,65.0,3.0,HARD,26.0,True,1,True,11.0,21.5,27.4,68.0,False,1.7,78.99,False,66,2023,7,Spanish Grand Prix,2023_07
+GAS,Alpine,66.0,3.0,HARD,27.0,True,1,True,11.0,21.5,27.5,68.0,False,2.2,79.118,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,1.0,1.0,HARD,1.0,True,1,False,20.0,22.5,33.4,64.0,False,1.6,95.79,True,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,2.0,1.0,HARD,2.0,True,1,True,19.0,22.5,33.3,63.0,False,1.1,82.029,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,3.0,1.0,HARD,3.0,True,1,True,19.0,22.4,33.0,64.0,False,2.0,81.469,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,4.0,1.0,HARD,4.0,True,1,True,18.0,22.4,32.6,64.0,False,2.4,81.854,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,5.0,1.0,HARD,5.0,True,1,True,17.0,22.4,32.6,64.0,False,1.6,81.631,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,6.0,1.0,HARD,6.0,True,1,True,17.0,22.4,33.0,63.0,False,1.6,80.827,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,7.0,1.0,HARD,7.0,True,1,True,16.0,22.3,32.2,64.0,False,2.0,81.403,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,8.0,1.0,HARD,8.0,True,1,True,15.0,22.3,32.2,65.0,False,1.5,82.182,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,9.0,1.0,HARD,9.0,True,1,True,14.0,22.2,31.6,64.0,False,1.8,81.739,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,10.0,1.0,HARD,10.0,True,1,True,12.0,22.1,31.9,65.0,False,2.4,81.828,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,11.0,1.0,HARD,11.0,True,1,True,11.0,22.0,31.8,64.0,False,2.2,80.84,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,12.0,1.0,HARD,12.0,True,1,True,11.0,22.1,31.5,64.0,False,2.2,81.504,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,13.0,1.0,HARD,13.0,True,1,True,11.0,22.1,31.7,65.0,False,2.7,81.797,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,14.0,1.0,HARD,14.0,True,1,True,10.0,22.0,31.7,64.0,False,2.7,81.732,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,15.0,1.0,HARD,15.0,True,1,True,9.0,22.1,31.2,65.0,False,2.0,81.545,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,16.0,1.0,HARD,16.0,True,1,False,9.0,22.1,31.2,64.0,False,2.0,86.277,True,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,17.0,2.0,SOFT,1.0,True,1,False,18.0,22.1,31.3,64.0,False,2.0,99.864,True,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,18.0,2.0,SOFT,2.0,True,1,True,17.0,22.1,30.9,65.0,False,2.7,80.94,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,19.0,2.0,SOFT,3.0,True,1,True,17.0,22.1,31.2,64.0,False,2.4,80.553,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,20.0,2.0,SOFT,4.0,True,1,True,15.0,22.1,31.4,63.0,False,1.7,80.066,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,21.0,2.0,SOFT,5.0,True,1,True,16.0,22.1,31.2,64.0,False,2.2,81.325,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,22.0,2.0,SOFT,6.0,True,1,True,16.0,22.0,31.1,64.0,False,3.2,80.851,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,23.0,2.0,SOFT,7.0,True,1,True,16.0,22.0,30.9,65.0,False,2.2,80.901,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,24.0,2.0,SOFT,8.0,True,1,True,15.0,22.0,30.9,64.0,False,2.2,81.588,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,25.0,2.0,SOFT,9.0,True,1,True,15.0,22.0,31.0,64.0,False,2.7,80.414,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,26.0,2.0,SOFT,10.0,True,1,True,13.0,21.9,30.3,65.0,False,2.0,80.078,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,27.0,2.0,SOFT,11.0,True,1,True,13.0,22.0,30.4,66.0,False,1.6,80.272,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,28.0,2.0,SOFT,12.0,True,1,True,13.0,22.1,30.4,66.0,False,2.0,80.495,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,29.0,2.0,SOFT,13.0,True,1,True,13.0,22.1,30.5,66.0,False,3.0,80.348,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,30.0,2.0,SOFT,14.0,True,1,True,13.0,22.2,30.1,66.0,False,2.2,80.325,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,31.0,2.0,SOFT,15.0,True,1,True,13.0,22.1,30.5,66.0,False,2.2,80.296,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,32.0,2.0,SOFT,16.0,True,1,True,13.0,22.1,30.5,66.0,False,2.2,80.316,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,33.0,2.0,SOFT,17.0,True,1,True,13.0,22.1,30.6,65.0,False,2.2,80.247,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,34.0,2.0,SOFT,18.0,True,1,True,13.0,22.1,30.2,66.0,False,1.7,80.374,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,35.0,2.0,SOFT,19.0,True,1,True,11.0,22.1,30.3,65.0,False,2.0,80.361,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,36.0,2.0,SOFT,20.0,True,1,True,10.0,22.0,30.4,65.0,False,1.5,80.554,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,37.0,2.0,SOFT,21.0,True,1,True,9.0,22.1,30.1,65.0,False,1.2,80.676,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,38.0,2.0,SOFT,22.0,True,1,True,9.0,22.1,30.1,66.0,False,0.8,80.458,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,39.0,2.0,SOFT,23.0,True,1,True,8.0,22.2,29.9,66.0,False,2.0,80.558,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,40.0,2.0,SOFT,24.0,True,1,True,7.0,22.1,29.9,66.0,False,1.6,80.219,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,41.0,2.0,SOFT,25.0,True,1,False,8.0,22.1,29.9,66.0,False,2.9,83.726,True,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,42.0,3.0,HARD,26.0,False,1,False,14.0,22.1,29.9,65.0,False,1.7,99.362,True,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,43.0,3.0,HARD,27.0,False,1,True,14.0,22.1,29.9,65.0,False,2.0,78.46,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,44.0,3.0,HARD,28.0,False,1,True,13.0,22.1,29.8,65.0,False,1.7,78.657,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,45.0,3.0,HARD,29.0,False,1,True,13.0,22.1,29.8,66.0,False,2.4,78.634,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,46.0,3.0,HARD,30.0,False,1,True,13.0,22.0,29.1,66.0,False,1.2,78.749,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,47.0,3.0,HARD,31.0,False,1,True,13.0,22.0,29.1,65.0,False,2.9,78.709,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,48.0,3.0,HARD,32.0,False,1,True,13.0,22.1,29.7,64.0,False,1.8,78.763,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,49.0,3.0,HARD,33.0,False,1,True,13.0,22.0,29.5,64.0,False,2.4,79.918,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,50.0,3.0,HARD,34.0,False,1,True,13.0,22.0,29.5,64.0,False,1.2,79.165,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,51.0,3.0,HARD,35.0,False,1,True,12.0,22.0,28.7,65.0,False,2.2,78.617,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,52.0,3.0,HARD,36.0,False,1,True,12.0,22.0,28.6,66.0,False,1.7,78.357,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,53.0,3.0,HARD,37.0,False,1,True,12.0,21.9,28.4,67.0,False,3.0,78.558,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,54.0,3.0,HARD,38.0,False,1,True,12.0,21.9,28.3,67.0,False,1.7,78.707,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,55.0,3.0,HARD,39.0,False,1,True,12.0,21.9,28.4,67.0,False,2.2,78.853,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,56.0,3.0,HARD,40.0,False,1,True,12.0,21.9,28.2,67.0,False,1.7,78.897,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,57.0,3.0,HARD,41.0,False,1,True,12.0,21.9,28.1,66.0,False,1.8,78.871,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,58.0,3.0,HARD,42.0,False,1,True,12.0,21.8,28.2,66.0,False,1.2,78.863,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,59.0,3.0,HARD,43.0,False,1,True,12.0,21.8,28.2,67.0,False,1.7,78.84,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,60.0,3.0,HARD,44.0,False,1,True,12.0,21.7,27.9,67.0,False,1.7,78.619,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,61.0,3.0,HARD,45.0,False,1,True,12.0,21.6,27.3,68.0,False,1.1,78.682,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,62.0,3.0,HARD,46.0,False,1,True,12.0,21.5,27.3,68.0,False,2.5,79.035,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,63.0,3.0,HARD,47.0,False,1,True,12.0,21.5,27.2,68.0,False,1.7,79.096,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,64.0,3.0,HARD,48.0,False,1,True,12.0,21.5,27.1,69.0,False,2.2,79.502,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,65.0,3.0,HARD,49.0,False,1,True,12.0,21.5,27.4,68.0,False,1.7,78.922,False,66,2023,7,Spanish Grand Prix,2023_07
+LEC,Ferrari,66.0,3.0,HARD,50.0,False,1,True,12.0,21.5,27.5,68.0,False,2.2,79.271,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,1.0,1.0,SOFT,1.0,True,1,False,12.0,22.5,33.4,64.0,False,1.6,90.844,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,2.0,1.0,SOFT,2.0,True,1,True,12.0,22.5,33.3,63.0,False,1.1,82.459,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,3.0,1.0,SOFT,3.0,True,1,True,11.0,22.4,33.0,64.0,False,2.0,81.587,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,True,11.0,22.4,32.6,64.0,False,2.4,81.03,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,True,11.0,22.4,32.6,64.0,False,1.6,81.647,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,6.0,1.0,SOFT,6.0,True,1,True,11.0,22.4,33.0,63.0,False,1.6,81.842,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,7.0,1.0,SOFT,7.0,True,1,True,10.0,22.3,32.2,64.0,False,2.0,81.268,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,8.0,1.0,SOFT,8.0,True,1,True,10.0,22.3,32.2,65.0,False,1.5,81.185,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,9.0,1.0,SOFT,9.0,True,1,True,9.0,22.2,31.6,64.0,False,1.8,81.451,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,10.0,1.0,SOFT,10.0,True,1,False,10.0,22.1,31.9,65.0,False,2.4,84.958,True,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,11.0,2.0,HARD,1.0,True,1,False,16.0,22.0,31.8,64.0,False,2.2,100.506,True,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,12.0,2.0,HARD,2.0,True,1,True,16.0,22.1,31.5,64.0,False,2.2,80.243,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,13.0,2.0,HARD,3.0,True,1,True,16.0,22.1,31.7,65.0,False,2.7,79.767,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,14.0,2.0,HARD,4.0,True,1,True,15.0,22.0,31.7,64.0,False,2.7,81.161,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,15.0,2.0,HARD,5.0,True,1,True,14.0,22.1,31.2,65.0,False,2.0,80.161,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,16.0,2.0,HARD,6.0,True,1,True,13.0,22.1,31.2,64.0,False,2.0,80.377,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,17.0,2.0,HARD,7.0,True,1,True,11.0,22.1,31.3,64.0,False,2.0,80.998,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,18.0,2.0,HARD,8.0,True,1,True,10.0,22.1,30.9,65.0,False,2.7,80.223,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,19.0,2.0,HARD,9.0,True,1,True,10.0,22.1,31.2,64.0,False,2.4,80.222,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,20.0,2.0,HARD,10.0,True,1,True,8.0,22.1,31.4,63.0,False,1.7,80.262,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,21.0,2.0,HARD,11.0,True,1,True,8.0,22.1,31.2,64.0,False,2.2,80.591,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,22.0,2.0,HARD,12.0,True,1,True,8.0,22.0,31.1,64.0,False,3.2,80.468,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,23.0,2.0,HARD,13.0,True,1,True,8.0,22.0,30.9,65.0,False,2.2,80.41,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,24.0,2.0,HARD,14.0,True,1,True,8.0,22.0,30.9,64.0,False,2.2,80.6,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,25.0,2.0,HARD,15.0,True,1,True,8.0,22.0,31.0,64.0,False,2.7,80.643,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,26.0,2.0,HARD,16.0,True,1,True,8.0,21.9,30.3,65.0,False,2.0,80.999,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,27.0,2.0,HARD,17.0,True,1,True,8.0,22.0,30.4,66.0,False,1.6,80.471,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,28.0,2.0,HARD,18.0,True,1,True,7.0,22.1,30.4,66.0,False,2.0,80.31,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,29.0,2.0,HARD,19.0,True,1,True,7.0,22.1,30.5,66.0,False,3.0,80.372,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,30.0,2.0,HARD,20.0,True,1,True,7.0,22.2,30.1,66.0,False,2.2,80.329,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,31.0,2.0,HARD,21.0,True,1,True,7.0,22.1,30.5,66.0,False,2.0,80.595,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,32.0,2.0,HARD,22.0,True,1,True,7.0,22.1,30.5,66.0,False,2.2,80.793,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,33.0,2.0,HARD,23.0,True,1,True,8.0,22.1,30.6,65.0,False,2.2,82.322,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,34.0,2.0,HARD,24.0,True,1,False,9.0,22.0,30.2,65.0,False,1.8,84.505,True,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,35.0,3.0,MEDIUM,1.0,True,1,False,14.0,22.1,30.3,65.0,False,2.0,97.984,True,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,36.0,3.0,MEDIUM,2.0,True,1,True,13.0,22.0,30.4,65.0,False,1.5,79.141,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,37.0,3.0,MEDIUM,3.0,True,1,True,12.0,22.1,30.1,65.0,False,1.2,80.375,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,38.0,3.0,MEDIUM,4.0,True,1,True,11.0,22.1,30.1,66.0,False,0.8,80.12,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,39.0,3.0,MEDIUM,5.0,True,1,True,12.0,22.2,29.9,66.0,False,2.0,80.766,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,40.0,3.0,MEDIUM,6.0,True,1,True,10.0,22.1,29.9,66.0,False,1.6,79.886,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,41.0,3.0,MEDIUM,7.0,True,1,True,10.0,22.1,29.9,66.0,False,2.9,79.728,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,42.0,3.0,MEDIUM,8.0,True,1,True,9.0,22.1,29.9,65.0,False,1.7,79.615,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,43.0,3.0,MEDIUM,9.0,True,1,True,9.0,22.1,29.9,65.0,False,2.0,79.645,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,44.0,3.0,MEDIUM,10.0,True,1,True,9.0,22.1,29.8,65.0,False,1.7,80.063,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,45.0,3.0,MEDIUM,11.0,True,1,True,8.0,22.1,29.6,66.0,False,2.2,79.746,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,46.0,3.0,MEDIUM,12.0,True,1,True,8.0,22.0,29.1,66.0,False,1.2,79.714,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,47.0,3.0,MEDIUM,13.0,True,1,True,8.0,22.0,29.1,65.0,False,2.9,79.625,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,48.0,3.0,MEDIUM,14.0,True,1,True,8.0,22.1,29.3,65.0,False,1.2,79.492,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,49.0,3.0,MEDIUM,15.0,True,1,True,9.0,22.0,29.5,64.0,False,2.4,80.145,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,50.0,3.0,MEDIUM,16.0,True,1,True,9.0,22.0,29.5,64.0,False,1.2,79.211,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,51.0,3.0,MEDIUM,17.0,True,1,True,9.0,22.0,28.7,65.0,False,2.2,79.667,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,52.0,3.0,MEDIUM,18.0,True,1,True,9.0,22.0,28.6,66.0,False,1.7,79.236,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,53.0,3.0,MEDIUM,19.0,True,1,True,9.0,21.9,28.4,67.0,False,3.0,79.028,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,54.0,3.0,MEDIUM,20.0,True,1,True,9.0,21.9,28.3,67.0,False,1.7,79.267,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,55.0,3.0,MEDIUM,21.0,True,1,True,9.0,21.9,28.4,67.0,False,2.2,79.246,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,56.0,3.0,MEDIUM,22.0,True,1,True,9.0,21.9,28.2,67.0,False,1.7,79.568,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,57.0,3.0,MEDIUM,23.0,True,1,True,9.0,21.9,28.1,66.0,False,1.8,79.182,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,58.0,3.0,MEDIUM,24.0,True,1,True,9.0,21.8,28.2,66.0,False,1.2,79.22,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,59.0,3.0,MEDIUM,25.0,True,1,True,9.0,21.8,28.2,67.0,False,1.7,78.904,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,60.0,3.0,MEDIUM,26.0,True,1,True,9.0,21.7,27.9,67.0,False,1.7,78.979,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,61.0,3.0,MEDIUM,27.0,True,1,True,9.0,21.6,27.3,68.0,False,1.1,79.241,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,62.0,3.0,MEDIUM,28.0,True,1,True,9.0,21.5,27.3,68.0,False,2.5,79.206,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,63.0,3.0,MEDIUM,29.0,True,1,True,9.0,21.5,27.2,68.0,False,1.7,79.121,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,64.0,3.0,MEDIUM,30.0,True,1,True,9.0,21.5,26.8,69.0,False,1.5,79.182,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,65.0,3.0,MEDIUM,31.0,True,1,True,9.0,21.5,27.4,68.0,False,1.7,79.287,False,66,2023,7,Spanish Grand Prix,2023_07
+TSU,AlphaTauri,66.0,3.0,MEDIUM,32.0,True,1,True,9.0,21.5,27.5,68.0,False,2.2,79.167,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,1.0,1.0,SOFT,3.0,False,1,False,10.0,22.5,33.4,64.0,False,1.6,90.075,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,2.0,1.0,SOFT,4.0,False,1,True,11.0,22.5,33.3,63.0,False,1.1,82.916,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,3.0,1.0,SOFT,5.0,False,1,True,12.0,22.4,33.0,64.0,False,2.0,82.404,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,4.0,1.0,SOFT,6.0,False,1,True,12.0,22.4,32.6,64.0,False,2.4,81.271,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,5.0,1.0,SOFT,7.0,False,1,True,12.0,22.4,32.6,64.0,False,1.6,81.546,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,6.0,1.0,SOFT,8.0,False,1,True,12.0,22.4,33.0,63.0,False,1.6,81.696,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,7.0,1.0,SOFT,9.0,False,1,True,12.0,22.3,32.2,64.0,False,2.0,82.246,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,8.0,1.0,SOFT,10.0,False,1,True,11.0,22.3,32.2,65.0,False,1.5,81.83,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,9.0,1.0,SOFT,11.0,False,1,True,10.0,22.2,31.6,64.0,False,1.8,81.69,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,10.0,1.0,SOFT,12.0,False,1,True,9.0,22.1,31.9,65.0,False,2.4,81.408,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,11.0,1.0,SOFT,13.0,False,1,True,9.0,22.0,31.8,64.0,False,2.2,81.025,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,12.0,1.0,SOFT,14.0,False,1,True,9.0,22.0,31.5,63.0,False,2.5,80.997,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,13.0,1.0,SOFT,15.0,False,1,True,9.0,22.1,31.7,65.0,False,2.7,81.498,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,14.0,1.0,SOFT,16.0,False,1,True,8.0,22.0,31.7,64.0,False,2.7,81.29,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,15.0,1.0,SOFT,17.0,False,1,True,7.0,22.1,31.2,65.0,False,2.0,81.369,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,16.0,1.0,SOFT,18.0,False,1,True,6.0,22.1,31.2,64.0,False,2.0,81.715,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,17.0,1.0,SOFT,19.0,False,1,False,8.0,22.1,31.3,64.0,False,2.0,84.904,True,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,18.0,2.0,HARD,1.0,True,1,False,15.0,22.1,30.9,65.0,False,2.7,100.323,True,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,19.0,2.0,HARD,2.0,True,1,True,13.0,22.1,31.2,64.0,False,2.4,79.785,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,20.0,2.0,HARD,3.0,True,1,True,12.0,22.1,31.4,63.0,False,1.7,80.115,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,21.0,2.0,HARD,4.0,True,1,True,11.0,22.1,31.2,64.0,False,2.2,80.38,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,22.0,2.0,HARD,5.0,True,1,True,11.0,22.0,31.1,64.0,False,3.2,80.712,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,23.0,2.0,HARD,6.0,True,1,True,11.0,22.0,30.9,65.0,False,2.2,80.738,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,24.0,2.0,HARD,7.0,True,1,True,11.0,22.0,30.9,64.0,False,2.2,80.973,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,25.0,2.0,HARD,8.0,True,1,True,11.0,22.0,31.0,64.0,False,2.7,80.77,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,26.0,2.0,HARD,9.0,True,1,True,11.0,21.9,30.3,65.0,False,2.0,80.828,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,27.0,2.0,HARD,10.0,True,1,True,11.0,22.0,30.4,66.0,False,1.6,80.618,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,28.0,2.0,HARD,11.0,True,1,True,11.0,22.1,30.4,66.0,False,2.0,80.667,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,29.0,2.0,HARD,12.0,True,1,True,11.0,22.1,30.5,66.0,False,3.0,80.352,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,30.0,2.0,HARD,13.0,True,1,True,11.0,22.2,30.1,66.0,False,2.2,80.661,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,31.0,2.0,HARD,14.0,True,1,True,11.0,22.1,30.5,66.0,False,2.0,80.469,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,32.0,2.0,HARD,15.0,True,1,True,11.0,22.1,30.5,66.0,False,2.2,80.672,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,33.0,2.0,HARD,16.0,True,1,True,11.0,22.1,30.6,65.0,False,2.2,80.868,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,34.0,2.0,HARD,17.0,True,1,True,11.0,22.0,30.2,65.0,False,1.8,80.449,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,35.0,2.0,HARD,18.0,True,1,True,9.0,22.1,30.3,65.0,False,2.0,80.449,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,36.0,2.0,HARD,19.0,True,1,True,7.0,22.0,30.4,65.0,False,1.5,80.911,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,37.0,2.0,HARD,20.0,True,1,True,7.0,22.1,30.4,65.0,False,1.2,80.497,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,38.0,2.0,HARD,21.0,True,1,True,7.0,22.1,30.1,66.0,False,0.8,80.607,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,39.0,2.0,HARD,22.0,True,1,False,7.0,22.2,29.9,66.0,False,2.0,84.112,True,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,40.0,3.0,MEDIUM,1.0,True,1,False,13.0,22.1,29.9,66.0,False,1.6,98.905,True,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,41.0,3.0,MEDIUM,2.0,True,1,True,13.0,22.1,29.9,66.0,False,2.9,78.679,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,42.0,3.0,MEDIUM,3.0,True,1,True,12.0,22.1,29.9,65.0,False,2.7,78.987,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,43.0,3.0,MEDIUM,4.0,True,1,True,11.0,22.1,29.9,65.0,False,2.0,78.864,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,44.0,3.0,MEDIUM,5.0,True,1,True,11.0,22.1,29.8,65.0,False,1.7,78.854,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,45.0,3.0,MEDIUM,6.0,True,1,True,11.0,22.1,29.6,66.0,False,2.2,79.08,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,46.0,3.0,MEDIUM,7.0,True,1,True,11.0,22.0,29.1,66.0,False,1.2,79.47,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,47.0,3.0,MEDIUM,8.0,True,1,True,11.0,22.0,29.1,65.0,False,2.9,79.397,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,48.0,3.0,MEDIUM,9.0,True,1,True,12.0,22.1,29.3,65.0,False,1.2,81.667,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,49.0,3.0,MEDIUM,10.0,True,1,True,12.0,22.0,29.5,64.0,False,2.4,81.089,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,50.0,3.0,MEDIUM,11.0,True,1,True,12.0,22.0,29.5,64.0,False,1.2,79.227,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,51.0,3.0,MEDIUM,12.0,True,1,True,13.0,22.0,28.7,65.0,False,2.2,80.902,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,52.0,3.0,MEDIUM,13.0,True,1,True,13.0,22.0,28.6,66.0,False,1.7,79.507,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,53.0,3.0,MEDIUM,14.0,True,1,True,13.0,21.9,28.4,67.0,False,3.0,79.358,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,54.0,3.0,MEDIUM,15.0,True,1,True,13.0,21.9,28.3,67.0,False,1.7,79.38,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,55.0,3.0,MEDIUM,16.0,True,1,True,13.0,21.9,28.4,67.0,False,2.2,79.453,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,56.0,3.0,MEDIUM,17.0,True,1,True,13.0,21.9,28.2,67.0,False,1.7,79.365,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,57.0,3.0,MEDIUM,18.0,True,1,True,13.0,21.9,28.1,66.0,False,1.8,79.396,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,58.0,3.0,MEDIUM,19.0,True,1,True,13.0,21.8,28.2,66.0,False,1.2,79.104,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,59.0,3.0,MEDIUM,20.0,True,1,True,13.0,21.8,28.2,67.0,False,1.7,79.096,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,60.0,3.0,MEDIUM,21.0,True,1,True,13.0,21.7,27.9,67.0,False,1.7,78.831,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,61.0,3.0,MEDIUM,22.0,True,1,True,13.0,21.6,27.3,68.0,False,1.1,79.078,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,62.0,3.0,MEDIUM,23.0,True,1,True,13.0,21.5,27.3,68.0,False,2.5,79.2,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,63.0,3.0,MEDIUM,24.0,True,1,True,13.0,21.5,27.2,68.0,False,1.7,80.997,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,64.0,3.0,MEDIUM,25.0,True,1,True,13.0,21.5,27.1,69.0,False,2.2,79.393,False,66,2023,7,Spanish Grand Prix,2023_07
+PIA,McLaren,65.0,3.0,MEDIUM,26.0,True,1,True,13.0,21.5,27.4,68.0,False,1.7,79.1,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,1.0,1.0,SOFT,1.0,True,1,False,16.0,22.5,33.4,64.0,False,1.6,91.797,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,2.0,1.0,SOFT,2.0,True,1,True,15.0,22.5,33.3,63.0,False,1.1,83.068,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,3.0,1.0,SOFT,3.0,True,1,True,15.0,22.4,33.0,64.0,False,2.0,82.007,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,True,15.0,22.4,32.6,64.0,False,2.4,81.717,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,True,15.0,22.4,32.6,64.0,False,1.6,81.6,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,6.0,1.0,SOFT,6.0,True,1,True,15.0,22.4,33.0,63.0,False,1.6,81.572,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,7.0,1.0,SOFT,7.0,True,1,True,15.0,22.3,32.2,64.0,False,2.0,82.165,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,8.0,1.0,SOFT,8.0,True,1,True,14.0,22.3,32.2,65.0,False,1.5,82.489,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,9.0,1.0,SOFT,9.0,True,1,False,16.0,22.2,31.6,64.0,False,1.8,85.276,True,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,10.0,2.0,HARD,1.0,True,1,False,19.0,22.1,31.9,65.0,False,2.4,100.443,True,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,11.0,2.0,HARD,2.0,True,1,True,18.0,22.0,31.5,63.0,False,2.5,80.705,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,12.0,2.0,HARD,3.0,True,1,True,19.0,22.1,31.5,64.0,False,2.2,81.357,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,13.0,2.0,HARD,4.0,True,1,True,19.0,22.1,31.7,65.0,False,2.7,80.553,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,14.0,2.0,HARD,5.0,True,1,True,19.0,22.1,31.9,64.0,False,2.2,81.363,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,15.0,2.0,HARD,6.0,True,1,True,18.0,22.1,31.2,65.0,False,2.0,80.776,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,16.0,2.0,HARD,7.0,True,1,True,18.0,22.1,31.2,64.0,False,2.0,81.022,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,17.0,2.0,HARD,8.0,True,1,True,16.0,22.1,31.0,64.0,False,1.7,80.808,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,18.0,2.0,HARD,9.0,True,1,True,14.0,22.1,30.9,65.0,False,2.7,81.221,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,19.0,2.0,HARD,10.0,True,1,True,15.0,22.1,31.2,64.0,False,2.4,81.571,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,20.0,2.0,HARD,11.0,True,1,True,14.0,22.1,31.4,63.0,False,1.7,81.217,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,21.0,2.0,HARD,12.0,True,1,True,14.0,22.1,31.2,64.0,False,2.2,81.642,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,22.0,2.0,HARD,13.0,True,1,True,14.0,22.0,31.1,64.0,False,3.2,81.656,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,23.0,2.0,HARD,14.0,True,1,True,15.0,22.0,30.9,65.0,False,2.2,82.426,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,24.0,2.0,HARD,15.0,True,1,True,14.0,22.0,30.9,64.0,False,2.2,81.431,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,25.0,2.0,HARD,16.0,True,1,True,14.0,22.0,31.0,64.0,False,2.7,80.52,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,26.0,2.0,HARD,17.0,True,1,True,15.0,21.9,30.3,65.0,False,2.0,81.99,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,27.0,2.0,HARD,18.0,True,1,True,14.0,22.0,30.4,66.0,False,1.6,80.811,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,28.0,2.0,HARD,19.0,True,1,True,14.0,22.1,30.5,65.0,False,1.6,80.848,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,29.0,2.0,HARD,20.0,True,1,True,14.0,22.1,30.5,66.0,False,3.0,80.497,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,30.0,2.0,HARD,21.0,True,1,True,14.0,22.2,30.1,66.0,False,2.2,80.46,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,31.0,2.0,HARD,22.0,True,1,True,14.0,22.1,30.5,66.0,False,2.2,80.483,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,32.0,2.0,HARD,23.0,True,1,True,14.0,22.1,30.5,66.0,False,2.2,80.503,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,33.0,2.0,HARD,24.0,True,1,True,14.0,22.1,30.6,65.0,False,2.2,80.724,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,34.0,2.0,HARD,25.0,True,1,True,14.0,22.1,30.2,66.0,False,1.7,80.923,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,35.0,2.0,HARD,26.0,True,1,True,12.0,22.1,30.3,65.0,False,2.0,80.77,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,36.0,2.0,HARD,27.0,True,1,True,11.0,22.0,30.4,65.0,False,1.5,80.764,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,37.0,2.0,HARD,28.0,True,1,True,10.0,22.1,30.1,65.0,False,1.2,80.909,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,38.0,2.0,HARD,29.0,True,1,False,13.0,22.1,30.1,66.0,False,0.8,84.278,True,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,39.0,3.0,MEDIUM,1.0,True,1,False,17.0,22.2,29.9,66.0,False,2.0,98.438,True,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,40.0,3.0,MEDIUM,2.0,True,1,True,17.0,22.1,29.9,66.0,False,1.6,79.346,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,41.0,3.0,MEDIUM,3.0,True,1,True,16.0,22.1,29.9,66.0,False,2.9,78.594,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,42.0,3.0,MEDIUM,4.0,True,1,True,15.0,22.1,29.9,65.0,False,2.7,80.21,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,43.0,3.0,MEDIUM,5.0,True,1,True,15.0,22.1,29.9,65.0,False,2.0,79.24,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,44.0,3.0,MEDIUM,6.0,True,1,True,14.0,22.1,29.8,65.0,False,1.7,79.312,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,45.0,3.0,MEDIUM,7.0,True,1,True,14.0,22.1,29.8,66.0,False,2.4,78.931,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,46.0,3.0,MEDIUM,8.0,True,1,True,14.0,22.0,29.1,66.0,False,1.2,78.972,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,47.0,3.0,MEDIUM,9.0,True,1,True,14.0,22.0,29.1,65.0,False,2.9,79.111,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,48.0,3.0,MEDIUM,10.0,True,1,True,14.0,22.1,29.7,64.0,False,1.8,78.803,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,49.0,3.0,MEDIUM,11.0,True,1,True,14.0,22.0,29.5,64.0,False,2.4,79.009,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,50.0,3.0,MEDIUM,12.0,True,1,True,14.0,22.0,29.5,64.0,False,1.2,79.34,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,51.0,3.0,MEDIUM,13.0,True,1,True,14.0,22.2,28.7,65.0,False,1.8,79.35,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,52.0,3.0,MEDIUM,14.0,True,1,True,14.0,22.0,28.6,66.0,False,1.7,79.298,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,53.0,3.0,MEDIUM,15.0,True,1,True,14.0,21.9,28.4,67.0,False,3.0,79.186,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,54.0,3.0,MEDIUM,16.0,True,1,True,14.0,21.9,28.3,67.0,False,1.7,79.299,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,55.0,3.0,MEDIUM,17.0,True,1,True,14.0,21.9,28.4,67.0,False,2.2,79.035,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,56.0,3.0,MEDIUM,18.0,True,1,True,14.0,21.9,28.2,67.0,False,1.7,79.294,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,57.0,3.0,MEDIUM,19.0,True,1,True,14.0,21.9,28.1,66.0,False,1.8,79.164,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,58.0,3.0,MEDIUM,20.0,True,1,True,14.0,21.8,28.2,66.0,False,1.2,79.24,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,59.0,3.0,MEDIUM,21.0,True,1,True,14.0,21.8,28.2,67.0,False,1.7,79.014,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,60.0,3.0,MEDIUM,22.0,True,1,True,14.0,21.7,27.9,67.0,False,1.7,79.399,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,61.0,3.0,MEDIUM,23.0,True,1,True,14.0,21.6,27.3,68.0,False,1.1,79.372,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,62.0,3.0,MEDIUM,24.0,True,1,True,14.0,21.5,27.3,68.0,False,2.5,80.567,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,63.0,3.0,MEDIUM,25.0,True,1,True,14.0,21.5,27.2,68.0,False,1.7,79.184,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,64.0,3.0,MEDIUM,26.0,True,1,True,14.0,21.5,27.1,69.0,False,2.2,79.166,False,66,2023,7,Spanish Grand Prix,2023_07
+DEV,AlphaTauri,65.0,3.0,MEDIUM,27.0,True,1,True,14.0,21.5,27.4,68.0,False,1.7,79.031,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,1.0,1.0,SOFT,4.0,False,1,False,8.0,22.5,33.4,64.0,False,1.6,89.133,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,2.0,1.0,SOFT,5.0,False,1,True,8.0,22.5,33.3,63.0,False,1.1,81.912,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,3.0,1.0,SOFT,6.0,False,1,True,8.0,22.4,33.0,64.0,False,2.0,81.892,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,4.0,1.0,SOFT,7.0,False,1,True,8.0,22.4,32.6,64.0,False,2.4,81.363,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,5.0,1.0,SOFT,8.0,False,1,True,9.0,22.4,32.6,64.0,False,1.6,81.972,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,6.0,1.0,SOFT,9.0,False,1,True,10.0,22.4,33.0,63.0,False,1.6,82.738,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,7.0,1.0,SOFT,10.0,False,1,True,11.0,22.3,32.2,64.0,False,2.0,82.775,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,8.0,1.0,SOFT,11.0,False,1,False,17.0,22.3,32.2,65.0,False,1.5,86.934,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,9.0,2.0,MEDIUM,1.0,True,1,False,19.0,22.2,31.6,64.0,False,1.8,98.728,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,10.0,2.0,MEDIUM,2.0,True,1,True,17.0,22.1,31.9,65.0,False,2.4,80.101,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,11.0,2.0,MEDIUM,3.0,True,1,True,14.0,22.0,31.8,64.0,False,2.2,79.527,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,12.0,2.0,MEDIUM,4.0,True,1,True,14.0,22.1,31.5,64.0,False,2.2,80.114,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,13.0,2.0,MEDIUM,5.0,True,1,True,14.0,22.1,31.7,65.0,False,2.7,80.356,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,14.0,2.0,MEDIUM,6.0,True,1,True,14.0,22.0,31.7,64.0,False,2.7,82.119,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,15.0,2.0,MEDIUM,7.0,True,1,True,15.0,22.1,31.2,65.0,False,2.0,81.677,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,16.0,2.0,MEDIUM,8.0,True,1,True,16.0,22.1,31.2,64.0,False,2.0,83.239,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,17.0,2.0,MEDIUM,9.0,True,1,True,13.0,22.1,31.0,64.0,False,1.7,81.467,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,18.0,2.0,MEDIUM,10.0,True,1,True,12.0,22.1,30.9,65.0,False,2.7,81.335,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,19.0,2.0,MEDIUM,11.0,True,1,True,12.0,22.1,31.2,64.0,False,2.4,81.164,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,20.0,2.0,MEDIUM,12.0,True,1,True,11.0,22.1,31.4,63.0,False,1.7,81.266,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,21.0,2.0,MEDIUM,13.0,True,1,True,12.0,22.1,31.2,64.0,False,2.2,81.964,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,22.0,2.0,MEDIUM,14.0,True,1,True,12.0,22.0,31.1,64.0,False,3.2,80.991,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,23.0,2.0,MEDIUM,15.0,True,1,True,12.0,22.0,30.9,65.0,False,2.2,81.129,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,24.0,2.0,MEDIUM,16.0,True,1,True,12.0,22.0,30.9,64.0,False,2.2,81.33,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,25.0,2.0,MEDIUM,17.0,True,1,True,12.0,22.0,31.0,64.0,False,2.7,81.144,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,26.0,2.0,MEDIUM,18.0,True,1,False,14.0,21.9,30.3,65.0,False,2.0,84.75,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,27.0,3.0,HARD,1.0,True,1,False,18.0,22.0,30.4,66.0,False,1.6,99.843,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,28.0,3.0,HARD,2.0,True,1,True,18.0,22.1,30.5,65.0,False,1.6,78.959,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,29.0,3.0,HARD,3.0,True,1,True,18.0,22.1,30.5,66.0,False,3.0,78.981,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,30.0,3.0,HARD,4.0,True,1,True,18.0,22.2,30.1,66.0,False,2.2,79.314,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,31.0,3.0,HARD,5.0,True,1,True,17.0,22.1,30.5,66.0,False,2.2,78.964,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,32.0,3.0,HARD,6.0,True,1,True,16.0,22.1,30.5,66.0,False,2.2,79.493,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,33.0,3.0,HARD,7.0,True,1,True,16.0,22.1,30.6,65.0,False,2.2,79.922,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,34.0,3.0,HARD,8.0,True,1,True,15.0,22.1,30.2,66.0,False,1.7,79.177,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,35.0,3.0,HARD,9.0,True,1,True,15.0,22.1,30.3,65.0,False,2.0,79.874,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,36.0,3.0,HARD,10.0,True,1,True,15.0,22.0,30.4,65.0,False,1.5,80.814,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,37.0,3.0,HARD,11.0,True,1,True,14.0,22.1,30.1,65.0,False,1.2,80.041,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,38.0,3.0,HARD,12.0,True,1,True,14.0,22.1,30.1,66.0,False,0.8,80.033,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,39.0,3.0,HARD,13.0,True,1,True,13.0,22.2,29.9,66.0,False,2.0,80.31,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,40.0,3.0,HARD,14.0,True,1,True,11.0,22.1,29.9,66.0,False,1.6,80.031,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,41.0,3.0,HARD,15.0,True,1,True,11.0,22.1,29.9,66.0,False,2.9,80.039,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,42.0,3.0,HARD,16.0,True,1,True,10.0,22.1,29.9,65.0,False,1.7,80.001,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,43.0,3.0,HARD,17.0,True,1,False,12.0,22.1,29.9,65.0,False,2.0,85.079,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,44.0,4.0,MEDIUM,1.0,True,1,False,16.0,22.1,29.8,65.0,False,1.7,100.839,True,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,45.0,4.0,MEDIUM,2.0,True,1,True,16.0,22.1,29.8,66.0,False,2.4,78.912,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,46.0,4.0,MEDIUM,3.0,True,1,True,16.0,22.0,29.1,66.0,False,1.2,78.841,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,47.0,4.0,MEDIUM,4.0,True,1,True,16.0,22.0,29.1,65.0,False,2.9,79.121,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,48.0,4.0,MEDIUM,5.0,True,1,True,16.0,22.1,29.7,64.0,False,1.8,78.947,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,49.0,4.0,MEDIUM,6.0,True,1,True,16.0,22.0,29.5,64.0,False,2.4,79.272,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,50.0,4.0,MEDIUM,7.0,True,1,True,16.0,22.0,29.5,64.0,False,1.2,78.855,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,51.0,4.0,MEDIUM,8.0,True,1,True,15.0,22.2,28.7,65.0,False,1.8,78.861,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,52.0,4.0,MEDIUM,9.0,True,1,True,15.0,22.0,28.6,66.0,False,1.7,78.962,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,53.0,4.0,MEDIUM,10.0,True,1,True,15.0,21.9,28.4,67.0,False,3.0,78.776,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,54.0,4.0,MEDIUM,11.0,True,1,True,15.0,21.9,28.4,67.0,False,2.5,78.951,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,55.0,4.0,MEDIUM,12.0,True,1,True,15.0,21.9,28.4,67.0,False,2.2,80.482,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,56.0,4.0,MEDIUM,13.0,True,1,True,15.0,21.9,28.2,67.0,False,1.7,79.721,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,57.0,4.0,MEDIUM,14.0,True,1,True,15.0,21.9,28.2,66.0,False,2.2,79.128,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,58.0,4.0,MEDIUM,15.0,True,1,True,15.0,21.8,28.2,66.0,False,1.2,79.151,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,59.0,4.0,MEDIUM,16.0,True,1,True,15.0,21.8,28.2,67.0,False,1.7,78.985,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,60.0,4.0,MEDIUM,17.0,True,1,True,15.0,21.6,27.7,67.0,False,2.5,78.997,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,61.0,4.0,MEDIUM,18.0,True,1,True,15.0,21.6,27.3,68.0,False,1.1,78.949,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,62.0,4.0,MEDIUM,19.0,True,1,True,15.0,21.5,27.3,68.0,False,2.5,79.232,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,63.0,4.0,MEDIUM,20.0,True,1,True,15.0,21.5,26.8,69.0,False,1.5,79.524,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,64.0,4.0,MEDIUM,21.0,True,1,True,15.0,21.5,27.1,69.0,False,2.2,79.32,False,66,2023,7,Spanish Grand Prix,2023_07
+HUL,Haas F1 Team,65.0,4.0,MEDIUM,22.0,True,1,True,15.0,21.5,27.4,68.0,False,1.7,79.416,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,1.0,1.0,SOFT,1.0,True,1,False,17.0,22.5,33.4,64.0,False,1.6,92.275,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,2.0,1.0,SOFT,2.0,True,1,True,16.0,22.5,33.3,63.0,False,1.1,83.056,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,3.0,1.0,SOFT,3.0,True,1,True,16.0,22.4,33.0,64.0,False,2.0,82.115,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,4.0,1.0,SOFT,4.0,True,1,True,16.0,22.4,32.6,64.0,False,2.4,81.84,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,5.0,1.0,SOFT,5.0,True,1,True,16.0,22.4,32.6,64.0,False,1.6,81.845,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,6.0,1.0,SOFT,6.0,True,1,True,16.0,22.4,33.0,63.0,False,1.6,81.896,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,7.0,1.0,SOFT,7.0,True,1,True,17.0,22.3,32.2,64.0,False,2.0,83.182,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,8.0,1.0,SOFT,8.0,True,1,True,16.0,22.3,32.2,65.0,False,1.5,82.386,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,9.0,1.0,SOFT,9.0,True,1,True,15.0,22.2,31.6,64.0,False,1.8,82.443,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,10.0,1.0,SOFT,10.0,True,1,True,13.0,22.1,31.9,65.0,False,2.4,82.507,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,11.0,1.0,SOFT,11.0,True,1,True,12.0,22.0,31.8,64.0,False,2.2,82.274,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,12.0,1.0,SOFT,12.0,True,1,True,12.0,22.1,31.5,64.0,False,2.2,82.189,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,13.0,1.0,SOFT,13.0,True,1,True,12.0,22.1,31.7,65.0,False,2.7,82.081,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,14.0,1.0,SOFT,14.0,True,1,True,11.0,22.0,31.7,64.0,False,2.7,82.137,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,15.0,1.0,SOFT,15.0,True,1,True,10.0,22.1,31.2,65.0,False,2.0,82.189,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,16.0,1.0,SOFT,16.0,True,1,False,14.0,22.1,31.2,64.0,False,2.0,86.763,True,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,17.0,2.0,HARD,1.0,True,1,False,20.0,22.1,31.3,64.0,False,2.0,102.254,True,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,18.0,2.0,HARD,2.0,True,1,True,19.0,22.1,30.9,65.0,False,2.7,80.754,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,19.0,2.0,HARD,3.0,True,1,True,19.0,22.0,31.5,63.0,False,1.6,80.593,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,20.0,2.0,HARD,4.0,True,1,True,19.0,22.1,31.4,63.0,False,1.7,80.897,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,21.0,2.0,HARD,5.0,True,1,True,19.0,22.1,31.2,64.0,False,2.2,80.981,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,22.0,2.0,HARD,6.0,True,1,True,19.0,22.0,30.7,64.0,False,1.7,81.195,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,23.0,2.0,HARD,7.0,True,1,True,18.0,22.0,30.9,65.0,False,2.2,81.094,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,24.0,2.0,HARD,8.0,True,1,True,18.0,22.0,30.9,64.0,False,2.2,81.121,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,25.0,2.0,HARD,9.0,True,1,True,17.0,22.0,30.9,65.0,False,3.2,81.114,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,26.0,2.0,HARD,10.0,True,1,True,17.0,21.9,30.3,65.0,False,2.0,81.02,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,27.0,2.0,HARD,11.0,True,1,True,16.0,22.0,30.4,66.0,False,1.6,80.762,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,28.0,2.0,HARD,12.0,True,1,True,16.0,22.1,30.5,65.0,False,1.6,81.033,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,29.0,2.0,HARD,13.0,True,1,True,16.0,22.1,30.5,66.0,False,3.0,80.895,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,30.0,2.0,HARD,14.0,True,1,True,16.0,22.2,30.1,66.0,False,2.2,80.671,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,31.0,2.0,HARD,15.0,True,1,True,16.0,22.1,30.5,66.0,False,2.2,80.912,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,32.0,2.0,HARD,16.0,True,1,True,17.0,22.1,30.5,66.0,False,2.2,82.413,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,33.0,2.0,HARD,17.0,True,1,True,17.0,22.1,30.6,65.0,False,2.2,81.221,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,34.0,2.0,HARD,18.0,True,1,True,17.0,22.1,30.2,66.0,False,1.7,81.159,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,35.0,2.0,HARD,19.0,True,1,True,17.0,22.1,30.3,65.0,False,2.0,80.941,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,36.0,2.0,HARD,20.0,True,1,True,17.0,22.1,30.4,65.0,False,1.2,81.342,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,37.0,2.0,HARD,21.0,True,1,False,19.0,22.1,30.1,65.0,False,1.2,86.232,True,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,38.0,3.0,MEDIUM,1.0,True,1,False,19.0,22.1,30.1,66.0,False,0.8,98.923,True,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,39.0,3.0,MEDIUM,2.0,True,1,True,19.0,22.1,29.9,66.0,False,2.5,79.77,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,40.0,3.0,MEDIUM,3.0,True,1,True,18.0,22.1,29.9,66.0,False,1.6,79.546,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,41.0,3.0,MEDIUM,4.0,True,1,True,18.0,22.1,29.9,65.0,False,1.7,79.5,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,42.0,3.0,MEDIUM,5.0,True,1,True,18.0,22.1,29.9,65.0,False,2.7,79.639,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,43.0,3.0,MEDIUM,6.0,True,1,True,17.0,22.1,29.9,65.0,False,2.0,79.836,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,44.0,3.0,MEDIUM,7.0,True,1,True,17.0,22.1,29.6,66.0,False,2.2,79.758,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,45.0,3.0,MEDIUM,8.0,True,1,True,17.0,22.1,29.8,66.0,False,2.4,79.654,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,46.0,3.0,MEDIUM,9.0,True,1,True,17.0,22.0,29.1,66.0,False,1.2,79.62,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,47.0,3.0,MEDIUM,10.0,True,1,True,17.0,22.1,29.3,65.0,False,1.2,79.525,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,48.0,3.0,MEDIUM,11.0,True,1,True,17.0,22.1,29.7,64.0,False,1.8,79.426,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,49.0,3.0,MEDIUM,12.0,True,1,True,17.0,22.0,29.5,64.0,False,2.4,79.712,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,50.0,3.0,MEDIUM,13.0,True,1,True,17.0,22.0,28.7,65.0,False,2.2,79.65,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,51.0,3.0,MEDIUM,14.0,True,1,True,16.0,22.2,28.7,65.0,False,1.8,79.447,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,52.0,3.0,MEDIUM,15.0,True,1,True,16.0,22.0,28.6,66.0,False,1.7,79.39,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,53.0,3.0,MEDIUM,16.0,True,1,True,16.0,21.9,28.3,67.0,False,1.7,79.327,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,54.0,3.0,MEDIUM,17.0,True,1,True,16.0,21.9,28.4,67.0,False,2.5,79.347,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,55.0,3.0,MEDIUM,18.0,True,1,True,16.0,21.9,28.4,67.0,False,2.2,79.415,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,56.0,3.0,MEDIUM,19.0,True,1,True,16.0,21.9,28.2,67.0,False,1.7,79.343,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,57.0,3.0,MEDIUM,20.0,True,1,True,16.0,21.9,28.2,66.0,False,2.2,79.189,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,58.0,3.0,MEDIUM,21.0,True,1,True,16.0,21.8,28.2,66.0,False,1.2,79.248,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,59.0,3.0,MEDIUM,22.0,True,1,True,16.0,21.8,28.2,67.0,False,1.7,79.133,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,60.0,3.0,MEDIUM,23.0,True,1,True,16.0,21.6,27.7,67.0,False,2.5,79.26,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,61.0,3.0,MEDIUM,24.0,True,1,True,16.0,21.6,27.3,68.0,False,1.1,80.461,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,62.0,3.0,MEDIUM,25.0,True,1,True,16.0,21.5,27.3,68.0,False,2.5,79.647,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,63.0,3.0,MEDIUM,26.0,True,1,True,16.0,21.5,26.8,69.0,False,1.5,79.374,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,64.0,3.0,MEDIUM,27.0,True,1,True,16.0,21.5,27.1,69.0,False,2.2,79.307,False,66,2023,7,Spanish Grand Prix,2023_07
+ALB,Williams,65.0,3.0,MEDIUM,28.0,True,1,True,16.0,21.5,27.4,68.0,False,1.7,79.419,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,1.0,1.0,SOFT,3.0,False,1,False,14.0,22.5,33.4,64.0,False,1.6,91.428,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,2.0,2.0,HARD,1.0,True,1,False,20.0,22.5,33.3,63.0,False,1.1,116.0,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,3.0,2.0,HARD,2.0,True,1,True,20.0,22.5,32.7,64.0,False,1.1,80.072,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,4.0,2.0,HARD,3.0,True,1,True,20.0,22.4,32.6,64.0,False,2.4,80.051,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,5.0,2.0,HARD,4.0,True,1,True,20.0,22.4,32.6,64.0,False,1.6,80.241,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,6.0,2.0,HARD,5.0,True,1,True,20.0,22.4,32.5,63.0,False,1.6,81.022,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,7.0,2.0,HARD,6.0,True,1,True,20.0,22.3,32.2,64.0,False,2.0,80.818,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,8.0,2.0,HARD,7.0,True,1,True,20.0,22.3,32.2,65.0,False,1.5,80.807,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,9.0,2.0,HARD,8.0,True,1,True,20.0,22.2,31.8,64.0,False,2.2,81.17,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,10.0,2.0,HARD,9.0,True,1,True,20.0,22.1,31.9,65.0,False,2.4,82.136,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,11.0,2.0,HARD,10.0,True,1,True,20.0,22.0,31.5,63.0,False,2.5,81.956,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,12.0,2.0,HARD,11.0,True,1,True,20.0,22.1,31.5,64.0,False,2.2,81.641,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,13.0,2.0,HARD,12.0,True,1,True,20.0,22.1,31.7,65.0,False,2.7,81.744,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,14.0,2.0,HARD,13.0,True,1,True,20.0,22.1,31.9,64.0,False,2.2,81.093,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,15.0,2.0,HARD,14.0,True,1,True,20.0,22.1,31.2,65.0,False,2.0,81.359,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,16.0,2.0,HARD,15.0,True,1,True,20.0,22.1,31.2,64.0,False,2.0,81.782,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,17.0,2.0,HARD,16.0,True,1,True,19.0,22.1,31.0,64.0,False,1.7,82.536,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,18.0,2.0,HARD,17.0,True,1,True,18.0,22.1,30.9,65.0,False,2.7,81.694,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,19.0,2.0,HARD,18.0,True,1,True,18.0,22.1,31.2,64.0,False,2.4,81.746,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,20.0,2.0,HARD,19.0,True,1,True,18.0,22.1,31.4,63.0,False,1.7,81.428,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,21.0,2.0,HARD,20.0,True,1,True,18.0,22.1,31.2,64.0,False,2.2,81.589,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,22.0,2.0,HARD,21.0,True,1,False,18.0,22.0,30.7,64.0,False,1.7,85.334,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,23.0,3.0,MEDIUM,1.0,True,1,False,20.0,22.0,30.9,65.0,False,2.2,100.436,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,24.0,3.0,MEDIUM,2.0,True,1,True,20.0,22.0,31.0,64.0,False,2.7,79.705,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,25.0,3.0,MEDIUM,3.0,True,1,True,20.0,22.0,30.9,65.0,False,3.2,80.056,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,26.0,3.0,MEDIUM,4.0,True,1,True,20.0,21.9,30.3,65.0,False,2.0,79.975,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,27.0,3.0,MEDIUM,5.0,True,1,True,20.0,22.1,30.4,66.0,False,2.0,79.88,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,28.0,3.0,MEDIUM,6.0,True,1,True,20.0,22.1,30.5,65.0,False,1.6,80.091,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,29.0,3.0,MEDIUM,7.0,True,1,True,20.0,22.1,30.5,66.0,False,3.0,80.076,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,30.0,3.0,MEDIUM,8.0,True,1,True,20.0,22.1,30.5,66.0,False,2.0,80.125,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,31.0,3.0,MEDIUM,9.0,True,1,True,20.0,22.1,30.5,66.0,False,2.2,80.117,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,32.0,3.0,MEDIUM,10.0,True,1,True,20.0,22.1,30.5,66.0,False,2.2,79.942,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,33.0,3.0,MEDIUM,11.0,True,1,True,20.0,22.0,30.2,65.0,False,1.8,79.803,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,34.0,3.0,MEDIUM,12.0,True,1,True,20.0,22.1,30.2,66.0,False,1.7,80.248,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,35.0,3.0,MEDIUM,13.0,True,1,True,20.0,22.1,30.3,65.0,False,2.0,80.288,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,36.0,3.0,MEDIUM,14.0,True,1,True,19.0,22.1,30.4,65.0,False,1.2,80.499,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,37.0,3.0,MEDIUM,15.0,True,1,True,18.0,22.1,30.1,65.0,False,1.2,80.461,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,38.0,3.0,MEDIUM,16.0,True,1,True,18.0,22.1,30.1,66.0,False,0.8,82.135,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,39.0,3.0,MEDIUM,17.0,True,1,True,16.0,22.1,29.9,66.0,False,2.5,80.469,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,40.0,3.0,MEDIUM,18.0,True,1,True,16.0,22.1,29.9,66.0,False,1.6,79.881,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,41.0,3.0,MEDIUM,19.0,True,1,True,17.0,22.1,29.9,66.0,False,2.9,80.992,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,42.0,3.0,MEDIUM,20.0,True,1,True,16.0,22.1,29.9,65.0,False,2.7,80.707,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,43.0,3.0,MEDIUM,21.0,True,1,True,16.0,22.1,29.9,65.0,False,2.0,79.576,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,44.0,3.0,MEDIUM,22.0,True,1,True,15.0,22.1,29.8,65.0,False,1.7,79.865,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,45.0,3.0,MEDIUM,23.0,True,1,True,15.0,22.1,29.8,66.0,False,2.4,79.925,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,46.0,3.0,MEDIUM,24.0,True,1,True,15.0,22.0,29.1,66.0,False,1.2,79.896,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,47.0,3.0,MEDIUM,25.0,True,1,True,15.0,22.0,29.1,65.0,False,2.9,80.146,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,48.0,3.0,MEDIUM,26.0,True,1,True,15.0,22.1,29.7,64.0,False,1.8,79.863,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,49.0,3.0,MEDIUM,27.0,True,1,True,15.0,22.0,29.5,64.0,False,2.4,79.826,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,50.0,3.0,MEDIUM,28.0,True,1,False,15.0,22.0,29.5,64.0,False,1.2,83.934,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,51.0,4.0,SOFT,4.0,False,1,False,20.0,22.2,28.7,65.0,False,1.8,98.017,True,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,52.0,4.0,SOFT,5.0,False,1,True,20.0,22.0,28.6,66.0,False,1.7,78.809,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,53.0,4.0,SOFT,6.0,False,1,True,19.0,21.9,28.3,67.0,False,1.7,77.287,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,54.0,4.0,SOFT,7.0,False,1,True,19.0,21.9,28.4,67.0,False,2.5,78.746,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,55.0,4.0,SOFT,8.0,False,1,True,18.0,21.9,28.4,67.0,False,2.2,77.182,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,56.0,4.0,SOFT,9.0,False,1,True,18.0,21.9,28.1,66.0,False,1.8,77.939,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,57.0,4.0,SOFT,10.0,False,1,True,18.0,21.9,28.2,66.0,False,2.2,78.16,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,58.0,4.0,SOFT,11.0,False,1,True,18.0,21.8,28.2,66.0,False,1.2,78.412,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,59.0,4.0,SOFT,12.0,False,1,True,18.0,21.8,28.2,67.0,False,1.7,80.534,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,60.0,4.0,SOFT,13.0,False,1,True,18.0,21.6,27.7,67.0,False,2.5,80.532,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,61.0,4.0,SOFT,14.0,False,1,True,18.0,21.6,27.3,68.0,False,1.1,79.503,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,62.0,4.0,SOFT,15.0,False,1,True,18.0,21.5,27.2,68.0,False,1.7,79.43,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,63.0,4.0,SOFT,16.0,False,1,True,18.0,21.5,26.8,69.0,False,1.5,79.36,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,64.0,4.0,SOFT,17.0,False,1,True,17.0,21.5,27.1,69.0,False,2.2,79.022,False,66,2023,7,Spanish Grand Prix,2023_07
+NOR,McLaren,65.0,4.0,SOFT,18.0,False,1,True,17.0,21.5,27.4,68.0,False,1.7,78.833,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,1.0,1.0,SOFT,1.0,True,1,False,13.0,22.5,33.4,64.0,False,1.6,91.193,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,2.0,1.0,SOFT,2.0,True,1,True,13.0,22.5,33.3,63.0,False,1.1,82.725,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,3.0,1.0,SOFT,3.0,True,1,True,13.0,22.4,33.0,64.0,False,2.0,81.836,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,4.0,1.0,SOFT,4.0,True,1,True,13.0,22.4,32.6,64.0,False,2.4,82.097,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,5.0,1.0,SOFT,5.0,True,1,True,13.0,22.4,32.6,64.0,False,1.6,81.294,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,6.0,1.0,SOFT,6.0,True,1,True,13.0,22.4,33.0,63.0,False,1.6,81.593,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,7.0,1.0,SOFT,7.0,True,1,True,13.0,22.3,32.2,64.0,False,2.0,82.354,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,8.0,1.0,SOFT,8.0,True,1,True,12.0,22.3,32.2,65.0,False,1.5,82.486,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,9.0,1.0,SOFT,9.0,True,1,True,12.0,22.2,31.6,64.0,False,1.8,81.53,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,10.0,1.0,SOFT,10.0,True,1,False,14.0,22.1,31.9,65.0,False,2.4,86.652,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,11.0,2.0,MEDIUM,1.0,True,1,False,19.0,22.0,31.8,64.0,False,2.2,99.51,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,12.0,2.0,MEDIUM,2.0,True,1,True,18.0,22.1,31.5,64.0,False,2.2,80.176,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,13.0,2.0,MEDIUM,3.0,True,1,True,18.0,22.1,31.7,65.0,False,2.7,80.504,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,14.0,2.0,MEDIUM,4.0,True,1,True,17.0,22.1,31.9,64.0,False,2.2,80.706,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,15.0,2.0,MEDIUM,5.0,True,1,True,17.0,22.1,31.2,65.0,False,2.0,81.069,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,16.0,2.0,MEDIUM,6.0,True,1,True,17.0,22.1,31.2,64.0,False,2.0,81.119,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,17.0,2.0,MEDIUM,7.0,True,1,True,15.0,22.1,31.0,64.0,False,1.7,81.203,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,18.0,2.0,MEDIUM,8.0,True,1,True,13.0,22.1,30.9,65.0,False,2.7,81.031,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,19.0,2.0,MEDIUM,9.0,True,1,True,14.0,22.1,31.2,64.0,False,2.4,81.719,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,20.0,2.0,MEDIUM,10.0,True,1,True,13.0,22.1,31.4,63.0,False,1.7,81.51,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,21.0,2.0,MEDIUM,11.0,True,1,True,13.0,22.1,31.2,64.0,False,2.2,81.662,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,22.0,2.0,MEDIUM,12.0,True,1,True,13.0,22.0,31.1,64.0,False,3.2,81.631,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,23.0,2.0,MEDIUM,13.0,True,1,True,13.0,22.0,30.9,65.0,False,2.2,81.847,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,24.0,2.0,MEDIUM,14.0,True,1,False,16.0,22.0,30.9,64.0,False,2.2,85.931,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,25.0,3.0,HARD,1.0,True,1,False,19.0,22.0,30.9,65.0,False,3.2,101.735,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,26.0,3.0,HARD,2.0,True,1,True,19.0,21.9,30.3,65.0,False,2.0,79.412,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,27.0,3.0,HARD,3.0,True,1,True,19.0,22.1,30.4,66.0,False,2.0,79.009,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,28.0,3.0,HARD,4.0,True,1,True,19.0,22.1,30.5,65.0,False,1.6,79.264,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,29.0,3.0,HARD,5.0,True,1,True,19.0,22.1,30.5,66.0,False,3.0,79.627,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,30.0,3.0,HARD,6.0,True,1,True,19.0,22.1,30.5,66.0,False,2.0,79.734,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,31.0,3.0,HARD,7.0,True,1,True,19.0,22.1,30.5,66.0,False,2.2,79.98,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,32.0,3.0,HARD,8.0,True,1,True,19.0,22.1,30.5,66.0,False,2.2,80.401,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,33.0,3.0,HARD,9.0,True,1,True,19.0,22.0,30.2,65.0,False,1.8,80.774,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,34.0,3.0,HARD,10.0,True,1,True,19.0,22.1,30.2,66.0,False,1.7,80.679,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,35.0,3.0,HARD,11.0,True,1,True,18.0,22.1,30.3,65.0,False,2.0,80.085,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,36.0,3.0,HARD,12.0,True,1,True,18.0,22.1,30.4,65.0,False,1.2,80.459,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,37.0,3.0,HARD,13.0,True,1,True,17.0,22.1,30.1,65.0,False,1.2,81.792,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,38.0,3.0,HARD,14.0,True,1,True,17.0,22.1,30.1,66.0,False,0.8,81.479,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,39.0,3.0,HARD,15.0,True,1,True,15.0,22.1,29.9,66.0,False,2.5,79.939,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,40.0,3.0,HARD,16.0,True,1,True,15.0,22.1,29.9,66.0,False,1.6,82.531,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,41.0,3.0,HARD,17.0,True,1,True,15.0,22.1,29.9,66.0,False,2.9,80.194,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,42.0,3.0,HARD,18.0,True,1,False,17.0,22.1,29.9,65.0,False,2.7,86.156,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,43.0,4.0,MEDIUM,1.0,True,1,False,19.0,22.1,29.9,65.0,False,2.0,98.274,True,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,44.0,4.0,MEDIUM,2.0,True,1,True,19.0,22.1,29.6,66.0,False,2.2,78.069,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,45.0,4.0,MEDIUM,3.0,True,1,True,19.0,22.1,29.8,66.0,False,2.4,78.282,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,46.0,4.0,MEDIUM,4.0,True,1,True,19.0,22.0,29.1,66.0,False,1.2,78.851,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,47.0,4.0,MEDIUM,5.0,True,1,True,19.0,22.1,29.3,65.0,False,1.2,79.166,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,48.0,4.0,MEDIUM,6.0,True,1,True,18.0,22.1,29.7,64.0,False,1.8,78.7,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,49.0,4.0,MEDIUM,7.0,True,1,True,18.0,22.0,29.5,64.0,False,2.4,79.105,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,50.0,4.0,MEDIUM,8.0,True,1,True,18.0,22.0,28.7,65.0,False,2.2,78.98,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,51.0,4.0,MEDIUM,9.0,True,1,True,17.0,22.2,28.7,65.0,False,1.8,79.101,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,52.0,4.0,MEDIUM,10.0,True,1,True,17.0,22.0,28.6,66.0,False,1.7,79.345,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,53.0,4.0,MEDIUM,11.0,True,1,True,17.0,21.9,28.3,67.0,False,1.7,79.396,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,54.0,4.0,MEDIUM,12.0,True,1,True,17.0,21.9,28.4,67.0,False,2.5,79.311,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,55.0,4.0,MEDIUM,13.0,True,1,True,17.0,21.9,28.4,67.0,False,2.2,79.187,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,56.0,4.0,MEDIUM,14.0,True,1,True,17.0,21.9,28.1,66.0,False,1.8,79.389,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,57.0,4.0,MEDIUM,15.0,True,1,True,17.0,21.9,28.2,66.0,False,2.2,79.199,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,58.0,4.0,MEDIUM,16.0,True,1,True,17.0,21.8,28.2,66.0,False,1.2,79.397,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,59.0,4.0,MEDIUM,17.0,True,1,True,17.0,21.8,28.2,67.0,False,1.7,81.015,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,60.0,4.0,MEDIUM,18.0,True,1,True,17.0,21.6,27.7,67.0,False,2.5,80.31,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,61.0,4.0,MEDIUM,19.0,True,1,True,17.0,21.6,27.3,68.0,False,1.1,79.492,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,62.0,4.0,MEDIUM,20.0,True,1,True,17.0,21.5,27.3,68.0,False,2.5,79.407,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,63.0,4.0,MEDIUM,21.0,True,1,True,17.0,21.5,26.8,69.0,False,1.5,79.496,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,64.0,4.0,MEDIUM,22.0,True,1,True,18.0,21.5,27.1,69.0,False,2.2,82.711,False,66,2023,7,Spanish Grand Prix,2023_07
+MAG,Haas F1 Team,65.0,4.0,MEDIUM,23.0,True,1,True,18.0,21.5,27.5,68.0,False,2.2,83.209,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,1.0,1.0,SOFT,1.0,True,1,False,18.0,22.5,33.4,64.0,False,1.6,92.66,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,2.0,1.0,SOFT,2.0,True,1,True,17.0,22.5,33.3,63.0,False,1.1,83.122,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,3.0,1.0,SOFT,3.0,True,1,True,17.0,22.4,33.0,64.0,False,2.0,82.033,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,4.0,1.0,SOFT,4.0,True,1,True,17.0,22.4,32.6,64.0,False,2.4,82.24,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,5.0,1.0,SOFT,5.0,True,1,False,19.0,22.4,32.6,64.0,False,1.6,85.549,True,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,6.0,2.0,HARD,1.0,True,1,False,19.0,22.4,33.0,63.0,False,1.6,100.88,True,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,7.0,2.0,HARD,2.0,True,1,True,19.0,22.3,32.2,64.0,False,2.0,80.188,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,8.0,2.0,HARD,3.0,True,1,True,19.0,22.3,32.2,65.0,False,1.5,79.955,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,9.0,2.0,HARD,4.0,True,1,True,18.0,22.2,31.8,64.0,False,2.2,80.485,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,10.0,2.0,HARD,5.0,True,1,True,18.0,22.1,31.9,65.0,False,2.4,82.633,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,11.0,2.0,HARD,6.0,True,1,True,17.0,22.0,31.8,64.0,False,2.2,81.56,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,12.0,2.0,HARD,7.0,True,1,True,17.0,22.1,31.5,64.0,False,2.2,81.19,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,13.0,2.0,HARD,8.0,True,1,True,17.0,22.1,31.7,65.0,False,2.7,80.805,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,14.0,2.0,HARD,9.0,True,1,True,18.0,22.1,31.9,64.0,False,2.2,82.361,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,15.0,2.0,HARD,10.0,True,1,True,19.0,22.1,31.2,65.0,False,2.0,82.934,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,16.0,2.0,HARD,11.0,True,1,True,19.0,22.1,31.2,64.0,False,2.0,81.922,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,17.0,2.0,HARD,12.0,True,1,True,17.0,22.1,31.0,64.0,False,1.7,81.789,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,18.0,2.0,HARD,13.0,True,1,True,16.0,22.1,30.9,65.0,False,2.7,81.419,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,19.0,2.0,HARD,14.0,True,1,True,16.0,22.1,31.2,64.0,False,2.4,81.578,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,20.0,2.0,HARD,15.0,True,1,True,17.0,22.1,31.4,63.0,False,1.7,83.449,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,21.0,2.0,HARD,16.0,True,1,True,17.0,22.1,31.2,64.0,False,2.2,81.727,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,22.0,2.0,HARD,17.0,True,1,True,17.0,22.0,31.1,64.0,False,3.2,81.807,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,23.0,2.0,HARD,18.0,True,1,True,17.0,22.0,30.9,65.0,False,2.2,81.673,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,24.0,2.0,HARD,19.0,True,1,True,17.0,22.0,30.9,64.0,False,2.2,81.559,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,25.0,2.0,HARD,20.0,True,1,True,16.0,22.0,30.9,65.0,False,3.2,81.219,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,26.0,2.0,HARD,21.0,True,1,True,16.0,21.9,30.3,65.0,False,2.0,81.205,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,27.0,2.0,HARD,22.0,True,1,True,15.0,22.0,30.4,66.0,False,1.6,81.15,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,28.0,2.0,HARD,23.0,True,1,True,15.0,22.1,30.5,65.0,False,1.6,81.253,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,29.0,2.0,HARD,24.0,True,1,True,15.0,22.1,30.5,66.0,False,3.0,81.141,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,30.0,2.0,HARD,25.0,True,1,True,15.0,22.2,30.1,66.0,False,2.2,80.866,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,31.0,2.0,HARD,26.0,True,1,True,15.0,22.1,30.5,66.0,False,2.2,80.928,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,32.0,2.0,HARD,27.0,True,1,True,15.0,22.1,30.5,66.0,False,2.2,81.081,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,33.0,2.0,HARD,28.0,True,1,True,15.0,22.1,30.6,65.0,False,2.2,81.425,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,34.0,2.0,HARD,29.0,True,1,True,16.0,22.1,30.2,66.0,False,1.7,83.001,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,35.0,2.0,HARD,30.0,True,1,True,16.0,22.1,30.3,65.0,False,2.0,81.606,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,36.0,2.0,HARD,31.0,True,1,True,16.0,22.0,30.4,65.0,False,1.5,81.789,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,37.0,2.0,HARD,32.0,True,1,True,16.0,22.1,30.1,65.0,False,1.2,83.289,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,38.0,2.0,HARD,33.0,True,1,True,16.0,22.1,30.1,66.0,False,0.8,81.948,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,39.0,2.0,HARD,34.0,True,1,False,18.0,22.1,29.9,66.0,False,2.5,87.553,True,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,40.0,3.0,HARD,1.0,True,1,False,20.0,22.1,29.9,66.0,False,1.6,103.035,True,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,41.0,3.0,HARD,2.0,True,1,True,20.0,22.1,29.9,65.0,False,1.7,80.472,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,42.0,3.0,HARD,3.0,True,1,True,20.0,22.1,29.9,65.0,False,2.7,79.706,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,43.0,3.0,HARD,4.0,True,1,True,20.0,22.1,29.9,65.0,False,2.0,80.158,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,44.0,3.0,HARD,5.0,True,1,True,20.0,22.1,29.6,66.0,False,2.2,82.064,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,45.0,3.0,HARD,6.0,True,1,True,20.0,22.1,29.8,66.0,False,2.4,79.292,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,46.0,3.0,HARD,7.0,True,1,True,20.0,22.0,29.1,66.0,False,1.2,78.885,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,47.0,3.0,HARD,8.0,True,1,True,20.0,22.1,29.3,65.0,False,1.2,78.956,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,48.0,3.0,HARD,9.0,True,1,True,20.0,22.1,29.7,64.0,False,1.8,79.498,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,49.0,3.0,HARD,10.0,True,1,True,20.0,22.0,29.5,64.0,False,2.4,79.208,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,50.0,3.0,HARD,11.0,True,1,True,20.0,22.0,28.7,65.0,False,2.2,78.242,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,51.0,3.0,HARD,12.0,True,1,True,19.0,22.2,28.7,65.0,False,1.8,79.231,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,52.0,3.0,HARD,13.0,True,1,True,19.0,22.0,28.6,66.0,False,1.7,79.531,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,53.0,3.0,HARD,14.0,True,1,True,20.0,21.9,28.3,67.0,False,1.7,81.381,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,54.0,3.0,HARD,15.0,True,1,True,20.0,21.9,28.4,67.0,False,2.5,80.104,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,55.0,3.0,HARD,16.0,True,1,True,20.0,21.9,28.4,67.0,False,2.2,79.523,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,56.0,3.0,HARD,17.0,True,1,True,20.0,21.9,28.1,66.0,False,1.8,81.435,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,57.0,3.0,HARD,18.0,True,1,True,20.0,21.9,28.2,66.0,False,2.2,79.922,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,58.0,3.0,HARD,19.0,True,1,True,20.0,21.8,28.2,66.0,False,1.2,81.352,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,59.0,3.0,HARD,20.0,True,1,True,20.0,21.7,27.9,67.0,False,1.7,79.359,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,60.0,3.0,HARD,21.0,True,1,True,20.0,21.6,27.7,67.0,False,2.5,79.704,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,61.0,3.0,HARD,22.0,True,1,True,19.0,21.6,27.3,68.0,False,1.1,78.959,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,62.0,3.0,HARD,23.0,True,1,True,19.0,21.5,27.2,68.0,False,1.7,79.72,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,63.0,3.0,HARD,24.0,True,1,True,19.0,21.5,26.8,69.0,False,1.5,79.774,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,64.0,3.0,HARD,25.0,True,1,True,19.0,21.5,27.1,69.0,False,2.2,82.619,False,66,2023,7,Spanish Grand Prix,2023_07
+BOT,Alfa Romeo,65.0,3.0,HARD,26.0,True,1,True,19.0,21.5,27.5,68.0,False,2.2,80.781,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,19.0,22.5,33.4,64.0,False,1.6,94.301,True,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,22.5,33.3,63.0,False,1.1,82.426,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,22.4,33.0,64.0,False,2.0,82.124,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,22.4,32.6,64.0,False,2.4,83.489,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,18.0,22.4,32.6,64.0,False,1.6,82.011,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,22.4,33.0,63.0,False,1.6,81.665,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,18.0,22.3,32.2,64.0,False,2.0,82.229,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,18.0,22.3,32.2,65.0,False,1.5,82.16,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,22.2,31.6,64.0,False,1.8,82.317,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,22.1,31.9,65.0,False,2.4,82.595,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,22.0,31.8,64.0,False,2.2,82.45,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,22.1,31.5,64.0,False,2.2,82.16,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,22.1,31.7,65.0,False,2.7,81.968,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,22.0,31.7,64.0,False,2.7,82.188,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,22.1,31.2,65.0,False,2.0,82.998,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,22.1,31.2,64.0,False,2.0,82.913,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,17.0,1.0,MEDIUM,17.0,True,1,False,14.0,22.1,31.3,64.0,False,2.0,86.858,True,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,18.0,2.0,HARD,1.0,True,1,False,20.0,22.1,30.9,65.0,False,2.7,101.467,True,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,19.0,2.0,HARD,2.0,True,1,True,20.0,22.0,31.5,63.0,False,1.6,80.458,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,20.0,2.0,HARD,3.0,True,1,True,20.0,22.1,31.4,63.0,False,1.7,80.615,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,21.0,2.0,HARD,4.0,True,1,True,20.0,22.1,31.2,64.0,False,2.2,80.676,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,22.0,2.0,HARD,5.0,True,1,True,20.0,22.0,30.7,64.0,False,1.7,80.636,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,23.0,2.0,HARD,6.0,True,1,True,19.0,22.0,30.9,65.0,False,2.2,80.672,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,24.0,2.0,HARD,7.0,True,1,True,19.0,22.0,30.9,64.0,False,2.2,80.994,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,25.0,2.0,HARD,8.0,True,1,True,18.0,22.0,30.9,65.0,False,3.2,81.033,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,26.0,2.0,HARD,9.0,True,1,True,18.0,21.9,30.3,65.0,False,2.0,81.004,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,27.0,2.0,HARD,10.0,True,1,True,17.0,22.0,30.4,66.0,False,1.6,80.762,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,28.0,2.0,HARD,11.0,True,1,True,17.0,22.1,30.5,65.0,False,1.6,80.834,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,29.0,2.0,HARD,12.0,True,1,True,17.0,22.1,30.5,66.0,False,3.0,80.844,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,30.0,2.0,HARD,13.0,True,1,True,17.0,22.2,30.1,66.0,False,2.2,80.946,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,31.0,2.0,HARD,14.0,True,1,True,18.0,22.1,30.5,66.0,False,2.2,82.182,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,32.0,2.0,HARD,15.0,True,1,True,18.0,22.1,30.5,66.0,False,2.2,81.19,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,33.0,2.0,HARD,16.0,True,1,True,18.0,22.1,30.6,65.0,False,2.2,81.224,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,34.0,2.0,HARD,17.0,True,1,True,18.0,22.1,30.2,66.0,False,1.7,81.054,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,35.0,2.0,HARD,18.0,True,1,True,19.0,22.1,30.3,65.0,False,2.0,82.383,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,36.0,2.0,HARD,19.0,True,1,False,20.0,22.1,30.4,65.0,False,1.2,84.804,True,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,37.0,3.0,HARD,1.0,True,1,False,20.0,22.1,30.1,65.0,False,1.2,101.816,True,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,38.0,3.0,HARD,2.0,True,1,True,20.0,22.2,29.9,66.0,False,2.0,79.318,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,39.0,3.0,HARD,3.0,True,1,True,20.0,22.1,29.9,66.0,False,2.5,79.622,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,40.0,3.0,HARD,4.0,True,1,True,19.0,22.1,29.9,66.0,False,1.6,79.603,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,41.0,3.0,HARD,5.0,True,1,True,19.0,22.1,29.9,65.0,False,1.7,79.247,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,42.0,3.0,HARD,6.0,True,1,True,19.0,22.1,29.9,65.0,False,2.7,79.62,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,43.0,3.0,HARD,7.0,True,1,True,18.0,22.1,29.9,65.0,False,2.0,79.805,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,44.0,3.0,HARD,8.0,True,1,True,18.0,22.1,29.6,66.0,False,2.2,79.835,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,45.0,3.0,HARD,9.0,True,1,True,18.0,22.1,29.8,66.0,False,2.4,79.835,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,46.0,3.0,HARD,10.0,True,1,True,18.0,22.0,29.1,66.0,False,1.2,79.653,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,47.0,3.0,HARD,11.0,True,1,True,18.0,22.1,29.3,65.0,False,1.2,79.646,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,48.0,3.0,HARD,12.0,True,1,True,19.0,22.1,29.7,64.0,False,1.8,80.875,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,49.0,3.0,HARD,13.0,True,1,True,19.0,22.0,29.5,64.0,False,2.4,80.052,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,50.0,3.0,HARD,14.0,True,1,True,19.0,22.0,28.7,65.0,False,2.2,80.019,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,51.0,3.0,HARD,15.0,True,1,True,18.0,22.2,28.7,65.0,False,1.8,79.942,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,52.0,3.0,HARD,16.0,True,1,True,18.0,22.0,28.6,66.0,False,1.7,79.943,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,53.0,3.0,HARD,17.0,True,1,True,18.0,21.9,28.3,67.0,False,1.7,79.943,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,54.0,3.0,HARD,18.0,True,1,True,18.0,21.9,28.4,67.0,False,2.5,79.72,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,55.0,3.0,HARD,19.0,True,1,True,19.0,21.9,28.4,67.0,False,2.2,81.834,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,56.0,3.0,HARD,20.0,True,1,True,19.0,21.9,28.1,66.0,False,1.8,79.827,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,57.0,3.0,HARD,21.0,True,1,True,19.0,21.9,28.2,66.0,False,2.2,80.009,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,58.0,3.0,HARD,22.0,True,1,True,19.0,21.8,28.2,66.0,False,1.2,82.807,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,59.0,3.0,HARD,23.0,True,1,True,19.0,21.7,27.9,67.0,False,1.7,81.829,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,60.0,3.0,HARD,24.0,True,1,True,19.0,21.6,27.7,67.0,False,2.5,80.119,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,61.0,3.0,HARD,25.0,True,1,True,20.0,21.6,27.3,68.0,False,1.1,81.28,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,62.0,3.0,HARD,26.0,True,1,True,20.0,21.5,27.2,68.0,False,1.7,82.134,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,63.0,3.0,HARD,27.0,True,1,True,20.0,21.5,26.8,69.0,False,1.5,80.42,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,64.0,3.0,HARD,28.0,True,1,True,20.0,21.5,27.1,69.0,False,2.2,79.98,False,66,2023,7,Spanish Grand Prix,2023_07
+SAR,Williams,65.0,3.0,HARD,29.0,True,1,True,20.0,21.5,27.5,68.0,False,2.2,80.254,False,66,2023,7,Spanish Grand Prix,2023_07

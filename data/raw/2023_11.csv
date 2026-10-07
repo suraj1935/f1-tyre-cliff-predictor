@@ -1,0 +1,1253 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,4.0,False,12,False,1.0,28.7,50.1,33.0,False,1.1,87.912,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,2.0,1.0,MEDIUM,5.0,False,1,True,1.0,28.8,49.5,34.0,False,0.8,85.157,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,3.0,1.0,MEDIUM,6.0,False,1,True,1.0,28.8,50.1,33.0,False,1.8,85.07,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,4.0,1.0,MEDIUM,7.0,False,1,True,1.0,28.8,50.1,33.0,False,1.5,84.542,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,5.0,1.0,MEDIUM,8.0,False,1,True,1.0,28.8,49.2,34.0,False,2.7,84.843,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,6.0,1.0,MEDIUM,9.0,False,1,True,1.0,29.0,50.1,32.0,False,1.6,84.596,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,7.0,1.0,MEDIUM,10.0,False,1,True,1.0,29.1,49.6,33.0,False,2.5,84.487,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,8.0,1.0,MEDIUM,11.0,False,1,True,1.0,29.1,49.2,34.0,False,2.2,84.509,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,9.0,1.0,MEDIUM,12.0,False,1,True,1.0,29.0,49.2,33.0,False,2.0,84.437,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,10.0,1.0,MEDIUM,13.0,False,1,True,1.0,29.0,49.9,32.0,False,1.7,84.405,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,11.0,1.0,MEDIUM,14.0,False,1,True,1.0,28.9,49.5,32.0,False,1.7,84.462,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,12.0,1.0,MEDIUM,15.0,False,1,True,1.0,29.0,49.6,32.0,False,1.2,84.306,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,13.0,1.0,MEDIUM,16.0,False,1,True,1.0,29.1,49.3,31.0,False,1.7,84.355,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,14.0,1.0,MEDIUM,17.0,False,1,True,1.0,29.1,49.3,31.0,False,0.6,84.201,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,15.0,1.0,MEDIUM,18.0,False,1,True,1.0,29.0,49.0,32.0,False,1.5,84.121,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,16.0,1.0,MEDIUM,19.0,False,1,True,1.0,29.1,50.1,32.0,False,1.5,84.373,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,17.0,1.0,MEDIUM,20.0,False,1,True,1.0,29.1,50.0,33.0,False,1.8,84.214,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,18.0,1.0,MEDIUM,21.0,False,1,True,1.0,29.4,48.6,33.0,False,2.5,84.195,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,19.0,1.0,MEDIUM,22.0,False,1,True,1.0,29.4,48.6,32.0,False,1.2,84.396,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,20.0,1.0,MEDIUM,23.0,False,1,True,1.0,29.3,48.9,32.0,False,1.1,84.065,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,21.0,1.0,MEDIUM,24.0,False,1,True,1.0,29.2,49.2,32.0,False,0.8,84.012,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,22.0,1.0,MEDIUM,25.0,False,1,True,1.0,29.0,49.3,33.0,False,1.2,84.36,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,23.0,1.0,MEDIUM,26.0,False,1,False,1.0,29.0,49.3,33.0,False,1.6,87.151,True,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,24.0,2.0,HARD,1.0,True,1,False,1.0,28.9,49.3,33.0,False,1.6,102.007,True,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,25.0,2.0,HARD,2.0,True,1,True,1.0,29.0,48.8,33.0,False,2.0,83.777,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,26.0,2.0,HARD,3.0,True,1,True,1.0,29.0,48.3,33.0,False,0.6,83.717,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,27.0,2.0,HARD,4.0,True,1,True,1.0,29.0,48.6,33.0,False,1.2,83.636,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,28.0,2.0,HARD,5.0,True,1,True,1.0,29.0,48.5,32.0,False,1.2,83.687,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,29.0,2.0,HARD,6.0,True,1,True,1.0,29.1,48.1,33.0,False,1.6,83.762,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,30.0,2.0,HARD,7.0,True,1,True,1.0,29.1,48.5,33.0,False,1.7,83.624,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,31.0,2.0,HARD,8.0,True,1,True,1.0,29.3,48.6,33.0,False,1.2,83.59,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,32.0,2.0,HARD,9.0,True,1,True,1.0,29.3,48.2,34.0,False,2.5,83.292,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,33.0,2.0,HARD,10.0,True,1,True,1.0,29.3,48.2,33.0,False,1.6,83.523,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,34.0,2.0,HARD,11.0,True,1,True,1.0,29.3,48.5,32.0,False,2.2,83.507,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,35.0,2.0,HARD,12.0,True,1,True,1.0,29.3,48.5,32.0,False,1.7,83.489,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,36.0,2.0,HARD,13.0,True,1,True,1.0,29.3,48.5,33.0,False,1.8,83.285,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,37.0,2.0,HARD,14.0,True,1,True,1.0,29.2,47.7,32.0,False,1.7,83.25,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,38.0,2.0,HARD,15.0,True,1,True,1.0,29.3,47.5,32.0,False,1.5,83.47,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,39.0,2.0,HARD,16.0,True,1,True,1.0,29.3,47.4,32.0,False,1.8,84.143,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,40.0,2.0,HARD,17.0,True,1,True,1.0,29.2,47.4,32.0,False,0.8,83.705,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,41.0,2.0,HARD,18.0,True,1,True,1.0,29.2,47.4,33.0,False,1.3,83.023,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,42.0,2.0,HARD,19.0,True,1,True,1.0,29.3,47.5,33.0,False,0.8,83.309,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,43.0,2.0,HARD,20.0,True,1,True,1.0,29.3,48.1,33.0,False,2.0,83.338,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,44.0,2.0,HARD,21.0,True,1,True,1.0,29.2,48.1,32.0,False,2.0,83.772,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,45.0,2.0,HARD,22.0,True,1,True,1.0,29.0,48.0,32.0,False,1.7,83.93,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,46.0,2.0,HARD,23.0,True,1,True,1.0,29.0,48.0,32.0,False,1.8,83.639,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,47.0,2.0,HARD,24.0,True,1,True,1.0,29.1,47.6,33.0,False,0.8,83.608,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,48.0,2.0,HARD,25.0,True,1,True,1.0,29.2,47.6,32.0,False,1.7,83.487,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,49.0,2.0,HARD,26.0,True,1,True,1.0,29.2,47.1,32.0,False,1.3,83.822,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,50.0,2.0,HARD,27.0,True,1,True,1.0,29.1,47.0,32.0,False,1.1,83.782,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,51.0,2.0,HARD,28.0,True,1,False,1.0,29.0,47.0,33.0,False,1.2,86.21,True,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,52.0,3.0,MEDIUM,4.0,False,1,False,1.0,29.1,47.5,33.0,False,1.0,102.723,True,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,53.0,3.0,MEDIUM,5.0,False,1,True,1.0,29.2,47.2,32.0,False,2.4,80.504,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,54.0,3.0,MEDIUM,6.0,False,1,True,1.0,29.4,47.5,31.0,False,1.7,83.935,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,55.0,3.0,MEDIUM,7.0,False,1,True,1.0,29.4,46.8,32.0,False,2.0,82.847,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,56.0,3.0,MEDIUM,8.0,False,1,True,1.0,29.3,46.8,32.0,False,1.3,82.6,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,57.0,3.0,MEDIUM,9.0,False,1,True,1.0,29.2,46.6,32.0,False,1.1,82.425,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,58.0,3.0,MEDIUM,10.0,False,1,True,1.0,29.4,46.7,32.0,False,1.5,82.65,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,59.0,3.0,MEDIUM,11.0,False,1,True,1.0,29.4,47.1,32.0,False,2.5,81.88,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,60.0,3.0,MEDIUM,12.0,False,1,True,1.0,29.5,46.3,32.0,False,1.2,81.554,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,61.0,3.0,MEDIUM,13.0,False,1,True,1.0,29.5,46.4,33.0,False,1.3,81.52,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,62.0,3.0,MEDIUM,14.0,False,1,True,1.0,29.5,46.4,32.0,False,1.3,81.693,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,63.0,3.0,MEDIUM,15.0,False,1,True,1.0,29.5,46.2,32.0,False,2.0,81.772,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,64.0,3.0,MEDIUM,16.0,False,1,True,1.0,29.5,46.1,32.0,False,1.2,82.122,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,65.0,3.0,MEDIUM,17.0,False,1,True,1.0,29.4,46.1,33.0,False,1.5,82.223,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,66.0,3.0,MEDIUM,18.0,False,1,True,1.0,29.3,46.0,33.0,False,1.1,81.941,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,67.0,3.0,MEDIUM,19.0,False,1,True,1.0,29.3,45.9,32.0,False,1.7,81.754,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,68.0,3.0,MEDIUM,20.0,False,1,True,1.0,29.3,45.6,32.0,False,1.7,81.524,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,69.0,3.0,MEDIUM,21.0,False,12,True,1.0,29.3,46.0,32.0,False,0.4,81.18,False,70,2023,11,Hungarian Grand Prix,2023_11
+VER,Red Bull Racing,70.0,3.0,MEDIUM,22.0,False,1,True,1.0,29.4,45.7,32.0,False,1.2,82.234,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,12,False,3.0,28.7,50.1,33.0,False,1.1,89.901,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,28.8,49.5,34.0,False,0.8,85.82,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,28.8,50.1,33.0,False,1.8,85.205,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,28.8,50.1,33.0,False,1.5,84.794,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,28.8,49.2,34.0,False,2.7,84.893,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,29.0,50.1,32.0,False,1.6,84.826,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,29.1,49.6,33.0,False,2.5,85.138,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,29.1,49.2,34.0,False,2.2,85.005,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,29.0,49.2,33.0,False,2.0,85.199,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,29.0,49.5,32.0,False,1.1,84.958,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,28.9,49.5,32.0,False,1.7,84.875,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,29.0,49.6,32.0,False,1.2,85.001,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,29.1,49.3,31.0,False,1.7,85.091,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,29.1,49.3,31.0,False,0.6,85.008,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,29.0,49.1,31.0,False,1.2,84.869,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,29.1,50.1,32.0,False,1.5,85.015,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,False,3.0,29.1,50.0,33.0,False,1.8,87.115,True,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,18.0,2.0,HARD,1.0,True,1,False,5.0,29.4,48.6,33.0,False,2.5,100.528,True,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,19.0,2.0,HARD,2.0,True,1,True,4.0,29.3,48.5,32.0,False,1.1,83.543,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,20.0,2.0,HARD,3.0,True,1,True,3.0,29.3,48.9,32.0,False,1.1,83.941,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,21.0,2.0,HARD,4.0,True,1,True,3.0,29.2,49.2,32.0,False,0.8,83.499,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,22.0,2.0,HARD,5.0,True,1,True,3.0,28.9,48.6,33.0,False,2.2,83.881,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,23.0,2.0,HARD,6.0,True,1,True,3.0,29.0,49.3,33.0,False,1.6,83.707,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,24.0,2.0,HARD,7.0,True,1,True,2.0,28.9,49.3,32.0,False,1.5,83.847,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,25.0,2.0,HARD,8.0,True,1,True,2.0,29.0,48.8,33.0,False,2.0,83.517,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,26.0,2.0,HARD,9.0,True,1,True,2.0,29.0,48.3,33.0,False,0.6,83.732,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,27.0,2.0,HARD,10.0,True,1,True,2.0,29.0,48.6,33.0,False,1.2,84.064,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,28.0,2.0,HARD,11.0,True,1,True,2.0,29.0,48.5,32.0,False,1.2,84.453,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,29.0,2.0,HARD,12.0,True,1,True,2.0,29.1,48.5,33.0,False,1.1,84.136,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,30.0,2.0,HARD,13.0,True,1,True,2.0,29.1,48.5,33.0,False,1.7,84.043,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,31.0,2.0,HARD,14.0,True,1,True,2.0,29.3,48.6,33.0,False,1.2,84.289,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,32.0,2.0,HARD,15.0,True,1,True,2.0,29.3,48.2,34.0,False,2.5,84.131,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,33.0,2.0,HARD,16.0,True,1,True,2.0,29.3,48.2,33.0,False,1.6,84.297,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,34.0,2.0,HARD,17.0,True,1,True,2.0,29.2,48.5,32.0,False,1.5,84.224,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,35.0,2.0,HARD,18.0,True,1,True,2.0,29.3,48.5,32.0,False,1.7,84.134,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,36.0,2.0,HARD,19.0,True,1,True,2.0,29.3,48.5,33.0,False,1.8,84.536,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,37.0,2.0,HARD,20.0,True,1,True,2.0,29.2,47.7,32.0,False,1.7,84.419,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,38.0,2.0,HARD,21.0,True,1,True,2.0,29.3,47.5,32.0,False,1.5,84.607,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,39.0,2.0,HARD,22.0,True,1,True,2.0,29.3,47.4,32.0,False,1.2,84.773,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,40.0,2.0,HARD,23.0,True,1,True,2.0,29.2,47.4,32.0,False,0.8,84.797,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,41.0,2.0,HARD,24.0,True,1,True,2.0,29.2,47.4,33.0,False,1.3,84.467,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,42.0,2.0,HARD,25.0,True,1,True,2.0,29.3,47.5,33.0,False,0.8,84.48,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,43.0,2.0,HARD,26.0,True,1,True,2.0,29.3,48.1,33.0,False,2.0,84.475,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,44.0,2.0,HARD,27.0,True,1,False,2.0,29.1,48.1,32.0,False,1.7,86.696,True,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,45.0,3.0,MEDIUM,4.0,False,1,False,3.0,29.0,48.0,32.0,False,1.7,101.182,True,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,46.0,3.0,MEDIUM,5.0,False,1,True,3.0,29.1,47.9,32.0,False,1.3,82.216,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,47.0,3.0,MEDIUM,6.0,False,1,True,3.0,29.1,47.6,33.0,False,0.8,82.572,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,48.0,3.0,MEDIUM,7.0,False,1,True,3.0,29.2,47.1,32.0,False,1.3,82.518,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,49.0,3.0,MEDIUM,8.0,False,1,True,2.0,29.2,47.1,33.0,False,2.2,82.827,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,50.0,3.0,MEDIUM,9.0,False,1,True,2.0,29.1,47.0,32.0,False,1.1,82.178,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,51.0,3.0,MEDIUM,10.0,False,1,True,2.0,29.0,46.9,33.0,False,1.7,82.794,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,52.0,3.0,MEDIUM,11.0,False,1,True,2.0,29.1,47.5,33.0,False,1.0,83.054,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,53.0,3.0,MEDIUM,12.0,False,1,True,2.0,29.2,47.2,32.0,False,2.4,83.375,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,54.0,3.0,MEDIUM,13.0,False,1,True,2.0,29.4,47.5,31.0,False,1.7,83.247,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,55.0,3.0,MEDIUM,14.0,False,1,True,2.0,29.4,46.8,32.0,False,2.0,82.706,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,56.0,3.0,MEDIUM,15.0,False,1,True,2.0,29.3,46.8,32.0,False,1.7,82.929,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,57.0,3.0,MEDIUM,16.0,False,1,True,2.0,29.2,46.6,32.0,False,1.1,83.155,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,58.0,3.0,MEDIUM,17.0,False,1,True,2.0,29.4,46.7,32.0,False,1.5,83.619,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,59.0,3.0,MEDIUM,18.0,False,1,True,2.0,29.5,47.1,32.0,False,1.1,83.974,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,60.0,3.0,MEDIUM,19.0,False,1,True,2.0,29.5,46.3,32.0,False,1.2,83.457,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,61.0,3.0,MEDIUM,20.0,False,1,True,2.0,29.6,46.5,33.0,False,1.6,83.442,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,62.0,3.0,MEDIUM,21.0,False,1,True,2.0,29.5,46.4,32.0,False,1.3,83.878,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,63.0,3.0,MEDIUM,22.0,False,1,True,2.0,29.5,46.2,32.0,False,2.0,83.409,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,64.0,3.0,MEDIUM,23.0,False,1,True,2.0,29.5,46.1,32.0,False,1.1,83.075,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,65.0,3.0,MEDIUM,24.0,False,1,True,2.0,29.4,46.1,33.0,False,1.5,82.911,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,66.0,3.0,MEDIUM,25.0,False,1,True,2.0,29.3,46.0,33.0,False,1.1,82.971,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,67.0,3.0,MEDIUM,26.0,False,1,True,2.0,29.4,45.8,33.0,False,1.1,83.036,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,68.0,3.0,MEDIUM,27.0,False,12,True,2.0,29.3,45.6,32.0,False,1.7,83.11,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,69.0,3.0,MEDIUM,28.0,False,1,True,2.0,29.4,45.7,32.0,False,1.2,83.416,False,70,2023,11,Hungarian Grand Prix,2023_11
+NOR,McLaren,70.0,3.0,MEDIUM,29.0,False,1,True,2.0,29.4,45.7,32.0,False,1.2,83.385,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,1.0,1.0,HARD,4.0,False,12,False,8.0,28.7,50.1,33.0,False,1.1,93.068,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,2.0,1.0,HARD,5.0,False,1,True,8.0,28.8,49.5,34.0,False,0.8,86.77,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,3.0,1.0,HARD,6.0,False,1,True,8.0,28.8,50.1,33.0,False,1.8,86.27,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,4.0,1.0,HARD,7.0,False,1,True,8.0,28.8,50.1,33.0,False,1.5,85.702,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,5.0,1.0,HARD,8.0,False,1,True,8.0,28.9,49.6,34.0,False,1.1,85.832,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,6.0,1.0,HARD,9.0,False,1,True,8.0,29.0,50.1,32.0,False,1.6,85.65,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,7.0,1.0,HARD,10.0,False,1,True,8.0,29.1,49.6,33.0,False,2.5,85.445,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,8.0,1.0,HARD,11.0,False,1,True,7.0,29.1,49.2,34.0,False,2.2,84.836,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,9.0,1.0,HARD,12.0,False,1,True,7.0,29.0,49.2,33.0,False,2.0,85.307,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,10.0,1.0,HARD,13.0,False,1,True,7.0,29.0,49.5,32.0,False,1.1,85.191,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,11.0,1.0,HARD,14.0,False,1,True,7.0,28.9,49.5,32.0,False,1.7,85.305,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,12.0,1.0,HARD,15.0,False,1,True,7.0,29.0,49.6,31.0,False,1.5,85.25,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,13.0,1.0,HARD,16.0,False,1,True,7.0,29.1,49.3,31.0,False,1.7,85.077,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,14.0,1.0,HARD,17.0,False,1,True,7.0,29.1,49.3,31.0,False,0.6,85.255,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,15.0,1.0,HARD,18.0,False,1,True,6.0,29.0,49.1,31.0,False,1.2,86.256,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,16.0,1.0,HARD,19.0,False,1,True,6.0,29.1,50.1,32.0,False,1.5,84.695,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,17.0,1.0,HARD,20.0,False,1,True,5.0,29.3,49.9,32.0,False,1.2,84.76,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,18.0,1.0,HARD,21.0,False,1,True,3.0,29.4,48.6,33.0,False,2.5,84.693,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,19.0,1.0,HARD,22.0,False,1,True,2.0,29.4,48.6,32.0,False,1.2,84.567,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,20.0,1.0,HARD,23.0,False,1,True,2.0,29.3,48.9,32.0,False,1.1,84.52,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,21.0,1.0,HARD,24.0,False,1,True,2.0,29.2,49.2,32.0,False,0.8,84.538,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,22.0,1.0,HARD,25.0,False,1,True,2.0,28.9,48.6,33.0,False,2.2,84.971,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,23.0,1.0,HARD,26.0,False,1,True,2.0,29.0,49.3,33.0,False,1.6,84.786,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,24.0,1.0,HARD,27.0,False,1,False,3.0,28.9,49.3,32.0,False,1.5,87.442,True,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,25.0,2.0,MEDIUM,7.0,False,1,False,7.0,29.0,48.8,33.0,False,2.0,102.542,True,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,26.0,2.0,MEDIUM,8.0,False,1,True,7.0,29.0,48.2,33.0,False,1.1,83.628,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,27.0,2.0,MEDIUM,9.0,False,1,True,6.0,29.0,48.6,33.0,False,1.2,85.65,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,28.0,2.0,MEDIUM,10.0,False,1,True,5.0,29.1,48.1,33.0,False,1.6,83.973,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,29.0,2.0,MEDIUM,11.0,False,1,True,5.0,29.1,48.5,33.0,False,1.1,83.195,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,30.0,2.0,MEDIUM,12.0,False,1,True,5.0,29.1,48.5,33.0,False,1.7,83.086,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,31.0,2.0,MEDIUM,13.0,False,1,True,5.0,29.3,48.5,33.0,False,2.2,83.346,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,32.0,2.0,MEDIUM,14.0,False,1,True,5.0,29.3,48.2,34.0,False,2.5,83.679,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,33.0,2.0,MEDIUM,15.0,False,1,True,5.0,29.3,48.2,33.0,False,1.6,83.525,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,34.0,2.0,MEDIUM,16.0,False,1,True,5.0,29.2,48.5,32.0,False,1.5,83.527,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,35.0,2.0,MEDIUM,17.0,False,1,True,5.0,29.3,48.5,32.0,False,1.7,83.32,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,36.0,2.0,MEDIUM,18.0,False,1,True,5.0,29.2,48.1,32.0,False,2.4,83.39,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,37.0,2.0,MEDIUM,19.0,False,1,True,5.0,29.2,47.7,32.0,False,1.7,83.625,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,38.0,2.0,MEDIUM,20.0,False,1,True,5.0,29.3,47.5,32.0,False,1.5,83.904,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,39.0,2.0,MEDIUM,21.0,False,1,True,5.0,29.3,47.4,32.0,False,1.2,84.16,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,40.0,2.0,MEDIUM,22.0,False,1,True,5.0,29.2,47.4,32.0,False,0.8,84.604,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,41.0,2.0,MEDIUM,23.0,False,1,True,5.0,29.3,47.4,33.0,False,0.6,84.461,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,42.0,2.0,MEDIUM,24.0,False,1,False,5.0,29.3,47.5,33.0,False,0.8,87.335,True,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,43.0,3.0,MEDIUM,4.0,False,1,False,6.0,29.3,48.1,33.0,False,2.0,100.363,True,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,44.0,3.0,MEDIUM,5.0,False,1,True,5.0,29.1,48.1,32.0,False,1.7,82.929,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,45.0,3.0,MEDIUM,6.0,False,1,True,5.0,29.0,48.0,32.0,False,1.8,82.637,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,46.0,3.0,MEDIUM,7.0,False,1,True,5.0,29.1,47.9,32.0,False,1.3,82.706,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,47.0,3.0,MEDIUM,8.0,False,1,True,4.0,29.1,47.6,33.0,False,0.8,82.872,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,48.0,3.0,MEDIUM,9.0,False,1,True,4.0,29.2,47.1,32.0,False,1.3,82.588,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,49.0,3.0,MEDIUM,10.0,False,1,True,4.0,29.2,47.1,33.0,False,2.2,82.38,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,50.0,3.0,MEDIUM,11.0,False,1,True,3.0,29.1,47.0,32.0,False,1.1,82.406,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,51.0,3.0,MEDIUM,12.0,False,1,True,3.0,29.0,46.9,33.0,False,1.7,82.86,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,52.0,3.0,MEDIUM,13.0,False,1,True,3.0,29.1,47.5,33.0,False,1.0,82.917,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,53.0,3.0,MEDIUM,14.0,False,1,True,3.0,29.3,47.5,32.0,False,2.2,82.295,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,54.0,3.0,MEDIUM,15.0,False,1,True,3.0,29.4,47.5,31.0,False,1.7,82.41,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,55.0,3.0,MEDIUM,16.0,False,1,True,3.0,29.4,46.8,32.0,False,2.0,82.473,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,56.0,3.0,MEDIUM,17.0,False,1,True,3.0,29.3,46.8,32.0,False,1.7,83.506,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,57.0,3.0,MEDIUM,18.0,False,1,True,3.0,29.2,46.6,32.0,False,1.1,82.484,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,58.0,3.0,MEDIUM,19.0,False,1,True,3.0,29.4,46.7,32.0,False,1.5,82.313,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,59.0,3.0,MEDIUM,20.0,False,1,True,3.0,29.5,47.1,32.0,False,1.1,82.57,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,60.0,3.0,MEDIUM,21.0,False,1,True,3.0,29.5,46.3,32.0,False,1.2,83.095,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,61.0,3.0,MEDIUM,22.0,False,1,True,3.0,29.6,46.5,33.0,False,1.6,83.862,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,62.0,3.0,MEDIUM,23.0,False,1,True,3.0,29.5,46.4,32.0,False,1.3,83.671,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,63.0,3.0,MEDIUM,24.0,False,1,True,3.0,29.5,46.2,32.0,False,2.0,83.813,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,64.0,3.0,MEDIUM,25.0,False,1,True,3.0,29.5,46.1,32.0,False,1.1,83.204,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,65.0,3.0,MEDIUM,26.0,False,1,True,3.0,29.4,46.1,33.0,False,1.5,83.932,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,66.0,3.0,MEDIUM,27.0,False,1,True,3.0,29.3,45.9,32.0,False,1.7,83.155,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,67.0,3.0,MEDIUM,28.0,False,1,True,3.0,29.4,45.8,33.0,False,1.1,82.945,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,68.0,3.0,MEDIUM,29.0,False,12,True,3.0,29.3,45.6,32.0,False,1.7,82.603,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,69.0,3.0,MEDIUM,30.0,False,1,True,3.0,29.4,45.7,32.0,False,1.2,82.579,False,70,2023,11,Hungarian Grand Prix,2023_11
+PER,Red Bull Racing,70.0,3.0,MEDIUM,31.0,False,1,True,3.0,29.4,45.7,32.0,False,1.2,83.533,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,1.0,1.0,MEDIUM,4.0,False,12,False,4.0,28.7,50.1,33.0,False,1.1,90.539,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,2.0,1.0,MEDIUM,5.0,False,1,True,4.0,28.8,49.5,34.0,False,0.8,86.052,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,3.0,1.0,MEDIUM,6.0,False,1,True,4.0,28.8,50.1,33.0,False,1.8,85.427,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,4.0,1.0,MEDIUM,7.0,False,1,True,4.0,28.8,50.1,33.0,False,1.5,84.559,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,5.0,1.0,MEDIUM,8.0,False,1,True,4.0,28.8,49.2,34.0,False,2.7,85.312,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,6.0,1.0,MEDIUM,9.0,False,1,True,4.0,29.0,50.1,32.0,False,1.6,85.167,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,7.0,1.0,MEDIUM,10.0,False,1,True,4.0,29.1,49.6,33.0,False,2.5,85.179,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,8.0,1.0,MEDIUM,11.0,False,1,True,4.0,29.1,49.2,34.0,False,2.2,84.916,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,9.0,1.0,MEDIUM,12.0,False,1,True,4.0,29.0,49.2,33.0,False,2.0,85.416,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,10.0,1.0,MEDIUM,13.0,False,1,True,4.0,29.0,49.5,32.0,False,1.1,85.123,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,11.0,1.0,MEDIUM,14.0,False,1,True,4.0,28.9,49.5,32.0,False,1.7,85.153,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,12.0,1.0,MEDIUM,15.0,False,1,True,4.0,29.0,49.6,32.0,False,1.2,85.081,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,13.0,1.0,MEDIUM,16.0,False,1,True,4.0,29.1,49.3,31.0,False,1.7,85.053,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,14.0,1.0,MEDIUM,17.0,False,1,True,4.0,29.1,49.3,31.0,False,0.6,85.409,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,15.0,1.0,MEDIUM,18.0,False,1,True,4.0,29.0,49.1,31.0,False,1.2,85.648,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,16.0,1.0,MEDIUM,19.0,False,1,False,4.0,29.1,50.1,32.0,False,1.5,87.791,True,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,17.0,2.0,HARD,1.0,True,1,False,8.0,29.3,49.9,32.0,False,1.2,104.676,True,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,18.0,2.0,HARD,2.0,True,1,True,7.0,29.4,48.6,33.0,False,2.5,85.766,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,19.0,2.0,HARD,3.0,True,1,True,7.0,29.3,48.5,32.0,False,1.1,85.538,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,20.0,2.0,HARD,4.0,True,1,True,7.0,29.3,48.9,32.0,False,1.1,84.258,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,21.0,2.0,HARD,5.0,True,1,True,6.0,29.0,49.3,33.0,False,1.2,84.403,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,22.0,2.0,HARD,6.0,True,1,True,6.0,28.9,48.6,33.0,False,2.2,84.477,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,23.0,2.0,HARD,7.0,True,1,True,6.0,29.0,49.3,33.0,False,1.6,84.285,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,24.0,2.0,HARD,8.0,True,1,True,6.0,28.9,49.3,32.0,False,1.5,84.245,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,25.0,2.0,HARD,9.0,True,1,True,4.0,29.0,48.8,33.0,False,2.0,84.063,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,26.0,2.0,HARD,10.0,True,1,True,4.0,29.0,48.2,33.0,False,1.1,83.966,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,27.0,2.0,HARD,11.0,True,1,True,4.0,29.0,48.6,33.0,False,1.2,84.193,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,28.0,2.0,HARD,12.0,True,1,True,4.0,29.0,48.5,32.0,False,1.2,84.086,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,29.0,2.0,HARD,13.0,True,1,True,4.0,29.1,48.5,33.0,False,1.1,84.055,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,30.0,2.0,HARD,14.0,True,1,True,4.0,29.1,48.5,33.0,False,1.7,83.749,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,31.0,2.0,HARD,15.0,True,1,True,4.0,29.3,48.5,33.0,False,2.2,83.852,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,32.0,2.0,HARD,16.0,True,1,True,4.0,29.3,48.2,34.0,False,2.5,84.39,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,33.0,2.0,HARD,17.0,True,1,True,4.0,29.3,48.2,33.0,False,1.6,83.817,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,34.0,2.0,HARD,18.0,True,1,True,4.0,29.2,48.5,32.0,False,1.5,83.899,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,35.0,2.0,HARD,19.0,True,1,True,4.0,29.3,48.5,32.0,False,1.7,83.851,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,36.0,2.0,HARD,20.0,True,1,True,4.0,29.2,48.1,32.0,False,2.4,83.91,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,37.0,2.0,HARD,21.0,True,1,True,4.0,29.2,47.7,32.0,False,1.7,83.907,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,38.0,2.0,HARD,22.0,True,1,True,4.0,29.3,47.5,32.0,False,1.5,84.274,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,39.0,2.0,HARD,23.0,True,1,True,4.0,29.3,47.4,32.0,False,1.2,84.35,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,40.0,2.0,HARD,24.0,True,1,True,4.0,29.2,47.4,32.0,False,0.8,84.798,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,41.0,2.0,HARD,25.0,True,1,True,4.0,29.3,47.4,33.0,False,0.6,84.584,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,42.0,2.0,HARD,26.0,True,1,True,4.0,29.3,47.5,33.0,False,0.8,84.846,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,43.0,2.0,HARD,27.0,True,1,True,3.0,29.3,48.1,33.0,False,2.0,84.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,44.0,2.0,HARD,28.0,True,1,True,3.0,29.1,48.1,32.0,False,1.7,84.443,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,45.0,2.0,HARD,29.0,True,1,True,2.0,29.0,48.0,32.0,False,1.7,84.574,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,46.0,2.0,HARD,30.0,True,1,True,2.0,29.1,47.9,32.0,False,1.3,84.251,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,47.0,2.0,HARD,31.0,True,1,True,2.0,29.1,47.6,33.0,False,0.8,84.202,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,48.0,2.0,HARD,32.0,True,1,True,2.0,29.2,47.6,32.0,False,1.7,84.49,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,49.0,2.0,HARD,33.0,True,1,False,3.0,29.2,47.1,33.0,False,2.2,87.017,True,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,50.0,3.0,MEDIUM,4.0,False,1,False,5.0,29.1,47.0,32.0,False,1.1,101.746,True,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,51.0,3.0,MEDIUM,5.0,False,1,True,5.0,29.0,46.9,33.0,False,1.7,82.611,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,52.0,3.0,MEDIUM,6.0,False,1,True,5.0,29.1,47.5,33.0,False,1.0,82.385,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,53.0,3.0,MEDIUM,7.0,False,1,True,5.0,29.3,47.5,32.0,False,2.2,82.083,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,54.0,3.0,MEDIUM,8.0,False,1,True,5.0,29.4,47.5,31.0,False,1.7,81.601,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,55.0,3.0,MEDIUM,9.0,False,1,True,5.0,29.3,46.8,32.0,False,1.3,82.202,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,56.0,3.0,MEDIUM,10.0,False,1,True,5.0,29.3,46.8,32.0,False,1.7,83.009,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,57.0,3.0,MEDIUM,11.0,False,1,True,4.0,29.2,46.6,32.0,False,1.1,83.094,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,58.0,3.0,MEDIUM,12.0,False,1,True,4.0,29.4,47.1,32.0,False,2.5,83.073,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,59.0,3.0,MEDIUM,13.0,False,1,True,4.0,29.5,47.1,32.0,False,1.1,82.597,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,60.0,3.0,MEDIUM,14.0,False,1,True,4.0,29.5,46.3,32.0,False,1.2,81.97,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,61.0,3.0,MEDIUM,15.0,False,1,True,4.0,29.6,46.5,33.0,False,1.6,82.127,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,62.0,3.0,MEDIUM,16.0,False,1,True,4.0,29.5,46.4,32.0,False,1.3,82.056,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,63.0,3.0,MEDIUM,17.0,False,1,True,4.0,29.5,46.1,32.0,False,1.2,82.439,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,64.0,3.0,MEDIUM,18.0,False,1,True,4.0,29.5,46.1,32.0,False,1.1,82.252,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,65.0,3.0,MEDIUM,19.0,False,1,True,4.0,29.4,46.1,33.0,False,1.5,82.669,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,66.0,3.0,MEDIUM,20.0,False,1,True,4.0,29.3,45.9,32.0,False,1.7,82.342,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,67.0,3.0,MEDIUM,21.0,False,1,True,4.0,29.4,45.8,33.0,False,1.1,81.995,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,68.0,3.0,MEDIUM,22.0,False,12,True,4.0,29.3,45.6,32.0,False,1.7,82.125,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,69.0,3.0,MEDIUM,23.0,False,1,True,4.0,29.4,45.7,32.0,False,1.2,82.35,False,70,2023,11,Hungarian Grand Prix,2023_11
+HAM,Mercedes,70.0,3.0,MEDIUM,24.0,False,1,True,4.0,29.4,45.7,32.0,False,1.2,83.429,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,1.0,1.0,MEDIUM,3.0,False,12,False,2.0,28.7,50.1,33.0,False,1.1,88.684,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,2.0,1.0,MEDIUM,4.0,False,1,True,2.0,28.8,49.5,34.0,False,0.8,85.617,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,3.0,1.0,MEDIUM,5.0,False,1,True,2.0,28.8,50.1,33.0,False,1.8,85.115,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,4.0,1.0,MEDIUM,6.0,False,1,True,2.0,28.8,50.1,33.0,False,1.5,84.885,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,5.0,1.0,MEDIUM,7.0,False,1,True,2.0,28.8,49.2,34.0,False,2.7,84.927,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,6.0,1.0,MEDIUM,8.0,False,1,True,2.0,29.0,50.1,32.0,False,1.6,84.841,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,7.0,1.0,MEDIUM,9.0,False,1,True,2.0,29.1,49.6,33.0,False,2.5,84.92,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,8.0,1.0,MEDIUM,10.0,False,1,True,2.0,29.1,49.2,34.0,False,2.2,84.751,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,9.0,1.0,MEDIUM,11.0,False,1,True,2.0,29.0,49.2,33.0,False,2.0,84.98,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,10.0,1.0,MEDIUM,12.0,False,1,True,2.0,29.0,49.5,32.0,False,1.1,84.729,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,11.0,1.0,MEDIUM,13.0,False,1,True,2.0,28.9,49.5,32.0,False,1.7,85.086,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,12.0,1.0,MEDIUM,14.0,False,1,True,2.0,29.0,49.6,32.0,False,1.2,85.008,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,13.0,1.0,MEDIUM,15.0,False,1,True,2.0,29.1,49.3,31.0,False,1.7,84.775,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,14.0,1.0,MEDIUM,16.0,False,1,True,2.0,29.1,49.3,31.0,False,0.6,85.162,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,15.0,1.0,MEDIUM,17.0,False,1,True,2.0,29.0,49.1,31.0,False,1.2,85.013,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,16.0,1.0,MEDIUM,18.0,False,1,True,2.0,29.1,50.1,32.0,False,1.5,85.039,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,17.0,1.0,MEDIUM,19.0,False,1,True,2.0,29.1,50.0,33.0,False,1.8,84.819,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,18.0,1.0,MEDIUM,20.0,False,1,False,2.0,29.4,48.6,33.0,False,2.5,87.253,True,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,19.0,2.0,HARD,1.0,True,1,False,5.0,29.4,48.6,32.0,False,1.2,102.563,True,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,20.0,2.0,HARD,2.0,True,1,True,5.0,29.3,48.9,32.0,False,1.1,84.494,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,21.0,2.0,HARD,3.0,True,1,True,4.0,29.2,49.2,32.0,False,0.8,83.972,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,22.0,2.0,HARD,4.0,True,1,True,4.0,28.9,48.6,33.0,False,2.2,83.891,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,23.0,2.0,HARD,5.0,True,1,True,4.0,29.0,49.3,33.0,False,1.6,84.123,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,24.0,2.0,HARD,6.0,True,1,True,4.0,28.9,49.3,32.0,False,1.5,84.0,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,25.0,2.0,HARD,7.0,True,1,True,3.0,29.0,48.8,33.0,False,2.0,83.93,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,26.0,2.0,HARD,8.0,True,1,True,3.0,29.0,48.3,33.0,False,0.6,83.876,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,27.0,2.0,HARD,9.0,True,1,True,3.0,29.0,48.6,33.0,False,1.2,84.279,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,28.0,2.0,HARD,10.0,True,1,True,3.0,29.0,48.5,32.0,False,1.2,84.539,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,29.0,2.0,HARD,11.0,True,1,True,3.0,29.1,48.5,33.0,False,1.1,84.778,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,30.0,2.0,HARD,12.0,True,1,True,3.0,29.1,48.5,33.0,False,1.7,84.473,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,31.0,2.0,HARD,13.0,True,1,True,3.0,29.3,48.6,33.0,False,1.2,84.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,32.0,2.0,HARD,14.0,True,1,True,3.0,29.3,48.2,34.0,False,2.5,84.769,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,33.0,2.0,HARD,15.0,True,1,True,3.0,29.3,48.2,33.0,False,1.6,84.768,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,34.0,2.0,HARD,16.0,True,1,True,3.0,29.2,48.5,32.0,False,1.5,84.727,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,35.0,2.0,HARD,17.0,True,1,True,3.0,29.3,48.5,32.0,False,1.7,84.572,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,36.0,2.0,HARD,18.0,True,1,True,3.0,29.2,48.1,32.0,False,2.4,84.429,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,37.0,2.0,HARD,19.0,True,1,True,3.0,29.2,47.7,32.0,False,1.7,84.531,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,38.0,2.0,HARD,20.0,True,1,True,3.0,29.3,47.5,32.0,False,1.5,84.719,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,39.0,2.0,HARD,21.0,True,1,True,3.0,29.3,47.4,32.0,False,1.2,84.701,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,40.0,2.0,HARD,22.0,True,1,True,3.0,29.2,47.4,32.0,False,0.8,85.186,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,41.0,2.0,HARD,23.0,True,1,True,3.0,29.3,47.4,33.0,False,0.6,85.165,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,42.0,2.0,HARD,24.0,True,1,False,3.0,29.3,47.5,33.0,False,0.8,87.242,True,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,43.0,3.0,MEDIUM,4.0,False,1,False,5.0,29.3,48.1,33.0,False,2.0,102.043,True,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,44.0,3.0,MEDIUM,5.0,False,1,True,4.0,29.1,48.1,32.0,False,1.7,83.476,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,45.0,3.0,MEDIUM,6.0,False,1,True,4.0,29.0,48.0,32.0,False,1.8,82.736,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,46.0,3.0,MEDIUM,7.0,False,1,True,4.0,29.1,47.9,32.0,False,1.3,83.212,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,47.0,3.0,MEDIUM,8.0,False,1,True,5.0,29.1,47.6,33.0,False,0.8,85.169,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,48.0,3.0,MEDIUM,9.0,False,1,True,5.0,29.2,47.1,32.0,False,1.3,84.516,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,49.0,3.0,MEDIUM,10.0,False,1,True,5.0,29.2,47.1,33.0,False,2.2,83.401,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,50.0,3.0,MEDIUM,11.0,False,1,True,4.0,29.0,47.0,33.0,False,1.2,83.15,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,51.0,3.0,MEDIUM,12.0,False,1,True,4.0,29.0,46.9,33.0,False,1.7,83.305,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,52.0,3.0,MEDIUM,13.0,False,1,True,4.0,29.1,47.5,33.0,False,1.0,83.456,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,53.0,3.0,MEDIUM,14.0,False,1,True,4.0,29.3,47.5,32.0,False,2.2,83.458,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,54.0,3.0,MEDIUM,15.0,False,1,True,4.0,29.4,47.5,31.0,False,1.7,83.288,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,55.0,3.0,MEDIUM,16.0,False,1,True,4.0,29.4,46.8,32.0,False,2.0,83.782,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,56.0,3.0,MEDIUM,17.0,False,1,True,4.0,29.3,46.8,32.0,False,1.7,83.914,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,57.0,3.0,MEDIUM,18.0,False,1,True,5.0,29.2,46.6,32.0,False,1.1,85.347,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,58.0,3.0,MEDIUM,19.0,False,1,True,5.0,29.4,47.1,32.0,False,2.5,84.464,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,59.0,3.0,MEDIUM,20.0,False,1,True,5.0,29.5,47.1,32.0,False,1.1,83.748,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,60.0,3.0,MEDIUM,21.0,False,1,True,5.0,29.5,46.3,32.0,False,1.2,83.653,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,61.0,3.0,MEDIUM,22.0,False,1,True,5.0,29.6,46.5,33.0,False,1.6,83.747,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,62.0,3.0,MEDIUM,23.0,False,1,True,5.0,29.5,46.4,32.0,False,1.3,83.802,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,63.0,3.0,MEDIUM,24.0,False,1,True,5.0,29.5,46.1,32.0,False,1.2,83.895,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,64.0,3.0,MEDIUM,25.0,False,1,True,5.0,29.5,46.1,32.0,False,1.1,83.815,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,65.0,3.0,MEDIUM,26.0,False,1,True,5.0,29.4,46.1,33.0,False,1.5,83.991,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,66.0,3.0,MEDIUM,27.0,False,1,True,5.0,29.3,45.9,32.0,False,1.7,83.787,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,67.0,3.0,MEDIUM,28.0,False,1,True,5.0,29.4,45.8,33.0,False,1.1,84.053,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,68.0,3.0,MEDIUM,29.0,False,12,True,5.0,29.3,46.0,32.0,False,0.4,85.152,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,69.0,3.0,MEDIUM,30.0,False,1,True,5.0,29.4,45.7,32.0,False,1.2,84.439,False,70,2023,11,Hungarian Grand Prix,2023_11
+PIA,McLaren,70.0,3.0,MEDIUM,31.0,False,1,True,5.0,29.4,45.7,32.0,False,1.2,84.503,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,1.0,1.0,HARD,1.0,True,12,False,14.0,28.7,50.1,33.0,False,1.1,96.022,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,2.0,1.0,HARD,2.0,True,1,True,13.0,28.8,49.5,34.0,False,0.8,86.772,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,3.0,1.0,HARD,3.0,True,1,True,13.0,28.8,50.1,33.0,False,1.8,86.837,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,4.0,1.0,HARD,4.0,True,1,True,13.0,28.8,50.1,33.0,False,1.5,85.938,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,5.0,1.0,HARD,5.0,True,1,True,13.0,28.9,49.6,34.0,False,1.1,86.101,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,6.0,1.0,HARD,6.0,True,1,True,13.0,29.0,50.1,32.0,False,1.6,85.839,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,7.0,1.0,HARD,7.0,True,1,True,13.0,29.1,49.2,33.0,False,1.3,85.84,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,8.0,1.0,HARD,8.0,True,1,True,13.0,29.1,49.2,34.0,False,2.2,86.063,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,9.0,1.0,HARD,9.0,True,1,True,10.0,29.0,49.2,33.0,False,2.0,86.266,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,10.0,1.0,HARD,10.0,True,1,True,10.0,29.0,49.5,32.0,False,1.1,85.234,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,11.0,1.0,HARD,11.0,True,1,True,10.0,28.9,49.5,32.0,False,1.7,85.695,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,12.0,1.0,HARD,12.0,True,1,True,10.0,29.0,49.6,31.0,False,1.5,85.996,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,13.0,1.0,HARD,13.0,True,1,True,10.0,29.1,49.3,31.0,False,1.7,85.968,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,14.0,1.0,HARD,14.0,True,1,True,10.0,29.0,49.0,32.0,False,1.5,85.846,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,15.0,1.0,HARD,15.0,True,1,True,10.0,29.0,49.1,31.0,False,1.2,85.76,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,16.0,1.0,HARD,16.0,True,1,True,8.0,29.1,50.1,32.0,False,1.5,85.268,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,17.0,1.0,HARD,17.0,True,1,True,7.0,29.3,49.9,32.0,False,1.2,85.215,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,18.0,1.0,HARD,18.0,True,1,True,6.0,29.4,48.6,33.0,False,2.5,85.925,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,19.0,1.0,HARD,19.0,True,1,True,6.0,29.3,48.5,32.0,False,1.1,85.423,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,20.0,1.0,HARD,20.0,True,1,True,6.0,29.3,48.9,32.0,False,1.1,85.267,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,21.0,1.0,HARD,21.0,True,1,True,5.0,29.2,49.2,32.0,False,0.8,85.405,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,22.0,1.0,HARD,22.0,True,1,True,5.0,28.9,48.6,33.0,False,2.2,85.328,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,23.0,1.0,HARD,23.0,True,1,True,5.0,29.0,49.3,33.0,False,1.6,85.262,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,24.0,1.0,HARD,24.0,True,1,True,5.0,28.9,49.3,32.0,False,1.5,85.017,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,25.0,1.0,HARD,25.0,True,1,True,5.0,29.0,48.8,33.0,False,2.0,87.622,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,26.0,1.0,HARD,26.0,True,1,True,5.0,29.0,48.2,33.0,False,1.1,85.561,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,27.0,1.0,HARD,27.0,True,1,True,5.0,29.0,48.6,33.0,False,1.2,85.798,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,28.0,1.0,HARD,28.0,True,1,False,8.0,29.0,48.5,32.0,False,1.2,89.289,True,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,29.0,2.0,MEDIUM,1.0,True,1,False,14.0,29.1,48.5,33.0,False,1.1,103.607,True,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,30.0,2.0,MEDIUM,2.0,True,1,True,13.0,29.3,48.6,33.0,False,1.2,84.376,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,31.0,2.0,MEDIUM,3.0,True,1,True,11.0,29.3,48.5,33.0,False,2.2,83.24,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,32.0,2.0,MEDIUM,4.0,True,1,True,11.0,29.3,48.2,33.0,False,1.6,83.014,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,33.0,2.0,MEDIUM,5.0,True,1,True,11.0,29.3,48.5,32.0,False,2.2,83.74,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,34.0,2.0,MEDIUM,6.0,True,1,True,11.0,29.2,48.5,32.0,False,1.5,84.392,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,35.0,2.0,MEDIUM,7.0,True,1,True,9.0,29.3,48.5,33.0,False,1.8,83.628,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,36.0,2.0,MEDIUM,8.0,True,1,True,9.0,29.2,48.1,32.0,False,2.4,83.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,37.0,2.0,MEDIUM,9.0,True,1,True,9.0,29.2,47.7,32.0,False,1.7,83.605,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,38.0,2.0,MEDIUM,10.0,True,1,True,9.0,29.3,47.4,32.0,False,1.8,83.861,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,39.0,2.0,MEDIUM,11.0,True,1,True,9.0,29.3,47.4,32.0,False,1.2,83.957,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,40.0,2.0,MEDIUM,12.0,True,1,True,9.0,29.2,47.4,33.0,False,1.3,83.9,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,41.0,2.0,MEDIUM,13.0,True,1,True,9.0,29.3,47.4,33.0,False,0.6,84.15,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,42.0,2.0,MEDIUM,14.0,True,1,True,9.0,29.3,47.5,33.0,False,0.8,84.122,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,43.0,2.0,MEDIUM,15.0,True,1,True,8.0,29.2,48.1,32.0,False,2.0,83.697,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,44.0,2.0,MEDIUM,16.0,True,1,True,7.0,29.1,48.1,32.0,False,1.7,83.289,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,45.0,2.0,MEDIUM,17.0,True,1,True,6.0,29.0,48.0,32.0,False,1.8,83.485,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,46.0,2.0,MEDIUM,18.0,True,1,False,6.0,29.1,47.9,32.0,False,1.3,85.421,True,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,47.0,3.0,MEDIUM,1.0,True,1,False,8.0,29.1,47.6,33.0,False,0.8,99.96,True,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,48.0,3.0,MEDIUM,2.0,True,1,True,8.0,29.2,47.1,32.0,False,1.3,82.158,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,49.0,3.0,MEDIUM,3.0,True,1,True,8.0,29.1,47.0,32.0,False,1.1,82.579,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,50.0,3.0,MEDIUM,4.0,True,1,True,8.0,29.0,47.0,33.0,False,1.2,82.338,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,51.0,3.0,MEDIUM,5.0,True,1,True,8.0,29.0,46.9,33.0,False,1.7,82.351,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,52.0,3.0,MEDIUM,6.0,True,1,True,8.0,29.2,47.2,32.0,False,2.4,82.606,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,53.0,3.0,MEDIUM,7.0,True,1,True,8.0,29.3,47.5,32.0,False,2.2,82.628,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,54.0,3.0,MEDIUM,8.0,True,1,True,8.0,29.4,47.5,31.0,False,1.7,82.657,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,55.0,3.0,MEDIUM,9.0,True,1,True,8.0,29.3,46.8,32.0,False,1.3,82.918,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,56.0,3.0,MEDIUM,10.0,True,1,True,8.0,29.3,46.8,32.0,False,1.7,82.83,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,57.0,3.0,MEDIUM,11.0,True,1,True,8.0,29.4,46.7,32.0,False,1.5,83.211,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,58.0,3.0,MEDIUM,12.0,True,1,True,8.0,29.4,47.1,32.0,False,2.5,83.58,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,59.0,3.0,MEDIUM,13.0,True,1,True,8.0,29.5,47.1,32.0,False,1.1,83.295,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,60.0,3.0,MEDIUM,14.0,True,1,True,8.0,29.5,46.4,33.0,False,1.3,83.49,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,61.0,3.0,MEDIUM,15.0,True,1,True,8.0,29.6,46.5,33.0,False,1.6,83.631,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,62.0,3.0,MEDIUM,16.0,True,1,True,8.0,29.5,46.4,32.0,False,1.3,83.328,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,63.0,3.0,MEDIUM,17.0,True,1,True,8.0,29.5,46.1,32.0,False,1.2,82.957,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,64.0,3.0,MEDIUM,18.0,True,1,True,8.0,29.5,46.1,32.0,False,1.1,83.723,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,65.0,3.0,MEDIUM,19.0,True,1,True,7.0,29.3,46.0,33.0,False,1.1,82.954,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,66.0,3.0,MEDIUM,20.0,True,1,True,7.0,29.3,45.9,32.0,False,1.7,82.709,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,67.0,3.0,MEDIUM,21.0,True,1,True,7.0,29.4,45.8,33.0,False,1.1,82.579,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,68.0,3.0,MEDIUM,22.0,True,12,True,7.0,29.3,46.0,32.0,False,0.4,83.117,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,69.0,3.0,MEDIUM,23.0,True,1,True,7.0,29.4,45.7,32.0,False,1.2,82.992,False,70,2023,11,Hungarian Grand Prix,2023_11
+RUS,Mercedes,70.0,3.0,MEDIUM,24.0,True,1,True,7.0,29.4,45.5,32.0,False,1.2,84.254,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,1.0,1.0,MEDIUM,4.0,False,12,False,5.0,28.7,50.1,33.0,False,1.1,91.328,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,2.0,1.0,MEDIUM,5.0,False,1,True,5.0,28.8,49.5,34.0,False,0.8,86.336,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,3.0,1.0,MEDIUM,6.0,False,1,True,5.0,28.8,50.1,33.0,False,1.8,85.649,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,4.0,1.0,MEDIUM,7.0,False,1,True,5.0,28.8,50.1,33.0,False,1.5,85.239,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,5.0,1.0,MEDIUM,8.0,False,1,True,5.0,28.9,49.6,34.0,False,1.1,85.212,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,6.0,1.0,MEDIUM,9.0,False,1,True,5.0,29.0,50.1,32.0,False,1.6,85.092,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,7.0,1.0,MEDIUM,10.0,False,1,True,5.0,29.1,49.6,33.0,False,2.5,85.14,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,8.0,1.0,MEDIUM,11.0,False,1,True,5.0,29.1,49.2,34.0,False,2.2,85.465,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,9.0,1.0,MEDIUM,12.0,False,1,True,5.0,29.0,49.2,33.0,False,2.0,85.269,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,10.0,1.0,MEDIUM,13.0,False,1,True,5.0,29.0,49.5,32.0,False,1.1,85.052,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,11.0,1.0,MEDIUM,14.0,False,1,True,5.0,28.9,49.5,32.0,False,1.7,85.061,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,12.0,1.0,MEDIUM,15.0,False,1,True,5.0,29.0,49.6,32.0,False,1.2,85.236,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,13.0,1.0,MEDIUM,16.0,False,1,True,5.0,29.1,49.3,31.0,False,1.7,85.324,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,14.0,1.0,MEDIUM,17.0,False,1,True,5.0,29.1,49.3,31.0,False,0.6,85.675,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,15.0,1.0,MEDIUM,18.0,False,1,True,5.0,29.0,49.1,31.0,False,1.2,85.561,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,16.0,1.0,MEDIUM,19.0,False,1,True,5.0,29.1,50.1,32.0,False,1.5,85.644,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,17.0,1.0,MEDIUM,20.0,False,1,False,4.0,29.3,49.9,32.0,False,1.2,87.426,True,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,18.0,2.0,HARD,1.0,True,1,False,11.0,29.4,48.6,33.0,False,2.5,109.137,True,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,19.0,2.0,HARD,2.0,True,1,True,10.0,29.3,48.5,32.0,False,1.1,84.487,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,20.0,2.0,HARD,3.0,True,1,True,9.0,29.3,48.9,32.0,False,1.1,84.375,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,21.0,2.0,HARD,4.0,True,1,True,8.0,29.0,49.3,33.0,False,1.2,84.554,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,22.0,2.0,HARD,5.0,True,1,True,8.0,28.9,48.6,33.0,False,2.2,84.552,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,23.0,2.0,HARD,6.0,True,1,True,8.0,29.0,49.3,33.0,False,1.6,84.415,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,24.0,2.0,HARD,7.0,True,1,True,8.0,28.9,49.3,32.0,False,1.5,84.149,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,25.0,2.0,HARD,8.0,True,1,True,8.0,29.0,48.8,33.0,False,2.0,84.842,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,26.0,2.0,HARD,9.0,True,1,True,8.0,29.0,48.2,33.0,False,1.1,84.605,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,27.0,2.0,HARD,10.0,True,1,True,8.0,29.0,48.6,33.0,False,1.2,85.279,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,28.0,2.0,HARD,11.0,True,1,True,7.0,29.1,48.1,33.0,False,1.6,85.443,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,29.0,2.0,HARD,12.0,True,1,True,7.0,29.1,48.5,33.0,False,1.1,84.572,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,30.0,2.0,HARD,13.0,True,1,True,7.0,29.1,48.5,33.0,False,1.7,84.383,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,31.0,2.0,HARD,14.0,True,1,True,7.0,29.3,48.5,33.0,False,2.2,84.516,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,32.0,2.0,HARD,15.0,True,1,True,7.0,29.3,48.2,34.0,False,2.5,84.565,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,33.0,2.0,HARD,16.0,True,1,True,7.0,29.3,48.5,32.0,False,2.2,84.58,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,34.0,2.0,HARD,17.0,True,1,True,7.0,29.2,48.5,32.0,False,1.5,84.608,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,35.0,2.0,HARD,18.0,True,1,True,7.0,29.3,48.5,32.0,False,1.7,84.587,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,36.0,2.0,HARD,19.0,True,1,True,7.0,29.2,48.1,32.0,False,2.4,84.508,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,37.0,2.0,HARD,20.0,True,1,True,7.0,29.2,47.7,32.0,False,1.7,84.694,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,38.0,2.0,HARD,21.0,True,1,True,7.0,29.3,47.4,32.0,False,1.8,84.937,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,39.0,2.0,HARD,22.0,True,1,True,7.0,29.3,47.4,32.0,False,1.2,84.955,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,40.0,2.0,HARD,23.0,True,1,True,7.0,29.2,47.4,32.0,False,0.8,85.15,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,41.0,2.0,HARD,24.0,True,1,True,7.0,29.3,47.4,33.0,False,0.6,84.654,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,42.0,2.0,HARD,25.0,True,1,True,7.0,29.3,47.5,33.0,False,0.8,84.625,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,43.0,2.0,HARD,26.0,True,1,False,7.0,29.2,48.1,32.0,False,2.0,86.75,True,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,44.0,3.0,HARD,5.0,False,1,False,8.0,29.1,48.1,32.0,False,1.7,99.627,True,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,45.0,3.0,HARD,6.0,False,1,True,7.0,29.0,48.0,32.0,False,1.8,83.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,46.0,3.0,HARD,7.0,False,1,True,7.0,29.1,47.9,32.0,False,1.3,82.999,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,47.0,3.0,HARD,8.0,False,1,True,6.0,29.2,47.6,32.0,False,1.7,82.82,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,48.0,3.0,HARD,9.0,False,1,True,6.0,29.2,47.1,32.0,False,1.3,82.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,49.0,3.0,HARD,10.0,False,1,True,6.0,29.2,47.1,33.0,False,2.2,82.551,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,50.0,3.0,HARD,11.0,False,1,True,6.0,29.0,47.0,33.0,False,1.2,82.469,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,51.0,3.0,HARD,12.0,False,1,True,6.0,29.0,46.9,33.0,False,1.7,82.529,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,52.0,3.0,HARD,13.0,False,1,True,6.0,29.1,47.5,33.0,False,1.0,82.693,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,53.0,3.0,HARD,14.0,False,1,True,6.0,29.3,47.5,32.0,False,2.2,82.871,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,54.0,3.0,HARD,15.0,False,1,True,6.0,29.4,47.5,31.0,False,1.7,82.814,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,55.0,3.0,HARD,16.0,False,1,True,6.0,29.3,46.8,32.0,False,1.3,82.672,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,56.0,3.0,HARD,17.0,False,1,True,6.0,29.3,46.8,32.0,False,1.7,83.016,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,57.0,3.0,HARD,18.0,False,1,True,6.0,29.2,46.6,32.0,False,1.1,83.605,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,58.0,3.0,HARD,19.0,False,1,True,6.0,29.4,47.1,32.0,False,2.5,83.635,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,59.0,3.0,HARD,20.0,False,1,True,6.0,29.5,47.1,32.0,False,1.1,83.67,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,60.0,3.0,HARD,21.0,False,1,True,6.0,29.5,46.4,33.0,False,1.3,83.418,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,61.0,3.0,HARD,22.0,False,1,True,6.0,29.6,46.5,33.0,False,1.6,83.665,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,62.0,3.0,HARD,23.0,False,1,True,6.0,29.5,46.4,32.0,False,1.3,83.169,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,63.0,3.0,HARD,24.0,False,1,True,6.0,29.5,46.1,32.0,False,1.2,83.572,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,64.0,3.0,HARD,25.0,False,1,True,6.0,29.5,46.1,32.0,False,1.1,83.977,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,65.0,3.0,HARD,26.0,False,1,True,6.0,29.3,46.0,33.0,False,1.1,83.939,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,66.0,3.0,HARD,27.0,False,1,True,6.0,29.3,45.9,32.0,False,1.7,83.483,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,67.0,3.0,HARD,28.0,False,1,True,6.0,29.4,45.8,33.0,False,1.1,83.813,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,68.0,3.0,HARD,29.0,False,12,True,6.0,29.3,46.0,32.0,False,0.4,84.396,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,69.0,3.0,HARD,30.0,False,1,True,6.0,29.4,45.7,32.0,False,1.2,84.32,False,70,2023,11,Hungarian Grand Prix,2023_11
+LEC,Ferrari,70.0,3.0,HARD,31.0,False,1,True,6.0,29.4,45.5,32.0,False,1.2,84.451,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,1.0,1.0,SOFT,1.0,True,12,False,6.0,28.7,50.1,33.0,False,1.1,91.784,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,2.0,1.0,SOFT,2.0,True,1,True,6.0,28.8,49.5,34.0,False,0.8,86.23,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,3.0,1.0,SOFT,3.0,True,1,True,6.0,28.8,50.1,33.0,False,1.8,86.062,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,4.0,1.0,SOFT,4.0,True,1,True,6.0,28.8,50.1,33.0,False,1.5,85.316,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,5.0,1.0,SOFT,5.0,True,1,True,6.0,28.9,49.6,34.0,False,1.1,85.339,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,6.0,1.0,SOFT,6.0,True,1,True,6.0,29.0,50.1,32.0,False,1.6,85.416,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,7.0,1.0,SOFT,7.0,True,1,True,6.0,29.1,49.6,33.0,False,2.5,85.662,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,8.0,1.0,SOFT,8.0,True,1,True,6.0,29.1,49.2,34.0,False,2.2,85.662,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,9.0,1.0,SOFT,9.0,True,1,True,6.0,29.0,49.2,33.0,False,2.0,85.607,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,10.0,1.0,SOFT,10.0,True,1,True,6.0,29.0,49.5,32.0,False,1.1,85.254,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,11.0,1.0,SOFT,11.0,True,1,True,6.0,28.9,49.5,32.0,False,1.7,85.543,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,12.0,1.0,SOFT,12.0,True,1,True,6.0,29.0,49.6,31.0,False,1.5,85.366,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,13.0,1.0,SOFT,13.0,True,1,True,6.0,29.1,49.3,31.0,False,1.7,85.552,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,14.0,1.0,SOFT,14.0,True,1,True,6.0,29.1,49.3,31.0,False,0.6,85.634,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,15.0,1.0,SOFT,15.0,True,1,False,7.0,29.0,49.1,31.0,False,1.2,88.509,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,16.0,2.0,HARD,1.0,True,1,False,11.0,29.1,50.1,32.0,False,1.5,102.604,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,17.0,2.0,HARD,2.0,True,1,True,10.0,29.3,49.9,32.0,False,1.2,84.429,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,18.0,2.0,HARD,3.0,True,1,True,8.0,29.4,48.6,33.0,False,2.5,84.966,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,19.0,2.0,HARD,4.0,True,1,True,8.0,29.3,48.5,32.0,False,1.1,84.793,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,20.0,2.0,HARD,5.0,True,1,True,8.0,29.3,48.9,32.0,False,1.1,84.508,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,21.0,2.0,HARD,6.0,True,1,True,7.0,29.0,49.3,33.0,False,1.2,84.506,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,22.0,2.0,HARD,7.0,True,1,True,7.0,28.9,48.6,33.0,False,2.2,84.667,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,23.0,2.0,HARD,8.0,True,1,True,7.0,29.0,49.3,33.0,False,1.6,84.425,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,24.0,2.0,HARD,9.0,True,1,True,7.0,28.9,49.3,32.0,False,1.5,84.363,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,25.0,2.0,HARD,10.0,True,1,True,6.0,29.0,48.8,33.0,False,2.0,84.843,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,26.0,2.0,HARD,11.0,True,1,True,6.0,29.0,48.2,33.0,False,1.1,85.196,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,27.0,2.0,HARD,12.0,True,1,True,7.0,29.0,48.6,33.0,False,1.2,87.079,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,28.0,2.0,HARD,13.0,True,1,True,6.0,29.1,48.1,33.0,False,1.6,85.568,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,29.0,2.0,HARD,14.0,True,1,True,6.0,29.1,48.5,33.0,False,1.1,84.265,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,30.0,2.0,HARD,15.0,True,1,True,6.0,29.1,48.5,33.0,False,1.7,84.273,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,31.0,2.0,HARD,16.0,True,1,True,6.0,29.3,48.5,33.0,False,2.2,84.273,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,32.0,2.0,HARD,17.0,True,1,True,6.0,29.3,48.2,34.0,False,2.5,84.7,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,33.0,2.0,HARD,18.0,True,1,True,6.0,29.3,48.5,32.0,False,2.2,84.475,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,34.0,2.0,HARD,19.0,True,1,True,6.0,29.2,48.5,32.0,False,1.5,84.525,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,35.0,2.0,HARD,20.0,True,1,True,6.0,29.3,48.5,32.0,False,1.7,84.399,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,36.0,2.0,HARD,21.0,True,1,True,6.0,29.2,48.1,32.0,False,2.4,84.496,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,37.0,2.0,HARD,22.0,True,1,True,6.0,29.2,47.7,32.0,False,1.7,84.583,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,38.0,2.0,HARD,23.0,True,1,True,6.0,29.3,47.4,32.0,False,1.8,84.86,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,39.0,2.0,HARD,24.0,True,1,True,6.0,29.3,47.4,32.0,False,1.2,84.933,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,40.0,2.0,HARD,25.0,True,1,True,6.0,29.2,47.4,32.0,False,0.8,84.85,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,41.0,2.0,HARD,26.0,True,1,True,6.0,29.3,47.4,33.0,False,0.6,84.665,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,42.0,2.0,HARD,27.0,True,1,True,6.0,29.3,47.5,33.0,False,0.8,84.851,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,43.0,2.0,HARD,28.0,True,1,True,4.0,29.2,48.1,32.0,False,2.0,85.197,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,44.0,2.0,HARD,29.0,True,1,False,6.0,29.1,48.1,32.0,False,1.7,87.67,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,45.0,3.0,HARD,4.0,False,1,False,8.0,29.0,48.0,32.0,False,1.8,102.939,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,46.0,3.0,HARD,5.0,False,1,True,8.0,29.1,47.9,32.0,False,1.3,83.297,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,47.0,3.0,HARD,6.0,False,1,True,7.0,29.2,47.6,32.0,False,1.7,83.183,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,48.0,3.0,HARD,7.0,False,1,True,7.0,29.2,47.1,32.0,False,1.3,83.096,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,49.0,3.0,HARD,8.0,False,1,True,7.0,29.2,47.1,33.0,False,2.2,82.888,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,50.0,3.0,HARD,9.0,False,1,True,7.0,29.0,47.0,33.0,False,1.2,82.777,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,51.0,3.0,HARD,10.0,False,1,True,7.0,29.0,46.9,33.0,False,1.7,82.718,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,52.0,3.0,HARD,11.0,False,1,True,7.0,29.2,47.2,32.0,False,2.4,82.661,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,53.0,3.0,HARD,12.0,False,1,True,7.0,29.3,47.5,32.0,False,2.2,82.807,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,54.0,3.0,HARD,13.0,False,1,True,7.0,29.4,47.5,31.0,False,1.7,82.584,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,55.0,3.0,HARD,14.0,False,1,True,7.0,29.3,46.8,32.0,False,1.3,82.835,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,56.0,3.0,HARD,15.0,False,1,True,7.0,29.3,46.8,32.0,False,1.7,82.845,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,57.0,3.0,HARD,16.0,False,1,True,7.0,29.2,46.6,32.0,False,1.1,83.36,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,58.0,3.0,HARD,17.0,False,1,True,7.0,29.4,47.1,32.0,False,2.5,83.604,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,59.0,3.0,HARD,18.0,False,1,True,7.0,29.5,47.1,32.0,False,1.1,83.203,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,60.0,3.0,HARD,19.0,False,1,True,7.0,29.5,46.4,33.0,False,1.3,83.706,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,61.0,3.0,HARD,20.0,False,1,True,7.0,29.6,46.5,33.0,False,1.6,83.505,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,62.0,3.0,HARD,21.0,False,1,True,7.0,29.5,46.4,32.0,False,1.3,83.712,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,63.0,3.0,HARD,22.0,False,1,True,7.0,29.5,46.1,32.0,False,1.2,83.842,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,64.0,3.0,HARD,23.0,False,1,True,7.0,29.5,46.1,32.0,False,1.1,84.291,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,65.0,3.0,HARD,24.0,False,1,True,8.0,29.3,46.0,33.0,False,1.1,85.399,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,66.0,3.0,HARD,25.0,False,1,True,8.0,29.3,45.9,32.0,False,1.7,83.917,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,67.0,3.0,HARD,26.0,False,1,True,8.0,29.4,45.8,33.0,False,1.1,83.51,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,68.0,3.0,HARD,27.0,False,12,True,8.0,29.3,46.0,32.0,False,0.4,83.51,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,69.0,3.0,HARD,28.0,False,1,True,8.0,29.4,45.7,32.0,False,1.2,83.443,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAI,Ferrari,70.0,3.0,HARD,29.0,False,1,True,8.0,29.4,45.5,32.0,False,1.2,84.177,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,1.0,1.0,MEDIUM,4.0,False,12,False,7.0,28.7,50.1,33.0,False,1.1,92.571,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,2.0,1.0,MEDIUM,5.0,False,1,True,7.0,28.8,49.5,34.0,False,0.8,86.881,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,3.0,1.0,MEDIUM,6.0,False,1,True,7.0,28.8,50.1,33.0,False,1.8,85.912,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,4.0,1.0,MEDIUM,7.0,False,1,True,7.0,28.8,50.1,33.0,False,1.5,85.902,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,5.0,1.0,MEDIUM,8.0,False,1,True,7.0,28.9,49.6,34.0,False,1.1,85.949,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,6.0,1.0,MEDIUM,9.0,False,1,True,7.0,29.0,50.1,32.0,False,1.6,85.504,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,7.0,1.0,MEDIUM,10.0,False,1,True,7.0,29.1,49.6,33.0,False,2.5,85.564,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,8.0,1.0,MEDIUM,11.0,False,1,True,8.0,29.1,49.2,34.0,False,2.2,87.11,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,9.0,1.0,MEDIUM,12.0,False,1,True,8.0,29.0,49.2,33.0,False,2.0,86.309,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,10.0,1.0,MEDIUM,13.0,False,1,True,8.0,29.0,49.5,32.0,False,1.1,85.503,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,11.0,1.0,MEDIUM,14.0,False,1,True,8.0,28.9,49.5,32.0,False,1.7,85.164,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,12.0,1.0,MEDIUM,15.0,False,1,True,8.0,29.0,49.6,31.0,False,1.5,85.171,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,13.0,1.0,MEDIUM,16.0,False,1,True,8.0,29.1,49.3,31.0,False,1.7,85.459,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,14.0,1.0,MEDIUM,17.0,False,1,True,8.0,29.1,49.3,31.0,False,0.6,85.25,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,15.0,1.0,MEDIUM,18.0,False,1,True,8.0,29.0,49.1,31.0,False,1.2,85.493,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,16.0,1.0,MEDIUM,19.0,False,1,True,7.0,29.1,50.1,32.0,False,1.5,85.329,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,17.0,1.0,MEDIUM,20.0,False,1,True,6.0,29.3,49.9,32.0,False,1.2,85.169,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,18.0,1.0,MEDIUM,21.0,False,1,True,4.0,29.4,48.6,33.0,False,2.5,85.137,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,19.0,1.0,MEDIUM,22.0,False,1,True,3.0,29.3,48.5,32.0,False,1.1,85.078,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,20.0,1.0,MEDIUM,23.0,False,1,False,4.0,29.3,48.9,32.0,False,1.1,87.835,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,21.0,2.0,HARD,5.0,False,1,False,11.0,29.2,49.2,32.0,False,0.8,104.378,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,22.0,2.0,HARD,6.0,False,1,True,10.0,28.9,48.6,33.0,False,2.2,85.8,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,23.0,2.0,HARD,7.0,False,1,True,10.0,28.9,49.3,33.0,False,1.6,85.325,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,24.0,2.0,HARD,8.0,False,1,True,10.0,28.9,49.3,32.0,False,1.5,85.31,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,25.0,2.0,HARD,9.0,False,1,True,10.0,29.0,48.8,33.0,False,2.0,84.758,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,26.0,2.0,HARD,10.0,False,1,True,10.0,29.0,48.2,33.0,False,1.1,84.597,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,27.0,2.0,HARD,11.0,False,1,True,10.0,29.0,48.6,33.0,False,1.2,84.822,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,28.0,2.0,HARD,12.0,False,1,True,10.0,29.1,48.1,33.0,False,1.6,84.914,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,29.0,2.0,HARD,13.0,False,1,True,8.0,29.1,48.5,33.0,False,1.1,84.581,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,30.0,2.0,HARD,14.0,False,1,True,8.0,29.1,48.5,33.0,False,1.7,84.812,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,31.0,2.0,HARD,15.0,False,1,True,8.0,29.3,48.5,33.0,False,2.2,84.665,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,32.0,2.0,HARD,16.0,False,1,True,8.0,29.3,48.2,34.0,False,2.5,84.415,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,33.0,2.0,HARD,17.0,False,1,True,8.0,29.3,48.5,32.0,False,2.2,84.349,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,34.0,2.0,HARD,18.0,False,1,True,8.0,29.2,48.5,32.0,False,1.5,84.816,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,35.0,2.0,HARD,19.0,False,1,True,8.0,29.3,48.5,33.0,False,1.8,84.654,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,36.0,2.0,HARD,20.0,False,1,True,8.0,29.2,48.1,32.0,False,2.4,84.578,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,37.0,2.0,HARD,21.0,False,1,True,8.0,29.2,47.7,32.0,False,1.7,84.644,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,38.0,2.0,HARD,22.0,False,1,True,8.0,29.3,47.4,32.0,False,1.8,84.848,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,39.0,2.0,HARD,23.0,False,1,True,8.0,29.3,47.4,32.0,False,1.2,85.19,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,40.0,2.0,HARD,24.0,False,1,True,8.0,29.2,47.4,33.0,False,1.3,84.729,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,41.0,2.0,HARD,25.0,False,1,True,8.0,29.3,47.4,33.0,False,0.6,84.864,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,42.0,2.0,HARD,26.0,False,1,True,8.0,29.3,47.5,33.0,False,0.8,84.692,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,43.0,2.0,HARD,27.0,False,1,False,9.0,29.2,48.1,32.0,False,2.0,87.63,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,44.0,3.0,HARD,1.0,True,1,False,9.0,29.1,48.1,32.0,False,1.7,103.982,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,45.0,3.0,HARD,2.0,True,1,True,9.0,29.0,48.0,32.0,False,1.8,83.384,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,46.0,3.0,HARD,3.0,True,1,True,9.0,29.1,47.9,32.0,False,1.3,83.293,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,47.0,3.0,HARD,4.0,True,1,True,9.0,29.2,47.6,32.0,False,1.7,84.11,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,48.0,3.0,HARD,5.0,True,1,True,9.0,29.2,47.1,32.0,False,1.3,83.069,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,49.0,3.0,HARD,6.0,True,1,True,9.0,29.1,47.0,32.0,False,1.1,82.992,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,50.0,3.0,HARD,7.0,True,1,True,9.0,29.0,47.0,33.0,False,1.2,82.963,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,51.0,3.0,HARD,8.0,True,1,True,9.0,29.0,46.9,33.0,False,1.7,82.745,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,52.0,3.0,HARD,9.0,True,1,True,9.0,29.2,47.2,32.0,False,2.4,82.757,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,53.0,3.0,HARD,10.0,True,1,True,9.0,29.3,47.5,32.0,False,2.2,82.991,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,54.0,3.0,HARD,11.0,True,1,True,9.0,29.4,46.8,32.0,False,2.0,82.893,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,55.0,3.0,HARD,12.0,True,1,True,9.0,29.3,46.8,32.0,False,1.3,82.842,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,56.0,3.0,HARD,13.0,True,1,True,9.0,29.3,46.8,32.0,False,1.7,83.077,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,57.0,3.0,HARD,14.0,True,1,True,9.0,29.4,46.7,32.0,False,1.5,83.015,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,58.0,3.0,HARD,15.0,True,1,True,9.0,29.4,47.1,32.0,False,2.5,83.03,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,59.0,3.0,HARD,16.0,True,1,True,9.0,29.5,47.1,32.0,False,1.1,83.029,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,60.0,3.0,HARD,17.0,True,1,True,9.0,29.5,46.4,33.0,False,1.3,83.195,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,61.0,3.0,HARD,18.0,True,1,True,9.0,29.6,46.5,33.0,False,1.6,83.194,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,62.0,3.0,HARD,19.0,True,1,True,9.0,29.5,46.2,32.0,False,2.0,83.209,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,63.0,3.0,HARD,20.0,True,1,True,9.0,29.5,46.1,32.0,False,1.2,83.451,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,64.0,3.0,HARD,21.0,True,1,True,9.0,29.5,46.1,32.0,False,1.1,83.472,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,65.0,3.0,HARD,22.0,True,1,True,9.0,29.3,46.0,33.0,False,1.1,83.714,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,66.0,3.0,HARD,23.0,True,1,True,9.0,29.3,45.9,32.0,False,1.7,83.453,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,67.0,3.0,HARD,24.0,True,1,True,9.0,29.3,45.6,32.0,False,1.7,83.675,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,68.0,3.0,HARD,25.0,True,12,True,9.0,29.3,46.0,32.0,False,0.4,83.501,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,69.0,3.0,HARD,26.0,True,1,True,9.0,29.4,45.7,32.0,False,1.2,83.465,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALO,Aston Martin,70.0,3.0,HARD,27.0,True,1,True,9.0,29.4,45.5,32.0,False,1.2,84.181,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,1.0,1.0,SOFT,1.0,True,12,False,10.0,28.7,50.1,33.0,False,1.1,94.105,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,2.0,1.0,SOFT,2.0,True,1,True,10.0,28.8,49.5,34.0,False,0.8,87.002,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,3.0,1.0,SOFT,3.0,True,1,True,10.0,28.8,50.1,33.0,False,1.8,86.258,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,4.0,1.0,SOFT,4.0,True,1,True,10.0,28.8,50.1,33.0,False,1.5,85.921,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,5.0,1.0,SOFT,5.0,True,1,True,10.0,28.9,49.6,34.0,False,1.1,85.922,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,6.0,1.0,SOFT,6.0,True,1,True,10.0,29.0,50.1,32.0,False,1.6,85.688,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,7.0,1.0,SOFT,7.0,True,1,True,10.0,29.1,49.6,33.0,False,2.5,85.746,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,8.0,1.0,SOFT,8.0,True,1,True,10.0,29.1,49.2,34.0,False,2.2,86.238,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,9.0,1.0,SOFT,9.0,True,1,False,11.0,29.0,49.2,33.0,False,2.0,88.932,True,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,10.0,2.0,HARD,6.0,False,1,False,15.0,29.0,49.5,32.0,False,1.1,102.58,True,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,11.0,2.0,HARD,7.0,False,1,True,14.0,29.0,49.6,32.0,False,1.2,84.831,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,12.0,2.0,HARD,8.0,False,1,True,14.0,29.0,49.6,31.0,False,1.5,84.859,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,13.0,2.0,HARD,9.0,False,1,True,14.0,29.1,49.3,31.0,False,1.7,84.619,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,14.0,2.0,HARD,10.0,False,1,True,13.0,29.0,49.0,32.0,False,1.5,84.61,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,15.0,2.0,HARD,11.0,False,1,True,12.0,29.0,49.1,31.0,False,1.2,84.815,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,16.0,2.0,HARD,12.0,False,1,True,12.0,29.1,50.0,33.0,False,1.8,85.512,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,17.0,2.0,HARD,13.0,False,1,True,11.0,29.3,49.9,32.0,False,1.2,84.862,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,18.0,2.0,HARD,14.0,False,1,True,10.0,29.4,48.6,33.0,False,2.5,85.158,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,19.0,2.0,HARD,15.0,False,1,True,9.0,29.3,48.5,32.0,False,1.1,85.054,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,20.0,2.0,HARD,16.0,False,1,True,10.0,29.3,48.9,32.0,False,1.1,86.372,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,21.0,2.0,HARD,17.0,False,1,True,9.0,29.0,49.3,33.0,False,1.2,85.433,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,22.0,2.0,HARD,18.0,False,1,True,9.0,28.9,48.6,33.0,False,2.2,85.042,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,23.0,2.0,HARD,19.0,False,1,True,9.0,28.9,49.3,33.0,False,1.6,85.408,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,24.0,2.0,HARD,20.0,False,1,True,9.0,28.9,49.3,32.0,False,1.5,85.133,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,25.0,2.0,HARD,21.0,False,1,True,9.0,29.0,48.8,33.0,False,2.0,85.182,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,26.0,2.0,HARD,22.0,False,1,True,9.0,29.0,48.2,33.0,False,1.1,85.128,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,27.0,2.0,HARD,23.0,False,1,True,9.0,29.0,48.6,33.0,False,1.2,85.54,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,28.0,2.0,HARD,24.0,False,1,True,9.0,29.1,48.1,33.0,False,1.6,85.51,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,29.0,2.0,HARD,25.0,False,1,True,9.0,29.1,48.5,33.0,False,1.1,87.056,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,30.0,2.0,HARD,26.0,False,1,True,9.0,29.3,48.6,33.0,False,1.2,85.675,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,31.0,2.0,HARD,27.0,False,1,True,9.0,29.3,48.5,33.0,False,2.2,85.412,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,32.0,2.0,HARD,28.0,False,1,True,9.0,29.3,48.2,34.0,False,2.5,85.371,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,33.0,2.0,HARD,29.0,False,1,True,9.0,29.3,48.5,32.0,False,2.2,85.351,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,34.0,2.0,HARD,30.0,False,1,False,9.0,29.2,48.5,32.0,False,1.5,87.872,True,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,35.0,3.0,HARD,5.0,False,1,False,15.0,29.3,48.5,33.0,False,1.8,105.7,True,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,36.0,3.0,HARD,6.0,False,1,True,14.0,29.2,48.1,32.0,False,2.4,83.967,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,37.0,3.0,HARD,7.0,False,1,True,14.0,29.3,47.5,32.0,False,1.5,84.265,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,38.0,3.0,HARD,8.0,False,1,True,13.0,29.3,47.4,32.0,False,1.8,84.757,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,39.0,3.0,HARD,9.0,False,1,True,12.0,29.2,47.4,32.0,False,0.8,83.898,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,40.0,3.0,HARD,10.0,False,1,True,12.0,29.2,47.4,33.0,False,1.3,84.051,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,41.0,3.0,HARD,11.0,False,1,True,11.0,29.3,47.4,33.0,False,0.6,84.046,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,42.0,3.0,HARD,12.0,False,1,True,11.0,29.3,48.1,33.0,False,2.0,84.689,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,43.0,3.0,HARD,13.0,False,1,True,10.0,29.2,48.1,32.0,False,2.0,83.65,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,44.0,3.0,HARD,14.0,False,1,True,10.0,29.0,48.0,32.0,False,1.7,84.104,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,45.0,3.0,HARD,15.0,False,1,True,10.0,29.0,48.0,32.0,False,1.8,83.877,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,46.0,3.0,HARD,16.0,False,1,True,10.0,29.1,47.9,32.0,False,1.3,83.842,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,47.0,3.0,HARD,17.0,False,1,True,10.0,29.2,47.6,32.0,False,1.7,84.233,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,48.0,3.0,HARD,18.0,False,1,True,10.0,29.2,47.1,32.0,False,1.3,83.786,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,49.0,3.0,HARD,19.0,False,1,True,10.0,29.1,47.0,32.0,False,1.1,83.763,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,50.0,3.0,HARD,20.0,False,1,True,10.0,29.0,47.0,33.0,False,1.2,83.703,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,51.0,3.0,HARD,21.0,False,1,True,10.0,29.0,46.9,33.0,False,1.7,83.479,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,52.0,3.0,HARD,22.0,False,1,True,10.0,29.2,47.2,32.0,False,2.4,83.891,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,53.0,3.0,HARD,23.0,False,1,True,10.0,29.3,47.5,32.0,False,2.2,83.8,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,54.0,3.0,HARD,24.0,False,1,True,10.0,29.4,46.8,32.0,False,2.0,83.425,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,55.0,3.0,HARD,25.0,False,1,True,10.0,29.3,46.8,32.0,False,1.3,84.07,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,56.0,3.0,HARD,26.0,False,1,True,10.0,29.3,46.8,32.0,False,1.7,84.17,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,57.0,3.0,HARD,27.0,False,1,True,10.0,29.4,46.7,32.0,False,1.5,83.855,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,58.0,3.0,HARD,28.0,False,1,True,10.0,29.4,47.1,32.0,False,2.5,83.895,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,59.0,3.0,HARD,29.0,False,1,True,10.0,29.5,46.3,32.0,False,1.2,83.783,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,60.0,3.0,HARD,30.0,False,1,True,10.0,29.5,46.4,33.0,False,1.3,83.636,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,61.0,3.0,HARD,31.0,False,1,True,10.0,29.6,46.5,33.0,False,1.6,84.035,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,62.0,3.0,HARD,32.0,False,1,True,10.0,29.5,46.2,32.0,False,2.0,84.06,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,63.0,3.0,HARD,33.0,False,1,True,10.0,29.5,46.1,32.0,False,1.2,84.125,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,64.0,3.0,HARD,34.0,False,1,True,10.0,29.4,46.1,33.0,False,1.5,83.987,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,65.0,3.0,HARD,35.0,False,1,True,10.0,29.3,46.0,33.0,False,1.1,86.512,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,66.0,3.0,HARD,36.0,False,1,True,10.0,29.3,45.9,32.0,False,1.7,84.217,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,67.0,3.0,HARD,37.0,False,12,True,10.0,29.3,45.6,32.0,False,1.7,84.207,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,68.0,3.0,HARD,38.0,False,21,True,10.0,29.3,46.0,32.0,False,0.4,84.346,False,70,2023,11,Hungarian Grand Prix,2023_11
+STR,Aston Martin,69.0,3.0,HARD,39.0,False,1,True,10.0,29.4,45.7,32.0,False,1.2,85.228,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,12,False,15.0,28.7,50.1,33.0,False,1.1,96.553,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,28.8,49.5,34.0,False,0.8,87.53,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,28.8,50.1,33.0,False,1.8,86.796,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,28.8,50.1,33.0,False,1.5,86.238,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,28.9,49.6,34.0,False,1.1,86.354,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,29.0,50.1,32.0,False,1.6,86.085,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,29.1,49.2,33.0,False,1.3,85.884,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,False,17.0,29.1,49.2,34.0,False,2.2,88.053,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,9.0,2.0,HARD,4.0,False,1,False,18.0,29.0,49.2,33.0,False,2.0,102.711,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,10.0,2.0,HARD,5.0,False,1,True,17.0,29.0,49.5,32.0,False,1.1,85.801,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,11.0,2.0,HARD,6.0,False,1,True,16.0,29.0,49.6,32.0,False,1.2,84.834,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,12.0,2.0,HARD,7.0,False,1,True,16.0,29.0,49.6,31.0,False,1.5,85.189,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,13.0,2.0,HARD,8.0,False,1,True,16.0,29.1,49.3,31.0,False,1.7,85.078,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,14.0,2.0,HARD,9.0,False,1,True,15.0,29.0,49.0,32.0,False,1.5,85.096,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,15.0,2.0,HARD,10.0,False,1,True,14.0,29.0,49.1,31.0,False,1.2,85.205,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,16.0,2.0,HARD,11.0,False,1,True,14.0,29.1,50.0,33.0,False,1.8,85.546,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,17.0,2.0,HARD,12.0,False,1,True,13.0,29.3,49.9,32.0,False,1.2,85.487,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,18.0,2.0,HARD,13.0,False,1,True,13.0,29.4,48.6,32.0,False,1.2,85.845,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,19.0,2.0,HARD,14.0,False,1,True,12.0,29.3,48.5,32.0,False,1.1,85.543,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,20.0,2.0,HARD,15.0,False,1,True,12.0,29.3,48.9,32.0,False,1.1,85.093,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,21.0,2.0,HARD,16.0,False,1,True,12.0,29.0,49.3,33.0,False,1.2,85.826,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,22.0,2.0,HARD,17.0,False,1,True,12.0,28.9,48.6,33.0,False,2.2,85.84,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,23.0,2.0,HARD,18.0,False,1,True,12.0,28.9,49.3,33.0,False,1.6,86.077,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,24.0,2.0,HARD,19.0,False,1,True,12.0,28.9,49.3,32.0,False,1.5,85.74,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,25.0,2.0,HARD,20.0,False,1,True,12.0,29.0,48.3,33.0,False,0.6,85.585,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,26.0,2.0,HARD,21.0,False,1,True,12.0,29.0,48.2,33.0,False,1.1,85.612,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,27.0,2.0,HARD,22.0,False,1,True,12.0,29.0,48.6,33.0,False,1.2,85.69,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,28.0,2.0,HARD,23.0,False,1,True,12.0,29.1,48.1,33.0,False,1.6,85.624,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,29.0,2.0,HARD,24.0,False,1,True,11.0,29.1,48.5,33.0,False,1.1,85.592,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,30.0,2.0,HARD,25.0,False,1,True,11.0,29.3,48.6,33.0,False,1.2,85.482,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,31.0,2.0,HARD,26.0,False,1,False,12.0,29.3,48.5,33.0,False,2.2,87.832,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,32.0,3.0,HARD,1.0,True,1,False,17.0,29.3,48.2,33.0,False,1.6,103.771,True,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,33.0,3.0,HARD,2.0,True,1,True,17.0,29.3,48.5,32.0,False,2.2,84.37,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,34.0,3.0,HARD,3.0,True,1,True,17.0,29.3,48.5,32.0,False,1.7,84.258,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,35.0,3.0,HARD,4.0,True,1,True,16.0,29.3,48.5,33.0,False,1.8,84.884,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,36.0,3.0,HARD,5.0,True,1,True,16.0,29.2,48.1,32.0,False,2.4,84.434,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,37.0,3.0,HARD,6.0,True,1,True,16.0,29.3,47.5,32.0,False,1.5,85.247,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,38.0,3.0,HARD,7.0,True,1,True,15.0,29.3,47.4,32.0,False,1.8,85.119,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,39.0,3.0,HARD,8.0,True,1,True,13.0,29.2,47.4,32.0,False,0.8,84.816,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,40.0,3.0,HARD,9.0,True,1,True,13.0,29.2,47.4,33.0,False,1.3,86.028,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,41.0,3.0,HARD,10.0,True,1,True,12.0,29.3,47.5,33.0,False,0.8,84.557,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,42.0,3.0,HARD,11.0,True,1,True,12.0,29.3,48.1,33.0,False,2.0,84.572,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,43.0,3.0,HARD,12.0,True,1,True,12.0,29.2,48.1,32.0,False,2.0,84.329,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,44.0,3.0,HARD,13.0,True,1,True,12.0,29.0,48.0,32.0,False,1.7,84.415,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,45.0,3.0,HARD,14.0,True,1,True,11.0,29.0,48.0,32.0,False,1.8,84.444,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,46.0,3.0,HARD,15.0,True,1,True,11.0,29.1,47.6,33.0,False,0.8,84.608,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,47.0,3.0,HARD,16.0,True,1,True,11.0,29.2,47.6,32.0,False,1.7,84.138,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,48.0,3.0,HARD,17.0,True,1,True,11.0,29.2,47.1,32.0,False,1.3,84.505,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,49.0,3.0,HARD,18.0,True,1,True,11.0,29.1,47.0,32.0,False,1.1,84.317,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,50.0,3.0,HARD,19.0,True,1,True,11.0,29.0,47.0,33.0,False,1.2,84.246,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,51.0,3.0,HARD,20.0,True,1,True,11.0,29.1,47.5,33.0,False,1.0,84.078,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,52.0,3.0,HARD,21.0,True,1,True,11.0,29.2,47.2,32.0,False,2.4,84.053,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,53.0,3.0,HARD,22.0,True,1,True,11.0,29.3,47.5,32.0,False,2.2,84.342,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,54.0,3.0,HARD,23.0,True,1,True,11.0,29.4,46.8,32.0,False,2.0,84.051,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,55.0,3.0,HARD,24.0,True,1,True,11.0,29.3,46.8,32.0,False,1.3,84.054,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,56.0,3.0,HARD,25.0,True,1,True,11.0,29.2,46.6,32.0,False,1.1,84.193,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,57.0,3.0,HARD,26.0,True,1,True,11.0,29.4,46.7,32.0,False,1.5,84.194,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,58.0,3.0,HARD,27.0,True,1,True,11.0,29.4,47.1,32.0,False,2.5,85.899,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,59.0,3.0,HARD,28.0,True,1,True,11.0,29.5,46.3,32.0,False,1.2,84.175,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,60.0,3.0,HARD,29.0,True,1,True,11.0,29.5,46.4,33.0,False,1.3,84.353,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,61.0,3.0,HARD,30.0,True,1,True,11.0,29.5,46.4,32.0,False,1.3,84.277,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,62.0,3.0,HARD,31.0,True,1,True,11.0,29.5,46.2,32.0,False,2.0,84.264,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,63.0,3.0,HARD,32.0,True,1,True,11.0,29.5,46.1,32.0,False,1.1,84.21,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,64.0,3.0,HARD,33.0,True,1,True,11.0,29.4,46.1,33.0,False,1.5,84.067,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,65.0,3.0,HARD,34.0,True,1,True,11.0,29.3,46.0,33.0,False,1.1,84.057,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,66.0,3.0,HARD,35.0,True,1,True,11.0,29.4,45.8,33.0,False,1.1,84.265,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,67.0,3.0,HARD,36.0,True,12,True,11.0,29.3,45.6,32.0,False,1.7,84.103,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,68.0,3.0,HARD,37.0,True,1,True,11.0,29.4,45.7,32.0,False,1.2,84.07,False,70,2023,11,Hungarian Grand Prix,2023_11
+ALB,Williams,69.0,3.0,HARD,38.0,True,1,True,11.0,29.4,45.7,32.0,False,1.2,84.137,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,1.0,1.0,MEDIUM,4.0,False,12,False,12.0,28.7,50.1,33.0,False,1.1,95.238,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,2.0,1.0,MEDIUM,5.0,False,1,True,12.0,28.8,49.5,34.0,False,0.8,87.091,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,3.0,1.0,MEDIUM,6.0,False,1,True,12.0,28.8,50.1,33.0,False,1.8,86.525,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,4.0,1.0,MEDIUM,7.0,False,1,True,12.0,28.8,50.1,33.0,False,1.5,85.966,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,5.0,1.0,MEDIUM,8.0,False,1,True,12.0,28.9,49.6,34.0,False,1.1,85.991,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,6.0,1.0,MEDIUM,9.0,False,1,True,12.0,29.0,50.1,32.0,False,1.6,85.73,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,7.0,1.0,MEDIUM,10.0,False,1,True,12.0,29.1,49.6,33.0,False,2.5,85.738,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,8.0,1.0,MEDIUM,11.0,False,1,True,12.0,29.1,49.2,34.0,False,2.2,86.076,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,9.0,1.0,MEDIUM,12.0,False,1,False,14.0,29.0,49.2,33.0,False,2.0,88.918,True,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,10.0,2.0,HARD,6.0,False,1,False,16.0,29.0,49.5,32.0,False,1.1,103.443,True,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,11.0,2.0,HARD,7.0,False,1,True,15.0,29.0,49.6,32.0,False,1.2,84.246,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,12.0,2.0,HARD,8.0,False,1,True,15.0,29.0,49.6,31.0,False,1.5,84.648,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,13.0,2.0,HARD,9.0,False,1,True,15.0,29.1,49.3,31.0,False,1.7,84.851,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,14.0,2.0,HARD,10.0,False,1,True,14.0,29.0,49.0,32.0,False,1.5,84.815,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,15.0,2.0,HARD,11.0,False,1,True,13.0,29.0,49.1,31.0,False,1.2,84.92,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,16.0,2.0,HARD,12.0,False,1,True,13.0,29.1,50.0,33.0,False,1.8,85.33,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,17.0,2.0,HARD,13.0,False,1,True,12.0,29.3,49.9,32.0,False,1.2,84.995,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,18.0,2.0,HARD,14.0,False,1,True,12.0,29.4,48.6,33.0,False,2.5,86.179,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,19.0,2.0,HARD,15.0,False,1,True,11.0,29.3,48.5,32.0,False,1.1,85.312,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,20.0,2.0,HARD,16.0,False,1,True,11.0,29.3,48.9,32.0,False,1.1,84.907,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,21.0,2.0,HARD,17.0,False,1,True,10.0,29.0,49.3,33.0,False,1.2,85.341,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,22.0,2.0,HARD,18.0,False,1,True,11.0,28.9,48.6,33.0,False,2.2,87.15,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,23.0,2.0,HARD,19.0,False,1,True,11.0,28.9,49.3,33.0,False,1.6,85.805,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,24.0,2.0,HARD,20.0,False,1,True,11.0,28.9,49.3,32.0,False,1.5,85.791,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,25.0,2.0,HARD,21.0,False,1,True,11.0,29.0,48.8,33.0,False,2.0,85.224,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,26.0,2.0,HARD,22.0,False,1,True,11.0,29.0,48.2,33.0,False,1.1,85.489,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,27.0,2.0,HARD,23.0,False,1,True,11.0,29.0,48.6,33.0,False,1.2,85.517,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,28.0,2.0,HARD,24.0,False,1,True,11.0,29.1,48.1,33.0,False,1.6,85.226,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,29.0,2.0,HARD,25.0,False,1,True,10.0,29.1,48.5,33.0,False,1.1,85.352,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,30.0,2.0,HARD,26.0,False,1,True,10.0,29.3,48.6,33.0,False,1.2,85.261,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,31.0,2.0,HARD,27.0,False,1,True,10.0,29.3,48.5,33.0,False,2.2,85.157,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,32.0,2.0,HARD,28.0,False,1,True,10.0,29.3,48.2,34.0,False,2.5,85.422,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,33.0,2.0,HARD,29.0,False,1,True,10.0,29.3,48.5,32.0,False,2.2,85.473,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,34.0,2.0,HARD,30.0,False,1,True,10.0,29.2,48.5,32.0,False,1.5,85.608,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,35.0,2.0,HARD,31.0,False,1,True,10.0,29.3,48.5,33.0,False,1.8,86.534,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,36.0,2.0,HARD,32.0,False,1,True,10.0,29.2,48.1,32.0,False,2.4,85.444,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,37.0,2.0,HARD,33.0,False,1,True,10.0,29.3,47.5,32.0,False,1.5,85.266,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,38.0,2.0,HARD,34.0,False,1,True,10.0,29.3,47.4,32.0,False,1.8,85.334,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,39.0,2.0,HARD,35.0,False,1,True,10.0,29.3,47.4,32.0,False,1.2,85.272,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,40.0,2.0,HARD,36.0,False,1,False,10.0,29.2,47.4,33.0,False,1.3,88.159,True,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,41.0,3.0,HARD,4.0,False,1,False,13.0,29.3,47.4,33.0,False,0.6,105.01,True,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,42.0,3.0,HARD,5.0,False,1,True,13.0,29.3,48.1,33.0,False,2.0,83.651,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,43.0,3.0,HARD,6.0,False,1,True,13.0,29.2,48.1,32.0,False,2.0,84.214,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,44.0,3.0,HARD,7.0,False,1,True,13.0,29.0,48.0,32.0,False,1.7,84.104,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,45.0,3.0,HARD,8.0,False,1,True,12.0,29.0,48.0,32.0,False,1.8,84.226,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,46.0,3.0,HARD,9.0,False,1,True,12.0,29.1,47.6,33.0,False,0.8,84.205,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,47.0,3.0,HARD,10.0,False,1,True,12.0,29.2,47.6,32.0,False,1.7,84.423,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,48.0,3.0,HARD,11.0,False,1,True,12.0,29.2,47.1,32.0,False,1.3,84.302,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,49.0,3.0,HARD,12.0,False,1,True,12.0,29.1,47.0,32.0,False,1.1,84.292,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,50.0,3.0,HARD,13.0,False,1,True,12.0,29.0,47.0,33.0,False,1.2,84.488,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,51.0,3.0,HARD,14.0,False,1,True,12.0,29.1,47.5,33.0,False,1.0,83.81,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,52.0,3.0,HARD,15.0,False,1,True,12.0,29.2,47.2,32.0,False,2.4,84.059,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,53.0,3.0,HARD,16.0,False,1,True,12.0,29.3,47.5,32.0,False,2.2,84.309,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,54.0,3.0,HARD,17.0,False,1,True,12.0,29.4,46.8,32.0,False,2.0,84.09,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,55.0,3.0,HARD,18.0,False,1,True,12.0,29.3,46.8,32.0,False,1.3,84.097,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,56.0,3.0,HARD,19.0,False,1,True,12.0,29.2,46.6,32.0,False,1.1,84.496,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,57.0,3.0,HARD,20.0,False,1,True,12.0,29.4,46.7,32.0,False,1.5,85.382,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,58.0,3.0,HARD,21.0,False,1,True,12.0,29.5,47.1,32.0,False,1.1,84.748,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,59.0,3.0,HARD,22.0,False,1,True,12.0,29.5,46.3,32.0,False,1.2,83.808,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,60.0,3.0,HARD,23.0,False,1,True,12.0,29.5,46.4,33.0,False,1.3,85.32,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,61.0,3.0,HARD,24.0,False,1,True,12.0,29.5,46.4,32.0,False,1.3,84.311,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,62.0,3.0,HARD,25.0,False,1,True,12.0,29.5,46.2,32.0,False,2.0,84.056,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,63.0,3.0,HARD,26.0,False,1,True,12.0,29.5,46.1,32.0,False,1.1,84.125,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,64.0,3.0,HARD,27.0,False,1,True,12.0,29.4,46.1,33.0,False,1.5,84.236,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,65.0,3.0,HARD,28.0,False,1,True,12.0,29.3,46.0,33.0,False,1.1,83.774,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,66.0,3.0,HARD,29.0,False,1,True,12.0,29.4,45.8,33.0,False,1.1,83.918,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,67.0,3.0,HARD,30.0,False,12,True,12.0,29.3,45.6,32.0,False,1.7,84.07,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,68.0,3.0,HARD,31.0,False,1,True,12.0,29.4,45.7,32.0,False,1.2,83.964,False,70,2023,11,Hungarian Grand Prix,2023_11
+BOT,Alfa Romeo,69.0,3.0,HARD,32.0,False,1,True,12.0,29.4,45.7,32.0,False,1.2,84.481,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,1.0,1.0,MEDIUM,4.0,False,12,False,18.0,28.7,50.1,33.0,False,1.1,98.117,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,2.0,1.0,MEDIUM,5.0,False,1,True,18.0,28.8,49.5,34.0,False,0.8,87.898,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,3.0,1.0,MEDIUM,6.0,False,1,True,18.0,28.8,50.1,33.0,False,1.8,86.878,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,4.0,1.0,MEDIUM,7.0,False,1,True,18.0,28.8,50.1,33.0,False,1.5,86.633,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,5.0,1.0,MEDIUM,8.0,False,1,True,18.0,28.9,49.6,34.0,False,1.1,86.236,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,6.0,1.0,MEDIUM,9.0,False,1,True,18.0,29.0,50.1,32.0,False,1.6,86.201,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,7.0,1.0,MEDIUM,10.0,False,1,True,18.0,29.1,49.2,33.0,False,1.3,86.073,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,8.0,1.0,MEDIUM,11.0,False,1,True,18.0,29.1,49.2,34.0,False,2.2,86.399,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,9.0,1.0,MEDIUM,12.0,False,1,True,17.0,29.0,49.2,33.0,False,2.0,85.915,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,10.0,1.0,MEDIUM,13.0,False,1,True,14.0,29.0,49.5,32.0,False,1.1,86.198,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,11.0,1.0,MEDIUM,14.0,False,1,True,13.0,28.9,49.5,32.0,False,1.7,86.003,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,12.0,1.0,MEDIUM,15.0,False,1,True,13.0,29.0,49.6,31.0,False,1.5,85.791,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,13.0,1.0,MEDIUM,16.0,False,1,True,12.0,29.1,49.3,31.0,False,1.7,85.837,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,14.0,1.0,MEDIUM,17.0,False,1,True,11.0,29.0,49.0,32.0,False,1.5,85.507,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,15.0,1.0,MEDIUM,18.0,False,1,True,11.0,29.0,49.1,31.0,False,1.2,85.398,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,16.0,1.0,MEDIUM,19.0,False,1,True,10.0,29.1,50.1,32.0,False,1.5,85.233,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,17.0,1.0,MEDIUM,20.0,False,1,True,9.0,29.3,49.9,32.0,False,1.2,86.996,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,18.0,1.0,MEDIUM,21.0,False,1,False,9.0,29.4,48.6,33.0,False,2.5,88.95,True,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,19.0,2.0,HARD,4.0,False,1,False,18.0,29.3,48.5,32.0,False,1.1,104.503,True,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,20.0,2.0,HARD,5.0,False,1,True,18.0,29.2,49.2,32.0,False,0.8,84.86,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,21.0,2.0,HARD,6.0,False,1,True,18.0,29.0,49.3,33.0,False,1.2,85.133,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,22.0,2.0,HARD,7.0,False,1,True,18.0,28.9,48.6,33.0,False,2.2,85.013,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,23.0,2.0,HARD,8.0,False,1,True,18.0,28.9,49.3,33.0,False,1.6,85.462,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,24.0,2.0,HARD,9.0,False,1,True,18.0,28.9,49.3,32.0,False,1.5,85.348,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,25.0,2.0,HARD,10.0,False,1,True,18.0,29.0,48.3,33.0,False,0.6,85.674,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,26.0,2.0,HARD,11.0,False,1,True,18.0,29.0,48.2,33.0,False,1.1,86.209,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,27.0,2.0,HARD,12.0,False,1,True,18.0,29.0,48.5,32.0,False,1.2,86.086,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,28.0,2.0,HARD,13.0,False,1,True,18.0,29.1,48.1,33.0,False,1.6,85.844,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,29.0,2.0,HARD,14.0,False,1,False,18.0,29.1,48.5,33.0,False,1.1,88.347,True,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,30.0,3.0,MEDIUM,4.0,False,1,False,18.0,29.3,48.6,33.0,False,1.2,102.809,True,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,31.0,3.0,MEDIUM,5.0,False,1,True,18.0,29.3,48.2,34.0,False,2.5,84.161,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,32.0,3.0,MEDIUM,6.0,False,1,True,18.0,29.3,48.2,33.0,False,1.6,84.195,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,33.0,3.0,MEDIUM,7.0,False,1,True,18.0,29.3,48.5,32.0,False,2.2,84.346,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,34.0,3.0,MEDIUM,8.0,False,1,True,18.0,29.3,48.5,32.0,False,1.7,84.031,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,35.0,3.0,MEDIUM,9.0,False,1,True,17.0,29.3,48.5,33.0,False,1.8,86.798,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,36.0,3.0,MEDIUM,10.0,False,1,True,17.0,29.2,47.7,32.0,False,1.7,84.214,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,37.0,3.0,MEDIUM,11.0,False,1,True,17.0,29.3,47.5,32.0,False,1.5,84.219,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,38.0,3.0,MEDIUM,12.0,False,1,True,17.0,29.3,47.4,32.0,False,1.8,84.25,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,39.0,3.0,MEDIUM,13.0,False,1,True,15.0,29.2,47.4,32.0,False,0.8,84.27,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,40.0,3.0,MEDIUM,14.0,False,1,True,14.0,29.2,47.4,33.0,False,1.3,84.089,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,41.0,3.0,MEDIUM,15.0,False,1,True,14.0,29.3,47.5,33.0,False,0.8,84.752,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,42.0,3.0,MEDIUM,16.0,False,1,True,14.0,29.3,48.1,33.0,False,2.0,84.542,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,43.0,3.0,MEDIUM,17.0,False,1,True,14.0,29.2,48.1,32.0,False,2.0,84.252,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,44.0,3.0,MEDIUM,18.0,False,1,True,14.0,29.0,48.0,32.0,False,1.7,84.439,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,45.0,3.0,MEDIUM,19.0,False,1,True,13.0,29.0,48.0,32.0,False,1.8,84.219,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,46.0,3.0,MEDIUM,20.0,False,1,True,13.0,29.1,47.6,33.0,False,0.8,84.235,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,47.0,3.0,MEDIUM,21.0,False,1,True,13.0,29.2,47.6,32.0,False,1.7,84.429,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,48.0,3.0,MEDIUM,22.0,False,1,True,13.0,29.2,47.1,32.0,False,1.3,84.496,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,49.0,3.0,MEDIUM,23.0,False,1,True,13.0,29.1,47.0,32.0,False,1.1,84.097,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,50.0,3.0,MEDIUM,24.0,False,1,True,13.0,29.0,47.0,33.0,False,1.2,84.302,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,51.0,3.0,MEDIUM,25.0,False,1,True,13.0,29.1,47.5,33.0,False,1.0,84.112,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,52.0,3.0,MEDIUM,26.0,False,1,True,13.0,29.2,47.2,32.0,False,2.4,84.419,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,53.0,3.0,MEDIUM,27.0,False,1,True,13.0,29.4,47.5,31.0,False,1.7,84.201,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,54.0,3.0,MEDIUM,28.0,False,1,True,13.0,29.4,46.8,32.0,False,2.0,83.991,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,55.0,3.0,MEDIUM,29.0,False,1,True,13.0,29.3,46.8,32.0,False,1.3,84.353,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,56.0,3.0,MEDIUM,30.0,False,1,True,13.0,29.2,46.6,32.0,False,1.1,86.761,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,57.0,3.0,MEDIUM,31.0,False,1,True,13.0,29.4,46.7,32.0,False,1.5,84.113,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,58.0,3.0,MEDIUM,32.0,False,1,True,13.0,29.5,47.1,32.0,False,1.1,84.161,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,59.0,3.0,MEDIUM,33.0,False,1,True,13.0,29.5,46.3,32.0,False,1.2,84.09,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,60.0,3.0,MEDIUM,34.0,False,1,True,13.0,29.5,46.4,33.0,False,1.3,84.413,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,61.0,3.0,MEDIUM,35.0,False,1,True,13.0,29.5,46.4,32.0,False,1.3,84.532,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,62.0,3.0,MEDIUM,36.0,False,1,True,13.0,29.5,46.2,32.0,False,2.0,84.198,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,63.0,3.0,MEDIUM,37.0,False,1,True,13.0,29.5,46.1,32.0,False,1.1,84.171,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,64.0,3.0,MEDIUM,38.0,False,1,True,13.0,29.4,46.1,33.0,False,1.5,84.132,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,65.0,3.0,MEDIUM,39.0,False,1,True,13.0,29.3,46.0,33.0,False,1.1,84.123,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,66.0,3.0,MEDIUM,40.0,False,1,True,13.0,29.4,45.8,33.0,False,1.1,83.968,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,67.0,3.0,MEDIUM,41.0,False,12,True,13.0,29.3,45.6,32.0,False,1.7,83.934,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,68.0,3.0,MEDIUM,42.0,False,1,True,13.0,29.4,45.7,32.0,False,1.2,84.059,False,70,2023,11,Hungarian Grand Prix,2023_11
+RIC,AlphaTauri,69.0,3.0,MEDIUM,43.0,False,1,True,13.0,29.4,45.7,32.0,False,1.2,87.273,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,4.0,False,12,False,9.0,28.7,50.1,33.0,False,1.1,93.589,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,5.0,False,1,True,9.0,28.8,49.5,34.0,False,0.8,86.902,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,6.0,False,1,True,9.0,28.8,50.1,33.0,False,1.8,86.309,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,7.0,False,1,True,9.0,28.8,50.1,33.0,False,1.5,85.889,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,8.0,False,1,True,9.0,28.9,49.6,34.0,False,1.1,85.822,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,9.0,False,1,True,9.0,29.0,50.1,32.0,False,1.6,85.708,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,10.0,False,1,True,9.0,29.1,49.6,33.0,False,2.5,85.612,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,11.0,False,1,True,9.0,29.1,49.2,34.0,False,2.2,86.292,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,12.0,False,1,True,9.0,29.0,49.2,33.0,False,2.0,86.379,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,13.0,False,1,True,9.0,29.0,49.5,32.0,False,1.1,85.968,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,14.0,False,1,True,9.0,28.9,49.5,32.0,False,1.7,86.119,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,15.0,False,1,True,9.0,29.0,49.6,31.0,False,1.5,86.188,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,16.0,False,1,True,9.0,29.1,49.3,31.0,False,1.7,86.091,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,17.0,False,1,True,9.0,29.1,49.3,31.0,False,0.6,85.916,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,15.0,1.0,MEDIUM,18.0,False,1,True,9.0,29.0,49.1,31.0,False,1.2,86.094,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,16.0,1.0,MEDIUM,19.0,False,1,False,9.0,29.1,50.1,32.0,False,1.5,88.445,True,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,17.0,2.0,HARD,4.0,False,1,False,15.0,29.3,49.9,32.0,False,1.2,104.661,True,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,18.0,2.0,HARD,5.0,False,1,True,15.0,29.4,48.6,32.0,False,1.2,85.195,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,19.0,2.0,HARD,6.0,False,1,True,14.0,29.3,48.5,32.0,False,1.1,85.604,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,20.0,2.0,HARD,7.0,False,1,True,14.0,29.3,48.9,32.0,False,1.1,85.321,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,21.0,2.0,HARD,8.0,False,1,True,14.0,29.0,49.3,33.0,False,1.2,85.512,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,22.0,2.0,HARD,9.0,False,1,True,14.0,28.9,48.6,33.0,False,2.2,85.782,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,23.0,2.0,HARD,10.0,False,1,True,14.0,28.9,49.3,33.0,False,1.6,86.099,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,24.0,2.0,HARD,11.0,False,1,True,14.0,28.9,49.3,32.0,False,1.5,85.865,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,25.0,2.0,HARD,12.0,False,1,True,14.0,29.0,48.3,33.0,False,0.6,85.745,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,26.0,2.0,HARD,13.0,False,1,True,14.0,29.0,48.2,33.0,False,1.1,85.581,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,27.0,2.0,HARD,14.0,False,1,True,14.0,29.0,48.6,33.0,False,1.2,85.844,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,28.0,2.0,HARD,15.0,False,1,True,14.0,29.1,48.1,33.0,False,1.6,86.036,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,29.0,2.0,HARD,16.0,False,1,True,13.0,29.1,48.5,33.0,False,1.1,85.316,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,30.0,2.0,HARD,17.0,False,1,True,14.0,29.3,48.6,33.0,False,1.2,86.603,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,31.0,2.0,HARD,18.0,False,1,True,14.0,29.3,48.5,33.0,False,2.2,85.509,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,32.0,2.0,HARD,19.0,False,1,True,13.0,29.3,48.2,33.0,False,1.6,85.617,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,33.0,2.0,HARD,20.0,False,1,True,13.0,29.3,48.5,32.0,False,2.2,85.557,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,34.0,2.0,HARD,21.0,False,1,True,13.0,29.2,48.5,32.0,False,1.5,85.729,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,35.0,2.0,HARD,22.0,False,1,True,12.0,29.3,48.5,33.0,False,1.8,85.795,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,36.0,2.0,HARD,23.0,False,1,True,12.0,29.2,48.1,32.0,False,2.4,85.808,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,37.0,2.0,HARD,24.0,False,1,True,12.0,29.3,47.5,32.0,False,1.5,85.822,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,38.0,2.0,HARD,25.0,False,1,False,12.0,29.3,47.4,32.0,False,1.8,87.764,True,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,39.0,3.0,HARD,6.0,False,1,False,16.0,29.2,47.4,32.0,False,0.8,103.179,True,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,40.0,3.0,HARD,7.0,False,1,True,16.0,29.2,47.4,33.0,False,1.3,84.192,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,41.0,3.0,HARD,8.0,False,1,True,15.0,29.3,47.5,33.0,False,0.8,84.289,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,42.0,3.0,HARD,9.0,False,1,True,15.0,29.3,48.1,33.0,False,2.0,83.573,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,43.0,3.0,HARD,10.0,False,1,True,15.0,29.1,48.1,32.0,False,1.7,84.151,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,44.0,3.0,HARD,11.0,False,1,True,15.0,29.0,48.0,32.0,False,1.7,84.621,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,45.0,3.0,HARD,12.0,False,1,True,14.0,29.0,48.0,32.0,False,1.8,84.43,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,46.0,3.0,HARD,13.0,False,1,True,14.0,29.1,47.6,33.0,False,0.8,84.233,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,47.0,3.0,HARD,14.0,False,1,True,14.0,29.2,47.6,32.0,False,1.7,84.156,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,48.0,3.0,HARD,15.0,False,1,True,14.0,29.2,47.1,33.0,False,2.2,84.077,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,49.0,3.0,HARD,16.0,False,1,True,14.0,29.1,47.0,32.0,False,1.1,84.326,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,50.0,3.0,HARD,17.0,False,1,True,14.0,29.0,47.0,33.0,False,1.2,84.472,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,51.0,3.0,HARD,18.0,False,1,True,14.0,29.1,47.5,33.0,False,1.0,84.382,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,52.0,3.0,HARD,19.0,False,1,True,14.0,29.2,47.2,32.0,False,2.4,84.11,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,53.0,3.0,HARD,20.0,False,1,True,14.0,29.4,47.5,31.0,False,1.7,86.72,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,54.0,3.0,HARD,21.0,False,1,True,14.0,29.4,46.8,32.0,False,2.0,84.579,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,55.0,3.0,HARD,22.0,False,1,True,14.0,29.3,46.8,32.0,False,1.3,84.426,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,56.0,3.0,HARD,23.0,False,1,True,14.0,29.2,46.6,32.0,False,1.1,84.434,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,57.0,3.0,HARD,24.0,False,1,True,14.0,29.4,46.7,32.0,False,1.5,84.501,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,58.0,3.0,HARD,25.0,False,1,True,14.0,29.5,47.1,32.0,False,1.1,84.804,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,59.0,3.0,HARD,26.0,False,1,True,14.0,29.5,46.3,32.0,False,1.2,84.371,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,60.0,3.0,HARD,27.0,False,1,True,14.0,29.5,46.4,33.0,False,1.3,84.499,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,61.0,3.0,HARD,28.0,False,1,True,14.0,29.5,46.4,32.0,False,1.3,84.756,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,62.0,3.0,HARD,29.0,False,1,True,14.0,29.5,46.2,32.0,False,2.0,86.349,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,63.0,3.0,HARD,30.0,False,1,True,14.0,29.5,46.1,32.0,False,1.1,85.228,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,64.0,3.0,HARD,31.0,False,1,True,14.0,29.4,46.1,33.0,False,1.5,86.48,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,65.0,3.0,HARD,32.0,False,1,True,14.0,29.3,45.9,32.0,False,1.7,86.287,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,66.0,3.0,HARD,33.0,False,1,True,14.0,29.4,45.8,33.0,False,1.1,84.973,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,67.0,3.0,HARD,34.0,False,12,True,14.0,29.3,45.6,32.0,False,1.7,84.946,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,68.0,3.0,HARD,35.0,False,1,True,14.0,29.4,45.7,32.0,False,1.2,84.815,False,70,2023,11,Hungarian Grand Prix,2023_11
+HUL,Haas F1 Team,69.0,3.0,HARD,36.0,False,1,True,14.0,29.4,45.7,32.0,False,1.2,85.485,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,1.0,1.0,SOFT,1.0,True,12,False,11.0,28.7,50.1,33.0,False,1.1,94.83,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,2.0,1.0,SOFT,2.0,True,1,True,11.0,28.8,49.5,34.0,False,0.8,87.017,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,3.0,1.0,SOFT,3.0,True,1,True,11.0,28.8,50.1,33.0,False,1.8,86.373,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,4.0,1.0,SOFT,4.0,True,1,True,11.0,28.8,50.1,33.0,False,1.5,85.806,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,5.0,1.0,SOFT,5.0,True,1,True,11.0,28.9,49.6,34.0,False,1.1,85.986,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,6.0,1.0,SOFT,6.0,True,1,True,11.0,29.0,50.1,32.0,False,1.6,85.674,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,7.0,1.0,SOFT,7.0,True,1,True,11.0,29.1,49.6,33.0,False,2.5,85.798,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,8.0,1.0,SOFT,8.0,True,1,True,11.0,29.1,49.2,34.0,False,2.2,86.156,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,9.0,1.0,SOFT,9.0,True,1,False,12.0,29.0,49.2,33.0,False,2.0,88.862,True,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,10.0,2.0,HARD,4.0,False,1,False,18.0,29.0,49.5,32.0,False,1.1,108.197,True,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,11.0,2.0,HARD,5.0,False,1,True,17.0,29.0,49.6,32.0,False,1.2,84.738,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,12.0,2.0,HARD,6.0,False,1,True,17.0,29.0,49.6,31.0,False,1.5,84.801,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,13.0,2.0,HARD,7.0,False,1,True,17.0,29.1,49.3,31.0,False,1.7,85.061,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,14.0,2.0,HARD,8.0,False,1,True,16.0,29.0,49.0,32.0,False,1.5,85.131,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,15.0,2.0,HARD,9.0,False,1,True,15.0,29.0,49.1,31.0,False,1.2,85.046,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,16.0,2.0,HARD,10.0,False,1,True,15.0,29.1,50.0,33.0,False,1.8,85.15,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,17.0,2.0,HARD,11.0,False,1,True,14.0,29.3,49.9,32.0,False,1.2,85.438,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,18.0,2.0,HARD,12.0,False,1,True,14.0,29.4,48.6,32.0,False,1.2,85.606,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,19.0,2.0,HARD,13.0,False,1,True,13.0,29.3,48.5,32.0,False,1.1,85.519,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,20.0,2.0,HARD,14.0,False,1,True,13.0,29.3,48.9,32.0,False,1.1,85.21,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,21.0,2.0,HARD,15.0,False,1,True,13.0,29.0,49.3,33.0,False,1.2,85.639,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,22.0,2.0,HARD,16.0,False,1,True,13.0,28.9,48.6,33.0,False,2.2,85.911,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,23.0,2.0,HARD,17.0,False,1,True,13.0,28.9,49.3,33.0,False,1.6,85.908,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,24.0,2.0,HARD,18.0,False,1,True,13.0,28.9,49.3,32.0,False,1.5,85.925,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,25.0,2.0,HARD,19.0,False,1,True,13.0,29.0,48.3,33.0,False,0.6,85.593,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,26.0,2.0,HARD,20.0,False,1,True,13.0,29.0,48.2,33.0,False,1.1,85.644,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,27.0,2.0,HARD,21.0,False,1,True,13.0,29.0,48.6,33.0,False,1.2,85.901,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,28.0,2.0,HARD,22.0,False,1,True,13.0,29.1,48.1,33.0,False,1.6,85.681,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,29.0,2.0,HARD,23.0,False,1,True,12.0,29.1,48.5,33.0,False,1.1,85.736,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,30.0,2.0,HARD,24.0,False,1,True,12.0,29.3,48.6,33.0,False,1.2,85.752,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,31.0,2.0,HARD,25.0,False,1,True,13.0,29.3,48.5,33.0,False,2.2,86.376,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,32.0,2.0,HARD,26.0,False,1,True,12.0,29.3,48.2,33.0,False,1.6,85.527,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,33.0,2.0,HARD,27.0,False,1,True,12.0,29.3,48.5,32.0,False,2.2,85.458,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,34.0,2.0,HARD,28.0,False,1,True,12.0,29.2,48.5,32.0,False,1.5,85.434,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,35.0,2.0,HARD,29.0,False,1,True,11.0,29.3,48.5,33.0,False,1.8,85.442,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,36.0,2.0,HARD,30.0,False,1,True,11.0,29.2,48.1,32.0,False,2.4,85.426,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,37.0,2.0,HARD,31.0,False,1,True,11.0,29.3,47.5,32.0,False,1.5,85.642,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,38.0,2.0,HARD,32.0,False,1,True,11.0,29.3,47.4,32.0,False,1.8,86.105,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,39.0,2.0,HARD,33.0,False,1,True,11.0,29.2,47.4,32.0,False,0.8,85.905,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,40.0,2.0,HARD,34.0,False,1,True,11.0,29.2,47.4,33.0,False,1.3,85.938,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,41.0,2.0,HARD,35.0,False,1,True,10.0,29.3,47.4,33.0,False,0.6,85.878,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,42.0,2.0,HARD,36.0,False,1,True,10.0,29.3,48.1,33.0,False,2.0,85.949,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,43.0,2.0,HARD,37.0,False,1,True,11.0,29.2,48.1,32.0,False,2.0,86.606,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,44.0,2.0,HARD,38.0,False,1,False,11.0,29.0,48.0,32.0,False,1.7,89.888,True,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,45.0,3.0,MEDIUM,1.0,True,1,False,16.0,29.0,48.0,32.0,False,1.8,102.64,True,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,46.0,3.0,MEDIUM,2.0,True,1,True,16.0,29.1,47.6,33.0,False,0.8,84.06,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,47.0,3.0,MEDIUM,3.0,True,1,True,16.0,29.2,47.6,32.0,False,1.7,84.067,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,48.0,3.0,MEDIUM,4.0,True,1,True,16.0,29.2,47.1,33.0,False,2.2,83.9,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,49.0,3.0,MEDIUM,5.0,True,1,True,16.0,29.1,47.0,32.0,False,1.1,84.038,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,50.0,3.0,MEDIUM,6.0,True,1,True,16.0,29.0,46.9,33.0,False,1.7,83.953,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,51.0,3.0,MEDIUM,7.0,True,1,True,16.0,29.1,47.5,33.0,False,1.0,84.345,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,52.0,3.0,MEDIUM,8.0,True,1,True,16.0,29.2,47.2,32.0,False,2.4,83.923,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,53.0,3.0,MEDIUM,9.0,True,1,True,16.0,29.4,47.5,31.0,False,1.7,84.238,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,54.0,3.0,MEDIUM,10.0,True,1,True,16.0,29.4,46.8,32.0,False,2.0,83.886,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,55.0,3.0,MEDIUM,11.0,True,1,True,16.0,29.3,46.8,32.0,False,1.7,83.903,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,56.0,3.0,MEDIUM,12.0,True,1,True,16.0,29.2,46.6,32.0,False,1.1,83.999,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,57.0,3.0,MEDIUM,13.0,True,1,True,16.0,29.4,46.7,32.0,False,1.5,84.396,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,58.0,3.0,MEDIUM,14.0,True,1,True,16.0,29.5,47.1,32.0,False,1.1,84.289,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,59.0,3.0,MEDIUM,15.0,True,1,True,16.0,29.5,46.3,32.0,False,1.2,86.23,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,60.0,3.0,MEDIUM,16.0,True,1,True,16.0,29.6,46.5,33.0,False,1.6,86.018,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,61.0,3.0,MEDIUM,17.0,True,1,True,16.0,29.5,46.4,32.0,False,1.3,84.434,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,62.0,3.0,MEDIUM,18.0,True,1,True,16.0,29.5,46.2,32.0,False,2.0,84.313,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,63.0,3.0,MEDIUM,19.0,True,1,True,16.0,29.5,46.1,32.0,False,1.1,84.583,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,64.0,3.0,MEDIUM,20.0,True,1,True,16.0,29.4,46.1,33.0,False,1.5,85.662,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,65.0,3.0,MEDIUM,21.0,True,1,True,16.0,29.3,45.9,32.0,False,1.7,84.616,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,66.0,3.0,MEDIUM,22.0,True,1,True,16.0,29.4,45.8,33.0,False,1.1,84.803,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,67.0,3.0,MEDIUM,23.0,True,12,True,15.0,29.3,45.6,32.0,False,1.7,85.749,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,68.0,3.0,MEDIUM,24.0,True,1,True,15.0,29.4,45.7,32.0,False,1.2,83.269,False,70,2023,11,Hungarian Grand Prix,2023_11
+TSU,AlphaTauri,69.0,3.0,MEDIUM,25.0,True,1,True,15.0,29.4,45.7,32.0,False,1.2,85.2,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,1.0,1.0,MEDIUM,4.0,False,12,False,16.0,28.7,50.1,33.0,False,1.1,96.733,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,5.0,False,1,True,16.0,28.8,49.5,34.0,False,0.8,87.932,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,6.0,False,1,True,16.0,28.8,50.1,33.0,False,1.8,86.774,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,7.0,False,1,True,16.0,28.8,50.1,33.0,False,1.5,86.413,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,8.0,False,1,True,16.0,28.9,49.6,34.0,False,1.1,86.337,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,9.0,False,1,True,16.0,29.0,50.1,32.0,False,1.6,86.313,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,10.0,False,1,True,16.0,29.1,49.2,33.0,False,1.3,85.933,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,11.0,False,1,True,15.0,29.1,49.2,34.0,False,2.2,86.036,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,12.0,False,1,True,15.0,29.0,49.2,33.0,False,2.0,85.844,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,10.0,1.0,MEDIUM,13.0,False,1,False,13.0,29.0,49.5,32.0,False,1.1,88.185,True,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,11.0,2.0,HARD,6.0,False,1,False,18.0,28.9,49.5,32.0,False,1.7,109.938,True,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,12.0,2.0,HARD,7.0,False,1,True,18.0,29.0,49.6,31.0,False,1.5,83.743,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,13.0,2.0,HARD,8.0,False,1,True,18.0,29.1,49.3,31.0,False,0.6,83.875,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,14.0,2.0,HARD,9.0,False,1,True,17.0,29.0,49.0,32.0,False,1.5,83.87,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,15.0,2.0,HARD,10.0,False,1,True,16.0,29.0,49.1,31.0,False,1.2,84.995,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,16.0,2.0,HARD,11.0,False,1,True,16.0,29.1,50.0,33.0,False,1.8,84.889,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,17.0,2.0,HARD,12.0,False,1,True,16.0,29.3,49.9,32.0,False,1.2,85.707,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,18.0,2.0,HARD,13.0,False,1,True,16.0,29.4,48.6,32.0,False,1.2,85.307,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,19.0,2.0,HARD,14.0,False,1,True,15.0,29.3,48.5,32.0,False,1.1,85.543,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,20.0,2.0,HARD,15.0,False,1,True,15.0,29.3,48.9,32.0,False,1.1,85.263,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,21.0,2.0,HARD,16.0,False,1,True,15.0,29.0,49.3,33.0,False,1.2,85.667,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,22.0,2.0,HARD,17.0,False,1,True,15.0,28.9,48.6,33.0,False,2.2,85.691,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,23.0,2.0,HARD,18.0,False,1,True,15.0,28.9,49.3,33.0,False,1.6,85.948,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,24.0,2.0,HARD,19.0,False,1,True,15.0,28.9,49.3,32.0,False,1.5,85.913,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,25.0,2.0,HARD,20.0,False,1,True,15.0,29.0,48.3,33.0,False,0.6,85.776,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,26.0,2.0,HARD,21.0,False,1,True,15.0,29.0,48.2,33.0,False,1.1,85.944,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,27.0,2.0,HARD,22.0,False,1,True,15.0,29.0,48.6,33.0,False,1.2,85.829,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,28.0,2.0,HARD,23.0,False,1,True,15.0,29.1,48.1,33.0,False,1.6,85.624,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,29.0,2.0,HARD,24.0,False,1,True,15.0,29.1,48.5,33.0,False,1.1,86.407,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,30.0,2.0,HARD,25.0,False,1,True,15.0,29.3,48.6,33.0,False,1.2,86.038,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,31.0,2.0,HARD,26.0,False,1,True,15.0,29.3,48.5,33.0,False,2.2,86.056,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,32.0,2.0,HARD,27.0,False,1,True,14.0,29.3,48.2,33.0,False,1.6,85.707,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,33.0,2.0,HARD,28.0,False,1,True,14.0,29.3,48.5,32.0,False,2.2,85.907,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,34.0,2.0,HARD,29.0,False,1,True,14.0,29.2,48.5,32.0,False,1.5,86.049,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,35.0,2.0,HARD,30.0,False,1,True,13.0,29.3,48.5,33.0,False,1.8,86.058,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,36.0,2.0,HARD,31.0,False,1,True,13.0,29.2,48.1,32.0,False,2.4,85.917,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,37.0,2.0,HARD,32.0,False,1,True,13.0,29.3,47.5,32.0,False,1.5,86.023,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,38.0,2.0,HARD,33.0,False,1,False,14.0,29.3,47.4,32.0,False,1.8,88.435,True,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,39.0,3.0,HARD,6.0,False,1,False,18.0,29.2,47.4,32.0,False,0.8,106.894,True,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,40.0,3.0,HARD,7.0,False,1,True,18.0,29.2,47.4,33.0,False,1.3,84.531,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,41.0,3.0,HARD,8.0,False,1,True,18.0,29.3,47.5,33.0,False,0.8,84.357,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,42.0,3.0,HARD,9.0,False,1,True,17.0,29.3,48.1,33.0,False,2.0,85.037,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,43.0,3.0,HARD,10.0,False,1,True,17.0,29.1,48.1,32.0,False,1.7,84.51,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,44.0,3.0,HARD,11.0,False,1,True,17.0,29.0,48.0,32.0,False,1.7,84.428,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,45.0,3.0,HARD,12.0,False,1,True,17.0,29.1,47.9,32.0,False,1.3,85.209,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,46.0,3.0,HARD,13.0,False,1,True,17.0,29.1,47.6,33.0,False,0.8,84.866,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,47.0,3.0,HARD,14.0,False,1,True,17.0,29.2,47.6,32.0,False,1.7,84.696,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,48.0,3.0,HARD,15.0,False,1,True,17.0,29.2,47.1,33.0,False,2.2,84.094,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,49.0,3.0,HARD,16.0,False,1,True,17.0,29.1,47.0,32.0,False,1.1,84.253,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,50.0,3.0,HARD,17.0,False,1,True,17.0,29.0,46.9,33.0,False,1.7,84.383,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,51.0,3.0,HARD,18.0,False,1,True,17.0,29.1,47.5,33.0,False,1.0,84.734,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,52.0,3.0,HARD,19.0,False,1,True,17.0,29.2,47.2,32.0,False,2.4,84.467,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,53.0,3.0,HARD,20.0,False,1,True,17.0,29.4,47.5,31.0,False,1.7,86.879,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,54.0,3.0,HARD,21.0,False,1,True,17.0,29.4,46.8,32.0,False,2.0,84.734,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,55.0,3.0,HARD,22.0,False,1,True,17.0,29.3,46.8,32.0,False,1.7,86.689,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,56.0,3.0,HARD,23.0,False,1,True,17.0,29.2,46.6,32.0,False,1.1,84.678,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,57.0,3.0,HARD,24.0,False,1,True,17.0,29.4,47.1,32.0,False,2.5,84.7,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,58.0,3.0,HARD,25.0,False,1,True,17.0,29.5,47.1,32.0,False,1.1,84.6,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,59.0,3.0,HARD,26.0,False,1,True,17.0,29.5,46.3,32.0,False,1.2,84.218,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,60.0,3.0,HARD,27.0,False,1,True,17.0,29.6,46.5,33.0,False,1.6,85.835,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,61.0,3.0,HARD,28.0,False,1,True,17.0,29.5,46.4,32.0,False,1.3,84.06,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,62.0,3.0,HARD,29.0,False,1,True,17.0,29.5,46.1,32.0,False,1.2,84.292,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,63.0,3.0,HARD,30.0,False,1,True,17.0,29.5,46.1,32.0,False,1.1,84.487,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,64.0,3.0,HARD,31.0,False,1,True,17.0,29.4,46.1,33.0,False,1.5,84.795,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,65.0,3.0,HARD,32.0,False,1,True,17.0,29.3,45.9,32.0,False,1.7,84.41,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,66.0,3.0,HARD,33.0,False,1,True,17.0,29.4,45.8,33.0,False,1.1,84.152,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,67.0,3.0,HARD,34.0,False,12,True,16.0,29.3,46.0,32.0,False,0.4,85.467,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,68.0,3.0,HARD,35.0,False,1,True,16.0,29.4,45.7,32.0,False,1.2,84.765,False,70,2023,11,Hungarian Grand Prix,2023_11
+ZHO,Alfa Romeo,69.0,3.0,HARD,36.0,False,1,True,16.0,29.4,45.7,32.0,False,1.2,85.286,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,12,False,13.0,28.7,50.1,33.0,False,1.1,95.783,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,28.8,49.5,34.0,False,0.8,87.771,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,28.8,50.1,33.0,False,1.8,86.757,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,28.8,50.1,33.0,False,1.5,86.099,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,28.9,49.6,34.0,False,1.1,86.066,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,29.0,50.1,32.0,False,1.6,86.103,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,29.1,49.2,33.0,False,1.3,85.977,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,29.1,49.2,34.0,False,2.2,86.095,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,29.0,49.2,33.0,False,2.0,86.389,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,29.0,49.5,32.0,False,1.1,86.444,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,28.9,49.5,32.0,False,1.7,85.969,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,11.0,29.0,49.6,31.0,False,1.5,85.983,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,11.0,29.1,49.3,31.0,False,1.7,86.335,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,False,12.0,29.0,49.0,32.0,False,1.5,88.329,True,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,15.0,2.0,HARD,4.0,False,1,False,17.0,29.0,49.1,31.0,False,1.2,104.286,True,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,16.0,2.0,HARD,5.0,False,1,True,17.0,29.1,50.0,33.0,False,1.8,84.782,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,17.0,2.0,HARD,6.0,False,1,True,17.0,29.3,49.9,32.0,False,1.2,85.258,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,18.0,2.0,HARD,7.0,False,1,True,17.0,29.4,48.6,32.0,False,1.2,85.338,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,19.0,2.0,HARD,8.0,False,1,True,16.0,29.3,48.5,32.0,False,1.1,85.602,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,20.0,2.0,HARD,9.0,False,1,True,16.0,29.3,48.9,32.0,False,1.1,85.29,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,21.0,2.0,HARD,10.0,False,1,True,16.0,29.0,49.3,33.0,False,1.2,85.809,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,22.0,2.0,HARD,11.0,False,1,True,16.0,28.9,48.6,33.0,False,2.2,86.014,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,23.0,2.0,HARD,12.0,False,1,True,16.0,28.9,49.3,33.0,False,1.6,85.931,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,24.0,2.0,HARD,13.0,False,1,True,16.0,28.9,49.3,32.0,False,1.5,85.931,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,25.0,2.0,HARD,14.0,False,1,True,16.0,29.0,48.3,33.0,False,0.6,86.016,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,26.0,2.0,HARD,15.0,False,1,True,16.0,29.0,48.2,33.0,False,1.1,86.132,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,27.0,2.0,HARD,16.0,False,1,True,16.0,29.0,48.6,33.0,False,1.2,86.278,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,28.0,2.0,HARD,17.0,False,1,True,16.0,29.1,48.1,33.0,False,1.6,86.126,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,29.0,2.0,HARD,18.0,False,1,True,16.0,29.1,48.5,33.0,False,1.1,86.204,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,30.0,2.0,HARD,19.0,False,1,True,16.0,29.3,48.6,33.0,False,1.2,86.33,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,31.0,2.0,HARD,20.0,False,1,True,16.0,29.3,48.5,33.0,False,2.2,86.283,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,32.0,2.0,HARD,21.0,False,1,True,15.0,29.3,48.2,33.0,False,1.6,86.343,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,33.0,2.0,HARD,22.0,False,1,True,15.0,29.3,48.5,32.0,False,2.2,86.256,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,34.0,2.0,HARD,23.0,False,1,True,15.0,29.3,48.5,32.0,False,1.7,86.256,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,35.0,2.0,HARD,24.0,False,1,True,14.0,29.3,48.5,33.0,False,1.8,87.06,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,36.0,2.0,HARD,25.0,False,1,True,15.0,29.2,48.1,32.0,False,2.4,86.701,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,37.0,2.0,HARD,26.0,False,1,True,15.0,29.3,47.5,32.0,False,1.5,86.296,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,38.0,2.0,HARD,27.0,False,1,True,16.0,29.3,47.4,32.0,False,1.8,88.558,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,39.0,2.0,HARD,28.0,False,1,True,14.0,29.2,47.4,32.0,False,0.8,86.622,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,40.0,2.0,HARD,29.0,False,1,True,15.0,29.2,47.4,33.0,False,1.3,87.353,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,41.0,2.0,HARD,30.0,False,1,False,17.0,29.3,47.5,33.0,False,0.8,89.197,True,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,42.0,3.0,HARD,6.0,False,1,False,18.0,29.3,48.1,33.0,False,2.0,103.525,True,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,43.0,3.0,HARD,7.0,False,1,True,18.0,29.1,48.1,32.0,False,1.7,84.544,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,44.0,3.0,HARD,8.0,False,1,True,18.0,29.0,48.0,32.0,False,1.7,84.097,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,45.0,3.0,HARD,9.0,False,1,True,18.0,29.1,47.9,32.0,False,1.3,84.285,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,46.0,3.0,HARD,10.0,False,1,True,18.0,29.1,47.6,33.0,False,0.8,84.17,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,47.0,3.0,HARD,11.0,False,1,True,18.0,29.2,47.1,32.0,False,1.3,86.646,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,48.0,3.0,HARD,12.0,False,1,True,18.0,29.2,47.1,33.0,False,2.2,83.942,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,49.0,3.0,HARD,13.0,False,1,True,18.0,29.1,47.0,32.0,False,1.1,84.11,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,50.0,3.0,HARD,14.0,False,1,True,18.0,29.0,46.9,33.0,False,1.7,84.299,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,51.0,3.0,HARD,15.0,False,1,True,18.0,29.1,47.5,33.0,False,1.0,85.991,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,52.0,3.0,HARD,16.0,False,1,True,18.0,29.3,47.5,32.0,False,2.2,83.994,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,53.0,3.0,HARD,17.0,False,1,True,18.0,29.4,47.5,31.0,False,1.7,84.136,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,54.0,3.0,HARD,18.0,False,1,True,18.0,29.4,46.8,32.0,False,2.0,83.864,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,55.0,3.0,HARD,19.0,False,1,True,18.0,29.3,46.8,32.0,False,1.7,84.414,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,56.0,3.0,HARD,20.0,False,1,True,18.0,29.2,46.6,32.0,False,1.1,84.491,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,57.0,3.0,HARD,21.0,False,1,True,18.0,29.4,47.1,32.0,False,2.5,88.556,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,58.0,3.0,HARD,22.0,False,1,True,18.0,29.5,47.1,32.0,False,1.1,85.172,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,59.0,3.0,HARD,23.0,False,1,True,18.0,29.5,46.4,33.0,False,1.3,84.479,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,60.0,3.0,HARD,24.0,False,1,True,18.0,29.6,46.5,33.0,False,1.6,87.626,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,61.0,3.0,HARD,25.0,False,1,True,18.0,29.5,46.4,32.0,False,1.3,84.529,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,62.0,3.0,HARD,26.0,False,1,True,18.0,29.5,46.1,32.0,False,1.2,84.494,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,63.0,3.0,HARD,27.0,False,1,True,18.0,29.5,46.1,32.0,False,1.1,84.438,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,64.0,3.0,HARD,28.0,False,1,True,18.0,29.3,46.0,33.0,False,1.1,88.678,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,65.0,3.0,HARD,29.0,False,1,True,18.0,29.3,45.9,32.0,False,1.7,85.434,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,66.0,3.0,HARD,30.0,False,1,True,18.0,29.3,45.6,32.0,False,1.7,87.531,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,67.0,3.0,HARD,31.0,False,12,True,18.0,29.3,46.0,32.0,False,0.4,84.854,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,68.0,3.0,HARD,32.0,False,1,True,17.0,29.4,45.7,32.0,False,1.2,84.965,False,70,2023,11,Hungarian Grand Prix,2023_11
+MAG,Haas F1 Team,69.0,3.0,HARD,33.0,False,1,True,17.0,29.4,45.5,32.0,False,1.2,85.369,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,12,False,17.0,28.7,50.1,33.0,False,1.1,97.428,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,28.8,49.5,34.0,False,0.8,87.874,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,28.8,50.1,33.0,False,1.8,86.826,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,28.8,50.1,33.0,False,1.5,86.514,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,17.0,28.9,49.6,34.0,False,1.1,86.413,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,29.0,50.1,32.0,False,1.6,86.184,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,17.0,29.1,49.2,33.0,False,1.3,86.102,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,29.1,49.2,34.0,False,2.2,86.042,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,29.0,49.2,33.0,False,2.0,86.047,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,29.0,49.5,32.0,False,1.1,86.02,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,28.9,49.5,32.0,False,1.7,85.62,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,29.0,49.6,31.0,False,1.5,85.699,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,False,13.0,29.1,49.3,31.0,False,1.7,88.197,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,14.0,2.0,HARD,4.0,False,1,False,18.0,29.0,49.0,32.0,False,1.5,105.893,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,15.0,2.0,HARD,5.0,False,1,True,18.0,29.0,49.1,31.0,False,1.2,85.2,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,16.0,2.0,HARD,6.0,False,1,True,18.0,29.1,50.0,33.0,False,1.8,85.241,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,17.0,2.0,HARD,7.0,False,1,True,18.0,29.3,49.9,32.0,False,1.2,85.235,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,18.0,2.0,HARD,8.0,False,1,True,18.0,29.4,48.6,32.0,False,1.2,85.31,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,19.0,2.0,HARD,9.0,False,1,True,17.0,29.3,48.5,32.0,False,1.1,85.199,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,20.0,2.0,HARD,10.0,False,1,True,17.0,29.3,48.9,32.0,False,1.1,84.883,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,21.0,2.0,HARD,11.0,False,1,True,17.0,29.0,49.3,33.0,False,1.2,85.668,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,22.0,2.0,HARD,12.0,False,1,True,17.0,28.9,48.6,33.0,False,2.2,85.999,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,23.0,2.0,HARD,13.0,False,1,True,17.0,28.9,49.3,33.0,False,1.6,85.749,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,24.0,2.0,HARD,14.0,False,1,True,17.0,28.9,49.3,32.0,False,1.5,86.1,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,25.0,2.0,HARD,15.0,False,1,True,17.0,29.0,48.3,33.0,False,0.6,85.92,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,26.0,2.0,HARD,16.0,False,1,True,17.0,29.0,48.2,33.0,False,1.1,86.1,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,27.0,2.0,HARD,17.0,False,1,True,17.0,29.0,48.5,32.0,False,1.2,86.187,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,28.0,2.0,HARD,18.0,False,1,True,17.0,29.1,48.1,33.0,False,1.6,86.131,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,29.0,2.0,HARD,19.0,False,1,True,17.0,29.1,48.5,33.0,False,1.1,85.998,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,30.0,2.0,HARD,20.0,False,1,True,17.0,29.3,48.6,33.0,False,1.2,86.346,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,31.0,2.0,HARD,21.0,False,1,True,17.0,29.3,48.5,33.0,False,2.2,86.21,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,32.0,2.0,HARD,22.0,False,1,True,16.0,29.3,48.2,33.0,False,1.6,86.343,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,33.0,2.0,HARD,23.0,False,1,True,16.0,29.3,48.5,32.0,False,2.2,86.21,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,34.0,2.0,HARD,24.0,False,1,False,16.0,29.3,48.5,32.0,False,1.7,88.983,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,35.0,3.0,HARD,1.0,True,1,False,18.0,29.3,48.5,33.0,False,1.8,102.497,True,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,36.0,3.0,HARD,2.0,True,1,True,18.0,29.2,47.7,32.0,False,1.7,83.496,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,37.0,3.0,HARD,3.0,True,1,True,18.0,29.3,47.5,32.0,False,1.5,84.024,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,38.0,3.0,HARD,4.0,True,1,True,18.0,29.3,47.4,32.0,False,1.2,84.102,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,39.0,3.0,HARD,5.0,True,1,True,17.0,29.2,47.4,32.0,False,0.8,84.466,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,40.0,3.0,HARD,6.0,True,1,True,17.0,29.2,47.4,33.0,False,1.3,84.618,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,41.0,3.0,HARD,7.0,True,1,True,16.0,29.3,47.5,33.0,False,0.8,84.565,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,42.0,3.0,HARD,8.0,True,1,True,16.0,29.3,48.1,33.0,False,2.0,84.478,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,43.0,3.0,HARD,9.0,True,1,True,16.0,29.1,48.1,32.0,False,1.7,84.826,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,44.0,3.0,HARD,10.0,True,1,True,16.0,29.0,48.0,32.0,False,1.7,84.73,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,45.0,3.0,HARD,11.0,True,1,True,15.0,29.0,48.0,32.0,False,1.8,84.307,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,46.0,3.0,HARD,12.0,True,1,True,15.0,29.1,47.6,33.0,False,0.8,84.41,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,47.0,3.0,HARD,13.0,True,1,True,15.0,29.2,47.6,32.0,False,1.7,84.297,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,48.0,3.0,HARD,14.0,True,1,True,15.0,29.2,47.1,33.0,False,2.2,84.023,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,49.0,3.0,HARD,15.0,True,1,True,15.0,29.1,47.0,32.0,False,1.1,84.141,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,50.0,3.0,HARD,16.0,True,1,True,15.0,29.0,47.0,33.0,False,1.2,83.896,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,51.0,3.0,HARD,17.0,True,1,True,15.0,29.1,47.5,33.0,False,1.0,86.518,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,52.0,3.0,HARD,18.0,True,1,True,15.0,29.2,47.2,32.0,False,2.4,84.01,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,53.0,3.0,HARD,19.0,True,1,True,15.0,29.4,47.5,31.0,False,1.7,84.221,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,54.0,3.0,HARD,20.0,True,1,True,15.0,29.4,46.8,32.0,False,2.0,84.226,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,55.0,3.0,HARD,21.0,True,1,True,15.0,29.3,46.8,32.0,False,1.3,84.052,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,56.0,3.0,HARD,22.0,True,1,True,15.0,29.2,46.6,32.0,False,1.1,84.311,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,57.0,3.0,HARD,23.0,True,1,True,15.0,29.4,46.7,32.0,False,1.5,84.396,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,58.0,3.0,HARD,24.0,True,1,True,15.0,29.5,47.1,32.0,False,1.1,84.761,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,59.0,3.0,HARD,25.0,True,1,True,15.0,29.5,46.3,32.0,False,1.2,84.128,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,60.0,3.0,HARD,26.0,True,1,True,15.0,29.5,46.4,33.0,False,1.3,84.963,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,61.0,3.0,HARD,27.0,True,1,True,15.0,29.5,46.4,32.0,False,1.3,86.287,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,62.0,3.0,HARD,28.0,True,1,True,15.0,29.5,46.2,32.0,False,2.0,86.629,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,63.0,3.0,HARD,29.0,True,1,True,15.0,29.5,46.1,32.0,False,1.1,84.506,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,64.0,3.0,HARD,30.0,True,1,True,15.0,29.4,46.1,33.0,False,1.5,84.798,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,65.0,3.0,HARD,31.0,True,1,True,15.0,29.3,45.9,32.0,False,1.7,85.981,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,66.0,3.0,HARD,32.0,True,1,True,15.0,29.4,45.8,33.0,False,1.1,84.913,False,70,2023,11,Hungarian Grand Prix,2023_11
+SAR,Williams,67.0,3.0,HARD,33.0,True,12,False,17.0,29.3,45.6,32.0,False,1.7,103.777,True,70,2023,11,Hungarian Grand Prix,2023_11
+OCO,Alpine,1.0,1.0,MEDIUM,4.0,False,12,False,19.0,28.7,50.1,33.0,False,1.1,106.965,False,70,2023,11,Hungarian Grand Prix,2023_11
+OCO,Alpine,2.0,1.0,MEDIUM,5.0,False,1,False,19.0,28.8,49.5,34.0,False,0.8,101.181,True,70,2023,11,Hungarian Grand Prix,2023_11
+GAS,Alpine,1.0,1.0,SOFT,1.0,True,12,False,20.0,28.7,50.1,33.0,False,1.1,124.981,True,70,2023,11,Hungarian Grand Prix,2023_11

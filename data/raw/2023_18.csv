@@ -1,0 +1,1015 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,29.9,40.8,42.0,False,2.9,105.537,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,29.8,40.8,42.0,False,3.0,103.009,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,29.9,40.7,41.0,False,2.9,102.7,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,29.9,40.7,41.0,False,4.0,102.623,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,29.9,40.6,42.0,False,4.0,102.151,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,30.0,40.6,43.0,False,3.9,102.857,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,30.0,41.0,41.0,False,3.2,102.817,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,30.0,40.5,40.0,False,4.1,102.598,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,30.0,41.1,41.0,False,2.4,102.969,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,30.0,40.4,41.0,False,3.2,102.741,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,30.0,40.7,41.0,False,3.4,103.147,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,30.0,40.0,42.0,False,3.5,102.515,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,30.3,41.5,41.0,False,1.1,102.569,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,30.4,41.5,39.0,False,1.5,102.334,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,30.4,41.3,39.0,False,3.4,102.654,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,False,3.0,30.3,41.6,39.0,False,2.2,102.571,True,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,17.0,2.0,MEDIUM,1.0,True,1,False,9.0,30.4,41.5,38.0,False,1.8,120.701,True,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,18.0,2.0,MEDIUM,2.0,True,1,True,6.0,30.5,41.8,39.0,False,5.0,100.989,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,19.0,2.0,MEDIUM,3.0,True,1,True,5.0,30.2,41.6,40.0,False,4.3,100.809,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,20.0,2.0,MEDIUM,4.0,True,1,True,5.0,30.2,41.6,40.0,False,3.5,100.883,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,21.0,2.0,MEDIUM,5.0,True,1,True,4.0,30.1,41.3,40.0,False,2.2,100.98,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,22.0,2.0,MEDIUM,6.0,True,1,True,3.0,30.2,41.3,39.0,False,2.5,101.129,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,23.0,2.0,MEDIUM,7.0,True,1,True,3.0,30.3,41.4,39.0,False,2.2,100.921,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,24.0,2.0,MEDIUM,8.0,True,1,True,2.0,30.4,42.0,38.0,False,1.3,101.203,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,25.0,2.0,MEDIUM,9.0,True,1,True,2.0,30.7,41.6,37.0,False,4.5,101.268,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,26.0,2.0,MEDIUM,10.0,True,1,True,2.0,30.5,41.3,38.0,False,4.0,101.857,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,27.0,2.0,MEDIUM,11.0,True,1,True,2.0,30.4,41.0,39.0,False,4.0,101.795,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,28.0,2.0,MEDIUM,12.0,True,1,True,1.0,30.5,41.4,37.0,False,5.3,101.574,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,29.0,2.0,MEDIUM,13.0,True,1,True,1.0,30.5,41.4,37.0,False,4.5,101.592,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,30.0,2.0,MEDIUM,14.0,True,1,True,1.0,30.4,41.0,37.0,False,4.8,101.658,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,31.0,2.0,MEDIUM,15.0,True,1,True,1.0,30.1,41.0,38.0,False,3.0,101.337,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,32.0,2.0,MEDIUM,16.0,True,1,True,1.0,30.3,41.2,38.0,False,2.4,101.576,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,33.0,2.0,MEDIUM,17.0,True,1,True,1.0,30.6,41.6,37.0,False,3.2,101.507,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,34.0,2.0,MEDIUM,18.0,True,1,True,1.0,30.5,41.8,38.0,False,6.0,101.581,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,35.0,2.0,MEDIUM,19.0,True,1,False,1.0,30.5,41.1,38.0,False,3.7,101.777,True,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,36.0,3.0,HARD,1.0,True,1,False,4.0,30.4,41.3,39.0,False,5.0,122.166,True,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,37.0,3.0,HARD,2.0,True,1,True,4.0,30.6,41.6,38.0,False,4.5,100.763,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,38.0,3.0,HARD,3.0,True,1,True,3.0,30.4,41.4,39.0,False,4.9,100.439,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,39.0,3.0,HARD,4.0,True,1,True,1.0,30.2,41.2,39.0,False,3.4,100.124,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,40.0,3.0,HARD,5.0,True,1,True,1.0,30.3,41.0,39.0,False,1.7,100.028,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,41.0,3.0,HARD,6.0,True,1,True,1.0,30.5,41.4,39.0,False,2.5,100.449,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,42.0,3.0,HARD,7.0,True,1,True,1.0,30.8,41.9,38.0,False,2.4,100.349,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,43.0,3.0,HARD,8.0,True,1,True,1.0,31.0,42.2,38.0,False,3.7,100.212,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,44.0,3.0,HARD,9.0,True,1,True,1.0,30.9,41.8,38.0,False,5.0,100.77,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,45.0,3.0,HARD,10.0,True,1,True,1.0,30.6,40.7,39.0,False,3.4,100.245,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,46.0,3.0,HARD,11.0,True,1,True,1.0,30.5,40.7,39.0,False,5.0,100.588,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,47.0,3.0,HARD,12.0,True,1,True,1.0,30.8,41.3,38.0,False,1.5,100.31,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,48.0,3.0,HARD,13.0,True,1,True,1.0,31.0,41.7,38.0,False,3.2,100.329,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,49.0,3.0,HARD,14.0,True,1,True,1.0,31.0,41.6,38.0,False,3.9,100.418,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,50.0,3.0,HARD,15.0,True,1,True,1.0,30.9,40.8,39.0,False,3.2,100.209,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,51.0,3.0,HARD,16.0,True,1,True,1.0,31.0,41.1,40.0,False,3.7,100.099,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,52.0,3.0,HARD,17.0,True,1,True,1.0,30.9,40.9,40.0,False,1.2,100.335,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,53.0,3.0,HARD,18.0,True,1,True,1.0,30.9,41.3,39.0,False,2.4,100.636,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,54.0,3.0,HARD,19.0,True,1,True,1.0,30.7,40.8,39.0,False,2.4,100.629,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,55.0,3.0,HARD,20.0,True,1,True,1.0,30.8,41.0,40.0,False,2.5,100.998,False,56,2023,18,United States Grand Prix,2023_18
+VER,Red Bull Racing,56.0,3.0,HARD,21.0,True,1,True,1.0,30.8,40.2,41.0,False,3.4,100.337,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,29.9,40.8,42.0,False,2.9,101.712,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,29.8,40.8,42.0,False,3.0,101.982,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,29.9,40.7,41.0,False,2.9,102.28,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,29.9,40.7,41.0,False,4.0,102.331,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,29.9,40.6,42.0,False,4.0,102.244,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,30.0,40.6,43.0,False,3.9,102.802,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,30.0,41.0,41.0,False,3.2,102.742,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,30.0,40.5,40.0,False,4.1,102.5,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,30.0,41.1,41.0,False,2.4,102.667,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,30.0,40.4,41.0,False,3.2,102.391,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,30.1,40.5,41.0,False,4.4,102.426,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,30.0,40.0,42.0,False,3.5,102.113,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,30.3,41.5,41.0,False,1.1,103.071,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,30.4,41.5,39.0,False,1.5,102.792,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,30.4,41.3,39.0,False,3.4,102.557,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,30.3,41.6,39.0,False,2.2,102.725,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,False,1.0,30.4,41.5,38.0,False,1.8,102.594,True,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,18.0,2.0,HARD,1.0,True,1,False,4.0,30.4,41.5,38.0,False,2.9,121.475,True,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,19.0,2.0,HARD,2.0,True,1,True,4.0,30.3,41.5,40.0,False,6.6,101.366,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,20.0,2.0,HARD,3.0,True,1,True,4.0,30.2,41.6,40.0,False,3.5,101.471,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,21.0,2.0,HARD,4.0,True,1,True,2.0,30.1,41.3,40.0,False,2.2,101.192,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,22.0,2.0,HARD,5.0,True,1,True,2.0,30.2,41.3,39.0,False,2.5,101.262,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,23.0,2.0,HARD,6.0,True,1,True,2.0,30.3,41.4,39.0,False,2.2,101.388,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,24.0,2.0,HARD,7.0,True,1,True,1.0,30.4,42.0,38.0,False,1.3,100.97,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,25.0,2.0,HARD,8.0,True,1,True,1.0,30.7,41.6,37.0,False,4.5,102.405,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,26.0,2.0,HARD,9.0,True,1,True,1.0,30.5,41.3,38.0,False,4.0,102.115,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,27.0,2.0,HARD,10.0,True,1,True,1.0,30.4,41.0,39.0,False,4.0,101.83,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,28.0,2.0,HARD,11.0,True,1,True,2.0,30.5,41.4,37.0,False,5.3,103.15,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,29.0,2.0,HARD,12.0,True,1,True,2.0,30.5,41.4,37.0,False,4.5,102.008,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,30.0,2.0,HARD,13.0,True,1,True,2.0,30.4,41.0,37.0,False,4.8,101.493,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,31.0,2.0,HARD,14.0,True,1,True,2.0,30.1,41.0,38.0,False,3.0,101.56,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,32.0,2.0,HARD,15.0,True,1,True,2.0,30.3,41.2,38.0,False,2.4,102.211,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,33.0,2.0,HARD,16.0,True,1,True,2.0,30.6,41.6,37.0,False,3.2,102.812,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,34.0,2.0,HARD,17.0,True,1,False,2.0,30.5,41.8,38.0,False,6.0,102.13,True,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,35.0,3.0,HARD,1.0,True,1,False,6.0,30.5,41.1,38.0,False,3.7,120.773,True,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,36.0,3.0,HARD,2.0,True,1,True,5.0,30.5,41.6,39.0,False,4.9,101.438,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,37.0,3.0,HARD,3.0,True,1,True,5.0,30.6,41.6,38.0,False,4.5,100.684,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,38.0,3.0,HARD,4.0,True,1,True,4.0,30.4,41.4,39.0,False,4.9,100.025,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,39.0,3.0,HARD,5.0,True,1,True,2.0,30.2,41.2,39.0,False,3.4,99.985,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,40.0,3.0,HARD,6.0,True,1,True,2.0,30.3,41.0,39.0,False,1.7,100.437,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,41.0,3.0,HARD,7.0,True,1,True,2.0,30.5,41.4,39.0,False,2.5,100.733,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,42.0,3.0,HARD,8.0,True,1,True,2.0,30.8,41.9,38.0,False,2.4,100.635,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,43.0,3.0,HARD,9.0,True,1,True,2.0,31.0,42.2,38.0,False,3.7,100.471,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,44.0,3.0,HARD,10.0,True,1,True,2.0,30.9,41.8,38.0,False,5.0,100.714,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,45.0,3.0,HARD,11.0,True,1,True,2.0,30.6,40.7,39.0,False,3.4,100.616,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,46.0,3.0,HARD,12.0,True,1,True,2.0,30.5,40.7,39.0,False,5.0,101.107,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,47.0,3.0,HARD,13.0,True,1,True,2.0,30.8,41.3,38.0,False,1.5,101.166,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,48.0,3.0,HARD,14.0,True,1,True,2.0,31.0,41.7,38.0,False,3.2,101.222,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,49.0,3.0,HARD,15.0,True,1,True,3.0,31.0,41.6,38.0,False,3.9,102.748,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,50.0,3.0,HARD,16.0,True,1,True,3.0,30.9,40.8,39.0,False,3.2,101.175,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,51.0,3.0,HARD,17.0,True,1,True,3.0,31.0,41.1,40.0,False,3.7,100.838,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,52.0,3.0,HARD,18.0,True,1,True,3.0,30.9,41.3,39.0,False,1.6,101.004,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,53.0,3.0,HARD,19.0,True,1,True,3.0,30.9,41.3,39.0,False,2.4,100.682,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,54.0,3.0,HARD,20.0,True,1,True,3.0,30.7,40.8,39.0,False,2.4,100.904,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,55.0,3.0,HARD,21.0,True,1,True,3.0,30.8,40.5,40.0,False,3.2,100.884,False,56,2023,18,United States Grand Prix,2023_18
+NOR,McLaren,56.0,3.0,HARD,22.0,True,1,True,3.0,30.8,40.2,41.0,False,3.4,101.084,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,29.9,40.8,42.0,False,2.9,104.398,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,29.8,40.8,42.0,False,3.0,102.659,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,29.9,40.7,41.0,False,2.9,102.583,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,29.9,40.7,41.0,False,4.0,103.432,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,29.9,40.6,42.0,False,4.0,103.744,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,30.0,40.6,43.0,False,3.9,102.882,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,30.0,41.0,41.0,False,3.2,102.95,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,30.0,40.5,40.0,False,4.1,102.609,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,30.0,41.1,41.0,False,2.4,102.896,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,30.0,40.4,41.0,False,3.2,102.91,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,30.0,40.7,41.0,False,3.4,103.597,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,30.0,40.0,42.0,False,3.5,102.88,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,30.3,41.5,41.0,False,1.1,103.454,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,30.4,41.5,39.0,False,1.5,103.065,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,30.4,41.3,39.0,False,3.4,103.652,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,30.3,41.6,39.0,False,2.2,103.033,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,False,4.0,30.4,41.5,38.0,False,1.8,103.418,True,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,18.0,2.0,MEDIUM,1.0,True,1,False,8.0,30.5,41.8,39.0,False,5.0,121.5,True,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,19.0,2.0,MEDIUM,2.0,True,1,True,7.0,30.2,41.6,40.0,False,4.3,101.869,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,20.0,2.0,MEDIUM,3.0,True,1,True,6.0,30.2,41.6,40.0,False,3.5,100.667,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,21.0,2.0,MEDIUM,4.0,True,1,True,6.0,30.1,41.3,40.0,False,2.2,101.197,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,22.0,2.0,MEDIUM,5.0,True,1,True,5.0,30.2,41.3,39.0,False,2.5,101.647,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,23.0,2.0,MEDIUM,6.0,True,1,True,5.0,30.3,41.4,39.0,False,2.2,101.683,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,24.0,2.0,MEDIUM,7.0,True,1,True,4.0,30.4,42.0,38.0,False,1.3,101.539,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,25.0,2.0,MEDIUM,8.0,True,1,True,4.0,30.7,41.6,37.0,False,4.5,101.49,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,26.0,2.0,MEDIUM,9.0,True,1,True,4.0,30.5,41.3,38.0,False,4.0,101.825,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,27.0,2.0,MEDIUM,10.0,True,1,True,4.0,30.4,41.0,39.0,False,4.0,101.479,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,28.0,2.0,MEDIUM,11.0,True,1,True,4.0,30.5,41.4,37.0,False,5.3,101.735,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,29.0,2.0,MEDIUM,12.0,True,1,True,4.0,30.5,41.2,37.0,False,5.3,101.462,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,30.0,2.0,MEDIUM,13.0,True,1,True,4.0,30.4,41.0,37.0,False,4.8,101.484,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,31.0,2.0,MEDIUM,14.0,True,1,True,4.0,30.1,41.0,38.0,False,3.0,101.584,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,32.0,2.0,MEDIUM,15.0,True,1,True,4.0,30.4,41.0,37.0,False,4.1,101.55,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,33.0,2.0,MEDIUM,16.0,True,1,True,4.0,30.6,41.6,37.0,False,3.2,101.888,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,34.0,2.0,MEDIUM,17.0,True,1,True,4.0,30.5,41.8,38.0,False,6.0,101.677,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,35.0,2.0,MEDIUM,18.0,True,1,False,3.0,30.5,41.1,38.0,False,3.7,102.067,True,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,36.0,3.0,HARD,1.0,True,1,False,7.0,30.4,41.3,39.0,False,5.0,120.188,True,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,37.0,3.0,HARD,2.0,True,1,True,7.0,30.6,41.6,38.0,False,4.5,100.575,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,38.0,3.0,HARD,3.0,True,1,True,5.0,30.4,41.4,39.0,False,4.9,100.294,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,39.0,3.0,HARD,4.0,True,1,True,5.0,30.2,41.2,39.0,False,3.4,100.839,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,40.0,3.0,HARD,5.0,True,1,True,5.0,30.3,41.0,39.0,False,1.7,100.578,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,41.0,3.0,HARD,6.0,True,1,True,5.0,30.5,41.4,39.0,False,2.5,100.907,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,42.0,3.0,HARD,7.0,True,1,True,5.0,30.8,41.9,38.0,False,2.4,100.665,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,43.0,3.0,HARD,8.0,True,1,True,5.0,30.9,42.1,38.0,False,4.0,100.724,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,44.0,3.0,HARD,9.0,True,1,True,5.0,30.9,41.8,38.0,False,5.0,100.885,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,45.0,3.0,HARD,10.0,True,1,True,5.0,30.6,40.7,39.0,False,3.4,100.716,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,46.0,3.0,HARD,11.0,True,1,True,5.0,30.6,41.3,39.0,False,1.7,100.62,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,47.0,3.0,HARD,12.0,True,1,True,5.0,30.8,41.3,38.0,False,1.5,100.653,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,48.0,3.0,HARD,13.0,True,1,True,5.0,31.0,41.7,38.0,False,3.2,100.872,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,49.0,3.0,HARD,14.0,True,1,True,5.0,30.9,41.0,39.0,False,4.5,100.579,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,50.0,3.0,HARD,15.0,True,1,True,4.0,30.9,40.8,39.0,False,3.2,100.323,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,51.0,3.0,HARD,16.0,True,1,True,4.0,31.0,41.1,40.0,False,3.7,100.034,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,52.0,3.0,HARD,17.0,True,1,True,4.0,30.9,41.3,39.0,False,1.6,100.593,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,53.0,3.0,HARD,18.0,True,1,True,4.0,30.9,41.3,39.0,False,2.4,100.563,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,54.0,3.0,HARD,19.0,True,1,True,4.0,30.7,40.8,39.0,False,2.4,100.877,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,55.0,3.0,HARD,20.0,True,1,True,4.0,30.8,40.5,40.0,False,3.2,101.328,False,56,2023,18,United States Grand Prix,2023_18
+SAI,Ferrari,56.0,3.0,HARD,21.0,True,1,True,4.0,30.8,40.2,41.0,False,3.4,101.178,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,29.9,40.8,42.0,False,2.9,108.071,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,29.8,40.8,42.0,False,3.0,104.884,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,29.9,40.7,41.0,False,2.9,103.862,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,29.9,40.7,41.0,False,4.0,102.175,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,29.9,40.6,42.0,False,4.0,102.527,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,30.0,40.6,43.0,False,3.9,102.849,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,30.0,41.0,41.0,False,3.2,102.894,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,30.0,41.1,41.0,False,3.4,103.505,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,30.0,41.1,41.0,False,2.4,103.419,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,30.0,40.4,41.0,False,3.2,103.07,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,30.0,40.7,41.0,False,3.4,102.676,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,30.0,40.0,42.0,False,3.5,102.473,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,30.3,41.5,41.0,False,1.1,103.051,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,30.4,41.5,39.0,False,1.5,102.695,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,30.4,41.5,39.0,False,2.5,103.188,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,30.3,41.6,39.0,False,2.2,102.992,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,False,6.0,30.4,41.5,38.0,False,1.8,103.567,True,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,18.0,2.0,MEDIUM,1.0,True,1,False,10.0,30.5,41.8,39.0,False,5.0,121.339,True,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,19.0,2.0,MEDIUM,2.0,True,1,True,8.0,30.2,41.6,40.0,False,4.3,101.399,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,20.0,2.0,MEDIUM,3.0,True,1,True,8.0,30.2,41.6,40.0,False,3.5,101.335,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,21.0,2.0,MEDIUM,4.0,True,1,True,7.0,30.1,41.3,40.0,False,2.2,101.501,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,22.0,2.0,MEDIUM,5.0,True,1,True,6.0,30.2,41.3,39.0,False,2.5,101.292,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,23.0,2.0,MEDIUM,6.0,True,1,True,6.0,30.3,41.4,39.0,False,2.2,101.403,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,24.0,2.0,MEDIUM,7.0,True,1,True,5.0,30.4,42.0,38.0,False,1.3,101.445,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,25.0,2.0,MEDIUM,8.0,True,1,True,5.0,30.7,41.6,37.0,False,4.5,101.166,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,26.0,2.0,MEDIUM,9.0,True,1,True,5.0,30.4,41.2,38.0,False,4.0,101.79,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,27.0,2.0,MEDIUM,10.0,True,1,True,5.0,30.4,41.0,39.0,False,4.0,101.164,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,28.0,2.0,MEDIUM,11.0,True,1,True,5.0,30.5,41.4,37.0,False,5.3,101.377,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,29.0,2.0,MEDIUM,12.0,True,1,True,5.0,30.5,41.2,37.0,False,5.3,101.214,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,30.0,2.0,MEDIUM,13.0,True,1,True,5.0,30.4,41.0,37.0,False,4.8,101.28,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,31.0,2.0,MEDIUM,14.0,True,1,True,5.0,30.1,41.0,38.0,False,3.0,101.378,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,32.0,2.0,MEDIUM,15.0,True,1,True,5.0,30.4,41.0,37.0,False,4.1,101.804,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,33.0,2.0,MEDIUM,16.0,True,1,True,5.0,30.6,41.6,37.0,False,3.2,102.0,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,34.0,2.0,MEDIUM,17.0,True,1,True,5.0,30.5,41.8,38.0,False,6.0,101.238,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,35.0,2.0,MEDIUM,18.0,True,1,True,4.0,30.5,41.1,38.0,False,3.7,101.706,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,36.0,2.0,MEDIUM,19.0,True,1,True,2.0,30.4,41.3,39.0,False,5.0,101.79,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,37.0,2.0,MEDIUM,20.0,True,1,False,2.0,30.6,41.6,38.0,False,4.5,101.956,True,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,38.0,3.0,HARD,1.0,True,1,False,7.0,30.4,41.4,39.0,False,4.9,121.015,True,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,39.0,3.0,HARD,2.0,True,1,True,7.0,30.2,41.2,39.0,False,3.4,99.881,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,40.0,3.0,HARD,3.0,True,1,True,6.0,30.4,41.0,39.0,False,2.5,99.737,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,41.0,3.0,HARD,4.0,True,1,True,6.0,30.5,41.4,39.0,False,2.5,100.837,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,42.0,3.0,HARD,5.0,True,1,True,6.0,30.8,41.9,38.0,False,2.4,100.763,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,43.0,3.0,HARD,6.0,True,1,True,6.0,30.9,42.1,38.0,False,4.0,101.046,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,44.0,3.0,HARD,7.0,True,1,True,6.0,30.9,41.8,38.0,False,5.0,101.277,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,45.0,3.0,HARD,8.0,True,1,True,6.0,30.6,40.7,39.0,False,3.4,100.684,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,46.0,3.0,HARD,9.0,True,1,True,6.0,30.6,41.3,39.0,False,1.7,100.727,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,47.0,3.0,HARD,10.0,True,1,True,6.0,30.8,41.3,38.0,False,1.5,100.759,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,48.0,3.0,HARD,11.0,True,1,True,6.0,31.0,41.7,38.0,False,3.2,100.528,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,49.0,3.0,HARD,12.0,True,1,True,6.0,30.9,41.0,39.0,False,4.5,100.319,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,50.0,3.0,HARD,13.0,True,1,True,6.0,30.9,40.8,39.0,False,3.2,100.129,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,51.0,3.0,HARD,14.0,True,1,True,6.0,31.0,41.1,40.0,False,3.7,100.268,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,52.0,3.0,HARD,15.0,True,1,True,6.0,30.9,41.3,39.0,False,1.6,101.107,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,53.0,3.0,HARD,16.0,True,1,True,5.0,30.9,41.3,39.0,False,2.4,100.38,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,54.0,3.0,HARD,17.0,True,1,True,5.0,30.7,40.8,39.0,False,2.4,100.956,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,55.0,3.0,HARD,18.0,True,1,True,5.0,30.8,40.5,40.0,False,3.2,100.875,False,56,2023,18,United States Grand Prix,2023_18
+PER,Red Bull Racing,56.0,3.0,HARD,19.0,True,1,True,5.0,30.8,40.2,41.0,False,3.4,101.059,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,29.9,40.8,42.0,False,2.9,107.629,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,29.8,40.8,42.0,False,3.0,104.818,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,29.9,40.7,41.0,False,2.9,103.473,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,29.9,40.7,41.0,False,4.0,101.994,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,29.9,40.6,42.0,False,4.0,102.394,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,30.0,40.6,43.0,False,3.9,102.814,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,30.0,41.0,41.0,False,3.2,102.701,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,30.0,41.1,41.0,False,3.4,103.38,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,30.0,41.1,41.0,False,2.4,103.062,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,30.0,40.4,41.0,False,3.2,102.655,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,30.0,40.7,41.0,False,3.4,103.172,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,30.0,40.0,42.0,False,3.5,102.559,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,30.3,41.5,41.0,False,1.1,102.82,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,30.4,41.5,39.0,False,1.5,103.111,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,30.4,41.5,39.0,False,2.5,103.409,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,30.3,41.6,39.0,False,2.2,102.932,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,30.4,41.5,38.0,False,1.8,103.082,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,30.5,41.8,39.0,False,5.0,102.655,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,30.3,41.5,40.0,False,6.6,103.038,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,30.2,41.6,40.0,False,3.5,103.378,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,False,3.0,30.1,41.3,40.0,False,2.2,104.164,True,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,22.0,2.0,HARD,1.0,True,1,False,8.0,30.2,41.3,39.0,False,2.5,122.793,True,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,23.0,2.0,HARD,2.0,True,1,True,7.0,30.3,41.4,39.0,False,2.5,101.437,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,24.0,2.0,HARD,3.0,True,1,True,7.0,30.4,42.0,38.0,False,1.3,101.875,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,25.0,2.0,HARD,4.0,True,1,True,7.0,30.7,41.6,37.0,False,4.5,102.377,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,26.0,2.0,HARD,5.0,True,1,True,7.0,30.4,41.2,38.0,False,4.0,101.943,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,27.0,2.0,HARD,6.0,True,1,True,7.0,30.4,41.0,39.0,False,4.0,101.875,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,28.0,2.0,HARD,7.0,True,1,True,7.0,30.5,41.4,37.0,False,5.3,101.867,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,29.0,2.0,HARD,8.0,True,1,True,7.0,30.5,41.2,37.0,False,5.3,101.574,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,30.0,2.0,HARD,9.0,True,1,True,7.0,30.4,41.0,37.0,False,4.8,102.729,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,31.0,2.0,HARD,10.0,True,1,True,7.0,30.1,41.0,38.0,False,3.0,101.93,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,32.0,2.0,HARD,11.0,True,1,True,7.0,30.4,41.0,37.0,False,4.1,102.299,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,33.0,2.0,HARD,12.0,True,1,True,7.0,30.7,41.6,37.0,False,6.1,102.097,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,34.0,2.0,HARD,13.0,True,1,True,7.0,30.5,41.8,38.0,False,6.0,101.896,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,35.0,2.0,HARD,14.0,True,1,True,7.0,30.5,41.1,38.0,False,3.7,102.128,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,36.0,2.0,HARD,15.0,True,1,True,6.0,30.5,41.6,39.0,False,4.9,102.071,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,37.0,2.0,HARD,16.0,True,1,True,6.0,30.6,41.6,38.0,False,4.5,102.065,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,38.0,2.0,HARD,17.0,True,1,True,6.0,30.4,41.4,39.0,False,4.9,102.533,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,39.0,2.0,HARD,18.0,True,1,False,6.0,30.2,41.2,39.0,False,3.4,102.2,True,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,40.0,3.0,MEDIUM,1.0,True,1,False,9.0,30.4,41.0,39.0,False,2.5,119.773,True,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,41.0,3.0,MEDIUM,2.0,True,1,True,8.0,30.7,41.5,39.0,False,1.2,99.738,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,42.0,3.0,MEDIUM,3.0,True,1,True,8.0,30.8,41.9,38.0,False,2.4,100.116,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,43.0,3.0,MEDIUM,4.0,True,1,True,7.0,30.9,42.1,38.0,False,4.0,99.926,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,44.0,3.0,MEDIUM,5.0,True,1,True,7.0,30.8,41.7,39.0,False,4.6,99.809,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,45.0,3.0,MEDIUM,6.0,True,1,True,7.0,30.6,40.7,39.0,False,3.4,99.845,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,46.0,3.0,MEDIUM,7.0,True,1,True,7.0,30.6,41.3,39.0,False,1.7,99.987,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,47.0,3.0,MEDIUM,8.0,True,1,True,7.0,30.9,41.3,38.0,False,1.6,99.91,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,48.0,3.0,MEDIUM,9.0,True,1,True,7.0,31.0,41.7,38.0,False,3.2,99.393,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,49.0,3.0,MEDIUM,10.0,True,1,True,7.0,30.9,41.0,39.0,False,4.5,99.673,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,50.0,3.0,MEDIUM,11.0,True,1,True,7.0,30.9,40.8,39.0,False,3.2,99.676,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,51.0,3.0,MEDIUM,12.0,True,1,True,7.0,31.0,41.1,40.0,False,3.7,99.577,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,52.0,3.0,MEDIUM,13.0,True,1,True,7.0,30.9,41.3,39.0,False,1.6,100.521,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,53.0,3.0,MEDIUM,14.0,True,1,True,7.0,30.9,41.3,39.0,False,2.4,100.179,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,54.0,3.0,MEDIUM,15.0,True,1,True,7.0,30.7,40.8,39.0,False,2.4,100.175,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,55.0,3.0,MEDIUM,16.0,True,1,True,7.0,30.8,40.5,40.0,False,3.2,100.34,False,56,2023,18,United States Grand Prix,2023_18
+RUS,Mercedes,56.0,3.0,MEDIUM,17.0,True,1,True,7.0,30.8,40.2,41.0,False,3.4,100.794,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,29.9,40.8,42.0,False,2.9,108.429,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,29.8,40.8,42.0,False,3.0,104.96,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,29.9,40.7,41.0,False,2.9,105.491,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,29.9,40.7,41.0,False,4.0,102.408,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,29.9,40.6,42.0,False,4.0,102.636,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,30.0,40.6,43.0,False,3.9,102.777,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,30.0,41.0,41.0,False,3.2,102.687,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,30.0,41.1,41.0,False,3.4,103.377,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,30.0,41.1,41.0,False,2.4,103.14,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,30.0,40.4,41.0,False,3.2,103.407,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,30.0,40.7,41.0,False,3.4,103.175,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,30.0,40.0,42.0,False,3.5,102.699,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,30.3,41.5,41.0,False,1.1,103.459,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,30.4,41.5,39.0,False,1.5,103.424,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,30.4,41.5,39.0,False,2.5,103.12,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,30.3,41.6,39.0,False,2.2,103.212,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,30.4,41.5,38.0,False,1.8,103.443,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,False,5.0,30.5,41.8,39.0,False,5.0,103.92,True,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,19.0,2.0,MEDIUM,1.0,True,1,False,11.0,30.3,41.5,40.0,False,6.6,120.632,True,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,20.0,2.0,MEDIUM,2.0,True,1,True,9.0,30.1,41.3,40.0,False,2.7,101.882,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,21.0,2.0,MEDIUM,3.0,True,1,True,9.0,30.1,41.3,40.0,False,2.2,101.963,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,22.0,2.0,MEDIUM,4.0,True,1,True,9.0,30.2,41.3,39.0,False,2.5,102.598,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,23.0,2.0,MEDIUM,5.0,True,1,True,8.0,30.3,41.4,39.0,False,2.5,101.948,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,24.0,2.0,MEDIUM,6.0,True,1,True,8.0,30.4,42.0,38.0,False,1.3,102.035,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,25.0,2.0,MEDIUM,7.0,True,1,True,8.0,30.7,41.6,37.0,False,4.5,102.335,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,26.0,2.0,MEDIUM,8.0,True,1,True,8.0,30.4,41.2,38.0,False,4.0,102.323,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,27.0,2.0,MEDIUM,9.0,True,1,True,8.0,30.4,41.0,39.0,False,4.0,102.201,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,28.0,2.0,MEDIUM,10.0,True,1,True,8.0,30.5,41.4,37.0,False,5.3,102.465,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,29.0,2.0,MEDIUM,11.0,True,1,True,8.0,30.5,41.2,37.0,False,5.3,102.102,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,30.0,2.0,MEDIUM,12.0,True,1,True,8.0,30.2,41.0,38.0,False,4.0,102.368,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,31.0,2.0,MEDIUM,13.0,True,1,True,8.0,30.1,41.0,38.0,False,3.0,102.516,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,32.0,2.0,MEDIUM,14.0,True,1,True,8.0,30.4,41.0,37.0,False,4.1,102.237,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,33.0,2.0,MEDIUM,15.0,True,1,True,8.0,30.7,41.6,37.0,False,6.1,102.178,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,34.0,2.0,MEDIUM,16.0,True,1,True,8.0,30.5,41.8,38.0,False,6.0,101.983,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,35.0,2.0,MEDIUM,17.0,True,1,True,8.0,30.5,41.1,38.0,False,3.7,102.052,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,36.0,2.0,MEDIUM,18.0,True,1,True,8.0,30.5,41.6,39.0,False,4.9,103.869,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,37.0,2.0,MEDIUM,19.0,True,1,False,8.0,30.6,41.6,38.0,False,4.5,102.377,True,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,38.0,3.0,HARD,1.0,True,1,False,10.0,30.4,41.4,39.0,False,4.9,122.732,True,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,39.0,3.0,HARD,2.0,True,1,True,10.0,30.2,41.2,39.0,False,3.4,101.934,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,40.0,3.0,HARD,3.0,True,1,True,10.0,30.4,41.0,39.0,False,2.5,101.134,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,41.0,3.0,HARD,4.0,True,1,True,9.0,30.7,41.5,39.0,False,1.2,100.979,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,42.0,3.0,HARD,5.0,True,1,True,9.0,30.8,41.9,38.0,False,2.4,101.109,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,43.0,3.0,HARD,6.0,True,1,True,8.0,30.9,42.1,38.0,False,4.0,101.271,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,44.0,3.0,HARD,7.0,True,1,True,8.0,30.8,41.7,39.0,False,4.6,101.363,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,45.0,3.0,HARD,8.0,True,1,True,8.0,30.6,40.7,39.0,False,3.4,100.695,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,46.0,3.0,HARD,9.0,True,1,True,8.0,30.6,41.3,39.0,False,1.7,101.024,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,47.0,3.0,HARD,10.0,True,1,True,8.0,30.9,41.3,38.0,False,1.6,100.412,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,48.0,3.0,HARD,11.0,True,1,True,8.0,31.0,41.7,38.0,False,3.2,100.668,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,49.0,3.0,HARD,12.0,True,1,True,8.0,30.9,41.0,39.0,False,4.5,100.641,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,50.0,3.0,HARD,13.0,True,1,True,8.0,31.0,40.9,39.0,False,3.9,100.713,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,51.0,3.0,HARD,14.0,True,1,True,8.0,31.0,41.1,40.0,False,3.7,101.168,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,52.0,3.0,HARD,15.0,True,1,True,8.0,30.9,41.3,39.0,False,1.6,101.123,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,53.0,3.0,HARD,16.0,True,1,True,8.0,30.8,40.8,39.0,False,1.7,101.115,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,54.0,3.0,HARD,17.0,True,1,True,8.0,30.7,40.8,39.0,False,2.4,100.963,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,55.0,3.0,HARD,18.0,True,1,True,8.0,30.8,40.5,40.0,False,3.2,101.087,False,56,2023,18,United States Grand Prix,2023_18
+GAS,Alpine,56.0,3.0,HARD,19.0,True,12,True,8.0,30.8,40.4,41.0,False,3.2,101.399,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,1.0,1.0,HARD,1.0,True,1,False,20.0,29.9,40.8,42.0,False,2.9,114.949,True,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,2.0,1.0,HARD,2.0,True,1,True,20.0,29.8,40.8,42.0,False,3.0,104.567,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,3.0,1.0,HARD,3.0,True,1,True,20.0,29.9,40.7,41.0,False,2.9,104.207,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,4.0,1.0,HARD,4.0,True,1,True,20.0,29.9,40.7,41.0,False,4.0,105.66,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,5.0,1.0,HARD,5.0,True,1,True,19.0,30.0,40.5,43.0,False,2.5,104.919,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,6.0,1.0,HARD,6.0,True,1,True,18.0,30.0,40.6,43.0,False,3.9,103.424,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,7.0,1.0,HARD,7.0,True,1,True,18.0,30.0,41.0,41.0,False,3.2,103.864,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,8.0,1.0,HARD,8.0,True,1,True,18.0,30.0,41.1,41.0,False,3.4,104.014,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,9.0,1.0,HARD,9.0,True,1,True,18.0,30.0,41.1,41.0,False,2.4,103.852,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,10.0,1.0,HARD,10.0,True,1,True,16.0,30.0,40.4,41.0,False,3.2,104.246,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,11.0,1.0,HARD,11.0,True,1,True,13.0,30.0,40.7,41.0,False,3.4,103.411,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,12.0,1.0,HARD,12.0,True,1,True,12.0,30.0,40.8,42.0,False,3.5,103.003,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,13.0,1.0,HARD,13.0,True,1,True,12.0,30.3,41.5,41.0,False,1.1,103.343,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,14.0,1.0,HARD,14.0,True,1,True,12.0,30.4,41.5,39.0,False,1.5,103.15,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,15.0,1.0,HARD,15.0,True,1,True,12.0,30.4,41.5,39.0,False,2.5,103.51,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,16.0,1.0,HARD,16.0,True,1,True,12.0,30.5,41.5,38.0,False,3.2,103.148,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,17.0,1.0,HARD,17.0,True,1,True,12.0,30.4,41.5,38.0,False,1.8,103.581,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,18.0,1.0,HARD,18.0,True,1,True,11.0,30.5,41.8,39.0,False,5.0,104.135,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,19.0,1.0,HARD,19.0,True,1,True,10.0,30.2,41.6,40.0,False,4.3,103.523,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,20.0,1.0,HARD,20.0,True,1,False,10.0,30.2,41.6,40.0,False,3.5,103.805,True,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,21.0,2.0,MEDIUM,1.0,False,1,False,16.0,30.1,41.3,40.0,False,2.2,122.975,True,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,22.0,2.0,MEDIUM,2.0,False,1,True,16.0,30.2,41.3,39.0,False,2.5,101.825,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,23.0,2.0,MEDIUM,3.0,False,1,True,16.0,30.3,41.4,39.0,False,2.5,102.29,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,24.0,2.0,MEDIUM,4.0,False,1,True,16.0,30.7,42.0,37.0,False,3.7,102.367,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,25.0,2.0,MEDIUM,5.0,False,1,True,15.0,30.7,41.6,37.0,False,4.5,102.034,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,26.0,2.0,MEDIUM,6.0,False,1,True,14.0,30.4,41.2,38.0,False,4.0,102.273,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,27.0,2.0,MEDIUM,7.0,False,1,True,13.0,30.4,41.3,38.0,False,4.0,103.576,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,28.0,2.0,MEDIUM,8.0,False,1,True,12.0,30.5,41.4,37.0,False,5.3,101.595,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,29.0,2.0,MEDIUM,9.0,False,1,True,12.0,30.5,41.2,37.0,False,5.3,101.447,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,30.0,2.0,MEDIUM,10.0,False,1,True,11.0,30.2,41.0,38.0,False,4.0,101.401,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,31.0,2.0,MEDIUM,11.0,False,1,True,11.0,30.3,41.2,38.0,False,2.4,101.479,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,32.0,2.0,MEDIUM,12.0,False,1,True,11.0,30.4,41.0,37.0,False,4.1,101.469,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,33.0,2.0,MEDIUM,13.0,False,1,True,11.0,30.7,41.6,37.0,False,6.1,101.68,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,34.0,2.0,MEDIUM,14.0,False,1,True,11.0,30.5,41.5,38.0,False,4.9,101.538,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,35.0,2.0,MEDIUM,15.0,False,1,True,10.0,30.5,41.1,38.0,False,3.7,101.615,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,36.0,2.0,MEDIUM,16.0,False,1,True,10.0,30.5,41.6,39.0,False,4.9,101.631,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,37.0,2.0,MEDIUM,17.0,False,1,True,10.0,30.5,41.5,38.0,False,5.0,101.614,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,38.0,2.0,MEDIUM,18.0,False,1,True,9.0,30.4,41.4,39.0,False,4.9,101.361,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,39.0,2.0,MEDIUM,19.0,False,1,True,9.0,30.2,41.2,39.0,False,3.4,101.276,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,40.0,2.0,MEDIUM,20.0,False,1,False,8.0,30.4,41.0,39.0,False,2.5,101.931,True,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,41.0,3.0,MEDIUM,1.0,True,1,False,11.0,30.5,41.4,39.0,False,2.5,119.41,True,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,42.0,3.0,MEDIUM,2.0,True,1,True,11.0,30.8,41.9,38.0,False,2.4,100.544,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,43.0,3.0,MEDIUM,3.0,True,1,True,11.0,30.9,42.1,38.0,False,4.0,100.783,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,44.0,3.0,MEDIUM,4.0,True,1,True,11.0,30.8,41.7,39.0,False,4.6,100.259,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,45.0,3.0,MEDIUM,5.0,True,1,True,11.0,30.5,40.7,39.0,False,5.0,100.038,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,46.0,3.0,MEDIUM,6.0,True,1,True,11.0,30.6,41.3,39.0,False,1.7,100.35,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,47.0,3.0,MEDIUM,7.0,True,1,True,10.0,30.9,41.3,38.0,False,1.6,99.971,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,48.0,3.0,MEDIUM,8.0,True,1,True,9.0,31.0,41.6,38.0,False,3.9,99.908,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,49.0,3.0,MEDIUM,9.0,True,1,True,9.0,30.9,41.0,39.0,False,4.5,100.176,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,50.0,3.0,MEDIUM,10.0,True,1,True,9.0,31.0,40.9,39.0,False,3.9,99.984,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,51.0,3.0,MEDIUM,11.0,True,1,True,9.0,30.9,40.9,40.0,False,1.2,100.224,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,52.0,3.0,MEDIUM,12.0,True,1,True,9.0,30.9,41.3,39.0,False,1.6,100.53,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,53.0,3.0,MEDIUM,13.0,True,1,True,9.0,30.8,40.8,39.0,False,1.7,100.372,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,54.0,3.0,MEDIUM,14.0,True,1,True,9.0,30.8,41.0,40.0,False,2.5,100.636,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,55.0,3.0,MEDIUM,15.0,True,1,True,9.0,30.8,40.5,40.0,False,3.2,100.343,False,56,2023,18,United States Grand Prix,2023_18
+STR,Aston Martin,56.0,3.0,MEDIUM,16.0,True,12,True,9.0,30.8,40.4,41.0,False,3.2,100.842,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,29.9,40.8,42.0,False,2.9,109.255,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,29.8,40.8,42.0,False,3.0,104.82,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,29.9,40.7,41.0,False,2.9,105.158,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,29.9,40.7,41.0,False,4.0,103.281,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,29.9,40.6,42.0,False,4.0,103.084,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,30.0,40.6,43.0,False,3.9,103.266,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,30.0,41.0,41.0,False,3.2,103.314,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,30.0,41.1,41.0,False,3.4,103.392,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,30.0,41.1,41.0,False,2.4,103.425,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,30.0,40.4,41.0,False,3.2,103.232,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,30.0,40.7,41.0,False,3.4,103.284,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,30.0,40.0,42.0,False,3.5,103.007,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,30.3,41.5,41.0,False,1.1,103.428,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,30.4,41.5,39.0,False,1.5,103.486,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,30.4,41.5,39.0,False,2.5,103.434,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,30.3,41.6,39.0,False,2.2,103.601,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,1,False,8.0,30.4,41.5,38.0,False,1.8,103.535,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,18.0,2.0,HARD,1.0,True,1,False,13.0,30.5,41.8,39.0,False,5.0,122.297,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,19.0,2.0,HARD,2.0,True,1,True,13.0,30.2,41.6,40.0,False,4.3,102.014,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,20.0,2.0,HARD,3.0,True,1,True,11.0,30.1,41.3,40.0,False,2.7,102.118,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,21.0,2.0,HARD,4.0,True,1,True,10.0,30.1,41.3,40.0,False,2.2,101.942,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,22.0,2.0,HARD,5.0,True,1,True,10.0,30.2,41.3,39.0,False,2.5,102.485,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,23.0,2.0,HARD,6.0,True,1,True,9.0,30.3,41.4,39.0,False,2.5,102.226,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,24.0,2.0,HARD,7.0,True,1,True,9.0,30.4,42.0,38.0,False,1.3,102.292,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,25.0,2.0,HARD,8.0,True,1,True,9.0,30.7,41.6,37.0,False,4.5,102.341,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,26.0,2.0,HARD,9.0,True,1,True,9.0,30.4,41.2,38.0,False,4.0,102.942,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,27.0,2.0,HARD,10.0,True,1,True,9.0,30.4,41.3,38.0,False,4.0,102.666,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,28.0,2.0,HARD,11.0,True,1,True,9.0,30.5,41.4,37.0,False,5.3,102.588,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,29.0,2.0,HARD,12.0,True,1,True,9.0,30.5,41.2,37.0,False,5.3,102.243,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,30.0,2.0,HARD,13.0,True,1,True,9.0,30.2,41.0,38.0,False,4.0,102.475,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,31.0,2.0,HARD,14.0,True,1,True,9.0,30.1,41.0,38.0,False,3.0,102.427,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,32.0,2.0,HARD,15.0,True,1,True,9.0,30.4,41.0,37.0,False,4.1,102.5,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,33.0,2.0,HARD,16.0,True,1,True,9.0,30.7,41.6,37.0,False,6.1,102.471,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,34.0,2.0,HARD,17.0,True,1,False,9.0,30.5,41.8,38.0,False,6.0,102.676,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,35.0,3.0,MEDIUM,1.0,True,1,False,11.0,30.5,41.1,38.0,False,3.7,121.787,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,36.0,3.0,MEDIUM,2.0,True,1,True,11.0,30.5,41.6,39.0,False,4.9,101.71,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,37.0,3.0,MEDIUM,3.0,True,1,True,11.0,30.5,41.5,38.0,False,5.0,101.477,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,38.0,3.0,MEDIUM,4.0,True,1,True,11.0,30.4,41.4,39.0,False,4.5,101.832,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,39.0,3.0,MEDIUM,5.0,True,1,True,11.0,30.2,41.2,39.0,False,3.4,101.782,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,40.0,3.0,MEDIUM,6.0,True,1,True,11.0,30.4,41.0,39.0,False,2.5,101.439,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,41.0,3.0,MEDIUM,7.0,True,1,True,10.0,30.7,41.5,39.0,False,1.2,101.316,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,42.0,3.0,MEDIUM,8.0,True,1,True,10.0,30.8,41.9,38.0,False,2.4,101.545,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,43.0,3.0,MEDIUM,9.0,True,1,True,9.0,30.9,42.1,38.0,False,4.0,101.327,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,44.0,3.0,MEDIUM,10.0,True,1,True,10.0,30.8,41.7,39.0,False,4.6,102.652,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,45.0,3.0,MEDIUM,11.0,True,1,True,10.0,30.6,40.7,39.0,False,3.4,101.392,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,46.0,3.0,MEDIUM,12.0,True,1,True,10.0,30.6,41.3,39.0,False,1.7,101.05,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,47.0,3.0,MEDIUM,13.0,True,1,True,11.0,30.9,41.3,38.0,False,1.6,101.954,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,48.0,3.0,MEDIUM,14.0,True,1,True,10.0,31.0,41.6,38.0,False,3.9,102.64,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,49.0,3.0,MEDIUM,15.0,True,1,True,10.0,30.9,41.0,39.0,False,4.5,100.909,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,50.0,3.0,MEDIUM,16.0,True,1,True,10.0,31.0,40.9,39.0,False,3.9,100.632,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,51.0,3.0,MEDIUM,17.0,True,1,True,10.0,30.9,40.9,40.0,False,1.2,100.603,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,52.0,3.0,MEDIUM,18.0,True,1,True,10.0,30.9,41.3,39.0,False,1.6,100.695,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,53.0,3.0,MEDIUM,19.0,True,1,True,10.0,30.8,40.8,39.0,False,1.7,100.562,False,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,54.0,3.0,MEDIUM,20.0,True,1,False,10.0,30.8,41.0,40.0,False,2.5,101.299,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,55.0,4.0,SOFT,1.0,True,1,False,10.0,30.8,40.5,40.0,False,3.2,122.3,True,56,2023,18,United States Grand Prix,2023_18
+TSU,AlphaTauri,56.0,4.0,SOFT,2.0,True,12,True,10.0,30.8,40.4,41.0,False,3.2,98.139,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,1.0,1.0,MEDIUM,4.0,False,1,False,14.0,29.9,40.8,42.0,False,2.9,110.368,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,2.0,1.0,MEDIUM,5.0,False,1,True,14.0,29.8,40.8,42.0,False,3.0,105.576,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,3.0,1.0,MEDIUM,6.0,False,1,True,14.0,29.9,40.7,41.0,False,2.9,104.644,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,4.0,1.0,MEDIUM,7.0,False,1,True,13.0,29.9,40.7,41.0,False,4.0,104.873,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,5.0,1.0,MEDIUM,8.0,False,1,True,13.0,29.9,40.6,42.0,False,4.0,103.803,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,6.0,1.0,MEDIUM,9.0,False,1,True,13.0,30.0,40.6,43.0,False,3.9,103.62,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,7.0,1.0,MEDIUM,10.0,False,1,True,13.0,30.0,41.0,41.0,False,3.2,103.814,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,8.0,1.0,MEDIUM,11.0,False,1,True,13.0,30.0,41.1,41.0,False,3.4,104.006,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,9.0,1.0,MEDIUM,12.0,False,1,True,13.0,30.0,41.1,41.0,False,2.4,103.728,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,10.0,1.0,MEDIUM,13.0,False,1,False,11.0,30.0,40.4,41.0,False,3.2,103.152,True,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,11.0,2.0,HARD,1.0,True,1,False,16.0,30.0,40.7,41.0,False,3.4,123.675,True,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,12.0,2.0,HARD,2.0,True,1,True,15.0,30.0,40.8,42.0,False,3.5,103.292,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,13.0,2.0,HARD,3.0,True,1,True,15.0,30.4,41.5,40.0,False,1.5,103.267,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,14.0,2.0,HARD,4.0,True,1,True,15.0,30.4,41.5,39.0,False,1.5,103.164,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,15.0,2.0,HARD,5.0,True,1,True,15.0,30.4,41.5,39.0,False,2.5,103.092,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,16.0,2.0,HARD,6.0,True,1,True,15.0,30.5,41.5,38.0,False,3.2,103.131,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,17.0,2.0,HARD,7.0,True,1,True,15.0,30.4,41.5,38.0,False,2.9,103.08,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,18.0,2.0,HARD,8.0,True,1,True,15.0,30.5,41.8,39.0,False,5.0,103.007,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,19.0,2.0,HARD,9.0,True,1,True,15.0,30.2,41.6,40.0,False,4.3,103.069,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,20.0,2.0,HARD,10.0,True,1,True,13.0,30.1,41.3,40.0,False,2.7,103.029,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,21.0,2.0,HARD,11.0,True,1,True,12.0,30.1,41.3,40.0,False,2.2,102.679,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,22.0,2.0,HARD,12.0,True,1,True,12.0,30.2,41.3,39.0,False,2.5,103.298,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,23.0,2.0,HARD,13.0,True,1,True,12.0,30.3,41.4,39.0,False,2.5,103.861,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,24.0,2.0,HARD,14.0,True,1,True,12.0,30.7,42.0,37.0,False,3.7,103.614,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,25.0,2.0,HARD,15.0,True,1,True,11.0,30.7,41.6,37.0,False,4.5,103.618,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,26.0,2.0,HARD,16.0,True,1,True,11.0,30.4,41.2,38.0,False,4.0,103.218,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,27.0,2.0,HARD,17.0,True,1,True,11.0,30.4,41.3,38.0,False,4.0,102.855,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,28.0,2.0,HARD,18.0,True,1,True,11.0,30.5,41.4,37.0,False,5.3,103.006,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,29.0,2.0,HARD,19.0,True,1,False,11.0,30.5,41.2,37.0,False,5.3,102.913,True,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,30.0,3.0,MEDIUM,7.0,False,1,False,15.0,30.2,41.0,38.0,False,4.0,122.861,True,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,31.0,3.0,MEDIUM,8.0,False,1,True,15.0,30.3,41.2,38.0,False,2.4,101.927,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,32.0,3.0,MEDIUM,9.0,False,1,True,15.0,30.6,41.6,37.0,False,3.2,102.27,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,33.0,3.0,MEDIUM,10.0,False,1,True,14.0,30.7,41.6,37.0,False,6.1,102.105,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,34.0,3.0,MEDIUM,11.0,False,1,True,14.0,30.5,41.5,38.0,False,4.9,102.021,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,35.0,3.0,MEDIUM,12.0,False,1,True,13.0,30.4,41.3,39.0,False,5.0,101.861,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,36.0,3.0,MEDIUM,13.0,False,1,True,13.0,30.5,41.6,39.0,False,4.9,102.009,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,37.0,3.0,MEDIUM,14.0,False,1,True,13.0,30.5,41.5,38.0,False,5.0,101.765,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,38.0,3.0,MEDIUM,15.0,False,1,True,13.0,30.4,41.4,39.0,False,4.5,101.441,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,39.0,3.0,MEDIUM,16.0,False,1,True,13.0,30.3,41.0,39.0,False,1.7,101.732,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,40.0,3.0,MEDIUM,17.0,False,1,True,13.0,30.4,41.0,39.0,False,2.5,101.371,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,41.0,3.0,MEDIUM,18.0,False,1,True,13.0,30.7,41.5,39.0,False,1.2,102.367,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,42.0,3.0,MEDIUM,19.0,False,1,True,12.0,31.0,42.2,38.0,False,3.7,101.573,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,43.0,3.0,MEDIUM,20.0,False,1,True,12.0,30.9,42.1,38.0,False,4.0,102.202,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,44.0,3.0,MEDIUM,21.0,False,1,True,12.0,30.8,41.7,39.0,False,4.6,101.857,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,45.0,3.0,MEDIUM,22.0,False,1,True,12.0,30.5,40.7,39.0,False,5.0,101.517,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,46.0,3.0,MEDIUM,23.0,False,1,True,12.0,30.6,41.3,39.0,False,1.7,101.764,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,47.0,3.0,MEDIUM,24.0,False,1,True,12.0,30.9,41.3,38.0,False,1.6,101.675,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,48.0,3.0,MEDIUM,25.0,False,1,True,12.0,31.0,41.6,38.0,False,3.9,101.318,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,49.0,3.0,MEDIUM,26.0,False,1,True,12.0,30.9,41.0,39.0,False,4.5,101.596,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,50.0,3.0,MEDIUM,27.0,False,1,True,11.0,31.0,40.9,39.0,False,3.9,101.386,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,51.0,3.0,MEDIUM,28.0,False,1,True,11.0,30.9,40.9,40.0,False,1.2,102.06,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,52.0,3.0,MEDIUM,29.0,False,1,True,11.0,30.9,41.3,39.0,False,2.4,102.909,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,53.0,3.0,MEDIUM,30.0,False,1,True,11.0,30.8,40.8,39.0,False,1.7,102.483,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,54.0,3.0,MEDIUM,31.0,False,1,True,11.0,30.8,41.0,40.0,False,2.5,102.762,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,55.0,3.0,MEDIUM,32.0,False,1,True,11.0,30.8,40.2,41.0,False,3.4,103.001,False,56,2023,18,United States Grand Prix,2023_18
+ALB,Williams,56.0,3.0,MEDIUM,33.0,False,12,True,11.0,30.8,40.4,41.0,False,3.2,102.791,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,29.9,40.8,42.0,False,2.9,111.967,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,29.8,40.8,42.0,False,3.0,105.391,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,29.9,40.7,41.0,False,2.9,104.757,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,29.9,40.7,41.0,False,4.0,105.423,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,30.0,40.5,43.0,False,2.5,103.736,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,16.0,30.0,40.6,43.0,False,3.9,103.644,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,17.0,30.0,41.0,41.0,False,3.2,104.94,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,17.0,30.0,41.1,41.0,False,3.4,104.28,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,30.0,41.1,41.0,False,2.4,103.724,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,30.0,40.4,41.0,False,3.2,104.188,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,False,12.0,30.0,40.7,41.0,False,3.4,103.57,True,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,12.0,2.0,HARD,1.0,True,1,False,18.0,30.0,40.8,42.0,False,3.5,124.136,True,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,13.0,2.0,HARD,2.0,True,1,True,17.0,30.4,41.5,40.0,False,1.5,103.183,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,14.0,2.0,HARD,3.0,True,1,True,17.0,30.4,41.5,39.0,False,1.5,103.099,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,15.0,2.0,HARD,4.0,True,1,True,17.0,30.4,41.5,39.0,False,2.5,102.693,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,16.0,2.0,HARD,5.0,True,1,True,17.0,30.5,41.5,38.0,False,3.2,103.071,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,17.0,2.0,HARD,6.0,True,1,True,17.0,30.4,41.5,38.0,False,2.9,102.415,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,18.0,2.0,HARD,7.0,True,1,True,17.0,30.5,41.8,39.0,False,5.0,102.46,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,19.0,2.0,HARD,8.0,True,1,True,17.0,30.2,41.6,40.0,False,4.3,102.481,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,20.0,2.0,HARD,9.0,True,1,True,15.0,30.1,41.3,40.0,False,2.7,102.777,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,21.0,2.0,HARD,10.0,True,1,True,15.0,30.1,41.3,40.0,False,2.2,103.587,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,22.0,2.0,HARD,11.0,True,1,True,15.0,30.2,41.3,39.0,False,2.5,103.214,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,23.0,2.0,HARD,12.0,True,1,True,14.0,30.3,41.4,39.0,False,2.5,103.732,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,24.0,2.0,HARD,13.0,True,1,True,14.0,30.7,42.0,37.0,False,3.7,103.454,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,25.0,2.0,HARD,14.0,True,1,True,14.0,30.7,41.6,37.0,False,4.5,103.234,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,26.0,2.0,HARD,15.0,True,1,True,15.0,30.4,41.2,38.0,False,4.0,103.95,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,27.0,2.0,HARD,16.0,True,1,True,14.0,30.4,41.3,38.0,False,4.0,104.066,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,28.0,2.0,HARD,17.0,True,1,True,14.0,30.5,41.4,37.0,False,4.5,103.4,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,29.0,2.0,HARD,18.0,True,1,True,13.0,30.5,41.2,37.0,False,5.3,102.904,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,30.0,2.0,HARD,19.0,True,1,True,12.0,30.2,41.0,38.0,False,4.0,103.039,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,31.0,2.0,HARD,20.0,True,1,True,13.0,30.3,41.2,38.0,False,2.4,103.683,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,32.0,2.0,HARD,21.0,True,1,False,13.0,30.4,41.0,37.0,False,4.1,103.953,True,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,33.0,3.0,MEDIUM,1.0,True,1,False,17.0,30.7,41.6,37.0,False,6.1,123.196,True,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,34.0,3.0,MEDIUM,2.0,True,1,True,16.0,30.5,41.5,38.0,False,4.9,101.238,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,35.0,3.0,MEDIUM,3.0,True,1,True,16.0,30.4,41.3,39.0,False,5.0,101.63,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,36.0,3.0,MEDIUM,4.0,True,1,True,16.0,30.6,41.6,38.0,False,4.5,101.541,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,37.0,3.0,MEDIUM,5.0,True,1,True,16.0,30.5,41.5,38.0,False,5.0,101.838,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,38.0,3.0,MEDIUM,6.0,True,1,True,15.0,30.4,41.4,39.0,False,4.5,101.57,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,39.0,3.0,MEDIUM,7.0,True,1,True,15.0,30.3,41.0,39.0,False,1.7,101.497,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,40.0,3.0,MEDIUM,8.0,True,1,True,15.0,30.4,41.0,39.0,False,2.5,101.289,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,41.0,3.0,MEDIUM,9.0,True,1,True,15.0,30.7,41.5,39.0,False,1.2,101.432,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,42.0,3.0,MEDIUM,10.0,True,1,True,15.0,31.0,42.2,38.0,False,3.7,101.665,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,43.0,3.0,MEDIUM,11.0,True,1,True,15.0,30.9,42.1,38.0,False,4.0,101.806,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,44.0,3.0,MEDIUM,12.0,True,1,True,15.0,30.8,41.7,39.0,False,4.6,101.574,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,45.0,3.0,MEDIUM,13.0,True,1,True,14.0,30.5,40.7,39.0,False,5.0,101.969,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,46.0,3.0,MEDIUM,14.0,True,1,True,14.0,30.8,41.3,38.0,False,1.5,102.036,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,47.0,3.0,MEDIUM,15.0,True,1,True,14.0,30.9,41.3,38.0,False,1.6,102.097,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,48.0,3.0,MEDIUM,16.0,True,1,True,14.0,31.0,41.6,38.0,False,3.9,101.953,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,49.0,3.0,MEDIUM,17.0,True,1,True,14.0,30.9,40.8,39.0,False,3.2,101.555,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,50.0,3.0,MEDIUM,18.0,True,1,True,13.0,31.0,40.9,39.0,False,3.9,101.626,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,51.0,3.0,MEDIUM,19.0,True,1,True,13.0,30.9,40.9,40.0,False,1.2,101.916,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,52.0,3.0,MEDIUM,20.0,True,1,True,12.0,30.9,41.3,39.0,False,2.4,101.948,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,53.0,3.0,MEDIUM,21.0,True,1,True,12.0,30.8,40.8,39.0,False,1.7,103.008,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,54.0,3.0,MEDIUM,22.0,True,1,True,12.0,30.8,41.0,40.0,False,2.5,101.823,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,55.0,3.0,MEDIUM,23.0,True,1,True,12.0,30.8,40.2,41.0,False,3.4,102.494,False,56,2023,18,United States Grand Prix,2023_18
+SAR,Williams,56.0,3.0,MEDIUM,24.0,True,12,True,12.0,30.8,40.4,41.0,False,2.7,102.508,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,1.0,1.0,HARD,1.0,True,1,False,19.0,29.9,40.8,42.0,False,2.9,113.245,True,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,2.0,1.0,HARD,2.0,True,1,True,19.0,29.8,40.8,42.0,False,3.0,105.269,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,True,19.0,29.9,40.7,41.0,False,2.9,104.8,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,True,19.0,29.9,40.7,41.0,False,4.0,105.723,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,True,18.0,30.0,40.5,43.0,False,2.5,104.648,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,True,19.0,30.0,40.6,43.0,False,3.9,104.916,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,7.0,1.0,HARD,7.0,True,1,True,19.0,30.0,41.0,41.0,False,3.2,103.802,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,True,19.0,30.0,41.1,41.0,False,3.4,104.13,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,19.0,30.0,40.3,41.0,False,3.5,104.266,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,True,17.0,30.0,40.4,41.0,False,3.2,104.643,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,True,14.0,30.0,40.7,41.0,False,3.4,103.415,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,12.0,1.0,HARD,12.0,True,1,True,13.0,30.0,40.8,42.0,False,3.5,103.408,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,True,13.0,30.3,41.5,41.0,False,1.1,103.771,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,14.0,1.0,HARD,14.0,True,1,True,13.0,30.4,41.5,39.0,False,1.5,103.671,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,15.0,1.0,HARD,15.0,True,1,True,13.0,30.4,41.5,39.0,False,2.5,103.483,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,16.0,1.0,HARD,16.0,True,1,True,13.0,30.5,41.5,38.0,False,3.2,103.572,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,17.0,1.0,HARD,17.0,True,1,True,13.0,30.4,41.5,38.0,False,1.8,103.469,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,18.0,1.0,HARD,18.0,True,1,True,12.0,30.5,41.8,39.0,False,5.0,103.335,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,19.0,1.0,HARD,19.0,True,1,False,12.0,30.2,41.6,40.0,False,4.3,104.796,True,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,20.0,2.0,MEDIUM,1.0,True,1,False,18.0,30.1,41.3,40.0,False,2.7,125.273,True,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,21.0,2.0,MEDIUM,2.0,True,1,True,18.0,30.2,40.9,39.0,False,2.4,102.602,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,22.0,2.0,MEDIUM,3.0,True,1,True,18.0,30.2,41.3,39.0,False,2.5,101.964,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,23.0,2.0,MEDIUM,4.0,True,1,True,18.0,30.3,41.4,39.0,False,2.5,102.19,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,24.0,2.0,MEDIUM,5.0,True,1,True,17.0,30.7,42.0,37.0,False,3.7,102.003,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,25.0,2.0,MEDIUM,6.0,True,1,True,17.0,30.7,41.6,37.0,False,4.5,102.265,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,26.0,2.0,MEDIUM,7.0,True,1,True,17.0,30.4,41.2,38.0,False,4.0,102.329,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,27.0,2.0,MEDIUM,8.0,True,1,True,17.0,30.4,41.3,38.0,False,4.0,102.84,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,28.0,2.0,MEDIUM,9.0,True,1,True,16.0,30.5,41.4,37.0,False,4.5,102.74,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,29.0,2.0,MEDIUM,10.0,True,1,True,15.0,30.5,41.2,37.0,False,5.3,102.896,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,30.0,2.0,MEDIUM,11.0,True,1,True,13.0,30.2,41.0,38.0,False,4.0,101.874,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,31.0,2.0,MEDIUM,12.0,True,1,True,12.0,30.3,41.2,38.0,False,2.4,101.682,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,32.0,2.0,MEDIUM,13.0,True,1,True,12.0,30.4,41.0,37.0,False,4.1,102.446,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,33.0,2.0,MEDIUM,14.0,True,1,True,12.0,30.7,41.6,37.0,False,6.1,103.145,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,34.0,2.0,MEDIUM,15.0,True,1,False,12.0,30.5,41.5,38.0,False,4.9,102.889,True,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,35.0,3.0,MEDIUM,7.0,False,1,False,15.0,30.4,41.3,39.0,False,5.0,121.785,True,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,36.0,3.0,MEDIUM,8.0,False,1,True,15.0,30.6,41.6,38.0,False,4.5,101.458,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,37.0,3.0,MEDIUM,9.0,False,1,True,14.0,30.5,41.5,38.0,False,5.0,101.014,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,38.0,3.0,MEDIUM,10.0,False,1,True,14.0,30.4,41.4,39.0,False,4.5,101.175,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,39.0,3.0,MEDIUM,11.0,False,1,True,14.0,30.3,41.0,39.0,False,1.7,101.154,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,40.0,3.0,MEDIUM,12.0,False,1,True,14.0,30.4,41.0,39.0,False,2.5,101.108,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,41.0,3.0,MEDIUM,13.0,False,1,True,14.0,30.7,41.5,39.0,False,1.2,102.036,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,42.0,3.0,MEDIUM,14.0,False,1,True,14.0,31.0,42.2,38.0,False,3.7,101.736,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,43.0,3.0,MEDIUM,15.0,False,1,True,14.0,30.9,42.1,38.0,False,4.0,101.845,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,44.0,3.0,MEDIUM,16.0,False,1,True,14.0,30.8,41.7,39.0,False,4.6,102.412,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,45.0,3.0,MEDIUM,17.0,False,1,True,13.0,30.5,40.7,39.0,False,5.0,100.925,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,46.0,3.0,MEDIUM,18.0,False,1,True,13.0,30.6,41.3,39.0,False,1.7,101.864,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,47.0,3.0,MEDIUM,19.0,False,1,True,13.0,30.9,41.3,38.0,False,1.6,101.919,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,48.0,3.0,MEDIUM,20.0,False,1,True,13.0,31.0,41.6,38.0,False,3.9,101.654,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,49.0,3.0,MEDIUM,21.0,False,1,True,13.0,30.9,40.8,39.0,False,3.2,101.614,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,50.0,3.0,MEDIUM,22.0,False,1,True,12.0,31.0,40.9,39.0,False,3.9,102.462,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,51.0,3.0,MEDIUM,23.0,False,1,True,12.0,30.9,40.9,40.0,False,1.2,102.869,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,52.0,3.0,MEDIUM,24.0,False,1,True,13.0,30.9,41.3,39.0,False,2.4,103.84,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,53.0,3.0,MEDIUM,25.0,False,1,True,13.0,30.8,40.8,39.0,False,1.7,102.869,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,54.0,3.0,MEDIUM,26.0,False,1,True,13.0,30.8,41.0,40.0,False,2.5,102.65,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,55.0,3.0,MEDIUM,27.0,False,1,True,13.0,30.8,40.2,41.0,False,3.4,102.45,False,56,2023,18,United States Grand Prix,2023_18
+HUL,Haas F1 Team,56.0,3.0,MEDIUM,28.0,False,12,True,13.0,30.8,40.4,41.0,False,2.7,102.927,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,29.9,40.8,42.0,False,2.9,110.847,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,29.8,40.8,42.0,False,3.0,105.494,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,29.9,40.7,41.0,False,2.9,104.704,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,29.9,40.7,41.0,False,4.0,105.328,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,30.0,40.5,43.0,False,2.5,103.389,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,30.0,40.6,43.0,False,3.9,103.722,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,30.0,41.0,41.0,False,3.2,103.915,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,30.0,41.1,41.0,False,3.4,103.987,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,30.0,41.1,41.0,False,2.4,103.664,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,False,12.0,30.0,40.4,41.0,False,3.2,104.078,True,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,11.0,2.0,HARD,1.0,True,1,False,17.0,30.0,40.7,41.0,False,3.4,123.57,True,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,12.0,2.0,HARD,2.0,True,1,True,16.0,30.0,40.8,42.0,False,3.5,103.069,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,13.0,2.0,HARD,3.0,True,1,True,16.0,30.4,41.5,40.0,False,1.5,103.173,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,14.0,2.0,HARD,4.0,True,1,True,16.0,30.4,41.5,39.0,False,1.5,103.094,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,15.0,2.0,HARD,5.0,True,1,True,16.0,30.4,41.5,39.0,False,2.5,103.224,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,16.0,2.0,HARD,6.0,True,1,True,16.0,30.5,41.5,38.0,False,3.2,103.016,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,17.0,2.0,HARD,7.0,True,1,True,16.0,30.4,41.5,38.0,False,2.9,102.603,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,18.0,2.0,HARD,8.0,True,1,True,16.0,30.5,41.8,39.0,False,5.0,103.009,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,19.0,2.0,HARD,9.0,True,1,True,16.0,30.2,41.6,40.0,False,4.3,103.406,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,20.0,2.0,HARD,10.0,True,1,True,14.0,30.1,41.3,40.0,False,2.7,102.849,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,21.0,2.0,HARD,11.0,True,1,True,13.0,30.1,41.3,40.0,False,2.2,102.902,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,22.0,2.0,HARD,12.0,True,1,True,14.0,30.2,41.3,39.0,False,2.5,103.844,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,23.0,2.0,HARD,13.0,True,1,True,13.0,30.3,41.4,39.0,False,2.5,103.611,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,24.0,2.0,HARD,14.0,True,1,True,13.0,30.7,42.0,37.0,False,3.7,103.731,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,25.0,2.0,HARD,15.0,True,1,True,13.0,30.7,41.6,37.0,False,4.5,103.735,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,26.0,2.0,HARD,16.0,True,1,True,13.0,30.4,41.2,38.0,False,4.0,103.455,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,27.0,2.0,HARD,17.0,True,1,True,12.0,30.4,41.3,38.0,False,4.0,103.4,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,28.0,2.0,HARD,18.0,True,1,False,13.0,30.5,41.4,37.0,False,5.3,104.289,True,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,29.0,3.0,HARD,1.0,True,1,False,17.0,30.5,41.2,37.0,False,5.3,123.1,True,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,30.0,3.0,HARD,2.0,True,1,True,16.0,30.2,41.0,38.0,False,4.0,102.281,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,31.0,3.0,HARD,3.0,True,1,True,16.0,30.3,41.2,38.0,False,2.4,102.332,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,32.0,3.0,HARD,4.0,True,1,True,16.0,30.6,41.6,37.0,False,3.2,102.355,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,33.0,3.0,HARD,5.0,True,1,True,15.0,30.7,41.6,37.0,False,6.1,102.655,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,34.0,3.0,HARD,6.0,True,1,True,15.0,30.5,41.5,38.0,False,4.9,102.736,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,35.0,3.0,HARD,7.0,True,1,True,14.0,30.4,41.3,39.0,False,5.0,102.58,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,36.0,3.0,HARD,8.0,True,1,True,14.0,30.6,41.6,38.0,False,4.5,102.454,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,37.0,3.0,HARD,9.0,True,1,True,15.0,30.5,41.5,38.0,False,5.0,103.227,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,38.0,3.0,HARD,10.0,True,1,True,16.0,30.4,41.4,39.0,False,4.5,103.604,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,39.0,3.0,HARD,11.0,True,1,True,16.0,30.3,41.0,39.0,False,1.7,102.52,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,40.0,3.0,HARD,12.0,True,1,True,16.0,30.4,41.0,39.0,False,2.5,102.426,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,41.0,3.0,HARD,13.0,True,1,True,16.0,30.7,41.5,39.0,False,1.2,102.342,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,42.0,3.0,HARD,14.0,True,1,True,16.0,31.0,42.2,38.0,False,3.7,102.685,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,43.0,3.0,HARD,15.0,True,1,True,16.0,30.9,41.8,38.0,False,5.0,102.282,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,44.0,3.0,HARD,16.0,True,1,True,16.0,30.8,41.7,39.0,False,4.6,102.311,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,45.0,3.0,HARD,17.0,True,1,True,16.0,30.5,40.7,39.0,False,5.0,102.539,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,46.0,3.0,HARD,18.0,True,1,True,16.0,30.8,41.3,38.0,False,1.5,102.395,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,47.0,3.0,HARD,19.0,True,1,True,16.0,30.9,41.3,38.0,False,1.6,102.446,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,48.0,3.0,HARD,20.0,True,1,True,15.0,31.0,41.6,38.0,False,3.9,102.228,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,49.0,3.0,HARD,21.0,True,1,True,15.0,30.9,40.8,39.0,False,3.2,102.169,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,50.0,3.0,HARD,22.0,True,1,True,14.0,31.0,40.9,39.0,False,3.9,102.08,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,51.0,3.0,HARD,23.0,True,1,True,14.0,30.9,40.9,40.0,False,1.2,102.308,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,52.0,3.0,HARD,24.0,True,1,True,14.0,30.9,41.3,39.0,False,2.4,102.058,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,53.0,3.0,HARD,25.0,True,1,True,14.0,30.7,40.8,39.0,False,2.4,102.156,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,54.0,3.0,HARD,26.0,True,1,True,14.0,30.8,41.0,40.0,False,2.5,101.972,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,55.0,3.0,HARD,27.0,True,1,True,14.0,30.8,40.2,41.0,False,3.4,102.918,False,56,2023,18,United States Grand Prix,2023_18
+BOT,Alfa Romeo,56.0,3.0,HARD,28.0,True,12,True,14.0,30.8,40.4,41.0,False,2.7,103.696,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,29.9,40.8,42.0,False,2.9,108.931,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,29.8,40.8,42.0,False,3.0,105.658,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,29.9,40.7,41.0,False,2.9,105.043,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,29.9,40.7,41.0,False,4.0,104.264,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,29.9,40.6,42.0,False,4.0,103.624,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,30.0,40.6,43.0,False,3.9,103.322,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,30.0,41.0,41.0,False,3.2,103.606,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,30.0,41.1,41.0,False,3.4,103.615,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,False,11.0,30.0,41.1,41.0,False,2.4,103.882,True,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,10.0,2.0,HARD,1.0,True,1,False,19.0,30.0,40.4,41.0,False,3.2,124.238,True,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,11.0,2.0,HARD,2.0,True,1,True,15.0,30.0,40.7,41.0,False,3.4,102.787,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,12.0,2.0,HARD,3.0,True,1,True,14.0,30.0,40.8,42.0,False,3.5,102.81,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,13.0,2.0,HARD,4.0,True,1,True,14.0,30.4,41.5,40.0,False,1.5,103.56,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,14.0,2.0,HARD,5.0,True,1,True,14.0,30.4,41.5,39.0,False,1.5,103.45,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,15.0,2.0,HARD,6.0,True,1,True,14.0,30.4,41.5,39.0,False,2.5,103.345,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,16.0,2.0,HARD,7.0,True,1,True,14.0,30.5,41.5,38.0,False,3.2,103.132,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,17.0,2.0,HARD,8.0,True,1,True,14.0,30.4,41.5,38.0,False,1.8,103.244,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,18.0,2.0,HARD,9.0,True,1,True,14.0,30.5,41.8,39.0,False,5.0,103.132,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,19.0,2.0,HARD,10.0,True,1,True,14.0,30.2,41.6,40.0,False,4.3,103.172,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,20.0,2.0,HARD,11.0,True,1,True,12.0,30.1,41.3,40.0,False,2.7,102.845,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,21.0,2.0,HARD,12.0,True,1,True,11.0,30.1,41.3,40.0,False,2.2,103.142,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,22.0,2.0,HARD,13.0,True,1,True,11.0,30.2,41.3,39.0,False,2.5,103.657,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,23.0,2.0,HARD,14.0,True,1,True,11.0,30.3,41.4,39.0,False,2.5,103.809,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,24.0,2.0,HARD,15.0,True,1,True,11.0,30.7,42.0,37.0,False,3.7,103.917,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,25.0,2.0,HARD,16.0,True,1,True,12.0,30.7,41.6,37.0,False,4.5,105.0,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,26.0,2.0,HARD,17.0,True,1,True,12.0,30.4,41.2,38.0,False,4.0,103.69,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,27.0,2.0,HARD,18.0,True,1,False,16.0,30.4,41.3,38.0,False,4.0,107.714,True,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,28.0,3.0,HARD,1.0,True,1,False,18.0,30.5,41.4,37.0,False,4.5,124.07,True,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,29.0,3.0,HARD,2.0,True,1,True,18.0,30.4,41.0,37.0,False,4.8,102.946,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,30.0,3.0,HARD,3.0,True,1,True,17.0,30.2,41.0,38.0,False,4.0,103.042,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,31.0,3.0,HARD,4.0,True,1,True,17.0,30.3,41.2,38.0,False,2.4,102.846,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,32.0,3.0,HARD,5.0,True,1,True,17.0,30.6,41.6,37.0,False,3.2,102.223,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,33.0,3.0,HARD,6.0,True,1,True,16.0,30.7,41.6,37.0,False,6.1,102.941,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,34.0,3.0,HARD,7.0,True,1,True,17.0,30.5,41.5,38.0,False,4.9,103.772,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,35.0,3.0,HARD,8.0,True,1,True,17.0,30.4,41.3,39.0,False,5.0,103.288,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,36.0,3.0,HARD,9.0,True,1,True,17.0,30.6,41.6,38.0,False,4.5,102.713,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,37.0,3.0,HARD,10.0,True,1,True,17.0,30.5,41.5,38.0,False,5.0,103.111,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,38.0,3.0,HARD,11.0,True,1,True,17.0,30.4,41.4,39.0,False,4.5,102.219,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,39.0,3.0,HARD,12.0,True,1,True,17.0,30.3,41.0,39.0,False,1.7,102.301,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,40.0,3.0,HARD,13.0,True,1,True,17.0,30.4,41.0,39.0,False,2.5,102.085,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,41.0,3.0,HARD,14.0,True,1,True,17.0,30.7,41.5,39.0,False,1.2,102.158,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,42.0,3.0,HARD,15.0,True,1,True,17.0,31.0,42.2,38.0,False,3.7,102.816,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,43.0,3.0,HARD,16.0,True,1,True,17.0,30.9,41.8,38.0,False,5.0,102.886,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,44.0,3.0,HARD,17.0,True,1,True,17.0,30.8,41.7,39.0,False,4.6,102.931,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,45.0,3.0,HARD,18.0,True,1,True,17.0,30.5,40.7,39.0,False,5.0,102.45,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,46.0,3.0,HARD,19.0,True,1,True,17.0,30.8,41.3,38.0,False,1.5,102.113,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,47.0,3.0,HARD,20.0,True,1,True,17.0,30.9,41.3,38.0,False,1.6,102.503,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,48.0,3.0,HARD,21.0,True,1,True,16.0,31.0,41.6,38.0,False,3.9,102.106,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,49.0,3.0,HARD,22.0,True,1,True,16.0,30.9,40.8,39.0,False,3.2,102.051,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,50.0,3.0,HARD,23.0,True,1,True,15.0,31.0,41.1,40.0,False,3.7,101.927,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,51.0,3.0,HARD,24.0,True,1,True,15.0,30.9,40.9,40.0,False,1.2,101.879,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,52.0,3.0,HARD,25.0,True,1,True,15.0,30.9,41.3,39.0,False,2.4,102.158,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,53.0,3.0,HARD,26.0,True,1,True,15.0,30.7,40.8,39.0,False,2.4,102.493,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,54.0,3.0,HARD,27.0,True,1,True,15.0,30.8,41.0,40.0,False,2.5,102.441,False,56,2023,18,United States Grand Prix,2023_18
+ZHO,Alfa Romeo,55.0,3.0,HARD,28.0,True,1,True,15.0,30.8,40.2,41.0,False,3.4,105.88,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,16.0,29.9,40.8,42.0,False,2.9,111.572,True,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,29.8,40.8,42.0,False,3.0,105.395,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,29.9,40.7,41.0,False,2.9,104.642,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,29.9,40.7,41.0,False,4.0,105.433,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,30.0,40.5,43.0,False,2.5,103.618,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,30.0,40.6,43.0,False,3.9,103.521,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,30.0,41.0,41.0,False,3.2,103.874,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,30.0,41.1,41.0,False,3.4,104.096,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,30.0,41.1,41.0,False,2.4,103.824,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,False,13.0,30.0,40.4,41.0,False,3.2,104.749,True,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,11.0,2.0,HARD,1.0,True,1,False,18.0,30.0,40.7,41.0,False,3.4,124.946,True,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,12.0,2.0,HARD,2.0,True,1,True,17.0,30.0,40.8,42.0,False,3.5,103.658,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,13.0,2.0,HARD,3.0,True,1,True,18.0,30.4,41.5,40.0,False,1.5,104.629,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,14.0,2.0,HARD,4.0,True,1,True,18.0,30.4,41.5,39.0,False,1.5,103.941,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,15.0,2.0,HARD,5.0,True,1,True,18.0,30.4,41.5,39.0,False,2.5,103.867,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,16.0,2.0,HARD,6.0,True,1,True,18.0,30.5,41.5,38.0,False,3.2,103.726,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,17.0,2.0,HARD,7.0,True,1,True,18.0,30.4,41.5,38.0,False,2.9,103.225,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,18.0,2.0,HARD,8.0,True,1,True,18.0,30.5,41.8,39.0,False,5.0,102.918,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,19.0,2.0,HARD,9.0,True,1,True,18.0,30.2,41.6,40.0,False,4.3,103.133,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,20.0,2.0,HARD,10.0,True,1,True,17.0,30.1,41.3,40.0,False,2.7,103.105,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,21.0,2.0,HARD,11.0,True,1,True,17.0,30.2,40.9,39.0,False,2.4,104.551,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,22.0,2.0,HARD,12.0,True,1,True,17.0,30.2,41.3,39.0,False,2.5,103.838,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,23.0,2.0,HARD,13.0,True,1,True,17.0,30.3,41.4,39.0,False,2.5,103.784,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,24.0,2.0,HARD,14.0,True,1,True,18.0,30.7,42.0,37.0,False,3.7,104.564,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,25.0,2.0,HARD,15.0,True,1,True,18.0,30.7,41.6,37.0,False,4.5,103.893,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,26.0,2.0,HARD,16.0,True,1,True,18.0,30.4,41.2,38.0,False,4.0,103.862,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,27.0,2.0,HARD,17.0,True,1,True,18.0,30.4,41.3,38.0,False,4.0,103.822,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,28.0,2.0,HARD,18.0,True,1,True,17.0,30.5,41.4,37.0,False,4.5,103.913,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,29.0,2.0,HARD,19.0,True,1,False,16.0,30.5,41.2,37.0,False,5.3,104.007,True,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,30.0,3.0,MEDIUM,1.0,True,1,False,18.0,30.2,41.0,38.0,False,4.0,123.839,True,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,31.0,3.0,MEDIUM,2.0,True,1,True,18.0,30.3,41.2,38.0,False,2.4,102.909,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,32.0,3.0,MEDIUM,3.0,True,1,True,18.0,30.6,41.6,37.0,False,3.2,102.031,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,33.0,3.0,MEDIUM,4.0,True,1,True,18.0,30.5,41.8,38.0,False,6.0,102.07,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,34.0,3.0,MEDIUM,5.0,True,1,True,18.0,30.5,41.5,38.0,False,4.9,102.159,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,35.0,3.0,MEDIUM,6.0,True,1,True,18.0,30.4,41.3,39.0,False,5.0,102.115,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,36.0,3.0,MEDIUM,7.0,True,1,True,18.0,30.6,41.6,38.0,False,4.5,102.669,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,37.0,3.0,MEDIUM,8.0,True,1,True,18.0,30.5,41.5,38.0,False,5.0,102.553,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,38.0,3.0,MEDIUM,9.0,True,1,True,18.0,30.4,41.4,39.0,False,4.5,102.428,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,39.0,3.0,MEDIUM,10.0,True,1,True,18.0,30.3,41.0,39.0,False,1.7,102.296,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,40.0,3.0,MEDIUM,11.0,True,1,True,18.0,30.5,41.4,39.0,False,2.5,102.313,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,41.0,3.0,MEDIUM,12.0,True,1,True,18.0,30.7,41.5,39.0,False,1.2,101.506,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,42.0,3.0,MEDIUM,13.0,True,1,True,18.0,31.0,42.2,38.0,False,3.7,101.547,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,43.0,3.0,MEDIUM,14.0,True,1,True,18.0,30.9,41.8,38.0,False,5.0,102.509,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,44.0,3.0,MEDIUM,15.0,True,1,True,18.0,30.8,41.7,39.0,False,4.6,102.293,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,45.0,3.0,MEDIUM,16.0,True,1,True,18.0,30.5,40.7,39.0,False,5.0,102.377,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,46.0,3.0,MEDIUM,17.0,True,1,True,18.0,30.8,41.3,38.0,False,1.5,102.161,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,47.0,3.0,MEDIUM,18.0,True,1,True,18.0,30.9,41.3,38.0,False,1.6,102.281,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,48.0,3.0,MEDIUM,19.0,True,1,True,17.0,31.0,41.6,38.0,False,3.9,101.931,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,49.0,3.0,MEDIUM,20.0,True,1,True,17.0,30.9,40.8,39.0,False,3.2,101.732,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,50.0,3.0,MEDIUM,21.0,True,1,True,16.0,31.0,41.1,40.0,False,3.7,101.616,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,51.0,3.0,MEDIUM,22.0,True,1,True,16.0,30.9,40.9,40.0,False,1.2,102.208,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,52.0,3.0,MEDIUM,23.0,True,1,True,16.0,30.9,41.3,39.0,False,2.4,102.139,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,53.0,3.0,MEDIUM,24.0,True,1,True,16.0,30.7,40.8,39.0,False,2.4,102.395,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,54.0,3.0,MEDIUM,25.0,True,1,True,16.0,30.8,41.0,40.0,False,2.5,107.413,False,56,2023,18,United States Grand Prix,2023_18
+MAG,Haas F1 Team,55.0,3.0,MEDIUM,26.0,True,1,True,16.0,30.8,40.2,41.0,False,3.4,103.838,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,29.9,40.8,42.0,False,2.9,109.807,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,29.8,40.8,42.0,False,3.0,105.228,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,29.9,40.7,41.0,False,2.9,105.061,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,29.9,40.7,41.0,False,4.0,104.687,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,29.9,40.6,42.0,False,4.0,103.556,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,30.0,40.6,43.0,False,3.9,103.464,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,30.0,41.0,41.0,False,3.2,103.709,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,30.0,41.1,41.0,False,3.4,103.82,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,30.0,41.1,41.0,False,2.4,103.635,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,30.0,40.4,41.0,False,3.2,103.451,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,30.0,40.7,41.0,False,3.4,103.117,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,30.0,40.8,42.0,False,3.5,103.126,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,30.3,41.5,41.0,False,1.1,103.335,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,30.4,41.5,39.0,False,1.5,103.399,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,30.4,41.5,39.0,False,2.5,103.363,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,30.3,41.6,39.0,False,2.2,103.154,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,30.4,41.5,38.0,False,1.8,104.12,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,30.5,41.8,39.0,False,5.0,103.489,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,30.2,41.6,40.0,False,4.3,103.305,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,30.2,41.6,40.0,False,3.5,104.525,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,30.1,41.3,40.0,False,2.2,105.321,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,22.0,1.0,MEDIUM,22.0,True,1,False,7.0,30.2,41.3,39.0,False,2.5,104.235,True,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,23.0,2.0,HARD,1.0,True,1,False,15.0,30.3,41.4,39.0,False,2.5,123.516,True,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,24.0,2.0,HARD,2.0,True,1,True,15.0,30.7,42.0,37.0,False,3.7,102.542,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,25.0,2.0,HARD,3.0,True,1,True,16.0,30.7,41.6,37.0,False,4.5,103.56,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,26.0,2.0,HARD,4.0,True,1,True,16.0,30.4,41.2,38.0,False,4.0,103.547,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,27.0,2.0,HARD,5.0,True,1,True,15.0,30.4,41.3,38.0,False,4.0,104.336,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,28.0,2.0,HARD,6.0,True,1,True,15.0,30.5,41.4,37.0,False,4.5,102.796,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,29.0,2.0,HARD,7.0,True,1,True,14.0,30.5,41.2,37.0,False,5.3,103.403,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,30.0,2.0,HARD,8.0,True,1,True,14.0,30.2,41.0,38.0,False,4.0,103.87,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,31.0,2.0,HARD,9.0,True,1,True,14.0,30.3,41.2,38.0,False,2.4,103.435,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,32.0,2.0,HARD,10.0,True,1,True,14.0,30.4,41.0,37.0,False,4.1,103.198,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,33.0,2.0,HARD,11.0,True,1,True,13.0,30.7,41.6,37.0,False,6.1,103.386,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,34.0,2.0,HARD,12.0,True,1,True,13.0,30.5,41.5,38.0,False,4.9,102.895,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,35.0,2.0,HARD,13.0,True,1,True,12.0,30.4,41.3,39.0,False,5.0,103.361,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,36.0,2.0,HARD,14.0,True,1,True,12.0,30.5,41.6,39.0,False,4.9,103.083,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,37.0,2.0,HARD,15.0,True,1,True,12.0,30.5,41.5,38.0,False,5.0,103.026,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,38.0,2.0,HARD,16.0,True,1,True,12.0,30.4,41.4,39.0,False,4.5,102.456,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,39.0,2.0,HARD,17.0,True,1,True,12.0,30.2,41.2,39.0,False,3.4,102.351,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,40.0,2.0,HARD,18.0,True,1,True,12.0,30.4,41.0,39.0,False,2.5,102.567,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,41.0,2.0,HARD,19.0,True,1,True,12.0,30.7,41.5,39.0,False,1.2,103.395,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,42.0,2.0,HARD,20.0,True,1,True,13.0,31.0,42.2,38.0,False,3.7,104.394,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,43.0,2.0,HARD,21.0,True,1,True,13.0,30.9,42.1,38.0,False,4.0,103.152,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,44.0,2.0,HARD,22.0,True,1,True,13.0,30.8,41.7,39.0,False,4.6,103.49,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,45.0,2.0,HARD,23.0,True,1,True,15.0,30.5,40.7,39.0,False,5.0,104.791,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,46.0,2.0,HARD,24.0,True,1,True,15.0,30.8,41.3,38.0,False,1.5,103.429,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,47.0,2.0,HARD,25.0,True,1,False,15.0,30.9,41.3,38.0,False,1.6,103.929,True,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,48.0,3.0,SOFT,1.0,True,1,False,18.0,31.0,41.6,38.0,False,3.9,126.471,True,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,49.0,3.0,SOFT,2.0,True,1,True,18.0,30.9,40.8,39.0,False,3.2,99.366,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,50.0,3.0,SOFT,3.0,True,1,True,17.0,31.0,41.1,40.0,False,3.7,100.658,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,51.0,3.0,SOFT,4.0,True,1,True,17.0,30.9,40.9,40.0,False,1.2,100.202,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,52.0,3.0,SOFT,5.0,True,1,True,17.0,30.9,41.3,39.0,False,2.4,103.236,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,53.0,3.0,SOFT,6.0,True,1,True,17.0,30.7,40.8,39.0,False,2.4,101.577,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,54.0,3.0,SOFT,7.0,True,1,True,17.0,30.8,40.5,40.0,False,3.2,101.431,False,56,2023,18,United States Grand Prix,2023_18
+RIC,AlphaTauri,55.0,3.0,SOFT,8.0,True,1,True,17.0,30.8,40.2,41.0,False,3.4,102.458,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,False,1,False,18.0,29.9,40.8,42.0,False,2.9,112.441,True,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,False,1,True,18.0,29.8,40.8,42.0,False,3.0,105.424,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,False,1,True,18.0,29.9,40.7,41.0,False,2.9,104.736,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,False,1,True,17.0,29.9,40.7,41.0,False,4.0,105.467,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,False,1,True,17.0,30.0,40.5,43.0,False,2.5,103.792,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,False,1,True,17.0,30.0,40.6,43.0,False,3.9,103.668,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,False,1,True,16.0,30.0,41.0,41.0,False,3.2,103.581,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,False,1,True,16.0,30.0,41.1,41.0,False,3.4,103.679,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,False,1,True,16.0,30.0,41.1,41.0,False,2.4,103.775,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,False,1,True,14.0,30.0,40.4,41.0,False,3.2,104.591,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,False,1,True,11.0,30.0,40.7,41.0,False,3.4,103.152,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,False,1,True,11.0,30.0,40.8,42.0,False,3.5,102.559,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,False,1,True,11.0,30.3,41.5,41.0,False,1.1,103.108,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,False,1,True,11.0,30.4,41.5,39.0,False,1.5,103.334,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,False,1,True,11.0,30.4,41.5,39.0,False,2.5,103.152,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,False,1,True,11.0,30.5,41.5,38.0,False,3.2,102.79,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,False,1,True,11.0,30.4,41.5,38.0,False,1.8,103.818,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,False,1,True,9.0,30.5,41.8,39.0,False,5.0,104.156,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,19.0,1.0,MEDIUM,19.0,False,1,False,9.0,30.2,41.6,40.0,False,4.3,103.648,True,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,20.0,2.0,MEDIUM,1.0,True,1,False,16.0,30.2,41.6,40.0,False,3.5,122.272,True,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,21.0,2.0,MEDIUM,2.0,True,1,True,14.0,30.1,41.3,40.0,False,2.2,100.987,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,22.0,2.0,MEDIUM,3.0,True,1,True,13.0,30.2,41.3,39.0,False,2.5,101.588,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,23.0,2.0,MEDIUM,4.0,True,1,True,10.0,30.3,41.4,39.0,False,2.5,101.49,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,24.0,2.0,MEDIUM,5.0,True,1,True,10.0,30.7,42.0,37.0,False,3.7,102.185,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,25.0,2.0,MEDIUM,6.0,True,1,True,10.0,30.7,41.6,37.0,False,4.5,101.83,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,26.0,2.0,MEDIUM,7.0,True,1,True,10.0,30.4,41.2,38.0,False,4.0,101.817,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,27.0,2.0,MEDIUM,8.0,True,1,True,10.0,30.4,41.3,38.0,False,4.0,101.931,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,28.0,2.0,MEDIUM,9.0,True,1,True,10.0,30.5,41.4,37.0,False,5.3,101.657,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,29.0,2.0,MEDIUM,10.0,True,1,True,10.0,30.5,41.2,37.0,False,5.3,101.658,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,30.0,2.0,MEDIUM,11.0,True,1,True,10.0,30.2,41.0,38.0,False,4.0,101.669,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,31.0,2.0,MEDIUM,12.0,True,1,True,10.0,30.1,41.0,38.0,False,3.0,102.061,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,32.0,2.0,MEDIUM,13.0,True,1,True,10.0,30.4,41.0,37.0,False,4.1,101.893,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,33.0,2.0,MEDIUM,14.0,True,1,True,10.0,30.7,41.6,37.0,False,6.1,101.561,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,34.0,2.0,MEDIUM,15.0,True,1,True,10.0,30.5,41.8,38.0,False,6.0,101.89,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,35.0,2.0,MEDIUM,16.0,True,1,True,9.0,30.5,41.1,38.0,False,3.7,101.329,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,36.0,2.0,MEDIUM,17.0,True,1,True,9.0,30.5,41.6,39.0,False,4.9,101.875,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,37.0,2.0,MEDIUM,18.0,True,1,True,9.0,30.5,41.5,38.0,False,5.0,101.905,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,38.0,2.0,MEDIUM,19.0,True,1,True,8.0,30.4,41.4,39.0,False,4.9,101.359,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,39.0,2.0,MEDIUM,20.0,True,1,True,8.0,30.2,41.2,39.0,False,3.4,101.419,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,40.0,2.0,MEDIUM,21.0,True,1,True,7.0,30.4,41.0,39.0,False,2.5,101.376,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,41.0,2.0,MEDIUM,22.0,True,1,True,7.0,30.5,41.4,39.0,False,2.5,101.637,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,42.0,2.0,MEDIUM,23.0,True,1,False,7.0,30.8,41.9,38.0,False,2.4,102.303,True,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,43.0,3.0,HARD,1.0,True,1,False,10.0,30.9,42.1,38.0,False,4.0,121.406,True,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,44.0,3.0,HARD,2.0,True,1,True,9.0,30.8,41.7,39.0,False,4.6,100.839,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,45.0,3.0,HARD,3.0,True,1,True,9.0,30.6,40.7,39.0,False,3.4,100.376,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,46.0,3.0,HARD,4.0,True,1,True,9.0,30.6,41.3,39.0,False,1.7,100.443,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,47.0,3.0,HARD,5.0,True,1,True,9.0,30.9,41.3,38.0,False,1.6,99.954,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,48.0,3.0,HARD,6.0,True,1,True,11.0,31.0,41.7,38.0,False,3.2,108.118,False,56,2023,18,United States Grand Prix,2023_18
+ALO,Aston Martin,49.0,3.0,HARD,7.0,True,1,False,11.0,30.9,41.0,39.0,False,4.5,106.528,True,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,29.9,40.8,42.0,False,2.9,106.169,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,29.8,40.8,42.0,False,3.0,103.799,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,29.9,40.7,41.0,False,2.9,102.929,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,29.9,40.7,41.0,False,4.0,102.82,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,29.9,40.6,42.0,False,4.0,102.705,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,30.0,40.6,43.0,False,3.9,102.837,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,30.0,41.0,41.0,False,3.2,103.325,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,30.0,40.5,40.0,False,4.1,103.427,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,30.0,41.1,41.0,False,2.4,103.263,False,56,2023,18,United States Grand Prix,2023_18
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,False,18.0,30.0,40.4,41.0,False,3.2,128.29,True,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,29.9,40.8,42.0,False,2.9,107.31,False,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,29.8,40.8,42.0,False,3.0,104.789,False,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,29.9,40.7,41.0,False,2.9,106.421,False,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,18.0,29.9,40.7,41.0,False,4.0,110.009,False,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,20.0,30.0,40.5,43.0,False,2.5,108.938,False,56,2023,18,United States Grand Prix,2023_18
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,False,20.0,30.0,40.6,43.0,False,3.9,110.982,True,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,29.9,40.8,42.0,False,2.9,104.701,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,29.8,40.8,42.0,False,3.0,102.916,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,29.9,40.7,41.0,False,2.9,102.475,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,29.9,40.7,41.0,False,4.0,102.11,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,29.9,40.6,42.0,False,4.0,102.21,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,30.0,40.6,43.0,False,3.9,102.189,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,30.0,41.0,41.0,False,3.2,102.686,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,30.0,40.5,40.0,False,4.1,102.423,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,30.0,41.1,41.0,False,2.4,102.62,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,30.0,40.4,41.0,False,3.2,102.323,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,30.0,40.7,41.0,False,3.4,102.307,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,30.0,40.0,42.0,False,3.5,101.879,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,30.3,41.5,41.0,False,1.1,102.58,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,30.4,41.5,39.0,False,1.5,102.541,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,30.4,41.3,39.0,False,3.4,102.616,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,30.3,41.6,39.0,False,2.2,102.54,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,30.4,41.5,38.0,False,1.8,102.462,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,30.4,41.5,38.0,False,2.9,102.787,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,30.3,41.5,40.0,False,6.6,103.523,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,False,1.0,30.2,41.6,40.0,False,3.5,103.773,True,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,21.0,2.0,HARD,1.0,True,1,False,5.0,30.1,41.3,40.0,False,2.2,123.034,True,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,22.0,2.0,HARD,2.0,True,1,True,4.0,30.2,41.3,39.0,False,2.5,101.729,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,23.0,2.0,HARD,3.0,True,1,True,4.0,30.3,41.4,39.0,False,2.2,101.227,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,24.0,2.0,HARD,4.0,True,1,True,3.0,30.4,42.0,38.0,False,1.3,101.074,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,25.0,2.0,HARD,5.0,True,1,True,3.0,30.7,41.6,37.0,False,4.5,101.173,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,26.0,2.0,HARD,6.0,True,1,True,3.0,30.5,41.3,38.0,False,4.0,101.486,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,27.0,2.0,HARD,7.0,True,1,True,3.0,30.4,41.0,39.0,False,4.0,101.154,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,28.0,2.0,HARD,8.0,True,1,True,3.0,30.5,41.4,37.0,False,5.3,101.506,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,29.0,2.0,HARD,9.0,True,1,True,3.0,30.5,41.2,37.0,False,5.3,101.152,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,30.0,2.0,HARD,10.0,True,1,True,3.0,30.4,41.0,37.0,False,4.8,101.533,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,31.0,2.0,HARD,11.0,True,1,True,3.0,30.1,41.0,38.0,False,3.0,101.31,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,32.0,2.0,HARD,12.0,True,1,True,3.0,30.4,41.0,37.0,False,4.1,101.844,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,33.0,2.0,HARD,13.0,True,1,True,3.0,30.6,41.6,37.0,False,3.2,101.62,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,34.0,2.0,HARD,14.0,True,1,True,3.0,30.5,41.8,38.0,False,6.0,101.98,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,35.0,2.0,HARD,15.0,True,1,True,2.0,30.5,41.1,38.0,False,3.7,101.225,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,36.0,2.0,HARD,16.0,True,1,True,1.0,30.4,41.3,39.0,False,5.0,101.199,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,37.0,2.0,HARD,17.0,True,1,True,1.0,30.6,41.6,38.0,False,4.5,101.307,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,38.0,2.0,HARD,18.0,True,1,False,1.0,30.4,41.4,39.0,False,4.9,102.192,True,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,39.0,3.0,MEDIUM,1.0,True,1,False,4.0,30.4,41.4,39.0,False,4.5,120.679,True,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,40.0,3.0,MEDIUM,2.0,True,1,True,4.0,30.3,41.0,39.0,False,1.7,99.898,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,41.0,3.0,MEDIUM,3.0,True,1,True,4.0,30.5,41.4,39.0,False,2.5,99.856,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,42.0,3.0,MEDIUM,4.0,True,1,True,4.0,30.8,41.9,38.0,False,2.4,99.582,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,43.0,3.0,MEDIUM,5.0,True,1,True,3.0,31.0,42.2,38.0,False,3.7,100.258,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,44.0,3.0,MEDIUM,6.0,True,1,True,3.0,30.9,41.8,38.0,False,5.0,100.445,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,45.0,3.0,MEDIUM,7.0,True,1,True,3.0,30.6,40.7,39.0,False,3.4,100.277,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,46.0,3.0,MEDIUM,8.0,True,1,True,3.0,30.5,40.7,39.0,False,5.0,100.264,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,47.0,3.0,MEDIUM,9.0,True,1,True,3.0,30.8,41.3,38.0,False,1.5,99.972,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,48.0,3.0,MEDIUM,10.0,True,1,True,3.0,31.0,41.7,38.0,False,3.2,100.573,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,49.0,3.0,MEDIUM,11.0,True,1,True,2.0,31.0,41.6,38.0,False,3.9,100.127,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,50.0,3.0,MEDIUM,12.0,True,1,True,2.0,30.9,40.8,39.0,False,3.2,99.901,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,51.0,3.0,MEDIUM,13.0,True,1,True,2.0,31.0,41.1,40.0,False,3.7,99.819,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,52.0,3.0,MEDIUM,14.0,True,1,True,2.0,30.9,40.9,40.0,False,1.2,100.243,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,53.0,3.0,MEDIUM,15.0,True,1,True,2.0,30.9,41.3,39.0,False,2.4,99.737,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,54.0,3.0,MEDIUM,16.0,True,1,True,2.0,30.7,40.8,39.0,False,2.4,99.869,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,55.0,3.0,MEDIUM,17.0,True,1,True,2.0,30.8,41.0,40.0,False,2.5,99.938,False,56,2023,18,United States Grand Prix,2023_18
+HAM,Mercedes,56.0,3.0,MEDIUM,18.0,True,1,True,2.0,30.8,40.2,41.0,False,3.4,100.743,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,29.9,40.8,42.0,False,2.9,103.482,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,29.8,40.8,42.0,False,3.0,102.619,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,29.9,40.7,41.0,False,2.9,102.319,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,29.9,40.7,41.0,False,4.0,102.538,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,29.9,40.6,42.0,False,4.0,102.805,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,30.0,40.6,43.0,False,3.9,103.612,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,30.0,41.0,41.0,False,3.2,103.149,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,30.0,40.5,40.0,False,4.1,103.163,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,30.0,41.1,41.0,False,2.4,102.757,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,30.0,40.4,41.0,False,3.2,103.03,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,30.0,40.7,41.0,False,3.4,104.45,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,30.0,40.0,42.0,False,3.5,102.762,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,30.3,41.5,41.0,False,1.1,102.762,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,30.4,41.5,39.0,False,1.5,102.771,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,30.4,41.3,39.0,False,3.4,102.831,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,30.3,41.6,39.0,False,2.2,102.801,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,30.4,41.5,38.0,False,1.8,102.53,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,30.5,41.8,39.0,False,5.0,102.717,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,30.3,41.5,40.0,False,6.6,103.074,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,30.2,41.6,40.0,False,3.5,103.2,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,30.1,41.3,40.0,False,2.2,103.366,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,30.2,40.9,39.0,False,2.4,103.617,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,False,1.0,30.3,41.4,39.0,False,2.2,103.57,True,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,24.0,2.0,HARD,1.0,True,1,False,6.0,30.4,42.0,38.0,False,1.3,122.894,True,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,25.0,2.0,HARD,2.0,True,1,True,6.0,30.7,41.6,37.0,False,4.5,102.103,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,26.0,2.0,HARD,3.0,True,1,True,6.0,30.4,41.2,38.0,False,4.0,102.055,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,27.0,2.0,HARD,4.0,True,1,True,6.0,30.4,41.0,39.0,False,4.0,101.398,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,28.0,2.0,HARD,5.0,True,1,True,6.0,30.5,41.4,37.0,False,5.3,101.397,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,29.0,2.0,HARD,6.0,True,1,True,6.0,30.5,41.2,37.0,False,5.3,101.386,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,30.0,2.0,HARD,7.0,True,1,True,6.0,30.4,41.0,37.0,False,4.8,101.75,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,31.0,2.0,HARD,8.0,True,1,True,6.0,30.1,41.0,38.0,False,3.0,101.715,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,32.0,2.0,HARD,9.0,True,1,True,6.0,30.4,41.0,37.0,False,4.1,101.721,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,33.0,2.0,HARD,10.0,True,1,True,6.0,30.7,41.6,37.0,False,6.1,101.329,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,34.0,2.0,HARD,11.0,True,1,True,6.0,30.5,41.8,38.0,False,6.0,101.328,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,35.0,2.0,HARD,12.0,True,1,True,5.0,30.5,41.1,38.0,False,3.7,101.273,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,36.0,2.0,HARD,13.0,True,1,True,3.0,30.5,41.6,39.0,False,4.9,101.501,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,37.0,2.0,HARD,14.0,True,1,True,3.0,30.6,41.6,38.0,False,4.5,101.101,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,38.0,2.0,HARD,15.0,True,1,True,2.0,30.4,41.4,39.0,False,4.9,101.025,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,39.0,2.0,HARD,16.0,True,1,True,3.0,30.2,41.2,39.0,False,3.4,102.8,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,40.0,2.0,HARD,17.0,True,1,True,3.0,30.3,41.0,39.0,False,1.7,101.19,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,41.0,2.0,HARD,18.0,True,1,True,3.0,30.5,41.4,39.0,False,2.5,101.652,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,42.0,2.0,HARD,19.0,True,1,True,3.0,30.8,41.9,38.0,False,2.4,101.41,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,43.0,2.0,HARD,20.0,True,1,True,4.0,31.0,42.2,38.0,False,3.7,102.15,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,44.0,2.0,HARD,21.0,True,1,True,4.0,30.9,41.8,38.0,False,5.0,101.422,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,45.0,2.0,HARD,22.0,True,1,True,4.0,30.6,40.7,39.0,False,3.4,101.305,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,46.0,2.0,HARD,23.0,True,1,True,4.0,30.5,40.7,39.0,False,5.0,101.248,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,47.0,2.0,HARD,24.0,True,1,True,4.0,30.8,41.3,38.0,False,1.5,101.175,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,48.0,2.0,HARD,25.0,True,1,True,4.0,31.0,41.7,38.0,False,3.2,101.25,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,49.0,2.0,HARD,26.0,True,1,True,4.0,30.9,41.0,39.0,False,4.5,101.4,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,50.0,2.0,HARD,27.0,True,1,True,5.0,30.9,40.8,39.0,False,3.2,102.085,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,51.0,2.0,HARD,28.0,True,1,True,5.0,31.0,41.1,40.0,False,3.7,101.064,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,52.0,2.0,HARD,29.0,True,1,True,5.0,30.9,41.3,39.0,False,1.6,102.19,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,53.0,2.0,HARD,30.0,True,1,True,6.0,30.9,41.3,39.0,False,2.4,102.656,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,54.0,2.0,HARD,31.0,True,1,True,6.0,30.7,40.8,39.0,False,2.4,101.882,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,55.0,2.0,HARD,32.0,True,1,True,6.0,30.8,40.5,40.0,False,3.2,102.519,False,56,2023,18,United States Grand Prix,2023_18
+LEC,Ferrari,56.0,2.0,HARD,33.0,True,1,True,6.0,30.8,40.2,41.0,False,3.4,102.725,False,56,2023,18,United States Grand Prix,2023_18

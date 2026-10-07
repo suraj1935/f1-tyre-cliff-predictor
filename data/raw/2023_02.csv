@@ -1,0 +1,944 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,25.9,31.6,56.0,False,1.8,105.222,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,26.0,31.7,55.0,False,1.7,97.68,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,26.0,32.2,55.0,False,1.1,96.526,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,26.0,31.5,56.0,False,1.3,96.503,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,26.2,31.6,55.0,False,1.7,95.359,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,26.3,31.5,55.0,False,1.5,95.84,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,26.4,31.6,55.0,False,1.3,95.687,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,26.4,31.7,55.0,False,1.2,95.129,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,26.3,31.6,55.0,False,0.6,95.561,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,26.4,31.4,55.0,False,1.2,95.443,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,26.4,31.4,55.0,False,1.2,95.306,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,26.3,31.7,56.0,False,1.1,94.848,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,26.3,31.4,56.0,False,1.0,95.183,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,26.3,31.4,56.0,False,0.8,94.2,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,26.3,31.3,56.0,False,0.8,94.499,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,26.2,31.5,56.0,False,0.8,94.443,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,12,True,4.0,26.2,31.5,56.0,False,1.6,93.79,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,24,False,4.0,26.2,31.5,57.0,False,1.3,134.348,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,19.0,2.0,HARD,1.0,True,4,False,4.0,26.1,31.2,58.0,False,2.0,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,20.0,2.0,HARD,2.0,True,41,False,4.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,21.0,2.0,HARD,3.0,True,1,True,4.0,26.0,31.1,58.0,False,1.5,96.946,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,22.0,2.0,HARD,4.0,True,1,True,4.0,26.0,30.9,57.0,False,1.3,94.973,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,23.0,2.0,HARD,5.0,True,1,True,3.0,26.0,31.0,57.0,False,0.8,94.115,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,24.0,2.0,HARD,6.0,True,1,True,3.0,26.1,31.0,57.0,False,1.3,94.146,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,25.0,2.0,HARD,7.0,True,1,True,2.0,26.1,31.0,55.0,False,1.3,92.933,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,26.0,2.0,HARD,8.0,True,1,True,2.0,26.1,31.0,55.0,False,2.2,92.94,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,27.0,2.0,HARD,9.0,True,1,True,2.0,26.2,30.9,55.0,False,1.2,92.838,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,28.0,2.0,HARD,10.0,True,1,True,2.0,26.2,31.0,55.0,False,1.0,92.869,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,29.0,2.0,HARD,11.0,True,1,True,2.0,26.3,31.1,55.0,False,1.2,92.67,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,30.0,2.0,HARD,12.0,True,1,True,2.0,26.3,31.1,55.0,False,1.7,92.877,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,31.0,2.0,HARD,13.0,True,1,True,2.0,26.3,30.6,55.0,False,1.1,92.382,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,32.0,2.0,HARD,14.0,True,1,True,2.0,26.3,30.9,55.0,False,0.8,92.4,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,33.0,2.0,HARD,15.0,True,1,True,2.0,26.3,30.5,55.0,False,0.6,92.387,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,34.0,2.0,HARD,16.0,True,1,True,2.0,26.3,30.7,55.0,False,1.1,92.341,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,35.0,2.0,HARD,17.0,True,1,True,2.0,26.2,30.8,56.0,False,0.8,92.249,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,36.0,2.0,HARD,18.0,True,1,True,2.0,26.3,30.4,57.0,False,1.3,92.384,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,37.0,2.0,HARD,19.0,True,1,True,2.0,26.2,30.3,58.0,False,1.1,92.496,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,38.0,2.0,HARD,20.0,True,1,True,2.0,26.1,30.7,58.0,False,1.7,93.123,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,39.0,2.0,HARD,21.0,True,1,True,2.0,26.0,30.7,58.0,False,0.8,92.432,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,40.0,2.0,HARD,22.0,True,1,True,2.0,26.0,30.2,59.0,False,2.0,92.606,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,41.0,2.0,HARD,23.0,True,1,True,2.0,26.0,30.2,59.0,False,1.1,92.638,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,42.0,2.0,HARD,24.0,True,1,True,2.0,26.0,30.3,59.0,False,1.2,92.274,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,43.0,2.0,HARD,25.0,True,1,True,2.0,26.0,30.5,59.0,False,1.1,92.343,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,44.0,2.0,HARD,26.0,True,1,True,2.0,25.9,30.5,59.0,False,2.5,92.848,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,45.0,2.0,HARD,27.0,True,1,True,2.0,26.0,30.3,59.0,False,1.1,92.968,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,46.0,2.0,HARD,28.0,True,1,True,2.0,26.0,30.3,59.0,False,1.2,93.148,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,47.0,2.0,HARD,29.0,True,1,True,2.0,26.0,30.3,59.0,False,1.3,93.238,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,48.0,2.0,HARD,30.0,True,1,True,2.0,26.0,30.2,59.0,False,0.4,93.607,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,49.0,2.0,HARD,31.0,True,1,True,2.0,26.0,30.1,59.0,False,1.7,93.835,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+VER,Red Bull Racing,50.0,2.0,HARD,32.0,True,1,True,2.0,26.0,30.0,59.0,False,1.2,91.906,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,25.9,31.6,56.0,False,1.8,102.172,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,26.0,31.7,55.0,False,1.7,97.056,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,26.0,32.2,55.0,False,1.1,96.044,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,26.0,31.5,56.0,False,1.3,96.291,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,26.2,31.6,55.0,False,1.7,95.973,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,26.3,31.6,55.0,False,1.7,95.837,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,26.4,31.6,55.0,False,1.3,97.137,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,26.4,31.7,55.0,False,1.2,96.645,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,26.3,31.6,55.0,False,0.6,96.549,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,26.4,31.4,55.0,False,1.2,96.262,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,26.3,31.3,56.0,False,1.1,96.022,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,26.3,31.7,56.0,False,1.1,96.128,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,26.3,31.4,56.0,False,1.0,96.17,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,False,9.0,26.3,31.4,56.0,False,0.8,98.551,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,15.0,2.0,HARD,1.0,True,1,False,14.0,26.3,31.3,56.0,False,0.8,113.128,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,16.0,2.0,HARD,2.0,True,1,True,14.0,26.2,31.4,56.0,False,1.7,95.536,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,17.0,2.0,HARD,3.0,True,124,False,13.0,26.2,31.5,56.0,False,1.6,107.735,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,18.0,2.0,HARD,4.0,True,4,False,11.0,26.2,31.5,57.0,False,1.3,135.212,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,19.0,2.0,HARD,5.0,True,4,False,10.0,26.1,31.2,58.0,False,2.0,132.712,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,20.0,2.0,HARD,6.0,True,41,False,10.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,21.0,2.0,HARD,7.0,True,1,True,10.0,26.0,31.1,58.0,False,1.5,98.374,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,22.0,2.0,HARD,8.0,True,1,True,10.0,26.0,30.9,57.0,False,1.3,96.576,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,23.0,2.0,HARD,9.0,True,1,True,10.0,26.0,31.0,57.0,False,0.8,95.918,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,24.0,2.0,HARD,10.0,True,1,True,10.0,26.1,31.0,57.0,False,1.3,95.322,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,25.0,2.0,HARD,11.0,True,1,True,9.0,26.1,31.0,55.0,False,1.3,95.27,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,26.0,2.0,HARD,12.0,True,1,True,9.0,26.1,31.0,55.0,False,2.2,95.105,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,27.0,2.0,HARD,13.0,True,1,True,9.0,26.2,30.9,55.0,False,1.2,95.0,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,28.0,2.0,HARD,14.0,True,1,True,9.0,26.2,31.0,55.0,False,1.0,94.65,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,29.0,2.0,HARD,15.0,True,1,True,9.0,26.3,31.1,55.0,False,1.2,94.601,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,30.0,2.0,HARD,16.0,True,1,True,9.0,26.3,30.9,55.0,False,0.8,94.869,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,31.0,2.0,HARD,17.0,True,1,True,9.0,26.3,30.6,55.0,False,1.1,94.735,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,32.0,2.0,HARD,18.0,True,1,True,9.0,26.3,30.5,55.0,False,1.0,94.626,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,33.0,2.0,HARD,19.0,True,1,True,9.0,26.3,30.5,55.0,False,0.6,94.516,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,34.0,2.0,HARD,20.0,True,1,True,9.0,26.3,30.7,56.0,False,1.1,94.394,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,35.0,2.0,HARD,21.0,True,1,True,9.0,26.2,30.8,56.0,False,0.8,94.5,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,36.0,2.0,HARD,22.0,True,1,True,9.0,26.2,30.3,58.0,False,1.6,94.436,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,37.0,2.0,HARD,23.0,True,1,True,9.0,26.1,30.3,58.0,False,1.2,94.289,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,38.0,2.0,HARD,24.0,True,1,True,9.0,26.1,30.7,58.0,False,1.7,94.355,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,39.0,2.0,HARD,25.0,True,1,True,9.0,26.0,30.3,59.0,False,1.7,93.929,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,40.0,2.0,HARD,26.0,True,1,True,9.0,26.0,30.2,59.0,False,2.0,94.11,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,41.0,2.0,HARD,27.0,True,1,True,9.0,26.0,30.1,59.0,False,1.7,93.829,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,42.0,2.0,HARD,28.0,True,1,True,9.0,26.0,30.3,59.0,False,1.2,93.96,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,43.0,2.0,HARD,29.0,True,1,True,9.0,25.9,30.5,59.0,False,2.2,94.026,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,44.0,2.0,HARD,30.0,True,1,True,9.0,26.0,30.3,59.0,False,1.1,94.131,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,45.0,2.0,HARD,31.0,True,1,True,9.0,26.0,30.3,59.0,False,0.6,93.82,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,46.0,2.0,HARD,32.0,True,1,True,9.0,26.0,30.3,59.0,False,1.3,94.068,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,47.0,2.0,HARD,33.0,True,1,True,9.0,26.0,30.2,60.0,False,1.2,93.81,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,48.0,2.0,HARD,34.0,True,1,True,9.0,26.0,30.3,59.0,False,1.6,93.624,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,49.0,2.0,HARD,35.0,True,1,True,9.0,26.0,30.1,59.0,False,1.7,93.614,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+GAS,Alpine,50.0,2.0,HARD,36.0,True,1,True,9.0,25.9,30.0,60.0,False,1.1,93.392,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,25.9,31.6,56.0,False,1.8,97.257,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,26.0,31.7,55.0,False,1.7,95.906,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,26.0,32.2,55.0,False,1.1,94.829,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,26.0,31.5,56.0,False,1.3,95.651,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,26.2,31.6,55.0,False,1.7,94.873,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,26.3,31.6,55.0,False,1.7,94.621,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,26.4,31.6,55.0,False,1.3,94.277,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,26.4,31.6,55.0,False,0.6,94.477,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,26.3,31.6,55.0,False,0.6,94.255,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,26.4,31.4,55.0,False,1.2,94.106,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,26.4,31.4,55.0,False,1.2,94.075,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,26.3,31.7,56.0,False,1.1,94.16,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,26.3,31.4,56.0,False,1.2,94.263,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,26.3,31.4,56.0,False,0.8,94.409,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,26.3,31.4,56.0,False,0.8,94.392,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,26.2,31.5,56.0,False,0.8,94.19,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,12,True,1.0,26.2,31.5,56.0,False,1.6,93.961,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,24,False,1.0,26.3,31.5,56.0,False,1.2,127.357,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,19.0,2.0,HARD,1.0,True,4,False,1.0,26.2,31.3,57.0,False,0.8,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,20.0,2.0,HARD,2.0,True,41,False,1.0,26.1,31.1,58.0,False,1.2,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,21.0,2.0,HARD,3.0,True,1,True,1.0,26.0,31.1,58.0,False,1.5,94.557,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,22.0,2.0,HARD,4.0,True,1,True,1.0,26.0,30.9,57.0,False,1.3,93.895,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,23.0,2.0,HARD,5.0,True,1,True,1.0,26.0,31.0,57.0,False,0.8,93.464,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,24.0,2.0,HARD,6.0,True,1,True,1.0,26.1,31.0,57.0,False,1.3,93.44,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,25.0,2.0,HARD,7.0,True,1,True,1.0,26.1,31.0,56.0,False,1.3,93.426,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,26.0,2.0,HARD,8.0,True,1,True,1.0,26.1,31.0,55.0,False,2.2,93.072,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,27.0,2.0,HARD,9.0,True,1,True,1.0,26.2,30.9,55.0,False,1.2,92.891,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,28.0,2.0,HARD,10.0,True,1,True,1.0,26.2,31.0,55.0,False,1.0,93.025,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,29.0,2.0,HARD,11.0,True,1,True,1.0,26.3,31.1,55.0,False,1.2,92.726,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,30.0,2.0,HARD,12.0,True,1,True,1.0,26.3,31.1,55.0,False,1.7,92.726,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,31.0,2.0,HARD,13.0,True,1,True,1.0,26.3,30.6,55.0,False,1.1,92.554,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,32.0,2.0,HARD,14.0,True,1,True,1.0,26.3,30.9,55.0,False,0.8,92.498,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,33.0,2.0,HARD,15.0,True,1,True,1.0,26.3,30.5,55.0,False,0.6,92.55,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,34.0,2.0,HARD,16.0,True,1,True,1.0,26.3,30.7,55.0,False,1.1,92.294,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,35.0,2.0,HARD,17.0,True,1,True,1.0,26.2,30.8,56.0,False,0.8,92.68,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,36.0,2.0,HARD,18.0,True,1,True,1.0,26.3,30.4,57.0,False,1.3,92.292,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,37.0,2.0,HARD,19.0,True,1,True,1.0,26.2,30.3,58.0,False,1.1,92.638,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,38.0,2.0,HARD,20.0,True,1,True,1.0,26.1,30.3,58.0,False,1.2,92.188,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,39.0,2.0,HARD,21.0,True,1,True,1.0,26.0,30.7,58.0,False,0.8,93.19,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,40.0,2.0,HARD,22.0,True,1,True,1.0,26.0,30.2,59.0,False,2.0,92.83,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,41.0,2.0,HARD,23.0,True,1,True,1.0,26.0,30.2,59.0,False,1.1,92.637,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,42.0,2.0,HARD,24.0,True,1,True,1.0,26.0,30.3,59.0,False,1.2,92.235,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,43.0,2.0,HARD,25.0,True,1,True,1.0,26.0,30.5,59.0,False,1.1,92.308,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,44.0,2.0,HARD,26.0,True,1,True,1.0,25.9,30.5,59.0,False,2.5,92.267,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,45.0,2.0,HARD,27.0,True,1,True,1.0,26.0,30.3,59.0,False,1.1,92.419,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,46.0,2.0,HARD,28.0,True,1,True,1.0,26.0,30.3,59.0,False,1.2,92.933,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,47.0,2.0,HARD,29.0,True,1,True,1.0,26.0,30.3,59.0,False,1.3,92.895,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,48.0,2.0,HARD,30.0,True,1,True,1.0,26.0,30.2,59.0,False,0.4,93.075,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,49.0,2.0,HARD,31.0,True,1,True,1.0,26.0,30.3,59.0,False,1.6,93.306,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PER,Red Bull Racing,50.0,2.0,HARD,32.0,True,1,True,1.0,26.0,30.0,59.0,False,1.2,93.691,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,25.9,31.6,56.0,False,1.8,96.851,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,26.0,31.7,55.0,False,1.7,95.567,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,26.0,32.2,55.0,False,1.1,95.14,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,26.0,31.5,56.0,False,1.3,96.664,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,26.2,31.6,55.0,False,1.7,94.92,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,26.3,31.6,55.0,False,1.7,94.658,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,26.4,31.6,55.0,False,1.3,94.422,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,26.4,31.6,55.0,False,0.6,94.398,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,26.3,31.6,55.0,False,0.6,94.4,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,26.4,31.4,55.0,False,1.2,94.835,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,26.4,31.4,55.0,False,1.2,94.982,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,26.3,31.7,56.0,False,1.1,94.927,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,26.3,31.4,56.0,False,1.2,94.918,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,26.3,31.4,56.0,False,0.8,94.837,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,26.3,31.3,56.0,False,0.8,94.717,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,26.2,31.5,56.0,False,0.8,94.842,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,True,12,True,2.0,26.2,31.5,56.0,False,1.6,94.595,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,True,24,False,2.0,26.3,31.5,56.0,False,1.2,129.623,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,19.0,2.0,HARD,2.0,False,4,False,2.0,26.2,31.3,57.0,False,0.8,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,20.0,2.0,HARD,3.0,False,41,False,2.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,21.0,2.0,HARD,4.0,False,1,True,2.0,26.0,31.1,58.0,False,1.5,96.033,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,22.0,2.0,HARD,5.0,False,1,True,2.0,26.0,30.9,57.0,False,1.3,94.738,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,23.0,2.0,HARD,6.0,False,1,True,2.0,26.0,31.0,57.0,False,0.8,94.771,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,24.0,2.0,HARD,7.0,False,1,True,2.0,26.1,31.0,57.0,False,1.3,94.836,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,25.0,2.0,HARD,8.0,False,1,True,3.0,26.1,31.0,56.0,False,1.3,94.136,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,26.0,2.0,HARD,9.0,False,1,True,3.0,26.1,31.0,55.0,False,2.2,94.119,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,27.0,2.0,HARD,10.0,False,1,True,3.0,26.2,30.9,55.0,False,1.2,94.246,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,28.0,2.0,HARD,11.0,False,1,True,3.0,26.2,31.0,55.0,False,1.0,94.062,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,29.0,2.0,HARD,12.0,False,1,True,3.0,26.3,31.1,55.0,False,1.2,93.988,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,30.0,2.0,HARD,13.0,False,1,True,3.0,26.3,31.1,55.0,False,1.7,93.654,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,31.0,2.0,HARD,14.0,False,1,True,3.0,26.3,30.6,55.0,False,1.1,93.605,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,32.0,2.0,HARD,15.0,False,1,True,3.0,26.3,30.9,55.0,False,0.8,93.401,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,33.0,2.0,HARD,16.0,False,1,True,3.0,26.3,30.5,55.0,False,0.6,93.337,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,34.0,2.0,HARD,17.0,False,1,True,3.0,26.3,30.7,56.0,False,1.1,93.22,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,35.0,2.0,HARD,18.0,False,1,True,3.0,26.2,30.8,56.0,False,0.8,93.514,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,36.0,2.0,HARD,19.0,False,1,True,3.0,26.2,30.3,58.0,False,1.6,93.323,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,37.0,2.0,HARD,20.0,False,1,True,3.0,26.2,30.3,58.0,False,1.1,93.175,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,38.0,2.0,HARD,21.0,False,1,True,3.0,26.1,30.7,58.0,False,1.7,93.174,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,39.0,2.0,HARD,22.0,False,1,True,3.0,26.0,30.7,58.0,False,0.8,93.249,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,40.0,2.0,HARD,23.0,False,1,True,3.0,26.0,30.2,59.0,False,2.0,92.768,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,41.0,2.0,HARD,24.0,False,1,True,3.0,26.0,30.2,59.0,False,1.1,93.127,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,42.0,2.0,HARD,25.0,False,1,True,3.0,26.0,30.3,59.0,False,1.2,93.156,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,43.0,2.0,HARD,26.0,False,1,True,3.0,25.9,30.5,59.0,False,2.2,93.207,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,44.0,2.0,HARD,27.0,False,1,True,3.0,25.9,30.5,59.0,False,2.5,93.189,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,45.0,2.0,HARD,28.0,False,1,True,3.0,26.0,30.3,59.0,False,0.6,93.075,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,46.0,2.0,HARD,29.0,False,1,True,3.0,26.0,30.3,59.0,False,1.2,92.979,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,47.0,2.0,HARD,30.0,False,1,True,3.0,26.0,30.2,60.0,False,1.2,92.887,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,48.0,2.0,HARD,31.0,False,1,True,3.0,26.0,30.2,59.0,False,0.4,92.802,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,49.0,2.0,HARD,32.0,False,1,True,3.0,26.0,30.1,59.0,False,1.7,92.815,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALO,Aston Martin,50.0,2.0,HARD,33.0,False,1,True,3.0,26.0,30.0,59.0,False,1.2,92.24,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,1.0,1.0,SOFT,1.0,True,1,False,9.0,25.9,31.6,56.0,False,1.8,103.306,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,2.0,1.0,SOFT,2.0,True,1,True,9.0,26.0,31.7,55.0,False,1.7,96.907,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,3.0,1.0,SOFT,3.0,True,1,True,9.0,26.0,32.2,55.0,False,1.1,95.825,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,4.0,1.0,SOFT,4.0,True,1,True,9.0,26.0,31.5,56.0,False,1.3,95.871,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,5.0,1.0,SOFT,5.0,True,1,True,9.0,26.2,31.6,55.0,False,1.7,96.275,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,6.0,1.0,SOFT,6.0,True,1,True,9.0,26.3,31.6,55.0,False,1.7,95.347,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,7.0,1.0,SOFT,7.0,True,1,True,8.0,26.4,31.6,55.0,False,1.3,96.117,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,8.0,1.0,SOFT,8.0,True,1,True,8.0,26.4,31.7,55.0,False,1.2,95.858,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,9.0,1.0,SOFT,9.0,True,1,True,7.0,26.3,31.6,55.0,False,0.6,95.364,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,10.0,1.0,SOFT,10.0,True,1,True,7.0,26.4,31.4,55.0,False,1.2,95.612,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,11.0,1.0,SOFT,11.0,True,1,True,7.0,26.4,31.4,55.0,False,1.2,95.125,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,12.0,1.0,SOFT,12.0,True,1,True,7.0,26.3,31.7,56.0,False,1.1,95.438,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,13.0,1.0,SOFT,13.0,True,1,True,6.0,26.3,31.4,56.0,False,1.0,95.226,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,14.0,1.0,SOFT,14.0,True,1,True,5.0,26.3,31.4,56.0,False,0.8,94.609,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,15.0,1.0,SOFT,15.0,True,1,True,5.0,26.3,31.3,56.0,False,0.8,95.071,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,16.0,1.0,SOFT,16.0,True,1,False,5.0,26.2,31.5,56.0,False,0.8,97.681,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,17.0,2.0,HARD,1.0,True,124,False,8.0,26.2,31.5,56.0,False,1.6,119.434,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,18.0,2.0,HARD,2.0,True,4,False,7.0,26.2,31.5,57.0,False,1.3,134.267,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,19.0,2.0,HARD,3.0,True,4,False,7.0,26.1,31.2,58.0,False,2.0,143.866,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,20.0,2.0,HARD,4.0,True,41,False,7.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,21.0,2.0,HARD,5.0,True,1,True,7.0,26.0,31.1,58.0,False,1.5,98.031,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,22.0,2.0,HARD,6.0,True,1,True,7.0,26.0,30.9,57.0,False,1.3,95.7,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,23.0,2.0,HARD,7.0,True,1,True,7.0,26.0,31.0,57.0,False,0.8,94.853,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,24.0,2.0,HARD,8.0,True,1,True,7.0,26.1,31.0,57.0,False,1.3,95.403,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,25.0,2.0,HARD,9.0,True,1,True,7.0,26.1,31.0,55.0,False,1.3,94.742,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,26.0,2.0,HARD,10.0,True,1,True,7.0,26.1,31.0,55.0,False,2.2,94.432,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,27.0,2.0,HARD,11.0,True,1,True,7.0,26.2,30.9,55.0,False,1.2,94.681,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,28.0,2.0,HARD,12.0,True,1,True,7.0,26.2,31.0,55.0,False,1.0,94.886,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,29.0,2.0,HARD,13.0,True,1,True,7.0,26.3,31.1,55.0,False,1.2,94.321,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,30.0,2.0,HARD,14.0,True,1,True,7.0,26.3,31.1,55.0,False,1.7,94.334,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,31.0,2.0,HARD,15.0,True,1,True,7.0,26.3,30.6,55.0,False,1.1,94.082,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,32.0,2.0,HARD,16.0,True,1,True,7.0,26.3,30.5,55.0,False,1.0,94.701,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,33.0,2.0,HARD,17.0,True,1,True,7.0,26.3,30.5,55.0,False,0.6,93.787,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,34.0,2.0,HARD,18.0,True,1,True,7.0,26.3,30.7,56.0,False,1.1,93.716,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,35.0,2.0,HARD,19.0,True,1,True,7.0,26.2,30.8,56.0,False,0.8,94.341,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,36.0,2.0,HARD,20.0,True,1,True,7.0,26.2,30.3,58.0,False,1.6,93.749,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,37.0,2.0,HARD,21.0,True,1,True,7.0,26.2,30.3,58.0,False,1.1,93.839,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,38.0,2.0,HARD,22.0,True,1,True,7.0,26.1,30.7,58.0,False,1.7,93.713,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,39.0,2.0,HARD,23.0,True,1,True,7.0,26.0,30.3,59.0,False,1.7,93.479,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,40.0,2.0,HARD,24.0,True,1,True,7.0,26.0,30.2,59.0,False,2.0,93.569,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,41.0,2.0,HARD,25.0,True,1,True,7.0,26.0,30.1,59.0,False,1.7,93.155,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,42.0,2.0,HARD,26.0,True,1,True,7.0,26.0,30.3,59.0,False,1.2,93.384,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,43.0,2.0,HARD,27.0,True,1,True,7.0,25.9,30.5,59.0,False,2.2,93.447,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,44.0,2.0,HARD,28.0,True,1,True,7.0,25.9,30.5,59.0,False,2.5,93.322,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,45.0,2.0,HARD,29.0,True,1,True,7.0,26.0,30.3,59.0,False,0.6,93.238,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,46.0,2.0,HARD,30.0,True,1,True,7.0,26.0,30.3,59.0,False,1.2,93.419,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,47.0,2.0,HARD,31.0,True,1,True,7.0,26.0,30.2,60.0,False,1.2,93.056,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,48.0,2.0,HARD,32.0,True,1,True,7.0,26.0,30.3,59.0,False,1.6,94.119,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,49.0,2.0,HARD,33.0,True,1,True,7.0,26.0,30.1,59.0,False,1.7,93.942,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+LEC,Ferrari,50.0,2.0,HARD,34.0,True,1,True,7.0,25.9,30.0,60.0,False,1.1,96.267,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,25.9,31.6,56.0,False,1.8,99.093,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,26.0,31.7,55.0,False,1.7,96.324,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,26.0,32.2,55.0,False,1.1,95.239,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,26.0,31.5,56.0,False,1.3,95.56,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,26.2,31.6,55.0,False,1.7,95.471,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,26.3,31.6,55.0,False,1.7,95.551,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,26.4,31.6,55.0,False,1.3,95.14,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,26.4,31.7,55.0,False,1.2,95.616,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,26.3,31.6,55.0,False,0.6,96.118,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,26.4,31.4,55.0,False,1.2,95.443,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,26.4,31.4,55.0,False,1.2,95.512,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,26.3,31.7,56.0,False,1.1,96.522,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,False,5.0,26.3,31.4,56.0,False,1.0,98.543,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,14.0,2.0,HARD,2.0,False,1,False,11.0,26.3,31.4,56.0,False,0.8,114.305,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,15.0,2.0,HARD,3.0,False,1,True,10.0,26.3,31.3,56.0,False,0.8,96.262,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,16.0,2.0,HARD,4.0,False,1,True,10.0,26.2,31.4,56.0,False,1.7,96.485,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+STR,Aston Martin,17.0,2.0,HARD,5.0,False,124,False,,26.2,31.5,56.0,False,1.6,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,1.0,1.0,HARD,1.0,True,1,False,20.0,25.9,31.6,56.0,False,1.8,107.264,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,2.0,1.0,HARD,2.0,True,1,True,17.0,26.0,31.7,55.0,False,1.7,99.426,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,3.0,1.0,HARD,3.0,True,1,True,17.0,26.0,32.2,55.0,False,1.1,96.997,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,4.0,1.0,HARD,4.0,True,1,True,17.0,26.0,31.5,56.0,False,1.3,96.844,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,5.0,1.0,HARD,5.0,True,1,True,17.0,26.2,31.6,55.0,False,1.7,96.881,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,6.0,1.0,HARD,6.0,True,1,True,17.0,26.3,31.5,55.0,False,1.5,97.043,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,7.0,1.0,HARD,7.0,True,1,True,17.0,26.4,31.6,55.0,False,1.3,97.282,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,8.0,1.0,HARD,8.0,True,1,True,18.0,26.4,31.7,55.0,False,1.2,98.259,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,9.0,1.0,HARD,9.0,True,1,True,16.0,26.4,31.6,56.0,False,1.2,97.159,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,10.0,1.0,HARD,10.0,True,1,True,16.0,26.4,31.4,55.0,False,1.2,96.757,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,11.0,1.0,HARD,11.0,True,1,True,16.0,26.3,31.3,56.0,False,1.1,96.735,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,12.0,1.0,HARD,12.0,True,1,True,14.0,26.3,31.7,56.0,False,1.1,96.645,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,13.0,1.0,HARD,13.0,True,1,True,14.0,26.3,31.4,56.0,False,1.0,96.126,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,14.0,1.0,HARD,14.0,True,1,True,14.0,26.3,31.4,56.0,False,0.8,96.434,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,15.0,1.0,HARD,15.0,True,1,True,13.0,26.3,31.3,56.0,False,0.8,96.19,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,16.0,1.0,HARD,16.0,True,1,True,13.0,26.2,31.4,56.0,False,1.7,96.154,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,17.0,1.0,HARD,17.0,True,124,False,10.0,26.2,31.5,56.0,False,1.6,107.279,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,18.0,1.0,HARD,18.0,True,4,False,10.0,26.2,31.5,57.0,False,1.3,136.225,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,19.0,2.0,MEDIUM,1.0,True,4,False,15.0,26.1,31.2,58.0,False,2.0,142.638,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,20.0,2.0,MEDIUM,2.0,True,41,False,15.0,26.0,31.0,58.0,False,1.7,144.92,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,21.0,2.0,MEDIUM,3.0,True,1,True,14.0,26.0,31.1,58.0,False,1.5,98.699,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,22.0,2.0,MEDIUM,4.0,True,1,True,14.0,26.0,30.9,57.0,False,1.3,97.11,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,23.0,2.0,MEDIUM,5.0,True,1,True,14.0,26.0,31.0,57.0,False,0.8,95.822,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,24.0,2.0,MEDIUM,6.0,True,1,True,14.0,26.1,31.0,57.0,False,1.3,95.557,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,25.0,2.0,MEDIUM,7.0,True,1,True,14.0,26.1,31.0,55.0,False,1.3,95.738,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,26.0,2.0,MEDIUM,8.0,True,1,True,13.0,26.1,31.0,55.0,False,2.2,96.912,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,27.0,2.0,MEDIUM,9.0,True,1,True,13.0,26.2,30.9,55.0,False,1.2,95.604,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,28.0,2.0,MEDIUM,10.0,True,1,True,13.0,26.2,31.0,55.0,False,1.0,95.208,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,29.0,2.0,MEDIUM,11.0,True,1,True,13.0,26.3,31.1,55.0,False,1.2,94.738,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,30.0,2.0,MEDIUM,12.0,True,1,True,13.0,26.3,30.9,55.0,False,0.8,96.407,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,31.0,2.0,MEDIUM,13.0,True,1,True,13.0,26.3,30.6,55.0,False,1.1,95.039,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,32.0,2.0,MEDIUM,14.0,True,1,True,13.0,26.3,30.5,55.0,False,1.0,95.314,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,33.0,2.0,MEDIUM,15.0,True,1,True,13.0,26.3,30.5,55.0,False,0.6,95.325,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,34.0,2.0,MEDIUM,16.0,True,1,True,13.0,26.3,30.7,56.0,False,1.1,95.069,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,35.0,2.0,MEDIUM,17.0,True,1,True,13.0,26.3,30.4,57.0,False,1.3,95.523,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,36.0,2.0,MEDIUM,18.0,True,1,True,13.0,26.2,30.3,58.0,False,1.6,95.534,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,37.0,2.0,MEDIUM,19.0,True,1,True,13.0,26.1,30.3,58.0,False,1.2,95.437,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,38.0,2.0,MEDIUM,20.0,True,1,True,14.0,26.1,30.7,58.0,False,1.7,96.144,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,39.0,2.0,MEDIUM,21.0,True,1,True,14.0,26.0,30.3,59.0,False,1.7,95.718,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,40.0,2.0,MEDIUM,22.0,True,1,True,14.0,26.0,30.2,59.0,False,1.1,95.18,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,41.0,2.0,MEDIUM,23.0,True,1,True,16.0,26.0,30.1,59.0,False,1.7,95.974,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,42.0,2.0,MEDIUM,24.0,True,1,True,15.0,26.0,30.5,59.0,False,1.1,95.92,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,43.0,2.0,MEDIUM,25.0,True,1,True,15.0,25.9,30.5,59.0,False,2.2,95.229,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,44.0,2.0,MEDIUM,26.0,True,1,True,15.0,26.0,30.3,59.0,False,1.1,94.905,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,45.0,2.0,MEDIUM,27.0,True,1,True,15.0,26.0,30.3,59.0,False,1.2,95.13,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,46.0,2.0,MEDIUM,28.0,True,1,True,15.0,26.0,30.3,59.0,False,1.3,94.569,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,47.0,2.0,MEDIUM,29.0,True,1,True,15.0,26.0,30.2,59.0,False,0.4,94.896,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,48.0,2.0,MEDIUM,30.0,True,1,True,15.0,26.0,30.3,59.0,False,1.6,94.584,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,49.0,2.0,MEDIUM,31.0,True,1,True,15.0,26.0,30.0,59.0,False,1.2,94.469,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAR,Williams,50.0,2.0,MEDIUM,32.0,True,1,True,16.0,25.9,30.0,60.0,False,1.1,96.175,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,25.9,31.6,56.0,False,1.8,104.694,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,26.0,31.7,55.0,False,1.7,97.219,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,26.0,32.2,55.0,False,1.1,96.796,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,26.0,31.5,56.0,False,1.3,97.098,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,26.2,31.6,55.0,False,1.7,97.298,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,26.3,31.5,55.0,False,1.5,97.01,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,26.4,31.6,55.0,False,1.3,96.304,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,False,14.0,26.4,31.7,55.0,False,1.2,99.187,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,9.0,2.0,HARD,1.0,True,1,False,18.0,26.3,31.6,55.0,False,0.6,112.964,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,10.0,2.0,HARD,2.0,True,1,True,17.0,26.4,31.4,55.0,False,1.2,95.834,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,11.0,2.0,HARD,3.0,True,1,True,17.0,26.3,31.3,56.0,False,1.1,95.756,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,12.0,2.0,HARD,4.0,True,1,True,15.0,26.3,31.4,56.0,False,1.2,95.805,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,13.0,2.0,HARD,5.0,True,1,True,15.0,26.3,31.4,56.0,False,1.0,95.552,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,14.0,2.0,HARD,6.0,True,1,True,15.0,26.3,31.4,56.0,False,0.8,95.199,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,15.0,2.0,HARD,7.0,True,1,True,15.0,26.3,31.3,56.0,False,0.8,95.179,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,16.0,2.0,HARD,8.0,True,1,True,15.0,26.2,31.4,56.0,False,1.7,95.561,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,17.0,2.0,HARD,9.0,True,124,False,14.0,26.2,31.5,56.0,False,1.6,108.27,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,18.0,2.0,HARD,10.0,True,4,False,12.0,26.2,31.5,57.0,False,1.3,136.205,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,19.0,2.0,HARD,11.0,True,4,False,11.0,26.1,31.2,58.0,False,1.0,131.086,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,20.0,2.0,HARD,12.0,True,41,False,11.0,26.0,31.0,58.0,False,1.7,149.075,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,21.0,2.0,HARD,13.0,True,1,True,11.0,26.0,31.1,58.0,False,1.5,98.649,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,22.0,2.0,HARD,14.0,True,1,True,11.0,26.0,30.9,57.0,False,1.3,96.88,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,23.0,2.0,HARD,15.0,True,1,True,11.0,26.0,31.0,57.0,False,0.8,95.702,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,24.0,2.0,HARD,16.0,True,1,True,11.0,26.1,31.0,57.0,False,1.3,95.279,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,25.0,2.0,HARD,17.0,True,1,True,11.0,26.1,31.0,55.0,False,1.3,96.317,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,26.0,2.0,HARD,18.0,True,1,True,11.0,26.1,31.0,55.0,False,2.2,95.544,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,27.0,2.0,HARD,19.0,True,1,True,11.0,26.2,30.9,55.0,False,1.2,95.501,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,28.0,2.0,HARD,20.0,True,1,True,11.0,26.2,31.0,55.0,False,1.0,95.564,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,29.0,2.0,HARD,21.0,True,1,True,11.0,26.3,31.1,55.0,False,1.2,95.001,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,30.0,2.0,HARD,22.0,True,1,True,11.0,26.3,30.9,55.0,False,0.8,95.139,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,31.0,2.0,HARD,23.0,True,1,True,11.0,26.3,30.6,55.0,False,1.1,95.057,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,32.0,2.0,HARD,24.0,True,1,True,11.0,26.3,30.5,55.0,False,1.0,94.959,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,33.0,2.0,HARD,25.0,True,1,True,11.0,26.3,30.5,55.0,False,0.6,94.402,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,34.0,2.0,HARD,26.0,True,1,True,11.0,26.3,30.7,56.0,False,1.1,94.852,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,35.0,2.0,HARD,27.0,True,1,True,11.0,26.3,30.4,57.0,False,1.3,95.659,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,36.0,2.0,HARD,28.0,True,1,True,11.0,26.2,30.3,58.0,False,1.6,94.662,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,37.0,2.0,HARD,29.0,True,1,True,11.0,26.1,30.3,58.0,False,1.2,94.357,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,38.0,2.0,HARD,30.0,True,1,True,11.0,26.1,30.7,58.0,False,1.7,94.047,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,39.0,2.0,HARD,31.0,True,1,True,11.0,26.0,30.3,59.0,False,1.7,94.189,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,40.0,2.0,HARD,32.0,True,1,True,11.0,26.0,30.2,59.0,False,2.0,95.449,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,41.0,2.0,HARD,33.0,True,1,True,11.0,26.0,30.1,59.0,False,1.7,94.27,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,42.0,2.0,HARD,34.0,True,1,True,11.0,26.0,30.5,59.0,False,1.1,93.753,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,43.0,2.0,HARD,35.0,True,1,True,11.0,25.9,30.5,59.0,False,2.2,94.108,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,44.0,2.0,HARD,36.0,True,1,True,11.0,26.0,30.3,59.0,False,1.1,93.374,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,45.0,2.0,HARD,37.0,True,1,True,10.0,26.0,30.3,59.0,False,0.6,94.134,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,46.0,2.0,HARD,38.0,True,1,True,10.0,26.0,30.3,59.0,False,1.3,95.329,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,47.0,2.0,HARD,39.0,True,1,True,10.0,26.0,30.2,60.0,False,1.2,93.833,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,48.0,2.0,HARD,40.0,True,1,True,10.0,26.0,30.3,59.0,False,1.6,93.829,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,49.0,2.0,HARD,41.0,True,1,True,10.0,26.0,30.0,59.0,False,1.2,93.746,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+MAG,Haas F1 Team,50.0,2.0,HARD,42.0,True,1,True,10.0,25.9,30.0,60.0,False,1.1,94.043,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,25.9,31.6,56.0,False,1.8,106.74,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,26.0,31.7,55.0,False,1.7,100.748,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,26.0,32.2,55.0,False,1.1,96.945,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,18.0,26.0,31.5,56.0,False,1.3,96.847,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,18.0,26.2,31.6,55.0,False,1.7,96.992,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,26.3,31.5,55.0,False,1.5,96.862,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,18.0,26.4,31.6,55.0,False,1.3,97.087,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,True,17.0,26.4,31.7,55.0,False,1.2,97.22,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,26.4,31.6,56.0,False,1.2,97.249,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,26.4,31.4,55.0,False,1.2,96.592,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,26.3,31.3,56.0,False,1.1,96.52,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,26.3,31.7,56.0,False,1.1,96.282,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,26.3,31.4,56.0,False,1.0,96.014,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,26.3,31.4,56.0,False,0.8,96.449,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,26.3,31.3,56.0,False,0.8,96.017,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,26.2,31.4,56.0,False,1.7,96.126,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,124,False,11.0,26.2,31.5,56.0,False,1.6,109.322,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,18.0,2.0,HARD,1.0,True,4,False,16.0,26.2,31.5,57.0,False,1.3,149.507,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,19.0,2.0,HARD,2.0,True,4,False,14.0,26.1,31.2,58.0,False,1.0,127.643,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,20.0,2.0,HARD,3.0,True,41,False,14.0,26.0,31.0,58.0,False,1.7,146.031,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,21.0,2.0,HARD,4.0,True,1,True,15.0,26.0,31.1,58.0,False,1.5,99.388,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,22.0,2.0,HARD,5.0,True,1,True,15.0,26.0,30.9,57.0,False,1.3,97.424,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,23.0,2.0,HARD,6.0,True,1,True,16.0,26.0,31.0,57.0,False,1.8,97.103,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,24.0,2.0,HARD,7.0,True,1,True,16.0,26.1,31.0,57.0,False,1.3,95.386,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,25.0,2.0,HARD,8.0,True,1,True,16.0,26.1,31.0,55.0,False,1.3,95.686,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,26.0,2.0,HARD,9.0,True,1,True,16.0,26.1,31.0,55.0,False,2.2,96.074,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,27.0,2.0,HARD,10.0,True,1,True,15.0,26.2,30.9,55.0,False,1.2,95.766,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,28.0,2.0,HARD,11.0,True,1,True,15.0,26.2,30.8,55.0,False,1.0,95.508,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,29.0,2.0,HARD,12.0,True,1,True,15.0,26.3,31.1,55.0,False,1.2,95.759,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,30.0,2.0,HARD,13.0,True,1,True,15.0,26.3,30.9,55.0,False,0.8,95.778,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,31.0,2.0,HARD,14.0,True,1,True,15.0,26.3,30.6,55.0,False,1.1,95.64,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,32.0,2.0,HARD,15.0,True,1,True,15.0,26.3,30.5,55.0,False,1.0,95.141,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,33.0,2.0,HARD,16.0,True,1,True,15.0,26.3,30.5,55.0,False,0.6,95.188,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,34.0,2.0,HARD,17.0,True,1,True,15.0,26.3,30.7,56.0,False,1.1,95.25,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,35.0,2.0,HARD,18.0,True,1,True,15.0,26.3,30.4,57.0,False,1.3,95.027,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,36.0,2.0,HARD,19.0,True,1,True,15.0,26.2,30.3,58.0,False,1.6,94.763,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,37.0,2.0,HARD,20.0,True,1,True,15.0,26.1,30.3,58.0,False,1.2,95.127,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,38.0,2.0,HARD,21.0,True,1,True,15.0,26.1,30.7,58.0,False,1.7,95.591,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,39.0,2.0,HARD,22.0,True,1,True,15.0,26.0,30.3,59.0,False,1.7,95.769,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,40.0,2.0,HARD,23.0,True,1,True,15.0,26.0,30.2,59.0,False,1.1,95.091,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,41.0,2.0,HARD,24.0,True,1,True,14.0,26.0,30.1,59.0,False,1.7,95.319,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,42.0,2.0,HARD,25.0,True,1,True,14.0,26.0,30.5,59.0,False,1.1,94.968,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,43.0,2.0,HARD,26.0,True,1,True,14.0,25.9,30.5,59.0,False,2.2,94.22,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,44.0,2.0,HARD,27.0,True,1,True,14.0,26.0,30.3,59.0,False,1.1,94.036,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,45.0,2.0,HARD,28.0,True,1,True,14.0,26.0,30.3,59.0,False,0.6,94.126,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,46.0,2.0,HARD,29.0,True,1,True,14.0,26.0,30.3,59.0,False,1.3,94.135,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,47.0,2.0,HARD,30.0,True,1,True,14.0,26.0,30.2,59.0,False,0.4,94.183,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,48.0,2.0,HARD,31.0,True,1,True,14.0,26.0,30.3,59.0,False,1.6,94.199,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,49.0,2.0,HARD,32.0,True,1,True,14.0,26.0,30.0,59.0,False,1.2,93.609,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+DEV,AlphaTauri,50.0,2.0,HARD,33.0,True,1,True,14.0,25.9,30.0,60.0,False,1.1,93.925,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,14.0,25.9,31.6,56.0,False,1.8,105.589,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,26.0,31.7,55.0,False,1.7,98.171,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,26.0,32.2,55.0,False,1.1,97.15,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,26.0,31.5,56.0,False,1.3,97.006,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,26.2,31.6,55.0,False,1.7,96.705,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,26.3,31.5,55.0,False,1.5,96.788,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,26.4,31.6,55.0,False,1.3,96.655,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,26.4,31.7,55.0,False,1.2,96.569,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,26.3,31.6,55.0,False,0.6,96.285,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,26.4,31.4,55.0,False,1.2,96.187,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,26.3,31.3,56.0,False,1.1,96.2,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,12.0,1.0,MEDIUM,12.0,True,1,True,11.0,26.3,31.7,56.0,False,1.1,95.839,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,13.0,1.0,MEDIUM,13.0,True,1,True,11.0,26.3,31.4,56.0,False,1.0,96.087,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,26.3,31.4,56.0,False,0.8,95.938,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,26.3,31.3,56.0,False,0.8,95.616,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,26.2,31.4,56.0,False,1.7,95.638,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,17.0,1.0,MEDIUM,17.0,True,124,False,6.0,26.2,31.5,56.0,False,1.6,102.41,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,18.0,2.0,HARD,1.0,True,4,False,8.0,26.2,31.5,57.0,False,1.3,149.289,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,19.0,2.0,HARD,2.0,True,4,False,8.0,26.1,31.2,58.0,False,2.0,134.657,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,20.0,2.0,HARD,3.0,True,41,False,8.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,21.0,2.0,HARD,4.0,True,1,True,8.0,26.0,31.1,58.0,False,1.5,98.152,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,22.0,2.0,HARD,5.0,True,1,True,8.0,26.0,30.9,57.0,False,1.3,96.197,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,23.0,2.0,HARD,6.0,True,1,True,8.0,26.0,31.0,57.0,False,0.8,95.717,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,24.0,2.0,HARD,7.0,True,1,True,9.0,26.1,31.0,57.0,False,1.3,96.425,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,25.0,2.0,HARD,8.0,True,1,True,10.0,26.1,31.0,55.0,False,1.3,96.833,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,26.0,2.0,HARD,9.0,True,1,True,10.0,26.1,31.0,55.0,False,2.2,95.513,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,27.0,2.0,HARD,10.0,True,1,True,10.0,26.2,30.9,55.0,False,1.2,95.392,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,28.0,2.0,HARD,11.0,True,1,True,10.0,26.2,31.0,55.0,False,1.0,95.155,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,29.0,2.0,HARD,12.0,True,1,True,10.0,26.3,31.1,55.0,False,1.2,94.791,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,30.0,2.0,HARD,13.0,True,1,True,10.0,26.3,30.9,55.0,False,0.8,95.113,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,31.0,2.0,HARD,14.0,True,1,True,10.0,26.3,30.6,55.0,False,1.1,94.929,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,32.0,2.0,HARD,15.0,True,1,True,10.0,26.3,30.5,55.0,False,1.0,95.246,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,33.0,2.0,HARD,16.0,True,1,True,10.0,26.3,30.5,55.0,False,0.6,94.797,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,34.0,2.0,HARD,17.0,True,1,True,10.0,26.3,30.7,56.0,False,1.1,94.925,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,35.0,2.0,HARD,18.0,True,1,True,10.0,26.3,30.4,57.0,False,1.3,94.878,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,36.0,2.0,HARD,19.0,True,1,True,10.0,26.2,30.3,58.0,False,1.6,94.61,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,37.0,2.0,HARD,20.0,True,1,True,10.0,26.1,30.3,58.0,False,1.2,94.715,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,38.0,2.0,HARD,21.0,True,1,True,10.0,26.1,30.7,58.0,False,1.7,94.488,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,39.0,2.0,HARD,22.0,True,1,True,10.0,26.0,30.3,59.0,False,1.7,94.353,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,40.0,2.0,HARD,23.0,True,1,True,10.0,26.0,30.2,59.0,False,2.0,94.373,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,41.0,2.0,HARD,24.0,True,1,True,10.0,26.0,30.1,59.0,False,1.7,94.316,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,42.0,2.0,HARD,25.0,True,1,True,10.0,26.0,30.5,59.0,False,1.1,94.056,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,43.0,2.0,HARD,26.0,True,1,True,10.0,25.9,30.5,59.0,False,2.2,93.989,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,44.0,2.0,HARD,27.0,True,1,True,10.0,26.0,30.3,59.0,False,1.1,94.189,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,45.0,2.0,HARD,28.0,True,1,True,11.0,26.0,30.3,59.0,False,0.6,94.599,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,46.0,2.0,HARD,29.0,True,1,True,11.0,26.0,30.3,59.0,False,1.3,97.002,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,47.0,2.0,HARD,30.0,True,1,True,11.0,26.0,30.2,60.0,False,1.2,94.282,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,48.0,2.0,HARD,31.0,True,1,True,11.0,26.0,30.3,59.0,False,1.6,94.125,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,49.0,2.0,HARD,32.0,True,1,True,11.0,26.0,30.0,59.0,False,1.2,94.117,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+TSU,AlphaTauri,50.0,2.0,HARD,33.0,True,1,True,11.0,25.9,30.0,60.0,False,1.1,93.931,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,16.0,25.9,31.6,56.0,False,1.8,105.985,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,26.0,31.7,55.0,False,1.7,98.916,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,26.0,32.2,55.0,False,1.1,97.065,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,26.0,31.5,56.0,False,1.3,96.913,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,26.2,31.6,55.0,False,1.7,97.108,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,16.0,26.3,31.5,55.0,False,1.5,97.004,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,26.4,31.6,55.0,False,1.3,97.577,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,26.4,31.7,55.0,False,1.2,97.053,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,26.3,31.6,55.0,False,0.6,96.126,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,14.0,26.4,31.4,55.0,False,1.2,96.311,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,26.3,31.3,56.0,False,1.1,95.911,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,26.3,31.7,56.0,False,1.1,96.066,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,26.3,31.4,56.0,False,1.0,96.026,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,26.3,31.4,56.0,False,0.8,96.878,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,26.3,31.3,56.0,False,0.8,96.622,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,11.0,26.2,31.4,56.0,False,1.7,96.83,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,124,False,9.0,26.2,31.5,56.0,False,1.6,104.635,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,18.0,2.0,HARD,1.0,True,4,False,13.0,26.2,31.5,57.0,False,1.3,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,19.0,2.0,HARD,2.0,True,4,False,12.0,26.1,31.2,58.0,False,1.0,130.688,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,20.0,2.0,HARD,3.0,True,41,False,12.0,26.0,31.0,58.0,False,1.7,148.46,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,21.0,2.0,HARD,4.0,True,1,True,13.0,26.0,31.1,58.0,False,1.5,99.011,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,22.0,2.0,HARD,5.0,True,1,True,13.0,26.0,30.9,57.0,False,1.3,96.964,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,23.0,2.0,HARD,6.0,True,1,True,13.0,26.0,31.0,57.0,False,0.8,95.656,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,24.0,2.0,HARD,7.0,True,1,True,13.0,26.1,31.0,57.0,False,1.3,95.567,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,25.0,2.0,HARD,8.0,True,1,True,13.0,26.1,31.0,55.0,False,1.3,96.007,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,26.0,2.0,HARD,9.0,True,1,True,15.0,26.1,31.0,55.0,False,2.2,98.229,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ALB,Williams,27.0,2.0,HARD,10.0,True,1,False,19.0,26.2,30.9,55.0,False,1.2,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,25.9,31.6,56.0,False,1.8,104.564,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,26.0,31.7,55.0,False,1.7,96.615,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,26.0,32.2,55.0,False,1.1,96.26,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,26.0,31.5,56.0,False,1.3,96.359,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,26.2,31.6,55.0,False,1.7,96.314,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,26.3,31.5,55.0,False,1.5,95.928,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,26.4,31.6,55.0,False,1.3,96.506,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,26.4,31.7,55.0,False,1.2,97.134,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,26.3,31.6,55.0,False,0.6,96.451,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,26.4,31.4,55.0,False,1.2,96.253,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,11.0,1.0,MEDIUM,11.0,True,1,False,11.0,26.3,31.3,56.0,False,1.1,99.247,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,12.0,2.0,HARD,1.0,True,1,False,17.0,26.3,31.7,56.0,False,1.1,115.874,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,13.0,2.0,HARD,2.0,True,1,True,16.0,26.3,31.4,56.0,False,1.0,95.263,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,14.0,2.0,HARD,3.0,True,1,True,16.0,26.3,31.4,56.0,False,0.8,95.547,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,15.0,2.0,HARD,4.0,True,1,True,16.0,26.3,31.3,56.0,False,0.8,95.618,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,16.0,2.0,HARD,5.0,True,1,True,16.0,26.2,31.4,56.0,False,1.7,95.98,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,17.0,2.0,HARD,6.0,True,124,False,15.0,26.3,31.5,56.0,False,1.2,109.326,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,18.0,2.0,HARD,7.0,True,4,False,14.0,26.2,31.5,57.0,False,1.3,137.713,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,19.0,3.0,MEDIUM,1.0,True,4,False,17.0,26.1,31.2,58.0,False,1.0,135.298,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,20.0,3.0,MEDIUM,2.0,True,41,False,17.0,26.0,31.0,58.0,False,1.7,141.617,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,21.0,3.0,MEDIUM,3.0,True,1,True,16.0,26.0,31.1,58.0,False,1.5,98.769,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,22.0,3.0,MEDIUM,4.0,True,1,True,16.0,26.0,30.9,57.0,False,1.3,97.391,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,23.0,3.0,MEDIUM,5.0,True,1,True,15.0,26.0,31.0,57.0,False,1.8,96.346,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,24.0,3.0,MEDIUM,6.0,True,1,True,15.0,26.1,31.0,57.0,False,1.3,95.452,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,25.0,3.0,MEDIUM,7.0,True,1,True,15.0,26.1,31.0,55.0,False,1.3,95.56,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,26.0,3.0,MEDIUM,8.0,True,1,True,14.0,26.1,31.0,55.0,False,2.2,96.338,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,27.0,3.0,MEDIUM,9.0,True,1,True,14.0,26.2,30.9,55.0,False,1.2,95.629,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,28.0,3.0,MEDIUM,10.0,True,1,True,14.0,26.2,31.0,55.0,False,1.0,95.4,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,29.0,3.0,MEDIUM,11.0,True,1,True,14.0,26.3,31.1,55.0,False,1.2,94.811,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,30.0,3.0,MEDIUM,12.0,True,1,True,14.0,26.3,30.9,55.0,False,0.8,96.153,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,31.0,3.0,MEDIUM,13.0,True,1,True,14.0,26.3,30.6,55.0,False,1.1,95.268,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,32.0,3.0,MEDIUM,14.0,True,1,True,14.0,26.3,30.5,55.0,False,1.0,95.136,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,33.0,3.0,MEDIUM,15.0,True,1,True,14.0,26.3,30.5,55.0,False,0.6,95.397,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,34.0,3.0,MEDIUM,16.0,True,1,True,14.0,26.3,30.7,56.0,False,1.1,95.361,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,35.0,3.0,MEDIUM,17.0,True,1,True,14.0,26.3,30.4,57.0,False,1.3,95.164,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,36.0,3.0,MEDIUM,18.0,True,1,True,14.0,26.2,30.3,58.0,False,1.6,95.233,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,37.0,3.0,MEDIUM,19.0,True,1,True,14.0,26.1,30.3,58.0,False,1.2,95.391,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,38.0,3.0,MEDIUM,20.0,True,1,True,13.0,26.1,30.7,58.0,False,1.7,95.158,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,39.0,3.0,MEDIUM,21.0,True,1,True,13.0,26.0,30.3,59.0,False,1.7,94.646,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,40.0,3.0,MEDIUM,22.0,True,1,True,13.0,26.0,30.2,59.0,False,1.1,94.764,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,41.0,3.0,MEDIUM,23.0,True,1,True,13.0,26.0,30.1,59.0,False,1.7,94.363,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,42.0,3.0,MEDIUM,24.0,True,1,True,13.0,26.0,30.5,59.0,False,1.1,94.825,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,43.0,3.0,MEDIUM,25.0,True,1,True,13.0,25.9,30.5,59.0,False,2.2,94.514,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,44.0,3.0,MEDIUM,26.0,True,1,True,13.0,26.0,30.3,59.0,False,1.1,94.622,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,45.0,3.0,MEDIUM,27.0,True,1,True,13.0,26.0,30.3,59.0,False,0.6,94.541,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,46.0,3.0,MEDIUM,28.0,True,1,True,13.0,26.0,30.3,59.0,False,1.3,94.538,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,47.0,3.0,MEDIUM,29.0,True,1,True,13.0,26.0,30.2,59.0,False,0.4,94.18,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,48.0,3.0,MEDIUM,30.0,True,1,True,13.0,26.0,30.3,59.0,False,1.6,94.138,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,49.0,3.0,MEDIUM,31.0,True,1,True,13.0,26.0,30.0,59.0,False,1.2,93.894,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+ZHO,Alfa Romeo,50.0,3.0,MEDIUM,32.0,True,1,True,13.0,25.9,30.0,60.0,False,1.1,94.105,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,25.9,31.6,56.0,False,1.8,104.753,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,26.0,31.7,55.0,False,1.7,97.67,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,26.0,32.2,55.0,False,1.1,96.538,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,13.0,26.0,31.5,56.0,False,1.3,97.593,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,26.2,31.6,55.0,False,1.7,96.753,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,26.3,31.5,55.0,False,1.5,96.095,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,26.4,31.6,55.0,False,1.3,96.398,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,26.4,31.7,55.0,False,1.2,96.282,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,26.3,31.6,55.0,False,0.6,96.613,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,26.4,31.4,55.0,False,1.2,96.166,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,False,13.0,26.3,31.3,56.0,False,1.1,99.066,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,12.0,2.0,HARD,1.0,True,1,False,16.0,26.3,31.7,56.0,False,1.1,113.453,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,13.0,2.0,HARD,2.0,True,1,True,17.0,26.3,31.4,56.0,False,1.0,95.892,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,14.0,2.0,HARD,3.0,True,1,True,17.0,26.3,31.4,56.0,False,0.8,96.821,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,15.0,2.0,HARD,4.0,True,1,True,17.0,26.3,31.3,56.0,False,0.8,96.004,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,16.0,2.0,HARD,5.0,True,1,True,17.0,26.2,31.4,56.0,False,1.7,95.932,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,17.0,2.0,HARD,6.0,True,124,False,16.0,26.3,31.5,56.0,False,1.2,109.761,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,18.0,2.0,HARD,7.0,True,4,False,15.0,26.2,31.5,57.0,False,1.3,136.855,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,19.0,2.0,HARD,8.0,True,4,False,13.0,26.1,31.2,58.0,False,1.0,127.15,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,20.0,2.0,HARD,9.0,True,41,False,13.0,26.0,31.0,58.0,False,1.7,146.826,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,21.0,2.0,HARD,10.0,True,1,True,12.0,26.0,31.1,58.0,False,1.5,98.42,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,22.0,2.0,HARD,11.0,True,1,True,12.0,26.0,30.9,57.0,False,1.3,96.951,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,23.0,2.0,HARD,12.0,True,1,True,12.0,26.0,31.0,57.0,False,0.8,95.533,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,24.0,2.0,HARD,13.0,True,1,True,12.0,26.1,31.0,57.0,False,1.3,95.782,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,25.0,2.0,HARD,14.0,True,1,True,12.0,26.1,31.0,55.0,False,1.3,95.891,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,26.0,2.0,HARD,15.0,True,1,True,12.0,26.1,31.0,55.0,False,2.2,96.043,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,27.0,2.0,HARD,16.0,True,1,True,12.0,26.2,30.9,55.0,False,1.2,96.238,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,28.0,2.0,HARD,17.0,True,1,True,12.0,26.2,31.0,55.0,False,1.0,95.62,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,29.0,2.0,HARD,18.0,True,1,True,12.0,26.3,31.1,55.0,False,1.2,95.176,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,30.0,2.0,HARD,19.0,True,1,True,12.0,26.3,30.9,55.0,False,0.8,96.263,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,31.0,2.0,HARD,20.0,True,1,True,12.0,26.3,30.6,55.0,False,1.1,95.038,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,32.0,2.0,HARD,21.0,True,1,True,12.0,26.3,30.5,55.0,False,1.0,95.368,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,33.0,2.0,HARD,22.0,True,1,True,12.0,26.3,30.5,55.0,False,0.6,95.028,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,34.0,2.0,HARD,23.0,True,1,True,12.0,26.3,30.7,56.0,False,1.1,95.478,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,35.0,2.0,HARD,24.0,True,1,True,12.0,26.3,30.4,57.0,False,1.3,95.013,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,36.0,2.0,HARD,25.0,True,1,True,12.0,26.2,30.3,58.0,False,1.6,94.957,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,37.0,2.0,HARD,26.0,True,1,True,12.0,26.1,30.3,58.0,False,1.2,94.809,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,38.0,2.0,HARD,27.0,True,1,True,12.0,26.1,30.7,58.0,False,1.7,94.03,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,39.0,2.0,HARD,28.0,True,1,True,12.0,26.0,30.3,59.0,False,1.7,94.263,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,40.0,2.0,HARD,29.0,True,1,True,12.0,26.0,30.2,59.0,False,2.0,94.365,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,41.0,2.0,HARD,30.0,True,1,True,12.0,26.0,30.1,59.0,False,1.7,94.047,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,42.0,2.0,HARD,31.0,True,1,True,12.0,26.0,30.5,59.0,False,1.1,94.351,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,43.0,2.0,HARD,32.0,True,1,True,12.0,25.9,30.5,59.0,False,2.2,94.388,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,44.0,2.0,HARD,33.0,True,1,True,12.0,26.0,30.3,59.0,False,1.1,94.168,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,45.0,2.0,HARD,34.0,True,1,True,12.0,26.0,30.3,59.0,False,0.6,94.822,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,46.0,2.0,HARD,35.0,True,1,True,12.0,26.0,30.3,59.0,False,1.3,94.481,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,47.0,2.0,HARD,36.0,True,1,True,12.0,26.0,30.2,60.0,False,1.2,94.426,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,48.0,2.0,HARD,37.0,True,1,True,12.0,26.0,30.3,59.0,False,1.6,94.026,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,49.0,2.0,HARD,38.0,True,1,True,12.0,26.0,30.0,59.0,False,1.2,94.106,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HUL,Haas F1 Team,50.0,2.0,HARD,39.0,True,1,True,12.0,25.9,30.0,60.0,False,1.1,93.78,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,25.9,31.6,56.0,False,1.8,100.245,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,26.0,31.7,55.0,False,1.7,97.006,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,26.0,32.2,55.0,False,1.1,96.066,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,26.0,31.5,56.0,False,1.3,95.729,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,26.2,31.6,55.0,False,1.7,95.849,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,26.3,31.6,55.0,False,1.7,95.794,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,26.4,31.6,55.0,False,1.3,95.847,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,26.4,31.7,55.0,False,1.2,96.212,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,26.3,31.6,55.0,False,0.6,95.924,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,26.4,31.4,55.0,False,1.2,95.955,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,26.4,31.4,55.0,False,1.2,95.901,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,26.3,31.7,56.0,False,1.1,96.266,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,26.3,31.4,56.0,False,1.0,97.156,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,26.3,31.4,56.0,False,0.8,96.579,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,26.3,31.3,56.0,False,0.8,96.209,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,16.0,1.0,MEDIUM,16.0,True,1,False,7.0,26.2,31.5,56.0,False,0.8,98.567,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,17.0,2.0,HARD,1.0,True,124,False,12.0,26.2,31.5,56.0,False,1.6,125.968,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,18.0,2.0,HARD,2.0,True,4,False,9.0,26.2,31.5,57.0,False,1.3,134.175,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,19.0,2.0,HARD,3.0,True,4,False,9.0,26.1,31.2,58.0,False,2.0,134.215,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,20.0,2.0,HARD,4.0,True,41,False,9.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,21.0,2.0,HARD,5.0,True,1,True,9.0,26.0,31.1,58.0,False,1.5,98.033,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,22.0,2.0,HARD,6.0,True,1,True,9.0,26.0,30.9,57.0,False,1.3,96.558,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,23.0,2.0,HARD,7.0,True,1,True,9.0,26.0,31.0,57.0,False,0.8,95.212,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,24.0,2.0,HARD,8.0,True,1,True,8.0,26.1,31.0,57.0,False,1.3,94.882,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,25.0,2.0,HARD,9.0,True,1,True,8.0,26.1,31.0,55.0,False,1.3,95.131,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,26.0,2.0,HARD,10.0,True,1,True,8.0,26.1,31.0,55.0,False,2.2,94.609,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,27.0,2.0,HARD,11.0,True,1,True,8.0,26.2,30.9,55.0,False,1.2,94.903,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,28.0,2.0,HARD,12.0,True,1,True,8.0,26.2,31.0,55.0,False,1.0,94.918,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,29.0,2.0,HARD,13.0,True,1,True,8.0,26.3,31.1,55.0,False,1.2,94.582,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,30.0,2.0,HARD,14.0,True,1,True,8.0,26.3,30.9,55.0,False,0.8,94.978,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,31.0,2.0,HARD,15.0,True,1,True,8.0,26.3,30.6,55.0,False,1.1,94.79,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,32.0,2.0,HARD,16.0,True,1,True,8.0,26.3,30.5,55.0,False,1.0,94.641,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,33.0,2.0,HARD,17.0,True,1,True,8.0,26.3,30.5,55.0,False,0.6,94.394,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,34.0,2.0,HARD,18.0,True,1,True,8.0,26.3,30.7,56.0,False,1.1,94.698,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,35.0,2.0,HARD,19.0,True,1,True,8.0,26.2,30.8,56.0,False,0.8,94.644,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,36.0,2.0,HARD,20.0,True,1,True,8.0,26.2,30.3,58.0,False,1.6,94.286,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,37.0,2.0,HARD,21.0,True,1,True,8.0,26.1,30.3,58.0,False,1.2,94.136,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,38.0,2.0,HARD,22.0,True,1,True,8.0,26.1,30.7,58.0,False,1.7,94.216,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,39.0,2.0,HARD,23.0,True,1,True,8.0,26.0,30.3,59.0,False,1.7,94.039,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,40.0,2.0,HARD,24.0,True,1,True,8.0,26.0,30.2,59.0,False,2.0,93.826,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,41.0,2.0,HARD,25.0,True,1,True,8.0,26.0,30.1,59.0,False,1.7,93.915,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,42.0,2.0,HARD,26.0,True,1,True,8.0,26.0,30.3,59.0,False,1.2,93.964,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,43.0,2.0,HARD,27.0,True,1,True,8.0,25.9,30.5,59.0,False,2.2,93.897,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,44.0,2.0,HARD,28.0,True,1,True,8.0,26.0,30.3,59.0,False,1.1,93.841,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,45.0,2.0,HARD,29.0,True,1,True,8.0,26.0,30.3,59.0,False,0.6,93.815,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,46.0,2.0,HARD,30.0,True,1,True,8.0,26.0,30.3,59.0,False,1.3,93.976,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,47.0,2.0,HARD,31.0,True,1,True,8.0,26.0,30.2,60.0,False,1.2,93.998,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,48.0,2.0,HARD,32.0,True,1,True,8.0,26.0,30.3,59.0,False,1.6,93.723,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,49.0,2.0,HARD,33.0,True,1,True,8.0,26.0,30.1,59.0,False,1.7,93.222,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+OCO,Alpine,50.0,2.0,HARD,34.0,True,1,True,8.0,25.9,30.0,60.0,False,1.1,94.312,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,1.0,1.0,SOFT,1.0,True,1,False,17.0,25.9,31.6,56.0,False,1.8,106.323,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,2.0,1.0,SOFT,2.0,True,1,False,19.0,26.0,31.7,55.0,False,1.7,103.07,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,3.0,2.0,HARD,1.0,True,1,False,20.0,26.0,32.2,55.0,False,1.1,123.534,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,4.0,2.0,HARD,2.0,True,1,True,20.0,26.1,31.5,55.0,False,1.6,96.627,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,5.0,2.0,HARD,3.0,True,1,True,20.0,26.3,31.6,55.0,False,1.7,95.929,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,6.0,2.0,HARD,4.0,True,1,True,20.0,26.3,31.5,55.0,False,1.5,95.963,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,7.0,2.0,HARD,5.0,True,1,True,20.0,26.4,31.6,55.0,False,0.6,95.771,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,8.0,2.0,HARD,6.0,True,1,True,20.0,26.4,31.7,55.0,False,1.2,95.523,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,9.0,2.0,HARD,7.0,True,1,True,20.0,26.4,31.6,56.0,False,1.2,95.721,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,10.0,2.0,HARD,8.0,True,1,True,20.0,26.4,31.4,55.0,False,1.2,96.141,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,11.0,2.0,HARD,9.0,True,1,True,20.0,26.3,31.3,56.0,False,1.1,96.1,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,12.0,2.0,HARD,10.0,True,1,True,20.0,26.3,31.4,56.0,False,1.2,96.285,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,13.0,2.0,HARD,11.0,True,1,True,20.0,26.3,31.4,56.0,False,1.0,96.269,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,14.0,2.0,HARD,12.0,True,1,True,20.0,26.3,31.4,56.0,False,0.8,96.289,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,15.0,2.0,HARD,13.0,True,1,True,20.0,26.2,31.5,56.0,False,0.8,96.228,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,16.0,2.0,HARD,14.0,True,1,True,20.0,26.2,31.4,56.0,False,1.7,96.446,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,17.0,2.0,HARD,15.0,True,124,False,18.0,26.3,31.5,56.0,False,1.2,116.008,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,18.0,2.0,HARD,16.0,True,4,False,18.0,26.2,31.3,57.0,False,0.8,137.711,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,19.0,2.0,HARD,17.0,True,4,False,18.0,26.1,31.2,58.0,False,1.0,120.488,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,20.0,3.0,MEDIUM,1.0,True,41,False,19.0,26.0,31.0,58.0,False,1.7,138.348,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,21.0,3.0,MEDIUM,2.0,True,1,True,19.0,26.0,31.1,58.0,False,1.5,99.3,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,22.0,3.0,MEDIUM,3.0,True,1,True,18.0,26.0,30.9,57.0,False,1.3,97.7,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,23.0,3.0,MEDIUM,4.0,True,1,True,18.0,26.0,31.0,57.0,False,1.8,96.253,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,24.0,3.0,MEDIUM,5.0,True,1,True,18.0,26.1,31.0,57.0,False,1.3,96.251,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,25.0,3.0,MEDIUM,6.0,True,1,True,17.0,26.1,31.0,55.0,False,1.3,95.515,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,26.0,3.0,MEDIUM,7.0,True,1,True,17.0,26.1,31.0,55.0,False,2.2,95.315,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,27.0,3.0,MEDIUM,8.0,True,1,True,16.0,26.2,30.9,55.0,False,1.2,95.574,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,28.0,3.0,MEDIUM,9.0,True,1,True,16.0,26.2,30.8,55.0,False,1.0,95.724,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,29.0,3.0,MEDIUM,10.0,True,1,True,16.0,26.3,31.1,55.0,False,1.2,95.729,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,30.0,3.0,MEDIUM,11.0,True,1,True,16.0,26.3,30.9,55.0,False,0.8,95.446,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,31.0,3.0,MEDIUM,12.0,True,1,True,16.0,26.3,30.6,55.0,False,1.1,95.694,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,32.0,3.0,MEDIUM,13.0,True,1,True,16.0,26.3,30.5,55.0,False,1.0,95.478,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,33.0,3.0,MEDIUM,14.0,True,1,True,16.0,26.3,30.5,55.0,False,0.6,95.49,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,34.0,3.0,MEDIUM,15.0,True,1,True,16.0,26.3,30.7,56.0,False,1.1,95.481,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,35.0,3.0,MEDIUM,16.0,True,1,True,16.0,26.3,30.4,57.0,False,1.3,95.261,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,36.0,3.0,MEDIUM,17.0,True,1,True,16.0,26.2,30.3,58.0,False,1.6,95.158,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,37.0,3.0,MEDIUM,18.0,True,1,True,16.0,26.1,30.3,58.0,False,1.2,95.005,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,38.0,3.0,MEDIUM,19.0,True,1,True,16.0,26.1,30.7,58.0,False,1.7,94.658,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,39.0,3.0,MEDIUM,20.0,True,1,True,16.0,26.0,30.3,59.0,False,1.7,95.057,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,40.0,3.0,MEDIUM,21.0,True,1,True,16.0,26.0,30.2,59.0,False,1.1,95.549,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,41.0,3.0,MEDIUM,22.0,True,1,True,15.0,26.0,30.1,59.0,False,1.7,94.969,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,42.0,3.0,MEDIUM,23.0,True,1,True,16.0,26.0,30.5,59.0,False,1.1,96.183,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,43.0,3.0,MEDIUM,24.0,True,1,True,16.0,25.9,30.5,59.0,False,2.2,95.228,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,44.0,3.0,MEDIUM,25.0,True,1,True,17.0,26.0,30.3,59.0,False,1.1,95.519,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,45.0,3.0,MEDIUM,26.0,True,1,True,16.0,26.0,30.3,59.0,False,1.2,94.871,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,46.0,3.0,MEDIUM,27.0,True,1,True,16.0,26.0,30.3,59.0,False,1.3,94.532,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,47.0,3.0,MEDIUM,28.0,True,1,True,16.0,26.0,30.2,59.0,False,0.4,94.818,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,48.0,3.0,MEDIUM,29.0,True,1,True,17.0,26.0,30.3,59.0,False,1.6,95.378,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,49.0,3.0,MEDIUM,30.0,True,1,True,17.0,26.0,30.0,59.0,False,1.2,94.122,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+NOR,McLaren,50.0,3.0,MEDIUM,31.0,True,1,True,17.0,25.9,30.0,60.0,False,1.1,95.307,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,1.0,1.0,HARD,1.0,True,1,False,7.0,25.9,31.6,56.0,False,1.8,101.038,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,2.0,1.0,HARD,2.0,True,1,True,7.0,26.0,31.7,55.0,False,1.7,97.188,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,3.0,1.0,HARD,3.0,True,1,True,7.0,26.0,32.2,55.0,False,1.1,96.628,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,4.0,1.0,HARD,4.0,True,1,True,7.0,26.0,31.5,56.0,False,1.3,96.263,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,5.0,1.0,HARD,5.0,True,1,True,7.0,26.2,31.6,55.0,False,1.7,95.867,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,6.0,1.0,HARD,6.0,True,1,True,7.0,26.3,31.6,55.0,False,1.7,95.973,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,7.0,1.0,HARD,7.0,True,1,True,7.0,26.4,31.6,55.0,False,1.3,96.093,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,8.0,1.0,HARD,8.0,True,1,True,7.0,26.4,31.7,55.0,False,1.2,96.122,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,9.0,1.0,HARD,9.0,True,1,True,8.0,26.3,31.6,55.0,False,0.6,96.978,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,10.0,1.0,HARD,10.0,True,1,True,8.0,26.4,31.4,55.0,False,1.2,95.976,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,11.0,1.0,HARD,11.0,True,1,True,8.0,26.4,31.4,55.0,False,1.2,95.909,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,12.0,1.0,HARD,12.0,True,1,True,9.0,26.3,31.7,56.0,False,1.1,96.568,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,13.0,1.0,HARD,13.0,True,1,True,9.0,26.3,31.4,56.0,False,1.0,95.822,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,14.0,1.0,HARD,14.0,True,1,True,8.0,26.3,31.4,56.0,False,0.8,95.708,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,15.0,1.0,HARD,15.0,True,1,True,8.0,26.3,31.3,56.0,False,0.8,95.693,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,16.0,1.0,HARD,16.0,True,1,True,6.0,26.2,31.5,56.0,False,0.8,95.228,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,17.0,1.0,HARD,17.0,True,12,True,5.0,26.2,31.5,56.0,False,1.6,95.047,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,18.0,1.0,HARD,18.0,True,24,False,5.0,26.2,31.5,57.0,False,1.3,136.76,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,19.0,2.0,MEDIUM,1.0,True,4,False,6.0,26.1,31.2,58.0,False,2.0,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,20.0,2.0,MEDIUM,2.0,True,41,False,6.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,21.0,2.0,MEDIUM,3.0,True,1,True,6.0,26.0,31.1,58.0,False,1.5,97.234,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,22.0,2.0,MEDIUM,4.0,True,1,True,5.0,26.0,30.9,57.0,False,1.3,95.182,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,23.0,2.0,MEDIUM,5.0,True,1,True,5.0,26.0,31.0,57.0,False,0.8,94.715,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,24.0,2.0,MEDIUM,6.0,True,1,True,5.0,26.1,31.0,57.0,False,1.3,94.335,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,25.0,2.0,MEDIUM,7.0,True,1,True,5.0,26.1,31.0,55.0,False,1.3,94.734,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,26.0,2.0,MEDIUM,8.0,True,1,True,5.0,26.1,31.0,55.0,False,2.2,93.998,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,27.0,2.0,MEDIUM,9.0,True,1,True,5.0,26.2,30.9,55.0,False,1.2,93.985,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,28.0,2.0,MEDIUM,10.0,True,1,True,5.0,26.2,31.0,55.0,False,1.0,94.234,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,29.0,2.0,MEDIUM,11.0,True,1,True,5.0,26.3,31.1,55.0,False,1.2,94.186,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,30.0,2.0,MEDIUM,12.0,True,1,True,5.0,26.3,31.1,55.0,False,1.7,94.447,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,31.0,2.0,MEDIUM,13.0,True,1,True,5.0,26.3,30.6,55.0,False,1.1,93.846,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,32.0,2.0,MEDIUM,14.0,True,1,True,5.0,26.3,30.5,55.0,False,1.0,94.071,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,33.0,2.0,MEDIUM,15.0,True,1,True,5.0,26.3,30.5,55.0,False,0.6,93.874,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,34.0,2.0,MEDIUM,16.0,True,1,True,5.0,26.3,30.7,56.0,False,1.1,93.864,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,35.0,2.0,MEDIUM,17.0,True,1,True,5.0,26.2,30.8,56.0,False,0.8,93.887,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,36.0,2.0,MEDIUM,18.0,True,1,True,5.0,26.2,30.3,58.0,False,1.6,93.39,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,37.0,2.0,MEDIUM,19.0,True,1,True,5.0,26.2,30.3,58.0,False,1.1,93.625,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,38.0,2.0,MEDIUM,20.0,True,1,True,5.0,26.1,30.7,58.0,False,1.7,93.653,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,39.0,2.0,MEDIUM,21.0,True,1,True,5.0,26.0,30.7,58.0,False,0.8,93.383,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,40.0,2.0,MEDIUM,22.0,True,1,True,5.0,26.0,30.2,59.0,False,2.0,93.507,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,41.0,2.0,MEDIUM,23.0,True,1,True,5.0,26.0,30.1,59.0,False,1.7,93.22,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,42.0,2.0,MEDIUM,24.0,True,1,True,5.0,26.0,30.3,59.0,False,1.2,93.314,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,43.0,2.0,MEDIUM,25.0,True,1,True,5.0,25.9,30.5,59.0,False,2.2,93.011,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,44.0,2.0,MEDIUM,26.0,True,1,True,5.0,25.9,30.5,59.0,False,2.5,93.099,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,45.0,2.0,MEDIUM,27.0,True,1,True,5.0,26.0,30.3,59.0,False,0.6,93.054,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,46.0,2.0,MEDIUM,28.0,True,1,True,5.0,26.0,30.3,59.0,False,1.2,93.316,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,47.0,2.0,MEDIUM,29.0,True,1,True,5.0,26.0,30.2,60.0,False,1.2,92.941,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,48.0,2.0,MEDIUM,30.0,True,1,True,5.0,26.0,30.2,59.0,False,0.4,93.367,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,49.0,2.0,MEDIUM,31.0,True,1,True,5.0,26.0,30.1,59.0,False,1.7,93.537,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+HAM,Mercedes,50.0,2.0,MEDIUM,32.0,True,1,True,5.0,25.9,30.0,60.0,False,1.1,93.024,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,25.9,31.6,56.0,False,1.8,99.413,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,26.0,31.7,55.0,False,1.7,96.583,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,26.0,32.2,55.0,False,1.1,95.354,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,26.0,31.5,56.0,False,1.3,95.428,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,26.2,31.6,55.0,False,1.7,95.433,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,26.3,31.6,55.0,False,1.7,95.667,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,26.4,31.6,55.0,False,1.3,95.216,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,26.4,31.7,55.0,False,1.2,95.321,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,26.3,31.6,55.0,False,0.6,96.378,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,26.4,31.4,55.0,False,1.2,96.056,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,26.4,31.4,55.0,False,1.2,95.842,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,26.3,31.7,56.0,False,1.1,95.944,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,26.3,31.4,56.0,False,1.0,95.256,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,26.3,31.4,56.0,False,0.8,95.001,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,False,4.0,26.3,31.3,56.0,False,0.8,97.523,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,16.0,2.0,HARD,1.0,True,1,False,9.0,26.2,31.5,56.0,False,0.8,113.399,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,17.0,2.0,HARD,2.0,True,124,False,7.0,26.2,31.5,56.0,False,1.6,102.111,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,18.0,2.0,HARD,3.0,True,4,False,6.0,26.2,31.5,57.0,False,1.3,132.896,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,19.0,2.0,HARD,4.0,True,4,False,5.0,26.1,31.2,58.0,False,2.0,145.323,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,20.0,2.0,HARD,5.0,True,41,False,5.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,21.0,2.0,HARD,6.0,True,1,True,5.0,26.0,31.1,58.0,False,1.5,97.37,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,22.0,2.0,HARD,7.0,True,1,True,6.0,26.0,30.9,57.0,False,1.3,96.313,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,23.0,2.0,HARD,8.0,True,1,True,6.0,26.0,31.0,57.0,False,0.8,95.041,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,24.0,2.0,HARD,9.0,True,1,True,6.0,26.1,31.0,57.0,False,1.3,94.656,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,25.0,2.0,HARD,10.0,True,1,True,6.0,26.1,31.0,55.0,False,1.3,94.814,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,26.0,2.0,HARD,11.0,True,1,True,6.0,26.1,31.0,55.0,False,2.2,94.415,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,27.0,2.0,HARD,12.0,True,1,True,6.0,26.2,30.9,55.0,False,1.2,94.539,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,28.0,2.0,HARD,13.0,True,1,True,6.0,26.2,31.0,55.0,False,1.0,94.762,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,29.0,2.0,HARD,14.0,True,1,True,6.0,26.3,31.1,55.0,False,1.2,94.331,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,30.0,2.0,HARD,15.0,True,1,True,6.0,26.3,31.1,55.0,False,1.7,94.498,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,31.0,2.0,HARD,16.0,True,1,True,6.0,26.3,30.6,55.0,False,1.1,94.104,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,32.0,2.0,HARD,17.0,True,1,True,6.0,26.3,30.5,55.0,False,1.0,93.867,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,33.0,2.0,HARD,18.0,True,1,True,6.0,26.3,30.5,55.0,False,0.6,93.989,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,34.0,2.0,HARD,19.0,True,1,True,6.0,26.3,30.7,56.0,False,1.1,93.861,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,35.0,2.0,HARD,20.0,True,1,True,6.0,26.2,30.8,56.0,False,0.8,93.862,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,36.0,2.0,HARD,21.0,True,1,True,6.0,26.2,30.3,58.0,False,1.6,93.539,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,37.0,2.0,HARD,22.0,True,1,True,6.0,26.2,30.3,58.0,False,1.1,93.803,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,38.0,2.0,HARD,23.0,True,1,True,6.0,26.1,30.7,58.0,False,1.7,93.913,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,39.0,2.0,HARD,24.0,True,1,True,6.0,26.0,30.3,59.0,False,1.7,93.465,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,40.0,2.0,HARD,25.0,True,1,True,6.0,26.0,30.2,59.0,False,2.0,93.403,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,41.0,2.0,HARD,26.0,True,1,True,6.0,26.0,30.1,59.0,False,1.7,93.411,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,42.0,2.0,HARD,27.0,True,1,True,6.0,26.0,30.3,59.0,False,1.2,93.432,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,43.0,2.0,HARD,28.0,True,1,True,6.0,25.9,30.5,59.0,False,2.2,93.288,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,44.0,2.0,HARD,29.0,True,1,True,6.0,25.9,30.5,59.0,False,2.5,93.358,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,45.0,2.0,HARD,30.0,True,1,True,6.0,26.0,30.3,59.0,False,0.6,93.512,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,46.0,2.0,HARD,31.0,True,1,True,6.0,26.0,30.3,59.0,False,1.2,93.149,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,47.0,2.0,HARD,32.0,True,1,True,6.0,26.0,30.2,60.0,False,1.2,93.128,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,48.0,2.0,HARD,33.0,True,1,True,6.0,26.0,30.3,59.0,False,1.6,92.92,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,49.0,2.0,HARD,34.0,True,1,True,6.0,26.0,30.1,59.0,False,1.7,93.564,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+SAI,Ferrari,50.0,2.0,HARD,35.0,True,1,True,6.0,25.9,30.0,60.0,False,1.1,92.822,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,25.9,31.6,56.0,False,1.8,98.652,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,26.0,31.7,55.0,False,1.7,96.114,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,26.0,32.2,55.0,False,1.1,95.3,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,26.0,31.5,56.0,False,1.3,95.596,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,26.2,31.6,55.0,False,1.7,95.423,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,26.3,31.6,55.0,False,1.7,95.477,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,26.4,31.6,55.0,False,1.3,95.256,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,26.4,31.7,55.0,False,1.2,95.157,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,26.3,31.6,55.0,False,0.6,95.89,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,26.4,31.4,55.0,False,1.2,95.265,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,26.4,31.4,55.0,False,1.2,95.4,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,26.3,31.7,56.0,False,1.1,95.283,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,26.3,31.4,56.0,False,1.2,95.043,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,26.3,31.4,56.0,False,0.8,94.94,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,26.3,31.3,56.0,False,0.8,94.946,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,26.2,31.5,56.0,False,0.8,95.12,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,12,True,3.0,26.2,31.5,56.0,False,1.6,94.892,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,24,False,3.0,26.3,31.5,56.0,False,1.2,132.217,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,19.0,2.0,HARD,1.0,True,4,False,3.0,26.1,31.2,58.0,False,2.0,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,20.0,2.0,HARD,2.0,True,41,False,3.0,26.0,31.0,58.0,False,1.7,,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,21.0,2.0,HARD,3.0,True,1,True,3.0,26.0,31.1,58.0,False,1.5,96.802,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,22.0,2.0,HARD,4.0,True,1,True,3.0,26.0,30.9,57.0,False,1.3,95.07,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,23.0,2.0,HARD,5.0,True,1,True,4.0,26.0,31.0,57.0,False,0.8,94.958,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,24.0,2.0,HARD,6.0,True,1,True,4.0,26.1,31.0,57.0,False,1.3,95.063,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,25.0,2.0,HARD,7.0,True,1,True,4.0,26.1,31.0,55.0,False,1.3,94.106,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,26.0,2.0,HARD,8.0,True,1,True,4.0,26.1,31.0,55.0,False,2.2,94.493,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,27.0,2.0,HARD,9.0,True,1,True,4.0,26.2,30.9,55.0,False,1.2,94.118,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,28.0,2.0,HARD,10.0,True,1,True,4.0,26.2,31.0,55.0,False,1.0,94.091,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,29.0,2.0,HARD,11.0,True,1,True,4.0,26.3,31.1,55.0,False,1.2,93.688,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,30.0,2.0,HARD,12.0,True,1,True,4.0,26.3,31.1,55.0,False,1.7,94.165,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,31.0,2.0,HARD,13.0,True,1,True,4.0,26.3,30.6,55.0,False,1.1,93.433,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,32.0,2.0,HARD,14.0,True,1,True,4.0,26.3,30.9,55.0,False,0.8,93.633,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,33.0,2.0,HARD,15.0,True,1,True,4.0,26.3,30.5,55.0,False,0.6,93.52,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,34.0,2.0,HARD,16.0,True,1,True,4.0,26.3,30.7,56.0,False,1.1,93.758,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,35.0,2.0,HARD,17.0,True,1,True,4.0,26.2,30.8,56.0,False,0.8,93.756,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,36.0,2.0,HARD,18.0,True,1,True,4.0,26.2,30.3,58.0,False,1.6,93.625,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,37.0,2.0,HARD,19.0,True,1,True,4.0,26.2,30.3,58.0,False,1.1,93.524,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,38.0,2.0,HARD,20.0,True,1,True,4.0,26.1,30.7,58.0,False,1.7,93.42,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,39.0,2.0,HARD,21.0,True,1,True,4.0,26.0,30.7,58.0,False,0.8,93.555,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,40.0,2.0,HARD,22.0,True,1,True,4.0,26.0,30.2,59.0,False,2.0,93.459,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,41.0,2.0,HARD,23.0,True,1,True,4.0,26.0,30.1,59.0,False,1.7,92.998,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,42.0,2.0,HARD,24.0,True,1,True,4.0,26.0,30.3,59.0,False,1.2,93.041,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,43.0,2.0,HARD,25.0,True,1,True,4.0,25.9,30.5,59.0,False,2.2,93.083,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,44.0,2.0,HARD,26.0,True,1,True,4.0,25.9,30.5,59.0,False,2.5,93.243,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,45.0,2.0,HARD,27.0,True,1,True,4.0,26.0,30.3,59.0,False,0.6,92.917,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,46.0,2.0,HARD,28.0,True,1,True,4.0,26.0,30.3,59.0,False,1.2,92.982,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,47.0,2.0,HARD,29.0,True,1,True,4.0,26.0,30.2,60.0,False,1.2,92.901,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,48.0,2.0,HARD,30.0,True,1,True,4.0,26.0,30.2,59.0,False,0.4,92.756,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,49.0,2.0,HARD,31.0,True,1,True,4.0,26.0,30.1,59.0,False,1.7,93.135,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+RUS,Mercedes,50.0,2.0,HARD,32.0,True,1,True,4.0,26.0,30.0,59.0,False,1.2,92.433,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,25.9,31.6,56.0,False,1.8,105.612,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,26.0,31.7,55.0,False,1.7,98.763,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,26.0,32.2,55.0,False,1.1,96.956,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,26.0,31.5,56.0,False,1.3,97.211,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,26.2,31.6,55.0,False,1.7,96.597,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,26.3,31.5,55.0,False,1.5,97.418,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,26.4,31.6,55.0,False,1.3,97.674,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,26.4,31.7,55.0,False,1.2,98.831,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,False,17.0,26.3,31.6,55.0,False,0.6,99.617,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,10.0,2.0,HARD,1.0,True,1,False,19.0,26.4,31.4,55.0,False,1.2,114.489,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,11.0,2.0,HARD,2.0,True,1,True,19.0,26.3,31.3,56.0,False,1.1,96.218,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,12.0,2.0,HARD,3.0,True,1,True,19.0,26.3,31.4,56.0,False,1.2,95.927,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,13.0,2.0,HARD,4.0,True,1,True,19.0,26.3,31.4,56.0,False,1.0,96.495,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,14.0,2.0,HARD,5.0,True,1,True,19.0,26.3,31.4,56.0,False,0.8,96.207,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,15.0,2.0,HARD,6.0,True,1,True,19.0,26.3,31.3,56.0,False,0.8,96.259,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,16.0,2.0,HARD,7.0,True,1,True,19.0,26.2,31.4,56.0,False,1.7,96.153,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,17.0,2.0,HARD,8.0,True,124,False,19.0,26.3,31.5,56.0,False,1.2,118.961,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,18.0,3.0,MEDIUM,1.0,True,4,False,19.0,26.2,31.3,57.0,False,0.8,,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,19.0,3.0,MEDIUM,2.0,True,4,False,19.0,26.1,31.2,58.0,False,1.0,115.77,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,20.0,3.0,MEDIUM,3.0,True,41,False,18.0,26.0,31.0,58.0,False,1.7,128.105,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,21.0,3.0,MEDIUM,4.0,True,1,True,18.0,26.0,31.1,58.0,False,1.5,99.065,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,22.0,3.0,MEDIUM,5.0,True,1,True,19.0,26.0,30.9,57.0,False,1.3,98.366,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,23.0,3.0,MEDIUM,6.0,True,1,True,19.0,26.0,31.0,57.0,False,1.8,98.218,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,24.0,3.0,MEDIUM,7.0,True,1,True,19.0,26.1,31.0,57.0,False,1.3,96.239,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,25.0,3.0,MEDIUM,8.0,True,1,True,19.0,26.1,31.0,55.0,False,1.3,96.412,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,26.0,3.0,MEDIUM,9.0,True,1,True,19.0,26.1,31.0,55.0,False,2.2,96.343,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,27.0,3.0,MEDIUM,10.0,True,1,True,18.0,26.2,30.9,55.0,False,1.2,96.993,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,28.0,3.0,MEDIUM,11.0,True,1,True,18.0,26.2,30.8,55.0,False,1.0,96.128,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,29.0,3.0,MEDIUM,12.0,True,1,True,18.0,26.3,31.1,55.0,False,1.2,96.166,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,30.0,3.0,MEDIUM,13.0,True,1,True,18.0,26.3,30.9,55.0,False,0.8,95.846,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,31.0,3.0,MEDIUM,14.0,True,1,True,18.0,26.3,30.6,55.0,False,1.1,96.248,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,32.0,3.0,MEDIUM,15.0,True,1,True,18.0,26.3,30.5,55.0,False,1.0,96.142,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,33.0,3.0,MEDIUM,16.0,True,1,True,18.0,26.3,30.7,55.0,False,1.1,95.997,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,34.0,3.0,MEDIUM,17.0,True,1,True,18.0,26.3,30.7,56.0,False,1.1,96.148,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,35.0,3.0,MEDIUM,18.0,True,1,False,18.0,26.3,30.4,57.0,False,1.3,98.834,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,36.0,4.0,SOFT,1.0,True,1,False,18.0,26.2,30.3,58.0,False,1.6,114.109,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,37.0,4.0,SOFT,2.0,True,1,True,18.0,26.1,30.3,58.0,False,1.2,94.384,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,38.0,4.0,SOFT,3.0,True,1,True,18.0,26.0,30.7,58.0,False,0.8,94.976,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,39.0,4.0,SOFT,4.0,True,1,True,18.0,26.0,30.2,59.0,False,2.0,95.348,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,40.0,4.0,SOFT,5.0,True,1,True,18.0,26.0,30.2,59.0,False,1.1,96.474,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,41.0,4.0,SOFT,6.0,True,1,True,18.0,26.0,30.3,59.0,False,1.2,96.7,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,42.0,4.0,SOFT,7.0,True,1,True,18.0,26.0,30.5,59.0,False,1.1,95.325,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,43.0,4.0,SOFT,8.0,True,1,True,18.0,25.9,30.5,59.0,False,2.5,95.288,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,44.0,4.0,SOFT,9.0,True,1,True,18.0,26.0,30.3,59.0,False,0.6,95.004,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,45.0,4.0,SOFT,10.0,True,1,True,18.0,26.0,30.3,59.0,False,1.2,95.227,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,46.0,4.0,SOFT,11.0,True,1,True,18.0,26.0,30.2,60.0,False,1.2,95.283,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,47.0,4.0,SOFT,12.0,True,1,True,18.0,26.0,30.2,59.0,False,0.4,96.694,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,48.0,4.0,SOFT,13.0,True,1,True,18.0,26.0,30.1,59.0,False,1.7,96.607,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+BOT,Alfa Romeo,49.0,4.0,SOFT,14.0,True,1,True,18.0,26.0,30.0,59.0,False,1.2,95.501,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,19.0,25.9,31.6,56.0,False,1.8,107.254,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,2.0,2.0,HARD,1.0,True,1,False,20.0,26.0,31.7,55.0,False,1.7,124.805,True,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,3.0,2.0,HARD,2.0,True,1,True,19.0,26.0,32.2,55.0,False,1.1,95.634,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,4.0,2.0,HARD,3.0,True,1,True,19.0,26.1,31.5,55.0,False,1.6,95.512,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,5.0,2.0,HARD,4.0,True,1,True,19.0,26.2,31.6,55.0,False,1.7,95.662,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,6.0,2.0,HARD,5.0,True,1,True,19.0,26.3,31.5,55.0,False,1.5,95.359,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,7.0,2.0,HARD,6.0,True,1,True,19.0,26.4,31.6,55.0,False,0.6,95.636,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,8.0,2.0,HARD,7.0,True,1,True,19.0,26.4,31.7,55.0,False,1.2,95.626,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,9.0,2.0,HARD,8.0,True,1,True,19.0,26.4,31.6,56.0,False,1.2,95.9,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,10.0,2.0,HARD,9.0,True,1,True,18.0,26.4,31.4,55.0,False,1.2,95.782,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,11.0,2.0,HARD,10.0,True,1,True,18.0,26.3,31.3,56.0,False,1.1,95.899,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,12.0,2.0,HARD,11.0,True,1,True,18.0,26.3,31.4,56.0,False,1.2,96.364,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,13.0,2.0,HARD,12.0,True,1,True,18.0,26.3,31.4,56.0,False,1.0,96.654,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,14.0,2.0,HARD,13.0,True,1,True,18.0,26.3,31.4,56.0,False,0.8,96.275,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,15.0,2.0,HARD,14.0,True,1,True,18.0,26.3,31.3,56.0,False,0.8,96.082,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,16.0,2.0,HARD,15.0,True,1,True,18.0,26.2,31.4,56.0,False,1.7,96.304,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,17.0,2.0,HARD,16.0,True,124,False,17.0,26.3,31.5,56.0,False,1.2,111.27,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,18.0,2.0,HARD,17.0,True,4,False,17.0,26.2,31.5,57.0,False,1.3,136.427,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,19.0,2.0,HARD,18.0,True,4,False,16.0,26.1,31.2,58.0,False,1.0,127.588,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,20.0,2.0,HARD,19.0,True,41,False,16.0,26.0,31.0,58.0,False,1.7,143.704,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,21.0,2.0,HARD,20.0,True,1,True,17.0,26.0,31.1,58.0,False,1.5,99.663,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,22.0,2.0,HARD,21.0,True,1,True,17.0,26.0,30.9,57.0,False,1.3,97.626,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,23.0,2.0,HARD,22.0,True,1,True,17.0,26.0,31.0,57.0,False,1.8,96.562,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,24.0,2.0,HARD,23.0,True,1,True,17.0,26.1,31.0,57.0,False,1.3,96.405,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,25.0,2.0,HARD,24.0,True,1,True,18.0,26.1,31.0,55.0,False,1.3,96.735,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,26.0,2.0,HARD,25.0,True,1,True,18.0,26.1,31.0,55.0,False,2.2,95.752,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,27.0,2.0,HARD,26.0,True,1,True,17.0,26.2,30.9,55.0,False,1.2,95.973,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,28.0,2.0,HARD,27.0,True,1,True,17.0,26.2,30.8,55.0,False,1.0,95.543,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,29.0,2.0,HARD,28.0,True,1,True,17.0,26.3,31.1,55.0,False,1.2,95.949,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,30.0,2.0,HARD,29.0,True,1,True,17.0,26.3,30.9,55.0,False,0.8,95.673,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,31.0,2.0,HARD,30.0,True,1,True,17.0,26.3,30.6,55.0,False,1.1,95.446,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,32.0,2.0,HARD,31.0,True,1,True,17.0,26.3,30.5,55.0,False,1.0,95.224,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,33.0,2.0,HARD,32.0,True,1,True,17.0,26.3,30.7,55.0,False,1.1,95.644,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,34.0,2.0,HARD,33.0,True,1,True,17.0,26.3,30.7,56.0,False,1.1,95.47,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,35.0,2.0,HARD,34.0,True,1,True,17.0,26.3,30.4,57.0,False,1.3,95.277,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,36.0,2.0,HARD,35.0,True,1,True,17.0,26.2,30.3,58.0,False,1.6,95.005,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,37.0,2.0,HARD,36.0,True,1,True,17.0,26.1,30.3,58.0,False,1.2,94.859,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,38.0,2.0,HARD,37.0,True,1,True,17.0,26.1,30.7,58.0,False,1.7,94.827,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,39.0,2.0,HARD,38.0,True,1,True,17.0,26.0,30.3,59.0,False,1.7,94.949,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,40.0,2.0,HARD,39.0,True,1,True,17.0,26.0,30.2,59.0,False,1.1,94.429,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,41.0,2.0,HARD,40.0,True,1,True,17.0,26.0,30.1,59.0,False,1.7,95.301,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,42.0,2.0,HARD,41.0,True,1,True,17.0,26.0,30.5,59.0,False,1.1,95.951,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,43.0,2.0,HARD,42.0,True,1,True,17.0,25.9,30.5,59.0,False,2.2,95.257,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,44.0,2.0,HARD,43.0,True,1,True,16.0,26.0,30.3,59.0,False,1.1,94.861,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,45.0,2.0,HARD,44.0,True,1,True,17.0,26.0,30.3,59.0,False,1.2,95.625,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,46.0,2.0,HARD,45.0,True,1,True,17.0,26.0,30.3,59.0,False,1.3,94.467,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,47.0,2.0,HARD,46.0,True,1,True,17.0,26.0,30.2,59.0,False,0.4,94.509,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,48.0,2.0,HARD,47.0,True,1,True,16.0,26.0,30.3,59.0,False,1.6,94.287,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,49.0,2.0,HARD,48.0,True,1,True,16.0,26.0,30.0,59.0,False,1.2,94.291,False,50,2023,2,Saudi Arabian Grand Prix,2023_02
+PIA,McLaren,50.0,2.0,HARD,49.0,True,1,True,15.0,25.9,30.0,60.0,False,1.1,94.618,False,50,2023,2,Saudi Arabian Grand Prix,2023_02

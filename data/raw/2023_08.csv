@@ -1,0 +1,1318 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,18.3,32.2,64.0,False,2.0,83.08,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,18.3,32.5,64.0,False,1.7,78.075,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,18.5,32.5,63.0,False,2.0,77.767,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,18.4,31.4,64.0,False,1.7,77.203,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,18.5,31.1,65.0,False,2.0,77.371,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,18.5,30.8,62.0,False,2.0,77.607,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,12,True,1.0,18.5,30.8,62.0,False,1.8,77.565,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,2671,False,1.0,18.6,30.8,62.0,False,1.2,92.655,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,18.6,31.1,63.0,False,1.8,77.495,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,18.7,31.9,61.0,False,1.3,77.359,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,18.7,30.9,62.0,False,1.5,77.268,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,124,False,1.0,18.7,31.6,62.0,False,1.2,93.192,True,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,13.0,2.0,HARD,1.0,True,4,False,1.0,18.9,32.9,61.0,False,2.5,149.911,True,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,14.0,2.0,HARD,2.0,True,4,False,1.0,19.0,34.1,61.0,False,1.8,124.639,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,15.0,2.0,HARD,3.0,True,4,False,1.0,19.2,34.0,60.0,False,1.5,114.677,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,16.0,2.0,HARD,4.0,True,41,False,1.0,19.4,34.2,60.0,False,1.2,134.905,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,17.0,2.0,HARD,5.0,True,1,True,1.0,19.4,33.8,61.0,False,1.7,77.145,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,18.0,2.0,HARD,6.0,True,1,True,1.0,19.4,33.0,61.0,False,1.5,76.682,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,19.0,2.0,HARD,7.0,True,1,True,1.0,19.3,32.3,61.0,False,1.3,76.63,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,20.0,2.0,HARD,8.0,True,1,True,1.0,19.2,31.3,62.0,False,1.8,76.607,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,21.0,2.0,HARD,9.0,True,1,True,1.0,18.9,31.3,62.0,False,2.7,76.652,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,22.0,2.0,HARD,10.0,True,1,True,1.0,18.9,31.3,62.0,False,2.7,76.697,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,23.0,2.0,HARD,11.0,True,1,True,1.0,18.7,30.8,64.0,False,3.0,76.946,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,24.0,2.0,HARD,12.0,True,1,True,1.0,18.8,30.8,64.0,False,2.2,76.641,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,25.0,2.0,HARD,13.0,True,1,True,1.0,18.9,30.5,64.0,False,1.5,76.643,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,26.0,2.0,HARD,14.0,True,1,True,1.0,18.8,30.5,64.0,False,1.5,76.785,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,27.0,2.0,HARD,15.0,True,1,True,1.0,18.9,31.6,64.0,False,1.0,76.928,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,28.0,2.0,HARD,16.0,True,1,True,1.0,19.0,31.2,62.0,False,1.7,77.004,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,29.0,2.0,HARD,17.0,True,12,True,1.0,19.1,30.4,61.0,False,2.4,76.807,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,30.0,2.0,HARD,18.0,True,1,True,1.0,19.1,29.8,62.0,False,2.0,77.016,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,31.0,2.0,HARD,19.0,True,1,True,1.0,19.1,29.5,63.0,False,1.6,76.849,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,32.0,2.0,HARD,20.0,True,1,True,1.0,19.1,30.5,64.0,False,1.6,76.918,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,33.0,2.0,HARD,21.0,True,1,True,1.0,19.0,30.5,63.0,False,1.7,76.83,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,34.0,2.0,HARD,22.0,True,1,True,1.0,19.1,30.7,64.0,False,1.5,77.054,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,35.0,2.0,HARD,23.0,True,12,True,1.0,19.1,31.3,62.0,False,2.2,77.225,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,36.0,2.0,HARD,24.0,True,21,True,1.0,19.5,32.3,61.0,False,2.5,77.765,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,37.0,2.0,HARD,25.0,True,1,True,1.0,19.4,32.3,61.0,False,2.5,77.094,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,38.0,2.0,HARD,26.0,True,1,True,1.0,19.4,32.3,61.0,False,2.5,77.011,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,39.0,2.0,HARD,27.0,True,1,True,1.0,19.3,31.6,62.0,False,2.4,77.273,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,40.0,2.0,HARD,28.0,True,1,True,1.0,19.3,31.6,62.0,False,2.4,77.4,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,41.0,2.0,HARD,29.0,True,1,True,1.0,19.4,31.6,62.0,False,2.4,77.017,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,42.0,2.0,HARD,30.0,True,1,False,1.0,19.3,31.7,61.0,False,1.8,93.273,True,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,43.0,3.0,MEDIUM,1.0,True,1,False,1.0,19.4,31.8,60.0,False,1.5,79.311,True,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,44.0,3.0,MEDIUM,2.0,True,1,True,1.0,19.3,31.4,61.0,False,1.8,76.322,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,45.0,3.0,MEDIUM,3.0,True,1,True,1.0,19.1,30.8,62.0,False,1.5,76.092,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,46.0,3.0,MEDIUM,4.0,True,1,True,1.0,19.1,30.7,64.0,False,2.2,76.204,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,47.0,3.0,MEDIUM,5.0,True,1,True,1.0,19.1,30.7,64.0,False,1.8,76.036,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,48.0,3.0,MEDIUM,6.0,True,1,True,1.0,19.2,30.8,63.0,False,2.0,76.109,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,49.0,3.0,MEDIUM,7.0,True,1,True,1.0,19.1,30.4,61.0,False,2.2,75.856,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,50.0,3.0,MEDIUM,8.0,True,1,True,1.0,19.2,30.2,62.0,False,1.8,75.919,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,51.0,3.0,MEDIUM,9.0,True,1,True,1.0,19.1,29.9,62.0,False,2.7,75.795,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,52.0,3.0,MEDIUM,10.0,True,1,True,1.0,19.1,29.3,63.0,False,2.0,76.103,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,53.0,3.0,MEDIUM,11.0,True,1,True,1.0,19.1,29.1,63.0,False,1.8,75.694,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,54.0,3.0,MEDIUM,12.0,True,1,True,1.0,19.0,29.1,64.0,False,1.6,75.732,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,55.0,3.0,MEDIUM,13.0,True,1,True,1.0,19.0,29.1,64.0,False,1.2,75.82,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,56.0,3.0,MEDIUM,14.0,True,1,True,1.0,19.0,29.2,64.0,False,1.2,75.888,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,57.0,3.0,MEDIUM,15.0,True,1,True,1.0,19.1,29.2,63.0,False,1.7,75.945,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,58.0,3.0,MEDIUM,16.0,True,1,True,1.0,19.0,29.3,63.0,False,2.7,75.957,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,59.0,3.0,MEDIUM,17.0,True,1,True,1.0,19.0,29.3,64.0,False,2.0,75.775,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,60.0,3.0,MEDIUM,18.0,True,1,True,1.0,19.0,29.3,63.0,False,2.0,75.866,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,61.0,3.0,MEDIUM,19.0,True,1,True,1.0,19.1,29.2,63.0,False,2.2,75.928,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,62.0,3.0,MEDIUM,20.0,True,1,True,1.0,19.1,29.2,63.0,False,2.4,75.933,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,63.0,3.0,MEDIUM,21.0,True,1,True,1.0,19.1,29.1,63.0,False,2.4,75.937,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,64.0,3.0,MEDIUM,22.0,True,1,True,1.0,19.2,29.7,63.0,False,1.7,76.214,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,65.0,3.0,MEDIUM,23.0,True,1,True,1.0,19.3,29.8,62.0,False,1.8,75.897,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,66.0,3.0,MEDIUM,24.0,True,1,True,1.0,19.3,29.7,61.0,False,2.0,76.233,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,67.0,3.0,MEDIUM,25.0,True,1,True,1.0,19.3,29.5,62.0,False,2.0,76.121,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,68.0,3.0,MEDIUM,26.0,True,1,True,1.0,19.2,29.3,61.0,False,1.6,75.594,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,69.0,3.0,MEDIUM,27.0,True,1,True,1.0,19.3,29.3,62.0,False,1.6,76.169,False,70,2023,8,Canadian Grand Prix,2023_08
+VER,Red Bull Racing,70.0,3.0,MEDIUM,28.0,True,1,True,1.0,19.2,29.4,63.0,False,2.7,76.237,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,1.0,1.0,SOFT,1.0,True,1,False,13.0,18.3,32.2,64.0,False,2.0,91.271,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,2.0,1.0,SOFT,2.0,True,1,True,13.0,18.3,32.5,64.0,False,1.7,79.34,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,3.0,1.0,SOFT,3.0,True,1,True,13.0,18.5,32.5,63.0,False,2.0,78.7,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,4.0,1.0,SOFT,4.0,True,1,True,13.0,18.4,31.4,64.0,False,1.7,78.514,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,5.0,1.0,SOFT,5.0,True,1,True,13.0,18.5,31.1,65.0,False,2.0,78.963,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,6.0,1.0,SOFT,6.0,True,1,True,13.0,18.5,30.8,62.0,False,2.0,78.298,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,7.0,1.0,SOFT,7.0,True,126,False,13.0,18.5,30.8,62.0,False,1.5,79.107,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,8.0,1.0,SOFT,8.0,True,671,False,13.0,18.6,30.8,62.0,False,1.2,93.842,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,9.0,1.0,SOFT,9.0,True,1,True,13.0,18.7,31.6,61.0,False,1.7,78.674,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,10.0,1.0,SOFT,10.0,True,1,False,19.0,18.7,31.9,61.0,False,1.3,100.116,True,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,11.0,2.0,HARD,1.0,False,1,False,19.0,18.7,31.6,62.0,False,1.2,81.94,True,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,12.0,2.0,HARD,2.0,False,124,False,18.0,18.8,32.8,63.0,False,1.5,101.814,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,13.0,2.0,HARD,3.0,False,4,False,18.0,19.0,33.0,61.0,False,2.0,117.989,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,14.0,2.0,HARD,4.0,False,4,False,18.0,19.0,34.3,60.0,False,1.2,126.442,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,15.0,2.0,HARD,5.0,False,4,False,18.0,19.3,34.0,60.0,False,1.7,117.326,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,16.0,2.0,HARD,6.0,False,41,False,18.0,19.4,34.1,61.0,False,1.5,116.432,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,17.0,2.0,HARD,7.0,False,1,True,18.0,19.4,33.1,60.0,False,1.7,79.828,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,18.0,2.0,HARD,8.0,False,1,True,18.0,19.4,33.0,61.0,False,1.5,79.35,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,19.0,2.0,HARD,9.0,False,1,True,18.0,19.3,32.3,61.0,False,1.3,78.419,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,20.0,2.0,HARD,10.0,False,1,True,18.0,19.0,31.3,62.0,False,2.7,78.491,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,21.0,2.0,HARD,11.0,False,1,True,18.0,18.9,31.3,62.0,False,2.7,78.806,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,22.0,2.0,HARD,12.0,False,1,True,18.0,18.9,31.3,62.0,False,2.7,78.438,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,23.0,2.0,HARD,13.0,False,1,True,18.0,18.7,30.8,64.0,False,3.0,78.433,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,24.0,2.0,HARD,14.0,False,1,True,18.0,18.8,30.5,64.0,False,1.8,78.667,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,25.0,2.0,HARD,15.0,False,1,True,18.0,18.9,30.5,64.0,False,1.5,78.288,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,26.0,2.0,HARD,16.0,False,1,True,18.0,18.8,30.5,64.0,False,1.5,78.723,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,27.0,2.0,HARD,17.0,False,1,True,17.0,19.0,31.2,62.0,False,1.7,78.499,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,28.0,2.0,HARD,18.0,False,12,True,17.0,19.0,31.2,62.0,False,1.7,78.338,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,29.0,2.0,HARD,19.0,False,1,True,17.0,19.1,30.4,61.0,False,2.4,78.68,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,30.0,2.0,HARD,20.0,False,1,True,17.0,19.1,29.5,63.0,False,1.6,78.481,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,31.0,2.0,HARD,21.0,False,1,True,16.0,19.1,29.5,63.0,False,1.7,78.422,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,32.0,2.0,HARD,22.0,False,1,True,15.0,19.1,30.5,64.0,False,1.6,78.126,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,33.0,2.0,HARD,23.0,False,1,False,18.0,19.1,30.7,64.0,False,1.5,95.144,True,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,34.0,3.0,HARD,1.0,True,12,False,18.0,19.1,31.3,62.0,False,2.2,80.911,True,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,35.0,3.0,HARD,2.0,True,21,True,15.0,19.4,32.3,61.0,False,2.5,78.144,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,36.0,3.0,HARD,3.0,True,1,True,15.0,19.4,32.3,61.0,False,2.5,77.305,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,37.0,3.0,HARD,4.0,True,1,True,15.0,19.4,32.3,61.0,False,2.5,77.423,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,38.0,3.0,HARD,5.0,True,1,True,15.0,19.3,32.3,62.0,False,1.8,77.251,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,39.0,3.0,HARD,6.0,True,1,True,15.0,19.3,31.6,62.0,False,2.4,77.18,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,40.0,3.0,HARD,7.0,True,1,True,15.0,19.4,31.6,62.0,False,2.4,77.277,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,41.0,3.0,HARD,8.0,True,1,True,15.0,19.3,31.3,62.0,False,1.3,77.126,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,42.0,3.0,HARD,9.0,True,1,True,15.0,19.4,31.8,60.0,False,1.5,77.323,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,43.0,3.0,HARD,10.0,True,1,True,14.0,19.3,31.4,61.0,False,1.8,77.406,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,44.0,3.0,HARD,11.0,True,1,True,14.0,19.1,30.9,61.0,False,2.5,76.924,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,45.0,3.0,HARD,12.0,True,1,True,14.0,19.1,30.8,62.0,False,1.5,76.777,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,46.0,3.0,HARD,13.0,True,1,True,14.0,19.1,30.7,64.0,False,1.8,76.752,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,47.0,3.0,HARD,14.0,True,1,True,14.0,19.2,30.8,63.0,False,2.0,76.95,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,48.0,3.0,HARD,15.0,True,1,True,14.0,19.1,30.7,61.0,False,2.0,77.015,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,49.0,3.0,HARD,16.0,True,1,True,14.0,19.1,30.4,61.0,False,2.2,76.872,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,50.0,3.0,HARD,17.0,True,1,True,14.0,19.1,29.9,62.0,False,2.7,77.012,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,51.0,3.0,HARD,18.0,True,1,True,14.0,19.1,29.5,62.0,False,3.0,76.837,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,52.0,3.0,HARD,19.0,True,1,True,14.0,19.1,29.3,63.0,False,2.0,76.913,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,53.0,3.0,HARD,20.0,True,1,True,14.0,19.0,29.1,64.0,False,1.6,76.813,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,54.0,3.0,HARD,21.0,True,1,True,14.0,19.0,29.1,64.0,False,1.2,76.993,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,55.0,3.0,HARD,22.0,True,1,True,13.0,19.0,29.1,63.0,False,1.5,77.11,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,56.0,3.0,HARD,23.0,True,1,True,13.0,19.0,29.2,64.0,False,1.2,76.987,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,57.0,3.0,HARD,24.0,True,1,True,13.0,19.0,29.3,63.0,False,2.7,76.802,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,58.0,3.0,HARD,25.0,True,1,True,13.0,19.0,29.3,64.0,False,2.0,76.725,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,59.0,3.0,HARD,26.0,True,1,True,13.0,19.0,29.3,63.0,False,2.0,76.556,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,60.0,3.0,HARD,27.0,True,1,True,13.0,19.1,29.2,63.0,False,2.2,76.641,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,61.0,3.0,HARD,28.0,True,1,True,13.0,19.1,29.2,63.0,False,2.4,76.721,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,62.0,3.0,HARD,29.0,True,1,True,13.0,19.1,29.1,63.0,False,2.4,76.66,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,63.0,3.0,HARD,30.0,True,1,True,13.0,19.1,29.1,63.0,False,1.8,76.736,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,64.0,3.0,HARD,31.0,True,1,True,13.0,19.3,29.8,62.0,False,1.8,76.734,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,65.0,3.0,HARD,32.0,True,1,True,13.0,19.3,29.7,61.0,False,2.0,76.898,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,66.0,3.0,HARD,33.0,True,1,True,13.0,19.3,29.5,62.0,False,2.0,76.627,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,67.0,3.0,HARD,34.0,True,1,True,13.0,19.2,29.3,61.0,False,1.6,76.425,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,68.0,3.0,HARD,35.0,True,1,True,13.0,19.3,29.3,62.0,False,1.6,76.896,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,69.0,3.0,HARD,36.0,True,1,True,13.0,19.2,29.4,63.0,False,2.7,77.071,False,70,2023,8,Canadian Grand Prix,2023_08
+GAS,Alpine,70.0,3.0,HARD,37.0,True,1,True,13.0,19.1,29.4,61.0,False,3.0,76.903,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1,False,12.0,18.3,32.2,64.0,False,2.0,90.734,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,2.0,1.0,HARD,2.0,True,1,True,12.0,18.3,32.5,64.0,False,1.7,79.273,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,3.0,1.0,HARD,3.0,True,1,True,12.0,18.5,32.5,63.0,False,2.0,78.51,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,4.0,1.0,HARD,4.0,True,1,True,12.0,18.4,31.4,64.0,False,1.7,78.656,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,12.0,18.5,31.1,65.0,False,2.0,78.45,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,12.0,18.5,30.8,62.0,False,2.0,78.734,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,7.0,1.0,HARD,7.0,True,126,False,12.0,18.5,30.8,62.0,False,1.5,79.228,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,8.0,1.0,HARD,8.0,True,671,False,12.0,18.6,30.8,62.0,False,1.2,93.707,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,12.0,18.7,31.6,61.0,False,1.7,78.635,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,12.0,18.7,31.9,61.0,False,1.3,79.279,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,11.0,18.7,30.9,62.0,False,1.5,78.748,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,12.0,1.0,HARD,12.0,True,124,False,6.0,18.7,31.6,62.0,False,1.2,94.04,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,13.0,1.0,HARD,13.0,True,4,False,6.0,18.9,32.9,61.0,False,2.5,134.77,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,14.0,1.0,HARD,14.0,True,4,False,6.0,19.0,34.1,61.0,False,1.8,124.543,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,15.0,1.0,HARD,15.0,True,4,False,6.0,19.2,34.0,60.0,False,1.5,114.242,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,16.0,1.0,HARD,16.0,True,41,False,6.0,19.4,34.2,60.0,False,1.2,131.415,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,17.0,1.0,HARD,17.0,True,1,True,6.0,19.4,33.8,61.0,False,1.7,79.091,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,18.0,1.0,HARD,18.0,True,1,True,6.0,19.4,33.0,61.0,False,1.5,77.813,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,19.0,1.0,HARD,19.0,True,1,True,6.0,19.3,32.3,61.0,False,1.3,77.754,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,20.0,1.0,HARD,20.0,True,1,True,6.0,19.2,31.3,62.0,False,1.8,77.725,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,21.0,1.0,HARD,21.0,True,1,True,6.0,18.9,31.3,62.0,False,2.7,77.406,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,22.0,1.0,HARD,22.0,True,1,True,6.0,18.9,31.3,62.0,False,2.7,77.701,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,23.0,1.0,HARD,23.0,True,1,True,6.0,18.7,30.8,64.0,False,3.0,77.596,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,24.0,1.0,HARD,24.0,True,1,True,6.0,18.8,30.5,64.0,False,1.8,77.435,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,25.0,1.0,HARD,25.0,True,1,True,6.0,18.9,30.5,64.0,False,1.5,77.545,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,26.0,1.0,HARD,26.0,True,1,True,6.0,18.8,30.5,64.0,False,1.5,77.495,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,27.0,1.0,HARD,27.0,True,1,True,6.0,18.9,31.6,64.0,False,1.0,77.822,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,28.0,1.0,HARD,28.0,True,1,True,6.0,19.0,31.2,62.0,False,1.7,77.642,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,29.0,1.0,HARD,29.0,True,12,True,6.0,19.1,30.4,61.0,False,2.4,77.698,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,30.0,1.0,HARD,30.0,True,1,True,6.0,19.1,29.8,62.0,False,2.0,77.574,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,31.0,1.0,HARD,31.0,True,1,True,6.0,19.1,29.5,63.0,False,1.7,77.742,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,32.0,1.0,HARD,32.0,True,1,True,6.0,19.1,30.5,64.0,False,1.6,77.721,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,33.0,1.0,HARD,33.0,True,1,True,6.0,19.0,30.5,63.0,False,1.7,77.986,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,34.0,1.0,HARD,34.0,True,1,True,6.0,19.1,31.3,62.0,False,2.2,77.967,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,35.0,1.0,HARD,35.0,True,12,True,6.0,19.4,32.3,61.0,False,2.5,77.742,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,36.0,1.0,HARD,36.0,True,21,True,6.0,19.5,32.3,61.0,False,2.5,78.47,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,37.0,1.0,HARD,37.0,True,1,False,6.0,19.4,32.3,61.0,False,2.5,93.65,True,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,38.0,2.0,MEDIUM,1.0,True,1,False,7.0,19.3,32.3,62.0,False,1.8,79.774,True,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,39.0,2.0,MEDIUM,2.0,True,1,True,6.0,19.3,31.6,62.0,False,2.4,76.704,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,40.0,2.0,MEDIUM,3.0,True,1,True,6.0,19.4,31.6,62.0,False,2.4,76.769,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,41.0,2.0,MEDIUM,4.0,True,1,True,6.0,19.3,31.3,62.0,False,1.3,76.41,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,42.0,2.0,MEDIUM,5.0,True,1,True,6.0,19.3,31.7,61.0,False,1.8,76.149,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,43.0,2.0,MEDIUM,6.0,True,1,True,6.0,19.4,31.8,60.0,False,1.5,76.601,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,44.0,2.0,MEDIUM,7.0,True,1,True,6.0,19.1,30.9,61.0,False,2.5,76.17,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,45.0,2.0,MEDIUM,8.0,True,1,True,6.0,19.1,30.8,62.0,False,1.5,76.445,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,46.0,2.0,MEDIUM,9.0,True,1,True,6.0,19.1,30.7,64.0,False,2.2,76.232,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,47.0,2.0,MEDIUM,10.0,True,1,True,6.0,19.1,30.7,64.0,False,1.8,76.288,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,48.0,2.0,MEDIUM,11.0,True,1,True,6.0,19.1,30.7,61.0,False,2.0,76.38,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,49.0,2.0,MEDIUM,12.0,True,1,True,6.0,19.1,30.4,61.0,False,2.2,76.084,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,50.0,2.0,MEDIUM,13.0,True,1,True,6.0,19.2,30.2,62.0,False,1.8,76.684,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,51.0,2.0,MEDIUM,14.0,True,1,True,6.0,19.1,29.5,62.0,False,3.0,76.751,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,52.0,2.0,MEDIUM,15.0,True,1,True,6.0,19.1,29.3,63.0,False,2.0,76.395,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,53.0,2.0,MEDIUM,16.0,True,1,True,6.0,19.1,29.1,63.0,False,1.8,76.774,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,54.0,2.0,MEDIUM,17.0,True,1,True,6.0,19.0,29.1,64.0,False,1.6,76.647,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,55.0,2.0,MEDIUM,18.0,True,1,True,6.0,19.0,29.1,63.0,False,1.5,76.962,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,56.0,2.0,MEDIUM,19.0,True,1,True,6.0,19.0,29.2,64.0,False,1.2,77.069,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,57.0,2.0,MEDIUM,20.0,True,1,True,6.0,19.1,29.2,63.0,False,1.7,76.813,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,58.0,2.0,MEDIUM,21.0,True,1,True,6.0,19.0,29.3,64.0,False,2.0,76.464,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,59.0,2.0,MEDIUM,22.0,True,1,True,6.0,19.0,29.3,63.0,False,2.0,76.468,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,60.0,2.0,MEDIUM,23.0,True,1,True,6.0,19.0,29.3,63.0,False,2.0,76.319,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,61.0,2.0,MEDIUM,24.0,True,1,True,6.0,19.1,29.2,63.0,False,2.2,76.352,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,62.0,2.0,MEDIUM,25.0,True,1,True,6.0,19.1,29.1,63.0,False,2.4,76.308,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,63.0,2.0,MEDIUM,26.0,True,1,True,6.0,19.1,29.1,63.0,False,1.8,76.395,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,64.0,2.0,MEDIUM,27.0,True,1,True,6.0,19.2,29.7,63.0,False,1.7,76.338,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,65.0,2.0,MEDIUM,28.0,True,1,True,6.0,19.3,29.8,62.0,False,1.8,76.57,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,66.0,2.0,MEDIUM,29.0,True,1,True,6.0,19.3,29.5,62.0,False,2.0,76.771,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,67.0,2.0,MEDIUM,30.0,True,1,True,6.0,19.3,29.4,61.0,False,1.5,76.513,False,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,68.0,2.0,MEDIUM,31.0,True,1,False,6.0,19.2,29.3,61.0,False,1.6,92.565,True,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,69.0,3.0,SOFT,1.0,True,1,False,6.0,19.2,29.4,63.0,False,2.7,81.192,True,70,2023,8,Canadian Grand Prix,2023_08
+PER,Red Bull Racing,70.0,3.0,SOFT,2.0,True,1,True,6.0,19.1,29.4,61.0,False,3.0,74.481,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,18.3,32.2,64.0,False,2.0,84.892,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,18.3,32.5,64.0,False,1.7,78.599,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,18.5,32.5,63.0,False,2.0,77.438,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,18.4,31.4,64.0,False,1.7,77.326,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,18.5,31.1,65.0,False,2.0,77.594,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,18.5,30.8,62.0,False,2.0,77.82,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,12,True,3.0,18.5,30.8,62.0,False,1.8,78.208,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,2671,False,3.0,18.6,30.8,62.0,False,1.2,93.379,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,18.6,31.1,63.0,False,1.8,77.68,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,18.7,31.9,61.0,False,1.3,77.789,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,18.7,30.9,62.0,False,1.5,77.393,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,124,False,3.0,18.7,31.6,62.0,False,1.2,99.554,True,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,13.0,2.0,HARD,1.0,False,4,False,3.0,18.9,32.9,61.0,False,2.5,141.915,True,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,14.0,2.0,HARD,2.0,False,4,False,3.0,19.0,34.1,61.0,False,1.8,124.288,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,15.0,2.0,HARD,3.0,False,4,False,3.0,19.2,34.0,60.0,False,1.5,114.68,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,16.0,2.0,HARD,4.0,False,41,False,3.0,19.4,34.2,60.0,False,1.2,132.916,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,17.0,2.0,HARD,5.0,False,1,True,3.0,19.4,33.8,61.0,False,1.7,78.498,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,18.0,2.0,HARD,6.0,False,1,True,3.0,19.4,33.0,61.0,False,1.5,77.073,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,19.0,2.0,HARD,7.0,False,1,True,3.0,19.3,32.3,61.0,False,1.3,76.575,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,20.0,2.0,HARD,8.0,False,1,True,3.0,19.2,31.3,62.0,False,1.8,76.767,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,21.0,2.0,HARD,9.0,False,1,True,3.0,18.9,31.3,62.0,False,2.7,76.8,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,22.0,2.0,HARD,10.0,False,1,True,2.0,18.9,31.3,62.0,False,2.7,76.755,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,23.0,2.0,HARD,11.0,False,1,True,2.0,18.7,30.8,64.0,False,3.0,77.008,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,24.0,2.0,HARD,12.0,False,1,True,2.0,18.8,30.8,64.0,False,2.2,76.929,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,25.0,2.0,HARD,13.0,False,1,True,2.0,18.9,30.5,64.0,False,1.5,76.922,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,26.0,2.0,HARD,14.0,False,1,True,2.0,18.8,30.5,64.0,False,1.5,76.979,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,27.0,2.0,HARD,15.0,False,1,True,2.0,18.9,31.6,64.0,False,1.0,76.819,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,28.0,2.0,HARD,16.0,False,1,True,2.0,19.0,31.2,62.0,False,1.7,77.01,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,29.0,2.0,HARD,17.0,False,12,True,2.0,19.1,30.4,61.0,False,2.4,77.252,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,30.0,2.0,HARD,18.0,False,1,True,2.0,19.1,29.8,62.0,False,2.0,77.295,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,31.0,2.0,HARD,19.0,False,1,True,2.0,19.1,29.5,63.0,False,1.6,77.113,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,32.0,2.0,HARD,20.0,False,1,True,2.0,19.1,30.5,64.0,False,1.6,77.667,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,33.0,2.0,HARD,21.0,False,1,True,2.0,19.0,30.5,63.0,False,1.7,76.991,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,34.0,2.0,HARD,22.0,False,1,True,2.0,19.1,30.7,64.0,False,1.5,77.069,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,35.0,2.0,HARD,23.0,False,12,True,2.0,19.4,32.3,61.0,False,2.5,77.147,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,36.0,2.0,HARD,24.0,False,21,True,2.0,19.5,32.3,61.0,False,2.5,77.649,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,37.0,2.0,HARD,25.0,False,1,True,2.0,19.4,32.3,61.0,False,2.5,77.169,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,38.0,2.0,HARD,26.0,False,1,True,2.0,19.4,32.3,61.0,False,2.5,77.077,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,39.0,2.0,HARD,27.0,False,1,True,2.0,19.3,31.6,62.0,False,2.4,77.026,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,40.0,2.0,HARD,28.0,False,1,True,2.0,19.3,31.6,62.0,False,2.4,77.255,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,41.0,2.0,HARD,29.0,False,1,False,2.0,19.4,31.6,62.0,False,2.4,93.629,True,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,42.0,3.0,HARD,1.0,True,1,False,2.0,19.3,31.7,61.0,False,1.8,79.272,True,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,43.0,3.0,HARD,2.0,True,1,True,2.0,19.4,31.8,60.0,False,1.5,76.258,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,44.0,3.0,HARD,3.0,True,1,True,2.0,19.3,31.4,61.0,False,1.8,76.368,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,45.0,3.0,HARD,4.0,True,1,True,2.0,19.1,30.8,62.0,False,1.5,76.052,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,46.0,3.0,HARD,5.0,True,1,True,2.0,19.1,30.7,64.0,False,2.2,75.891,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,47.0,3.0,HARD,6.0,True,1,True,2.0,19.1,30.7,64.0,False,1.8,77.367,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,48.0,3.0,HARD,7.0,True,1,True,2.0,19.1,30.7,61.0,False,2.0,76.045,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,49.0,3.0,HARD,8.0,True,1,True,2.0,19.1,30.4,61.0,False,2.2,75.895,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,50.0,3.0,HARD,9.0,True,1,True,2.0,19.2,30.2,62.0,False,1.8,76.264,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,51.0,3.0,HARD,10.0,True,1,True,2.0,19.1,29.9,62.0,False,2.7,76.185,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,52.0,3.0,HARD,11.0,True,1,True,2.0,19.1,29.3,63.0,False,2.0,76.197,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,53.0,3.0,HARD,12.0,True,1,True,2.0,19.1,29.1,63.0,False,1.8,75.809,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,54.0,3.0,HARD,13.0,True,1,True,2.0,19.0,29.1,64.0,False,1.6,76.219,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,55.0,3.0,HARD,14.0,True,1,True,2.0,19.0,29.1,64.0,False,1.2,76.187,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,56.0,3.0,HARD,15.0,True,1,True,2.0,19.0,29.2,64.0,False,1.2,76.164,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,57.0,3.0,HARD,16.0,True,1,True,2.0,19.1,29.2,63.0,False,1.7,76.162,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,58.0,3.0,HARD,17.0,True,1,True,2.0,19.0,29.3,63.0,False,2.7,75.97,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,59.0,3.0,HARD,18.0,True,1,True,2.0,19.0,29.3,64.0,False,2.0,75.912,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,60.0,3.0,HARD,19.0,True,1,True,2.0,19.0,29.3,63.0,False,2.0,76.19,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,61.0,3.0,HARD,20.0,True,1,True,2.0,19.1,29.2,63.0,False,2.2,75.853,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,62.0,3.0,HARD,21.0,True,1,True,2.0,19.1,29.2,63.0,False,2.4,75.779,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,63.0,3.0,HARD,22.0,True,1,True,2.0,19.1,29.1,63.0,False,1.8,75.954,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,64.0,3.0,HARD,23.0,True,1,True,2.0,19.2,29.7,63.0,False,1.7,75.938,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,65.0,3.0,HARD,24.0,True,1,True,2.0,19.3,29.8,62.0,False,1.8,76.185,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,66.0,3.0,HARD,25.0,True,1,True,2.0,19.3,29.7,61.0,False,2.0,76.284,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,67.0,3.0,HARD,26.0,True,1,True,2.0,19.3,29.4,61.0,False,1.5,76.81,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,68.0,3.0,HARD,27.0,True,1,True,2.0,19.2,29.3,61.0,False,1.6,76.607,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,69.0,3.0,HARD,28.0,True,1,True,2.0,19.3,29.3,62.0,False,1.6,75.81,False,70,2023,8,Canadian Grand Prix,2023_08
+ALO,Aston Martin,70.0,3.0,HARD,29.0,True,1,True,2.0,19.2,29.4,63.0,False,2.7,76.346,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,18.3,32.2,64.0,False,2.0,88.596,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,18.3,32.5,64.0,False,1.7,79.777,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,18.5,32.5,63.0,False,2.0,78.528,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,18.4,31.4,64.0,False,1.7,78.648,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,18.5,31.1,65.0,False,2.0,78.708,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,18.5,30.8,62.0,False,2.0,78.561,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,12,True,9.0,18.5,30.8,62.0,False,1.5,79.486,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,2671,False,9.0,18.6,30.8,62.0,False,1.2,93.395,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,18.7,31.6,61.0,False,1.7,78.714,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,18.7,31.9,61.0,False,1.3,79.321,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,18.7,30.9,62.0,False,1.5,78.254,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,124,False,4.0,18.7,31.6,62.0,False,1.2,93.68,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,4,False,4.0,18.9,32.9,61.0,False,2.5,135.744,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,4,False,4.0,19.0,34.1,61.0,False,1.8,124.051,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,4,False,4.0,19.2,34.0,60.0,False,1.5,114.498,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,41,False,4.0,19.4,34.2,60.0,False,1.2,132.066,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,19.4,33.8,61.0,False,1.7,78.548,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,19.4,33.0,61.0,False,1.5,77.479,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,19.3,32.3,61.0,False,1.3,77.003,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,19.2,31.3,62.0,False,1.8,77.056,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,18.9,31.3,62.0,False,2.7,77.03,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,18.9,31.3,62.0,False,2.7,77.27,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,18.7,30.8,64.0,False,3.0,77.188,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,18.8,30.8,64.0,False,2.2,77.212,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,4.0,18.9,30.5,64.0,False,1.5,77.21,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,True,4.0,18.8,30.5,64.0,False,1.5,77.353,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,27.0,1.0,MEDIUM,27.0,True,1,True,4.0,18.9,31.6,64.0,False,1.0,77.606,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,28.0,1.0,MEDIUM,28.0,True,1,True,4.0,19.0,31.2,62.0,False,1.7,77.434,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,29.0,1.0,MEDIUM,29.0,True,12,True,4.0,19.1,30.4,61.0,False,2.4,77.54,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,30.0,1.0,MEDIUM,30.0,True,1,True,4.0,19.1,29.8,62.0,False,2.0,77.692,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,31.0,1.0,MEDIUM,31.0,True,1,True,4.0,19.1,29.5,63.0,False,1.7,77.382,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,32.0,1.0,MEDIUM,32.0,True,1,True,4.0,19.1,30.5,64.0,False,1.6,77.387,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,33.0,1.0,MEDIUM,33.0,True,1,True,4.0,19.0,30.5,63.0,False,1.7,77.189,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,34.0,1.0,MEDIUM,34.0,True,1,True,4.0,19.1,30.7,64.0,False,1.5,77.461,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,35.0,1.0,MEDIUM,35.0,True,12,True,4.0,19.4,32.3,61.0,False,2.5,77.742,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,36.0,1.0,MEDIUM,36.0,True,21,True,4.0,19.5,32.3,61.0,False,2.5,78.034,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,37.0,1.0,MEDIUM,37.0,True,1,True,4.0,19.4,32.3,61.0,False,2.5,77.421,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,38.0,1.0,MEDIUM,38.0,True,1,True,4.0,19.3,32.3,62.0,False,1.8,77.566,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,39.0,1.0,MEDIUM,39.0,True,1,False,4.0,19.3,31.6,62.0,False,2.4,94.031,True,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,40.0,2.0,HARD,1.0,True,1,False,4.0,19.3,31.6,62.0,False,2.4,80.182,True,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,41.0,2.0,HARD,2.0,True,1,True,4.0,19.3,31.3,62.0,False,1.3,77.006,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,42.0,2.0,HARD,3.0,True,1,True,4.0,19.3,31.7,61.0,False,1.8,76.18,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,43.0,2.0,HARD,4.0,True,1,True,4.0,19.4,31.8,60.0,False,1.5,76.3,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,44.0,2.0,HARD,5.0,True,1,True,4.0,19.1,30.9,61.0,False,2.5,76.143,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,45.0,2.0,HARD,6.0,True,1,True,4.0,19.1,30.8,62.0,False,1.5,76.401,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,46.0,2.0,HARD,7.0,True,1,True,4.0,19.1,30.7,64.0,False,2.2,76.131,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,47.0,2.0,HARD,8.0,True,1,True,4.0,19.1,30.7,64.0,False,1.8,75.907,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,48.0,2.0,HARD,9.0,True,1,True,4.0,19.1,30.7,61.0,False,2.0,75.959,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,49.0,2.0,HARD,10.0,True,1,True,4.0,19.1,30.4,61.0,False,2.2,75.968,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,50.0,2.0,HARD,11.0,True,1,True,4.0,19.2,30.2,62.0,False,1.8,76.275,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,51.0,2.0,HARD,12.0,True,1,True,4.0,19.1,29.9,62.0,False,2.7,76.191,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,52.0,2.0,HARD,13.0,True,1,True,4.0,19.1,29.3,63.0,False,2.0,76.125,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,53.0,2.0,HARD,14.0,True,1,True,4.0,19.1,29.1,63.0,False,1.8,75.96,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,54.0,2.0,HARD,15.0,True,1,True,4.0,19.0,29.1,64.0,False,1.6,76.126,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,55.0,2.0,HARD,16.0,True,1,True,4.0,19.0,29.1,63.0,False,1.5,76.045,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,56.0,2.0,HARD,17.0,True,1,True,4.0,19.0,29.2,64.0,False,1.2,76.213,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,57.0,2.0,HARD,18.0,True,1,True,4.0,19.1,29.2,63.0,False,1.7,75.968,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,58.0,2.0,HARD,19.0,True,1,True,4.0,19.0,29.3,63.0,False,2.7,76.304,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,59.0,2.0,HARD,20.0,True,1,True,4.0,19.0,29.3,63.0,False,2.0,75.961,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,60.0,2.0,HARD,21.0,True,1,True,4.0,19.0,29.3,63.0,False,2.0,76.241,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,61.0,2.0,HARD,22.0,True,1,True,4.0,19.1,29.2,63.0,False,2.2,76.075,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,62.0,2.0,HARD,23.0,True,1,True,4.0,19.1,29.2,63.0,False,2.4,76.2,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,63.0,2.0,HARD,24.0,True,1,True,4.0,19.1,29.1,63.0,False,1.8,76.135,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,64.0,2.0,HARD,25.0,True,1,True,4.0,19.2,29.7,63.0,False,1.7,75.946,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,65.0,2.0,HARD,26.0,True,1,True,4.0,19.3,29.8,62.0,False,1.8,76.266,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,66.0,2.0,HARD,27.0,True,1,True,4.0,19.3,29.7,61.0,False,2.0,76.241,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,67.0,2.0,HARD,28.0,True,1,True,4.0,19.3,29.4,61.0,False,1.5,76.717,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,68.0,2.0,HARD,29.0,True,1,True,4.0,19.2,29.3,61.0,False,1.6,76.275,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,69.0,2.0,HARD,30.0,True,1,True,4.0,19.3,29.3,62.0,False,1.6,76.497,False,70,2023,8,Canadian Grand Prix,2023_08
+LEC,Ferrari,70.0,2.0,HARD,31.0,True,1,True,4.0,19.1,29.4,61.0,False,3.0,77.197,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,14.0,18.3,32.2,64.0,False,2.0,91.721,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,18.3,32.5,64.0,False,1.7,79.609,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,18.5,32.5,63.0,False,2.0,78.385,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,18.4,31.4,64.0,False,1.7,78.693,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,18.5,31.1,65.0,False,2.0,78.829,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,18.5,30.8,62.0,False,2.0,78.383,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,126,False,14.0,18.5,30.8,62.0,False,1.5,78.993,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,671,False,14.0,18.6,30.8,62.0,False,1.2,93.751,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,18.7,31.6,61.0,False,1.7,78.766,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,18.7,31.9,61.0,False,1.3,79.107,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,False,17.0,18.7,30.9,62.0,False,1.5,94.477,True,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,12.0,2.0,HARD,1.0,False,124,False,16.0,18.8,32.8,63.0,False,1.5,102.344,True,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,13.0,2.0,HARD,2.0,False,4,False,16.0,18.9,32.9,61.0,False,2.5,122.638,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,14.0,2.0,HARD,3.0,False,4,False,16.0,19.0,34.3,60.0,False,1.2,126.626,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,15.0,2.0,HARD,4.0,False,4,False,16.0,19.3,34.0,60.0,False,1.7,116.919,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,16.0,2.0,HARD,5.0,False,41,False,16.0,19.4,34.1,61.0,False,1.5,118.523,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,17.0,2.0,HARD,6.0,False,1,True,16.0,19.4,33.1,60.0,False,1.7,79.965,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,18.0,2.0,HARD,7.0,False,1,True,16.0,19.4,33.0,61.0,False,1.5,79.358,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,19.0,2.0,HARD,8.0,False,1,True,16.0,19.3,32.3,61.0,False,1.3,78.286,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,20.0,2.0,HARD,9.0,False,1,True,16.0,19.0,31.3,62.0,False,2.7,78.443,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,21.0,2.0,HARD,10.0,False,1,True,16.0,18.9,31.3,62.0,False,2.7,78.725,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,22.0,2.0,HARD,11.0,False,1,True,16.0,18.9,31.3,62.0,False,2.7,78.473,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,23.0,2.0,HARD,12.0,False,1,True,16.0,18.7,30.8,64.0,False,3.0,78.564,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,24.0,2.0,HARD,13.0,False,1,True,16.0,18.8,30.5,64.0,False,1.8,78.478,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,25.0,2.0,HARD,14.0,False,1,True,16.0,18.9,30.5,64.0,False,1.5,78.365,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,26.0,2.0,HARD,15.0,False,1,True,16.0,18.8,30.5,64.0,False,1.5,78.736,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,27.0,2.0,HARD,16.0,False,1,False,19.0,19.0,31.2,62.0,False,1.7,94.832,True,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,28.0,3.0,HARD,1.0,True,12,False,19.0,19.0,31.2,62.0,False,1.7,81.189,True,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,29.0,3.0,HARD,2.0,True,1,True,19.0,19.1,29.8,62.0,False,2.0,77.356,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,30.0,3.0,HARD,3.0,True,1,True,19.0,19.1,29.5,63.0,False,1.6,77.222,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,31.0,3.0,HARD,4.0,True,1,True,18.0,19.1,29.5,63.0,False,1.7,77.375,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,32.0,3.0,HARD,5.0,True,1,True,17.0,19.1,30.5,64.0,False,1.6,77.291,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,33.0,3.0,HARD,6.0,True,1,True,16.0,19.1,30.7,64.0,False,1.5,77.145,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,34.0,3.0,HARD,7.0,True,1,True,15.0,19.1,31.3,62.0,False,2.2,77.073,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,35.0,3.0,HARD,8.0,True,12,True,13.0,19.4,32.3,61.0,False,2.5,78.172,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,36.0,3.0,HARD,9.0,True,1,True,13.0,19.4,32.3,61.0,False,2.5,77.476,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,37.0,3.0,HARD,10.0,True,1,True,12.0,19.4,32.3,61.0,False,2.5,77.695,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,38.0,3.0,HARD,11.0,True,1,True,12.0,19.3,32.3,62.0,False,1.8,77.324,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,39.0,3.0,HARD,12.0,True,1,True,12.0,19.3,31.6,62.0,False,2.4,77.369,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,40.0,3.0,HARD,13.0,True,1,True,12.0,19.4,31.6,62.0,False,2.4,77.245,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,41.0,3.0,HARD,14.0,True,1,True,12.0,19.3,31.3,62.0,False,1.3,77.107,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,42.0,3.0,HARD,15.0,True,1,True,12.0,19.3,31.7,61.0,False,1.8,77.235,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,43.0,3.0,HARD,16.0,True,1,True,12.0,19.3,31.4,61.0,False,1.8,77.209,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,44.0,3.0,HARD,17.0,True,1,True,12.0,19.1,30.9,61.0,False,2.5,77.012,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,45.0,3.0,HARD,18.0,True,1,True,12.0,19.1,30.8,62.0,False,1.5,77.169,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,46.0,3.0,HARD,19.0,True,1,True,12.0,19.1,30.7,64.0,False,1.8,77.436,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,47.0,3.0,HARD,20.0,True,1,True,12.0,19.2,30.8,63.0,False,2.0,77.302,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,48.0,3.0,HARD,21.0,True,1,True,12.0,19.1,30.7,61.0,False,2.0,77.003,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,49.0,3.0,HARD,22.0,True,1,True,12.0,19.1,30.4,61.0,False,2.2,76.928,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,50.0,3.0,HARD,23.0,True,1,True,12.0,19.1,29.9,62.0,False,2.7,76.957,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,51.0,3.0,HARD,24.0,True,1,True,12.0,19.1,29.5,62.0,False,3.0,76.852,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,52.0,3.0,HARD,25.0,True,1,True,12.0,19.1,29.3,63.0,False,2.0,76.774,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,53.0,3.0,HARD,26.0,True,1,True,12.0,19.0,29.1,64.0,False,1.6,76.853,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,54.0,3.0,HARD,27.0,True,1,True,12.0,19.0,29.1,64.0,False,1.2,76.865,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,55.0,3.0,HARD,28.0,True,1,True,11.0,19.0,29.1,63.0,False,1.5,76.979,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,56.0,3.0,HARD,29.0,True,1,True,11.0,19.0,29.2,64.0,False,1.2,76.802,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,57.0,3.0,HARD,30.0,True,1,True,11.0,19.0,29.3,63.0,False,2.7,76.771,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,58.0,3.0,HARD,31.0,True,1,True,11.0,19.0,29.3,64.0,False,2.0,76.564,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,59.0,3.0,HARD,32.0,True,1,True,11.0,19.0,29.3,63.0,False,2.0,76.902,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,60.0,3.0,HARD,33.0,True,1,True,11.0,19.0,29.3,63.0,False,2.0,77.117,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,61.0,3.0,HARD,34.0,True,1,True,11.0,19.1,29.2,63.0,False,2.4,77.287,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,62.0,3.0,HARD,35.0,True,1,True,11.0,19.1,29.1,63.0,False,2.4,77.152,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,63.0,3.0,HARD,36.0,True,1,True,11.0,19.1,29.1,63.0,False,1.8,77.324,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,64.0,3.0,HARD,37.0,True,1,True,11.0,19.3,29.8,62.0,False,1.8,77.858,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,65.0,3.0,HARD,38.0,True,1,True,11.0,19.3,29.7,61.0,False,2.0,77.575,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,66.0,3.0,HARD,39.0,True,1,True,11.0,19.3,29.5,62.0,False,2.0,77.11,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,67.0,3.0,HARD,40.0,True,1,True,11.0,19.3,29.4,61.0,False,1.5,77.444,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,68.0,3.0,HARD,41.0,True,1,True,11.0,19.3,29.3,62.0,False,1.6,77.043,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,69.0,3.0,HARD,42.0,True,1,True,11.0,19.2,29.4,63.0,False,2.7,76.985,False,70,2023,8,Canadian Grand Prix,2023_08
+STR,Aston Martin,70.0,3.0,HARD,43.0,True,1,True,10.0,19.1,29.4,61.0,False,3.0,77.214,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,18.3,32.2,64.0,False,2.0,93.033,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,18.3,32.5,64.0,False,1.7,80.814,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,18.5,32.5,63.0,False,2.0,79.105,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,18.0,18.4,31.4,64.0,False,1.7,78.437,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,18.0,18.5,31.1,65.0,False,2.0,79.517,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,18.5,30.8,62.0,False,2.0,79.166,False,70,2023,8,Canadian Grand Prix,2023_08
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1267,False,,18.5,30.8,62.0,False,1.5,,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,1.0,1.0,HARD,1.0,True,1,False,15.0,18.3,32.2,64.0,False,2.0,92.026,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,2.0,1.0,HARD,2.0,True,1,True,15.0,18.3,32.5,64.0,False,1.7,80.354,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,True,15.0,18.5,32.5,63.0,False,2.0,78.742,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,True,15.0,18.4,31.4,64.0,False,1.7,78.198,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,True,15.0,18.5,31.1,65.0,False,2.0,78.466,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,True,15.0,18.5,30.8,62.0,False,2.0,78.684,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,7.0,1.0,HARD,7.0,True,126,False,15.0,18.5,30.8,62.0,False,1.5,79.376,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,8.0,1.0,HARD,8.0,True,671,False,15.0,18.6,30.8,62.0,False,1.2,93.114,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,15.0,18.7,31.6,61.0,False,1.7,78.76,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,True,14.0,18.7,31.9,61.0,False,1.3,79.105,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,True,12.0,18.7,30.9,62.0,False,1.5,78.601,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,12.0,1.0,HARD,12.0,True,124,False,7.0,18.8,32.8,63.0,False,1.5,94.232,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,13.0,1.0,HARD,13.0,True,4,False,7.0,18.9,32.9,61.0,False,2.5,134.339,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,14.0,1.0,HARD,14.0,True,4,False,7.0,19.0,34.1,61.0,False,1.8,125.565,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,15.0,1.0,HARD,15.0,True,4,False,7.0,19.2,34.0,60.0,False,1.5,114.154,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,16.0,1.0,HARD,16.0,True,41,False,7.0,19.4,34.2,60.0,False,1.2,129.71,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,17.0,1.0,HARD,17.0,True,1,True,7.0,19.4,33.8,61.0,False,1.7,79.884,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,18.0,1.0,HARD,18.0,True,1,True,7.0,19.4,33.0,61.0,False,1.5,78.722,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,19.0,1.0,HARD,19.0,True,1,True,7.0,19.3,32.3,61.0,False,1.3,78.253,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,20.0,1.0,HARD,20.0,True,1,True,9.0,19.2,31.3,62.0,False,1.8,79.998,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,21.0,1.0,HARD,21.0,True,1,True,10.0,18.9,31.3,62.0,False,2.7,79.305,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,22.0,1.0,HARD,22.0,True,1,True,10.0,18.9,31.3,62.0,False,2.7,78.576,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,23.0,1.0,HARD,23.0,True,1,True,10.0,18.7,30.8,64.0,False,3.0,78.495,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,24.0,1.0,HARD,24.0,True,1,True,11.0,18.8,30.5,64.0,False,1.8,78.535,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,25.0,1.0,HARD,25.0,True,1,True,11.0,18.9,30.5,64.0,False,1.5,78.916,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,26.0,1.0,HARD,26.0,True,1,True,11.0,18.8,30.5,64.0,False,1.5,78.604,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,27.0,1.0,HARD,27.0,True,1,True,11.0,19.0,31.2,62.0,False,1.7,78.494,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,28.0,1.0,HARD,28.0,True,12,True,12.0,19.0,31.2,62.0,False,1.7,78.932,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,29.0,1.0,HARD,29.0,True,1,True,12.0,19.1,30.4,61.0,False,2.4,78.838,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,30.0,1.0,HARD,30.0,True,1,True,12.0,19.1,29.5,63.0,False,1.6,78.31,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,31.0,1.0,HARD,31.0,True,1,True,12.0,19.1,29.5,63.0,False,1.7,78.534,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,32.0,1.0,HARD,32.0,True,1,True,12.0,19.1,30.5,64.0,False,1.6,78.895,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,33.0,1.0,HARD,33.0,True,1,True,12.0,19.1,30.7,64.0,False,1.5,78.707,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,34.0,1.0,HARD,34.0,True,1,True,12.0,19.1,31.3,62.0,False,2.2,79.494,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,35.0,1.0,HARD,35.0,True,12,False,18.0,19.4,32.3,61.0,False,2.5,139.693,True,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,36.0,2.0,MEDIUM,1.0,True,1,False,19.0,19.4,32.3,61.0,False,2.5,82.185,True,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,37.0,2.0,MEDIUM,2.0,True,1,True,19.0,19.3,32.3,62.0,False,1.8,78.693,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,38.0,2.0,MEDIUM,3.0,True,1,True,19.0,19.3,31.6,62.0,False,2.4,77.415,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,39.0,2.0,MEDIUM,4.0,True,1,True,19.0,19.3,31.6,62.0,False,2.4,77.602,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,40.0,2.0,MEDIUM,5.0,True,1,True,19.0,19.3,31.3,62.0,False,1.3,77.053,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,41.0,2.0,MEDIUM,6.0,True,1,True,19.0,19.3,31.7,61.0,False,1.8,79.79,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,42.0,2.0,MEDIUM,7.0,True,1,True,19.0,19.4,31.8,60.0,False,1.5,78.044,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,43.0,2.0,MEDIUM,8.0,True,1,True,19.0,19.1,30.9,61.0,False,2.5,79.123,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,44.0,2.0,MEDIUM,9.0,True,1,True,18.0,19.1,30.8,62.0,False,1.5,77.638,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,45.0,2.0,MEDIUM,10.0,True,1,True,18.0,19.1,30.7,64.0,False,2.2,77.966,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,46.0,2.0,MEDIUM,11.0,True,1,True,18.0,19.2,30.8,63.0,False,2.0,77.68,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,47.0,2.0,MEDIUM,12.0,True,1,True,18.0,19.1,30.7,61.0,False,2.0,77.44,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,48.0,2.0,MEDIUM,13.0,True,1,True,18.0,19.1,30.4,61.0,False,2.2,77.635,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,49.0,2.0,MEDIUM,14.0,True,1,True,18.0,19.2,30.2,62.0,False,1.8,77.695,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,50.0,2.0,MEDIUM,15.0,True,1,True,18.0,19.1,29.5,62.0,False,3.0,77.705,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,51.0,2.0,MEDIUM,16.0,True,1,True,18.0,19.1,29.3,63.0,False,2.0,77.485,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,52.0,2.0,MEDIUM,17.0,True,1,True,18.0,19.1,29.1,63.0,False,1.8,77.423,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,53.0,2.0,MEDIUM,18.0,True,1,False,18.0,19.0,29.1,64.0,False,1.2,94.636,True,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,54.0,3.0,MEDIUM,1.0,True,1,False,18.0,19.0,29.1,63.0,False,1.5,81.837,True,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,55.0,3.0,MEDIUM,2.0,True,1,True,17.0,19.1,29.2,63.0,False,1.7,76.126,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,56.0,3.0,MEDIUM,3.0,True,1,True,17.0,19.0,29.3,63.0,False,2.7,76.852,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,57.0,3.0,MEDIUM,4.0,True,1,True,17.0,19.0,29.3,64.0,False,2.0,77.045,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,58.0,3.0,MEDIUM,5.0,True,1,True,17.0,19.0,29.3,63.0,False,2.0,76.883,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,59.0,3.0,MEDIUM,6.0,True,1,True,17.0,19.1,29.2,63.0,False,2.2,76.739,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,60.0,3.0,MEDIUM,7.0,True,1,True,17.0,19.1,29.2,63.0,False,2.4,76.722,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,61.0,3.0,MEDIUM,8.0,True,1,True,17.0,19.1,29.1,63.0,False,2.4,76.778,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,62.0,3.0,MEDIUM,9.0,True,1,True,17.0,19.2,29.7,63.0,False,1.7,76.875,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,63.0,3.0,MEDIUM,10.0,True,1,True,17.0,19.3,29.8,62.0,False,1.8,77.057,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,64.0,3.0,MEDIUM,11.0,True,1,True,17.0,19.3,29.7,61.0,False,2.0,76.729,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,65.0,3.0,MEDIUM,12.0,True,1,True,17.0,19.3,29.5,62.0,False,2.0,76.974,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,66.0,3.0,MEDIUM,13.0,True,1,True,17.0,19.2,29.3,61.0,False,1.6,76.791,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,67.0,3.0,MEDIUM,14.0,True,1,True,17.0,19.3,29.3,62.0,False,1.6,76.522,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,68.0,3.0,MEDIUM,15.0,True,1,True,17.0,19.2,29.4,63.0,False,2.7,76.421,False,70,2023,8,Canadian Grand Prix,2023_08
+MAG,Haas F1 Team,69.0,3.0,MEDIUM,16.0,True,1,True,17.0,19.1,29.4,61.0,False,3.0,76.437,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,18.3,32.2,64.0,False,2.0,92.516,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,18.3,32.5,64.0,False,1.7,80.694,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,18.5,32.5,63.0,False,2.0,78.857,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,18.4,31.4,64.0,False,1.7,79.152,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,5.0,1.0,MEDIUM,5.0,True,1,True,17.0,18.5,31.1,65.0,False,2.0,79.341,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,18.5,30.8,62.0,False,2.0,79.234,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,7.0,1.0,MEDIUM,7.0,True,126,False,17.0,18.5,30.8,62.0,False,1.5,83.306,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,8.0,1.0,MEDIUM,8.0,True,671,False,17.0,18.6,30.8,62.0,False,1.2,87.164,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,18.7,31.6,61.0,False,1.7,78.747,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,10.0,1.0,MEDIUM,10.0,True,1,True,16.0,18.7,31.9,61.0,False,1.3,79.008,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,11.0,1.0,MEDIUM,11.0,True,1,False,18.0,18.7,30.9,62.0,False,1.5,96.152,True,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,12.0,2.0,HARD,1.0,True,124,False,17.0,18.8,32.8,63.0,False,1.5,104.807,True,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,13.0,2.0,HARD,2.0,True,4,False,17.0,19.0,33.0,61.0,False,2.0,117.764,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,14.0,2.0,HARD,3.0,True,4,False,17.0,19.0,34.3,60.0,False,1.2,126.58,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,15.0,2.0,HARD,4.0,True,4,False,17.0,19.3,34.0,60.0,False,1.7,117.365,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,16.0,2.0,HARD,5.0,True,41,False,17.0,19.4,34.1,61.0,False,1.5,117.47,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,17.0,2.0,HARD,6.0,True,1,True,17.0,19.4,33.1,60.0,False,1.7,79.948,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,18.0,2.0,HARD,7.0,True,1,True,17.0,19.4,33.0,61.0,False,1.5,79.434,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,19.0,2.0,HARD,8.0,True,1,True,17.0,19.3,32.3,61.0,False,1.3,78.433,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,20.0,2.0,HARD,9.0,True,1,True,17.0,19.0,31.3,62.0,False,2.7,78.4,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,21.0,2.0,HARD,10.0,True,1,True,17.0,18.9,31.3,62.0,False,2.7,78.822,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,22.0,2.0,HARD,11.0,True,1,True,17.0,18.9,31.3,62.0,False,2.7,78.566,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,23.0,2.0,HARD,12.0,True,1,True,17.0,18.7,30.8,64.0,False,3.0,78.364,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,24.0,2.0,HARD,13.0,True,1,True,17.0,18.8,30.5,64.0,False,1.8,78.68,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,25.0,2.0,HARD,14.0,True,1,True,17.0,18.9,30.5,64.0,False,1.5,78.297,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,26.0,2.0,HARD,15.0,True,1,True,17.0,18.8,30.5,64.0,False,1.5,78.624,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,27.0,2.0,HARD,16.0,True,1,True,16.0,19.0,31.2,62.0,False,1.7,78.572,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,28.0,2.0,HARD,17.0,True,12,True,16.0,19.0,31.2,62.0,False,1.7,78.202,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,29.0,2.0,HARD,18.0,True,1,True,16.0,19.1,30.4,61.0,False,2.4,78.635,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,30.0,2.0,HARD,19.0,True,1,True,16.0,19.1,29.5,63.0,False,1.6,78.585,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,31.0,2.0,HARD,20.0,True,1,True,15.0,19.1,29.5,63.0,False,1.7,78.401,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,32.0,2.0,HARD,21.0,True,1,True,14.0,19.1,30.5,64.0,False,1.6,78.282,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,33.0,2.0,HARD,22.0,True,1,True,14.0,19.1,30.7,64.0,False,1.5,78.256,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,34.0,2.0,HARD,23.0,True,1,True,13.0,19.1,31.3,62.0,False,2.2,78.404,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,35.0,2.0,HARD,24.0,True,12,True,19.0,19.4,32.3,61.0,False,2.5,139.671,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,36.0,2.0,HARD,25.0,True,1,True,18.0,19.4,32.3,61.0,False,2.5,78.82,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,37.0,2.0,HARD,26.0,True,1,True,18.0,19.3,32.3,62.0,False,1.8,78.669,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,38.0,2.0,HARD,27.0,True,1,True,18.0,19.3,31.6,62.0,False,2.4,78.352,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,39.0,2.0,HARD,28.0,True,1,True,18.0,19.3,31.6,62.0,False,2.4,78.438,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,40.0,2.0,HARD,29.0,True,1,True,18.0,19.3,31.3,62.0,False,1.3,78.292,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,41.0,2.0,HARD,30.0,True,1,True,18.0,19.3,31.7,61.0,False,1.8,79.22,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,42.0,2.0,HARD,31.0,True,1,True,18.0,19.4,31.8,60.0,False,1.5,78.606,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,43.0,2.0,HARD,32.0,True,1,True,18.0,19.1,30.9,61.0,False,2.5,78.964,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,44.0,2.0,HARD,33.0,True,1,True,19.0,19.1,30.8,62.0,False,1.5,78.632,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,45.0,2.0,HARD,34.0,True,1,True,19.0,19.1,30.7,64.0,False,2.2,78.202,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,46.0,2.0,HARD,35.0,True,1,True,19.0,19.2,30.8,63.0,False,2.0,78.385,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,47.0,2.0,HARD,36.0,True,1,True,19.0,19.1,30.7,61.0,False,2.0,78.838,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,48.0,2.0,HARD,37.0,True,1,True,19.0,19.1,30.4,61.0,False,2.2,78.583,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,49.0,2.0,HARD,38.0,True,1,True,19.0,19.1,29.9,62.0,False,2.7,78.12,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,50.0,2.0,HARD,39.0,True,1,False,19.0,19.1,29.5,62.0,False,3.0,94.364,True,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,51.0,3.0,HARD,1.0,True,1,False,19.0,19.1,29.3,63.0,False,2.0,80.592,True,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,52.0,3.0,HARD,2.0,True,1,True,19.0,19.0,29.1,64.0,False,1.6,76.656,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,53.0,3.0,HARD,3.0,True,1,True,19.0,19.0,29.1,64.0,False,1.2,76.821,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,54.0,3.0,HARD,4.0,True,1,True,19.0,19.0,29.1,63.0,False,1.5,76.899,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,55.0,3.0,HARD,5.0,True,1,True,18.0,19.1,29.2,63.0,False,1.7,77.039,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,56.0,3.0,HARD,6.0,True,1,True,18.0,19.0,29.3,63.0,False,2.7,76.903,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,57.0,3.0,HARD,7.0,True,1,True,18.0,19.0,29.3,64.0,False,2.0,76.784,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,58.0,3.0,HARD,8.0,True,1,True,18.0,19.0,29.3,63.0,False,2.0,77.066,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,59.0,3.0,HARD,9.0,True,1,True,18.0,19.1,29.2,63.0,False,2.2,76.952,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,60.0,3.0,HARD,10.0,True,1,True,18.0,19.1,29.2,63.0,False,2.4,77.573,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,61.0,3.0,HARD,11.0,True,1,True,18.0,19.1,29.1,63.0,False,2.4,77.423,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,62.0,3.0,HARD,12.0,True,1,True,18.0,19.2,29.7,63.0,False,1.7,77.123,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,63.0,3.0,HARD,13.0,True,1,True,18.0,19.3,29.8,62.0,False,1.8,77.105,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,64.0,3.0,HARD,14.0,True,1,True,18.0,19.3,29.7,61.0,False,2.0,77.185,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,65.0,3.0,HARD,15.0,True,1,True,18.0,19.3,29.5,62.0,False,2.0,76.91,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,66.0,3.0,HARD,16.0,True,1,True,18.0,19.2,29.3,61.0,False,1.6,76.704,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,67.0,3.0,HARD,17.0,True,1,True,18.0,19.3,29.3,62.0,False,1.6,76.846,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,68.0,3.0,HARD,18.0,True,1,True,18.0,19.2,29.4,63.0,False,2.7,76.737,False,70,2023,8,Canadian Grand Prix,2023_08
+DEV,AlphaTauri,69.0,3.0,HARD,19.0,True,1,True,18.0,19.1,29.4,61.0,False,3.0,76.779,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,1.0,1.0,MEDIUM,1.0,True,1,False,20.0,18.3,32.2,64.0,False,2.0,109.276,True,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,2.0,2.0,HARD,1.0,True,1,False,20.0,18.3,32.5,64.0,False,1.7,82.407,True,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,3.0,2.0,HARD,2.0,True,1,True,20.0,18.5,32.5,63.0,False,2.0,78.117,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,4.0,2.0,HARD,3.0,True,1,True,20.0,18.4,31.4,64.0,False,1.7,78.038,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,5.0,2.0,HARD,4.0,True,1,True,20.0,18.5,31.1,65.0,False,2.0,78.051,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,6.0,2.0,HARD,5.0,True,1,True,20.0,18.5,30.8,62.0,False,1.8,78.401,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,7.0,2.0,HARD,6.0,True,126,False,19.0,18.5,30.8,62.0,False,1.5,91.754,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,8.0,2.0,HARD,7.0,True,671,False,19.0,18.6,31.1,63.0,False,1.8,79.515,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,9.0,2.0,HARD,8.0,True,1,True,19.0,18.7,31.6,61.0,False,1.7,78.209,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,10.0,2.0,HARD,9.0,True,1,True,18.0,18.7,31.9,61.0,False,1.3,78.063,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,11.0,2.0,HARD,10.0,True,1,True,16.0,18.7,30.9,62.0,False,1.5,78.045,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,12.0,2.0,HARD,11.0,True,124,False,14.0,18.8,32.8,63.0,False,1.5,98.704,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,13.0,2.0,HARD,12.0,True,4,False,13.0,18.9,32.9,61.0,False,2.5,122.936,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,14.0,2.0,HARD,13.0,True,4,False,13.0,19.0,34.1,61.0,False,1.8,127.199,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,15.0,2.0,HARD,14.0,True,4,False,13.0,19.3,34.0,60.0,False,1.7,114.993,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,16.0,2.0,HARD,15.0,True,41,False,13.0,19.4,34.2,60.0,False,1.2,122.457,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,17.0,2.0,HARD,16.0,True,1,True,13.0,19.4,33.1,60.0,False,1.7,79.922,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,18.0,2.0,HARD,17.0,True,1,True,13.0,19.4,33.0,61.0,False,1.5,79.207,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,19.0,2.0,HARD,18.0,True,1,True,13.0,19.3,32.3,61.0,False,1.3,78.282,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,20.0,2.0,HARD,19.0,True,1,True,13.0,19.2,31.3,62.0,False,1.8,78.525,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,21.0,2.0,HARD,20.0,True,1,True,13.0,18.9,31.3,62.0,False,2.7,78.982,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,22.0,2.0,HARD,21.0,True,1,True,13.0,18.9,31.3,62.0,False,2.7,78.264,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,23.0,2.0,HARD,22.0,True,1,True,13.0,18.7,30.8,64.0,False,3.0,78.688,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,24.0,2.0,HARD,23.0,True,1,True,13.0,18.8,30.5,64.0,False,1.8,78.273,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,25.0,2.0,HARD,24.0,True,1,True,13.0,18.9,30.5,64.0,False,1.5,78.716,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,26.0,2.0,HARD,25.0,True,1,True,13.0,18.8,30.5,64.0,False,1.5,78.665,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,27.0,2.0,HARD,26.0,True,1,True,13.0,19.0,31.2,62.0,False,1.7,78.503,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,28.0,2.0,HARD,27.0,True,12,True,13.0,19.0,31.2,62.0,False,1.7,78.426,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,29.0,2.0,HARD,28.0,True,1,True,13.0,19.1,30.4,61.0,False,2.4,78.779,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,30.0,2.0,HARD,29.0,True,1,True,13.0,19.1,29.5,63.0,False,1.6,78.493,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,31.0,2.0,HARD,30.0,True,1,True,13.0,19.1,29.5,63.0,False,1.7,78.383,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,32.0,2.0,HARD,31.0,True,1,True,13.0,19.1,30.5,64.0,False,1.6,78.732,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,33.0,2.0,HARD,32.0,True,1,True,13.0,19.1,30.7,64.0,False,1.5,78.852,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,34.0,2.0,HARD,33.0,True,12,False,17.0,19.1,31.3,62.0,False,2.2,98.07,True,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,35.0,2.0,HARD,34.0,True,21,False,16.0,19.4,32.3,61.0,False,2.5,80.934,True,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,36.0,3.0,None,,False,1,True,16.0,19.4,32.3,61.0,False,2.5,77.334,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,37.0,3.0,None,,False,1,True,16.0,19.4,32.3,61.0,False,2.5,77.398,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,38.0,3.0,None,,False,1,True,16.0,19.3,32.3,62.0,False,1.8,77.432,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,39.0,3.0,None,,False,1,True,16.0,19.3,31.6,62.0,False,2.4,77.2,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,40.0,3.0,None,,False,1,True,16.0,19.4,31.6,62.0,False,2.4,77.258,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,41.0,3.0,None,,False,1,True,16.0,19.3,31.3,62.0,False,1.3,77.222,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,42.0,3.0,None,,False,1,True,16.0,19.4,31.8,60.0,False,1.5,77.217,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,43.0,3.0,None,,False,1,True,16.0,19.3,31.4,61.0,False,1.8,77.383,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,44.0,3.0,None,,False,1,True,16.0,19.1,30.9,61.0,False,2.5,77.637,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,45.0,3.0,None,,False,1,True,16.0,19.1,30.8,62.0,False,1.5,77.706,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,46.0,3.0,None,,False,1,True,16.0,19.1,30.7,64.0,False,1.8,77.131,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,47.0,3.0,None,,False,1,True,16.0,19.2,30.8,63.0,False,2.0,76.967,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,48.0,3.0,None,,False,1,True,15.0,19.1,30.7,61.0,False,2.0,77.026,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,49.0,3.0,None,,False,1,True,15.0,19.2,30.2,62.0,False,1.8,77.204,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,50.0,3.0,None,,False,1,True,15.0,19.1,29.9,62.0,False,2.7,76.859,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,51.0,3.0,None,,False,1,True,15.0,19.1,29.5,62.0,False,3.0,76.781,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,52.0,3.0,None,,False,1,True,15.0,19.1,29.3,63.0,False,2.0,76.781,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,53.0,3.0,None,,False,1,True,15.0,19.0,29.1,64.0,False,1.6,76.743,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,54.0,3.0,None,,False,1,True,15.0,19.0,29.1,64.0,False,1.2,76.952,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,55.0,3.0,None,,False,1,True,14.0,19.0,29.1,63.0,False,1.5,77.393,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,56.0,3.0,None,,False,1,True,14.0,19.1,29.2,63.0,False,1.7,76.713,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,57.0,3.0,None,,False,1,True,14.0,19.0,29.3,63.0,False,2.7,77.006,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,58.0,3.0,None,,False,1,True,14.0,19.0,29.3,64.0,False,2.0,77.553,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,59.0,3.0,None,,False,1,True,14.0,19.0,29.3,63.0,False,2.0,77.599,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,60.0,3.0,None,,False,1,True,14.0,19.1,29.2,63.0,False,2.2,77.103,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,61.0,3.0,None,,False,1,True,14.0,19.1,29.2,63.0,False,2.4,76.941,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,62.0,3.0,None,,False,1,True,14.0,19.1,29.1,63.0,False,2.4,77.008,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,63.0,3.0,None,,False,1,True,14.0,19.2,29.7,63.0,False,1.7,76.93,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,64.0,3.0,None,,False,1,True,14.0,19.3,29.8,62.0,False,1.8,77.143,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,65.0,3.0,None,,False,1,True,14.0,19.3,29.7,61.0,False,2.0,76.984,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,66.0,3.0,None,,False,1,True,14.0,19.3,29.5,62.0,False,2.0,77.01,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,67.0,3.0,None,,False,1,True,14.0,19.2,29.3,61.0,False,1.6,76.821,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,68.0,3.0,None,,False,1,True,14.0,19.3,29.3,62.0,False,1.6,76.666,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,69.0,3.0,None,,False,1,True,14.0,19.2,29.4,63.0,False,2.7,76.852,False,70,2023,8,Canadian Grand Prix,2023_08
+TSU,AlphaTauri,70.0,3.0,None,,False,1,True,14.0,19.1,29.4,61.0,False,3.0,76.957,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,1.0,1.0,MEDIUM,2.0,False,1,False,10.0,18.3,32.2,64.0,False,2.0,89.175,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,2.0,1.0,MEDIUM,3.0,False,1,True,10.0,18.3,32.5,64.0,False,1.7,79.63,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,3.0,1.0,MEDIUM,4.0,False,1,True,10.0,18.5,32.5,63.0,False,2.0,78.618,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,4.0,1.0,MEDIUM,5.0,False,1,True,10.0,18.4,31.4,64.0,False,1.7,78.78,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,5.0,1.0,MEDIUM,6.0,False,1,True,10.0,18.5,31.1,65.0,False,2.0,78.422,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,6.0,1.0,MEDIUM,7.0,False,1,True,10.0,18.5,30.8,62.0,False,2.0,78.745,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,7.0,1.0,MEDIUM,8.0,False,126,False,10.0,18.5,30.8,62.0,False,1.5,79.316,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,8.0,1.0,MEDIUM,9.0,False,671,False,10.0,18.6,30.8,62.0,False,1.2,93.687,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,9.0,1.0,MEDIUM,10.0,False,1,True,10.0,18.7,31.6,61.0,False,1.7,78.467,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,10.0,1.0,MEDIUM,11.0,False,1,True,10.0,18.7,31.9,61.0,False,1.3,79.319,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,11.0,1.0,MEDIUM,12.0,False,1,True,9.0,18.7,30.9,62.0,False,1.5,78.717,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,12.0,1.0,MEDIUM,13.0,False,124,False,12.0,18.7,31.6,62.0,False,1.2,110.487,True,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,13.0,2.0,HARD,1.0,True,4,False,12.0,18.9,32.9,61.0,False,2.5,125.716,True,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,14.0,2.0,HARD,2.0,True,4,False,12.0,19.0,34.1,61.0,False,1.8,127.268,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,15.0,2.0,HARD,3.0,True,4,False,12.0,19.3,34.0,60.0,False,1.7,114.151,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,16.0,2.0,HARD,4.0,True,41,False,12.0,19.4,34.2,60.0,False,1.2,124.986,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,17.0,2.0,HARD,5.0,True,1,True,12.0,19.4,33.1,60.0,False,1.7,80.042,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,18.0,2.0,HARD,6.0,True,1,True,12.0,19.4,33.0,61.0,False,1.5,79.275,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,19.0,2.0,HARD,7.0,True,1,True,11.0,19.3,32.3,61.0,False,1.3,77.882,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,20.0,2.0,HARD,8.0,True,1,True,11.0,19.2,31.3,62.0,False,1.8,78.055,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,21.0,2.0,HARD,9.0,True,1,True,11.0,18.9,31.3,62.0,False,2.7,79.16,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,22.0,2.0,HARD,10.0,True,1,True,12.0,18.9,31.3,62.0,False,2.7,78.868,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,23.0,2.0,HARD,11.0,True,1,True,12.0,18.7,30.8,64.0,False,3.0,78.718,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,24.0,2.0,HARD,12.0,True,1,True,12.0,18.8,30.5,64.0,False,1.8,78.162,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,25.0,2.0,HARD,13.0,True,1,True,12.0,18.9,30.5,64.0,False,1.5,78.775,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,26.0,2.0,HARD,14.0,True,1,True,12.0,18.8,30.5,64.0,False,1.5,78.351,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,27.0,2.0,HARD,15.0,True,1,True,12.0,19.0,31.2,62.0,False,1.7,78.603,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,28.0,2.0,HARD,16.0,True,12,True,11.0,19.0,31.2,62.0,False,1.7,78.563,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,29.0,2.0,HARD,17.0,True,1,True,11.0,19.1,30.4,61.0,False,2.4,78.168,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,30.0,2.0,HARD,18.0,True,1,True,11.0,19.1,29.5,63.0,False,1.6,78.21,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,31.0,2.0,HARD,19.0,True,1,True,11.0,19.1,29.5,63.0,False,1.7,78.12,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,32.0,2.0,HARD,20.0,True,1,True,11.0,19.1,30.5,64.0,False,1.6,78.008,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,33.0,2.0,HARD,21.0,True,1,True,11.0,19.0,30.5,63.0,False,1.7,78.019,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,34.0,2.0,HARD,22.0,True,1,True,11.0,19.1,31.3,62.0,False,2.2,78.271,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,35.0,2.0,HARD,23.0,True,12,True,10.0,19.4,32.3,61.0,False,2.5,78.426,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,36.0,2.0,HARD,24.0,True,21,True,8.0,19.5,32.3,61.0,False,2.5,78.005,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,37.0,2.0,HARD,25.0,True,1,True,7.0,19.4,32.3,61.0,False,2.5,78.128,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,38.0,2.0,HARD,26.0,True,1,True,6.0,19.3,32.3,62.0,False,1.8,77.782,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,39.0,2.0,HARD,27.0,True,1,True,7.0,19.3,31.6,62.0,False,2.4,78.441,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,40.0,2.0,HARD,28.0,True,1,True,7.0,19.4,31.6,62.0,False,2.4,78.091,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,41.0,2.0,HARD,29.0,True,1,True,7.0,19.3,31.3,62.0,False,1.3,78.003,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,42.0,2.0,HARD,30.0,True,1,True,7.0,19.3,31.7,61.0,False,1.8,77.724,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,43.0,2.0,HARD,31.0,True,1,True,7.0,19.4,31.8,60.0,False,1.5,77.673,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,44.0,2.0,HARD,32.0,True,1,True,7.0,19.1,30.9,61.0,False,2.5,77.554,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,45.0,2.0,HARD,33.0,True,1,True,7.0,19.1,30.8,62.0,False,1.5,77.655,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,46.0,2.0,HARD,34.0,True,1,True,7.0,19.1,30.7,64.0,False,2.2,77.657,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,47.0,2.0,HARD,35.0,True,1,True,7.0,19.2,30.8,63.0,False,2.0,77.452,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,48.0,2.0,HARD,36.0,True,1,True,7.0,19.1,30.7,61.0,False,2.0,77.76,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,49.0,2.0,HARD,37.0,True,1,True,7.0,19.1,30.4,61.0,False,2.2,77.687,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,50.0,2.0,HARD,38.0,True,1,True,7.0,19.1,29.9,62.0,False,2.7,77.606,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,51.0,2.0,HARD,39.0,True,1,True,7.0,19.1,29.5,62.0,False,3.0,77.611,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,52.0,2.0,HARD,40.0,True,1,True,7.0,19.1,29.3,63.0,False,2.0,77.421,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,53.0,2.0,HARD,41.0,True,1,True,7.0,19.1,29.1,63.0,False,1.8,77.522,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,54.0,2.0,HARD,42.0,True,1,True,7.0,19.0,29.1,64.0,False,1.2,77.445,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,55.0,2.0,HARD,43.0,True,1,True,7.0,19.0,29.1,63.0,False,1.5,77.418,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,56.0,2.0,HARD,44.0,True,1,True,7.0,19.0,29.2,64.0,False,1.2,77.314,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,57.0,2.0,HARD,45.0,True,1,True,7.0,19.0,29.3,63.0,False,2.7,77.148,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,58.0,2.0,HARD,46.0,True,1,True,7.0,19.0,29.3,64.0,False,2.0,77.384,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,59.0,2.0,HARD,47.0,True,1,True,7.0,19.0,29.3,63.0,False,2.0,77.084,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,60.0,2.0,HARD,48.0,True,1,True,7.0,19.0,29.3,63.0,False,2.0,77.152,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,61.0,2.0,HARD,49.0,True,1,True,7.0,19.1,29.2,63.0,False,2.4,77.208,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,62.0,2.0,HARD,50.0,True,1,True,7.0,19.1,29.1,63.0,False,2.4,77.014,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,63.0,2.0,HARD,51.0,True,1,True,7.0,19.1,29.1,63.0,False,1.8,76.952,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,64.0,2.0,HARD,52.0,True,1,True,7.0,19.3,29.8,62.0,False,1.8,77.129,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,65.0,2.0,HARD,53.0,True,1,True,7.0,19.3,29.7,61.0,False,2.0,77.18,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,66.0,2.0,HARD,54.0,True,1,True,7.0,19.3,29.5,62.0,False,2.0,77.341,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,67.0,2.0,HARD,55.0,True,1,True,7.0,19.3,29.4,61.0,False,1.5,77.213,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,68.0,2.0,HARD,56.0,True,1,True,7.0,19.3,29.3,62.0,False,1.6,76.917,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,69.0,2.0,HARD,57.0,True,1,True,7.0,19.2,29.4,63.0,False,2.7,77.072,False,70,2023,8,Canadian Grand Prix,2023_08
+ALB,Williams,70.0,2.0,HARD,58.0,True,1,True,7.0,19.1,29.4,61.0,False,3.0,77.258,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,1.0,1.0,MEDIUM,1.0,True,1,False,19.0,18.3,32.2,64.0,False,2.0,93.913,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,2.0,1.0,MEDIUM,2.0,True,1,True,19.0,18.3,32.5,64.0,False,1.7,80.515,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,3.0,1.0,MEDIUM,3.0,True,1,True,19.0,18.5,32.5,63.0,False,2.0,78.964,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,18.4,31.4,64.0,False,1.7,78.749,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,5.0,1.0,MEDIUM,5.0,True,1,True,19.0,18.5,31.1,65.0,False,2.0,79.443,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,6.0,1.0,MEDIUM,6.0,True,1,True,19.0,18.5,30.8,62.0,False,2.0,79.469,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,7.0,1.0,MEDIUM,7.0,True,126,False,18.0,18.5,30.8,62.0,False,1.5,85.975,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,8.0,1.0,MEDIUM,8.0,True,671,False,18.0,18.6,30.8,62.0,False,1.2,86.453,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,9.0,1.0,MEDIUM,9.0,True,1,True,18.0,18.7,31.6,61.0,False,1.7,78.601,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,10.0,1.0,MEDIUM,10.0,True,1,True,17.0,18.7,31.9,61.0,False,1.3,78.941,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,18.7,30.9,62.0,False,1.5,78.531,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,12.0,1.0,MEDIUM,12.0,True,124,False,13.0,18.8,32.8,63.0,False,1.5,108.723,True,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,13.0,2.0,HARD,1.0,True,4,False,14.0,18.9,32.9,61.0,False,2.5,124.45,True,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,14.0,2.0,HARD,2.0,True,4,False,14.0,19.0,34.1,61.0,False,1.8,127.167,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,15.0,2.0,HARD,3.0,True,4,False,14.0,19.3,34.0,60.0,False,1.7,115.94,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,16.0,2.0,HARD,4.0,True,41,False,14.0,19.4,34.1,61.0,False,1.5,120.909,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,17.0,2.0,HARD,5.0,True,1,True,14.0,19.4,33.1,60.0,False,1.7,79.911,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,18.0,2.0,HARD,6.0,True,1,True,14.0,19.4,33.0,61.0,False,1.5,79.316,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,19.0,2.0,HARD,7.0,True,1,True,14.0,19.3,32.3,61.0,False,1.3,78.036,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,20.0,2.0,HARD,8.0,True,1,True,14.0,19.2,31.3,62.0,False,1.8,78.76,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,21.0,2.0,HARD,9.0,True,1,True,14.0,18.9,31.3,62.0,False,2.7,78.793,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,22.0,2.0,HARD,10.0,True,1,True,14.0,18.9,31.3,62.0,False,2.7,78.385,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,23.0,2.0,HARD,11.0,True,1,True,14.0,18.7,30.8,64.0,False,3.0,78.673,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,24.0,2.0,HARD,12.0,True,1,True,14.0,18.8,30.5,64.0,False,1.8,78.359,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,25.0,2.0,HARD,13.0,True,1,True,14.0,18.9,30.5,64.0,False,1.5,78.584,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,26.0,2.0,HARD,14.0,True,1,True,14.0,18.8,30.5,64.0,False,1.5,78.734,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,27.0,2.0,HARD,15.0,True,1,True,14.0,19.0,31.2,62.0,False,1.7,78.448,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,28.0,2.0,HARD,16.0,True,12,True,14.0,19.0,31.2,62.0,False,1.7,78.322,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,29.0,2.0,HARD,17.0,True,1,True,14.0,19.1,30.4,61.0,False,2.4,78.94,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,30.0,2.0,HARD,18.0,True,1,True,14.0,19.1,29.5,63.0,False,1.6,78.634,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,31.0,2.0,HARD,19.0,True,1,True,14.0,19.1,29.5,63.0,False,1.7,78.441,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,32.0,2.0,HARD,20.0,True,1,False,19.0,19.1,30.5,64.0,False,1.6,98.634,True,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,33.0,3.0,HARD,1.0,True,1,False,19.0,19.1,30.7,64.0,False,1.5,81.363,True,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,34.0,3.0,HARD,2.0,True,12,True,19.0,19.1,31.3,62.0,False,2.2,78.009,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,35.0,3.0,HARD,3.0,True,21,True,17.0,19.5,32.3,61.0,False,2.5,78.402,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,36.0,3.0,HARD,4.0,True,1,True,17.0,19.4,32.3,61.0,False,2.5,78.055,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,37.0,3.0,HARD,5.0,True,1,True,17.0,19.4,32.3,61.0,False,2.5,77.836,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,38.0,3.0,HARD,6.0,True,1,True,17.0,19.3,32.3,62.0,False,1.8,77.634,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,39.0,3.0,HARD,7.0,True,1,True,17.0,19.3,31.6,62.0,False,2.4,77.219,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,40.0,3.0,HARD,8.0,True,1,True,17.0,19.4,31.6,62.0,False,2.4,77.8,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,41.0,3.0,HARD,9.0,True,1,True,17.0,19.3,31.3,62.0,False,1.3,77.431,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,42.0,3.0,HARD,10.0,True,1,True,17.0,19.4,31.8,60.0,False,1.5,79.675,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,43.0,3.0,HARD,11.0,True,1,True,17.0,19.3,31.4,61.0,False,1.8,78.558,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,44.0,3.0,HARD,12.0,True,1,True,17.0,19.1,30.9,61.0,False,2.5,77.694,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,45.0,3.0,HARD,13.0,True,1,True,17.0,19.1,30.7,64.0,False,2.2,77.575,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,46.0,3.0,HARD,14.0,True,1,True,17.0,19.1,30.7,64.0,False,1.8,77.141,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,47.0,3.0,HARD,15.0,True,1,True,17.0,19.2,30.8,63.0,False,2.0,77.373,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,48.0,3.0,HARD,16.0,True,1,True,17.0,19.1,30.7,61.0,False,2.0,77.366,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,49.0,3.0,HARD,17.0,True,1,True,17.0,19.2,30.2,62.0,False,1.8,77.412,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,50.0,3.0,HARD,18.0,True,1,True,17.0,19.1,29.9,62.0,False,2.7,77.249,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,51.0,3.0,HARD,19.0,True,1,True,17.0,19.1,29.5,62.0,False,3.0,77.503,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,52.0,3.0,HARD,20.0,True,1,True,17.0,19.1,29.1,63.0,False,1.8,77.354,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,53.0,3.0,HARD,21.0,True,1,True,17.0,19.0,29.1,64.0,False,1.6,77.236,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,54.0,3.0,HARD,22.0,True,1,True,17.0,19.0,29.1,64.0,False,1.2,77.404,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,55.0,3.0,HARD,23.0,True,1,True,16.0,19.0,29.1,63.0,False,1.5,77.523,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,56.0,3.0,HARD,24.0,True,1,True,16.0,19.1,29.2,63.0,False,1.7,77.311,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,57.0,3.0,HARD,25.0,True,1,True,16.0,19.0,29.3,63.0,False,2.7,77.237,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,58.0,3.0,HARD,26.0,True,1,True,16.0,19.0,29.3,64.0,False,2.0,77.09,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,59.0,3.0,HARD,27.0,True,1,True,16.0,19.0,29.3,63.0,False,2.0,77.196,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,60.0,3.0,HARD,28.0,True,1,True,16.0,19.1,29.2,63.0,False,2.2,77.227,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,61.0,3.0,HARD,29.0,True,1,True,16.0,19.1,29.2,63.0,False,2.4,78.766,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,62.0,3.0,HARD,30.0,True,1,True,16.0,19.1,29.1,63.0,False,2.4,77.205,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,63.0,3.0,HARD,31.0,True,1,True,16.0,19.2,29.7,63.0,False,1.7,77.721,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,64.0,3.0,HARD,32.0,True,1,True,16.0,19.3,29.8,62.0,False,1.8,77.508,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,65.0,3.0,HARD,33.0,True,1,True,16.0,19.3,29.7,61.0,False,2.0,78.724,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,66.0,3.0,HARD,34.0,True,1,True,16.0,19.3,29.4,61.0,False,1.5,78.688,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,67.0,3.0,HARD,35.0,True,1,True,16.0,19.2,29.3,61.0,False,1.6,79.04,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,68.0,3.0,HARD,36.0,True,1,True,16.0,19.3,29.3,62.0,False,1.6,77.447,False,70,2023,8,Canadian Grand Prix,2023_08
+ZHO,Alfa Romeo,69.0,3.0,HARD,37.0,True,1,True,16.0,19.1,29.4,61.0,False,3.0,78.04,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,18.3,32.2,64.0,False,2.0,87.105,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,18.3,32.5,64.0,False,1.7,79.51,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,18.5,32.5,63.0,False,2.0,78.703,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,18.4,31.4,64.0,False,1.7,78.696,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,18.5,31.1,65.0,False,2.0,78.471,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,18.5,30.8,62.0,False,2.0,78.726,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,12,True,7.0,18.5,30.8,62.0,False,1.5,80.594,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,2671,False,7.0,18.6,30.8,62.0,False,1.2,93.225,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,18.7,31.6,61.0,False,1.7,78.866,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,18.7,31.9,61.0,False,1.3,79.083,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,False,15.0,18.7,30.9,62.0,False,1.5,95.932,True,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,12.0,2.0,HARD,1.0,True,124,False,15.0,18.8,32.8,63.0,False,1.5,101.519,True,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,13.0,2.0,HARD,2.0,True,4,False,15.0,18.9,32.9,61.0,False,2.5,124.074,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,14.0,2.0,HARD,3.0,True,4,False,15.0,19.0,34.3,60.0,False,1.2,126.389,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,15.0,2.0,HARD,4.0,True,4,False,15.0,19.3,34.0,60.0,False,1.7,116.87,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,16.0,2.0,HARD,5.0,True,41,False,15.0,19.4,34.1,61.0,False,1.5,119.366,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,17.0,2.0,HARD,6.0,True,1,True,15.0,19.4,33.1,60.0,False,1.7,80.153,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,18.0,2.0,HARD,7.0,True,1,True,15.0,19.4,33.0,61.0,False,1.5,79.371,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,19.0,2.0,HARD,8.0,True,1,True,15.0,19.3,32.3,61.0,False,1.3,78.199,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,20.0,2.0,HARD,9.0,True,1,True,15.0,19.0,31.3,62.0,False,2.7,78.555,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,21.0,2.0,HARD,10.0,True,1,True,15.0,18.9,31.3,62.0,False,2.7,78.786,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,22.0,2.0,HARD,11.0,True,1,True,15.0,18.9,31.3,62.0,False,2.7,78.348,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,23.0,2.0,HARD,12.0,True,1,True,15.0,18.7,30.8,64.0,False,3.0,78.695,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,24.0,2.0,HARD,13.0,True,1,True,15.0,18.8,30.5,64.0,False,1.8,78.391,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,25.0,2.0,HARD,14.0,True,1,True,15.0,18.9,30.5,64.0,False,1.5,78.537,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,26.0,2.0,HARD,15.0,True,1,True,15.0,18.8,30.5,64.0,False,1.5,78.69,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,27.0,2.0,HARD,16.0,True,1,True,15.0,19.0,31.2,62.0,False,1.7,78.597,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,28.0,2.0,HARD,17.0,True,12,True,15.0,19.0,31.2,62.0,False,1.7,78.49,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,29.0,2.0,HARD,18.0,True,1,True,15.0,19.1,30.4,61.0,False,2.4,78.755,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,30.0,2.0,HARD,19.0,True,1,True,15.0,19.1,29.5,63.0,False,1.6,78.564,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,31.0,2.0,HARD,20.0,True,1,False,19.0,19.1,29.5,63.0,False,1.7,95.3,True,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,32.0,3.0,HARD,1.0,True,1,False,18.0,19.0,30.5,63.0,False,1.7,79.532,True,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,33.0,3.0,HARD,2.0,True,1,True,17.0,19.1,30.7,64.0,False,1.5,77.294,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,34.0,3.0,HARD,3.0,True,1,True,16.0,19.1,31.3,62.0,False,2.2,77.692,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,35.0,3.0,HARD,4.0,True,12,True,14.0,19.4,32.3,61.0,False,2.5,78.484,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,36.0,3.0,HARD,5.0,True,1,True,14.0,19.4,32.3,61.0,False,2.5,77.306,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,37.0,3.0,HARD,6.0,True,1,True,14.0,19.4,32.3,61.0,False,2.5,77.232,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,38.0,3.0,HARD,7.0,True,1,True,14.0,19.3,32.3,62.0,False,1.8,77.889,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,39.0,3.0,HARD,8.0,True,1,True,14.0,19.3,31.6,62.0,False,2.4,77.588,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,40.0,3.0,HARD,9.0,True,1,True,14.0,19.4,31.6,62.0,False,2.4,78.104,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,41.0,3.0,HARD,10.0,True,1,True,14.0,19.3,31.3,62.0,False,1.3,78.009,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,42.0,3.0,HARD,11.0,True,1,True,14.0,19.3,31.7,61.0,False,1.8,77.718,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,43.0,3.0,HARD,12.0,True,1,True,15.0,19.3,31.4,61.0,False,1.8,78.463,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,44.0,3.0,HARD,13.0,True,1,True,15.0,19.1,30.9,61.0,False,2.5,77.961,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,45.0,3.0,HARD,14.0,True,1,True,15.0,19.1,30.8,62.0,False,1.5,77.533,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,46.0,3.0,HARD,15.0,True,1,True,15.0,19.1,30.7,64.0,False,1.8,77.379,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,47.0,3.0,HARD,16.0,True,1,True,15.0,19.2,30.8,63.0,False,2.0,77.6,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,48.0,3.0,HARD,17.0,True,1,True,16.0,19.1,30.7,61.0,False,2.0,77.959,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,49.0,3.0,HARD,18.0,True,1,True,16.0,19.2,30.2,62.0,False,1.8,78.135,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,50.0,3.0,HARD,19.0,True,1,True,16.0,19.1,29.9,62.0,False,2.7,78.019,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,51.0,3.0,HARD,20.0,True,1,True,16.0,19.1,29.5,62.0,False,3.0,77.666,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,52.0,3.0,HARD,21.0,True,1,True,16.0,19.1,29.3,63.0,False,2.0,77.906,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,53.0,3.0,HARD,22.0,True,1,True,16.0,19.0,29.1,64.0,False,1.6,77.449,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,54.0,3.0,HARD,23.0,True,1,True,16.0,19.0,29.1,64.0,False,1.2,78.491,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,55.0,3.0,HARD,24.0,True,1,True,15.0,19.0,29.1,63.0,False,1.5,77.896,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,56.0,3.0,HARD,25.0,True,1,True,15.0,19.1,29.2,63.0,False,1.7,77.498,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,57.0,3.0,HARD,26.0,True,1,True,15.0,19.0,29.3,63.0,False,2.7,77.588,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,58.0,3.0,HARD,27.0,True,1,True,15.0,19.0,29.3,64.0,False,2.0,77.376,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,59.0,3.0,HARD,28.0,True,1,True,15.0,19.0,29.3,63.0,False,2.0,77.427,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,60.0,3.0,HARD,29.0,True,1,True,15.0,19.1,29.2,63.0,False,2.2,77.474,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,61.0,3.0,HARD,30.0,True,1,True,15.0,19.1,29.2,63.0,False,2.4,77.764,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,62.0,3.0,HARD,31.0,True,1,True,15.0,19.1,29.1,63.0,False,2.4,79.143,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,63.0,3.0,HARD,32.0,True,1,True,15.0,19.2,29.7,63.0,False,1.7,77.615,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,64.0,3.0,HARD,33.0,True,1,True,15.0,19.3,29.8,62.0,False,1.8,77.576,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,65.0,3.0,HARD,34.0,True,1,True,15.0,19.3,29.7,61.0,False,2.0,78.148,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,66.0,3.0,HARD,35.0,True,1,True,15.0,19.3,29.4,61.0,False,1.5,79.315,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,67.0,3.0,HARD,36.0,True,1,True,15.0,19.2,29.3,61.0,False,1.6,78.976,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,68.0,3.0,HARD,37.0,True,1,True,15.0,19.3,29.3,62.0,False,1.6,77.562,False,70,2023,8,Canadian Grand Prix,2023_08
+HUL,Haas F1 Team,69.0,3.0,HARD,38.0,True,1,True,15.0,19.1,29.4,61.0,False,3.0,77.964,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,18.3,32.2,64.0,False,2.0,86.367,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,18.3,32.5,64.0,False,1.7,79.331,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,18.5,32.5,63.0,False,2.0,78.462,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,18.4,31.4,64.0,False,1.7,78.494,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,18.5,31.1,65.0,False,2.0,78.419,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,18.5,30.8,62.0,False,2.0,78.462,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,12,True,5.0,18.5,30.8,62.0,False,1.5,78.441,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,2671,False,5.0,18.6,30.8,62.0,False,1.2,92.641,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,18.6,31.1,63.0,False,1.8,78.0,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,18.7,31.9,61.0,False,1.3,78.4,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,18.7,30.9,62.0,False,1.5,78.335,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,124,False,8.0,18.7,31.6,62.0,False,1.2,104.968,True,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,13.0,2.0,HARD,1.0,True,4,False,9.0,18.9,32.9,61.0,False,2.5,135.376,True,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,14.0,2.0,HARD,2.0,True,4,False,9.0,19.0,34.1,61.0,False,1.8,125.785,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,15.0,2.0,HARD,3.0,True,4,False,9.0,19.2,34.0,60.0,False,1.5,114.063,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,16.0,2.0,HARD,4.0,True,41,False,9.0,19.4,34.2,60.0,False,1.2,128.502,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,17.0,2.0,HARD,5.0,True,1,True,9.0,19.4,33.8,61.0,False,1.7,80.127,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,18.0,2.0,HARD,6.0,True,1,True,9.0,19.4,33.0,61.0,False,1.5,78.855,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,19.0,2.0,HARD,7.0,True,1,True,8.0,19.3,32.3,61.0,False,1.3,77.984,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,20.0,2.0,HARD,8.0,True,1,True,7.0,19.2,31.3,62.0,False,1.8,78.038,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,21.0,2.0,HARD,9.0,True,1,True,7.0,18.9,31.3,62.0,False,2.7,77.951,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,22.0,2.0,HARD,10.0,True,1,True,7.0,18.9,31.3,62.0,False,2.7,77.803,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,23.0,2.0,HARD,11.0,True,1,True,7.0,18.7,30.8,64.0,False,3.0,77.847,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,24.0,2.0,HARD,12.0,True,1,True,7.0,18.8,30.5,64.0,False,1.8,77.982,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,25.0,2.0,HARD,13.0,True,1,True,7.0,18.9,30.5,64.0,False,1.5,77.747,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,26.0,2.0,HARD,14.0,True,1,True,7.0,18.8,30.5,64.0,False,1.5,77.904,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,27.0,2.0,HARD,15.0,True,1,True,7.0,19.0,31.2,62.0,False,1.7,77.971,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,28.0,2.0,HARD,16.0,True,1,True,7.0,19.0,31.2,62.0,False,1.7,77.884,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,29.0,2.0,HARD,17.0,True,12,True,7.0,19.1,30.4,61.0,False,2.4,77.937,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,30.0,2.0,HARD,18.0,True,1,True,7.0,19.1,29.8,62.0,False,2.0,78.025,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,31.0,2.0,HARD,19.0,True,1,True,7.0,19.1,29.5,63.0,False,1.7,77.861,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,32.0,2.0,HARD,20.0,True,1,True,7.0,19.1,30.5,64.0,False,1.6,78.069,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,33.0,2.0,HARD,21.0,True,1,True,7.0,19.0,30.5,63.0,False,1.7,78.029,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,34.0,2.0,HARD,22.0,True,1,True,7.0,19.1,31.3,62.0,False,2.2,78.097,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,35.0,2.0,HARD,23.0,True,12,True,7.0,19.4,32.3,61.0,False,2.5,78.236,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,36.0,2.0,HARD,24.0,True,21,False,10.0,19.5,32.3,61.0,False,2.5,94.988,True,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,37.0,3.0,HARD,1.0,True,1,False,9.0,19.4,32.3,61.0,False,2.5,80.851,True,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,38.0,3.0,HARD,2.0,True,1,True,9.0,19.3,32.3,62.0,False,1.8,77.334,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,39.0,3.0,HARD,3.0,True,1,True,9.0,19.3,31.6,62.0,False,2.4,77.173,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,40.0,3.0,HARD,4.0,True,1,True,9.0,19.4,31.6,62.0,False,2.4,77.071,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,41.0,3.0,HARD,5.0,True,1,True,9.0,19.3,31.3,62.0,False,1.3,77.074,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,42.0,3.0,HARD,6.0,True,1,True,9.0,19.3,31.7,61.0,False,1.8,77.059,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,43.0,3.0,HARD,7.0,True,1,True,9.0,19.3,31.4,61.0,False,1.8,77.13,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,44.0,3.0,HARD,8.0,True,1,True,9.0,19.1,30.9,61.0,False,2.5,77.067,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,45.0,3.0,HARD,9.0,True,1,True,9.0,19.1,30.8,62.0,False,1.5,76.869,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,46.0,3.0,HARD,10.0,True,1,True,9.0,19.1,30.7,64.0,False,2.2,76.855,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,47.0,3.0,HARD,11.0,True,1,True,9.0,19.2,30.8,63.0,False,2.0,76.972,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,48.0,3.0,HARD,12.0,True,1,True,9.0,19.1,30.7,61.0,False,2.0,77.109,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,49.0,3.0,HARD,13.0,True,1,True,9.0,19.1,30.4,61.0,False,2.2,77.392,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,50.0,3.0,HARD,14.0,True,1,True,9.0,19.1,29.9,62.0,False,2.7,77.427,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,51.0,3.0,HARD,15.0,True,1,True,9.0,19.1,29.5,62.0,False,3.0,77.339,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,52.0,3.0,HARD,16.0,True,1,True,9.0,19.1,29.3,63.0,False,2.0,77.124,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,53.0,3.0,HARD,17.0,True,1,True,9.0,19.1,29.1,63.0,False,1.8,77.16,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,54.0,3.0,HARD,18.0,True,1,True,9.0,19.0,29.1,64.0,False,1.2,77.068,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,55.0,3.0,HARD,19.0,True,1,True,8.0,19.0,29.1,63.0,False,1.5,77.056,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,56.0,3.0,HARD,20.0,True,1,True,8.0,19.0,29.2,64.0,False,1.2,77.229,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,57.0,3.0,HARD,21.0,True,1,True,8.0,19.0,29.3,63.0,False,2.7,77.057,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,58.0,3.0,HARD,22.0,True,1,True,8.0,19.0,29.3,64.0,False,2.0,77.266,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,59.0,3.0,HARD,23.0,True,1,True,8.0,19.0,29.3,63.0,False,2.0,77.127,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,60.0,3.0,HARD,24.0,True,1,True,8.0,19.0,29.3,63.0,False,2.0,77.272,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,61.0,3.0,HARD,25.0,True,1,True,8.0,19.1,29.2,63.0,False,2.4,77.235,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,62.0,3.0,HARD,26.0,True,1,True,8.0,19.1,29.1,63.0,False,2.4,77.037,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,63.0,3.0,HARD,27.0,True,1,True,8.0,19.1,29.1,63.0,False,1.8,76.782,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,64.0,3.0,HARD,28.0,True,1,True,8.0,19.3,29.8,62.0,False,1.8,77.271,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,65.0,3.0,HARD,29.0,True,1,True,8.0,19.3,29.7,61.0,False,2.0,77.091,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,66.0,3.0,HARD,30.0,True,1,True,8.0,19.3,29.5,62.0,False,2.0,77.31,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,67.0,3.0,HARD,31.0,True,1,True,8.0,19.3,29.4,61.0,False,1.5,77.28,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,68.0,3.0,HARD,32.0,True,1,True,8.0,19.3,29.3,62.0,False,1.6,76.819,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,69.0,3.0,HARD,33.0,True,1,True,8.0,19.2,29.4,63.0,False,2.7,77.073,False,70,2023,8,Canadian Grand Prix,2023_08
+OCO,Alpine,70.0,3.0,HARD,34.0,True,1,True,8.0,19.1,29.4,61.0,False,3.0,77.68,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,18.3,32.2,64.0,False,2.0,88.099,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,18.3,32.5,64.0,False,1.7,79.916,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,18.5,32.5,63.0,False,2.0,78.491,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,18.4,31.4,64.0,False,1.7,78.782,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,18.5,31.1,65.0,False,2.0,78.33,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,18.5,30.8,62.0,False,2.0,78.713,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,12,True,8.0,18.5,30.8,62.0,False,1.5,79.697,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,2671,False,8.0,18.6,30.8,62.0,False,1.2,93.402,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,18.7,31.6,61.0,False,1.7,78.58,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,18.7,31.9,61.0,False,1.3,79.405,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,18.7,30.9,62.0,False,1.5,78.491,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,124,False,11.0,18.7,31.6,62.0,False,1.2,111.157,True,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,13.0,2.0,HARD,1.0,True,4,False,11.0,18.9,32.9,61.0,False,2.5,125.08,True,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,14.0,2.0,HARD,2.0,True,4,False,11.0,19.0,34.1,61.0,False,1.8,126.4,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,15.0,2.0,HARD,3.0,True,4,False,11.0,19.3,34.0,60.0,False,1.7,114.368,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,16.0,2.0,HARD,4.0,True,41,False,11.0,19.4,34.2,60.0,False,1.2,126.06,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,17.0,2.0,HARD,5.0,True,1,True,10.0,19.4,33.1,60.0,False,1.7,80.066,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,18.0,2.0,HARD,6.0,True,1,True,10.0,19.4,33.0,61.0,False,1.5,78.706,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,19.0,2.0,HARD,7.0,True,1,True,10.0,19.3,32.3,61.0,False,1.3,78.075,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,20.0,2.0,HARD,8.0,True,1,True,10.0,19.2,31.3,62.0,False,1.8,78.544,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,21.0,2.0,HARD,9.0,True,1,True,9.0,18.9,31.3,62.0,False,2.7,78.406,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,22.0,2.0,HARD,10.0,True,1,True,9.0,18.9,31.3,62.0,False,2.7,77.979,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,23.0,2.0,HARD,11.0,True,1,True,9.0,18.7,30.8,64.0,False,3.0,77.896,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,24.0,2.0,HARD,12.0,True,1,True,9.0,18.8,30.5,64.0,False,1.8,77.908,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,25.0,2.0,HARD,13.0,True,1,True,9.0,18.9,30.5,64.0,False,1.5,77.821,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,26.0,2.0,HARD,14.0,True,1,True,9.0,18.8,30.5,64.0,False,1.5,78.108,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,27.0,2.0,HARD,15.0,True,1,True,9.0,19.0,31.2,62.0,False,1.7,78.102,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,28.0,2.0,HARD,16.0,True,12,True,9.0,19.0,31.2,62.0,False,1.7,78.137,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,29.0,2.0,HARD,17.0,True,21,True,9.0,19.1,30.4,61.0,False,2.4,77.973,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,30.0,2.0,HARD,18.0,True,1,True,9.0,19.1,29.8,62.0,False,2.0,78.547,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,31.0,2.0,HARD,19.0,True,1,True,9.0,19.1,29.5,63.0,False,1.7,78.246,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,32.0,2.0,HARD,20.0,True,1,True,9.0,19.1,30.5,64.0,False,1.6,78.478,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,33.0,2.0,HARD,21.0,True,1,True,9.0,19.0,30.5,63.0,False,1.7,78.473,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,34.0,2.0,HARD,22.0,True,1,True,9.0,19.1,31.3,62.0,False,2.2,78.487,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,35.0,2.0,HARD,23.0,True,12,False,12.0,19.4,32.3,61.0,False,2.5,93.992,True,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,36.0,3.0,HARD,2.0,False,1,False,12.0,19.4,32.3,61.0,False,2.5,80.153,True,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,37.0,3.0,HARD,3.0,False,1,True,11.0,19.4,32.3,61.0,False,2.5,77.03,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,38.0,3.0,HARD,4.0,False,1,True,11.0,19.3,32.3,62.0,False,1.8,77.462,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,39.0,3.0,HARD,5.0,False,1,True,11.0,19.3,31.6,62.0,False,2.4,77.843,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,40.0,3.0,HARD,6.0,False,1,True,11.0,19.4,31.6,62.0,False,2.4,77.281,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,41.0,3.0,HARD,7.0,False,1,True,11.0,19.3,31.3,62.0,False,1.3,77.13,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,42.0,3.0,HARD,8.0,False,1,True,11.0,19.3,31.7,61.0,False,1.8,77.05,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,43.0,3.0,HARD,9.0,False,1,True,11.0,19.3,31.4,61.0,False,1.8,77.021,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,44.0,3.0,HARD,10.0,False,1,True,11.0,19.1,30.9,61.0,False,2.5,77.014,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,45.0,3.0,HARD,11.0,False,1,True,11.0,19.1,30.8,62.0,False,1.5,76.968,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,46.0,3.0,HARD,12.0,False,1,True,11.0,19.1,30.7,64.0,False,2.2,76.699,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,47.0,3.0,HARD,13.0,False,1,True,11.0,19.2,30.8,63.0,False,2.0,76.92,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,48.0,3.0,HARD,14.0,False,1,True,11.0,19.1,30.7,61.0,False,2.0,77.088,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,49.0,3.0,HARD,15.0,False,1,True,11.0,19.1,30.4,61.0,False,2.2,76.984,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,50.0,3.0,HARD,16.0,False,1,True,11.0,19.1,29.9,62.0,False,2.7,76.53,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,51.0,3.0,HARD,17.0,False,1,True,11.0,19.1,29.5,62.0,False,3.0,77.2,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,52.0,3.0,HARD,18.0,False,1,True,11.0,19.1,29.3,63.0,False,2.0,76.978,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,53.0,3.0,HARD,19.0,False,1,True,11.0,19.1,29.1,63.0,False,1.8,77.019,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,54.0,3.0,HARD,20.0,False,1,True,11.0,19.0,29.1,64.0,False,1.2,77.229,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,55.0,3.0,HARD,21.0,False,1,True,10.0,19.0,29.1,63.0,False,1.5,77.092,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,56.0,3.0,HARD,22.0,False,1,True,10.0,19.0,29.2,64.0,False,1.2,77.006,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,57.0,3.0,HARD,23.0,False,1,True,10.0,19.0,29.3,63.0,False,2.7,77.008,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,58.0,3.0,HARD,24.0,False,1,True,10.0,19.0,29.3,64.0,False,2.0,77.426,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,59.0,3.0,HARD,25.0,False,1,True,10.0,19.0,29.3,63.0,False,2.0,76.885,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,60.0,3.0,HARD,26.0,False,1,True,10.0,19.0,29.3,63.0,False,2.0,77.155,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,61.0,3.0,HARD,27.0,False,1,True,10.0,19.1,29.2,63.0,False,2.4,77.329,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,62.0,3.0,HARD,28.0,False,1,True,10.0,19.1,29.1,63.0,False,2.4,77.217,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,63.0,3.0,HARD,29.0,False,1,True,9.0,19.1,29.1,63.0,False,1.8,77.304,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,64.0,3.0,HARD,30.0,False,1,True,9.0,19.3,29.8,62.0,False,1.8,76.982,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,65.0,3.0,HARD,31.0,False,1,True,9.0,19.3,29.7,61.0,False,2.0,76.374,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,66.0,3.0,HARD,32.0,False,1,True,9.0,19.3,29.5,62.0,False,2.0,77.203,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,67.0,3.0,HARD,33.0,False,1,True,9.0,19.3,29.4,61.0,False,1.5,77.204,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,68.0,3.0,HARD,34.0,False,1,True,9.0,19.3,29.3,62.0,False,1.6,76.9,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,69.0,3.0,HARD,35.0,False,1,True,9.0,19.2,29.4,63.0,False,2.7,77.072,False,70,2023,8,Canadian Grand Prix,2023_08
+NOR,McLaren,70.0,3.0,HARD,36.0,False,1,True,9.0,19.1,29.4,61.0,False,3.0,79.04,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,18.3,32.2,64.0,False,2.0,83.978,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,18.3,32.5,64.0,False,1.7,78.397,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,18.5,32.5,63.0,False,2.0,77.732,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,18.4,31.4,64.0,False,1.7,77.558,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,18.5,31.1,65.0,False,2.0,77.686,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,18.5,30.8,62.0,False,2.0,77.78,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,12,True,2.0,18.5,30.8,62.0,False,1.8,77.955,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,2671,False,2.0,18.6,30.8,62.0,False,1.2,93.462,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,18.6,31.1,63.0,False,1.8,77.616,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,18.7,31.9,61.0,False,1.3,77.597,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,18.7,30.9,62.0,False,1.5,77.692,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,124,False,2.0,18.7,31.6,62.0,False,1.2,99.747,True,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,13.0,2.0,HARD,1.0,True,4,False,2.0,18.9,32.9,61.0,False,2.5,141.261,True,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,14.0,2.0,HARD,2.0,True,4,False,2.0,19.0,34.1,61.0,False,1.8,124.238,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,15.0,2.0,HARD,3.0,True,4,False,2.0,19.2,34.0,60.0,False,1.5,114.617,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,16.0,2.0,HARD,4.0,True,41,False,2.0,19.4,34.2,60.0,False,1.2,133.896,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,17.0,2.0,HARD,5.0,True,1,True,2.0,19.4,33.8,61.0,False,1.7,77.873,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,18.0,2.0,HARD,6.0,True,1,True,2.0,19.4,33.0,61.0,False,1.5,77.081,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,19.0,2.0,HARD,7.0,True,1,True,2.0,19.3,32.3,61.0,False,1.3,76.786,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,20.0,2.0,HARD,8.0,True,1,True,2.0,19.2,31.3,62.0,False,1.8,76.799,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,21.0,2.0,HARD,9.0,True,1,True,2.0,18.9,31.3,62.0,False,2.7,76.848,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,22.0,2.0,HARD,10.0,True,1,True,3.0,18.9,31.3,62.0,False,2.7,77.475,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,23.0,2.0,HARD,11.0,True,1,True,3.0,18.7,30.8,64.0,False,3.0,77.694,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,24.0,2.0,HARD,12.0,True,1,True,3.0,18.8,30.8,64.0,False,2.2,77.241,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,25.0,2.0,HARD,13.0,True,1,True,3.0,18.9,30.5,64.0,False,1.5,77.042,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,26.0,2.0,HARD,14.0,True,1,True,3.0,18.8,30.5,64.0,False,1.5,77.15,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,27.0,2.0,HARD,15.0,True,1,True,3.0,18.9,31.6,64.0,False,1.0,77.051,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,28.0,2.0,HARD,16.0,True,1,True,3.0,19.0,31.2,62.0,False,1.7,77.401,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,29.0,2.0,HARD,17.0,True,12,True,3.0,19.1,30.4,61.0,False,2.4,77.79,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,30.0,2.0,HARD,18.0,True,1,True,3.0,19.1,29.8,62.0,False,2.0,77.176,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,31.0,2.0,HARD,19.0,True,1,True,3.0,19.1,29.5,63.0,False,1.6,77.251,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,32.0,2.0,HARD,20.0,True,1,True,3.0,19.1,30.5,64.0,False,1.6,77.599,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,33.0,2.0,HARD,21.0,True,1,True,3.0,19.0,30.5,63.0,False,1.7,77.279,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,34.0,2.0,HARD,22.0,True,1,True,3.0,19.1,30.7,64.0,False,1.5,77.5,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,35.0,2.0,HARD,23.0,True,12,True,3.0,19.4,32.3,61.0,False,2.5,77.65,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,36.0,2.0,HARD,24.0,True,21,True,3.0,19.5,32.3,61.0,False,2.5,77.875,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,37.0,2.0,HARD,25.0,True,1,True,3.0,19.4,32.3,61.0,False,2.5,77.036,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,38.0,2.0,HARD,26.0,True,1,True,3.0,19.3,32.3,62.0,False,1.8,77.438,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,39.0,2.0,HARD,27.0,True,1,True,3.0,19.3,31.6,62.0,False,2.4,77.517,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,40.0,2.0,HARD,28.0,True,1,False,3.0,19.3,31.6,62.0,False,2.4,93.525,True,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,41.0,3.0,MEDIUM,1.0,True,1,False,3.0,19.3,31.3,62.0,False,1.3,80.396,True,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,42.0,3.0,MEDIUM,2.0,True,1,True,3.0,19.3,31.7,61.0,False,1.8,76.905,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,43.0,3.0,MEDIUM,3.0,True,1,True,3.0,19.4,31.8,60.0,False,1.5,76.281,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,44.0,3.0,MEDIUM,4.0,True,1,True,3.0,19.1,30.9,61.0,False,2.5,76.003,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,45.0,3.0,MEDIUM,5.0,True,1,True,3.0,19.1,30.8,62.0,False,1.5,76.005,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,46.0,3.0,MEDIUM,6.0,True,1,True,3.0,19.1,30.7,64.0,False,2.2,75.879,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,47.0,3.0,MEDIUM,7.0,True,1,True,3.0,19.1,30.7,64.0,False,1.8,75.396,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,48.0,3.0,MEDIUM,8.0,True,1,True,3.0,19.1,30.7,61.0,False,2.0,76.311,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,49.0,3.0,MEDIUM,9.0,True,1,True,3.0,19.1,30.4,61.0,False,2.2,76.114,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,50.0,3.0,MEDIUM,10.0,True,1,True,3.0,19.2,30.2,62.0,False,1.8,76.246,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,51.0,3.0,MEDIUM,11.0,True,1,True,3.0,19.1,29.9,62.0,False,2.7,76.102,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,52.0,3.0,MEDIUM,12.0,True,1,True,3.0,19.1,29.3,63.0,False,2.0,75.691,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,53.0,3.0,MEDIUM,13.0,True,1,True,3.0,19.1,29.1,63.0,False,1.8,76.019,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,54.0,3.0,MEDIUM,14.0,True,1,True,3.0,19.0,29.1,64.0,False,1.6,75.541,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,55.0,3.0,MEDIUM,15.0,True,1,True,3.0,19.0,29.1,64.0,False,1.2,76.102,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,56.0,3.0,MEDIUM,16.0,True,1,True,3.0,19.0,29.2,64.0,False,1.2,75.793,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,57.0,3.0,MEDIUM,17.0,True,1,True,3.0,19.1,29.2,63.0,False,1.7,75.81,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,58.0,3.0,MEDIUM,18.0,True,1,True,3.0,19.0,29.3,63.0,False,2.7,75.802,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,59.0,3.0,MEDIUM,19.0,True,1,True,3.0,19.0,29.3,63.0,False,2.0,75.972,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,60.0,3.0,MEDIUM,20.0,True,1,True,3.0,19.0,29.3,63.0,False,2.0,76.133,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,61.0,3.0,MEDIUM,21.0,True,1,True,3.0,19.1,29.2,63.0,False,2.2,76.292,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,62.0,3.0,MEDIUM,22.0,True,1,True,3.0,19.1,29.2,63.0,False,2.4,76.027,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,63.0,3.0,MEDIUM,23.0,True,1,True,3.0,19.1,29.1,63.0,False,1.8,76.368,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,64.0,3.0,MEDIUM,24.0,True,1,True,3.0,19.2,29.7,63.0,False,1.7,76.316,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,65.0,3.0,MEDIUM,25.0,True,1,True,3.0,19.3,29.8,62.0,False,1.8,76.121,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,66.0,3.0,MEDIUM,26.0,True,1,True,3.0,19.3,29.7,61.0,False,2.0,76.537,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,67.0,3.0,MEDIUM,27.0,True,1,True,3.0,19.3,29.4,61.0,False,1.5,76.651,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,68.0,3.0,MEDIUM,28.0,True,1,True,3.0,19.2,29.3,61.0,False,1.6,76.854,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,69.0,3.0,MEDIUM,29.0,True,1,True,3.0,19.3,29.3,62.0,False,1.6,76.391,False,70,2023,8,Canadian Grand Prix,2023_08
+HAM,Mercedes,70.0,3.0,MEDIUM,30.0,True,1,True,3.0,19.1,29.4,61.0,False,3.0,77.169,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,18.3,32.2,64.0,False,2.0,90.282,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,18.3,32.5,64.0,False,1.7,78.944,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,18.5,32.5,63.0,False,2.0,78.86,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,18.4,31.4,64.0,False,1.7,78.579,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,18.5,31.1,65.0,False,2.0,78.539,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,18.5,30.8,62.0,False,2.0,78.599,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,126,False,11.0,18.5,30.8,62.0,False,1.5,79.321,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,671,False,11.0,18.6,30.8,62.0,False,1.2,93.566,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,18.7,31.6,61.0,False,1.7,78.749,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,18.7,31.9,61.0,False,1.3,79.26,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,18.7,30.9,62.0,False,1.5,78.723,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,124,False,5.0,18.7,31.6,62.0,False,1.2,93.796,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,4,False,5.0,18.9,32.9,61.0,False,2.5,134.981,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,4,False,5.0,19.0,34.1,61.0,False,1.8,124.561,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,4,False,5.0,19.2,34.0,60.0,False,1.5,114.358,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,41,False,5.0,19.4,34.2,60.0,False,1.2,131.509,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,19.4,33.8,61.0,False,1.7,78.682,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,19.4,33.0,61.0,False,1.5,77.425,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,19.3,32.3,61.0,False,1.3,76.829,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,19.2,31.3,62.0,False,1.8,76.961,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,18.9,31.3,62.0,False,2.7,77.337,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,18.9,31.3,62.0,False,2.7,77.036,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,5.0,18.7,30.8,64.0,False,3.0,77.353,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,5.0,18.8,30.5,64.0,False,1.8,77.238,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,5.0,18.9,30.5,64.0,False,1.5,77.854,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,True,5.0,18.8,30.5,64.0,False,1.5,77.87,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,27.0,1.0,MEDIUM,27.0,True,1,True,5.0,18.9,31.6,64.0,False,1.0,77.643,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,28.0,1.0,MEDIUM,28.0,True,1,True,5.0,19.0,31.2,62.0,False,1.7,77.569,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,29.0,1.0,MEDIUM,29.0,True,12,True,5.0,19.1,30.4,61.0,False,2.4,77.432,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,30.0,1.0,MEDIUM,30.0,True,1,True,5.0,19.1,29.8,62.0,False,2.0,77.421,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,31.0,1.0,MEDIUM,31.0,True,1,True,5.0,19.1,29.5,63.0,False,1.7,77.44,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,32.0,1.0,MEDIUM,32.0,True,1,True,5.0,19.1,30.5,64.0,False,1.6,77.359,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,33.0,1.0,MEDIUM,33.0,True,1,True,5.0,19.0,30.5,63.0,False,1.7,77.533,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,34.0,1.0,MEDIUM,34.0,True,1,True,5.0,19.1,30.7,64.0,False,1.5,77.636,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,35.0,1.0,MEDIUM,35.0,True,12,True,5.0,19.4,32.3,61.0,False,2.5,77.452,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,36.0,1.0,MEDIUM,36.0,True,21,True,5.0,19.5,32.3,61.0,False,2.5,77.854,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,37.0,1.0,MEDIUM,37.0,True,1,True,5.0,19.4,32.3,61.0,False,2.5,77.495,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,38.0,1.0,MEDIUM,38.0,True,1,False,5.0,19.3,32.3,62.0,False,1.8,94.125,True,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,39.0,2.0,HARD,1.0,True,1,False,5.0,19.3,31.6,62.0,False,2.4,80.059,True,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,40.0,2.0,HARD,2.0,True,1,True,5.0,19.3,31.6,62.0,False,2.4,77.039,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,41.0,2.0,HARD,3.0,True,1,True,5.0,19.3,31.3,62.0,False,1.3,76.43,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,42.0,2.0,HARD,4.0,True,1,True,5.0,19.3,31.7,61.0,False,1.8,76.722,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,43.0,2.0,HARD,5.0,True,1,True,5.0,19.4,31.8,60.0,False,1.5,77.079,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,44.0,2.0,HARD,6.0,True,1,True,5.0,19.1,30.9,61.0,False,2.5,76.525,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,45.0,2.0,HARD,7.0,True,1,True,5.0,19.1,30.8,62.0,False,1.5,76.099,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,46.0,2.0,HARD,8.0,True,1,True,5.0,19.1,30.7,64.0,False,2.2,76.1,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,47.0,2.0,HARD,9.0,True,1,True,5.0,19.1,30.7,64.0,False,1.8,75.911,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,48.0,2.0,HARD,10.0,True,1,True,5.0,19.1,30.7,61.0,False,2.0,76.195,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,49.0,2.0,HARD,11.0,True,1,True,5.0,19.1,30.4,61.0,False,2.2,76.062,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,50.0,2.0,HARD,12.0,True,1,True,5.0,19.2,30.2,62.0,False,1.8,76.304,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,51.0,2.0,HARD,13.0,True,1,True,5.0,19.1,29.5,62.0,False,3.0,76.188,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,52.0,2.0,HARD,14.0,True,1,True,5.0,19.1,29.3,63.0,False,2.0,76.091,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,53.0,2.0,HARD,15.0,True,1,True,5.0,19.1,29.1,63.0,False,1.8,76.058,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,54.0,2.0,HARD,16.0,True,1,True,5.0,19.0,29.1,64.0,False,1.6,76.321,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,55.0,2.0,HARD,17.0,True,1,True,5.0,19.0,29.1,63.0,False,1.5,75.954,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,56.0,2.0,HARD,18.0,True,1,True,5.0,19.0,29.2,64.0,False,1.2,76.357,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,57.0,2.0,HARD,19.0,True,1,True,5.0,19.1,29.2,63.0,False,1.7,76.802,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,58.0,2.0,HARD,20.0,True,1,True,5.0,19.0,29.3,63.0,False,2.7,76.14,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,59.0,2.0,HARD,21.0,True,1,True,5.0,19.0,29.3,63.0,False,2.0,75.966,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,60.0,2.0,HARD,22.0,True,1,True,5.0,19.0,29.3,63.0,False,2.0,75.947,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,61.0,2.0,HARD,23.0,True,1,True,5.0,19.1,29.2,63.0,False,2.2,76.007,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,62.0,2.0,HARD,24.0,True,1,True,5.0,19.1,29.2,63.0,False,2.4,76.186,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,63.0,2.0,HARD,25.0,True,1,True,5.0,19.1,29.1,63.0,False,1.8,76.045,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,64.0,2.0,HARD,26.0,True,1,True,5.0,19.2,29.7,63.0,False,1.7,76.028,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,65.0,2.0,HARD,27.0,True,1,True,5.0,19.3,29.8,62.0,False,1.8,76.328,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,66.0,2.0,HARD,28.0,True,1,True,5.0,19.3,29.5,62.0,False,2.0,76.672,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,67.0,2.0,HARD,29.0,True,1,True,5.0,19.3,29.4,61.0,False,1.5,76.307,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,68.0,2.0,HARD,30.0,True,1,True,5.0,19.2,29.3,61.0,False,1.6,76.541,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,69.0,2.0,HARD,31.0,True,1,True,5.0,19.3,29.3,62.0,False,1.6,76.349,False,70,2023,8,Canadian Grand Prix,2023_08
+SAI,Ferrari,70.0,2.0,HARD,32.0,True,1,True,5.0,19.1,29.4,61.0,False,3.0,76.905,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,18.3,32.2,64.0,False,2.0,85.376,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,18.3,32.5,64.0,False,1.7,78.882,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,18.5,32.5,63.0,False,2.0,77.996,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,18.4,31.4,64.0,False,1.7,77.594,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,18.5,31.1,65.0,False,2.0,77.64,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,18.5,30.8,62.0,False,2.0,77.659,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,12,True,4.0,18.5,30.8,62.0,False,1.5,77.63,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,2671,False,4.0,18.6,30.8,62.0,False,1.2,93.289,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,18.6,31.1,63.0,False,1.8,77.463,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,18.7,31.9,61.0,False,1.3,77.968,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,18.7,30.9,62.0,False,1.5,77.917,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,124,False,19.0,18.7,31.6,62.0,False,1.2,,True,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,13.0,2.0,HARD,1.0,True,4,False,19.0,19.0,34.1,61.0,False,1.8,86.211,True,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,14.0,2.0,HARD,2.0,True,4,False,19.0,19.0,34.3,60.0,False,1.2,84.964,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,15.0,2.0,HARD,3.0,True,4,False,19.0,19.3,34.0,60.0,False,1.7,115.105,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,16.0,2.0,HARD,4.0,True,41,False,19.0,19.4,34.1,61.0,False,1.5,115.028,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,17.0,2.0,HARD,5.0,True,1,True,19.0,19.4,33.1,60.0,False,1.7,80.013,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,18.0,2.0,HARD,6.0,True,1,True,19.0,19.4,33.0,61.0,False,1.5,79.23,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,19.0,2.0,HARD,7.0,True,1,True,19.0,19.3,32.3,61.0,False,1.3,78.853,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,20.0,2.0,HARD,8.0,True,1,True,19.0,19.0,31.3,62.0,False,2.7,78.285,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,21.0,2.0,HARD,9.0,True,1,True,19.0,18.9,31.3,62.0,False,2.7,78.664,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,22.0,2.0,HARD,10.0,True,1,True,19.0,18.9,31.3,62.0,False,2.7,78.499,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,23.0,2.0,HARD,11.0,True,1,True,19.0,18.7,30.8,64.0,False,3.0,78.546,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,24.0,2.0,HARD,12.0,True,1,True,19.0,18.8,30.5,64.0,False,1.8,78.527,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,25.0,2.0,HARD,13.0,True,1,True,19.0,18.9,30.5,64.0,False,1.5,78.428,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,26.0,2.0,HARD,14.0,True,1,True,19.0,18.8,30.5,64.0,False,1.5,78.416,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,27.0,2.0,HARD,15.0,True,1,True,18.0,19.0,31.2,62.0,False,1.7,78.965,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,28.0,2.0,HARD,16.0,True,12,True,18.0,19.0,31.2,62.0,False,1.7,78.265,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,29.0,2.0,HARD,17.0,True,1,True,18.0,19.1,30.4,61.0,False,2.4,78.39,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,30.0,2.0,HARD,18.0,True,1,True,18.0,19.1,29.5,63.0,False,1.6,78.882,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,31.0,2.0,HARD,19.0,True,1,True,17.0,19.1,29.5,63.0,False,1.7,78.326,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,32.0,2.0,HARD,20.0,True,1,True,16.0,19.1,30.5,64.0,False,1.6,78.308,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,33.0,2.0,HARD,21.0,True,1,True,15.0,19.1,30.7,64.0,False,1.5,77.94,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,34.0,2.0,HARD,22.0,True,1,True,14.0,19.1,31.3,62.0,False,2.2,77.868,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,35.0,2.0,HARD,23.0,True,12,True,11.0,19.4,32.3,61.0,False,2.5,78.314,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,36.0,2.0,HARD,24.0,True,1,True,9.0,19.5,32.3,61.0,False,2.5,77.626,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,37.0,2.0,HARD,25.0,True,1,True,8.0,19.4,32.3,61.0,False,2.5,77.619,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,38.0,2.0,HARD,26.0,True,1,True,8.0,19.3,32.3,62.0,False,1.8,78.02,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,39.0,2.0,HARD,27.0,True,1,True,8.0,19.3,31.6,62.0,False,2.4,77.436,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,40.0,2.0,HARD,28.0,True,1,True,8.0,19.4,31.6,62.0,False,2.4,77.645,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,41.0,2.0,HARD,29.0,True,1,True,8.0,19.3,31.3,62.0,False,1.3,77.818,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,42.0,2.0,HARD,30.0,True,1,True,8.0,19.3,31.7,61.0,False,1.8,77.676,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,43.0,2.0,HARD,31.0,True,1,True,8.0,19.3,31.4,61.0,False,1.8,77.393,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,44.0,2.0,HARD,32.0,True,1,True,8.0,19.1,30.9,61.0,False,2.5,77.097,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,45.0,2.0,HARD,33.0,True,1,True,8.0,19.1,30.8,62.0,False,1.5,77.114,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,46.0,2.0,HARD,34.0,True,1,True,8.0,19.1,30.7,64.0,False,2.2,77.387,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,47.0,2.0,HARD,35.0,True,1,True,8.0,19.2,30.8,63.0,False,2.0,77.358,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,48.0,2.0,HARD,36.0,True,1,True,8.0,19.1,30.7,61.0,False,2.0,77.711,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,49.0,2.0,HARD,37.0,True,1,True,8.0,19.1,30.4,61.0,False,2.2,77.886,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,50.0,2.0,HARD,38.0,True,1,True,8.0,19.1,29.9,62.0,False,2.7,77.63,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,51.0,2.0,HARD,39.0,True,1,True,8.0,19.1,29.5,62.0,False,3.0,77.337,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,52.0,2.0,HARD,40.0,True,1,True,8.0,19.1,29.3,63.0,False,2.0,77.582,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,53.0,2.0,HARD,41.0,True,1,True,8.0,19.1,29.1,63.0,False,1.8,77.576,False,70,2023,8,Canadian Grand Prix,2023_08
+RUS,Mercedes,54.0,2.0,HARD,42.0,True,1,False,8.0,19.0,29.1,64.0,False,1.2,,True,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,1.0,1.0,HARD,1.0,True,1,False,16.0,18.3,32.2,64.0,False,2.0,92.12,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,2.0,1.0,HARD,2.0,True,1,True,16.0,18.3,32.5,64.0,False,1.7,80.588,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,3.0,1.0,HARD,3.0,True,1,True,16.0,18.5,32.5,63.0,False,2.0,78.791,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,4.0,1.0,HARD,4.0,True,1,True,16.0,18.4,31.4,64.0,False,1.7,78.629,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,5.0,1.0,HARD,5.0,True,1,True,16.0,18.5,31.1,65.0,False,2.0,79.448,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,6.0,1.0,HARD,6.0,True,1,True,16.0,18.5,30.8,62.0,False,2.0,78.775,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,7.0,1.0,HARD,7.0,True,126,False,16.0,18.5,30.8,62.0,False,1.5,80.352,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,8.0,1.0,HARD,8.0,True,671,False,16.0,18.6,30.8,62.0,False,1.2,90.942,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,9.0,1.0,HARD,9.0,True,1,True,16.0,18.7,31.6,61.0,False,1.7,78.676,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,10.0,1.0,HARD,10.0,True,1,True,15.0,18.7,31.9,61.0,False,1.3,79.076,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,11.0,1.0,HARD,11.0,True,1,True,13.0,18.7,30.9,62.0,False,1.5,78.722,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,12.0,1.0,HARD,12.0,True,124,False,9.0,18.8,32.8,63.0,False,1.5,95.179,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,13.0,1.0,HARD,13.0,True,4,False,8.0,18.9,32.9,61.0,False,2.5,133.525,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,14.0,1.0,HARD,14.0,True,4,False,8.0,19.0,34.1,61.0,False,1.8,125.785,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,15.0,1.0,HARD,15.0,True,4,False,8.0,19.2,34.0,60.0,False,1.5,113.889,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,16.0,1.0,HARD,16.0,True,41,False,8.0,19.4,34.2,60.0,False,1.2,129.016,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,17.0,1.0,HARD,17.0,True,1,True,8.0,19.4,33.8,61.0,False,1.7,80.209,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,18.0,1.0,HARD,18.0,True,1,True,8.0,19.4,33.0,61.0,False,1.5,78.647,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,19.0,1.0,HARD,19.0,True,1,True,9.0,19.3,32.3,61.0,False,1.3,79.098,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,20.0,1.0,HARD,20.0,True,1,True,8.0,19.2,31.3,62.0,False,1.8,78.637,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,21.0,1.0,HARD,21.0,True,1,True,8.0,18.9,31.3,62.0,False,2.7,78.254,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,22.0,1.0,HARD,22.0,True,1,True,8.0,18.9,31.3,62.0,False,2.7,77.856,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,23.0,1.0,HARD,23.0,True,1,True,8.0,18.7,30.8,64.0,False,3.0,77.955,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,24.0,1.0,HARD,24.0,True,1,True,8.0,18.8,30.5,64.0,False,1.8,77.801,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,25.0,1.0,HARD,25.0,True,1,True,8.0,18.9,30.5,64.0,False,1.5,77.974,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,26.0,1.0,HARD,26.0,True,1,True,8.0,18.8,30.5,64.0,False,1.5,78.074,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,27.0,1.0,HARD,27.0,True,1,True,8.0,19.0,31.2,62.0,False,1.7,78.115,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,28.0,1.0,HARD,28.0,True,1,True,8.0,19.0,31.2,62.0,False,1.7,78.066,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,29.0,1.0,HARD,29.0,True,12,True,8.0,19.1,30.4,61.0,False,2.4,77.951,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,30.0,1.0,HARD,30.0,True,1,True,8.0,19.1,29.8,62.0,False,2.0,78.248,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,31.0,1.0,HARD,31.0,True,1,True,8.0,19.1,29.5,63.0,False,1.7,77.864,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,32.0,1.0,HARD,32.0,True,1,True,8.0,19.1,30.5,64.0,False,1.6,78.405,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,33.0,1.0,HARD,33.0,True,1,True,8.0,19.0,30.5,63.0,False,1.7,78.009,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,34.0,1.0,HARD,34.0,True,1,True,8.0,19.1,31.3,62.0,False,2.2,78.247,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,35.0,1.0,HARD,35.0,True,12,True,8.0,19.4,32.3,61.0,False,2.5,78.167,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,36.0,1.0,HARD,36.0,True,21,False,11.0,19.5,32.3,61.0,False,2.5,94.981,True,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,37.0,2.0,MEDIUM,1.0,True,1,False,10.0,19.4,32.3,61.0,False,2.5,79.412,True,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,38.0,2.0,MEDIUM,2.0,True,1,True,10.0,19.3,32.3,62.0,False,1.8,77.246,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,39.0,2.0,MEDIUM,3.0,True,1,True,10.0,19.3,31.6,62.0,False,2.4,77.146,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,40.0,2.0,MEDIUM,4.0,True,1,True,10.0,19.4,31.6,62.0,False,2.4,76.993,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,41.0,2.0,MEDIUM,5.0,True,1,True,10.0,19.3,31.3,62.0,False,1.3,77.131,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,42.0,2.0,MEDIUM,6.0,True,1,True,10.0,19.3,31.7,61.0,False,1.8,77.289,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,43.0,2.0,MEDIUM,7.0,True,1,True,10.0,19.3,31.4,61.0,False,1.8,77.022,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,44.0,2.0,MEDIUM,8.0,True,1,True,10.0,19.1,30.9,61.0,False,2.5,76.993,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,45.0,2.0,MEDIUM,9.0,True,1,True,10.0,19.1,30.8,62.0,False,1.5,76.931,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,46.0,2.0,MEDIUM,10.0,True,1,True,10.0,19.1,30.7,64.0,False,2.2,76.818,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,47.0,2.0,MEDIUM,11.0,True,1,True,10.0,19.2,30.8,63.0,False,2.0,77.045,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,48.0,2.0,MEDIUM,12.0,True,1,True,10.0,19.1,30.7,61.0,False,2.0,77.235,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,49.0,2.0,MEDIUM,13.0,True,1,True,10.0,19.1,30.4,61.0,False,2.2,77.272,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,50.0,2.0,MEDIUM,14.0,True,1,True,10.0,19.1,29.9,62.0,False,2.7,77.201,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,51.0,2.0,MEDIUM,15.0,True,1,True,10.0,19.1,29.5,62.0,False,3.0,77.201,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,52.0,2.0,MEDIUM,16.0,True,1,True,10.0,19.1,29.3,63.0,False,2.0,76.625,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,53.0,2.0,MEDIUM,17.0,True,1,True,10.0,19.1,29.1,63.0,False,1.8,77.114,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,54.0,2.0,MEDIUM,18.0,True,1,True,10.0,19.0,29.1,64.0,False,1.2,77.298,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,55.0,2.0,MEDIUM,19.0,True,1,True,9.0,19.0,29.1,63.0,False,1.5,77.004,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,56.0,2.0,MEDIUM,20.0,True,1,True,9.0,19.0,29.2,64.0,False,1.2,77.129,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,57.0,2.0,MEDIUM,21.0,True,1,True,9.0,19.0,29.3,63.0,False,2.7,77.047,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,58.0,2.0,MEDIUM,22.0,True,1,True,9.0,19.0,29.3,64.0,False,2.0,77.323,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,59.0,2.0,MEDIUM,23.0,True,1,True,9.0,19.0,29.3,63.0,False,2.0,77.052,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,60.0,2.0,MEDIUM,24.0,True,1,True,9.0,19.0,29.3,63.0,False,2.0,77.238,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,61.0,2.0,MEDIUM,25.0,True,1,True,9.0,19.1,29.2,63.0,False,2.4,77.377,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,62.0,2.0,MEDIUM,26.0,True,1,True,9.0,19.1,29.1,63.0,False,2.4,77.146,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,63.0,2.0,MEDIUM,27.0,True,1,True,10.0,19.1,29.1,63.0,False,1.8,78.018,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,64.0,2.0,MEDIUM,28.0,True,1,True,10.0,19.3,29.8,62.0,False,1.8,77.359,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,65.0,2.0,MEDIUM,29.0,True,1,True,10.0,19.3,29.7,61.0,False,2.0,77.495,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,66.0,2.0,MEDIUM,30.0,True,1,True,10.0,19.3,29.5,62.0,False,2.0,77.296,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,67.0,2.0,MEDIUM,31.0,True,1,True,10.0,19.3,29.4,61.0,False,1.5,77.363,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,68.0,2.0,MEDIUM,32.0,True,1,True,10.0,19.3,29.3,62.0,False,1.6,77.137,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,69.0,2.0,MEDIUM,33.0,True,1,True,10.0,19.2,29.4,63.0,False,2.7,77.054,False,70,2023,8,Canadian Grand Prix,2023_08
+BOT,Alfa Romeo,70.0,2.0,MEDIUM,34.0,True,1,True,11.0,19.1,29.4,61.0,False,3.0,77.699,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,18.3,32.2,64.0,False,2.0,87.463,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,18.3,32.5,64.0,False,1.7,79.753,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,18.5,32.5,63.0,False,2.0,78.489,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,18.4,31.4,64.0,False,1.7,78.94,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,18.5,31.1,65.0,False,2.0,78.182,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,18.5,30.8,62.0,False,2.0,78.615,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,12,True,6.0,18.5,30.8,62.0,False,1.5,79.158,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,2671,False,6.0,18.6,30.8,62.0,False,1.2,92.925,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,18.6,31.1,63.0,False,1.8,78.486,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,18.7,31.9,61.0,False,1.3,78.511,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,18.7,30.9,62.0,False,1.5,78.429,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,124,False,10.0,18.7,31.6,62.0,False,1.2,105.429,True,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,13.0,2.0,HARD,1.0,True,4,False,10.0,18.9,32.9,61.0,False,2.5,131.956,True,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,14.0,2.0,HARD,2.0,True,4,False,10.0,19.0,34.1,61.0,False,1.8,126.175,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,15.0,2.0,HARD,3.0,True,4,False,10.0,19.2,34.0,60.0,False,1.5,114.272,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,16.0,2.0,HARD,4.0,True,41,False,10.0,19.4,34.2,60.0,False,1.2,127.645,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,17.0,2.0,HARD,5.0,True,1,True,11.0,19.4,33.1,60.0,False,1.7,80.768,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,18.0,2.0,HARD,6.0,True,1,True,11.0,19.4,33.0,61.0,False,1.5,79.24,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,19.0,2.0,HARD,7.0,True,1,True,12.0,19.3,32.3,61.0,False,1.3,78.501,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,20.0,2.0,HARD,8.0,True,1,True,12.0,19.2,31.3,62.0,False,1.8,78.533,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,21.0,2.0,HARD,9.0,True,1,True,12.0,18.9,31.3,62.0,False,2.7,78.974,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,22.0,2.0,HARD,10.0,True,1,True,11.0,18.9,31.3,62.0,False,2.7,78.056,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,23.0,2.0,HARD,11.0,True,1,True,11.0,18.7,30.8,64.0,False,3.0,78.557,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,24.0,2.0,HARD,12.0,True,1,True,10.0,18.8,30.5,64.0,False,1.8,78.114,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,25.0,2.0,HARD,13.0,True,1,True,10.0,18.9,30.5,64.0,False,1.5,78.308,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,26.0,2.0,HARD,14.0,True,1,True,10.0,18.8,30.5,64.0,False,1.5,78.235,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,27.0,2.0,HARD,15.0,True,1,True,10.0,19.0,31.2,62.0,False,1.7,78.041,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,28.0,2.0,HARD,16.0,True,12,True,10.0,19.0,31.2,62.0,False,1.7,78.06,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,29.0,2.0,HARD,17.0,True,1,True,10.0,19.1,30.4,61.0,False,2.4,78.216,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,30.0,2.0,HARD,18.0,True,1,True,10.0,19.1,29.5,63.0,False,1.6,78.192,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,31.0,2.0,HARD,19.0,True,1,True,10.0,19.1,29.5,63.0,False,1.7,78.209,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,32.0,2.0,HARD,20.0,True,1,True,10.0,19.1,30.5,64.0,False,1.6,78.169,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,33.0,2.0,HARD,21.0,True,1,True,10.0,19.0,30.5,63.0,False,1.7,78.386,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,34.0,2.0,HARD,22.0,True,1,True,10.0,19.1,31.3,62.0,False,2.2,78.37,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,35.0,2.0,HARD,23.0,True,12,True,9.0,19.4,32.3,61.0,False,2.5,78.493,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,36.0,2.0,HARD,24.0,True,21,True,7.0,19.5,32.3,61.0,False,2.5,78.609,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,37.0,2.0,HARD,25.0,True,1,False,13.0,19.4,32.3,61.0,False,2.5,94.059,True,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,38.0,3.0,HARD,1.0,False,1,False,13.0,19.3,32.3,62.0,False,1.8,80.869,True,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,39.0,3.0,HARD,2.0,False,1,True,13.0,19.3,31.6,62.0,False,2.4,77.308,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,40.0,3.0,HARD,3.0,False,1,True,13.0,19.4,31.6,62.0,False,2.4,77.192,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,41.0,3.0,HARD,4.0,False,1,True,13.0,19.3,31.3,62.0,False,1.3,77.35,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,42.0,3.0,HARD,5.0,False,1,True,13.0,19.3,31.7,61.0,False,1.8,77.355,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,43.0,3.0,HARD,6.0,False,1,True,13.0,19.3,31.4,61.0,False,1.8,77.202,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,44.0,3.0,HARD,7.0,False,1,True,13.0,19.1,30.9,61.0,False,2.5,77.106,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,45.0,3.0,HARD,8.0,False,1,True,13.0,19.1,30.8,62.0,False,1.5,76.874,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,46.0,3.0,HARD,9.0,False,1,True,13.0,19.1,30.7,64.0,False,1.8,76.812,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,47.0,3.0,HARD,10.0,False,1,True,13.0,19.2,30.8,63.0,False,2.0,77.022,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,48.0,3.0,HARD,11.0,False,1,True,13.0,19.1,30.7,61.0,False,2.0,77.081,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,49.0,3.0,HARD,12.0,False,1,True,13.0,19.1,30.4,61.0,False,2.2,77.164,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,50.0,3.0,HARD,13.0,False,1,True,13.0,19.1,29.9,62.0,False,2.7,77.357,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,51.0,3.0,HARD,14.0,False,1,True,13.0,19.1,29.5,62.0,False,3.0,77.173,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,52.0,3.0,HARD,15.0,False,1,True,13.0,19.1,29.3,63.0,False,2.0,76.906,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,53.0,3.0,HARD,16.0,False,1,True,13.0,19.0,29.1,64.0,False,1.6,76.712,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,54.0,3.0,HARD,17.0,False,1,True,13.0,19.0,29.1,64.0,False,1.2,76.87,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,55.0,3.0,HARD,18.0,False,1,True,12.0,19.0,29.1,63.0,False,1.5,76.95,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,56.0,3.0,HARD,19.0,False,1,True,12.0,19.0,29.2,64.0,False,1.2,76.826,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,57.0,3.0,HARD,20.0,False,1,True,12.0,19.0,29.3,63.0,False,2.7,76.895,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,58.0,3.0,HARD,21.0,False,1,True,12.0,19.0,29.3,64.0,False,2.0,76.68,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,59.0,3.0,HARD,22.0,False,1,True,12.0,19.0,29.3,63.0,False,2.0,76.598,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,60.0,3.0,HARD,23.0,False,1,True,12.0,19.1,29.2,63.0,False,2.2,76.716,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,61.0,3.0,HARD,24.0,False,1,True,12.0,19.1,29.2,63.0,False,2.4,76.781,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,62.0,3.0,HARD,25.0,False,1,True,12.0,19.1,29.1,63.0,False,2.4,76.805,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,63.0,3.0,HARD,26.0,False,1,True,12.0,19.1,29.1,63.0,False,1.8,77.242,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,64.0,3.0,HARD,27.0,False,1,True,12.0,19.3,29.8,62.0,False,1.8,76.935,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,65.0,3.0,HARD,28.0,False,1,True,12.0,19.3,29.7,61.0,False,2.0,76.853,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,66.0,3.0,HARD,29.0,False,1,True,12.0,19.3,29.5,62.0,False,2.0,76.711,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,67.0,3.0,HARD,30.0,False,1,True,12.0,19.2,29.3,61.0,False,1.6,77.2,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,68.0,3.0,HARD,31.0,False,1,True,12.0,19.3,29.3,62.0,False,1.6,77.0,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,69.0,3.0,HARD,32.0,False,1,True,12.0,19.2,29.4,63.0,False,2.7,77.09,False,70,2023,8,Canadian Grand Prix,2023_08
+PIA,McLaren,70.0,3.0,HARD,33.0,False,1,True,12.0,19.1,29.4,61.0,False,3.0,77.296,False,70,2023,8,Canadian Grand Prix,2023_08
