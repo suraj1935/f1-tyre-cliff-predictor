@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tyre Cliff Predictor</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="brand"><span class="stripe"></span>Tyre Cliff Predictor</div>
+  <div class="sub">Will the tyres fall off in the next 5 laps? Dry races, 2023 to 2025.</div>
+</header>
+
+<main class="layout">
+  <aside>
+    <div class="panel">
+      <h2>Pick a stint</h2>
+      <label>Race <select id="race"></select></label>
+      <label>Driver <select id="driver"></select></label>
+      <label>Stint <select id="stint"></select></label>
+      <label>Alert threshold <output id="thVal">0.50</output>
+        <input id="threshold" type="range" min="0.2" max="0.9" step="0.05" value="0.5">
+      </label>
+      <p class="hint">An alert fires on the first lap where the predicted risk reaches the threshold.
+        A lower threshold warns earlier but raises more false alarms.</p>
+    </div>
+    <div class="panel">
+      <h2>Read this first</h2>
+      <p class="hint">The model was trained on every race in this list, so these charts look better
+        than they would on a race it has never seen. The scores in the model card below are
+        cross-validated by race, and those are the honest numbers.</p>
+    </div>
+  </aside>
+
+  <section>
+    <div class="cards">
+      <div class="card"><span class="k">Compound</span><span class="v" id="cCompound">-</span></div>
+      <div class="card"><span class="k">Laps scored</span><span class="v" id="cLaps">-</span></div>
+      <div class="card"><span class="k">First alert (age)</span><span class="v" id="cAlert">-</span></div>
+      <div class="card"><span class="k">Actual cliff (age)</span><span class="v" id="cCliff">-</span></div>
+      <div class="card"><span class="k">Warning time</span><span class="v" id="cLead">-</span></div>
+    </div>
+    <p class="verdict" id="verdict"></p>
+
+    <div class="panel">
+      <h2 id="chartTitle">Cliff risk by lap</h2>
+      <div class="chart-wrap">
+        <svg id="chart" viewBox="0 0 920 380" role="img" aria-label="Predicted cliff risk by tyre age"></svg>
+        <div class="tip" id="tip"></div>
+      </div>
+      <div class="legend">
+        <span><i class="sw red"></i>Predicted risk</span>
+        <span><i class="sw amber"></i>First alert</span>
+        <span><i class="sw white"></i>Actual cliff</span>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Lap data</h2>
+      <div class="scroll">
+        <table>
+          <thead><tr><th>Lap</th><th>Tyre age</th><th>Pace loss (s)</th><th>3-lap avg (s)</th><th>Risk</th><th></th></tr></thead>
+          <tbody id="rows"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<section class="lower">
+  <div class="panel">
+    <h2>What if</h2>
+    <p class="hint">Set up a race situation and ask the model directly. Anything not shown here uses typical values.</p>
+    <label>Compound
+      <select id="wComp"><option>SOFT</option><option selected>MEDIUM</option><option>HARD</option></select>
+    </label>
+    <label>Tyre age (laps) <output id="oAge">15</output>
+      <input id="wAge" type="range" min="1" max="50" step="1" value="15"></label>
+    <label>Pace loss vs stint best (s) <output id="oDelta">0.40</output>
+      <input id="wDelta" type="range" min="0" max="3" step="0.05" value="0.4"></label>
+    <label>Average of last 3 laps (s) <output id="oDelta3">0.30</output>
+      <input id="wDelta3" type="range" min="0" max="3" step="0.05" value="0.3"></label>
+    <label>Lap time trend (s per lap) <output id="oSlope">0.05</output>
+      <input id="wSlope" type="range" min="-0.3" max="0.6" step="0.01" value="0.05"></label>
+    <label>Race progress <output id="oProg">0.50</output>
+      <input id="wProg" type="range" min="0" max="1" step="0.05" value="0.5"></label>
+    <div class="gauge">
+      <div class="num" id="gNum">-</div>
+      <div class="gbar"><i id="gFill"></i></div>
+      <div class="hint">chance the cliff arrives within 5 laps</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>Model card</h2>
+    <p class="hint" id="mcMeta"></p>
+    <div id="mcBars"></div>
+    <p class="hint">PR-AUC, 5-fold cross-validation with whole races held out. Tyre age alone barely beats
+      guessing. Most of the signal is recent pace, so the model mostly notices that a driver is already
+      slowing down.</p>
+    <p class="hint">The cliff is a definition: pace at least 1.0 s off the stint best, for 2 laps in a row.
+      A different rule would give different labels.</p>
+  </div>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>
