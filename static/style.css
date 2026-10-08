@@ -100,3 +100,11 @@ th { color: var(--muted); font-weight: 600; font-size: 11px; letter-spacing: 1px
   .cards { grid-template-columns: repeat(2, 1fr); }
   .mrow { grid-template-columns: 1fr 1fr 48px; }
 }
+
+
+/* phone layout: let the single column shrink instead of growing with its widest child */
+@media (max-width: 900px) {
+  .layout, .lower { grid-template-columns: minmax(0, 1fr); padding-left: 16px; padding-right: 16px; }
+  .layout > *, .lower > * { min-width: 0; }
+  .top { padding: 18px 16px; }
+}
