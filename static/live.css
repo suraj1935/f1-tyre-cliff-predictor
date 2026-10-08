@@ -1,0 +1,10 @@
+.lv-card{margin:24px 0;padding:16px;border:1px solid #2a3140;border-radius:10px}
+.lv-row{display:flex;flex-wrap:wrap;gap:12px;align-items:end}
+.lv-row label{display:flex;flex-direction:column;font-size:12px;color:#9aa4b2;gap:4px}
+.lv-row select,.lv-row button{padding:6px 8px;background:#161b26;color:#e6e9ef;border:1px solid #2a3140;border-radius:6px}
+.lv-row button{cursor:pointer;background:#e10600;border-color:#e10600;color:#fff}
+.lv-table{width:100%;border-collapse:collapse;margin-top:12px;font-size:13px}
+.lv-table th,.lv-table td{padding:4px 8px;text-align:left;border-bottom:1px solid #1d2330}
+.lv-bar{display:inline-block;width:110px;height:8px;background:#1d2330;border-radius:4px;vertical-align:middle;margin-right:6px}
+.lv-bar span{display:block;height:100%;background:#e10600;border-radius:4px}
+@media(max-width:700px){.lv-table{display:block;overflow-x:auto}}

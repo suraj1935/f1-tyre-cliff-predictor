@@ -9,6 +9,7 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
+from live_routes import router as live_router
 from predict import cliff_probability
 
 BASE = Path(__file__).parent
@@ -133,6 +134,21 @@ def model_card():
             {"name": "XGBoost, all features", "pr_auc": 0.412},
         ],
     }
+
+
+app.include_router(live_router, prefix="/api")
+
+
+@app.middleware("http")
+async def v1_alias(request, call_next):
+    # /api/v1/x is the same as /api/x, so old and new URLs both work
+    p = request.scope["path"]
+    if p.startswith("/api/v1/"):
+        request.scope["path"] = "/api/" + p[len("/api/v1/"):]
+    resp = await call_next(request)
+    if p.startswith("/api/"):
+        resp.headers["X-API-Version"] = "1"
+    return resp
 
 
 # Must come last, so the /api routes above win.
