@@ -1,0 +1,974 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,26.8,45.3,41.0,False,1.4,115.49,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,26.8,45.6,41.0,False,2.0,109.632,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,26.7,45.7,40.0,False,2.4,109.13,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,26.8,45.4,38.0,False,2.4,109.608,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,26.6,44.5,38.0,False,2.8,109.245,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,26.3,45.0,40.0,False,0.8,108.795,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,26.5,44.9,39.0,False,2.4,108.797,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,26.2,44.7,40.0,False,1.8,108.643,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,26.2,44.4,40.0,False,1.6,108.448,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,26.7,44.8,38.0,False,1.5,109.448,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,26.7,44.7,37.0,False,0.8,109.645,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,False,5.0,26.8,44.7,36.0,False,1.1,114.511,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,13.0,2.0,HARD,1.0,True,1,False,9.0,26.9,44.8,38.0,False,2.2,126.486,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,14.0,2.0,HARD,2.0,True,1,True,8.0,27.0,44.7,37.0,False,0.9,108.269,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,15.0,2.0,HARD,3.0,True,1,True,7.0,26.8,44.1,37.0,False,2.9,107.812,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,16.0,2.0,HARD,4.0,True,1,True,7.0,26.5,44.1,36.0,False,1.3,108.132,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,17.0,2.0,HARD,5.0,True,1,True,7.0,26.5,44.0,36.0,False,1.4,107.718,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,18.0,2.0,HARD,6.0,True,1,True,7.0,26.3,43.8,37.0,False,1.2,108.461,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,19.0,2.0,HARD,7.0,True,1,True,7.0,26.4,44.0,36.0,False,1.7,107.89,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,20.0,2.0,HARD,8.0,True,1,True,7.0,26.5,43.9,36.0,False,1.2,107.89,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,21.0,2.0,HARD,9.0,True,1,True,7.0,26.9,44.4,34.0,False,1.1,107.903,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,22.0,2.0,HARD,10.0,True,1,True,7.0,26.9,43.2,36.0,False,1.3,108.679,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,23.0,2.0,HARD,11.0,True,1,True,7.0,27.0,44.2,37.0,False,1.5,108.908,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,24.0,2.0,HARD,12.0,True,1,True,7.0,26.9,44.1,36.0,False,2.5,110.602,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,25.0,2.0,HARD,13.0,True,1,True,7.0,26.5,43.6,37.0,False,2.5,108.356,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,26.0,2.0,HARD,14.0,True,1,True,7.0,26.2,43.3,39.0,False,1.6,109.021,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,27.0,2.0,HARD,15.0,True,1,True,7.0,26.2,43.1,38.0,False,1.0,109.092,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,28.0,2.0,HARD,16.0,True,1,True,7.0,26.7,43.3,38.0,False,0.5,109.185,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,29.0,2.0,HARD,17.0,True,1,True,7.0,27.1,43.5,37.0,False,1.7,109.216,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,30.0,2.0,HARD,18.0,True,1,True,7.0,27.0,43.1,37.0,False,1.4,108.994,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,31.0,2.0,HARD,19.0,True,1,True,6.0,26.7,43.2,36.0,False,1.3,108.846,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,32.0,2.0,HARD,20.0,True,1,True,6.0,26.7,42.6,36.0,False,1.2,108.392,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,33.0,2.0,HARD,21.0,True,1,True,6.0,26.5,42.4,37.0,False,1.5,108.299,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,34.0,2.0,HARD,22.0,True,1,True,7.0,26.6,42.8,37.0,False,1.4,109.244,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,35.0,2.0,HARD,23.0,True,1,True,7.0,26.8,43.0,36.0,False,1.6,107.996,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,36.0,2.0,HARD,24.0,True,12,True,7.0,26.9,42.6,36.0,False,2.7,107.718,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,37.0,2.0,HARD,25.0,True,1,True,7.0,26.5,42.6,36.0,False,2.6,107.403,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,38.0,2.0,HARD,26.0,True,1,True,6.0,26.4,42.7,35.0,False,1.8,107.282,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,39.0,2.0,HARD,27.0,True,1,True,6.0,26.3,42.1,36.0,False,2.8,107.34,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,40.0,2.0,HARD,28.0,True,1,True,6.0,26.0,41.8,38.0,False,3.1,107.136,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,41.0,2.0,HARD,29.0,True,1,True,6.0,25.7,41.6,38.0,False,3.8,107.525,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,42.0,2.0,HARD,30.0,True,1,True,6.0,25.7,41.8,36.0,False,2.2,106.798,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,43.0,2.0,HARD,31.0,True,1,True,6.0,25.7,41.3,38.0,False,1.7,107.147,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,44.0,2.0,HARD,32.0,True,1,True,6.0,25.8,41.4,38.0,False,2.1,107.149,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,45.0,2.0,HARD,33.0,True,1,True,6.0,25.8,41.7,38.0,False,2.0,107.184,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,46.0,2.0,HARD,34.0,True,1,True,6.0,25.9,41.6,34.0,False,1.3,107.135,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,47.0,2.0,HARD,35.0,True,1,True,6.0,26.0,42.0,33.0,False,1.1,107.721,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,48.0,2.0,HARD,36.0,True,1,True,6.0,26.6,41.5,33.0,False,0.6,107.749,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,49.0,2.0,HARD,37.0,True,1,False,7.0,26.5,41.3,35.0,False,1.0,112.022,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,50.0,3.0,SOFT,4.0,False,126,False,5.0,26.6,41.3,36.0,False,1.1,,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+VER,Red Bull Racing,51.0,3.0,SOFT,5.0,False,6,False,5.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,1.0,1.0,HARD,1.0,True,1,False,15.0,26.8,45.3,41.0,False,1.4,124.448,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,2.0,1.0,HARD,2.0,True,1,True,15.0,26.8,45.6,41.0,False,2.0,112.861,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,3.0,1.0,HARD,3.0,True,1,True,15.0,26.7,45.7,40.0,False,2.4,111.565,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,4.0,1.0,HARD,4.0,True,1,True,14.0,26.8,45.4,38.0,False,2.4,109.849,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,5.0,1.0,HARD,5.0,True,1,True,14.0,26.6,44.5,38.0,False,2.8,110.116,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,6.0,1.0,HARD,6.0,True,1,True,14.0,26.3,45.0,40.0,False,0.8,110.071,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,7.0,1.0,HARD,7.0,True,1,True,14.0,26.3,44.6,39.0,False,2.3,109.908,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,8.0,1.0,HARD,8.0,True,1,True,14.0,26.2,44.7,40.0,False,1.8,109.707,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,9.0,1.0,HARD,9.0,True,1,True,14.0,26.2,44.4,40.0,False,1.6,109.776,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,10.0,1.0,HARD,10.0,True,1,True,14.0,26.7,44.8,38.0,False,1.5,109.479,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,11.0,1.0,HARD,11.0,True,1,True,13.0,26.7,44.7,37.0,False,0.8,110.305,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,12.0,1.0,HARD,12.0,True,1,True,12.0,26.9,44.8,37.0,False,0.9,110.207,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,13.0,1.0,HARD,13.0,True,1,True,11.0,26.8,44.3,38.0,False,0.8,110.586,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,14.0,1.0,HARD,14.0,True,1,True,9.0,27.0,44.7,37.0,False,0.9,110.56,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,15.0,1.0,HARD,15.0,True,1,True,10.0,26.8,44.1,37.0,False,2.9,111.674,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,16.0,1.0,HARD,16.0,True,1,True,10.0,26.5,44.1,36.0,False,1.3,110.412,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,17.0,1.0,HARD,17.0,True,1,True,10.0,26.5,44.0,36.0,False,1.4,110.314,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,18.0,1.0,HARD,18.0,True,1,True,10.0,26.3,43.8,37.0,False,1.2,109.879,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,19.0,1.0,HARD,19.0,True,1,True,11.0,26.4,43.9,36.0,False,1.9,109.647,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,20.0,1.0,HARD,20.0,True,1,True,11.0,26.6,44.1,36.0,False,0.9,110.731,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,21.0,1.0,HARD,21.0,True,1,True,11.0,26.9,44.4,34.0,False,1.1,110.09,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,22.0,1.0,HARD,22.0,True,1,True,11.0,26.9,43.2,36.0,False,1.3,110.329,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,23.0,1.0,HARD,23.0,True,1,True,11.0,27.0,44.2,37.0,False,1.5,109.639,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,24.0,1.0,HARD,24.0,True,1,True,11.0,26.7,43.6,36.0,False,2.6,109.699,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,25.0,1.0,HARD,25.0,True,1,True,12.0,26.2,42.8,38.0,False,2.6,109.69,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,26.0,1.0,HARD,26.0,True,1,True,12.0,26.3,43.3,38.0,False,2.9,110.054,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,27.0,1.0,HARD,27.0,True,1,True,12.0,26.2,43.1,38.0,False,1.0,109.311,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,28.0,1.0,HARD,28.0,True,1,True,12.0,26.7,43.3,38.0,False,0.5,109.294,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,29.0,1.0,HARD,29.0,True,1,True,12.0,27.1,43.5,37.0,False,1.7,108.98,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,30.0,1.0,HARD,30.0,True,1,True,14.0,26.9,42.6,36.0,False,1.5,111.275,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,31.0,1.0,HARD,31.0,True,1,True,14.0,26.6,42.6,36.0,False,1.9,109.319,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,32.0,1.0,HARD,32.0,True,1,True,14.0,26.7,42.6,36.0,False,1.2,109.223,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,33.0,1.0,HARD,33.0,True,1,True,14.0,26.5,42.4,37.0,False,1.5,108.774,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,34.0,1.0,HARD,34.0,True,1,True,14.0,26.6,42.8,37.0,False,1.4,108.737,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,35.0,1.0,HARD,35.0,True,1,True,14.0,26.9,43.1,36.0,False,1.0,108.832,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,36.0,1.0,HARD,36.0,True,12,True,14.0,26.5,42.6,38.0,False,1.6,108.95,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,37.0,1.0,HARD,37.0,True,1,True,14.0,26.4,42.7,35.0,False,1.5,108.778,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,38.0,1.0,HARD,38.0,True,1,True,14.0,26.4,42.7,35.0,False,1.8,108.916,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,39.0,1.0,HARD,39.0,True,1,True,14.0,26.3,42.1,36.0,False,2.8,108.738,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,40.0,1.0,HARD,40.0,True,1,True,14.0,25.8,41.8,38.0,False,2.7,108.503,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,41.0,1.0,HARD,41.0,True,1,True,14.0,25.7,41.6,38.0,False,2.8,108.725,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,42.0,1.0,HARD,42.0,True,1,True,14.0,25.8,41.3,37.0,False,3.6,108.827,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,43.0,1.0,HARD,43.0,True,1,True,14.0,25.7,41.3,38.0,False,1.7,108.529,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,44.0,1.0,HARD,44.0,True,1,True,14.0,25.8,41.4,38.0,False,2.1,108.2,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,45.0,1.0,HARD,45.0,True,1,True,14.0,25.9,41.6,35.0,False,2.4,108.048,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,46.0,1.0,HARD,46.0,True,1,True,14.0,25.9,41.6,32.0,False,0.9,108.349,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,47.0,1.0,HARD,47.0,True,1,True,14.0,26.4,42.0,33.0,False,0.7,108.018,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,48.0,1.0,HARD,48.0,True,1,True,14.0,26.6,41.5,33.0,False,0.6,108.364,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,49.0,1.0,HARD,49.0,True,12,True,14.0,26.5,41.3,35.0,False,1.0,108.461,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,50.0,1.0,HARD,50.0,True,26,False,12.0,26.6,40.9,36.0,False,1.5,145.969,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+GAS,Alpine,51.0,2.0,SOFT,1.0,True,6,False,12.0,26.5,40.8,37.0,False,2.0,,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,26.8,45.3,41.0,False,1.4,113.923,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,26.8,45.6,41.0,False,2.0,109.236,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,26.7,45.7,40.0,False,2.4,108.814,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,26.8,45.4,38.0,False,2.4,108.727,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,26.6,44.5,38.0,False,2.8,108.768,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,26.4,44.5,39.0,False,1.7,108.604,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,26.5,44.9,39.0,False,2.4,108.519,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,26.2,44.7,40.0,False,1.8,108.153,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,26.2,44.4,40.0,False,1.6,107.826,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,26.7,44.8,38.0,False,1.5,108.769,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,26.7,44.7,37.0,False,0.8,108.721,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,26.8,44.7,36.0,False,1.1,109.117,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,False,4.0,26.9,44.8,38.0,False,2.2,113.398,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,14.0,2.0,HARD,1.0,True,1,False,6.0,27.0,44.7,37.0,False,0.9,124.864,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,15.0,2.0,HARD,2.0,True,1,True,6.0,26.8,44.1,37.0,False,2.9,108.585,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,16.0,2.0,HARD,3.0,True,1,True,5.0,26.5,44.1,36.0,False,1.3,107.14,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,17.0,2.0,HARD,4.0,True,1,True,5.0,26.5,44.0,36.0,False,1.4,108.836,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,18.0,2.0,HARD,5.0,True,1,True,4.0,26.3,43.8,37.0,False,1.2,109.43,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,19.0,2.0,HARD,6.0,True,1,True,3.0,26.4,44.0,36.0,False,1.7,107.572,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,20.0,2.0,HARD,7.0,True,1,True,3.0,26.5,43.9,36.0,False,1.2,107.655,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,21.0,2.0,HARD,8.0,True,1,True,3.0,26.9,44.4,34.0,False,1.1,107.719,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,22.0,2.0,HARD,9.0,True,1,True,3.0,26.9,43.2,36.0,False,1.3,108.111,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,23.0,2.0,HARD,10.0,True,1,True,3.0,27.0,44.2,37.0,False,1.5,107.46,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,24.0,2.0,HARD,11.0,True,1,True,3.0,26.9,44.1,36.0,False,2.5,107.385,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,25.0,2.0,HARD,12.0,True,1,True,3.0,26.5,43.6,37.0,False,2.5,107.485,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,26.0,2.0,HARD,13.0,True,1,True,3.0,26.2,43.3,39.0,False,1.6,107.591,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,27.0,2.0,HARD,14.0,True,1,True,3.0,26.2,43.1,38.0,False,1.0,107.333,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,28.0,2.0,HARD,15.0,True,1,True,3.0,26.5,43.3,38.0,False,0.7,107.464,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,29.0,2.0,HARD,16.0,True,1,True,3.0,26.8,43.3,38.0,False,0.7,107.633,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,30.0,2.0,HARD,17.0,True,1,True,3.0,27.0,43.1,37.0,False,1.4,107.536,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,31.0,2.0,HARD,18.0,True,1,True,3.0,26.7,43.2,36.0,False,1.3,107.927,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,32.0,2.0,HARD,19.0,True,1,True,3.0,26.7,42.6,36.0,False,1.2,107.63,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,33.0,2.0,HARD,20.0,True,1,True,3.0,26.5,42.4,37.0,False,1.0,108.442,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,34.0,2.0,HARD,21.0,True,1,True,3.0,26.5,42.8,37.0,False,1.7,108.143,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,35.0,2.0,HARD,22.0,True,1,True,3.0,26.8,43.0,36.0,False,1.6,108.209,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,36.0,2.0,HARD,23.0,True,12,True,3.0,26.9,42.6,36.0,False,2.7,108.518,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,37.0,2.0,HARD,24.0,True,1,True,3.0,26.5,42.6,36.0,False,2.6,108.328,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,38.0,2.0,HARD,25.0,True,1,True,3.0,26.4,42.7,35.0,False,1.5,107.787,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,39.0,2.0,HARD,26.0,True,1,True,3.0,26.4,42.3,36.0,False,1.6,107.632,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,40.0,2.0,HARD,27.0,True,1,True,3.0,26.0,41.8,38.0,False,3.1,107.609,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,41.0,2.0,HARD,28.0,True,1,True,3.0,25.7,41.6,38.0,False,3.8,107.089,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,42.0,2.0,HARD,29.0,True,1,True,3.0,25.7,41.8,36.0,False,2.2,107.139,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,43.0,2.0,HARD,30.0,True,1,True,3.0,25.8,41.3,37.0,False,3.6,107.96,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,44.0,2.0,HARD,31.0,True,1,True,3.0,25.8,41.4,38.0,False,2.8,107.43,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,45.0,2.0,HARD,32.0,True,1,True,3.0,25.8,41.7,38.0,False,2.0,107.57,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,46.0,2.0,HARD,33.0,True,1,True,3.0,25.9,41.6,34.0,False,1.3,107.013,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,47.0,2.0,HARD,34.0,True,1,True,3.0,26.0,42.0,33.0,False,1.1,107.645,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,48.0,2.0,HARD,35.0,True,1,True,3.0,26.4,42.0,33.0,False,0.7,108.303,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,49.0,2.0,HARD,36.0,True,1,True,3.0,26.6,41.3,34.0,False,0.8,108.45,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PER,Red Bull Racing,50.0,2.0,HARD,37.0,True,126,False,,26.6,41.3,36.0,False,1.1,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,1.0,1.0,MEDIUM,2.0,False,1,False,7.0,26.8,45.3,41.0,False,1.4,117.4,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,2.0,1.0,MEDIUM,3.0,False,1,True,7.0,26.8,45.6,41.0,False,2.0,110.081,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,3.0,1.0,MEDIUM,4.0,False,1,True,7.0,26.7,45.7,40.0,False,2.4,110.262,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,True,7.0,26.8,45.4,38.0,False,2.4,109.975,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,True,7.0,26.6,44.5,38.0,False,2.8,110.103,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,7.0,26.3,45.0,40.0,False,0.8,109.937,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,7.0,26.5,44.9,39.0,False,2.4,109.66,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,8.0,1.0,MEDIUM,9.0,False,1,True,7.0,26.2,44.7,40.0,False,1.8,109.132,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,7.0,26.2,44.4,40.0,False,1.6,109.056,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,7.0,26.7,44.8,38.0,False,1.5,109.354,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,False,8.0,26.7,44.7,37.0,False,0.8,113.492,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,12.0,2.0,HARD,2.0,False,1,False,13.0,26.9,44.8,37.0,False,0.9,125.549,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,13.0,2.0,HARD,3.0,False,1,True,13.0,26.8,44.3,38.0,False,0.8,109.286,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,14.0,2.0,HARD,4.0,False,1,True,13.0,27.0,44.7,36.0,False,1.4,109.222,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,15.0,2.0,HARD,5.0,False,1,True,11.0,26.8,44.1,37.0,False,2.9,109.984,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,16.0,2.0,HARD,6.0,False,1,True,9.0,26.5,44.1,36.0,False,1.3,108.759,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,17.0,2.0,HARD,7.0,False,1,True,9.0,26.5,44.0,36.0,False,1.4,109.1,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,18.0,2.0,HARD,8.0,False,1,True,9.0,26.3,43.8,37.0,False,1.2,109.515,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,19.0,2.0,HARD,9.0,False,1,True,9.0,26.4,43.9,36.0,False,1.9,109.239,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,20.0,2.0,HARD,10.0,False,1,True,9.0,26.5,43.9,36.0,False,1.2,109.379,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,21.0,2.0,HARD,11.0,False,1,True,9.0,26.9,44.4,34.0,False,1.1,109.151,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,22.0,2.0,HARD,12.0,False,1,True,9.0,26.9,43.2,36.0,False,1.3,109.047,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,23.0,2.0,HARD,13.0,False,1,True,9.0,27.0,44.2,37.0,False,1.5,109.104,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,24.0,2.0,HARD,14.0,False,1,True,9.0,26.7,43.6,36.0,False,2.6,108.835,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,25.0,2.0,HARD,15.0,False,1,True,9.0,26.2,42.8,38.0,False,2.6,109.02,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,26.0,2.0,HARD,16.0,False,1,True,9.0,26.2,43.3,39.0,False,1.6,109.178,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,27.0,2.0,HARD,17.0,False,1,True,9.0,26.2,43.1,38.0,False,1.0,108.729,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,28.0,2.0,HARD,18.0,False,1,True,9.0,26.7,43.3,38.0,False,0.5,108.635,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,29.0,2.0,HARD,19.0,False,1,True,9.0,27.1,43.5,37.0,False,1.7,108.782,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,30.0,2.0,HARD,20.0,False,1,True,9.0,26.9,42.6,36.0,False,1.5,109.589,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,31.0,2.0,HARD,21.0,False,1,True,9.0,26.7,43.2,36.0,False,1.3,108.979,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,32.0,2.0,HARD,22.0,False,1,True,8.0,26.7,42.6,36.0,False,1.2,110.08,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,33.0,2.0,HARD,23.0,False,1,True,8.0,26.5,42.4,37.0,False,1.5,108.825,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,34.0,2.0,HARD,24.0,False,1,True,8.0,26.6,42.8,37.0,False,1.4,109.26,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,35.0,2.0,HARD,25.0,False,1,True,8.0,26.9,43.1,36.0,False,1.0,109.533,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,36.0,2.0,HARD,26.0,False,12,True,8.0,26.5,42.6,38.0,False,1.6,108.206,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,37.0,2.0,HARD,27.0,False,1,True,8.0,26.5,42.6,36.0,False,2.6,107.889,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,38.0,2.0,HARD,28.0,False,1,True,8.0,26.4,42.7,35.0,False,1.8,108.131,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,39.0,2.0,HARD,29.0,False,1,True,8.0,26.3,42.1,36.0,False,2.8,107.97,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,40.0,2.0,HARD,30.0,False,1,True,8.0,25.8,41.8,38.0,False,2.7,107.719,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,41.0,2.0,HARD,31.0,False,1,True,8.0,25.7,41.6,38.0,False,2.8,107.956,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,42.0,2.0,HARD,32.0,False,1,True,8.0,25.7,41.8,36.0,False,2.2,107.351,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,43.0,2.0,HARD,33.0,False,1,True,8.0,25.7,41.3,38.0,False,1.7,107.486,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,44.0,2.0,HARD,34.0,False,1,True,8.0,25.8,41.4,38.0,False,2.1,107.465,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,45.0,2.0,HARD,35.0,False,1,True,8.0,25.9,41.6,35.0,False,2.4,107.498,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,46.0,2.0,HARD,36.0,False,1,True,8.0,25.9,41.6,32.0,False,0.9,107.571,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,47.0,2.0,HARD,37.0,False,1,True,8.0,26.0,42.0,33.0,False,1.1,107.354,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,48.0,2.0,HARD,38.0,False,1,True,8.0,26.6,41.5,33.0,False,0.6,107.057,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,49.0,2.0,HARD,39.0,False,12,True,8.0,26.5,41.3,35.0,False,1.0,107.152,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,50.0,2.0,HARD,40.0,False,26,False,6.0,26.6,40.9,36.0,False,1.5,149.162,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALO,Aston Martin,51.0,2.0,HARD,41.0,False,6,False,6.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,26.8,45.3,41.0,False,1.4,112.106,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,26.8,45.6,41.0,False,2.0,109.283,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,26.7,45.7,40.0,False,2.4,108.412,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,26.8,45.4,38.0,False,2.4,108.408,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,26.6,44.5,38.0,False,2.8,108.314,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,26.4,44.5,39.0,False,1.7,108.052,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,26.5,44.9,39.0,False,2.4,108.511,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,26.2,44.7,40.0,False,1.8,107.672,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,26.2,44.4,40.0,False,1.6,107.828,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,26.7,44.8,38.0,False,1.5,108.094,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,26.8,44.7,37.0,False,2.2,107.922,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,26.8,44.7,36.0,False,1.1,108.09,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,26.9,44.8,38.0,False,2.2,108.461,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,27.0,44.7,37.0,False,0.9,108.831,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,26.8,44.1,37.0,False,2.9,109.99,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,False,1.0,26.5,44.1,37.0,False,2.3,113.844,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,17.0,2.0,HARD,1.0,True,1,False,2.0,26.5,44.0,36.0,False,1.5,126.071,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,18.0,2.0,HARD,2.0,True,1,True,1.0,26.5,43.8,36.0,False,1.2,108.358,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,19.0,2.0,HARD,3.0,True,1,True,1.0,26.4,44.0,36.0,False,1.7,107.893,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,20.0,2.0,HARD,4.0,True,1,True,2.0,26.5,43.9,36.0,False,1.2,109.643,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,21.0,2.0,HARD,5.0,True,1,True,2.0,26.9,44.4,34.0,False,1.1,107.94,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,22.0,2.0,HARD,6.0,True,1,True,2.0,26.9,43.2,36.0,False,1.3,107.737,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,23.0,2.0,HARD,7.0,True,1,True,2.0,27.0,44.2,37.0,False,1.5,107.519,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,24.0,2.0,HARD,8.0,True,1,True,2.0,26.9,44.1,36.0,False,2.5,107.186,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,25.0,2.0,HARD,9.0,True,1,True,2.0,26.5,43.6,37.0,False,2.5,107.361,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,26.0,2.0,HARD,10.0,True,1,True,2.0,26.2,43.3,39.0,False,1.6,107.314,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,27.0,2.0,HARD,11.0,True,1,True,2.0,26.2,43.1,38.0,False,1.0,107.397,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,28.0,2.0,HARD,12.0,True,1,True,2.0,26.5,43.3,38.0,False,0.7,107.282,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,29.0,2.0,HARD,13.0,True,1,True,2.0,26.8,43.3,38.0,False,0.7,107.858,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,30.0,2.0,HARD,14.0,True,1,True,2.0,27.0,43.1,37.0,False,1.4,107.528,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,31.0,2.0,HARD,15.0,True,1,True,2.0,26.7,43.2,36.0,False,1.3,108.113,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,32.0,2.0,HARD,16.0,True,1,True,2.0,26.7,42.6,36.0,False,1.2,107.834,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,33.0,2.0,HARD,17.0,True,1,True,2.0,26.5,42.4,37.0,False,1.0,108.936,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,34.0,2.0,HARD,18.0,True,1,True,2.0,26.5,42.8,37.0,False,1.7,107.834,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,35.0,2.0,HARD,19.0,True,1,True,2.0,26.8,43.0,36.0,False,1.6,107.643,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,36.0,2.0,HARD,20.0,True,12,True,2.0,26.9,42.6,36.0,False,2.7,108.047,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,37.0,2.0,HARD,21.0,True,1,True,2.0,26.5,42.6,36.0,False,2.6,107.831,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,38.0,2.0,HARD,22.0,True,1,True,2.0,26.4,42.7,35.0,False,1.5,107.516,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,39.0,2.0,HARD,23.0,True,1,True,2.0,26.4,42.3,36.0,False,1.6,107.877,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,40.0,2.0,HARD,24.0,True,1,True,2.0,26.0,41.8,38.0,False,3.1,107.49,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,41.0,2.0,HARD,25.0,True,1,True,2.0,25.7,41.6,38.0,False,3.8,107.908,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,42.0,2.0,HARD,26.0,True,1,True,2.0,25.7,41.8,36.0,False,2.2,107.977,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,43.0,2.0,HARD,27.0,True,1,True,2.0,25.8,41.3,37.0,False,3.6,107.615,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,44.0,2.0,HARD,28.0,True,1,True,2.0,25.8,41.4,38.0,False,2.8,107.067,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,45.0,2.0,HARD,29.0,True,1,True,2.0,25.8,41.7,38.0,False,2.0,107.912,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,46.0,2.0,HARD,30.0,True,1,True,2.0,25.9,41.6,34.0,False,1.3,107.744,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,47.0,2.0,HARD,31.0,True,1,True,2.0,26.0,42.0,33.0,False,1.1,107.857,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,48.0,2.0,HARD,32.0,True,1,True,2.0,26.4,42.0,33.0,False,0.7,108.387,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,49.0,2.0,HARD,33.0,True,1,True,2.0,26.6,41.3,34.0,False,0.8,108.626,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,50.0,2.0,HARD,34.0,True,126,False,2.0,26.6,41.3,36.0,False,1.1,112.773,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+LEC,Ferrari,51.0,2.0,HARD,35.0,True,6,False,2.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,1.0,1.0,MEDIUM,2.0,False,1,False,20.0,26.8,45.3,41.0,False,1.4,131.014,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,2.0,2.0,HARD,2.0,False,1,False,20.0,26.8,45.6,41.0,False,1.7,128.417,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,3.0,2.0,HARD,3.0,False,1,True,20.0,26.9,45.7,37.0,False,1.0,110.819,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,4.0,2.0,HARD,4.0,False,1,True,20.0,26.8,45.4,38.0,False,2.4,110.48,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,5.0,2.0,HARD,5.0,False,1,True,20.0,26.6,44.5,38.0,False,2.8,109.97,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,6.0,2.0,HARD,6.0,False,1,True,20.0,26.3,45.0,40.0,False,0.8,109.519,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,7.0,2.0,HARD,7.0,False,1,True,20.0,26.3,44.6,39.0,False,2.3,109.687,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,8.0,2.0,HARD,8.0,False,1,True,20.0,26.3,44.7,40.0,False,0.9,110.315,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,9.0,2.0,HARD,9.0,False,1,True,20.0,26.5,44.7,40.0,False,0.9,109.143,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,10.0,2.0,HARD,10.0,False,1,True,20.0,26.7,44.8,38.0,False,1.5,109.432,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,11.0,2.0,HARD,11.0,False,1,True,19.0,26.7,44.7,37.0,False,0.8,109.972,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,12.0,2.0,HARD,12.0,False,1,True,18.0,26.9,44.8,37.0,False,0.9,110.952,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,13.0,2.0,HARD,13.0,False,1,True,17.0,26.8,44.3,38.0,False,0.8,109.594,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,14.0,2.0,HARD,14.0,False,1,True,17.0,27.0,44.7,36.0,False,1.4,109.412,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,15.0,2.0,HARD,15.0,False,1,True,18.0,26.5,44.1,37.0,False,2.3,110.76,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,16.0,2.0,HARD,16.0,False,1,True,18.0,26.5,44.1,36.0,False,1.3,111.103,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,17.0,2.0,HARD,17.0,False,1,True,18.0,26.5,44.0,36.0,False,1.4,110.709,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,18.0,2.0,HARD,18.0,False,1,True,18.0,26.3,43.8,37.0,False,1.2,110.45,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,19.0,2.0,HARD,19.0,False,1,True,18.0,26.4,43.9,36.0,False,1.9,110.234,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,20.0,2.0,HARD,20.0,False,1,True,18.0,26.6,44.1,36.0,False,0.9,110.293,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,21.0,2.0,HARD,21.0,False,1,True,18.0,27.1,44.4,35.0,False,1.9,110.509,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,22.0,2.0,HARD,22.0,False,1,False,18.0,27.0,43.4,36.0,False,1.7,115.365,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,23.0,3.0,HARD,2.0,False,1,False,19.0,27.0,44.2,37.0,False,1.5,125.467,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,24.0,3.0,HARD,3.0,False,1,True,19.0,26.5,43.6,37.0,False,2.5,109.018,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,25.0,3.0,HARD,4.0,False,1,True,19.0,26.2,42.8,38.0,False,2.6,108.895,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,26.0,3.0,HARD,5.0,False,1,True,19.0,26.3,43.3,38.0,False,2.9,108.843,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,27.0,3.0,HARD,6.0,False,1,True,19.0,26.5,43.3,38.0,False,0.7,108.708,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,28.0,3.0,HARD,7.0,False,1,True,19.0,26.8,43.3,38.0,False,0.7,108.512,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,29.0,3.0,HARD,8.0,False,1,True,19.0,27.0,43.1,37.0,False,1.4,108.603,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,30.0,3.0,HARD,9.0,False,1,True,19.0,26.9,42.6,36.0,False,1.5,108.665,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,31.0,3.0,HARD,10.0,False,1,True,19.0,26.6,42.6,36.0,False,1.9,108.148,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,32.0,3.0,HARD,11.0,False,1,True,19.0,26.5,42.4,37.0,False,1.0,108.849,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,33.0,3.0,HARD,12.0,False,1,True,18.0,26.5,42.8,37.0,False,1.7,109.568,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,34.0,3.0,HARD,13.0,False,1,True,18.0,26.8,43.0,36.0,False,1.6,108.592,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,35.0,3.0,HARD,14.0,False,12,True,17.0,26.9,43.1,36.0,False,1.0,108.441,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,36.0,3.0,HARD,15.0,False,21,True,17.0,26.5,42.6,38.0,False,1.6,108.67,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,37.0,3.0,HARD,16.0,False,1,True,17.0,26.4,42.7,35.0,False,1.5,108.422,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,38.0,3.0,HARD,17.0,False,1,True,17.0,26.4,42.3,36.0,False,1.6,108.903,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,39.0,3.0,HARD,18.0,False,1,True,17.0,26.0,41.8,38.0,False,3.1,108.312,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,40.0,3.0,HARD,19.0,False,1,True,17.0,25.7,41.6,38.0,False,3.8,109.405,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,41.0,3.0,HARD,20.0,False,1,True,17.0,25.7,41.6,38.0,False,2.8,109.67,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,42.0,3.0,HARD,21.0,False,1,True,17.0,25.8,41.3,37.0,False,3.6,109.547,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,43.0,3.0,HARD,22.0,False,1,True,17.0,25.8,41.4,38.0,False,2.8,108.783,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,44.0,3.0,HARD,23.0,False,1,True,17.0,25.8,41.7,38.0,False,2.0,108.745,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+STR,Aston Martin,45.0,3.0,HARD,24.0,False,1,False,19.0,25.9,41.6,34.0,False,1.3,122.165,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,1.0,1.0,MEDIUM,2.0,False,1,False,11.0,26.8,45.3,41.0,False,1.4,123.649,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,2.0,1.0,MEDIUM,3.0,False,1,True,11.0,26.8,45.6,41.0,False,2.0,111.648,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,3.0,1.0,MEDIUM,4.0,False,1,True,14.0,26.7,45.7,40.0,False,2.4,113.328,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,4.0,1.0,MEDIUM,5.0,False,1,True,16.0,26.8,45.4,38.0,False,2.4,113.997,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,5.0,1.0,MEDIUM,6.0,False,1,True,16.0,26.6,44.5,38.0,False,2.8,113.121,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,6.0,1.0,MEDIUM,7.0,False,1,True,16.0,26.3,45.0,40.0,False,0.8,111.278,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,7.0,1.0,MEDIUM,8.0,False,1,True,16.0,26.3,44.6,39.0,False,2.3,111.075,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,8.0,1.0,MEDIUM,9.0,False,1,True,16.0,26.3,44.7,40.0,False,0.9,110.887,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,9.0,1.0,MEDIUM,10.0,False,1,True,16.0,26.2,44.4,40.0,False,1.6,111.141,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,10.0,1.0,MEDIUM,11.0,False,1,True,16.0,26.7,44.8,38.0,False,1.5,110.899,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,11.0,1.0,MEDIUM,12.0,False,1,True,17.0,26.7,44.7,37.0,False,0.8,112.485,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,12.0,1.0,MEDIUM,13.0,False,1,False,19.0,26.9,44.8,37.0,False,0.9,121.304,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,13.0,2.0,HARD,2.0,False,1,False,20.0,26.8,44.3,38.0,False,0.8,131.939,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+TSU,RB,14.0,2.0,HARD,3.0,False,1,False,20.0,27.0,44.7,36.0,False,1.4,125.9,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,1.0,1.0,HARD,1.0,True,1,False,9.0,26.8,45.3,41.0,False,1.4,119.047,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,2.0,1.0,HARD,2.0,True,1,True,9.0,26.8,45.6,41.0,False,2.0,110.846,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,3.0,1.0,HARD,3.0,True,1,True,9.0,26.7,45.7,40.0,False,2.4,110.457,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,4.0,1.0,HARD,4.0,True,1,True,9.0,26.8,45.4,38.0,False,2.4,110.185,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,5.0,1.0,HARD,5.0,True,1,True,9.0,26.6,44.5,38.0,False,2.8,109.78,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,6.0,1.0,HARD,6.0,True,1,True,9.0,26.3,45.0,40.0,False,0.8,109.64,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,7.0,1.0,HARD,7.0,True,1,True,9.0,26.5,44.9,39.0,False,2.4,109.533,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,8.0,1.0,HARD,8.0,True,1,True,9.0,26.2,44.7,40.0,False,1.8,109.207,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,9.0,1.0,HARD,9.0,True,1,True,9.0,26.2,44.4,40.0,False,1.6,109.358,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,10.0,1.0,HARD,10.0,True,1,True,8.0,26.7,44.8,38.0,False,1.5,109.291,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,11.0,1.0,HARD,11.0,True,1,True,7.0,26.7,44.7,37.0,False,0.8,109.199,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,12.0,1.0,HARD,12.0,True,1,True,7.0,26.9,44.8,37.0,False,0.9,109.191,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,13.0,1.0,HARD,13.0,True,1,True,5.0,26.9,44.8,38.0,False,2.2,109.04,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,14.0,1.0,HARD,14.0,True,1,True,4.0,27.0,44.7,37.0,False,0.9,108.783,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,15.0,1.0,HARD,15.0,True,1,True,4.0,26.8,44.1,37.0,False,2.9,108.779,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,16.0,1.0,HARD,16.0,True,1,True,3.0,26.5,44.1,36.0,False,1.3,108.677,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,17.0,1.0,HARD,17.0,True,1,True,4.0,26.5,44.0,36.0,False,1.4,110.315,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,18.0,1.0,HARD,18.0,True,1,True,3.0,26.3,43.8,37.0,False,1.2,109.962,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,19.0,1.0,HARD,19.0,True,1,True,4.0,26.4,44.0,36.0,False,1.7,109.777,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,20.0,1.0,HARD,20.0,True,1,True,4.0,26.5,43.9,36.0,False,1.2,109.282,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,21.0,1.0,HARD,21.0,True,1,True,4.0,26.9,44.4,34.0,False,1.1,109.213,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,22.0,1.0,HARD,22.0,True,1,True,4.0,26.9,43.2,36.0,False,1.3,109.181,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,23.0,1.0,HARD,23.0,True,1,True,4.0,27.0,44.2,37.0,False,1.5,109.247,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,24.0,1.0,HARD,24.0,True,1,True,5.0,26.9,44.1,36.0,False,2.5,110.191,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,25.0,1.0,HARD,25.0,True,1,True,5.0,26.5,43.6,37.0,False,2.5,109.231,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,26.0,1.0,HARD,26.0,True,1,True,5.0,26.2,43.3,39.0,False,1.6,109.179,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,27.0,1.0,HARD,27.0,True,1,True,5.0,26.2,43.1,38.0,False,1.0,109.077,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,28.0,1.0,HARD,28.0,True,1,True,5.0,26.7,43.3,38.0,False,0.5,109.115,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,29.0,1.0,HARD,29.0,True,1,True,5.0,27.1,43.5,37.0,False,1.7,109.187,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,30.0,1.0,HARD,30.0,True,1,True,5.0,27.0,43.1,37.0,False,1.4,109.041,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,31.0,1.0,HARD,31.0,True,1,False,8.0,26.7,43.2,36.0,False,1.3,112.482,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,32.0,2.0,MEDIUM,1.0,True,1,False,11.0,26.7,42.6,36.0,False,1.2,125.956,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,33.0,2.0,MEDIUM,2.0,True,1,True,11.0,26.5,42.4,37.0,False,1.5,107.551,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,34.0,2.0,MEDIUM,3.0,True,1,True,11.0,26.6,42.8,37.0,False,1.4,108.556,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,35.0,2.0,MEDIUM,4.0,True,1,True,11.0,26.9,43.1,36.0,False,1.0,109.733,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,36.0,2.0,MEDIUM,5.0,True,12,True,10.0,26.5,42.6,38.0,False,1.6,107.955,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,37.0,2.0,MEDIUM,6.0,True,1,True,10.0,26.5,42.6,36.0,False,2.6,108.394,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,38.0,2.0,MEDIUM,7.0,True,1,True,9.0,26.4,42.7,35.0,False,1.8,108.124,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,39.0,2.0,MEDIUM,8.0,True,1,True,9.0,26.3,42.1,36.0,False,2.8,108.117,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,40.0,2.0,MEDIUM,9.0,True,1,True,9.0,25.8,41.8,38.0,False,2.7,107.613,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,41.0,2.0,MEDIUM,10.0,True,1,True,9.0,25.7,41.6,38.0,False,2.8,107.953,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,42.0,2.0,MEDIUM,11.0,True,1,True,9.0,25.7,41.8,36.0,False,2.2,107.213,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,43.0,2.0,MEDIUM,12.0,True,1,True,9.0,25.7,41.3,38.0,False,1.7,106.947,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,44.0,2.0,MEDIUM,13.0,True,1,True,9.0,25.8,41.4,38.0,False,2.1,107.04,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,45.0,2.0,MEDIUM,14.0,True,1,True,9.0,25.9,41.6,35.0,False,2.4,107.392,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,46.0,2.0,MEDIUM,15.0,True,1,True,9.0,25.9,41.6,32.0,False,0.9,107.586,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,47.0,2.0,MEDIUM,16.0,True,1,True,9.0,26.0,42.0,33.0,False,1.1,107.569,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,48.0,2.0,MEDIUM,17.0,True,1,True,9.0,26.6,41.5,33.0,False,0.6,107.153,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,49.0,2.0,MEDIUM,18.0,True,12,True,9.0,26.5,41.3,35.0,False,1.0,107.35,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,50.0,2.0,MEDIUM,19.0,True,26,False,7.0,26.6,40.9,36.0,False,1.5,149.028,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ALB,Williams,51.0,2.0,MEDIUM,20.0,True,6,False,7.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,1.0,1.0,HARD,2.0,False,1,False,18.0,26.8,45.3,41.0,False,1.4,125.8,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,2.0,1.0,HARD,3.0,False,1,True,18.0,26.8,45.6,41.0,False,2.0,113.999,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,3.0,1.0,HARD,4.0,False,1,True,18.0,26.7,45.7,40.0,False,2.4,112.11,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,4.0,1.0,HARD,5.0,False,1,True,18.0,26.8,45.4,38.0,False,2.4,111.671,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,5.0,1.0,HARD,6.0,False,1,True,18.0,26.6,44.5,38.0,False,2.8,113.333,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,6.0,1.0,HARD,7.0,False,1,True,18.0,26.3,45.0,40.0,False,0.8,111.235,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,7.0,1.0,HARD,8.0,False,1,True,18.0,26.3,44.6,39.0,False,2.3,111.105,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,8.0,1.0,HARD,9.0,False,1,True,18.0,26.3,44.7,40.0,False,0.9,111.313,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,9.0,1.0,HARD,10.0,False,1,True,18.0,26.2,44.4,40.0,False,1.6,111.018,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,10.0,1.0,HARD,11.0,False,1,True,17.0,26.7,44.8,38.0,False,1.5,110.765,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,11.0,1.0,HARD,12.0,False,1,True,16.0,26.7,44.7,37.0,False,0.8,111.018,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,12.0,1.0,HARD,13.0,False,1,True,16.0,26.9,44.8,37.0,False,0.9,110.575,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,13.0,1.0,HARD,14.0,False,1,True,15.0,26.8,44.3,38.0,False,0.8,110.614,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,14.0,1.0,HARD,15.0,False,1,True,15.0,27.0,44.7,36.0,False,1.4,110.635,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,15.0,1.0,HARD,16.0,False,1,True,14.0,26.5,44.1,37.0,False,2.3,110.317,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,16.0,1.0,HARD,17.0,False,1,True,14.0,26.5,44.1,36.0,False,1.3,110.994,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,17.0,1.0,HARD,18.0,False,1,True,15.0,26.5,44.0,36.0,False,1.4,110.518,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,18.0,1.0,HARD,19.0,False,1,True,16.0,26.3,43.8,37.0,False,1.2,111.803,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,19.0,1.0,HARD,20.0,False,1,True,16.0,26.4,43.9,36.0,False,1.9,110.496,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,20.0,1.0,HARD,21.0,False,1,True,16.0,26.6,44.1,36.0,False,0.9,110.45,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,21.0,1.0,HARD,22.0,False,1,True,16.0,27.1,44.4,35.0,False,1.9,110.483,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,22.0,1.0,HARD,23.0,False,1,True,16.0,26.9,43.2,36.0,False,1.3,110.37,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,23.0,1.0,HARD,24.0,False,1,True,16.0,27.0,44.2,37.0,False,1.5,110.563,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,24.0,1.0,HARD,25.0,False,1,True,16.0,26.7,43.6,36.0,False,2.6,110.276,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,25.0,1.0,HARD,26.0,False,1,True,16.0,26.2,42.8,38.0,False,2.6,110.054,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,26.0,1.0,HARD,27.0,False,1,True,16.0,26.3,43.3,38.0,False,2.9,110.102,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,27.0,1.0,HARD,28.0,False,1,True,16.0,26.5,43.3,38.0,False,0.7,110.036,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,28.0,1.0,HARD,29.0,False,1,True,16.0,26.8,43.3,38.0,False,0.7,109.76,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,29.0,1.0,HARD,30.0,False,1,True,16.0,27.1,43.5,37.0,False,1.7,109.685,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,30.0,1.0,HARD,31.0,False,1,True,16.0,26.9,42.6,36.0,False,1.5,109.741,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,31.0,1.0,HARD,32.0,False,1,True,16.0,26.6,42.6,36.0,False,1.9,109.794,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,32.0,1.0,HARD,33.0,False,1,True,16.0,26.5,42.4,37.0,False,1.0,109.357,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,33.0,1.0,HARD,34.0,False,1,True,16.0,26.5,42.8,37.0,False,1.7,109.199,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,34.0,1.0,HARD,35.0,False,1,False,17.0,26.6,42.8,37.0,False,1.4,113.797,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,35.0,2.0,MEDIUM,2.0,False,12,False,19.0,26.9,43.1,36.0,False,1.0,126.269,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,36.0,2.0,MEDIUM,3.0,False,1,True,19.0,26.5,42.6,38.0,False,1.6,108.304,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,37.0,2.0,MEDIUM,4.0,False,1,True,19.0,26.4,42.7,35.0,False,1.5,108.112,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,38.0,2.0,MEDIUM,5.0,False,1,True,19.0,26.4,42.3,36.0,False,1.6,108.378,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,39.0,2.0,MEDIUM,6.0,False,1,True,19.0,26.0,41.8,38.0,False,3.1,108.001,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,40.0,2.0,MEDIUM,7.0,False,1,True,19.0,25.7,41.6,38.0,False,3.8,108.014,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,41.0,2.0,MEDIUM,8.0,False,1,True,19.0,25.7,41.6,38.0,False,2.8,108.0,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,42.0,2.0,MEDIUM,9.0,False,1,True,19.0,25.8,41.3,37.0,False,3.6,108.054,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,43.0,2.0,MEDIUM,10.0,False,1,True,19.0,25.8,41.4,38.0,False,2.8,107.644,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,44.0,2.0,MEDIUM,11.0,False,1,True,19.0,25.8,41.7,38.0,False,2.0,107.907,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,45.0,2.0,MEDIUM,12.0,False,1,True,18.0,25.9,41.6,34.0,False,1.3,107.934,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,46.0,2.0,MEDIUM,13.0,False,1,True,17.0,25.9,41.6,32.0,False,0.9,108.647,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,47.0,2.0,MEDIUM,14.0,False,1,True,17.0,26.4,42.0,33.0,False,0.7,108.077,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,48.0,2.0,MEDIUM,15.0,False,1,True,16.0,26.6,41.3,34.0,False,0.8,108.505,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,49.0,2.0,MEDIUM,16.0,False,12,True,16.0,26.6,41.3,36.0,False,1.1,108.049,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,50.0,2.0,MEDIUM,17.0,False,26,False,14.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+ZHO,Kick Sauber,51.0,2.0,MEDIUM,18.0,False,6,False,14.0,26.4,40.7,39.0,False,1.2,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,26.8,45.3,41.0,False,1.4,123.833,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,26.8,45.6,41.0,False,2.0,112.034,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,26.7,45.7,40.0,False,2.4,110.45,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,26.8,45.4,38.0,False,2.4,110.277,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,26.6,44.5,38.0,False,2.8,109.113,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,26.3,45.0,40.0,False,0.8,109.761,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,26.3,44.6,39.0,False,2.3,109.918,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,26.2,44.7,40.0,False,1.8,109.333,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,26.2,44.4,40.0,False,1.6,109.819,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,26.7,44.8,38.0,False,1.5,109.401,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,26.7,44.7,37.0,False,0.8,109.554,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,26.9,44.8,37.0,False,0.9,109.484,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,26.8,44.3,38.0,False,0.8,109.797,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,27.0,44.7,37.0,False,0.9,110.366,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,False,8.0,26.8,44.1,37.0,False,2.9,114.956,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,16.0,2.0,HARD,1.0,True,1,False,13.0,26.5,44.1,36.0,False,1.3,126.435,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,17.0,2.0,HARD,2.0,True,1,True,13.0,26.5,44.0,36.0,False,1.4,109.105,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,18.0,2.0,HARD,3.0,True,1,True,13.0,26.3,43.8,37.0,False,1.2,109.153,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,19.0,2.0,HARD,4.0,True,1,True,13.0,26.4,43.9,36.0,False,1.9,108.539,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,20.0,2.0,HARD,5.0,True,1,True,12.0,26.6,44.1,36.0,False,0.9,108.001,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,21.0,2.0,HARD,6.0,True,1,True,12.0,26.9,44.4,34.0,False,1.1,108.275,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,22.0,2.0,HARD,7.0,True,1,True,12.0,26.9,43.2,36.0,False,1.3,108.925,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,23.0,2.0,HARD,8.0,True,1,True,12.0,27.0,44.2,37.0,False,1.5,108.804,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,24.0,2.0,HARD,9.0,True,1,True,12.0,26.7,43.6,36.0,False,2.6,107.925,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,25.0,2.0,HARD,10.0,True,1,True,11.0,26.2,42.8,38.0,False,2.6,108.093,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,26.0,2.0,HARD,11.0,True,1,True,11.0,26.3,43.3,38.0,False,2.9,108.387,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,27.0,2.0,HARD,12.0,True,1,True,11.0,26.2,43.1,38.0,False,1.0,108.337,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,28.0,2.0,HARD,13.0,True,1,True,11.0,26.7,43.3,38.0,False,0.5,108.567,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,29.0,2.0,HARD,14.0,True,1,True,11.0,27.1,43.5,37.0,False,1.7,108.314,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,30.0,2.0,HARD,15.0,True,1,True,11.0,26.9,42.6,36.0,False,1.5,108.263,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,31.0,2.0,HARD,16.0,True,1,True,11.0,26.6,42.6,36.0,False,1.9,108.105,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,32.0,2.0,HARD,17.0,True,1,True,10.0,26.7,42.6,36.0,False,1.2,109.185,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,33.0,2.0,HARD,18.0,True,1,True,10.0,26.5,42.4,37.0,False,1.5,107.811,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,34.0,2.0,HARD,19.0,True,1,True,10.0,26.6,42.8,37.0,False,1.4,108.69,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,35.0,2.0,HARD,20.0,True,1,True,9.0,26.9,43.1,36.0,False,1.0,109.429,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,36.0,2.0,HARD,21.0,True,12,True,9.0,26.5,42.6,38.0,False,1.6,108.542,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,37.0,2.0,HARD,22.0,True,1,True,9.0,26.5,42.6,36.0,False,2.6,108.515,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,38.0,2.0,HARD,23.0,True,1,True,10.0,26.4,42.7,35.0,False,1.8,109.638,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,39.0,2.0,HARD,24.0,True,1,True,10.0,26.3,42.1,36.0,False,2.8,108.637,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,40.0,2.0,HARD,25.0,True,1,True,10.0,25.8,41.8,38.0,False,2.7,108.125,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,41.0,2.0,HARD,26.0,True,1,True,10.0,25.7,41.6,38.0,False,2.8,107.993,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,42.0,2.0,HARD,27.0,True,1,True,10.0,25.7,41.8,36.0,False,2.2,107.691,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,43.0,2.0,HARD,28.0,True,1,True,10.0,25.7,41.3,38.0,False,1.7,108.322,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,44.0,2.0,HARD,29.0,True,1,True,10.0,25.8,41.4,38.0,False,2.1,107.934,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,45.0,2.0,HARD,30.0,True,1,True,10.0,25.9,41.6,35.0,False,2.4,107.827,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,46.0,2.0,HARD,31.0,True,1,True,10.0,25.9,41.6,32.0,False,0.9,107.957,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,47.0,2.0,HARD,32.0,True,1,True,10.0,26.0,42.0,33.0,False,1.1,107.693,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,48.0,2.0,HARD,33.0,True,1,True,10.0,26.6,41.5,33.0,False,0.6,109.587,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,49.0,2.0,HARD,34.0,True,12,True,11.0,26.5,41.3,35.0,False,1.0,109.408,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,50.0,2.0,HARD,35.0,True,26,False,11.0,26.6,40.9,36.0,False,1.5,145.325,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HUL,Haas F1 Team,51.0,2.0,HARD,36.0,True,6,False,11.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,1.0,1.0,HARD,2.0,False,1,False,14.0,26.8,45.3,41.0,False,1.4,123.929,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,2.0,1.0,HARD,3.0,False,1,True,14.0,26.8,45.6,41.0,False,2.0,112.896,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,3.0,1.0,HARD,4.0,False,1,True,13.0,26.7,45.7,40.0,False,2.4,111.71,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,4.0,1.0,HARD,5.0,False,1,True,13.0,26.8,45.4,38.0,False,2.4,109.436,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,5.0,1.0,HARD,6.0,False,1,True,13.0,26.6,44.5,38.0,False,2.8,109.69,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,6.0,1.0,HARD,7.0,False,1,True,13.0,26.3,45.0,40.0,False,0.8,109.7,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,7.0,1.0,HARD,8.0,False,1,True,13.0,26.3,44.6,39.0,False,2.3,109.297,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,8.0,1.0,HARD,9.0,False,1,True,13.0,26.2,44.7,40.0,False,1.8,109.721,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,9.0,1.0,HARD,10.0,False,1,True,13.0,26.2,44.4,40.0,False,1.6,109.513,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,10.0,1.0,HARD,11.0,False,1,True,13.0,26.7,44.8,38.0,False,1.5,110.118,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,11.0,1.0,HARD,12.0,False,1,True,12.0,26.7,44.7,37.0,False,0.8,110.332,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,12.0,1.0,HARD,13.0,False,1,True,11.0,26.9,44.8,37.0,False,0.9,110.73,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,13.0,1.0,HARD,14.0,False,1,True,10.0,26.8,44.3,38.0,False,0.8,110.925,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,14.0,1.0,HARD,15.0,False,1,True,11.0,27.0,44.7,37.0,False,0.9,111.455,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,15.0,1.0,HARD,16.0,False,1,True,12.0,26.8,44.1,37.0,False,2.9,113.237,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,16.0,1.0,HARD,17.0,False,1,True,12.0,26.5,44.1,36.0,False,1.3,111.252,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,17.0,1.0,HARD,18.0,False,1,True,12.0,26.5,44.0,36.0,False,1.4,111.619,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,18.0,1.0,HARD,19.0,False,1,True,12.0,26.3,43.8,37.0,False,1.2,111.379,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,19.0,1.0,HARD,20.0,False,1,True,12.0,26.4,43.9,36.0,False,1.9,111.033,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,20.0,1.0,HARD,21.0,False,1,True,13.0,26.6,44.1,36.0,False,0.9,111.449,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,21.0,1.0,HARD,22.0,False,1,True,13.0,26.9,44.4,34.0,False,1.1,111.501,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,22.0,1.0,HARD,23.0,False,1,True,15.0,26.9,43.2,36.0,False,1.3,112.589,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,23.0,1.0,HARD,24.0,False,1,True,15.0,27.0,44.2,37.0,False,1.5,111.304,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,24.0,1.0,HARD,25.0,False,1,True,15.0,26.7,43.6,36.0,False,2.6,110.531,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,25.0,1.0,HARD,26.0,False,1,True,15.0,26.2,42.8,38.0,False,2.6,110.119,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,26.0,1.0,HARD,27.0,False,1,True,15.0,26.3,43.3,38.0,False,2.9,109.724,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,27.0,1.0,HARD,28.0,False,1,True,15.0,26.5,43.3,38.0,False,0.7,109.355,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,28.0,1.0,HARD,29.0,False,1,True,15.0,26.7,43.3,38.0,False,0.5,109.328,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,29.0,1.0,HARD,30.0,False,1,True,15.0,27.1,43.5,37.0,False,1.7,108.994,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,30.0,1.0,HARD,31.0,False,1,True,15.0,26.9,42.6,36.0,False,1.5,109.231,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,31.0,1.0,HARD,32.0,False,1,True,15.0,26.6,42.6,36.0,False,1.9,108.948,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,32.0,1.0,HARD,33.0,False,1,True,15.0,26.5,42.4,37.0,False,1.0,108.668,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,33.0,1.0,HARD,34.0,False,1,True,15.0,26.5,42.4,37.0,False,1.5,108.457,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,34.0,1.0,HARD,35.0,False,1,True,15.0,26.6,42.8,37.0,False,1.4,108.549,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,35.0,1.0,HARD,36.0,False,1,True,15.0,26.9,43.1,36.0,False,1.0,108.869,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,36.0,1.0,HARD,37.0,False,12,True,15.0,26.5,42.6,38.0,False,1.6,108.755,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,37.0,1.0,HARD,38.0,False,1,True,15.0,26.4,42.7,35.0,False,1.5,108.623,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,38.0,1.0,HARD,39.0,False,1,True,15.0,26.4,42.3,36.0,False,1.6,108.864,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,39.0,1.0,HARD,40.0,False,1,True,15.0,26.3,42.1,36.0,False,2.8,108.38,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,40.0,1.0,HARD,41.0,False,1,True,15.0,25.8,41.8,38.0,False,2.7,108.452,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,41.0,1.0,HARD,42.0,False,1,True,15.0,25.7,41.6,38.0,False,2.8,108.54,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,42.0,1.0,HARD,43.0,False,1,True,15.0,25.8,41.3,37.0,False,3.6,108.863,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,43.0,1.0,HARD,44.0,False,1,True,15.0,25.8,41.4,38.0,False,2.8,108.924,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,44.0,1.0,HARD,45.0,False,1,True,15.0,25.8,41.4,38.0,False,2.1,108.762,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,45.0,1.0,HARD,46.0,False,1,True,15.0,25.9,41.6,35.0,False,2.4,108.507,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,46.0,1.0,HARD,47.0,False,1,True,15.0,25.9,41.6,32.0,False,0.9,108.679,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,47.0,1.0,HARD,48.0,False,1,True,15.0,26.4,42.0,33.0,False,0.7,109.14,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,48.0,1.0,HARD,49.0,False,1,True,15.0,26.6,41.3,34.0,False,0.8,109.604,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,49.0,1.0,HARD,50.0,False,12,False,15.0,26.5,41.3,35.0,False,1.0,113.511,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,50.0,2.0,SOFT,1.0,True,26,False,13.0,26.6,40.9,36.0,False,1.5,,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+RIC,RB,51.0,2.0,SOFT,2.0,True,6,False,13.0,26.4,40.7,39.0,False,1.2,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,1.0,1.0,HARD,4.0,False,1,False,19.0,26.8,45.3,41.0,False,1.4,126.969,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,2.0,1.0,HARD,5.0,False,1,True,19.0,26.8,45.6,41.0,False,2.0,113.518,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,3.0,1.0,HARD,6.0,False,1,True,19.0,26.7,45.7,40.0,False,2.4,112.028,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,4.0,1.0,HARD,7.0,False,1,True,19.0,26.8,45.4,38.0,False,2.4,111.514,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,5.0,1.0,HARD,8.0,False,1,True,19.0,26.6,44.5,38.0,False,2.8,113.318,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,6.0,1.0,HARD,9.0,False,1,True,19.0,26.3,45.0,40.0,False,0.8,111.59,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,7.0,1.0,HARD,10.0,False,1,True,19.0,26.3,44.6,39.0,False,2.3,111.006,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,8.0,1.0,HARD,11.0,False,1,True,19.0,26.3,44.7,40.0,False,0.9,111.396,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,9.0,1.0,HARD,12.0,False,1,True,19.0,26.5,44.7,40.0,False,0.9,111.284,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,10.0,1.0,HARD,13.0,False,1,True,18.0,26.7,44.8,38.0,False,1.5,111.515,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,11.0,1.0,HARD,14.0,False,1,True,18.0,26.7,44.7,37.0,False,0.8,110.455,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,12.0,1.0,HARD,15.0,False,1,True,17.0,26.9,44.8,37.0,False,0.9,110.578,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,13.0,1.0,HARD,16.0,False,1,True,16.0,26.8,44.3,38.0,False,0.8,109.904,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,14.0,1.0,HARD,17.0,False,1,True,16.0,27.0,44.7,36.0,False,1.4,110.542,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,15.0,1.0,HARD,18.0,False,1,True,15.0,26.5,44.1,37.0,False,2.3,110.556,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,16.0,1.0,HARD,19.0,False,1,True,16.0,26.5,44.1,36.0,False,1.3,111.138,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,17.0,1.0,HARD,20.0,False,1,True,17.0,26.5,44.0,36.0,False,1.4,112.19,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,18.0,1.0,HARD,21.0,False,1,True,17.0,26.3,43.8,37.0,False,1.2,110.598,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,19.0,1.0,HARD,22.0,False,1,True,17.0,26.4,43.9,36.0,False,1.9,110.988,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,20.0,1.0,HARD,23.0,False,1,True,17.0,26.6,44.1,36.0,False,0.9,110.801,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,21.0,1.0,HARD,24.0,False,1,True,17.0,27.1,44.4,35.0,False,1.9,110.349,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,22.0,1.0,HARD,25.0,False,1,True,17.0,27.0,43.4,36.0,False,1.7,110.499,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,23.0,1.0,HARD,26.0,False,1,True,17.0,27.0,44.2,37.0,False,1.5,110.812,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,24.0,1.0,HARD,27.0,False,1,True,17.0,26.7,43.6,36.0,False,2.6,110.527,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,25.0,1.0,HARD,28.0,False,1,True,17.0,26.2,42.8,38.0,False,2.6,110.162,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,26.0,1.0,HARD,29.0,False,1,True,17.0,26.3,43.3,38.0,False,2.9,109.944,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,27.0,1.0,HARD,30.0,False,1,True,17.0,26.5,43.3,38.0,False,0.7,109.753,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,28.0,1.0,HARD,31.0,False,1,True,17.0,26.8,43.3,38.0,False,0.7,109.607,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,29.0,1.0,HARD,32.0,False,1,True,17.0,27.1,43.5,37.0,False,1.7,109.526,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,30.0,1.0,HARD,33.0,False,1,True,17.0,26.9,42.6,36.0,False,1.5,109.485,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,31.0,1.0,HARD,34.0,False,1,True,17.0,26.6,42.6,36.0,False,1.9,109.702,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,32.0,1.0,HARD,35.0,False,1,True,17.0,26.5,42.4,37.0,False,1.0,109.419,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,33.0,1.0,HARD,36.0,False,1,True,17.0,26.5,42.8,37.0,False,1.7,109.086,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,34.0,1.0,HARD,37.0,False,1,True,16.0,26.6,42.8,37.0,False,1.4,109.383,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,35.0,1.0,HARD,38.0,False,1,True,16.0,26.9,43.1,36.0,False,1.0,108.831,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,36.0,1.0,HARD,39.0,False,12,True,16.0,26.5,42.6,38.0,False,1.6,115.839,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,37.0,1.0,HARD,40.0,False,1,True,16.0,26.4,42.7,35.0,False,1.5,109.555,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,38.0,1.0,HARD,41.0,False,1,True,16.0,26.4,42.3,36.0,False,1.6,109.112,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,39.0,1.0,HARD,42.0,False,1,True,16.0,26.0,41.8,38.0,False,3.1,108.944,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,40.0,1.0,HARD,43.0,False,1,True,16.0,25.7,41.6,38.0,False,3.8,109.273,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,41.0,1.0,HARD,44.0,False,1,True,16.0,25.7,41.6,38.0,False,2.8,109.059,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,42.0,1.0,HARD,45.0,False,1,True,16.0,25.8,41.3,37.0,False,3.6,109.315,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,43.0,1.0,HARD,46.0,False,1,True,16.0,25.8,41.4,38.0,False,2.8,108.994,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,44.0,1.0,HARD,47.0,False,1,True,16.0,25.8,41.7,38.0,False,2.0,109.269,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,45.0,1.0,HARD,48.0,False,1,True,16.0,25.9,41.6,34.0,False,1.3,109.018,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,46.0,1.0,HARD,49.0,False,1,True,16.0,25.9,41.6,32.0,False,0.9,109.419,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,47.0,1.0,HARD,50.0,False,1,True,16.0,26.4,42.0,33.0,False,0.7,109.507,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,48.0,1.0,HARD,51.0,False,1,True,17.0,26.6,41.3,34.0,False,0.8,111.775,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,49.0,1.0,HARD,52.0,False,126,False,17.0,26.6,41.3,36.0,False,1.1,115.188,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+OCO,Alpine,50.0,2.0,SOFT,1.0,True,6,False,15.0,26.5,40.8,37.0,False,0.9,,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,1.0,1.0,HARD,1.0,True,1,False,12.0,26.8,45.3,41.0,False,1.4,123.761,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,2.0,1.0,HARD,2.0,True,1,True,12.0,26.8,45.6,41.0,False,2.0,111.638,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,3.0,1.0,HARD,3.0,True,1,True,11.0,26.7,45.7,40.0,False,2.4,110.219,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,4.0,1.0,HARD,4.0,True,1,True,11.0,26.8,45.4,38.0,False,2.4,109.767,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,5.0,1.0,HARD,5.0,True,1,True,11.0,26.6,44.5,38.0,False,2.8,109.386,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,6.0,1.0,HARD,6.0,True,1,True,11.0,26.3,45.0,40.0,False,0.8,109.509,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,7.0,1.0,HARD,7.0,True,1,True,11.0,26.3,44.6,39.0,False,2.3,109.104,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,8.0,1.0,HARD,8.0,True,1,True,10.0,26.2,44.7,40.0,False,1.8,109.281,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,9.0,1.0,HARD,9.0,True,1,True,10.0,26.2,44.4,40.0,False,1.6,108.811,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,10.0,1.0,HARD,10.0,True,1,True,9.0,26.7,44.8,38.0,False,1.5,108.978,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,11.0,1.0,HARD,11.0,True,1,True,9.0,26.7,44.7,37.0,False,0.8,108.556,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,12.0,1.0,HARD,12.0,True,1,True,8.0,26.9,44.8,37.0,False,0.9,108.887,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,13.0,1.0,HARD,13.0,True,1,True,6.0,26.9,44.8,38.0,False,2.2,109.033,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,14.0,1.0,HARD,14.0,True,1,True,5.0,27.0,44.7,37.0,False,0.9,108.92,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,15.0,1.0,HARD,15.0,True,1,True,5.0,26.8,44.1,37.0,False,2.9,110.169,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,16.0,1.0,HARD,16.0,True,1,True,6.0,26.5,44.1,36.0,False,1.3,109.329,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,17.0,1.0,HARD,17.0,True,1,True,6.0,26.5,44.0,36.0,False,1.4,108.709,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,18.0,1.0,HARD,18.0,True,1,True,5.0,26.3,43.8,37.0,False,1.2,109.231,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,19.0,1.0,HARD,19.0,True,1,True,5.0,26.4,44.0,36.0,False,1.7,109.082,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,20.0,1.0,HARD,20.0,True,1,True,5.0,26.5,43.9,36.0,False,1.2,109.473,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,21.0,1.0,HARD,21.0,True,1,True,5.0,26.9,44.4,34.0,False,1.1,108.888,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,22.0,1.0,HARD,22.0,True,1,True,5.0,26.9,43.2,36.0,False,1.3,108.935,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,23.0,1.0,HARD,23.0,True,1,True,6.0,27.0,44.2,37.0,False,1.5,109.749,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,24.0,1.0,HARD,24.0,True,1,True,6.0,26.9,44.1,36.0,False,2.5,110.053,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,25.0,1.0,HARD,25.0,True,1,True,6.0,26.5,43.6,37.0,False,2.5,108.579,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,26.0,1.0,HARD,26.0,True,1,True,6.0,26.2,43.3,39.0,False,1.6,108.942,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,27.0,1.0,HARD,27.0,True,1,True,6.0,26.2,43.1,38.0,False,1.0,109.141,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,28.0,1.0,HARD,28.0,True,1,True,6.0,26.7,43.3,38.0,False,0.5,109.045,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,29.0,1.0,HARD,29.0,True,1,True,6.0,27.1,43.5,37.0,False,1.7,109.267,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,30.0,1.0,HARD,30.0,True,1,True,6.0,27.0,43.1,37.0,False,1.4,108.91,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,31.0,1.0,HARD,31.0,True,1,True,5.0,26.7,43.2,36.0,False,1.3,108.802,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,32.0,1.0,HARD,32.0,True,1,True,5.0,26.7,42.6,36.0,False,1.2,107.933,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,33.0,1.0,HARD,33.0,True,1,True,5.0,26.5,42.4,37.0,False,1.5,107.947,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,34.0,1.0,HARD,34.0,True,1,True,5.0,26.6,42.8,37.0,False,1.4,107.534,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,35.0,1.0,HARD,35.0,True,1,True,5.0,26.8,43.0,36.0,False,1.6,107.667,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,36.0,1.0,HARD,36.0,True,12,True,5.0,26.9,42.6,36.0,False,2.7,107.509,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,37.0,1.0,HARD,37.0,True,1,False,6.0,26.5,42.6,36.0,False,2.6,111.037,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,38.0,2.0,MEDIUM,1.0,True,1,False,7.0,26.4,42.7,35.0,False,1.8,122.491,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,39.0,2.0,MEDIUM,2.0,True,1,True,7.0,26.3,42.1,36.0,False,2.8,105.662,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,40.0,2.0,MEDIUM,3.0,True,1,True,7.0,25.8,41.8,38.0,False,2.7,105.842,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,41.0,2.0,MEDIUM,4.0,True,1,True,7.0,25.7,41.6,38.0,False,3.8,106.104,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,42.0,2.0,MEDIUM,5.0,True,1,True,7.0,25.7,41.8,36.0,False,2.2,105.255,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,43.0,2.0,MEDIUM,6.0,True,1,True,7.0,25.7,41.3,38.0,False,1.7,105.432,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,44.0,2.0,MEDIUM,7.0,True,1,True,7.0,25.8,41.4,38.0,False,2.1,105.591,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,45.0,2.0,MEDIUM,8.0,True,1,True,7.0,25.8,41.7,38.0,False,2.0,105.863,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,46.0,2.0,MEDIUM,9.0,True,1,True,7.0,25.9,41.6,34.0,False,1.3,105.886,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,47.0,2.0,MEDIUM,10.0,True,1,True,7.0,26.0,42.0,33.0,False,1.1,106.051,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,48.0,2.0,MEDIUM,11.0,True,1,True,7.0,26.6,41.5,33.0,False,0.6,106.143,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,49.0,2.0,MEDIUM,12.0,True,1,True,6.0,26.5,41.3,35.0,False,1.0,105.626,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,50.0,2.0,MEDIUM,13.0,True,126,False,4.0,26.6,41.3,36.0,False,1.1,124.244,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+NOR,McLaren,51.0,2.0,MEDIUM,14.0,True,6,False,4.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,26.8,45.3,41.0,False,1.4,118.293,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,26.8,45.6,41.0,False,2.0,110.41,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,26.7,45.7,40.0,False,2.4,110.414,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,26.8,45.4,38.0,False,2.4,109.916,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,26.6,44.5,38.0,False,2.8,110.137,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,26.3,45.0,40.0,False,0.8,109.722,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,26.5,44.9,39.0,False,2.4,109.483,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,26.2,44.7,40.0,False,1.8,109.302,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,26.2,44.4,40.0,False,1.6,109.403,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,10.0,1.0,MEDIUM,10.0,True,1,False,10.0,26.7,44.8,38.0,False,1.5,113.374,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,11.0,2.0,HARD,1.0,True,1,False,15.0,26.7,44.7,37.0,False,0.8,126.259,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,12.0,2.0,HARD,2.0,True,1,True,15.0,26.9,44.8,37.0,False,0.9,109.173,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,13.0,2.0,HARD,3.0,True,1,True,14.0,26.8,44.3,38.0,False,0.8,109.417,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,14.0,2.0,HARD,4.0,True,1,True,14.0,27.0,44.7,36.0,False,1.4,109.367,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,15.0,2.0,HARD,5.0,True,1,True,13.0,26.8,44.1,37.0,False,2.9,109.339,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,16.0,2.0,HARD,6.0,True,1,True,11.0,26.5,44.1,36.0,False,1.3,109.745,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,17.0,2.0,HARD,7.0,True,1,True,11.0,26.5,44.0,36.0,False,1.4,109.243,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,18.0,2.0,HARD,8.0,True,1,True,11.0,26.3,43.8,37.0,False,1.2,109.258,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,19.0,2.0,HARD,9.0,True,1,True,10.0,26.4,43.9,36.0,False,1.9,109.1,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,20.0,2.0,HARD,10.0,True,1,True,10.0,26.6,44.1,36.0,False,0.9,109.028,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,21.0,2.0,HARD,11.0,True,1,True,10.0,26.9,44.4,34.0,False,1.1,109.237,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,22.0,2.0,HARD,12.0,True,1,True,10.0,26.9,43.2,36.0,False,1.3,108.851,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,23.0,2.0,HARD,13.0,True,1,True,10.0,27.0,44.2,37.0,False,1.5,109.008,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,24.0,2.0,HARD,14.0,True,1,True,10.0,26.7,43.6,36.0,False,2.6,108.745,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,25.0,2.0,HARD,15.0,True,1,True,10.0,26.2,42.8,38.0,False,2.6,108.92,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,26.0,2.0,HARD,16.0,True,1,True,10.0,26.2,43.3,39.0,False,1.6,109.148,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,27.0,2.0,HARD,17.0,True,1,True,10.0,26.2,43.1,38.0,False,1.0,108.98,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,28.0,2.0,HARD,18.0,True,1,True,10.0,26.7,43.3,38.0,False,0.5,109.258,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,29.0,2.0,HARD,19.0,True,1,True,10.0,27.1,43.5,37.0,False,1.7,108.924,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,30.0,2.0,HARD,20.0,True,1,True,10.0,26.9,42.6,36.0,False,1.5,108.987,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,31.0,2.0,HARD,21.0,True,1,True,10.0,26.7,43.2,36.0,False,1.3,108.951,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,32.0,2.0,HARD,22.0,True,1,True,9.0,26.7,42.6,36.0,False,1.2,108.85,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,33.0,2.0,HARD,23.0,True,1,True,9.0,26.5,42.4,37.0,False,1.5,109.367,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,34.0,2.0,HARD,24.0,True,1,True,9.0,26.6,42.8,37.0,False,1.4,109.161,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,35.0,2.0,HARD,25.0,True,1,True,10.0,26.9,43.1,36.0,False,1.0,109.737,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,36.0,2.0,HARD,26.0,True,12,True,11.0,26.5,42.6,38.0,False,1.6,110.858,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,37.0,2.0,HARD,27.0,True,1,True,11.0,26.5,42.6,36.0,False,2.6,110.229,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,38.0,2.0,HARD,28.0,True,1,True,11.0,26.4,42.7,35.0,False,1.8,109.52,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,39.0,2.0,HARD,29.0,True,1,True,11.0,26.3,42.1,36.0,False,2.8,109.034,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,40.0,2.0,HARD,30.0,True,1,True,11.0,25.8,41.8,38.0,False,2.7,108.416,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,41.0,2.0,HARD,31.0,True,1,True,11.0,25.7,41.6,38.0,False,2.8,108.416,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,42.0,2.0,HARD,32.0,True,1,True,11.0,25.8,41.3,37.0,False,3.6,107.833,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,43.0,2.0,HARD,33.0,True,1,True,11.0,25.7,41.3,38.0,False,1.7,107.476,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,44.0,2.0,HARD,34.0,True,1,True,11.0,25.8,41.4,38.0,False,2.1,107.274,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,45.0,2.0,HARD,35.0,True,1,True,11.0,25.9,41.6,35.0,False,2.4,107.454,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,46.0,2.0,HARD,36.0,True,1,True,11.0,25.9,41.6,32.0,False,0.9,107.5,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,47.0,2.0,HARD,37.0,True,1,True,11.0,26.0,42.0,33.0,False,1.1,107.741,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,48.0,2.0,HARD,38.0,True,1,True,11.0,26.6,41.5,33.0,False,0.6,107.369,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,49.0,2.0,HARD,39.0,True,12,True,10.0,26.5,41.3,35.0,False,1.0,108.223,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,50.0,2.0,HARD,40.0,True,26,False,8.0,26.6,40.9,36.0,False,1.5,140.687,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+COL,Williams,51.0,2.0,HARD,41.0,True,6,False,8.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,26.8,45.3,41.0,False,1.4,125.704,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,26.8,45.6,41.0,False,2.0,112.922,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,26.7,45.7,40.0,False,2.4,110.97,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,26.8,45.4,38.0,False,2.4,110.351,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,26.6,44.5,38.0,False,2.8,110.358,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,26.3,45.0,40.0,False,0.8,109.791,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,26.3,44.6,39.0,False,2.3,109.399,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,26.2,44.7,40.0,False,1.8,109.59,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,26.2,44.4,40.0,False,1.6,109.698,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,26.7,44.8,38.0,False,1.5,109.993,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,26.7,44.7,37.0,False,0.8,110.712,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,False,14.0,26.9,44.8,37.0,False,0.9,115.287,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,13.0,2.0,HARD,1.0,False,1,False,18.0,26.8,44.3,38.0,False,0.8,126.757,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,14.0,2.0,HARD,2.0,False,1,True,18.0,27.0,44.7,36.0,False,1.4,108.984,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,15.0,2.0,HARD,3.0,False,1,True,17.0,26.5,44.1,37.0,False,2.3,108.754,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,16.0,2.0,HARD,4.0,False,1,True,17.0,26.5,44.1,36.0,False,1.3,108.527,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,17.0,2.0,HARD,5.0,False,1,True,16.0,26.5,44.0,36.0,False,1.4,109.487,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,18.0,2.0,HARD,6.0,False,1,True,15.0,26.3,43.8,37.0,False,1.2,108.632,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,19.0,2.0,HARD,7.0,False,1,True,15.0,26.4,43.9,36.0,False,1.9,108.563,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,20.0,2.0,HARD,8.0,False,1,True,15.0,26.6,44.1,36.0,False,0.9,108.495,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,21.0,2.0,HARD,9.0,False,1,True,15.0,27.1,44.4,35.0,False,1.9,109.616,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,22.0,2.0,HARD,10.0,False,1,True,14.0,26.9,43.2,36.0,False,1.3,110.666,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,23.0,2.0,HARD,11.0,False,1,True,14.0,27.0,44.2,37.0,False,1.5,108.588,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,24.0,2.0,HARD,12.0,False,1,True,14.0,26.7,43.6,36.0,False,2.6,108.433,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,25.0,2.0,HARD,13.0,False,1,True,14.0,26.2,42.8,38.0,False,2.6,108.29,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,26.0,2.0,HARD,14.0,False,1,True,14.0,26.3,43.3,38.0,False,2.9,107.828,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,27.0,2.0,HARD,15.0,False,1,True,14.0,26.2,43.1,38.0,False,1.0,107.898,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,28.0,2.0,HARD,16.0,False,1,True,14.0,26.7,43.3,38.0,False,0.5,108.045,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,29.0,2.0,HARD,17.0,False,1,True,14.0,27.1,43.5,37.0,False,1.7,107.777,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,30.0,2.0,HARD,18.0,False,1,True,13.0,26.9,42.6,36.0,False,1.5,108.494,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,31.0,2.0,HARD,19.0,False,1,True,13.0,26.6,42.6,36.0,False,1.9,108.128,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,32.0,2.0,HARD,20.0,False,1,True,13.0,26.7,42.6,36.0,False,1.2,107.867,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,33.0,2.0,HARD,21.0,False,1,True,13.0,26.5,42.4,37.0,False,1.5,107.33,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,34.0,2.0,HARD,22.0,False,1,True,13.0,26.6,42.8,37.0,False,1.4,109.101,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,35.0,2.0,HARD,23.0,False,1,True,13.0,26.9,43.1,36.0,False,1.0,107.998,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,36.0,2.0,HARD,24.0,False,12,True,13.0,26.5,42.6,38.0,False,1.6,108.903,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,37.0,2.0,HARD,25.0,False,1,True,13.0,26.5,42.6,36.0,False,2.6,110.671,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,38.0,2.0,HARD,26.0,False,1,True,13.0,26.4,42.7,35.0,False,1.8,109.22,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,39.0,2.0,HARD,27.0,False,1,True,13.0,26.3,42.1,36.0,False,2.8,109.264,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,40.0,2.0,HARD,28.0,False,1,True,13.0,25.8,41.8,38.0,False,2.7,108.576,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,41.0,2.0,HARD,29.0,False,1,True,12.0,25.7,41.6,38.0,False,2.8,108.492,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,42.0,2.0,HARD,30.0,False,1,True,12.0,25.8,41.3,37.0,False,3.6,107.3,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,43.0,2.0,HARD,31.0,False,1,True,12.0,25.7,41.3,38.0,False,1.7,107.679,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,44.0,2.0,HARD,32.0,False,1,True,12.0,25.8,41.4,38.0,False,2.1,108.135,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,45.0,2.0,HARD,33.0,False,1,True,12.0,25.9,41.6,35.0,False,2.4,107.629,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,46.0,2.0,HARD,34.0,False,1,True,12.0,25.9,41.6,32.0,False,0.9,107.667,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,47.0,2.0,HARD,35.0,False,1,True,12.0,26.4,42.0,33.0,False,0.7,107.3,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,48.0,2.0,HARD,36.0,False,1,True,12.0,26.6,41.5,33.0,False,0.6,107.236,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,49.0,2.0,HARD,37.0,False,12,True,12.0,26.5,41.3,35.0,False,1.0,107.947,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,50.0,2.0,HARD,38.0,False,26,False,9.0,26.6,40.9,36.0,False,1.5,141.579,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+HAM,Mercedes,51.0,2.0,HARD,39.0,False,6,False,9.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,26.8,45.3,41.0,False,1.4,120.008,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,26.8,45.6,41.0,False,2.0,110.738,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,26.7,45.7,40.0,False,2.4,110.677,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,26.8,45.4,38.0,False,2.4,110.282,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,26.6,44.5,38.0,False,2.8,110.51,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,26.3,45.0,40.0,False,0.8,110.991,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,26.3,44.6,39.0,False,2.3,110.084,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,26.2,44.7,40.0,False,1.8,111.194,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,26.2,44.4,40.0,False,1.6,109.877,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,26.7,44.8,38.0,False,1.5,111.117,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,26.7,44.7,37.0,False,0.8,110.119,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,26.9,44.8,37.0,False,0.9,110.055,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,26.8,44.3,38.0,False,0.8,110.193,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,False,12.0,27.0,44.7,37.0,False,0.9,114.465,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,15.0,2.0,HARD,1.0,True,1,False,16.0,26.8,44.1,37.0,False,2.9,126.955,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,16.0,2.0,HARD,2.0,True,1,True,15.0,26.5,44.1,36.0,False,1.3,110.038,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,17.0,2.0,HARD,3.0,True,1,True,14.0,26.5,44.0,36.0,False,1.4,109.571,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,18.0,2.0,HARD,4.0,True,1,True,14.0,26.3,43.8,37.0,False,1.2,108.714,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,19.0,2.0,HARD,5.0,True,1,True,14.0,26.4,43.9,36.0,False,1.9,108.457,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,20.0,2.0,HARD,6.0,True,1,True,14.0,26.6,44.1,36.0,False,0.9,108.769,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,21.0,2.0,HARD,7.0,True,1,True,14.0,27.1,44.4,35.0,False,1.9,108.487,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,22.0,2.0,HARD,8.0,True,1,True,13.0,26.9,43.2,36.0,False,1.3,109.905,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,23.0,2.0,HARD,9.0,True,1,True,13.0,27.0,44.2,37.0,False,1.5,108.487,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,24.0,2.0,HARD,10.0,True,1,True,13.0,26.7,43.6,36.0,False,2.6,108.214,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,25.0,2.0,HARD,11.0,True,1,True,13.0,26.2,42.8,38.0,False,2.6,108.113,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,26.0,2.0,HARD,12.0,True,1,True,13.0,26.3,43.3,38.0,False,2.9,108.305,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,27.0,2.0,HARD,13.0,True,1,True,13.0,26.2,43.1,38.0,False,1.0,108.004,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,28.0,2.0,HARD,14.0,True,1,True,13.0,26.7,43.3,38.0,False,0.5,108.312,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,29.0,2.0,HARD,15.0,True,1,True,13.0,27.1,43.5,37.0,False,1.7,108.703,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,30.0,2.0,HARD,16.0,True,1,True,12.0,26.9,42.6,36.0,False,1.5,108.046,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,31.0,2.0,HARD,17.0,True,1,True,12.0,26.6,42.6,36.0,False,1.9,107.552,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,32.0,2.0,HARD,18.0,True,1,True,12.0,26.7,42.6,36.0,False,1.2,108.147,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,33.0,2.0,HARD,19.0,True,1,True,12.0,26.5,42.4,37.0,False,1.5,108.578,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,34.0,2.0,HARD,20.0,True,1,True,12.0,26.6,42.8,37.0,False,1.4,108.342,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,35.0,2.0,HARD,21.0,True,1,True,12.0,26.9,43.1,36.0,False,1.0,108.655,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,36.0,2.0,HARD,22.0,True,12,True,12.0,26.5,42.6,38.0,False,1.6,108.819,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,37.0,2.0,HARD,23.0,True,1,True,12.0,26.5,42.6,36.0,False,2.6,110.561,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,38.0,2.0,HARD,24.0,True,1,True,12.0,26.4,42.7,35.0,False,1.8,109.56,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,39.0,2.0,HARD,25.0,True,1,True,12.0,26.3,42.1,36.0,False,2.8,108.85,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,40.0,2.0,HARD,26.0,True,1,True,12.0,25.8,41.8,38.0,False,2.7,109.166,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,41.0,2.0,HARD,27.0,True,1,True,13.0,25.7,41.6,38.0,False,2.8,110.629,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,42.0,2.0,HARD,28.0,True,1,True,13.0,25.8,41.3,37.0,False,3.6,107.883,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,43.0,2.0,HARD,29.0,True,1,True,13.0,25.7,41.3,38.0,False,1.7,107.681,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,44.0,2.0,HARD,30.0,True,1,True,13.0,25.8,41.4,38.0,False,2.1,107.345,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,45.0,2.0,HARD,31.0,True,1,True,13.0,25.9,41.6,35.0,False,2.4,107.68,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,46.0,2.0,HARD,32.0,True,1,True,13.0,25.9,41.6,32.0,False,0.9,107.281,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,47.0,2.0,HARD,33.0,True,1,True,13.0,26.4,42.0,33.0,False,0.7,107.048,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,48.0,2.0,HARD,34.0,True,1,True,13.0,26.6,41.5,33.0,False,0.6,107.369,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,49.0,2.0,HARD,35.0,True,12,True,13.0,26.5,41.3,35.0,False,1.0,107.435,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,50.0,2.0,HARD,36.0,True,26,False,10.0,26.6,40.9,36.0,False,1.5,141.914,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BEA,Haas F1 Team,51.0,2.0,HARD,37.0,True,6,False,10.0,26.5,40.8,37.0,False,2.0,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,26.8,45.3,41.0,False,1.4,114.797,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,26.8,45.6,41.0,False,2.0,109.12,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,26.7,45.7,40.0,False,2.4,109.375,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,26.8,45.4,38.0,False,2.4,109.167,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,26.6,44.5,38.0,False,2.8,109.039,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,26.3,45.0,40.0,False,0.8,108.826,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,26.5,44.9,39.0,False,2.4,108.596,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,26.2,44.7,40.0,False,1.8,108.482,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,26.2,44.4,40.0,False,1.6,108.154,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,26.7,44.8,38.0,False,1.5,108.389,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,26.7,44.7,37.0,False,0.8,108.77,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,26.8,44.7,36.0,False,1.1,109.348,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,26.9,44.8,38.0,False,2.2,108.594,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,27.0,44.7,37.0,False,0.9,108.672,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,26.8,44.1,37.0,False,2.9,109.316,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,26.5,44.1,36.0,False,1.3,109.36,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,False,1.0,26.5,44.0,36.0,False,1.5,113.944,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,18.0,2.0,HARD,1.0,True,1,False,6.0,26.5,43.8,36.0,False,1.2,125.361,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,19.0,2.0,HARD,2.0,True,1,True,6.0,26.4,44.0,36.0,False,1.7,107.939,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,20.0,2.0,HARD,3.0,True,1,True,6.0,26.5,43.9,36.0,False,1.2,108.091,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,21.0,2.0,HARD,4.0,True,1,True,6.0,26.9,44.4,34.0,False,1.1,107.879,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,22.0,2.0,HARD,5.0,True,1,True,6.0,26.9,43.2,36.0,False,1.3,108.582,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,23.0,2.0,HARD,6.0,True,1,True,5.0,27.0,44.2,37.0,False,1.5,108.331,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,24.0,2.0,HARD,7.0,True,1,True,4.0,26.9,44.1,36.0,False,2.5,108.474,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,25.0,2.0,HARD,8.0,True,1,True,4.0,26.5,43.6,37.0,False,2.5,107.746,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,26.0,2.0,HARD,9.0,True,1,True,4.0,26.2,43.3,39.0,False,1.6,107.593,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,27.0,2.0,HARD,10.0,True,1,True,4.0,26.2,43.1,38.0,False,1.0,107.325,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,28.0,2.0,HARD,11.0,True,1,True,4.0,26.7,43.3,38.0,False,0.5,107.072,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,29.0,2.0,HARD,12.0,True,1,True,4.0,26.8,43.3,38.0,False,0.7,107.448,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,30.0,2.0,HARD,13.0,True,1,True,4.0,27.0,43.1,37.0,False,1.4,107.826,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,31.0,2.0,HARD,14.0,True,1,True,4.0,26.7,43.2,36.0,False,1.3,107.388,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,32.0,2.0,HARD,15.0,True,1,True,4.0,26.7,42.6,36.0,False,1.2,107.33,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,33.0,2.0,HARD,16.0,True,1,True,4.0,26.5,42.4,37.0,False,1.5,107.205,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,34.0,2.0,HARD,17.0,True,1,True,4.0,26.5,42.8,37.0,False,1.7,107.402,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,35.0,2.0,HARD,18.0,True,1,True,4.0,26.8,43.0,36.0,False,1.6,107.31,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,36.0,2.0,HARD,19.0,True,12,True,4.0,26.9,42.6,36.0,False,2.7,107.473,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,37.0,2.0,HARD,20.0,True,1,True,4.0,26.5,42.6,36.0,False,2.6,108.379,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,38.0,2.0,HARD,21.0,True,1,True,4.0,26.4,42.7,35.0,False,1.8,107.116,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,39.0,2.0,HARD,22.0,True,1,True,4.0,26.4,42.3,36.0,False,1.6,107.229,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,40.0,2.0,HARD,23.0,True,1,True,4.0,26.0,41.8,38.0,False,3.1,106.964,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,41.0,2.0,HARD,24.0,True,1,True,4.0,25.7,41.6,38.0,False,3.8,107.458,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,42.0,2.0,HARD,25.0,True,1,True,4.0,25.7,41.8,36.0,False,2.2,106.928,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,43.0,2.0,HARD,26.0,True,1,True,4.0,25.8,41.3,37.0,False,3.6,107.267,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,44.0,2.0,HARD,27.0,True,1,True,4.0,25.8,41.4,38.0,False,2.8,107.081,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,45.0,2.0,HARD,28.0,True,1,True,4.0,25.8,41.7,38.0,False,2.0,107.262,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,46.0,2.0,HARD,29.0,True,1,True,4.0,25.9,41.6,34.0,False,1.3,106.866,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,47.0,2.0,HARD,30.0,True,1,True,4.0,26.0,42.0,33.0,False,1.1,106.934,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,48.0,2.0,HARD,31.0,True,1,True,4.0,26.4,42.0,33.0,False,0.7,108.117,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,49.0,2.0,HARD,32.0,True,1,True,4.0,26.6,41.3,34.0,False,0.8,108.443,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+SAI,Ferrari,50.0,2.0,HARD,33.0,True,126,False,,26.6,41.3,36.0,False,1.1,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,26.8,45.3,41.0,False,1.4,116.42,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,26.8,45.6,41.0,False,2.0,109.738,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,26.7,45.7,40.0,False,2.4,109.359,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,26.8,45.4,38.0,False,2.4,109.199,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,26.6,44.5,38.0,False,2.8,108.952,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,26.3,45.0,40.0,False,0.8,109.581,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,26.5,44.9,39.0,False,2.4,109.315,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,26.2,44.7,40.0,False,1.8,109.351,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,26.2,44.4,40.0,False,1.6,109.423,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,26.7,44.8,38.0,False,1.5,109.712,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,26.7,44.7,37.0,False,0.8,109.833,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,False,6.0,26.8,44.7,36.0,False,1.1,114.565,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,13.0,2.0,HARD,1.0,True,1,False,12.0,26.9,44.8,38.0,False,2.2,124.183,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,14.0,2.0,HARD,2.0,True,1,True,10.0,27.0,44.7,37.0,False,0.9,109.818,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,15.0,2.0,HARD,3.0,True,1,True,9.0,26.8,44.1,37.0,False,2.9,109.067,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,16.0,2.0,HARD,4.0,True,1,True,8.0,26.5,44.1,36.0,False,1.3,108.606,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,17.0,2.0,HARD,5.0,True,1,True,8.0,26.5,44.0,36.0,False,1.4,108.043,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,18.0,2.0,HARD,6.0,True,1,True,8.0,26.3,43.8,37.0,False,1.2,108.224,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,19.0,2.0,HARD,7.0,True,1,True,8.0,26.4,43.9,36.0,False,1.9,108.35,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,20.0,2.0,HARD,8.0,True,1,True,8.0,26.5,43.9,36.0,False,1.2,108.387,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,21.0,2.0,HARD,9.0,True,1,True,8.0,26.9,44.4,34.0,False,1.1,108.37,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,22.0,2.0,HARD,10.0,True,1,True,8.0,26.9,43.2,36.0,False,1.3,108.198,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,23.0,2.0,HARD,11.0,True,1,True,8.0,27.0,44.2,37.0,False,1.5,108.293,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,24.0,2.0,HARD,12.0,True,1,True,8.0,26.7,43.6,36.0,False,2.6,107.988,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,25.0,2.0,HARD,13.0,True,1,True,8.0,26.5,43.6,37.0,False,2.5,108.205,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,26.0,2.0,HARD,14.0,True,1,True,8.0,26.2,43.3,39.0,False,1.6,108.326,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,27.0,2.0,HARD,15.0,True,1,True,8.0,26.2,43.1,38.0,False,1.0,108.794,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,28.0,2.0,HARD,16.0,True,1,True,8.0,26.7,43.3,38.0,False,0.5,108.217,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,29.0,2.0,HARD,17.0,True,1,True,8.0,27.1,43.5,37.0,False,1.7,108.998,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,30.0,2.0,HARD,18.0,True,1,True,8.0,27.0,43.1,37.0,False,1.4,108.967,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,31.0,2.0,HARD,19.0,True,1,True,7.0,26.7,43.2,36.0,False,1.3,108.392,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,32.0,2.0,HARD,20.0,True,1,True,7.0,26.7,42.6,36.0,False,1.2,109.052,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,33.0,2.0,HARD,21.0,True,1,True,7.0,26.5,42.4,37.0,False,1.5,107.706,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,34.0,2.0,HARD,22.0,True,1,True,6.0,26.6,42.8,37.0,False,1.4,107.443,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,35.0,2.0,HARD,23.0,True,1,True,6.0,26.8,43.0,36.0,False,1.6,107.702,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,36.0,2.0,HARD,24.0,True,12,True,6.0,26.9,42.6,36.0,False,2.7,107.681,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,37.0,2.0,HARD,25.0,True,1,True,5.0,26.5,42.6,36.0,False,2.6,107.809,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,38.0,2.0,HARD,26.0,True,1,True,5.0,26.4,42.7,35.0,False,1.8,107.649,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,39.0,2.0,HARD,27.0,True,1,True,5.0,26.3,42.1,36.0,False,2.8,107.138,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,40.0,2.0,HARD,28.0,True,1,True,5.0,26.0,41.8,38.0,False,3.1,107.0,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,41.0,2.0,HARD,29.0,True,1,True,5.0,25.7,41.6,38.0,False,3.8,106.852,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,42.0,2.0,HARD,30.0,True,1,True,5.0,25.7,41.8,36.0,False,2.2,106.846,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,43.0,2.0,HARD,31.0,True,1,True,5.0,25.7,41.3,38.0,False,1.7,106.727,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,44.0,2.0,HARD,32.0,True,1,True,5.0,25.8,41.4,38.0,False,2.1,106.707,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,45.0,2.0,HARD,33.0,True,1,True,5.0,25.8,41.7,38.0,False,2.0,106.628,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,46.0,2.0,HARD,34.0,True,1,True,5.0,25.9,41.6,34.0,False,1.3,106.727,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,47.0,2.0,HARD,35.0,True,1,True,5.0,26.0,42.0,33.0,False,1.1,106.664,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,48.0,2.0,HARD,36.0,True,1,True,5.0,26.6,41.5,33.0,False,0.6,107.016,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,49.0,2.0,HARD,37.0,True,1,True,5.0,26.6,41.3,34.0,False,0.8,106.707,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,50.0,2.0,HARD,38.0,True,126,False,3.0,26.6,41.3,36.0,False,1.1,123.467,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+RUS,Mercedes,51.0,2.0,HARD,39.0,True,6,False,3.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,1.0,1.0,MEDIUM,2.0,False,1,False,16.0,26.8,45.3,41.0,False,1.4,124.469,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,2.0,1.0,MEDIUM,3.0,False,1,True,17.0,26.8,45.6,41.0,False,2.0,114.291,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,3.0,1.0,MEDIUM,4.0,False,1,True,17.0,26.7,45.7,40.0,False,2.4,112.71,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,4.0,1.0,MEDIUM,5.0,False,1,True,17.0,26.8,45.4,38.0,False,2.4,111.585,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,5.0,1.0,MEDIUM,6.0,False,1,True,17.0,26.6,44.5,38.0,False,2.8,113.313,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,6.0,1.0,MEDIUM,7.0,False,1,True,17.0,26.3,45.0,40.0,False,0.8,111.039,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,7.0,1.0,MEDIUM,8.0,False,1,True,17.0,26.3,44.6,39.0,False,2.3,111.374,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,8.0,1.0,MEDIUM,9.0,False,1,True,17.0,26.3,44.7,40.0,False,0.9,111.315,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,9.0,1.0,MEDIUM,10.0,False,1,True,17.0,26.2,44.4,40.0,False,1.6,111.467,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,10.0,1.0,MEDIUM,11.0,False,1,True,19.0,26.7,44.8,38.0,False,1.5,112.685,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,11.0,1.0,MEDIUM,12.0,False,1,False,20.0,26.7,44.7,37.0,False,0.8,117.809,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,12.0,2.0,HARD,2.0,False,1,False,20.0,26.9,44.8,37.0,False,0.9,126.862,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,13.0,2.0,HARD,3.0,False,1,True,19.0,26.8,44.3,38.0,False,0.8,109.999,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,14.0,2.0,HARD,4.0,False,1,True,19.0,27.0,44.7,36.0,False,1.4,110.005,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,15.0,2.0,HARD,5.0,False,1,True,19.0,26.5,44.1,37.0,False,2.3,109.708,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,16.0,2.0,HARD,6.0,False,1,True,19.0,26.5,44.0,36.0,False,1.5,109.744,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,17.0,2.0,HARD,7.0,False,1,True,19.0,26.5,43.8,36.0,False,1.2,109.792,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,18.0,2.0,HARD,8.0,False,1,True,19.0,26.3,43.8,37.0,False,1.2,109.718,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,19.0,2.0,HARD,9.0,False,1,True,19.0,26.4,43.9,36.0,False,1.9,109.911,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,20.0,2.0,HARD,10.0,False,1,True,19.0,26.6,44.1,36.0,False,0.9,109.692,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,21.0,2.0,HARD,11.0,False,1,True,19.0,27.1,44.4,35.0,False,1.9,109.687,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,22.0,2.0,HARD,12.0,False,1,True,19.0,27.0,43.4,36.0,False,1.7,109.727,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,23.0,2.0,HARD,13.0,False,1,True,18.0,26.9,44.1,36.0,False,2.5,109.77,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,24.0,2.0,HARD,14.0,False,1,True,18.0,26.7,43.6,36.0,False,2.6,109.617,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,25.0,2.0,HARD,15.0,False,1,True,18.0,26.2,42.8,38.0,False,2.6,109.463,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,26.0,2.0,HARD,16.0,False,1,True,18.0,26.3,43.3,38.0,False,2.9,109.646,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,27.0,2.0,HARD,17.0,False,1,True,18.0,26.5,43.3,38.0,False,0.7,109.455,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,28.0,2.0,HARD,18.0,False,1,True,18.0,26.8,43.3,38.0,False,0.7,109.459,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,29.0,2.0,HARD,19.0,False,1,True,18.0,27.0,43.1,37.0,False,1.4,109.321,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,30.0,2.0,HARD,20.0,False,1,True,18.0,26.9,42.6,36.0,False,1.5,109.41,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,31.0,2.0,HARD,21.0,False,1,True,18.0,26.6,42.6,36.0,False,1.9,109.406,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,32.0,2.0,HARD,22.0,False,1,True,18.0,26.5,42.4,37.0,False,1.0,109.281,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,33.0,2.0,HARD,23.0,False,1,True,19.0,26.5,42.8,37.0,False,1.7,111.477,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,34.0,2.0,HARD,24.0,False,1,True,19.0,26.8,43.0,36.0,False,1.6,109.598,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,35.0,2.0,HARD,25.0,False,12,True,18.0,26.9,42.6,36.0,False,2.7,109.231,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,36.0,2.0,HARD,26.0,False,1,True,18.0,26.5,42.6,38.0,False,1.6,109.038,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,37.0,2.0,HARD,27.0,False,1,True,18.0,26.4,42.7,35.0,False,1.5,108.871,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,38.0,2.0,HARD,28.0,False,1,True,18.0,26.4,42.3,36.0,False,1.6,108.836,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,39.0,2.0,HARD,29.0,False,1,True,18.0,26.0,41.8,38.0,False,3.1,109.012,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,40.0,2.0,HARD,30.0,False,1,True,18.0,25.7,41.6,38.0,False,3.8,108.501,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,41.0,2.0,HARD,31.0,False,1,True,18.0,25.7,41.6,38.0,False,2.8,108.418,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,42.0,2.0,HARD,32.0,False,1,True,18.0,25.8,41.3,37.0,False,3.6,108.742,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,43.0,2.0,HARD,33.0,False,1,True,18.0,25.8,41.4,38.0,False,2.8,108.467,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,44.0,2.0,HARD,34.0,False,1,True,18.0,25.8,41.7,38.0,False,2.0,108.683,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,45.0,2.0,HARD,35.0,False,1,True,17.0,25.9,41.6,34.0,False,1.3,108.498,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,46.0,2.0,HARD,36.0,False,1,True,18.0,25.9,41.6,32.0,False,0.9,110.67,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,47.0,2.0,HARD,37.0,False,1,True,18.0,26.4,42.0,33.0,False,0.7,108.863,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,48.0,2.0,HARD,38.0,False,1,True,18.0,26.6,41.3,34.0,False,0.8,114.753,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,49.0,2.0,HARD,39.0,False,126,False,18.0,26.6,41.3,36.0,False,1.1,127.663,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+BOT,Kick Sauber,50.0,2.0,HARD,40.0,False,6,False,16.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,26.8,45.3,41.0,False,1.4,112.903,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,26.8,45.6,41.0,False,2.0,108.944,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,26.7,45.7,40.0,False,2.4,108.811,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,26.8,45.4,38.0,False,2.4,108.408,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,26.6,44.5,38.0,False,2.8,108.07,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,26.4,44.5,39.0,False,1.7,108.848,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,26.5,44.9,39.0,False,2.4,108.755,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,26.2,44.7,40.0,False,1.8,108.297,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,26.2,44.4,40.0,False,1.6,108.225,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,26.7,44.8,38.0,False,1.5,108.601,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,26.8,44.7,37.0,False,2.2,108.304,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,26.8,44.7,36.0,False,1.1,108.948,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,26.9,44.8,38.0,False,2.2,109.194,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,27.0,44.7,37.0,False,0.9,109.577,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,False,3.0,26.8,44.1,37.0,False,2.9,113.511,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,16.0,2.0,HARD,1.0,True,1,False,4.0,26.5,44.1,36.0,False,1.3,123.253,True,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,17.0,2.0,HARD,2.0,True,1,True,3.0,26.5,44.0,36.0,False,1.4,108.556,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,18.0,2.0,HARD,3.0,True,1,True,2.0,26.3,43.8,37.0,False,1.2,107.817,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,19.0,2.0,HARD,4.0,True,1,True,2.0,26.4,44.0,36.0,False,1.7,107.465,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,20.0,2.0,HARD,5.0,True,1,True,1.0,26.5,43.9,36.0,False,1.2,108.866,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,21.0,2.0,HARD,6.0,True,1,True,1.0,26.9,44.4,34.0,False,1.1,107.854,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,22.0,2.0,HARD,7.0,True,1,True,1.0,26.9,43.2,36.0,False,1.3,107.751,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,23.0,2.0,HARD,8.0,True,1,True,1.0,27.0,43.4,36.0,False,1.7,107.481,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,24.0,2.0,HARD,9.0,True,1,True,1.0,26.9,44.1,36.0,False,2.5,107.066,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,25.0,2.0,HARD,10.0,True,1,True,1.0,26.5,43.6,37.0,False,2.5,107.408,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,26.0,2.0,HARD,11.0,True,1,True,1.0,26.2,43.3,39.0,False,1.6,107.528,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,27.0,2.0,HARD,12.0,True,1,True,1.0,26.2,43.1,38.0,False,1.0,107.368,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,28.0,2.0,HARD,13.0,True,1,True,1.0,26.5,43.3,38.0,False,0.7,107.558,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,29.0,2.0,HARD,14.0,True,1,True,1.0,26.8,43.3,38.0,False,0.7,107.601,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,30.0,2.0,HARD,15.0,True,1,True,1.0,27.0,43.1,37.0,False,1.4,107.661,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,31.0,2.0,HARD,16.0,True,1,True,1.0,26.7,43.2,36.0,False,1.3,107.923,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,32.0,2.0,HARD,17.0,True,1,True,1.0,26.7,42.6,36.0,False,1.2,108.135,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,33.0,2.0,HARD,18.0,True,1,True,1.0,26.5,42.4,37.0,False,1.0,108.436,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,34.0,2.0,HARD,19.0,True,1,True,1.0,26.5,42.8,37.0,False,1.7,107.927,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,35.0,2.0,HARD,20.0,True,1,True,1.0,26.8,43.0,36.0,False,1.6,107.821,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,36.0,2.0,HARD,21.0,True,12,True,1.0,26.9,42.6,36.0,False,2.7,107.873,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,37.0,2.0,HARD,22.0,True,1,True,1.0,26.5,42.6,36.0,False,2.6,107.857,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,38.0,2.0,HARD,23.0,True,1,True,1.0,26.4,42.7,35.0,False,1.5,107.682,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,39.0,2.0,HARD,24.0,True,1,True,1.0,26.4,42.3,36.0,False,1.6,107.776,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,40.0,2.0,HARD,25.0,True,1,True,1.0,26.0,41.8,38.0,False,3.1,107.721,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,41.0,2.0,HARD,26.0,True,1,True,1.0,25.7,41.6,38.0,False,3.8,107.875,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,42.0,2.0,HARD,27.0,True,1,True,1.0,25.7,41.8,36.0,False,2.2,107.688,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,43.0,2.0,HARD,28.0,True,1,True,1.0,25.8,41.3,37.0,False,3.6,107.616,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,44.0,2.0,HARD,29.0,True,1,True,1.0,25.8,41.4,38.0,False,2.8,107.365,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,45.0,2.0,HARD,30.0,True,1,True,1.0,25.8,41.7,38.0,False,2.0,107.727,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,46.0,2.0,HARD,31.0,True,1,True,1.0,25.9,41.6,34.0,False,1.3,107.269,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,47.0,2.0,HARD,32.0,True,1,True,1.0,26.0,42.0,33.0,False,1.1,107.06,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,48.0,2.0,HARD,33.0,True,1,True,1.0,26.4,42.0,33.0,False,0.7,107.488,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,49.0,2.0,HARD,34.0,True,1,True,1.0,26.6,41.3,34.0,False,0.8,107.547,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,50.0,2.0,HARD,35.0,True,12,True,1.0,26.6,41.3,36.0,False,1.1,107.258,False,51,2024,17,Azerbaijan Grand Prix,2024_17
+PIA,McLaren,51.0,2.0,HARD,36.0,True,26,False,1.0,26.5,40.8,37.0,False,0.9,,False,51,2024,17,Azerbaijan Grand Prix,2024_17

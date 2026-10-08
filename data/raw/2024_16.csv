@@ -1,0 +1,1009 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,33.8,51.3,32.0,False,1.9,88.179,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,33.9,50.5,31.0,False,1.4,85.396,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,33.7,50.6,30.0,False,2.3,85.179,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,33.7,50.6,31.0,False,1.9,84.81,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,33.7,50.6,31.0,False,1.8,84.603,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,33.5,50.2,31.0,False,2.0,84.663,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,33.5,49.6,32.0,False,2.1,84.434,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,33.3,49.5,32.0,False,1.0,84.569,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,33.3,49.0,31.0,False,1.7,84.362,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,33.3,48.6,31.0,False,1.8,84.432,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,33.2,48.4,31.0,False,1.5,84.846,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,33.2,47.7,31.0,False,1.6,84.916,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,33.0,47.6,31.0,False,1.3,85.529,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,33.0,47.5,31.0,False,2.3,85.606,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,False,3.0,32.9,47.9,31.0,False,1.9,90.192,True,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,16.0,2.0,HARD,1.0,True,1,False,7.0,32.8,47.9,31.0,False,2.0,104.888,True,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,17.0,2.0,HARD,2.0,True,1,True,6.0,32.9,47.5,31.0,False,1.4,84.27,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,18.0,2.0,HARD,3.0,True,1,True,6.0,32.9,47.2,31.0,False,1.7,83.875,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,19.0,2.0,HARD,4.0,True,1,True,6.0,32.8,46.8,31.0,False,1.1,84.203,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,20.0,2.0,HARD,5.0,True,1,True,5.0,32.8,46.6,31.0,False,1.6,83.826,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,21.0,2.0,HARD,6.0,True,1,True,5.0,32.8,46.3,32.0,False,1.8,83.88,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,22.0,2.0,HARD,7.0,True,1,True,5.0,32.7,46.2,31.0,False,1.8,83.768,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,23.0,2.0,HARD,8.0,True,1,True,3.0,32.7,46.1,31.0,False,1.5,83.864,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,24.0,2.0,HARD,9.0,True,1,True,3.0,32.6,45.7,31.0,False,1.6,83.64,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,25.0,2.0,HARD,10.0,True,1,True,3.0,32.6,45.8,32.0,False,1.8,83.59,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,26.0,2.0,HARD,11.0,True,1,True,3.0,32.7,45.5,31.0,False,2.2,83.321,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,27.0,2.0,HARD,12.0,True,1,True,3.0,32.6,45.5,31.0,False,2.2,83.534,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,28.0,2.0,HARD,13.0,True,1,True,3.0,32.5,45.3,31.0,False,1.8,83.284,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,29.0,2.0,HARD,14.0,True,1,True,3.0,32.5,46.2,32.0,False,2.4,83.229,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,30.0,2.0,HARD,15.0,True,1,True,3.0,32.5,46.1,32.0,False,1.9,83.359,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,31.0,2.0,HARD,16.0,True,1,True,3.0,32.4,45.9,32.0,False,1.3,83.972,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,32.0,2.0,HARD,17.0,True,1,True,2.0,32.5,45.9,32.0,False,1.4,83.274,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,33.0,2.0,HARD,18.0,True,1,True,2.0,32.5,45.7,32.0,False,1.4,83.226,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,34.0,2.0,HARD,19.0,True,1,True,2.0,32.7,45.5,32.0,False,1.7,83.43,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,35.0,2.0,HARD,20.0,True,1,True,2.0,32.7,45.5,31.0,False,1.5,83.681,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,36.0,2.0,HARD,21.0,True,1,True,2.0,32.5,45.4,32.0,False,1.2,83.714,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,37.0,2.0,HARD,22.0,True,1,True,2.0,32.5,45.2,32.0,False,1.1,83.55,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,38.0,2.0,HARD,23.0,True,1,True,2.0,32.5,45.2,31.0,False,1.5,83.624,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,39.0,2.0,HARD,24.0,True,1,True,1.0,32.5,44.9,31.0,False,1.7,83.718,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,40.0,2.0,HARD,25.0,True,1,True,1.0,32.5,44.9,32.0,False,1.2,83.69,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,41.0,2.0,HARD,26.0,True,1,True,1.0,32.5,44.7,32.0,False,1.5,83.611,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,42.0,2.0,HARD,27.0,True,1,True,1.0,32.4,44.5,32.0,False,1.3,83.67,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,43.0,2.0,HARD,28.0,True,1,True,1.0,32.5,45.0,32.0,False,1.6,83.867,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,44.0,2.0,HARD,29.0,True,1,True,1.0,32.4,44.9,32.0,False,1.5,83.43,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,45.0,2.0,HARD,30.0,True,1,True,1.0,32.4,44.6,32.0,False,1.5,83.731,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,46.0,2.0,HARD,31.0,True,1,True,1.0,32.3,44.6,33.0,False,1.6,83.597,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,47.0,2.0,HARD,32.0,True,1,True,1.0,32.4,44.4,32.0,False,1.3,83.676,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,48.0,2.0,HARD,33.0,True,1,True,1.0,32.4,44.2,32.0,False,1.6,83.518,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,49.0,2.0,HARD,34.0,True,1,True,1.0,32.3,44.2,33.0,False,1.1,83.467,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,50.0,2.0,HARD,35.0,True,1,True,1.0,32.3,44.1,32.0,False,1.6,83.461,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,51.0,2.0,HARD,36.0,True,1,True,1.0,32.3,44.1,32.0,False,1.6,83.555,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,52.0,2.0,HARD,37.0,True,1,True,1.0,32.2,43.9,33.0,False,1.4,83.75,False,53,2024,16,Italian Grand Prix,2024_16
+LEC,Ferrari,53.0,2.0,HARD,38.0,True,1,True,1.0,32.2,43.8,32.0,False,1.7,83.268,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,33.8,51.3,32.0,False,1.9,87.623,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,33.9,50.5,31.0,False,1.4,85.116,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,33.7,50.6,30.0,False,2.3,85.261,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,33.7,50.6,31.0,False,1.9,84.695,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,33.7,50.6,31.0,False,1.8,84.66,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,33.5,50.2,31.0,False,2.0,84.603,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,33.5,49.6,32.0,False,2.1,84.418,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,33.3,49.5,32.0,False,1.0,84.57,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,33.3,49.0,31.0,False,1.7,84.375,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,33.3,48.6,31.0,False,1.8,84.077,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,33.2,48.4,31.0,False,1.5,84.247,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,33.2,47.7,31.0,False,1.6,84.748,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,33.0,47.6,31.0,False,1.3,84.67,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,33.0,47.5,31.0,False,2.3,85.048,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,32.9,47.9,31.0,False,1.9,85.166,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,False,1.0,32.8,47.9,31.0,False,2.0,89.939,True,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,17.0,2.0,HARD,1.0,True,1,False,4.0,32.9,47.5,31.0,False,1.4,104.25,True,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,18.0,2.0,HARD,2.0,True,1,True,4.0,32.9,47.2,31.0,False,1.7,84.028,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,19.0,2.0,HARD,3.0,True,1,True,4.0,32.8,46.8,31.0,False,1.1,84.602,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,20.0,2.0,HARD,4.0,True,1,True,3.0,32.8,46.6,31.0,False,1.6,83.986,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,21.0,2.0,HARD,5.0,True,1,True,3.0,32.8,46.3,32.0,False,1.8,83.903,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,22.0,2.0,HARD,6.0,True,1,True,3.0,32.7,46.2,31.0,False,1.8,83.647,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,23.0,2.0,HARD,7.0,True,1,True,1.0,32.7,46.1,31.0,False,1.5,83.66,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,24.0,2.0,HARD,8.0,True,1,True,1.0,32.6,45.7,31.0,False,1.6,83.315,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,25.0,2.0,HARD,9.0,True,1,True,1.0,32.6,45.8,32.0,False,1.8,83.23,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,26.0,2.0,HARD,10.0,True,1,True,1.0,32.7,45.5,31.0,False,2.2,83.133,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,27.0,2.0,HARD,11.0,True,1,True,1.0,32.6,45.5,31.0,False,2.2,83.088,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,28.0,2.0,HARD,12.0,True,1,True,1.0,32.5,45.3,31.0,False,1.8,83.168,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,29.0,2.0,HARD,13.0,True,1,True,1.0,32.5,46.2,32.0,False,2.4,83.066,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,30.0,2.0,HARD,14.0,True,1,True,1.0,32.5,46.1,32.0,False,1.9,82.968,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,31.0,2.0,HARD,15.0,True,1,True,1.0,32.5,46.1,32.0,False,2.1,83.221,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,32.0,2.0,HARD,16.0,True,1,True,1.0,32.5,45.9,32.0,False,1.4,83.48,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,33.0,2.0,HARD,17.0,True,1,True,1.0,32.5,45.7,32.0,False,1.4,83.148,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,34.0,2.0,HARD,18.0,True,1,True,1.0,32.7,45.5,32.0,False,1.7,83.456,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,35.0,2.0,HARD,19.0,True,1,True,1.0,32.7,45.5,31.0,False,1.5,83.409,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,36.0,2.0,HARD,20.0,True,1,True,1.0,32.6,45.4,32.0,False,1.3,83.746,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,37.0,2.0,HARD,21.0,True,1,True,1.0,32.5,45.2,32.0,False,1.1,83.691,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,38.0,2.0,HARD,22.0,True,1,False,1.0,32.5,45.2,31.0,False,1.5,88.125,True,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,39.0,3.0,HARD,1.0,True,1,False,3.0,32.5,44.9,31.0,False,1.7,103.438,True,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,40.0,3.0,HARD,2.0,True,1,True,3.0,32.5,44.9,32.0,False,1.2,82.264,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,41.0,3.0,HARD,3.0,True,1,True,3.0,32.5,44.7,32.0,False,1.6,82.066,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,42.0,3.0,HARD,4.0,True,1,True,3.0,32.4,44.5,32.0,False,1.3,82.331,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,43.0,3.0,HARD,5.0,True,1,True,3.0,32.5,45.0,32.0,False,1.6,82.092,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,44.0,3.0,HARD,6.0,True,1,True,3.0,32.4,44.9,32.0,False,1.5,82.628,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,45.0,3.0,HARD,7.0,True,1,True,2.0,32.4,44.6,32.0,False,1.5,83.675,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,46.0,3.0,HARD,8.0,True,1,True,2.0,32.3,44.6,32.0,False,1.3,82.537,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,47.0,3.0,HARD,9.0,True,1,True,2.0,32.4,44.4,32.0,False,1.3,82.253,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,48.0,3.0,HARD,10.0,True,1,True,2.0,32.4,44.2,32.0,False,1.6,82.725,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,49.0,3.0,HARD,11.0,True,1,True,2.0,32.3,44.2,33.0,False,1.1,82.945,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,50.0,3.0,HARD,12.0,True,1,True,2.0,32.3,44.1,32.0,False,1.6,82.586,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,51.0,3.0,HARD,13.0,True,1,True,2.0,32.3,44.1,33.0,False,1.2,82.424,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,52.0,3.0,HARD,14.0,True,1,True,2.0,32.2,43.9,33.0,False,1.4,81.948,False,53,2024,16,Italian Grand Prix,2024_16
+PIA,McLaren,53.0,3.0,HARD,15.0,True,1,True,2.0,32.2,43.8,32.0,False,1.7,81.943,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,33.8,51.3,32.0,False,1.9,88.971,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,33.9,50.5,31.0,False,1.4,85.458,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,33.7,50.6,30.0,False,2.3,85.11,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,33.7,50.6,31.0,False,1.9,85.168,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,33.7,50.6,31.0,False,1.8,84.674,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,33.5,50.2,31.0,False,2.0,84.768,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,33.5,49.6,32.0,False,2.1,84.531,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,33.3,49.5,32.0,False,1.0,84.674,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,33.3,49.0,31.0,False,1.7,84.664,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,33.3,48.6,31.0,False,1.8,84.391,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,33.2,48.4,31.0,False,1.5,84.448,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,33.1,47.6,32.0,False,1.0,84.655,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,33.0,47.6,31.0,False,1.3,85.359,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,False,4.0,33.0,47.5,31.0,False,2.3,89.417,True,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,15.0,2.0,HARD,1.0,True,1,False,8.0,32.9,47.9,31.0,False,1.9,103.84,True,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,16.0,2.0,HARD,2.0,True,1,True,6.0,32.8,47.8,30.0,False,1.9,84.154,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,17.0,2.0,HARD,3.0,True,1,True,5.0,32.9,47.5,31.0,False,1.4,85.585,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,18.0,2.0,HARD,4.0,True,1,True,5.0,32.9,47.2,31.0,False,1.7,83.92,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,19.0,2.0,HARD,5.0,True,1,True,5.0,32.8,46.8,31.0,False,1.1,84.152,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,20.0,2.0,HARD,6.0,True,1,True,4.0,32.8,46.6,31.0,False,1.6,83.882,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,21.0,2.0,HARD,7.0,True,1,True,4.0,32.8,46.3,32.0,False,1.8,83.753,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,22.0,2.0,HARD,8.0,True,1,True,4.0,32.7,46.2,31.0,False,1.8,83.652,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,23.0,2.0,HARD,9.0,True,1,True,2.0,32.7,46.1,31.0,False,1.5,83.581,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,24.0,2.0,HARD,10.0,True,1,True,2.0,32.6,45.7,31.0,False,1.6,83.601,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,25.0,2.0,HARD,11.0,True,1,True,2.0,32.6,45.8,32.0,False,1.8,83.321,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,26.0,2.0,HARD,12.0,True,1,True,2.0,32.7,45.5,31.0,False,2.2,83.469,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,27.0,2.0,HARD,13.0,True,1,True,2.0,32.6,45.5,31.0,False,2.2,83.267,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,28.0,2.0,HARD,14.0,True,1,True,2.0,32.5,45.3,31.0,False,1.8,83.067,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,29.0,2.0,HARD,15.0,True,1,True,2.0,32.5,46.2,32.0,False,2.4,83.3,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,30.0,2.0,HARD,16.0,True,1,True,2.0,32.5,46.1,32.0,False,1.9,83.614,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,31.0,2.0,HARD,17.0,True,1,True,2.0,32.4,45.9,32.0,False,1.3,84.94,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,32.0,2.0,HARD,18.0,True,1,False,3.0,32.5,45.9,32.0,False,1.4,87.414,True,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,33.0,3.0,HARD,1.0,True,1,False,6.0,32.5,45.7,32.0,False,1.4,104.073,True,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,34.0,3.0,HARD,2.0,True,1,True,6.0,32.7,45.5,32.0,False,1.7,82.837,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,35.0,3.0,HARD,3.0,True,1,True,6.0,32.7,45.5,31.0,False,1.5,83.137,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,36.0,3.0,HARD,4.0,True,1,True,6.0,32.5,45.4,32.0,False,1.2,83.114,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,37.0,3.0,HARD,5.0,True,1,True,6.0,32.5,45.2,32.0,False,1.1,83.178,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,38.0,3.0,HARD,6.0,True,1,True,5.0,32.5,45.0,31.0,False,1.4,83.133,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,39.0,3.0,HARD,7.0,True,1,True,5.0,32.5,44.9,31.0,False,1.7,83.061,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,40.0,3.0,HARD,8.0,True,1,True,5.0,32.5,44.9,32.0,False,1.2,84.162,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,41.0,3.0,HARD,9.0,True,1,True,4.0,32.5,44.7,32.0,False,1.6,82.234,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,42.0,3.0,HARD,10.0,True,1,True,4.0,32.4,44.5,32.0,False,1.3,82.678,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,43.0,3.0,HARD,11.0,True,1,True,4.0,32.5,44.9,32.0,False,1.1,82.25,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,44.0,3.0,HARD,12.0,True,1,True,4.0,32.4,44.9,32.0,False,1.5,82.403,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,45.0,3.0,HARD,13.0,True,1,True,4.0,32.4,44.6,32.0,False,1.5,82.398,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,46.0,3.0,HARD,14.0,True,1,True,4.0,32.3,44.6,32.0,False,1.3,82.041,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,47.0,3.0,HARD,15.0,True,1,True,4.0,32.4,44.4,32.0,False,1.3,83.852,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,48.0,3.0,HARD,16.0,True,1,True,3.0,32.4,44.2,32.0,False,1.6,81.824,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,49.0,3.0,HARD,17.0,True,1,True,3.0,32.3,44.2,33.0,False,1.1,82.436,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,50.0,3.0,HARD,18.0,True,1,True,3.0,32.3,44.1,32.0,False,1.6,83.266,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,51.0,3.0,HARD,19.0,True,1,True,3.0,32.3,44.1,33.0,False,1.2,82.269,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,52.0,3.0,HARD,20.0,True,1,True,3.0,32.2,43.9,33.0,False,1.4,82.302,False,53,2024,16,Italian Grand Prix,2024_16
+NOR,McLaren,53.0,3.0,HARD,21.0,True,1,True,3.0,32.2,43.8,32.0,False,1.7,81.432,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,33.8,51.3,32.0,False,1.9,89.345,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,33.9,50.5,31.0,False,1.4,85.731,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,33.7,50.6,30.0,False,2.3,85.358,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,33.7,50.6,31.0,False,1.9,85.086,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,33.7,50.6,31.0,False,1.8,85.006,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,33.5,50.2,31.0,False,2.0,84.642,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,33.5,49.6,32.0,False,2.1,84.715,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,33.3,49.5,32.0,False,1.0,84.87,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,33.3,49.0,31.0,False,1.7,84.774,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,33.3,48.6,31.0,False,1.8,84.684,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,33.2,48.4,31.0,False,1.5,85.066,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,33.1,47.6,32.0,False,1.0,85.276,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,33.0,47.6,31.0,False,1.3,85.423,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,33.0,47.5,31.0,False,2.3,85.234,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,32.9,47.9,31.0,False,1.9,85.183,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,32.8,47.9,31.0,False,2.0,85.341,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,32.9,47.5,31.0,False,1.4,85.407,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,32.9,47.2,31.0,False,1.7,85.678,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,False,2.0,32.8,46.8,31.0,False,1.1,90.388,True,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,20.0,2.0,HARD,1.0,True,1,False,6.0,32.8,46.6,31.0,False,1.6,104.811,True,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,21.0,2.0,HARD,2.0,True,1,True,6.0,32.8,46.3,32.0,False,1.8,84.499,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,22.0,2.0,HARD,3.0,True,1,True,6.0,32.7,46.2,31.0,False,1.8,84.226,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,23.0,2.0,HARD,4.0,True,1,True,5.0,32.6,45.9,31.0,False,1.2,84.557,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,24.0,2.0,HARD,5.0,True,1,True,4.0,32.6,45.7,31.0,False,1.6,83.682,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,25.0,2.0,HARD,6.0,True,1,True,4.0,32.6,45.8,32.0,False,1.8,83.687,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,26.0,2.0,HARD,7.0,True,1,True,4.0,32.7,45.5,31.0,False,2.2,83.503,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,27.0,2.0,HARD,8.0,True,1,True,4.0,32.6,45.5,31.0,False,2.2,83.503,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,28.0,2.0,HARD,9.0,True,1,True,4.0,32.5,45.3,31.0,False,1.5,83.751,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,29.0,2.0,HARD,10.0,True,1,True,4.0,32.5,46.2,32.0,False,2.4,83.473,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,30.0,2.0,HARD,11.0,True,1,True,4.0,32.5,46.1,32.0,False,1.9,83.584,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,31.0,2.0,HARD,12.0,True,1,True,4.0,32.4,45.9,32.0,False,1.3,83.33,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,32.0,2.0,HARD,13.0,True,1,True,4.0,32.5,45.9,32.0,False,1.4,83.354,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,33.0,2.0,HARD,14.0,True,1,True,3.0,32.7,45.7,32.0,False,1.3,83.412,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,34.0,2.0,HARD,15.0,True,1,True,3.0,32.7,45.5,32.0,False,1.7,83.285,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,35.0,2.0,HARD,16.0,True,1,True,3.0,32.7,45.5,31.0,False,1.5,83.334,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,36.0,2.0,HARD,17.0,True,1,True,3.0,32.5,45.4,32.0,False,1.2,83.27,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,37.0,2.0,HARD,18.0,True,1,True,3.0,32.5,45.2,32.0,False,1.1,83.29,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,38.0,2.0,HARD,19.0,True,1,True,3.0,32.5,45.2,31.0,False,1.5,83.551,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,39.0,2.0,HARD,20.0,True,1,True,2.0,32.5,44.9,31.0,False,1.7,83.809,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,40.0,2.0,HARD,21.0,True,1,True,2.0,32.5,44.9,32.0,False,1.2,83.803,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,41.0,2.0,HARD,22.0,True,1,True,2.0,32.5,44.7,32.0,False,1.6,83.337,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,42.0,2.0,HARD,23.0,True,1,True,2.0,32.4,44.5,32.0,False,1.3,83.838,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,43.0,2.0,HARD,24.0,True,1,True,2.0,32.5,45.0,32.0,False,1.6,83.793,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,44.0,2.0,HARD,25.0,True,1,True,2.0,32.4,44.9,32.0,False,1.5,83.931,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,45.0,2.0,HARD,26.0,True,1,True,3.0,32.4,44.6,32.0,False,1.5,85.113,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,46.0,2.0,HARD,27.0,True,1,True,3.0,32.3,44.6,32.0,False,1.3,84.001,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,47.0,2.0,HARD,28.0,True,1,True,3.0,32.4,44.4,32.0,False,1.3,84.09,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,48.0,2.0,HARD,29.0,True,1,True,4.0,32.4,44.2,32.0,False,1.6,84.939,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,49.0,2.0,HARD,30.0,True,1,True,4.0,32.3,44.2,33.0,False,1.1,83.921,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,50.0,2.0,HARD,31.0,True,1,True,4.0,32.3,44.1,32.0,False,1.6,83.769,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,51.0,2.0,HARD,32.0,True,1,True,4.0,32.3,44.1,33.0,False,1.2,83.754,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,52.0,2.0,HARD,33.0,True,1,True,4.0,32.2,43.9,33.0,False,1.4,83.722,False,53,2024,16,Italian Grand Prix,2024_16
+SAI,Ferrari,53.0,2.0,HARD,34.0,True,1,True,4.0,32.2,43.8,32.0,False,1.7,83.219,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,33.8,51.3,32.0,False,1.9,89.674,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,33.9,50.5,31.0,False,1.4,86.043,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,33.7,50.6,30.0,False,2.3,85.63,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,33.7,50.6,31.0,False,1.9,85.722,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,33.7,50.6,31.0,False,1.8,84.771,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,33.5,50.2,31.0,False,2.0,84.919,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,33.4,49.5,32.0,False,0.6,85.205,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,33.3,49.5,32.0,False,1.0,84.871,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,33.3,49.0,31.0,False,1.7,85.035,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,33.3,48.6,31.0,False,1.8,84.909,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,33.2,48.4,31.0,False,1.5,84.938,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,33.1,47.6,32.0,False,1.0,84.932,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,33.0,47.6,31.0,False,1.3,85.329,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,33.0,47.5,31.0,False,2.3,85.817,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,False,6.0,32.9,47.9,31.0,False,1.9,90.365,True,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,16.0,2.0,HARD,1.0,True,1,False,10.0,32.8,47.9,31.0,False,2.0,105.664,True,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,17.0,2.0,HARD,2.0,True,1,True,10.0,32.9,47.5,31.0,False,1.4,84.843,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,18.0,2.0,HARD,3.0,True,1,True,8.0,32.8,47.0,31.0,False,1.3,84.831,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,19.0,2.0,HARD,4.0,True,1,True,8.0,32.8,46.8,31.0,False,1.1,84.649,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,20.0,2.0,HARD,5.0,True,1,True,7.0,32.8,46.6,31.0,False,1.6,84.64,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,21.0,2.0,HARD,6.0,True,1,True,7.0,32.8,46.3,32.0,False,1.8,84.915,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,22.0,2.0,HARD,7.0,True,1,True,7.0,32.7,46.2,31.0,False,1.8,84.613,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,23.0,2.0,HARD,8.0,True,1,True,6.0,32.6,45.9,31.0,False,1.2,84.132,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,24.0,2.0,HARD,9.0,True,1,True,5.0,32.6,45.7,31.0,False,1.6,83.818,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,25.0,2.0,HARD,10.0,True,1,True,5.0,32.6,45.8,32.0,False,1.8,83.804,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,26.0,2.0,HARD,11.0,True,1,True,5.0,32.7,45.5,31.0,False,2.2,83.673,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,27.0,2.0,HARD,12.0,True,1,True,5.0,32.6,45.5,31.0,False,2.2,83.495,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,28.0,2.0,HARD,13.0,True,1,True,5.0,32.5,45.3,31.0,False,1.5,83.64,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,29.0,2.0,HARD,14.0,True,1,True,5.0,32.5,46.2,32.0,False,2.4,83.507,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,30.0,2.0,HARD,15.0,True,1,True,5.0,32.5,46.1,32.0,False,1.9,83.445,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,31.0,2.0,HARD,16.0,True,1,True,5.0,32.4,45.9,32.0,False,1.3,83.36,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,32.0,2.0,HARD,17.0,True,1,True,5.0,32.5,45.9,32.0,False,1.4,83.328,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,33.0,2.0,HARD,18.0,True,1,True,4.0,32.7,45.7,32.0,False,1.3,83.397,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,34.0,2.0,HARD,19.0,True,1,True,4.0,32.7,45.5,32.0,False,1.7,83.531,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,35.0,2.0,HARD,20.0,True,1,True,4.0,32.7,45.5,31.0,False,1.5,83.378,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,36.0,2.0,HARD,21.0,True,1,True,4.0,32.5,45.4,32.0,False,1.2,83.601,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,37.0,2.0,HARD,22.0,True,1,False,4.0,32.5,45.2,32.0,False,1.1,88.349,True,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,38.0,3.0,HARD,1.0,True,1,False,6.0,32.5,45.0,31.0,False,1.4,102.426,True,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,39.0,3.0,HARD,2.0,True,1,True,6.0,32.5,44.9,31.0,False,1.7,82.968,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,40.0,3.0,HARD,3.0,True,1,True,6.0,32.5,44.7,32.0,False,1.5,83.012,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,41.0,3.0,HARD,4.0,True,1,True,6.0,32.5,44.7,32.0,False,1.6,82.927,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,42.0,3.0,HARD,5.0,True,1,True,5.0,32.4,44.5,32.0,False,1.3,82.52,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,43.0,3.0,HARD,6.0,True,1,True,5.0,32.5,44.9,32.0,False,1.1,82.396,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,44.0,3.0,HARD,7.0,True,1,True,5.0,32.4,44.9,32.0,False,1.5,82.136,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,45.0,3.0,HARD,8.0,True,1,True,5.0,32.3,44.6,33.0,False,1.6,82.176,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,46.0,3.0,HARD,9.0,True,1,True,5.0,32.3,44.6,32.0,False,1.3,82.307,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,47.0,3.0,HARD,10.0,True,1,True,5.0,32.4,44.4,32.0,False,1.3,82.471,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,48.0,3.0,HARD,11.0,True,1,True,5.0,32.3,44.2,32.0,False,1.8,82.794,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,49.0,3.0,HARD,12.0,True,1,True,5.0,32.3,44.2,33.0,False,1.1,82.446,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,50.0,3.0,HARD,13.0,True,1,True,5.0,32.3,44.1,32.0,False,1.6,82.243,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,51.0,3.0,HARD,14.0,True,1,True,5.0,32.3,44.1,33.0,False,1.2,82.737,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,52.0,3.0,HARD,15.0,True,1,True,5.0,32.2,43.9,33.0,False,1.4,85.703,False,53,2024,16,Italian Grand Prix,2024_16
+HAM,Mercedes,53.0,3.0,HARD,16.0,True,1,True,5.0,32.2,43.8,32.0,False,1.8,81.512,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1,False,6.0,33.8,51.3,32.0,False,1.9,90.354,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,2.0,1.0,HARD,2.0,True,1,True,6.0,33.9,50.5,31.0,False,1.4,86.17,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,3.0,1.0,HARD,3.0,True,1,True,6.0,33.7,50.6,30.0,False,2.3,85.855,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,4.0,1.0,HARD,4.0,True,1,True,6.0,33.7,50.6,31.0,False,1.9,85.633,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,6.0,33.7,50.6,31.0,False,1.8,85.218,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,6.0,33.5,50.2,31.0,False,2.0,85.096,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,7.0,1.0,HARD,7.0,True,1,True,6.0,33.4,49.5,32.0,False,0.6,85.042,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,8.0,1.0,HARD,8.0,True,1,True,6.0,33.3,49.5,32.0,False,1.0,84.918,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,6.0,33.3,49.0,31.0,False,1.7,85.05,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,6.0,33.3,48.6,31.0,False,1.8,84.964,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,6.0,33.2,48.4,31.0,False,1.5,84.978,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,12.0,1.0,HARD,12.0,True,1,True,6.0,33.1,47.6,32.0,False,1.0,84.968,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,13.0,1.0,HARD,13.0,True,1,True,6.0,33.0,47.6,31.0,False,1.3,84.957,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,14.0,1.0,HARD,14.0,True,1,True,6.0,33.0,47.5,31.0,False,2.3,85.287,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,15.0,1.0,HARD,15.0,True,1,True,4.0,32.9,47.9,31.0,False,1.9,85.746,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,16.0,1.0,HARD,16.0,True,1,True,3.0,32.8,47.9,31.0,False,2.0,85.244,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,17.0,1.0,HARD,17.0,True,1,True,2.0,32.9,47.5,31.0,False,1.4,85.34,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,18.0,1.0,HARD,18.0,True,1,True,2.0,32.9,47.2,31.0,False,1.7,85.469,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,19.0,1.0,HARD,19.0,True,1,True,1.0,32.8,46.8,31.0,False,1.1,85.537,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,20.0,1.0,HARD,20.0,True,1,True,1.0,32.8,46.6,31.0,False,1.6,85.559,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,21.0,1.0,HARD,21.0,True,1,True,1.0,32.8,46.5,31.0,False,2.2,85.381,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,22.0,1.0,HARD,22.0,True,1,False,2.0,32.7,46.2,31.0,False,1.8,89.668,True,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,23.0,2.0,HARD,1.0,True,1,False,8.0,32.7,46.1,31.0,False,1.5,107.839,True,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,24.0,2.0,HARD,2.0,True,1,True,6.0,32.6,45.7,31.0,False,1.6,83.545,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,25.0,2.0,HARD,3.0,True,1,True,6.0,32.6,45.8,31.0,False,1.7,83.801,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,26.0,2.0,HARD,4.0,True,1,True,6.0,32.7,45.5,31.0,False,2.2,83.618,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,27.0,2.0,HARD,5.0,True,1,True,6.0,32.6,45.5,31.0,False,2.2,83.524,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,28.0,2.0,HARD,6.0,True,1,True,6.0,32.5,45.3,31.0,False,1.5,83.509,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,29.0,2.0,HARD,7.0,True,1,True,6.0,32.5,46.2,32.0,False,2.4,83.452,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,30.0,2.0,HARD,8.0,True,1,True,6.0,32.5,46.1,32.0,False,1.9,83.542,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,31.0,2.0,HARD,9.0,True,1,True,6.0,32.4,45.9,32.0,False,1.3,83.424,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,32.0,2.0,HARD,10.0,True,1,True,6.0,32.5,45.9,32.0,False,1.4,83.49,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,33.0,2.0,HARD,11.0,True,1,True,5.0,32.7,45.7,32.0,False,1.3,83.621,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,34.0,2.0,HARD,12.0,True,1,True,5.0,32.7,45.5,32.0,False,1.7,83.576,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,35.0,2.0,HARD,13.0,True,1,True,5.0,32.7,45.5,31.0,False,1.5,83.589,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,36.0,2.0,HARD,14.0,True,1,True,5.0,32.5,45.4,32.0,False,1.2,83.559,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,37.0,2.0,HARD,15.0,True,1,True,5.0,32.5,45.2,32.0,False,1.1,83.485,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,38.0,2.0,HARD,16.0,True,1,True,4.0,32.5,45.0,31.0,False,1.4,83.427,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,39.0,2.0,HARD,17.0,True,1,True,4.0,32.5,44.9,31.0,False,1.7,83.501,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,40.0,2.0,HARD,18.0,True,1,True,4.0,32.5,44.9,32.0,False,1.2,84.337,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,41.0,2.0,HARD,19.0,True,1,False,5.0,32.5,44.7,32.0,False,1.6,88.738,True,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,42.0,3.0,MEDIUM,1.0,True,1,False,6.0,32.4,44.5,32.0,False,1.3,104.09,True,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,43.0,3.0,MEDIUM,2.0,True,1,True,6.0,32.5,44.9,32.0,False,1.1,81.745,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,44.0,3.0,MEDIUM,3.0,True,1,True,6.0,32.4,44.9,32.0,False,1.5,83.045,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,45.0,3.0,MEDIUM,4.0,True,1,True,6.0,32.3,44.6,33.0,False,1.6,83.363,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,46.0,3.0,MEDIUM,5.0,True,1,True,6.0,32.3,44.6,32.0,False,1.3,82.941,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,47.0,3.0,MEDIUM,6.0,True,1,True,6.0,32.4,44.2,32.0,False,1.6,82.52,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,48.0,3.0,MEDIUM,7.0,True,1,True,6.0,32.3,44.2,32.0,False,1.8,82.57,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,49.0,3.0,MEDIUM,8.0,True,1,True,6.0,32.3,44.2,33.0,False,1.1,82.584,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,50.0,3.0,MEDIUM,9.0,True,1,True,6.0,32.3,44.1,32.0,False,1.6,82.585,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,51.0,3.0,MEDIUM,10.0,True,1,True,6.0,32.3,44.1,33.0,False,1.2,82.574,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,52.0,3.0,MEDIUM,11.0,True,1,True,6.0,32.2,43.9,33.0,False,1.4,82.92,False,53,2024,16,Italian Grand Prix,2024_16
+VER,Red Bull Racing,53.0,3.0,MEDIUM,12.0,True,1,True,6.0,32.2,43.8,32.0,False,1.8,83.711,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,33.8,51.3,32.0,False,1.9,91.512,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,33.9,50.5,31.0,False,1.4,86.055,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,33.7,50.6,30.0,False,2.3,85.733,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,33.7,50.6,31.0,False,1.9,85.762,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,33.7,50.6,31.0,False,1.8,85.494,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,33.5,50.2,31.0,False,2.0,85.101,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,33.4,49.5,32.0,False,0.6,85.046,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,33.3,49.5,32.0,False,1.0,85.216,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,33.3,49.0,31.0,False,1.7,85.115,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,33.3,48.6,31.0,False,1.8,85.468,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,False,8.0,33.2,48.4,31.0,False,1.5,91.175,True,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,12.0,2.0,HARD,1.0,True,1,False,16.0,33.1,47.6,32.0,False,1.0,113.412,True,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,13.0,2.0,HARD,2.0,True,1,True,16.0,33.0,47.5,31.0,False,2.3,84.546,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,14.0,2.0,HARD,3.0,True,1,True,15.0,32.9,48.0,31.0,False,2.3,84.548,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,15.0,2.0,HARD,4.0,True,1,True,14.0,32.9,47.9,31.0,False,1.9,84.56,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,16.0,2.0,HARD,5.0,True,1,True,13.0,32.8,47.8,30.0,False,1.9,84.692,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,17.0,2.0,HARD,6.0,True,1,True,12.0,32.9,47.5,31.0,False,1.4,84.546,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,18.0,2.0,HARD,7.0,True,1,True,11.0,32.8,47.0,31.0,False,1.3,84.521,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,19.0,2.0,HARD,8.0,True,1,True,11.0,32.8,46.8,31.0,False,1.1,84.706,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,20.0,2.0,HARD,9.0,True,1,True,10.0,32.8,46.5,31.0,False,2.2,85.504,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,21.0,2.0,HARD,10.0,True,1,True,9.0,32.8,46.3,32.0,False,1.8,84.626,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,22.0,2.0,HARD,11.0,True,1,True,9.0,32.7,46.2,31.0,False,1.8,84.711,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,23.0,2.0,HARD,12.0,True,1,True,9.0,32.6,45.9,31.0,False,1.2,84.624,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,24.0,2.0,HARD,13.0,True,1,True,9.0,32.6,45.7,31.0,False,1.6,84.621,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,25.0,2.0,HARD,14.0,True,1,True,8.0,32.6,45.8,31.0,False,1.7,85.174,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,26.0,2.0,HARD,15.0,True,1,True,8.0,32.7,45.5,31.0,False,2.2,83.575,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,27.0,2.0,HARD,16.0,True,1,True,8.0,32.6,45.5,31.0,False,2.2,83.732,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,28.0,2.0,HARD,17.0,True,1,True,8.0,32.5,45.3,31.0,False,1.5,83.383,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,29.0,2.0,HARD,18.0,True,1,True,8.0,32.5,46.2,32.0,False,2.4,83.516,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,30.0,2.0,HARD,19.0,True,1,True,8.0,32.5,46.1,32.0,False,2.1,83.177,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,31.0,2.0,HARD,20.0,True,1,True,8.0,32.4,45.9,32.0,False,1.3,85.331,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,32.0,2.0,HARD,21.0,True,1,True,8.0,32.5,45.9,32.0,False,1.4,83.542,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,33.0,2.0,HARD,22.0,True,1,False,8.0,32.7,45.7,32.0,False,1.3,88.264,True,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,34.0,3.0,HARD,1.0,True,1,False,12.0,32.7,45.5,32.0,False,1.7,104.863,True,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,35.0,3.0,HARD,2.0,True,1,True,11.0,32.6,45.4,32.0,False,1.3,82.944,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,36.0,3.0,HARD,3.0,True,1,True,10.0,32.5,45.4,32.0,False,1.2,83.333,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,37.0,3.0,HARD,4.0,True,1,True,9.0,32.5,45.2,31.0,False,1.5,83.158,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,38.0,3.0,HARD,5.0,True,1,True,8.0,32.5,45.0,31.0,False,1.4,85.166,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,39.0,3.0,HARD,6.0,True,1,True,8.0,32.5,44.9,32.0,False,1.2,83.142,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,40.0,3.0,HARD,7.0,True,1,True,8.0,32.5,44.7,32.0,False,1.5,82.886,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,41.0,3.0,HARD,8.0,True,1,True,8.0,32.5,44.7,32.0,False,1.6,84.039,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,42.0,3.0,HARD,9.0,True,1,True,7.0,32.5,45.0,32.0,False,1.6,82.799,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,43.0,3.0,HARD,10.0,True,1,True,7.0,32.5,44.9,32.0,False,1.1,82.939,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,44.0,3.0,HARD,11.0,True,1,True,7.0,32.4,44.6,32.0,False,1.5,82.923,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,45.0,3.0,HARD,12.0,True,1,True,7.0,32.3,44.6,33.0,False,1.6,82.685,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,46.0,3.0,HARD,13.0,True,1,True,7.0,32.3,44.6,32.0,False,1.3,82.419,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,47.0,3.0,HARD,14.0,True,1,True,7.0,32.4,44.2,32.0,False,1.6,82.343,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,48.0,3.0,HARD,15.0,True,1,True,7.0,32.3,44.2,32.0,False,1.8,82.165,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,49.0,3.0,HARD,16.0,True,1,True,7.0,32.3,44.2,33.0,False,1.1,82.036,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,50.0,3.0,HARD,17.0,True,1,True,7.0,32.3,44.1,32.0,False,1.6,82.156,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,51.0,3.0,HARD,18.0,True,1,True,7.0,32.3,44.1,33.0,False,1.2,82.311,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,52.0,3.0,HARD,19.0,True,1,True,7.0,32.2,43.9,33.0,False,1.4,82.447,False,53,2024,16,Italian Grand Prix,2024_16
+RUS,Mercedes,53.0,3.0,HARD,20.0,True,1,True,7.0,32.2,43.8,32.0,False,1.8,82.7,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1,False,8.0,33.8,51.3,32.0,False,1.9,91.698,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,2.0,1.0,HARD,2.0,True,1,True,8.0,33.9,50.5,31.0,False,1.4,86.411,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,3.0,1.0,HARD,3.0,True,1,True,8.0,33.7,50.6,30.0,False,2.3,85.757,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,4.0,1.0,HARD,4.0,True,1,True,8.0,33.7,50.6,31.0,False,1.9,85.805,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,8.0,33.7,50.6,31.0,False,1.8,85.447,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,8.0,33.5,50.2,31.0,False,2.0,85.105,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,7.0,1.0,HARD,7.0,True,1,True,8.0,33.4,49.5,32.0,False,0.6,85.434,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,8.0,1.0,HARD,8.0,True,1,True,8.0,33.3,49.5,32.0,False,1.0,85.186,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,8.0,33.3,49.0,31.0,False,1.7,84.977,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,8.0,33.3,48.6,31.0,False,1.8,84.841,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,7.0,33.2,48.4,31.0,False,1.5,84.773,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,12.0,1.0,HARD,12.0,True,1,True,7.0,33.1,47.6,32.0,False,1.0,84.654,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,13.0,1.0,HARD,13.0,True,1,True,7.0,33.0,47.6,31.0,False,1.3,85.041,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,14.0,1.0,HARD,14.0,True,1,True,7.0,33.0,47.5,31.0,False,2.3,85.229,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,15.0,1.0,HARD,15.0,True,1,True,5.0,32.9,47.9,31.0,False,1.9,85.543,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,16.0,1.0,HARD,16.0,True,1,True,4.0,32.8,47.9,31.0,False,2.0,85.434,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,17.0,1.0,HARD,17.0,True,1,True,3.0,32.9,47.5,31.0,False,1.4,85.444,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,18.0,1.0,HARD,18.0,True,1,True,3.0,32.9,47.2,31.0,False,1.7,85.448,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,19.0,1.0,HARD,19.0,True,1,True,3.0,32.8,46.8,31.0,False,1.1,85.683,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,20.0,1.0,HARD,20.0,True,1,True,2.0,32.8,46.6,31.0,False,1.6,86.111,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,21.0,1.0,HARD,21.0,True,1,True,2.0,32.8,46.5,31.0,False,2.2,85.864,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,22.0,1.0,HARD,22.0,True,1,True,1.0,32.7,46.2,31.0,False,1.8,85.709,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,23.0,1.0,HARD,23.0,True,1,False,4.0,32.7,46.1,31.0,False,1.5,89.869,True,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,24.0,2.0,HARD,1.0,True,1,False,8.0,32.6,45.7,31.0,False,1.6,105.017,True,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,25.0,2.0,HARD,2.0,True,1,True,7.0,32.6,45.8,31.0,False,1.7,84.109,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,26.0,2.0,HARD,3.0,True,1,True,7.0,32.7,45.5,31.0,False,2.2,83.975,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,27.0,2.0,HARD,4.0,True,1,True,7.0,32.6,45.5,31.0,False,2.2,83.784,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,28.0,2.0,HARD,5.0,True,1,True,7.0,32.5,45.3,31.0,False,1.5,83.598,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,29.0,2.0,HARD,6.0,True,1,True,7.0,32.5,46.2,32.0,False,2.4,83.854,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,30.0,2.0,HARD,7.0,True,1,True,7.0,32.5,46.1,32.0,False,2.1,83.474,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,31.0,2.0,HARD,8.0,True,1,True,7.0,32.4,45.9,32.0,False,1.3,85.086,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,32.0,2.0,HARD,9.0,True,1,True,7.0,32.5,45.9,32.0,False,1.4,83.825,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,33.0,2.0,HARD,10.0,True,1,True,7.0,32.7,45.7,32.0,False,1.3,83.473,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,34.0,2.0,HARD,11.0,True,1,True,7.0,32.7,45.5,32.0,False,1.7,83.611,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,35.0,2.0,HARD,12.0,True,1,False,7.0,32.6,45.4,32.0,False,1.3,88.255,True,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,36.0,3.0,MEDIUM,1.0,True,1,False,9.0,32.5,45.4,32.0,False,1.2,104.074,True,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,37.0,3.0,MEDIUM,2.0,True,1,True,8.0,32.5,45.2,31.0,False,1.5,83.291,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,38.0,3.0,MEDIUM,3.0,True,1,True,9.0,32.5,45.0,31.0,False,1.4,86.243,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,39.0,3.0,MEDIUM,4.0,True,1,True,9.0,32.5,44.9,32.0,False,1.2,83.707,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,40.0,3.0,MEDIUM,5.0,True,1,True,9.0,32.5,44.7,32.0,False,1.5,83.393,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,41.0,3.0,MEDIUM,6.0,True,1,True,9.0,32.5,44.7,32.0,False,1.6,83.267,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,42.0,3.0,MEDIUM,7.0,True,1,True,9.0,32.5,45.0,32.0,False,1.6,83.908,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,43.0,3.0,MEDIUM,8.0,True,1,True,9.0,32.5,44.9,32.0,False,1.1,84.537,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,44.0,3.0,MEDIUM,9.0,True,1,True,8.0,32.4,44.6,32.0,False,1.5,83.617,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,45.0,3.0,MEDIUM,10.0,True,1,True,8.0,32.3,44.6,33.0,False,1.6,83.033,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,46.0,3.0,MEDIUM,11.0,True,1,True,8.0,32.3,44.6,32.0,False,1.3,82.996,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,47.0,3.0,MEDIUM,12.0,True,1,True,8.0,32.4,44.2,32.0,False,1.6,82.971,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,48.0,3.0,MEDIUM,13.0,True,1,True,8.0,32.3,44.2,32.0,False,1.8,83.315,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,49.0,3.0,MEDIUM,14.0,True,1,True,8.0,32.3,44.1,32.0,False,1.6,83.612,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,50.0,3.0,MEDIUM,15.0,True,1,True,8.0,32.3,44.1,32.0,False,1.6,83.39,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,51.0,3.0,MEDIUM,16.0,True,1,True,8.0,32.3,44.1,33.0,False,1.2,83.415,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,52.0,3.0,MEDIUM,17.0,True,1,True,8.0,32.2,43.8,32.0,False,1.7,84.071,False,53,2024,16,Italian Grand Prix,2024_16
+PER,Red Bull Racing,53.0,3.0,MEDIUM,18.0,True,1,True,8.0,32.2,43.8,32.0,False,1.8,84.511,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,33.8,51.3,32.0,False,1.9,91.965,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,33.9,50.5,31.0,False,1.4,87.011,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,33.7,50.6,30.0,False,2.3,86.282,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,33.7,50.6,31.0,False,1.9,86.527,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,33.7,50.6,31.0,False,1.8,86.039,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,33.5,50.2,31.0,False,2.0,85.946,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,33.4,49.5,32.0,False,0.6,85.99,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,33.3,49.5,32.0,False,1.0,85.963,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,33.3,48.7,31.0,False,1.2,85.666,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,33.3,48.6,31.0,False,1.8,85.711,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,33.2,48.4,31.0,False,1.5,85.734,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,33.1,47.6,32.0,False,1.0,85.468,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,33.0,47.6,31.0,False,1.3,85.533,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,32.9,48.0,31.0,False,2.3,86.14,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,32.9,47.9,31.0,False,1.9,86.463,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,32.8,47.8,30.0,False,1.9,86.454,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,False,7.0,32.9,47.5,31.0,False,1.4,91.436,True,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,18.0,2.0,HARD,1.0,True,1,False,13.0,32.9,47.2,31.0,False,1.7,106.033,True,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,19.0,2.0,HARD,2.0,True,1,True,13.0,32.8,46.8,31.0,False,1.1,85.254,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,20.0,2.0,HARD,3.0,True,1,True,12.0,32.8,46.5,31.0,False,2.2,85.074,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,21.0,2.0,HARD,4.0,True,1,True,12.0,32.8,46.3,32.0,False,1.8,84.86,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,22.0,2.0,HARD,5.0,True,1,True,12.0,32.7,46.2,31.0,False,1.8,85.053,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,23.0,2.0,HARD,6.0,True,1,True,12.0,32.6,45.9,31.0,False,1.2,85.132,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,24.0,2.0,HARD,7.0,True,1,True,12.0,32.6,45.7,31.0,False,1.6,85.196,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,25.0,2.0,HARD,8.0,True,1,True,11.0,32.6,45.8,31.0,False,1.7,84.707,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,26.0,2.0,HARD,9.0,True,1,True,11.0,32.7,45.5,31.0,False,2.2,85.065,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,27.0,2.0,HARD,10.0,True,1,True,11.0,32.5,45.3,31.0,False,1.8,84.949,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,28.0,2.0,HARD,11.0,True,1,True,11.0,32.5,45.3,31.0,False,1.5,84.793,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,29.0,2.0,HARD,12.0,True,1,True,11.0,32.5,46.2,32.0,False,2.4,84.871,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,30.0,2.0,HARD,13.0,True,1,True,11.0,32.5,46.1,32.0,False,2.1,84.754,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,31.0,2.0,HARD,14.0,True,1,True,10.0,32.4,45.9,32.0,False,1.3,85.229,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,32.0,2.0,HARD,15.0,True,1,True,10.0,32.5,45.7,32.0,False,1.4,84.412,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,33.0,2.0,HARD,16.0,True,1,True,11.0,32.7,45.7,32.0,False,1.3,86.282,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,34.0,2.0,HARD,17.0,True,1,True,10.0,32.7,45.5,31.0,False,1.5,85.57,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,35.0,2.0,HARD,18.0,True,1,True,10.0,32.6,45.4,32.0,False,1.3,84.994,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,36.0,2.0,HARD,19.0,True,1,True,8.0,32.5,45.4,32.0,False,1.2,84.748,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,37.0,2.0,HARD,20.0,True,1,True,10.0,32.5,45.2,31.0,False,1.5,85.882,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,38.0,2.0,HARD,21.0,True,1,True,10.0,32.5,45.0,31.0,False,1.4,85.214,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,39.0,2.0,HARD,22.0,True,1,True,10.0,32.5,44.9,32.0,False,1.2,84.971,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,40.0,2.0,HARD,23.0,True,1,True,10.0,32.5,44.7,32.0,False,1.5,84.552,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,41.0,2.0,HARD,24.0,True,1,True,10.0,32.5,44.7,32.0,False,1.6,84.372,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,42.0,2.0,HARD,25.0,True,1,True,10.0,32.5,45.0,32.0,False,1.6,84.874,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,43.0,2.0,HARD,26.0,True,1,True,10.0,32.5,44.9,32.0,False,1.1,84.669,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,44.0,2.0,HARD,27.0,True,1,True,10.0,32.4,44.6,32.0,False,1.5,84.678,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,45.0,2.0,HARD,28.0,True,1,True,10.0,32.3,44.6,33.0,False,1.6,84.569,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,46.0,2.0,HARD,29.0,True,1,True,10.0,32.3,44.6,32.0,False,1.3,84.554,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,47.0,2.0,HARD,30.0,True,1,True,10.0,32.4,44.2,32.0,False,1.6,84.383,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,48.0,2.0,HARD,31.0,True,1,True,10.0,32.3,44.2,32.0,False,1.8,84.149,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,49.0,2.0,HARD,32.0,True,1,True,10.0,32.3,44.1,32.0,False,1.6,84.262,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,50.0,2.0,HARD,33.0,True,1,True,10.0,32.3,44.1,32.0,False,1.6,83.956,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,51.0,2.0,HARD,34.0,True,1,True,10.0,32.2,43.9,33.0,False,1.4,83.921,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,52.0,2.0,HARD,35.0,True,1,True,10.0,32.2,43.8,32.0,False,1.7,83.955,False,53,2024,16,Italian Grand Prix,2024_16
+ALB,Williams,53.0,2.0,HARD,36.0,True,1,True,10.0,32.2,43.8,32.0,False,1.8,83.918,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,33.8,51.3,32.0,False,1.9,93.931,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,33.9,50.5,31.0,False,1.4,87.205,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,33.7,50.6,30.0,False,2.3,86.584,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,33.7,50.6,31.0,False,1.9,86.372,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,33.7,50.6,31.0,False,1.8,86.142,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,33.5,50.2,31.0,False,2.0,85.902,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,33.4,49.5,32.0,False,0.6,85.825,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,33.3,49.5,32.0,False,1.0,85.966,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,33.3,48.7,31.0,False,1.2,85.785,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,33.3,48.6,31.0,False,1.8,85.799,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,33.2,48.4,31.0,False,1.5,86.04,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,33.1,47.6,32.0,False,1.0,86.145,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,33.0,47.6,31.0,False,1.3,86.286,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,False,11.0,32.9,48.0,31.0,False,2.3,89.943,True,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,15.0,2.0,HARD,1.0,True,1,False,17.0,32.9,47.9,31.0,False,1.9,107.023,True,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,16.0,2.0,HARD,2.0,True,1,True,16.0,32.8,47.8,30.0,False,1.9,85.644,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,17.0,2.0,HARD,3.0,True,1,True,15.0,32.9,47.5,31.0,False,1.4,84.769,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,18.0,2.0,HARD,4.0,True,1,True,15.0,32.8,47.0,31.0,False,1.3,86.533,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,19.0,2.0,HARD,5.0,True,1,True,15.0,32.8,46.8,31.0,False,1.1,85.109,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,20.0,2.0,HARD,6.0,True,1,True,14.0,32.8,46.5,31.0,False,2.2,85.154,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,21.0,2.0,HARD,7.0,True,1,True,14.0,32.8,46.3,32.0,False,1.8,84.793,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,22.0,2.0,HARD,8.0,True,1,True,14.0,32.7,46.1,31.0,False,1.5,85.071,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,23.0,2.0,HARD,9.0,True,1,True,13.0,32.6,45.9,31.0,False,1.2,85.057,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,24.0,2.0,HARD,10.0,True,1,True,13.0,32.6,45.7,31.0,False,1.6,85.131,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,25.0,2.0,HARD,11.0,True,1,True,13.0,32.6,45.8,31.0,False,1.7,85.504,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,26.0,2.0,HARD,12.0,True,1,True,12.0,32.7,45.5,31.0,False,2.2,85.199,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,27.0,2.0,HARD,13.0,True,1,True,12.0,32.5,45.3,31.0,False,1.8,84.64,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,28.0,2.0,HARD,14.0,True,1,True,12.0,32.5,45.3,31.0,False,1.5,84.415,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,29.0,2.0,HARD,15.0,True,1,True,12.0,32.5,46.2,32.0,False,2.4,84.799,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,30.0,2.0,HARD,16.0,True,1,True,12.0,32.5,46.1,32.0,False,2.1,84.573,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,31.0,2.0,HARD,17.0,True,1,True,11.0,32.4,45.9,32.0,False,1.3,84.458,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,32.0,2.0,HARD,18.0,True,1,True,11.0,32.5,45.7,32.0,False,1.4,84.408,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,33.0,2.0,HARD,19.0,True,1,True,10.0,32.7,45.7,32.0,False,1.3,84.853,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,34.0,2.0,HARD,20.0,True,1,True,9.0,32.7,45.5,32.0,False,1.7,84.702,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,35.0,2.0,HARD,21.0,True,1,True,8.0,32.6,45.4,32.0,False,1.3,84.17,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,36.0,2.0,HARD,22.0,True,1,True,7.0,32.5,45.4,32.0,False,1.2,84.276,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,37.0,2.0,HARD,23.0,True,1,True,7.0,32.5,45.2,31.0,False,1.5,83.95,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,38.0,2.0,HARD,24.0,True,1,True,7.0,32.5,45.0,31.0,False,1.4,84.803,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,39.0,2.0,HARD,25.0,True,1,True,7.0,32.5,44.9,32.0,False,1.2,84.463,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,40.0,2.0,HARD,26.0,True,1,True,7.0,32.5,44.7,32.0,False,1.5,84.282,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,41.0,2.0,HARD,27.0,True,1,True,7.0,32.5,44.7,32.0,False,1.6,84.625,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,42.0,2.0,HARD,28.0,True,1,True,8.0,32.5,45.0,32.0,False,1.6,84.628,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,43.0,2.0,HARD,29.0,True,1,True,8.0,32.5,44.9,32.0,False,1.1,84.605,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,44.0,2.0,HARD,30.0,True,1,True,9.0,32.4,44.6,32.0,False,1.5,85.205,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,45.0,2.0,HARD,31.0,True,1,True,9.0,32.3,44.6,33.0,False,1.6,84.272,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,46.0,2.0,HARD,32.0,True,1,True,9.0,32.3,44.6,32.0,False,1.3,84.124,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,47.0,2.0,HARD,33.0,True,1,True,9.0,32.4,44.2,32.0,False,1.6,83.971,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,48.0,2.0,HARD,34.0,True,1,True,9.0,32.3,44.2,32.0,False,1.8,83.741,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,49.0,2.0,HARD,35.0,True,1,True,9.0,32.3,44.1,32.0,False,1.6,83.708,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,50.0,2.0,HARD,36.0,True,1,True,9.0,32.3,44.1,32.0,False,1.6,83.603,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,51.0,2.0,HARD,37.0,True,1,True,9.0,32.3,44.1,33.0,False,1.2,83.437,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,52.0,2.0,HARD,38.0,True,1,True,9.0,32.2,43.8,32.0,False,1.7,83.691,False,53,2024,16,Italian Grand Prix,2024_16
+MAG,Haas F1 Team,53.0,2.0,HARD,39.0,True,1,True,9.0,32.2,43.8,32.0,False,1.8,83.715,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,1.0,1.0,MEDIUM,2.0,False,1,False,10.0,33.8,51.3,32.0,False,1.9,92.411,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,2.0,1.0,MEDIUM,3.0,False,1,True,10.0,33.9,50.5,31.0,False,1.4,87.236,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,3.0,1.0,MEDIUM,4.0,False,1,True,10.0,33.7,50.6,30.0,False,2.3,86.41,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,True,10.0,33.7,50.6,31.0,False,1.9,86.411,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,True,10.0,33.7,50.6,31.0,False,1.8,86.218,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,10.0,33.5,50.2,31.0,False,2.0,85.911,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,10.0,33.4,49.5,32.0,False,0.6,85.95,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,8.0,1.0,MEDIUM,9.0,False,1,True,10.0,33.3,49.5,32.0,False,1.0,85.693,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,10.0,33.3,48.7,31.0,False,1.2,85.969,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,10.0,33.3,48.6,31.0,False,1.8,85.832,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,10.0,33.2,48.4,31.0,False,1.5,85.758,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,False,11.0,33.1,47.6,32.0,False,1.0,89.74,True,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,13.0,2.0,HARD,2.0,False,1,False,15.0,33.0,47.6,31.0,False,1.3,105.594,True,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,14.0,2.0,HARD,3.0,False,1,True,16.0,32.9,48.0,31.0,False,2.3,85.832,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,15.0,2.0,HARD,4.0,False,1,True,15.0,32.9,47.9,31.0,False,1.9,84.67,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,16.0,2.0,HARD,5.0,False,1,True,14.0,32.8,47.8,30.0,False,1.9,84.614,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,17.0,2.0,HARD,6.0,False,1,True,13.0,32.9,47.5,31.0,False,1.4,84.574,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,18.0,2.0,HARD,7.0,False,1,True,12.0,32.8,47.0,31.0,False,1.3,84.882,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,19.0,2.0,HARD,8.0,False,1,True,12.0,32.8,46.8,31.0,False,1.1,85.314,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,20.0,2.0,HARD,9.0,False,1,True,11.0,32.8,46.5,31.0,False,2.2,85.676,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,21.0,2.0,HARD,10.0,False,1,True,11.0,32.8,46.3,32.0,False,1.8,85.297,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,22.0,2.0,HARD,11.0,False,1,True,10.0,32.7,46.2,31.0,False,1.8,85.451,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,23.0,2.0,HARD,12.0,False,1,True,10.0,32.6,45.9,31.0,False,1.2,85.017,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,24.0,2.0,HARD,13.0,False,1,True,10.0,32.6,45.7,31.0,False,1.6,84.588,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,25.0,2.0,HARD,14.0,False,1,True,10.0,32.6,45.8,31.0,False,1.7,84.504,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,26.0,2.0,HARD,15.0,False,1,True,10.0,32.7,45.5,31.0,False,2.2,84.937,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,27.0,2.0,HARD,16.0,False,1,True,9.0,32.6,45.5,31.0,False,2.2,84.891,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,28.0,2.0,HARD,17.0,False,1,True,9.0,32.5,45.3,31.0,False,1.5,84.725,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,29.0,2.0,HARD,18.0,False,1,True,9.0,32.5,46.2,32.0,False,2.4,85.011,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,30.0,2.0,HARD,19.0,False,1,True,9.0,32.5,46.1,32.0,False,2.1,85.039,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,31.0,2.0,HARD,20.0,False,1,True,9.0,32.4,45.9,32.0,False,1.3,85.128,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,32.0,2.0,HARD,21.0,False,1,True,9.0,32.5,45.7,32.0,False,1.4,85.099,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,33.0,2.0,HARD,22.0,False,1,True,9.0,32.7,45.7,32.0,False,1.3,85.289,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,34.0,2.0,HARD,23.0,False,1,True,8.0,32.7,45.5,32.0,False,1.7,85.083,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,35.0,2.0,HARD,24.0,False,1,False,9.0,32.6,45.4,32.0,False,1.3,89.799,True,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,36.0,3.0,HARD,3.0,False,1,False,14.0,32.5,45.4,32.0,False,1.2,104.152,True,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,37.0,3.0,HARD,4.0,False,1,True,13.0,32.5,45.2,31.0,False,1.5,83.703,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,38.0,3.0,HARD,5.0,False,1,True,13.0,32.5,45.0,31.0,False,1.4,83.847,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,39.0,3.0,HARD,6.0,False,1,True,13.0,32.5,44.9,32.0,False,1.2,83.77,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,40.0,3.0,HARD,7.0,False,1,True,13.0,32.5,44.7,32.0,False,1.5,83.683,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,41.0,3.0,HARD,8.0,False,1,True,13.0,32.4,44.5,32.0,False,1.3,83.822,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,42.0,3.0,HARD,9.0,False,1,True,13.0,32.5,45.0,32.0,False,1.6,83.637,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,43.0,3.0,HARD,10.0,False,1,True,12.0,32.5,44.9,32.0,False,1.1,83.681,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,44.0,3.0,HARD,11.0,False,1,True,12.0,32.4,44.6,32.0,False,1.5,83.529,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,45.0,3.0,HARD,12.0,False,1,True,12.0,32.3,44.6,33.0,False,1.6,83.484,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,46.0,3.0,HARD,13.0,False,1,True,11.0,32.4,44.4,32.0,False,1.3,82.944,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,47.0,3.0,HARD,14.0,False,1,True,11.0,32.4,44.2,32.0,False,1.6,83.221,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,48.0,3.0,HARD,15.0,False,1,True,11.0,32.3,44.2,32.0,False,1.8,83.245,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,49.0,3.0,HARD,16.0,False,1,True,11.0,32.3,44.1,32.0,False,1.6,83.525,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,50.0,3.0,HARD,17.0,False,1,True,11.0,32.3,44.1,32.0,False,1.6,83.511,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,51.0,3.0,HARD,18.0,False,1,True,11.0,32.2,43.9,33.0,False,1.4,83.468,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,52.0,3.0,HARD,19.0,False,1,True,11.0,32.2,43.8,32.0,False,1.7,83.761,False,53,2024,16,Italian Grand Prix,2024_16
+ALO,Aston Martin,53.0,3.0,HARD,20.0,False,1,True,11.0,32.2,43.8,32.0,False,1.8,83.686,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,33.8,51.3,32.0,False,1.9,95.885,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,33.8,50.4,30.0,False,0.7,87.845,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,33.7,50.6,30.0,False,2.3,86.578,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,33.7,50.6,31.0,False,1.9,86.25,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,33.7,50.6,31.0,False,1.8,87.151,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,33.5,50.2,31.0,False,2.0,86.057,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,33.4,49.5,32.0,False,0.6,87.204,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,33.3,49.5,32.0,False,1.0,86.385,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,33.3,48.7,31.0,False,1.2,86.222,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,33.3,48.6,31.0,False,1.8,86.289,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,33.2,47.7,31.0,False,1.6,86.607,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,33.1,47.6,32.0,False,1.0,86.5,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,33.0,47.6,31.0,False,1.3,86.41,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,32.9,48.0,31.0,False,2.3,86.93,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,32.9,47.9,31.0,False,1.9,86.672,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,16.0,1.0,MEDIUM,16.0,True,1,False,12.0,32.8,47.8,30.0,False,1.9,91.193,True,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,17.0,2.0,HARD,1.0,True,1,False,17.0,32.9,47.5,31.0,False,1.4,106.349,True,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,18.0,2.0,HARD,2.0,True,1,True,17.0,32.8,47.0,31.0,False,1.3,84.485,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,19.0,2.0,HARD,3.0,True,1,True,17.0,32.8,46.8,31.0,False,1.1,84.928,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,20.0,2.0,HARD,4.0,True,1,True,16.0,32.8,46.5,31.0,False,2.2,85.148,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,21.0,2.0,HARD,5.0,True,1,True,16.0,32.8,46.3,32.0,False,1.8,84.784,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,22.0,2.0,HARD,6.0,True,1,True,16.0,32.7,46.1,31.0,False,1.5,84.852,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,23.0,2.0,HARD,7.0,True,1,True,16.0,32.6,45.9,31.0,False,1.2,84.649,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,24.0,2.0,HARD,8.0,True,1,True,16.0,32.6,45.7,31.0,False,1.6,84.635,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,25.0,2.0,HARD,9.0,True,1,True,16.0,32.6,45.8,31.0,False,1.7,84.916,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,26.0,2.0,HARD,10.0,True,1,True,16.0,32.7,45.5,31.0,False,2.2,84.639,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,27.0,2.0,HARD,11.0,True,1,True,16.0,32.5,45.3,31.0,False,1.8,84.497,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,28.0,2.0,HARD,12.0,True,1,True,16.0,32.5,45.3,31.0,False,1.5,85.005,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,29.0,2.0,HARD,13.0,True,1,True,16.0,32.5,46.1,32.0,False,1.9,85.634,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,30.0,2.0,HARD,14.0,True,1,True,15.0,32.5,46.1,32.0,False,2.1,85.412,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,31.0,2.0,HARD,15.0,True,1,True,15.0,32.4,45.9,32.0,False,1.3,85.586,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,32.0,2.0,HARD,16.0,True,1,True,13.0,32.5,45.7,32.0,False,1.4,85.433,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,33.0,2.0,HARD,17.0,True,1,True,13.0,32.7,45.7,32.0,False,1.3,84.868,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,34.0,2.0,HARD,18.0,True,1,True,13.0,32.7,45.5,31.0,False,1.5,84.921,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,35.0,2.0,HARD,19.0,True,1,True,13.0,32.6,45.4,32.0,False,1.3,84.798,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,36.0,2.0,HARD,20.0,True,1,True,12.0,32.5,45.4,32.0,False,1.2,84.84,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,37.0,2.0,HARD,21.0,True,1,True,12.0,32.5,45.2,31.0,False,1.5,85.345,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,38.0,2.0,HARD,22.0,True,1,True,12.0,32.5,45.0,31.0,False,1.4,85.194,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,39.0,2.0,HARD,23.0,True,1,True,12.0,32.5,44.9,32.0,False,1.2,85.128,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,40.0,2.0,HARD,24.0,True,1,True,12.0,32.5,44.7,32.0,False,1.5,85.147,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,41.0,2.0,HARD,25.0,True,1,True,12.0,32.4,44.5,32.0,False,1.3,84.801,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,42.0,2.0,HARD,26.0,True,1,True,12.0,32.5,45.0,32.0,False,1.6,84.62,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,43.0,2.0,HARD,27.0,True,1,True,13.0,32.5,44.9,32.0,False,1.1,85.979,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,44.0,2.0,HARD,28.0,True,1,True,13.0,32.4,44.6,32.0,False,1.5,85.161,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,45.0,2.0,HARD,29.0,True,1,True,13.0,32.3,44.6,33.0,False,1.6,84.812,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,46.0,2.0,HARD,30.0,True,1,True,13.0,32.4,44.4,32.0,False,1.3,84.939,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,47.0,2.0,HARD,31.0,True,1,True,13.0,32.4,44.2,32.0,False,1.6,84.697,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,48.0,2.0,HARD,32.0,True,1,True,13.0,32.3,44.2,33.0,False,1.1,84.538,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,49.0,2.0,HARD,33.0,True,1,True,13.0,32.3,44.1,32.0,False,1.6,84.474,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,50.0,2.0,HARD,34.0,True,1,True,13.0,32.3,44.1,32.0,False,1.6,84.3,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,51.0,2.0,HARD,35.0,True,1,True,13.0,32.2,43.9,33.0,False,1.4,84.186,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,52.0,2.0,HARD,36.0,True,1,True,13.0,32.2,43.8,32.0,False,1.7,84.429,False,53,2024,16,Italian Grand Prix,2024_16
+COL,Williams,53.0,2.0,HARD,37.0,True,1,True,13.0,32.2,43.6,32.0,False,1.6,83.728,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,33.8,51.3,32.0,False,1.9,93.104,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,33.9,50.5,31.0,False,1.4,87.177,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,33.7,50.6,30.0,False,2.3,86.588,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,33.7,50.6,31.0,False,1.9,86.488,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,33.7,50.6,31.0,False,1.8,86.251,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,33.5,50.2,31.0,False,2.0,85.899,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,33.4,49.5,32.0,False,0.6,85.713,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,33.3,49.5,32.0,False,1.0,85.993,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,33.3,48.7,31.0,False,1.2,85.815,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,33.3,48.6,31.0,False,1.8,86.111,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,11.0,1.0,MEDIUM,11.0,True,1,False,14.0,33.2,48.4,31.0,False,1.5,91.962,True,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,12.0,2.0,HARD,2.0,False,1,False,18.0,33.1,47.6,32.0,False,1.0,112.188,True,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,13.0,2.0,HARD,3.0,False,1,True,18.0,33.0,47.5,31.0,False,2.3,86.122,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,14.0,2.0,HARD,4.0,False,1,True,18.0,32.9,48.0,31.0,False,2.3,85.827,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,15.0,2.0,HARD,5.0,False,1,True,18.0,32.8,47.9,31.0,False,2.0,85.572,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,16.0,2.0,HARD,6.0,False,1,True,17.0,32.8,47.8,30.0,False,1.9,85.398,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,17.0,2.0,HARD,7.0,False,1,True,16.0,32.9,47.2,31.0,False,1.7,85.028,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,18.0,2.0,HARD,8.0,False,1,True,16.0,32.8,47.0,31.0,False,1.3,85.062,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,19.0,2.0,HARD,9.0,False,1,True,16.0,32.8,46.8,31.0,False,1.1,84.897,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,20.0,2.0,HARD,10.0,False,1,True,15.0,32.8,46.5,31.0,False,2.2,84.753,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,21.0,2.0,HARD,11.0,False,1,True,15.0,32.8,46.3,32.0,False,1.8,84.991,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,22.0,2.0,HARD,12.0,False,1,True,15.0,32.7,46.1,31.0,False,1.5,85.08,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,23.0,2.0,HARD,13.0,False,1,True,15.0,32.6,45.9,31.0,False,1.2,84.848,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,24.0,2.0,HARD,14.0,False,1,True,15.0,32.6,45.7,31.0,False,1.6,84.931,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,25.0,2.0,HARD,15.0,False,1,True,15.0,32.6,45.8,31.0,False,1.7,85.047,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,26.0,2.0,HARD,16.0,False,1,True,15.0,32.7,45.5,31.0,False,2.2,84.906,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,27.0,2.0,HARD,17.0,False,1,True,14.0,32.5,45.3,31.0,False,1.8,85.595,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,28.0,2.0,HARD,18.0,False,1,True,14.0,32.5,45.3,31.0,False,1.5,85.38,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,29.0,2.0,HARD,19.0,False,1,True,13.0,32.5,46.1,32.0,False,1.9,84.835,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,30.0,2.0,HARD,20.0,False,1,True,13.0,32.5,46.1,32.0,False,2.1,84.97,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,31.0,2.0,HARD,21.0,False,1,True,13.0,32.4,45.9,32.0,False,1.3,84.875,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,32.0,2.0,HARD,22.0,False,1,True,12.0,32.5,45.7,32.0,False,1.4,84.69,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,33.0,2.0,HARD,23.0,False,1,True,12.0,32.7,45.7,32.0,False,1.3,84.662,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,34.0,2.0,HARD,24.0,False,1,True,11.0,32.7,45.5,31.0,False,1.5,84.777,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,35.0,2.0,HARD,25.0,False,1,True,12.0,32.6,45.4,32.0,False,1.3,85.588,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,36.0,2.0,HARD,26.0,False,1,True,11.0,32.5,45.4,32.0,False,1.2,85.081,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,37.0,2.0,HARD,27.0,False,1,True,11.0,32.5,45.2,31.0,False,1.5,85.095,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,38.0,2.0,HARD,28.0,False,1,True,11.0,32.5,45.0,31.0,False,1.4,85.288,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,39.0,2.0,HARD,29.0,False,1,True,11.0,32.5,44.9,32.0,False,1.2,85.033,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,40.0,2.0,HARD,30.0,False,1,True,11.0,32.5,44.7,32.0,False,1.5,85.025,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,41.0,2.0,HARD,31.0,False,1,True,11.0,32.4,44.5,32.0,False,1.3,84.945,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,42.0,2.0,HARD,32.0,False,1,True,11.0,32.5,45.0,32.0,False,1.6,84.954,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,43.0,2.0,HARD,33.0,False,1,True,11.0,32.5,44.9,32.0,False,1.1,85.179,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,44.0,2.0,HARD,34.0,False,1,True,11.0,32.4,44.6,32.0,False,1.5,84.776,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,45.0,2.0,HARD,35.0,False,1,True,11.0,32.3,44.6,33.0,False,1.6,85.063,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,46.0,2.0,HARD,36.0,False,1,True,12.0,32.4,44.4,32.0,False,1.3,85.685,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,47.0,2.0,HARD,37.0,False,1,True,12.0,32.4,44.2,32.0,False,1.6,84.775,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,48.0,2.0,HARD,38.0,False,1,True,12.0,32.3,44.2,32.0,False,1.8,84.518,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,49.0,2.0,HARD,39.0,False,1,True,12.0,32.3,44.1,32.0,False,1.6,84.617,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,50.0,2.0,HARD,40.0,False,1,True,12.0,32.3,44.1,32.0,False,1.6,84.817,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,51.0,2.0,HARD,41.0,False,1,True,12.0,32.2,43.9,33.0,False,1.4,84.639,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,52.0,2.0,HARD,42.0,False,1,True,12.0,32.2,43.8,32.0,False,1.7,84.219,False,53,2024,16,Italian Grand Prix,2024_16
+RIC,RB,53.0,2.0,HARD,43.0,False,1,True,12.0,32.2,43.8,32.0,False,1.8,84.347,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,1.0,1.0,HARD,1.0,True,1,False,15.0,33.8,51.3,32.0,False,1.9,95.432,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,2.0,1.0,HARD,2.0,True,1,True,14.0,33.9,50.5,31.0,False,1.4,86.837,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,3.0,1.0,HARD,3.0,True,1,True,14.0,33.7,50.6,30.0,False,2.3,86.466,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,4.0,1.0,HARD,4.0,True,1,True,14.0,33.7,50.6,31.0,False,1.9,86.297,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,5.0,1.0,HARD,5.0,True,1,True,14.0,33.7,50.6,31.0,False,1.8,86.568,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,6.0,1.0,HARD,6.0,True,1,True,14.0,33.5,50.2,31.0,False,2.0,85.684,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,7.0,1.0,HARD,7.0,True,1,True,14.0,33.4,49.5,32.0,False,0.6,86.006,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,8.0,1.0,HARD,8.0,True,1,True,14.0,33.3,49.5,32.0,False,1.0,86.053,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,9.0,1.0,HARD,9.0,True,1,True,13.0,33.3,48.7,31.0,False,1.2,85.369,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,10.0,1.0,HARD,10.0,True,1,True,13.0,33.3,48.6,31.0,False,1.8,86.035,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,11.0,1.0,HARD,11.0,True,1,True,12.0,33.2,48.4,31.0,False,1.5,86.349,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,12.0,1.0,HARD,12.0,True,1,True,10.0,33.1,47.6,32.0,False,1.0,85.954,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,13.0,1.0,HARD,13.0,True,1,True,10.0,33.0,47.6,31.0,False,1.3,86.059,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,14.0,1.0,HARD,14.0,True,1,True,9.0,32.9,48.0,31.0,False,2.3,86.307,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,15.0,1.0,HARD,15.0,True,1,True,9.0,32.9,47.9,31.0,False,1.9,86.677,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,16.0,1.0,HARD,16.0,True,1,True,8.0,32.8,47.8,30.0,False,1.9,86.694,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,17.0,1.0,HARD,17.0,True,1,True,8.0,32.9,47.5,31.0,False,1.4,86.002,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,18.0,1.0,HARD,18.0,True,1,True,7.0,32.9,47.2,31.0,False,1.7,86.234,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,19.0,1.0,HARD,19.0,True,1,True,7.0,32.8,46.8,31.0,False,1.1,86.174,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,20.0,1.0,HARD,20.0,True,1,True,8.0,32.8,46.6,31.0,False,1.6,87.326,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,21.0,1.0,HARD,21.0,True,1,True,8.0,32.8,46.3,32.0,False,1.8,86.45,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,22.0,1.0,HARD,22.0,True,1,True,8.0,32.7,46.2,31.0,False,1.8,86.327,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,23.0,1.0,HARD,23.0,True,1,True,7.0,32.6,45.9,31.0,False,1.2,86.201,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,24.0,1.0,HARD,24.0,True,1,True,7.0,32.6,45.7,31.0,False,1.6,86.77,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,25.0,1.0,HARD,25.0,True,1,True,9.0,32.6,45.8,31.0,False,1.7,87.519,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,26.0,1.0,HARD,26.0,True,1,True,9.0,32.7,45.5,31.0,False,2.2,86.383,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,27.0,1.0,HARD,27.0,True,1,True,10.0,32.6,45.5,31.0,False,2.2,86.725,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,28.0,1.0,HARD,28.0,True,1,True,10.0,32.5,45.3,31.0,False,1.5,86.013,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,29.0,1.0,HARD,29.0,True,1,True,10.0,32.5,46.2,32.0,False,2.4,86.099,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,30.0,1.0,HARD,30.0,True,1,True,10.0,32.5,46.1,32.0,False,2.1,86.025,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,31.0,1.0,HARD,31.0,True,1,False,12.0,32.4,45.9,32.0,False,1.3,90.757,True,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,32.0,2.0,MEDIUM,1.0,True,1,False,16.0,32.5,45.7,32.0,False,1.4,104.71,True,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,33.0,2.0,MEDIUM,2.0,True,1,True,16.0,32.7,45.7,32.0,False,1.3,84.652,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,34.0,2.0,MEDIUM,3.0,True,1,True,15.0,32.7,45.5,31.0,False,1.5,84.965,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,35.0,2.0,MEDIUM,4.0,True,1,True,15.0,32.6,45.4,32.0,False,1.3,85.019,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,36.0,2.0,MEDIUM,5.0,True,1,True,15.0,32.5,45.2,32.0,False,1.1,84.942,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,37.0,2.0,MEDIUM,6.0,True,1,True,14.0,32.5,45.2,31.0,False,1.5,84.613,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,38.0,2.0,MEDIUM,7.0,True,1,True,14.0,32.5,44.9,31.0,False,1.7,84.845,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,39.0,2.0,MEDIUM,8.0,True,1,True,14.0,32.5,44.9,32.0,False,1.2,85.267,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,40.0,2.0,MEDIUM,9.0,True,1,True,14.0,32.5,44.7,32.0,False,1.5,85.211,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,41.0,2.0,MEDIUM,10.0,True,1,True,14.0,32.4,44.5,32.0,False,1.3,85.06,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,42.0,2.0,MEDIUM,11.0,True,1,True,14.0,32.5,45.0,32.0,False,1.6,85.119,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,43.0,2.0,MEDIUM,12.0,True,1,True,14.0,32.4,44.9,32.0,False,1.5,86.111,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,44.0,2.0,MEDIUM,13.0,True,1,True,14.0,32.4,44.6,32.0,False,1.5,84.669,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,45.0,2.0,MEDIUM,14.0,True,1,True,14.0,32.3,44.6,33.0,False,1.6,84.587,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,46.0,2.0,MEDIUM,15.0,True,1,True,14.0,32.4,44.4,32.0,False,1.3,84.449,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,47.0,2.0,MEDIUM,16.0,True,1,True,14.0,32.4,44.2,32.0,False,1.6,84.506,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,48.0,2.0,MEDIUM,17.0,True,1,True,14.0,32.3,44.2,33.0,False,1.1,84.458,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,49.0,2.0,MEDIUM,18.0,True,1,True,14.0,32.3,44.1,32.0,False,1.6,85.79,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,50.0,2.0,MEDIUM,19.0,True,1,True,14.0,32.3,44.1,33.0,False,1.2,85.688,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,51.0,2.0,MEDIUM,20.0,True,1,True,14.0,32.2,43.9,33.0,False,1.4,84.59,False,53,2024,16,Italian Grand Prix,2024_16
+OCO,Alpine,52.0,2.0,MEDIUM,21.0,True,1,True,14.0,32.2,43.8,32.0,False,1.7,84.343,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,33.8,51.3,32.0,False,1.9,94.873,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,33.9,50.5,31.0,False,1.4,86.606,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,33.7,50.6,30.0,False,2.3,86.646,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,13.0,33.7,50.6,31.0,False,1.9,86.395,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,33.7,50.6,31.0,False,1.8,86.361,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,33.5,50.2,31.0,False,2.0,86.042,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,33.4,49.5,32.0,False,0.6,85.82,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,33.3,49.5,32.0,False,1.0,86.465,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,33.3,48.7,31.0,False,1.2,87.148,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,False,17.0,33.3,48.6,31.0,False,1.8,91.535,True,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,11.0,2.0,HARD,1.0,True,1,False,18.0,33.2,47.7,31.0,False,1.6,105.677,True,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,12.0,2.0,HARD,2.0,True,1,True,17.0,33.1,47.6,32.0,False,1.0,85.07,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,13.0,2.0,HARD,3.0,True,1,True,17.0,33.0,47.5,31.0,False,2.3,84.816,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,14.0,2.0,HARD,4.0,True,1,True,17.0,32.9,48.0,31.0,False,2.3,85.214,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,15.0,2.0,HARD,5.0,True,1,True,16.0,32.8,47.9,31.0,False,2.0,85.529,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,16.0,2.0,HARD,6.0,True,1,True,15.0,32.8,47.8,30.0,False,1.9,85.537,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,17.0,2.0,HARD,7.0,True,1,True,14.0,32.9,47.5,31.0,False,1.4,85.165,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,18.0,2.0,HARD,8.0,True,1,True,14.0,32.8,47.0,31.0,False,1.3,86.182,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,19.0,2.0,HARD,9.0,True,1,True,14.0,32.8,46.8,31.0,False,1.1,85.403,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,20.0,2.0,HARD,10.0,True,1,True,13.0,32.8,46.5,31.0,False,2.2,85.058,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,21.0,2.0,HARD,11.0,True,1,True,13.0,32.8,46.3,32.0,False,1.8,84.878,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,22.0,2.0,HARD,12.0,True,1,True,13.0,32.7,46.1,31.0,False,1.5,85.105,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,23.0,2.0,HARD,13.0,True,1,True,14.0,32.6,45.9,31.0,False,1.2,86.161,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,24.0,2.0,HARD,14.0,True,1,True,14.0,32.6,45.7,31.0,False,1.6,85.882,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,25.0,2.0,HARD,15.0,True,1,True,14.0,32.6,45.8,31.0,False,1.7,85.988,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,26.0,2.0,HARD,16.0,True,1,True,14.0,32.7,45.5,31.0,False,2.2,85.742,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,27.0,2.0,HARD,17.0,True,1,True,15.0,32.5,45.3,31.0,False,1.8,87.191,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,28.0,2.0,HARD,18.0,True,1,True,15.0,32.5,45.3,31.0,False,1.5,85.823,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,29.0,2.0,HARD,19.0,True,1,True,15.0,32.5,46.1,32.0,False,1.9,86.079,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,30.0,2.0,HARD,20.0,True,1,False,17.0,32.5,46.1,32.0,False,2.1,91.004,True,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,31.0,3.0,HARD,1.0,True,1,False,19.0,32.4,45.9,32.0,False,1.3,105.757,True,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,32.0,3.0,HARD,2.0,True,1,True,19.0,32.5,45.7,32.0,False,1.4,84.423,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,33.0,3.0,HARD,3.0,True,1,True,18.0,32.7,45.5,32.0,False,1.7,84.252,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,34.0,3.0,HARD,4.0,True,1,True,17.0,32.7,45.5,31.0,False,1.5,84.383,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,35.0,3.0,HARD,5.0,True,1,True,17.0,32.6,45.4,32.0,False,1.3,84.822,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,36.0,3.0,HARD,6.0,True,1,True,17.0,32.5,45.2,32.0,False,1.1,85.591,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,37.0,3.0,HARD,7.0,True,1,True,16.0,32.5,45.2,31.0,False,1.5,84.386,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,38.0,3.0,HARD,8.0,True,1,True,17.0,32.5,44.9,31.0,False,1.7,85.229,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,39.0,3.0,HARD,9.0,True,1,True,17.0,32.5,44.9,32.0,False,1.2,84.591,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,40.0,3.0,HARD,10.0,True,1,True,17.0,32.5,44.7,32.0,False,1.6,85.104,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,41.0,3.0,HARD,11.0,True,1,True,17.0,32.4,44.5,32.0,False,1.3,85.772,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,42.0,3.0,HARD,12.0,True,1,True,16.0,32.5,45.0,32.0,False,1.6,84.605,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,43.0,3.0,HARD,13.0,True,1,True,16.0,32.4,44.9,32.0,False,1.5,85.142,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,44.0,3.0,HARD,14.0,True,1,True,16.0,32.4,44.6,32.0,False,1.5,86.175,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,45.0,3.0,HARD,15.0,True,1,True,16.0,32.3,44.6,32.0,False,1.3,85.425,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,46.0,3.0,HARD,16.0,True,1,True,16.0,32.4,44.4,32.0,False,1.3,84.403,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,47.0,3.0,HARD,17.0,True,1,True,16.0,32.4,44.2,32.0,False,1.6,83.923,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,48.0,3.0,HARD,18.0,True,1,True,16.0,32.3,44.2,33.0,False,1.1,84.036,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,49.0,3.0,HARD,19.0,True,1,True,16.0,32.3,44.1,32.0,False,1.6,83.852,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,50.0,3.0,HARD,20.0,True,1,True,16.0,32.3,44.1,33.0,False,1.2,84.077,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,51.0,3.0,HARD,21.0,True,1,True,15.0,32.2,43.9,33.0,False,1.4,83.755,False,53,2024,16,Italian Grand Prix,2024_16
+GAS,Alpine,52.0,3.0,HARD,22.0,True,1,True,15.0,32.2,43.8,32.0,False,1.7,83.973,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,1.0,1.0,HARD,2.0,False,1,False,19.0,33.8,51.3,32.0,False,1.9,96.375,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,2.0,1.0,HARD,3.0,False,1,True,19.0,33.8,50.4,30.0,False,0.7,88.377,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,3.0,1.0,HARD,4.0,False,1,True,19.0,33.7,50.6,30.0,False,2.3,86.918,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,4.0,1.0,HARD,5.0,False,1,True,19.0,33.7,50.6,31.0,False,1.9,86.324,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,5.0,1.0,HARD,6.0,False,1,True,17.0,33.7,50.6,31.0,False,1.8,88.242,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,6.0,1.0,HARD,7.0,False,1,True,17.0,33.5,50.2,31.0,False,2.0,86.499,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,7.0,1.0,HARD,8.0,False,1,True,17.0,33.4,49.5,32.0,False,0.6,86.359,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,8.0,1.0,HARD,9.0,False,1,True,17.0,33.3,49.5,32.0,False,1.0,86.206,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,9.0,1.0,HARD,10.0,False,1,True,17.0,33.3,48.7,31.0,False,1.2,86.188,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,10.0,1.0,HARD,11.0,False,1,True,16.0,33.3,48.6,31.0,False,1.8,86.118,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,11.0,1.0,HARD,12.0,False,1,True,16.0,33.2,47.7,31.0,False,1.6,86.47,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,12.0,1.0,HARD,13.0,False,1,True,14.0,33.1,47.6,32.0,False,1.0,86.207,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,13.0,1.0,HARD,14.0,False,1,True,13.0,33.0,47.6,31.0,False,1.3,86.349,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,14.0,1.0,HARD,15.0,False,1,True,13.0,32.9,48.0,31.0,False,2.3,86.481,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,15.0,1.0,HARD,16.0,False,1,True,12.0,32.9,47.9,31.0,False,1.9,86.79,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,16.0,1.0,HARD,17.0,False,1,True,11.0,32.8,47.8,30.0,False,1.9,86.569,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,17.0,1.0,HARD,18.0,False,1,True,11.0,32.9,47.5,31.0,False,1.4,86.396,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,18.0,1.0,HARD,19.0,False,1,True,10.0,32.8,47.0,31.0,False,1.3,86.359,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,19.0,1.0,HARD,20.0,False,1,True,9.0,32.8,46.8,31.0,False,1.1,86.456,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,20.0,1.0,HARD,21.0,False,1,True,9.0,32.8,46.6,31.0,False,1.6,86.803,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,21.0,1.0,HARD,22.0,False,1,True,10.0,32.8,46.3,32.0,False,1.8,87.23,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,22.0,1.0,HARD,23.0,False,1,True,11.0,32.7,46.2,31.0,False,1.8,87.404,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,23.0,1.0,HARD,24.0,False,1,True,11.0,32.6,45.9,31.0,False,1.2,86.943,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,24.0,1.0,HARD,25.0,False,1,True,11.0,32.6,45.7,31.0,False,1.6,86.542,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,25.0,1.0,HARD,26.0,False,1,True,12.0,32.6,45.8,31.0,False,1.7,86.863,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,26.0,1.0,HARD,27.0,False,1,True,13.0,32.7,45.5,31.0,False,2.2,86.885,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,27.0,1.0,HARD,28.0,False,1,True,13.0,32.5,45.3,31.0,False,1.8,86.309,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,28.0,1.0,HARD,29.0,False,1,True,13.0,32.5,45.3,31.0,False,1.5,85.804,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,29.0,1.0,HARD,30.0,False,1,True,14.0,32.5,46.1,32.0,False,1.9,86.827,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,30.0,1.0,HARD,31.0,False,1,True,14.0,32.5,46.1,32.0,False,2.1,86.022,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,31.0,1.0,HARD,32.0,False,1,True,14.0,32.4,45.9,32.0,False,1.3,86.004,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,32.0,1.0,HARD,33.0,False,1,True,15.0,32.5,45.7,32.0,False,1.4,87.859,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,33.0,1.0,HARD,34.0,False,1,False,15.0,32.7,45.7,32.0,False,1.3,90.924,True,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,34.0,2.0,MEDIUM,2.0,False,1,False,18.0,32.7,45.5,31.0,False,1.5,105.462,True,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,35.0,2.0,MEDIUM,3.0,False,1,True,18.0,32.5,45.4,32.0,False,1.2,85.336,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,36.0,2.0,MEDIUM,4.0,False,1,True,18.0,32.5,45.2,32.0,False,1.1,85.114,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,37.0,2.0,MEDIUM,5.0,False,1,True,18.0,32.5,45.2,31.0,False,1.5,85.213,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,38.0,2.0,MEDIUM,6.0,False,1,True,18.0,32.5,44.9,31.0,False,1.7,86.704,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,39.0,2.0,MEDIUM,7.0,False,1,True,18.0,32.5,44.9,32.0,False,1.2,85.081,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,40.0,2.0,MEDIUM,8.0,False,1,True,18.0,32.5,44.7,32.0,False,1.6,85.16,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,41.0,2.0,MEDIUM,9.0,False,1,True,18.0,32.4,44.5,32.0,False,1.3,86.31,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,42.0,2.0,MEDIUM,10.0,False,1,True,18.0,32.5,44.9,32.0,False,1.1,86.036,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,43.0,2.0,MEDIUM,11.0,False,1,True,18.0,32.4,44.9,32.0,False,1.5,84.637,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,44.0,2.0,MEDIUM,12.0,False,1,True,18.0,32.4,44.6,32.0,False,1.5,84.792,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,45.0,2.0,MEDIUM,13.0,False,1,True,18.0,32.3,44.6,32.0,False,1.3,84.588,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,46.0,2.0,MEDIUM,14.0,False,1,True,18.0,32.4,44.4,32.0,False,1.3,84.358,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,47.0,2.0,MEDIUM,15.0,False,1,True,17.0,32.3,44.2,32.0,False,1.8,84.089,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,48.0,2.0,MEDIUM,16.0,False,1,True,17.0,32.3,44.2,33.0,False,1.1,85.126,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,49.0,2.0,MEDIUM,17.0,False,1,True,17.0,32.3,44.1,32.0,False,1.6,83.885,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,50.0,2.0,MEDIUM,18.0,False,1,True,17.0,32.3,44.1,33.0,False,1.2,84.357,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,51.0,2.0,MEDIUM,19.0,False,1,True,16.0,32.2,43.9,33.0,False,1.4,83.979,False,53,2024,16,Italian Grand Prix,2024_16
+BOT,Kick Sauber,52.0,2.0,MEDIUM,20.0,False,1,True,16.0,32.2,43.8,32.0,False,1.8,83.609,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,16.0,33.8,51.3,32.0,False,1.9,95.519,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,33.9,50.5,31.0,False,1.4,87.512,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,33.7,50.6,30.0,False,2.3,86.434,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,33.7,50.6,31.0,False,1.9,86.541,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,False,18.0,33.7,50.6,31.0,False,1.8,91.729,True,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,6.0,2.0,HARD,1.0,True,1,False,20.0,33.5,50.2,31.0,False,2.0,120.178,True,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,7.0,2.0,HARD,2.0,True,1,True,20.0,33.4,49.5,32.0,False,0.6,85.882,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,8.0,2.0,HARD,3.0,True,1,True,19.0,33.3,49.0,31.0,False,1.7,85.351,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,9.0,2.0,HARD,4.0,True,1,True,19.0,33.3,48.7,31.0,False,1.2,85.191,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,10.0,2.0,HARD,5.0,True,1,True,19.0,33.2,48.4,31.0,False,1.5,85.194,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,11.0,2.0,HARD,6.0,True,1,True,19.0,33.2,47.7,31.0,False,1.6,85.322,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,12.0,2.0,HARD,7.0,True,1,True,19.0,33.1,47.6,32.0,False,1.0,85.166,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,13.0,2.0,HARD,8.0,True,1,True,19.0,33.0,47.5,31.0,False,2.3,84.983,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,14.0,2.0,HARD,9.0,True,1,True,19.0,32.9,48.0,31.0,False,2.3,85.014,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,15.0,2.0,HARD,10.0,True,1,True,19.0,32.8,47.9,31.0,False,2.0,85.862,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,16.0,2.0,HARD,11.0,True,1,True,18.0,32.8,47.8,30.0,False,1.9,85.017,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,17.0,2.0,HARD,12.0,True,1,True,18.0,32.9,47.2,31.0,False,1.7,86.119,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,18.0,2.0,HARD,13.0,True,1,True,18.0,32.8,47.0,31.0,False,1.3,85.465,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,19.0,2.0,HARD,14.0,True,1,True,18.0,32.8,46.8,31.0,False,1.1,85.326,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,20.0,2.0,HARD,15.0,True,1,True,18.0,32.8,46.5,31.0,False,2.2,86.113,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,21.0,2.0,HARD,16.0,True,1,True,18.0,32.8,46.3,32.0,False,1.8,85.735,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,22.0,2.0,HARD,17.0,True,1,True,18.0,32.7,46.1,31.0,False,1.5,85.565,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,23.0,2.0,HARD,18.0,True,1,True,18.0,32.6,45.9,31.0,False,1.2,85.632,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,24.0,2.0,HARD,19.0,True,1,True,18.0,32.6,45.8,32.0,False,1.8,85.608,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,25.0,2.0,HARD,20.0,True,1,True,18.0,32.6,45.8,31.0,False,1.7,85.716,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,26.0,2.0,HARD,21.0,True,1,True,18.0,32.7,45.5,31.0,False,2.2,85.506,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,27.0,2.0,HARD,22.0,True,1,True,18.0,32.5,45.3,31.0,False,1.8,85.674,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,28.0,2.0,HARD,23.0,True,1,True,18.0,32.5,45.3,31.0,False,1.5,85.43,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,29.0,2.0,HARD,24.0,True,1,True,18.0,32.5,46.1,32.0,False,1.9,85.57,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,30.0,2.0,HARD,25.0,True,1,True,18.0,32.5,46.1,32.0,False,2.1,85.628,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,31.0,2.0,HARD,26.0,True,1,True,17.0,32.5,45.9,32.0,False,1.4,85.142,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,32.0,2.0,HARD,27.0,True,1,False,17.0,32.5,45.7,32.0,False,1.4,89.903,True,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,33.0,3.0,HARD,1.0,True,1,False,19.0,32.7,45.7,32.0,False,1.3,116.554,True,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,34.0,3.0,HARD,2.0,True,1,True,19.0,32.7,45.5,31.0,False,1.5,83.587,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,35.0,3.0,HARD,3.0,True,1,True,19.0,32.5,45.4,32.0,False,1.2,83.761,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,36.0,3.0,HARD,4.0,True,1,True,19.0,32.5,45.2,32.0,False,1.1,83.772,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,37.0,3.0,HARD,5.0,True,1,True,19.0,32.5,45.0,31.0,False,1.4,87.809,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,38.0,3.0,HARD,6.0,True,1,True,19.0,32.5,44.9,31.0,False,1.7,83.88,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,39.0,3.0,HARD,7.0,True,1,True,19.0,32.5,44.9,32.0,False,1.2,84.019,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,40.0,3.0,HARD,8.0,True,1,True,19.0,32.5,44.7,32.0,False,1.6,83.621,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,41.0,3.0,HARD,9.0,True,1,True,19.0,32.4,44.5,32.0,False,1.3,83.449,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,42.0,3.0,HARD,10.0,True,1,True,19.0,32.5,44.9,32.0,False,1.1,83.624,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,43.0,3.0,HARD,11.0,True,1,True,19.0,32.4,44.9,32.0,False,1.5,83.591,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,44.0,3.0,HARD,12.0,True,1,True,19.0,32.4,44.6,32.0,False,1.5,83.275,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,45.0,3.0,HARD,13.0,True,1,True,19.0,32.3,44.6,32.0,False,1.3,83.807,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,46.0,3.0,HARD,14.0,True,1,True,19.0,32.4,44.4,32.0,False,1.3,84.107,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,47.0,3.0,HARD,15.0,True,1,True,19.0,32.3,44.2,32.0,False,1.8,86.991,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,48.0,3.0,HARD,16.0,True,1,True,19.0,32.3,44.2,33.0,False,1.1,85.125,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,49.0,3.0,HARD,17.0,True,1,True,18.0,32.3,44.1,32.0,False,1.6,83.404,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,50.0,3.0,HARD,18.0,True,1,True,18.0,32.3,44.1,33.0,False,1.2,84.017,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,51.0,3.0,HARD,19.0,True,1,True,17.0,32.2,43.9,33.0,False,1.4,84.211,False,53,2024,16,Italian Grand Prix,2024_16
+HUL,Haas F1 Team,52.0,3.0,HARD,20.0,True,1,True,17.0,32.2,43.8,32.0,False,1.8,83.966,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,2.0,False,1,False,20.0,33.8,51.3,32.0,False,1.9,96.732,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,2.0,1.0,MEDIUM,3.0,False,1,True,20.0,33.8,50.4,30.0,False,0.7,88.721,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,3.0,1.0,MEDIUM,4.0,False,1,True,20.0,33.7,50.6,30.0,False,2.3,86.997,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,4.0,1.0,MEDIUM,5.0,False,1,True,20.0,33.7,50.6,31.0,False,1.9,86.226,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,5.0,1.0,MEDIUM,6.0,False,1,True,20.0,33.7,50.6,31.0,False,1.8,89.256,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,6.0,1.0,MEDIUM,7.0,False,1,True,18.0,33.5,50.2,31.0,False,2.0,85.942,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,7.0,1.0,MEDIUM,8.0,False,1,True,18.0,33.4,49.5,32.0,False,0.6,86.381,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,8.0,1.0,MEDIUM,9.0,False,1,True,18.0,33.3,49.5,32.0,False,1.0,86.411,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,9.0,1.0,MEDIUM,10.0,False,1,True,18.0,33.3,48.7,31.0,False,1.2,86.315,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,10.0,1.0,MEDIUM,11.0,False,1,True,18.0,33.3,48.6,31.0,False,1.8,86.128,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,11.0,1.0,MEDIUM,12.0,False,1,True,17.0,33.2,47.7,31.0,False,1.6,86.488,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,12.0,1.0,MEDIUM,13.0,False,1,True,15.0,33.1,47.6,32.0,False,1.0,86.348,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,13.0,1.0,MEDIUM,14.0,False,1,True,14.0,33.0,47.6,31.0,False,1.3,86.802,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,14.0,1.0,MEDIUM,15.0,False,1,True,14.0,32.9,48.0,31.0,False,2.3,87.092,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,15.0,1.0,MEDIUM,16.0,False,1,False,13.0,32.9,47.9,31.0,False,1.9,92.048,True,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,16.0,2.0,HARD,2.0,False,1,False,19.0,32.8,47.8,30.0,False,1.9,109.128,True,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,17.0,2.0,HARD,3.0,False,1,True,19.0,32.9,47.2,31.0,False,1.7,85.092,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,18.0,2.0,HARD,4.0,False,1,True,19.0,32.8,47.0,31.0,False,1.3,85.245,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,19.0,2.0,HARD,5.0,False,1,True,19.0,32.8,46.6,31.0,False,1.6,85.777,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,20.0,2.0,HARD,6.0,False,1,True,19.0,32.8,46.5,31.0,False,2.2,85.588,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,21.0,2.0,HARD,7.0,False,1,True,19.0,32.8,46.3,32.0,False,1.8,85.743,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,22.0,2.0,HARD,8.0,False,1,True,19.0,32.7,46.1,31.0,False,1.5,85.876,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,23.0,2.0,HARD,9.0,False,1,True,19.0,32.6,45.9,31.0,False,1.2,86.061,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,24.0,2.0,HARD,10.0,False,1,True,19.0,32.6,45.8,32.0,False,1.8,86.041,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,25.0,2.0,HARD,11.0,False,1,True,19.0,32.6,45.8,31.0,False,1.7,85.583,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,26.0,2.0,HARD,12.0,False,1,True,19.0,32.6,45.5,31.0,False,2.2,85.549,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,27.0,2.0,HARD,13.0,False,1,True,19.0,32.5,45.3,31.0,False,1.8,85.603,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,28.0,2.0,HARD,14.0,False,1,True,19.0,32.5,45.3,31.0,False,1.5,85.699,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,29.0,2.0,HARD,15.0,False,1,True,19.0,32.5,46.1,32.0,False,1.9,85.515,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,30.0,2.0,HARD,16.0,False,1,True,19.0,32.5,46.1,32.0,False,2.1,85.491,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,31.0,2.0,HARD,17.0,False,1,True,18.0,32.5,45.9,32.0,False,1.4,85.478,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,32.0,2.0,HARD,18.0,False,1,True,18.0,32.5,45.7,32.0,False,1.4,85.356,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,33.0,2.0,HARD,19.0,False,1,True,17.0,32.7,45.5,32.0,False,1.7,85.451,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,34.0,2.0,HARD,20.0,False,1,True,16.0,32.7,45.5,31.0,False,1.5,85.487,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,35.0,2.0,HARD,21.0,False,1,True,16.0,32.6,45.4,32.0,False,1.3,85.52,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,36.0,2.0,HARD,22.0,False,1,True,16.0,32.5,45.2,32.0,False,1.1,86.606,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,37.0,2.0,HARD,23.0,False,1,True,15.0,32.5,45.2,31.0,False,1.5,85.205,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,38.0,2.0,HARD,24.0,False,1,True,15.0,32.5,44.9,31.0,False,1.7,86.652,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,39.0,2.0,HARD,25.0,False,1,True,15.0,32.5,44.9,32.0,False,1.2,85.584,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,40.0,2.0,HARD,26.0,False,1,True,15.0,32.5,44.7,32.0,False,1.6,85.82,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,41.0,2.0,HARD,27.0,False,1,True,16.0,32.4,44.5,32.0,False,1.3,86.437,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,42.0,2.0,HARD,28.0,False,1,True,17.0,32.5,45.0,32.0,False,1.6,87.64,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,43.0,2.0,HARD,29.0,False,1,True,17.0,32.4,44.9,32.0,False,1.5,86.916,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,44.0,2.0,HARD,30.0,False,1,True,17.0,32.4,44.6,32.0,False,1.5,86.918,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,45.0,2.0,HARD,31.0,False,1,True,17.0,32.3,44.6,32.0,False,1.3,85.632,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,46.0,2.0,HARD,32.0,False,1,True,17.0,32.4,44.4,32.0,False,1.3,85.857,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,47.0,2.0,HARD,33.0,False,1,True,18.0,32.3,44.2,32.0,False,1.8,87.442,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,48.0,2.0,HARD,34.0,False,1,True,18.0,32.3,44.2,33.0,False,1.1,85.84,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,49.0,2.0,HARD,35.0,False,1,True,19.0,32.3,44.1,32.0,False,1.6,86.298,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,50.0,2.0,HARD,36.0,False,1,True,19.0,32.3,44.1,33.0,False,1.2,85.539,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,51.0,2.0,HARD,37.0,False,1,True,18.0,32.2,43.9,33.0,False,1.4,85.946,False,53,2024,16,Italian Grand Prix,2024_16
+ZHO,Kick Sauber,52.0,2.0,HARD,38.0,False,1,True,18.0,32.2,43.8,32.0,False,1.8,87.28,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,1.0,1.0,HARD,2.0,False,1,False,17.0,33.8,51.3,32.0,False,1.9,95.81,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,2.0,1.0,HARD,3.0,False,1,True,18.0,33.8,50.4,30.0,False,0.7,88.342,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,3.0,1.0,HARD,4.0,False,1,True,18.0,33.7,50.6,30.0,False,2.3,86.734,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,4.0,1.0,HARD,5.0,False,1,True,18.0,33.7,50.6,31.0,False,1.9,86.253,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,5.0,1.0,HARD,6.0,False,1,True,16.0,33.7,50.6,31.0,False,1.8,87.234,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,6.0,1.0,HARD,7.0,False,1,True,16.0,33.5,50.2,31.0,False,2.0,85.558,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,7.0,1.0,HARD,8.0,False,1,True,15.0,33.4,49.5,32.0,False,0.6,86.208,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,8.0,1.0,HARD,9.0,False,1,True,15.0,33.3,49.5,32.0,False,1.0,85.799,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,9.0,1.0,HARD,10.0,False,1,True,15.0,33.3,48.7,31.0,False,1.2,86.024,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,10.0,1.0,HARD,11.0,False,1,True,14.0,33.3,48.6,31.0,False,1.8,86.182,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,11.0,1.0,HARD,12.0,False,1,True,13.0,33.2,48.4,31.0,False,1.5,85.675,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,12.0,1.0,HARD,13.0,False,1,True,12.0,33.1,47.6,32.0,False,1.0,85.947,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,13.0,1.0,HARD,14.0,False,1,True,11.0,33.0,47.6,31.0,False,1.3,86.143,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,14.0,1.0,HARD,15.0,False,1,True,10.0,32.9,48.0,31.0,False,2.3,85.895,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,15.0,1.0,HARD,16.0,False,1,True,10.0,32.9,47.9,31.0,False,1.9,86.986,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,16.0,1.0,HARD,17.0,False,1,True,9.0,32.8,47.8,30.0,False,1.9,86.593,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,17.0,1.0,HARD,18.0,False,1,True,9.0,32.9,47.5,31.0,False,1.4,86.584,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,18.0,1.0,HARD,19.0,False,1,True,9.0,32.8,47.0,31.0,False,1.3,87.524,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,19.0,1.0,HARD,20.0,False,1,False,10.0,32.8,46.8,31.0,False,1.1,91.321,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,20.0,2.0,HARD,3.0,False,1,False,17.0,32.8,46.5,31.0,False,2.2,105.665,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,21.0,2.0,HARD,4.0,False,1,True,17.0,32.8,46.3,32.0,False,1.8,84.721,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,22.0,2.0,HARD,5.0,False,1,True,17.0,32.7,46.1,31.0,False,1.5,84.721,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,23.0,2.0,HARD,6.0,False,1,True,17.0,32.6,45.9,31.0,False,1.2,84.659,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,24.0,2.0,HARD,7.0,False,1,True,17.0,32.6,45.8,32.0,False,1.8,84.768,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,25.0,2.0,HARD,8.0,False,1,True,17.0,32.6,45.8,31.0,False,1.7,84.743,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,26.0,2.0,HARD,9.0,False,1,True,17.0,32.7,45.5,31.0,False,2.2,84.491,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,27.0,2.0,HARD,10.0,False,1,True,17.0,32.5,45.3,31.0,False,1.8,84.437,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,28.0,2.0,HARD,11.0,False,1,True,17.0,32.5,45.3,31.0,False,1.5,84.618,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,29.0,2.0,HARD,12.0,False,1,True,17.0,32.5,46.1,32.0,False,1.9,85.397,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,30.0,2.0,HARD,13.0,False,1,True,16.0,32.5,46.1,32.0,False,2.1,86.377,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,31.0,2.0,HARD,14.0,False,1,True,16.0,32.4,45.9,32.0,False,1.3,84.749,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,32.0,2.0,HARD,15.0,False,1,True,14.0,32.5,45.7,32.0,False,1.4,85.576,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,33.0,2.0,HARD,16.0,False,1,True,14.0,32.7,45.7,32.0,False,1.3,84.947,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,34.0,2.0,HARD,17.0,False,1,True,14.0,32.7,45.5,31.0,False,1.5,84.856,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,35.0,2.0,HARD,18.0,False,1,True,14.0,32.6,45.4,32.0,False,1.3,84.863,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,36.0,2.0,HARD,19.0,False,1,False,13.0,32.5,45.2,32.0,False,1.1,89.334,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,37.0,3.0,MEDIUM,2.0,False,1,False,17.0,32.5,45.2,31.0,False,1.5,103.775,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,38.0,3.0,MEDIUM,3.0,False,1,True,16.0,32.5,44.9,31.0,False,1.7,83.617,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,39.0,3.0,MEDIUM,4.0,False,1,True,16.0,32.5,44.9,32.0,False,1.2,84.43,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,40.0,3.0,MEDIUM,5.0,False,1,True,16.0,32.5,44.7,32.0,False,1.6,85.777,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,41.0,3.0,MEDIUM,6.0,False,1,True,15.0,32.4,44.5,32.0,False,1.3,83.702,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,42.0,3.0,MEDIUM,7.0,False,1,True,15.0,32.5,45.0,32.0,False,1.6,83.823,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,43.0,3.0,MEDIUM,8.0,False,1,True,15.0,32.4,44.9,32.0,False,1.5,83.81,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,44.0,3.0,MEDIUM,9.0,False,1,True,15.0,32.4,44.6,32.0,False,1.5,83.654,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,45.0,3.0,MEDIUM,10.0,False,1,True,15.0,32.3,44.6,32.0,False,1.3,83.427,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,46.0,3.0,MEDIUM,11.0,False,1,True,15.0,32.4,44.4,32.0,False,1.3,83.906,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,47.0,3.0,MEDIUM,12.0,False,1,True,15.0,32.4,44.2,32.0,False,1.6,84.014,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,48.0,3.0,MEDIUM,13.0,False,1,True,15.0,32.3,44.2,33.0,False,1.1,86.104,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,49.0,3.0,MEDIUM,14.0,False,1,True,15.0,32.3,44.1,32.0,False,1.6,85.064,False,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,50.0,3.0,MEDIUM,15.0,False,1,False,15.0,32.3,44.1,33.0,False,1.2,90.186,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,51.0,4.0,SOFT,1.0,True,1,False,19.0,32.2,43.9,33.0,False,1.4,110.98,True,53,2024,16,Italian Grand Prix,2024_16
+STR,Aston Martin,52.0,4.0,SOFT,2.0,True,1,True,19.0,32.2,43.8,32.0,False,1.8,82.232,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,1.0,1.0,HARD,2.0,False,1,False,14.0,33.8,51.3,32.0,False,1.9,95.235,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,2.0,1.0,HARD,3.0,False,1,True,15.0,33.9,50.5,31.0,False,1.4,87.538,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,3.0,1.0,HARD,4.0,False,1,True,15.0,33.7,50.6,30.0,False,2.3,86.665,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,4.0,1.0,HARD,5.0,False,1,True,15.0,33.7,50.6,31.0,False,1.9,86.198,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,5.0,1.0,HARD,6.0,False,1,True,19.0,33.7,50.6,31.0,False,1.8,92.241,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,6.0,1.0,HARD,7.0,False,1,True,19.0,33.5,50.2,31.0,False,2.0,88.473,False,53,2024,16,Italian Grand Prix,2024_16
+TSU,RB,7.0,1.0,HARD,8.0,False,1,False,19.0,33.4,49.5,32.0,False,0.6,100.319,True,53,2024,16,Italian Grand Prix,2024_16

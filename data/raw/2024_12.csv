@@ -1,0 +1,961 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,16.2,33.0,63.0,False,1.6,96.034,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,16.2,33.0,61.0,False,1.8,91.42,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,16.3,24.3,61.0,False,1.9,91.716,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,16.3,24.1,61.0,False,2.5,91.988,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,16.3,24.2,60.0,False,2.4,91.677,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,16.2,24.3,61.0,False,2.1,91.746,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,16.4,25.8,60.0,False,2.4,91.675,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,16.4,26.0,60.0,False,1.6,91.76,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,16.6,26.0,62.0,False,0.9,91.564,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,16.8,25.7,61.0,False,1.5,91.515,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,16.8,25.4,60.0,False,2.0,91.487,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,16.7,25.2,61.0,False,2.1,91.563,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,16.7,24.9,60.0,False,1.8,91.881,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,16.5,24.6,60.0,False,1.2,91.609,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,16.5,24.6,59.0,False,1.9,91.563,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,16.5,24.3,60.0,False,1.4,91.931,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,16.4,24.3,62.0,False,1.6,93.721,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,16.6,23.9,60.0,True,1.6,95.071,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,16.4,23.2,63.0,True,1.5,103.711,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,16.1,22.5,67.0,True,0.7,100.021,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,3.0,15.6,22.1,69.0,True,1.6,92.156,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,15.4,22.1,68.0,True,0.9,91.095,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,15.2,22.0,69.0,True,1.2,91.107,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,15.1,21.9,68.0,True,0.8,91.635,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,15.1,22.0,69.0,True,0.8,94.988,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,True,3.0,15.1,22.0,67.0,True,1.0,100.792,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,27.0,1.0,MEDIUM,27.0,True,1,False,2.0,15.1,21.4,68.0,True,0.7,105.183,True,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,28.0,2.0,INTERMEDIATE,1.0,True,1,False,3.0,15.0,21.1,70.0,True,1.0,120.866,True,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,29.0,2.0,INTERMEDIATE,2.0,True,1,True,2.0,14.9,20.9,71.0,True,1.1,100.42,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,30.0,2.0,INTERMEDIATE,3.0,True,1,True,2.0,14.9,20.7,72.0,True,1.0,100.467,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,31.0,2.0,INTERMEDIATE,4.0,True,1,True,2.0,14.8,20.7,73.0,True,1.7,101.538,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,32.0,2.0,INTERMEDIATE,5.0,True,1,True,2.0,14.6,20.7,73.0,True,1.7,102.475,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,33.0,2.0,INTERMEDIATE,6.0,True,1,True,2.0,14.5,20.7,74.0,True,1.4,102.435,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,34.0,2.0,INTERMEDIATE,7.0,True,1,True,2.0,14.6,21.0,75.0,True,0.5,102.757,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,35.0,2.0,INTERMEDIATE,8.0,True,1,True,2.0,14.6,21.3,76.0,True,1.5,102.271,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,36.0,2.0,INTERMEDIATE,9.0,True,1,True,2.0,14.6,21.2,75.0,True,1.7,101.924,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,37.0,2.0,INTERMEDIATE,10.0,True,1,True,2.0,14.5,21.4,76.0,True,1.2,99.711,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,38.0,2.0,INTERMEDIATE,11.0,True,1,False,2.0,14.6,23.8,77.0,True,1.8,97.22,True,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,39.0,3.0,SOFT,2.0,False,1,False,3.0,14.6,24.6,78.0,False,1.4,117.389,True,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,40.0,3.0,SOFT,3.0,False,1,True,1.0,15.1,24.4,74.0,False,0.8,90.318,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,41.0,3.0,SOFT,4.0,False,1,True,1.0,15.2,24.2,73.0,False,2.2,90.118,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,42.0,3.0,SOFT,5.0,False,1,True,1.0,15.3,24.7,75.0,False,0.8,89.617,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,43.0,3.0,SOFT,6.0,False,1,True,1.0,15.2,25.0,75.0,False,1.4,89.793,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,44.0,3.0,SOFT,7.0,False,1,True,1.0,15.4,24.5,72.0,True,2.0,89.697,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,45.0,3.0,SOFT,8.0,False,1,True,1.0,15.4,24.5,73.0,True,2.0,89.438,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,46.0,3.0,SOFT,9.0,False,1,True,1.0,15.5,25.0,71.0,False,2.0,89.641,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,47.0,3.0,SOFT,10.0,False,1,True,1.0,15.6,24.9,69.0,False,0.9,89.538,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,48.0,3.0,SOFT,11.0,False,1,True,1.0,15.7,25.2,71.0,False,1.2,89.579,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,49.0,3.0,SOFT,12.0,False,1,True,1.0,15.7,25.2,72.0,False,1.5,89.667,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,50.0,3.0,SOFT,13.0,False,1,True,1.0,15.8,25.4,69.0,False,1.7,89.682,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,51.0,3.0,SOFT,14.0,False,1,True,1.0,15.9,25.5,69.0,False,1.4,89.743,False,52,2024,12,British Grand Prix,2024_12
+HAM,Mercedes,52.0,3.0,SOFT,15.0,False,1,True,1.0,15.8,25.2,69.0,False,0.7,90.146,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,16.2,33.0,63.0,False,1.6,96.711,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,16.2,33.0,61.0,False,1.8,91.773,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,16.3,24.3,61.0,False,1.9,92.2,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,16.3,24.1,61.0,False,2.5,91.933,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,16.3,24.2,60.0,False,2.4,91.778,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,16.2,24.3,61.0,False,2.1,91.711,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,16.4,25.8,60.0,False,2.4,91.935,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,16.4,26.0,60.0,False,1.6,92.038,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,16.6,26.0,62.0,False,0.9,91.883,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,16.8,25.6,62.0,False,1.7,91.661,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,16.8,25.4,60.0,False,2.0,91.81,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,16.7,25.2,61.0,False,2.1,91.894,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,16.7,24.9,60.0,False,1.8,91.759,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,16.5,24.6,60.0,False,1.2,91.7,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,16.5,24.6,59.0,False,1.9,92.249,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,16.5,24.3,60.0,False,1.4,92.504,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,16.4,24.3,62.0,False,1.6,95.359,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,16.6,23.9,60.0,True,1.6,96.172,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,16.4,23.2,63.0,True,1.5,102.485,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,16.1,22.5,67.0,True,0.7,97.108,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,15.6,22.1,69.0,True,1.6,93.488,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,15.4,22.1,68.0,True,0.9,91.904,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,5.0,15.2,22.0,69.0,True,1.2,92.143,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,5.0,15.1,21.9,68.0,True,0.8,93.02,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,5.0,15.1,22.0,69.0,True,0.8,96.063,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,False,5.0,15.1,21.5,68.0,True,0.9,101.491,True,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,27.0,2.0,INTERMEDIATE,1.0,True,1,False,5.0,15.1,21.4,68.0,True,0.7,119.169,True,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,28.0,2.0,INTERMEDIATE,2.0,True,1,True,4.0,15.0,21.1,70.0,True,1.0,101.176,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,29.0,2.0,INTERMEDIATE,3.0,True,1,True,3.0,14.9,20.9,71.0,True,1.1,101.533,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,30.0,2.0,INTERMEDIATE,4.0,True,1,True,3.0,14.9,20.7,72.0,True,1.0,102.098,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,31.0,2.0,INTERMEDIATE,5.0,True,1,True,3.0,14.8,20.7,73.0,True,1.7,102.025,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,32.0,2.0,INTERMEDIATE,6.0,True,1,True,3.0,14.6,20.7,73.0,True,1.7,102.538,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,33.0,2.0,INTERMEDIATE,7.0,True,1,True,3.0,14.5,20.7,74.0,True,1.4,102.606,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,34.0,2.0,INTERMEDIATE,8.0,True,1,True,3.0,14.6,21.0,75.0,True,0.5,102.447,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,35.0,2.0,INTERMEDIATE,9.0,True,1,True,3.0,14.6,21.3,76.0,True,1.5,103.029,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,36.0,2.0,INTERMEDIATE,10.0,True,1,True,3.0,14.6,21.2,75.0,True,1.7,101.958,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,37.0,2.0,INTERMEDIATE,11.0,True,1,True,3.0,14.6,22.5,78.0,True,1.3,98.869,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,38.0,2.0,INTERMEDIATE,12.0,True,1,False,3.0,14.6,23.8,77.0,True,1.8,95.963,True,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,39.0,3.0,HARD,1.0,True,1,False,4.0,14.6,24.6,78.0,False,1.4,118.311,True,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,40.0,3.0,HARD,2.0,True,1,True,3.0,15.1,24.4,74.0,False,0.8,90.056,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,41.0,3.0,HARD,3.0,True,1,True,3.0,15.2,24.2,73.0,False,2.2,89.604,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,42.0,3.0,HARD,4.0,True,1,True,3.0,15.3,24.7,75.0,False,0.8,89.472,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,43.0,3.0,HARD,5.0,True,1,True,3.0,15.2,25.0,75.0,False,1.4,89.105,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,44.0,3.0,HARD,6.0,True,1,True,3.0,15.4,24.5,72.0,True,2.0,89.372,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,45.0,3.0,HARD,7.0,True,1,True,3.0,15.4,24.5,73.0,True,2.0,89.137,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,46.0,3.0,HARD,8.0,True,1,True,3.0,15.5,25.0,71.0,False,2.0,89.543,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,47.0,3.0,HARD,9.0,True,1,True,3.0,15.6,24.9,69.0,False,0.9,89.411,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,48.0,3.0,HARD,10.0,True,1,True,2.0,15.7,25.2,71.0,False,1.2,88.952,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,49.0,3.0,HARD,11.0,True,1,True,2.0,15.7,25.2,72.0,False,1.5,89.56,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,50.0,3.0,HARD,12.0,True,1,True,2.0,15.8,25.4,69.0,False,1.7,89.286,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,51.0,3.0,HARD,13.0,True,1,True,2.0,15.9,25.5,69.0,False,1.4,89.443,False,52,2024,12,British Grand Prix,2024_12
+VER,Red Bull Racing,52.0,3.0,HARD,14.0,True,1,True,2.0,15.8,25.2,69.0,False,0.7,89.089,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,16.2,33.0,63.0,False,1.6,97.347,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,16.2,33.0,61.0,False,1.8,92.188,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,16.3,24.3,61.0,False,1.9,91.991,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,16.3,24.1,61.0,False,2.5,91.976,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,16.3,24.2,60.0,False,2.4,91.716,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,16.2,24.3,61.0,False,2.1,91.896,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,16.4,25.8,60.0,False,2.4,92.071,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,16.4,26.0,60.0,False,1.6,92.018,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,16.6,26.0,62.0,False,0.9,91.976,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,16.8,25.6,62.0,False,1.7,91.83,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,16.8,25.4,60.0,False,2.0,91.748,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,16.7,25.2,61.0,False,2.1,91.718,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,16.7,24.9,60.0,False,1.8,91.472,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,16.5,24.6,60.0,False,1.2,91.407,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,16.5,24.6,59.0,False,1.9,90.946,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,16.5,24.3,60.0,False,1.4,91.69,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,16.4,24.3,62.0,False,1.6,94.304,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,16.6,23.9,60.0,True,1.6,94.125,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,16.4,23.2,63.0,True,1.5,101.436,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,16.1,22.5,67.0,True,0.7,97.704,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,15.6,22.1,69.0,True,1.6,91.513,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,15.4,22.1,68.0,True,0.9,90.86,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,15.2,22.0,69.0,True,1.2,91.176,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,15.1,21.9,68.0,True,0.8,91.629,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,15.1,22.0,69.0,True,0.8,94.307,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,15.1,22.0,67.0,True,1.0,101.515,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,False,1.0,15.1,21.4,68.0,True,0.7,104.806,True,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,28.0,2.0,INTERMEDIATE,1.0,True,1,False,2.0,15.0,21.1,70.0,True,1.0,120.915,True,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,29.0,2.0,INTERMEDIATE,2.0,True,1,True,1.0,14.9,20.9,71.0,True,1.1,100.266,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,30.0,2.0,INTERMEDIATE,3.0,True,1,True,1.0,14.9,20.7,70.0,True,0.9,100.717,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,31.0,2.0,INTERMEDIATE,4.0,True,1,True,1.0,14.8,20.7,73.0,True,1.7,101.313,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,32.0,2.0,INTERMEDIATE,5.0,True,1,True,1.0,14.6,20.7,73.0,True,1.7,102.216,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,33.0,2.0,INTERMEDIATE,6.0,True,1,True,1.0,14.5,20.7,74.0,True,1.4,102.607,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,34.0,2.0,INTERMEDIATE,7.0,True,1,True,1.0,14.6,21.0,75.0,True,0.5,103.078,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,35.0,2.0,INTERMEDIATE,8.0,True,1,True,1.0,14.6,21.3,76.0,True,1.5,102.935,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,36.0,2.0,INTERMEDIATE,9.0,True,1,True,1.0,14.6,21.2,75.0,True,1.7,102.34,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,37.0,2.0,INTERMEDIATE,10.0,True,1,True,1.0,14.5,21.4,76.0,True,1.2,99.786,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,38.0,2.0,INTERMEDIATE,11.0,True,1,True,1.0,14.6,23.8,77.0,True,1.8,97.999,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,39.0,2.0,INTERMEDIATE,12.0,True,1,False,1.0,14.6,24.6,78.0,False,1.4,96.746,True,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,40.0,3.0,SOFT,3.0,False,1,False,2.0,14.8,24.6,75.0,False,1.2,114.84,True,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,41.0,3.0,SOFT,4.0,False,1,True,2.0,15.2,24.2,73.0,False,2.2,89.733,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,42.0,3.0,SOFT,5.0,False,1,True,2.0,15.3,24.7,75.0,False,0.8,90.006,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,43.0,3.0,SOFT,6.0,False,1,True,2.0,15.2,25.0,75.0,False,1.4,89.262,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,44.0,3.0,SOFT,7.0,False,1,True,2.0,15.4,24.5,72.0,True,2.0,89.752,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,45.0,3.0,SOFT,8.0,False,1,True,2.0,15.4,24.5,73.0,True,2.0,89.635,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,46.0,3.0,SOFT,9.0,False,1,True,2.0,15.5,25.0,71.0,False,2.0,89.96,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,47.0,3.0,SOFT,10.0,False,1,True,2.0,15.6,24.9,69.0,False,0.9,89.838,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,48.0,3.0,SOFT,11.0,False,1,True,3.0,15.7,25.2,71.0,False,1.2,90.556,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,49.0,3.0,SOFT,12.0,False,1,True,3.0,15.7,25.2,72.0,False,1.5,90.515,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,50.0,3.0,SOFT,13.0,False,1,True,3.0,15.8,25.4,69.0,False,1.7,90.544,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,51.0,3.0,SOFT,14.0,False,1,True,3.0,15.9,25.5,69.0,False,1.4,90.769,False,52,2024,12,British Grand Prix,2024_12
+NOR,McLaren,52.0,3.0,SOFT,15.0,False,1,True,3.0,15.8,25.2,69.0,False,0.7,90.913,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,16.2,33.0,63.0,False,1.6,98.008,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,16.2,33.0,61.0,False,1.8,92.361,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,16.3,24.3,61.0,False,1.9,91.927,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,16.3,24.1,61.0,False,2.5,91.919,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,16.3,24.2,60.0,False,2.4,91.832,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,16.2,24.3,61.0,False,2.1,92.062,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,16.4,25.8,60.0,False,2.4,91.925,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,16.5,26.1,61.0,False,2.0,91.994,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,16.6,26.0,62.0,False,0.9,92.0,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,16.8,25.6,62.0,False,1.7,91.811,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,16.8,25.4,60.0,False,2.0,91.855,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,16.7,25.2,61.0,False,2.1,91.663,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,16.7,24.9,60.0,False,1.8,91.896,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,16.5,24.6,60.0,False,1.2,91.697,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,16.5,24.6,59.0,False,1.9,91.514,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,16.5,24.3,60.0,False,1.4,92.118,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,16.4,24.3,62.0,False,1.6,93.988,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,16.6,23.9,60.0,True,1.6,94.269,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,16.4,23.2,63.0,True,1.5,100.728,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,16.1,22.5,67.0,True,0.7,97.348,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,15.6,22.1,69.0,True,1.6,91.819,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,15.4,22.1,68.0,True,0.9,91.169,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,15.2,22.0,69.0,True,1.2,90.976,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,15.1,21.9,68.0,True,0.8,91.392,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,2.0,15.1,22.0,69.0,True,0.8,94.271,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,15.1,22.0,67.0,True,1.0,100.622,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,3.0,15.1,21.4,68.0,True,0.7,109.747,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,28.0,1.0,MEDIUM,28.0,True,1,False,1.0,15.0,21.1,70.0,True,1.0,112.976,True,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,29.0,2.0,INTERMEDIATE,1.0,True,1,False,6.0,14.9,20.9,71.0,True,1.1,121.184,True,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,30.0,2.0,INTERMEDIATE,2.0,True,1,True,6.0,14.9,20.7,72.0,True,1.0,100.492,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,31.0,2.0,INTERMEDIATE,3.0,True,1,True,6.0,14.8,20.7,73.0,True,1.7,102.161,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,32.0,2.0,INTERMEDIATE,4.0,True,1,True,6.0,14.6,20.7,73.0,True,1.7,103.137,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,33.0,2.0,INTERMEDIATE,5.0,True,1,True,6.0,14.5,20.7,74.0,True,1.4,103.325,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,34.0,2.0,INTERMEDIATE,6.0,True,1,True,5.0,14.6,21.2,76.0,True,1.6,103.954,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,35.0,2.0,INTERMEDIATE,7.0,True,1,True,5.0,14.6,21.3,76.0,True,1.5,103.309,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,36.0,2.0,INTERMEDIATE,8.0,True,1,True,5.0,14.6,21.2,75.0,True,1.7,102.52,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,37.0,2.0,INTERMEDIATE,9.0,True,1,True,5.0,14.6,22.5,78.0,True,1.3,99.635,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,38.0,2.0,INTERMEDIATE,10.0,True,1,False,4.0,14.6,23.8,77.0,True,1.8,97.106,True,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,39.0,3.0,MEDIUM,1.0,True,1,False,5.0,14.6,24.6,78.0,False,1.4,114.658,True,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,40.0,3.0,MEDIUM,2.0,True,1,True,4.0,15.1,24.4,74.0,False,0.8,89.913,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,41.0,3.0,MEDIUM,3.0,True,1,True,4.0,15.2,24.2,73.0,False,2.2,89.574,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,42.0,3.0,MEDIUM,4.0,True,1,True,4.0,15.3,24.7,75.0,False,0.8,89.581,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,43.0,3.0,MEDIUM,5.0,True,1,True,4.0,15.2,25.0,75.0,False,1.4,89.286,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,44.0,3.0,MEDIUM,6.0,True,1,True,4.0,15.4,24.5,72.0,True,2.0,89.221,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,45.0,3.0,MEDIUM,7.0,True,1,True,4.0,15.4,24.5,73.0,True,2.0,89.222,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,46.0,3.0,MEDIUM,8.0,True,1,True,4.0,15.5,25.0,71.0,False,2.0,89.233,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,47.0,3.0,MEDIUM,9.0,True,1,True,4.0,15.6,24.9,69.0,False,0.9,89.049,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,48.0,3.0,MEDIUM,10.0,True,1,True,4.0,15.7,25.2,71.0,False,1.2,89.124,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,49.0,3.0,MEDIUM,11.0,True,1,True,4.0,15.7,25.2,72.0,False,1.5,89.283,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,50.0,3.0,MEDIUM,12.0,True,1,True,4.0,15.8,25.4,69.0,False,1.7,89.958,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,51.0,3.0,MEDIUM,13.0,True,1,True,4.0,15.9,25.5,69.0,False,1.4,88.748,False,52,2024,12,British Grand Prix,2024_12
+PIA,McLaren,52.0,3.0,MEDIUM,14.0,True,1,True,4.0,15.8,25.2,69.0,False,0.7,89.928,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,16.2,33.0,63.0,False,1.6,98.699,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,16.2,33.0,61.0,False,1.8,92.359,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,16.3,24.3,61.0,False,1.9,92.102,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,16.3,24.1,61.0,False,2.5,92.045,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,16.3,24.2,60.0,False,2.4,91.939,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,16.2,24.3,61.0,False,2.1,91.9,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,16.4,25.8,60.0,False,2.4,92.702,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,16.5,26.1,61.0,False,2.0,92.372,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,16.6,26.0,62.0,False,0.9,92.484,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,16.8,25.6,62.0,False,1.7,92.362,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,16.8,25.4,60.0,False,2.0,92.123,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,16.7,25.2,61.0,False,2.1,92.358,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,16.7,24.9,60.0,False,1.8,92.251,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,16.5,24.6,60.0,False,1.2,92.106,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,16.5,24.6,59.0,False,1.9,91.916,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,16.5,24.3,60.0,False,1.4,92.455,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,16.4,24.3,62.0,False,1.6,94.228,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,16.6,23.9,60.0,True,1.6,94.31,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,16.2,22.9,64.0,True,1.5,100.51,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,16.1,22.5,67.0,True,0.7,96.538,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,15.6,22.1,69.0,True,1.6,93.507,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,6.0,15.4,22.1,68.0,True,0.9,92.157,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,6.0,15.2,22.0,69.0,True,1.2,92.297,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,6.0,15.1,21.9,68.0,True,0.8,92.734,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,6.0,15.1,22.0,69.0,True,0.8,95.143,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,False,6.0,15.1,21.5,68.0,True,0.9,102.481,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,27.0,2.0,INTERMEDIATE,1.0,True,1,False,6.0,15.1,21.4,68.0,True,0.7,121.664,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,28.0,2.0,INTERMEDIATE,2.0,True,1,True,6.0,15.0,21.1,70.0,True,1.0,102.641,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,29.0,2.0,INTERMEDIATE,3.0,True,1,True,5.0,14.9,20.9,71.0,True,1.1,102.447,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,30.0,2.0,INTERMEDIATE,4.0,True,1,True,5.0,14.9,20.7,72.0,True,1.0,102.737,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,31.0,2.0,INTERMEDIATE,5.0,True,1,True,5.0,14.8,20.7,73.0,True,1.7,103.007,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,32.0,2.0,INTERMEDIATE,6.0,True,1,True,5.0,14.6,20.7,73.0,True,1.7,103.298,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,33.0,2.0,INTERMEDIATE,7.0,True,1,True,5.0,14.5,20.7,74.0,True,1.4,103.201,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,34.0,2.0,INTERMEDIATE,8.0,True,1,True,4.0,14.6,21.2,76.0,True,1.6,102.794,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,35.0,2.0,INTERMEDIATE,9.0,True,1,True,4.0,14.6,21.3,76.0,True,1.5,103.59,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,36.0,2.0,INTERMEDIATE,10.0,True,1,True,4.0,14.6,21.2,75.0,True,1.7,102.748,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,37.0,2.0,INTERMEDIATE,11.0,True,1,True,4.0,14.6,22.5,78.0,True,1.3,100.432,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,38.0,2.0,INTERMEDIATE,12.0,True,1,True,5.0,14.6,23.8,77.0,True,1.8,98.37,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,39.0,2.0,INTERMEDIATE,13.0,True,1,False,2.0,14.6,24.6,78.0,False,1.4,96.802,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,40.0,3.0,HARD,1.0,True,1,False,5.0,15.1,24.4,74.0,False,0.8,116.753,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,41.0,3.0,HARD,2.0,True,1,True,5.0,15.3,24.2,76.0,False,1.1,90.475,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,42.0,3.0,HARD,3.0,True,1,True,5.0,15.3,24.7,75.0,False,0.8,89.872,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,43.0,3.0,HARD,4.0,True,1,True,5.0,15.3,24.9,75.0,False,1.6,89.872,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,44.0,3.0,HARD,5.0,True,1,True,5.0,15.4,24.5,72.0,True,2.0,89.739,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,45.0,3.0,HARD,6.0,True,1,True,5.0,15.5,25.0,73.0,False,2.0,89.589,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,46.0,3.0,HARD,7.0,True,1,True,5.0,15.5,25.0,71.0,False,2.0,89.588,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,47.0,3.0,HARD,8.0,True,1,True,5.0,15.6,24.9,71.0,False,1.1,89.553,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,48.0,3.0,HARD,9.0,True,1,True,5.0,15.7,25.2,71.0,False,1.2,89.415,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,49.0,3.0,HARD,10.0,True,1,True,5.0,15.8,25.2,69.0,False,1.8,89.439,False,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,50.0,3.0,HARD,11.0,True,1,False,5.0,15.8,25.4,69.0,False,1.7,89.434,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,51.0,4.0,SOFT,4.0,False,1,False,5.0,15.9,25.3,68.0,False,1.2,112.546,True,52,2024,12,British Grand Prix,2024_12
+SAI,Ferrari,52.0,4.0,SOFT,5.0,False,1,True,5.0,15.8,25.2,69.0,False,0.7,88.293,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,16.2,33.0,63.0,False,1.6,100.166,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,16.2,33.0,61.0,False,1.8,92.844,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,16.3,24.3,61.0,False,1.9,92.605,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,16.3,24.1,61.0,False,2.5,92.563,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,16.3,24.2,60.0,False,2.4,92.768,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,16.3,25.4,61.0,False,2.1,92.697,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,16.4,25.8,60.0,False,2.4,92.733,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,16.5,26.1,61.0,False,2.0,92.802,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,16.6,26.0,62.0,False,0.9,92.396,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,16.8,25.6,62.0,False,1.7,92.439,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,16.8,25.4,60.0,False,2.0,92.428,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,16.7,25.2,61.0,False,2.1,92.401,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,16.7,24.9,60.0,False,1.8,92.468,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,16.5,24.6,60.0,False,1.2,92.621,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,16.5,24.6,59.0,False,1.9,92.672,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,16.5,24.3,60.0,False,1.4,93.194,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,16.4,24.3,62.0,False,1.6,95.447,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,9.0,16.6,23.9,60.0,True,1.6,95.834,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,16.2,22.9,64.0,True,1.5,105.752,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,16.1,22.5,67.0,True,0.7,97.529,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,7.0,15.6,22.1,69.0,True,1.6,92.649,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,7.0,15.2,22.0,68.0,True,0.7,92.233,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,True,7.0,15.2,22.0,69.0,True,1.2,92.612,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,24.0,1.0,MEDIUM,24.0,True,1,True,7.0,15.1,22.0,68.0,True,0.8,93.352,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,25.0,1.0,MEDIUM,25.0,True,1,True,7.0,15.1,22.0,69.0,True,0.8,95.918,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,26.0,1.0,MEDIUM,26.0,True,1,False,7.0,15.1,21.5,68.0,True,0.9,101.853,True,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,27.0,2.0,INTERMEDIATE,1.0,True,1,False,12.0,15.1,21.2,68.0,True,0.6,122.727,True,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,28.0,2.0,INTERMEDIATE,2.0,True,1,True,7.0,15.0,21.0,69.0,True,0.9,101.897,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,29.0,2.0,INTERMEDIATE,3.0,True,1,True,7.0,14.9,20.9,71.0,True,1.1,102.641,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,30.0,2.0,INTERMEDIATE,4.0,True,1,True,7.0,14.9,20.7,72.0,True,1.0,102.811,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,31.0,2.0,INTERMEDIATE,5.0,True,1,True,7.0,14.7,20.7,73.0,True,1.4,103.274,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,32.0,2.0,INTERMEDIATE,6.0,True,1,True,7.0,14.6,20.7,73.0,True,1.7,104.134,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,33.0,2.0,INTERMEDIATE,7.0,True,1,True,7.0,14.5,20.7,74.0,True,1.4,103.685,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,34.0,2.0,INTERMEDIATE,8.0,True,1,True,6.0,14.6,21.2,76.0,True,1.6,104.263,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,35.0,2.0,INTERMEDIATE,9.0,True,1,True,6.0,14.5,21.2,75.0,True,1.4,104.042,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,36.0,2.0,INTERMEDIATE,10.0,True,1,True,6.0,14.6,21.2,75.0,True,1.7,103.044,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,37.0,2.0,INTERMEDIATE,11.0,True,1,True,6.0,14.6,22.5,78.0,True,1.3,100.657,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,38.0,2.0,INTERMEDIATE,12.0,True,1,True,6.0,14.6,24.2,76.0,True,1.9,98.854,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,39.0,2.0,INTERMEDIATE,13.0,True,1,False,6.0,14.6,24.6,78.0,False,1.4,97.245,True,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,40.0,3.0,SOFT,4.0,False,1,False,6.0,15.1,24.4,74.0,False,0.8,115.659,True,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,41.0,3.0,SOFT,5.0,False,1,True,6.0,15.3,24.2,76.0,False,1.1,91.097,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,42.0,3.0,SOFT,6.0,False,1,True,6.0,15.3,24.7,75.0,False,0.8,90.701,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,43.0,3.0,SOFT,7.0,False,1,True,6.0,15.3,24.9,75.0,False,1.6,89.836,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,44.0,3.0,SOFT,8.0,False,1,True,6.0,15.4,24.5,72.0,True,2.0,90.392,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,45.0,3.0,SOFT,9.0,False,1,True,6.0,15.5,25.0,73.0,False,2.0,90.048,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,46.0,3.0,SOFT,10.0,False,1,True,6.0,15.5,25.0,71.0,False,2.0,90.185,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,47.0,3.0,SOFT,11.0,False,1,True,6.0,15.6,24.9,71.0,False,1.1,89.864,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,48.0,3.0,SOFT,12.0,False,1,True,6.0,15.7,25.2,71.0,False,1.2,90.365,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,49.0,3.0,SOFT,13.0,False,1,True,6.0,15.8,25.2,69.0,False,1.8,90.371,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,50.0,3.0,SOFT,14.0,False,1,True,6.0,15.9,25.5,69.0,False,1.4,90.47,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,51.0,3.0,SOFT,15.0,False,1,True,6.0,15.9,25.3,68.0,False,1.2,90.696,False,52,2024,12,British Grand Prix,2024_12
+HUL,Haas F1 Team,52.0,3.0,SOFT,16.0,False,1,True,6.0,15.8,24.9,68.0,False,1.9,90.847,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,16.2,33.0,63.0,False,1.6,99.108,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,16.2,33.0,61.0,False,1.8,92.683,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,16.3,24.3,61.0,False,1.9,92.307,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,16.3,24.1,61.0,False,2.5,92.968,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,16.3,24.2,60.0,False,2.4,92.706,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,16.2,24.3,61.0,False,2.1,92.788,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,16.4,25.8,60.0,False,2.4,92.716,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,16.5,26.1,61.0,False,2.0,92.648,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,16.6,26.0,62.0,False,0.9,92.291,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,16.8,25.6,62.0,False,1.7,92.619,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,16.8,25.4,60.0,False,2.0,92.273,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,16.7,25.2,61.0,False,2.1,92.362,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,16.7,24.9,60.0,False,1.8,93.092,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,16.5,24.6,60.0,False,1.2,92.641,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,16.5,24.6,59.0,False,1.9,92.649,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,16.5,24.3,60.0,False,1.4,93.091,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,16.4,24.3,62.0,False,1.6,95.713,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,16.6,23.9,60.0,True,1.6,95.789,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,9.0,16.2,22.9,64.0,True,1.5,107.568,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,True,9.0,16.1,22.5,67.0,True,0.7,97.491,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,21.0,1.0,MEDIUM,21.0,True,1,True,9.0,15.6,22.1,69.0,True,1.6,93.291,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,22.0,1.0,MEDIUM,22.0,True,1,True,9.0,15.2,22.0,68.0,True,0.7,92.495,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,23.0,1.0,MEDIUM,23.0,True,1,True,9.0,15.2,22.0,69.0,True,1.2,93.062,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,24.0,1.0,MEDIUM,24.0,True,1,True,9.0,15.1,22.0,68.0,True,0.8,94.585,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,25.0,1.0,MEDIUM,25.0,True,1,True,9.0,15.1,22.0,69.0,True,0.8,95.351,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,26.0,1.0,MEDIUM,26.0,True,1,False,8.0,15.1,21.5,68.0,True,0.9,100.784,True,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,27.0,2.0,INTERMEDIATE,1.0,True,1,False,13.0,15.1,21.2,68.0,True,0.6,121.611,True,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,28.0,2.0,INTERMEDIATE,2.0,True,1,True,8.0,15.0,21.0,69.0,True,0.9,102.187,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,29.0,2.0,INTERMEDIATE,3.0,True,1,True,8.0,14.9,20.9,71.0,True,1.1,102.992,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,30.0,2.0,INTERMEDIATE,4.0,True,1,True,8.0,14.9,20.7,72.0,True,1.0,103.066,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,31.0,2.0,INTERMEDIATE,5.0,True,1,True,8.0,14.7,20.7,73.0,True,1.4,103.714,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,32.0,2.0,INTERMEDIATE,6.0,True,1,True,8.0,14.6,20.7,73.0,True,1.7,104.545,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,33.0,2.0,INTERMEDIATE,7.0,True,1,True,8.0,14.5,20.7,74.0,True,1.4,104.213,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,34.0,2.0,INTERMEDIATE,8.0,True,1,True,7.0,14.6,21.2,76.0,True,1.6,104.171,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,35.0,2.0,INTERMEDIATE,9.0,True,1,True,7.0,14.5,21.2,75.0,True,1.4,104.422,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,36.0,2.0,INTERMEDIATE,10.0,True,1,True,7.0,14.6,21.2,75.0,True,1.7,103.0,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,37.0,2.0,INTERMEDIATE,11.0,True,1,True,7.0,14.6,22.5,78.0,True,1.3,100.825,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,38.0,2.0,INTERMEDIATE,12.0,True,1,True,7.0,14.6,24.2,76.0,True,1.9,99.373,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,39.0,2.0,INTERMEDIATE,13.0,True,1,False,7.0,14.6,24.6,78.0,False,1.4,97.759,True,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,40.0,3.0,MEDIUM,1.0,True,1,False,7.0,15.1,24.4,74.0,False,0.8,116.032,True,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,41.0,3.0,MEDIUM,2.0,True,1,True,7.0,15.3,24.2,76.0,False,1.1,90.098,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,42.0,3.0,MEDIUM,3.0,True,1,True,7.0,15.2,25.0,75.0,False,1.4,90.161,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,43.0,3.0,MEDIUM,4.0,True,1,True,7.0,15.3,24.9,75.0,False,1.6,90.196,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,44.0,3.0,MEDIUM,5.0,True,1,True,7.0,15.4,24.5,73.0,True,2.0,90.03,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,45.0,3.0,MEDIUM,6.0,True,1,True,7.0,15.5,25.0,73.0,False,2.0,90.025,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,46.0,3.0,MEDIUM,7.0,True,1,True,7.0,15.6,24.9,69.0,False,0.9,89.897,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,47.0,3.0,MEDIUM,8.0,True,1,True,7.0,15.6,24.9,71.0,False,1.1,89.925,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,48.0,3.0,MEDIUM,9.0,True,1,True,7.0,15.7,25.2,72.0,False,1.5,90.237,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,49.0,3.0,MEDIUM,10.0,True,1,True,7.0,15.8,25.2,69.0,False,1.8,89.969,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,50.0,3.0,MEDIUM,11.0,True,1,True,7.0,15.9,25.5,69.0,False,1.4,90.03,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,51.0,3.0,MEDIUM,12.0,True,1,True,7.0,15.9,25.3,68.0,False,1.2,90.026,False,52,2024,12,British Grand Prix,2024_12
+STR,Aston Martin,52.0,3.0,MEDIUM,13.0,True,1,True,7.0,15.8,24.9,68.0,False,1.9,90.053,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,16.2,33.0,63.0,False,1.6,100.474,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,16.2,33.0,61.0,False,1.8,93.202,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,16.3,24.3,61.0,False,1.9,92.951,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,16.3,24.1,61.0,False,2.5,93.192,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,16.3,24.2,60.0,False,2.4,92.617,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,16.3,25.4,61.0,False,2.1,92.673,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,16.4,25.8,60.0,False,2.4,92.712,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,16.5,26.1,61.0,False,2.0,92.496,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,16.6,26.0,62.0,False,0.9,92.579,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,16.8,25.6,62.0,False,1.7,92.741,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,16.8,25.4,60.0,False,2.0,92.548,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,16.7,25.2,61.0,False,2.1,92.427,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,16.7,24.9,60.0,False,1.8,92.517,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,16.5,24.6,60.0,False,1.2,92.383,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,16.5,24.6,59.0,False,1.9,92.259,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,16.5,24.3,60.0,False,1.4,92.59,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,16.5,24.3,61.0,False,1.5,95.014,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,10.0,16.6,23.9,60.0,True,1.6,95.88,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,16.2,22.9,64.0,True,1.5,107.27,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,True,8.0,16.1,22.5,67.0,True,0.7,96.48,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,15.6,22.1,69.0,True,1.6,92.999,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,15.2,22.0,68.0,True,0.7,92.673,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,23.0,1.0,MEDIUM,23.0,True,1,True,8.0,15.2,22.0,69.0,True,1.2,92.593,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,24.0,1.0,MEDIUM,24.0,True,1,True,8.0,15.1,22.0,68.0,True,0.8,94.088,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,25.0,1.0,MEDIUM,25.0,True,1,True,8.0,15.1,22.0,69.0,True,0.8,95.687,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,15.1,21.5,68.0,True,0.9,103.618,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,27.0,1.0,MEDIUM,27.0,True,1,False,7.0,15.1,21.2,68.0,True,0.6,108.513,True,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,28.0,2.0,INTERMEDIATE,1.0,True,1,False,9.0,15.0,21.1,70.0,True,1.0,124.427,True,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,29.0,2.0,INTERMEDIATE,2.0,True,1,True,9.0,14.9,20.9,71.0,True,1.1,103.072,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,30.0,2.0,INTERMEDIATE,3.0,True,1,True,9.0,14.9,20.7,72.0,True,1.0,102.577,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,31.0,2.0,INTERMEDIATE,4.0,True,1,True,9.0,14.7,20.7,73.0,True,1.4,102.796,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,32.0,2.0,INTERMEDIATE,5.0,True,1,True,9.0,14.5,20.7,73.0,True,1.6,103.69,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,33.0,2.0,INTERMEDIATE,6.0,True,1,True,9.0,14.5,20.7,74.0,True,1.4,104.262,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,34.0,2.0,INTERMEDIATE,7.0,True,1,True,8.0,14.6,21.2,76.0,True,1.6,104.375,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,35.0,2.0,INTERMEDIATE,8.0,True,1,True,8.0,14.5,21.2,75.0,True,1.4,104.251,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,36.0,2.0,INTERMEDIATE,9.0,True,1,True,8.0,14.5,21.4,76.0,True,1.2,102.513,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,37.0,2.0,INTERMEDIATE,10.0,True,1,True,8.0,14.6,22.5,78.0,True,1.3,100.747,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,38.0,2.0,INTERMEDIATE,11.0,True,1,False,8.0,14.6,24.2,76.0,True,1.9,98.684,True,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,39.0,3.0,MEDIUM,1.0,True,1,False,8.0,14.8,24.6,75.0,False,1.2,119.234,True,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,40.0,3.0,MEDIUM,2.0,True,1,True,8.0,15.2,24.2,73.0,False,2.2,91.146,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,41.0,3.0,MEDIUM,3.0,True,1,True,8.0,15.3,24.2,76.0,False,1.1,90.594,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,42.0,3.0,MEDIUM,4.0,True,1,True,8.0,15.2,25.0,75.0,False,1.4,90.167,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,43.0,3.0,MEDIUM,5.0,True,1,True,8.0,15.3,24.9,75.0,False,1.6,90.098,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,44.0,3.0,MEDIUM,6.0,True,1,True,8.0,15.4,24.5,73.0,True,2.0,89.93,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,45.0,3.0,MEDIUM,7.0,True,1,True,8.0,15.5,25.0,73.0,False,2.0,89.871,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,46.0,3.0,MEDIUM,8.0,True,1,True,8.0,15.6,24.9,69.0,False,0.9,89.753,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,47.0,3.0,MEDIUM,9.0,True,1,True,8.0,15.6,24.9,71.0,False,1.1,89.71,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,48.0,3.0,MEDIUM,10.0,True,1,True,8.0,15.7,25.2,72.0,False,1.5,90.114,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,49.0,3.0,MEDIUM,11.0,True,1,True,8.0,15.8,25.2,69.0,False,1.8,90.7,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,50.0,3.0,MEDIUM,12.0,True,1,True,8.0,15.9,25.5,69.0,False,1.4,90.727,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,51.0,3.0,MEDIUM,13.0,True,1,True,8.0,15.9,25.3,68.0,False,1.2,90.592,False,52,2024,12,British Grand Prix,2024_12
+ALO,Aston Martin,52.0,3.0,MEDIUM,14.0,True,1,True,8.0,15.8,24.9,68.0,False,1.9,91.43,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,16.2,33.0,63.0,False,1.6,101.588,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,16.2,33.0,61.0,False,1.8,93.158,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,16.3,24.3,61.0,False,1.9,93.373,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,16.3,24.1,61.0,False,2.5,93.059,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,16.3,24.2,60.0,False,2.4,92.846,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,16.3,25.4,61.0,False,2.1,93.014,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,16.4,25.8,60.0,False,2.4,92.939,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,16.5,26.1,61.0,False,2.0,92.798,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,16.6,26.0,62.0,False,0.9,92.933,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,16.8,25.6,62.0,False,1.7,93.073,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,16.8,25.4,60.0,False,2.0,92.981,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,16.7,25.2,61.0,False,2.1,92.567,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,16.7,24.9,60.0,False,1.8,92.769,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,16.5,24.6,60.0,False,1.2,92.538,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,16.5,24.6,59.0,False,1.9,92.265,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,16.5,24.3,60.0,False,1.4,93.178,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,16.5,24.3,61.0,False,1.5,94.873,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,16.6,23.9,60.0,True,1.6,95.323,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,16.2,22.9,64.0,True,1.5,104.619,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,11.0,16.1,22.5,67.0,True,0.7,96.53,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,11.0,15.6,22.1,69.0,True,1.6,93.646,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,11.0,15.2,22.0,68.0,True,0.7,93.086,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,11.0,15.2,22.0,69.0,True,1.2,92.891,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,11.0,15.1,22.0,68.0,True,0.8,93.96,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,11.0,15.1,22.0,69.0,True,0.8,95.612,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,11.0,15.1,21.5,68.0,True,0.9,103.771,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,27.0,1.0,MEDIUM,27.0,True,1,False,9.0,15.1,21.2,68.0,True,0.6,107.754,True,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,28.0,2.0,INTERMEDIATE,1.0,True,1,False,11.0,15.0,21.1,70.0,True,1.0,128.459,True,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,29.0,2.0,INTERMEDIATE,2.0,True,1,True,11.0,14.9,20.7,70.0,True,0.9,101.726,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,30.0,2.0,INTERMEDIATE,3.0,True,1,True,11.0,14.9,20.7,72.0,True,1.0,103.271,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,31.0,2.0,INTERMEDIATE,4.0,True,1,True,11.0,14.7,20.7,73.0,True,1.4,103.229,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,32.0,2.0,INTERMEDIATE,5.0,True,1,True,11.0,14.5,20.7,73.0,True,1.6,104.304,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,33.0,2.0,INTERMEDIATE,6.0,True,1,True,11.0,14.5,20.7,74.0,True,1.4,104.82,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,34.0,2.0,INTERMEDIATE,7.0,True,1,True,10.0,14.6,21.2,76.0,True,1.6,105.216,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,35.0,2.0,INTERMEDIATE,8.0,True,1,True,10.0,14.5,21.2,75.0,True,1.4,105.202,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,36.0,2.0,INTERMEDIATE,9.0,True,1,True,10.0,14.5,21.4,76.0,True,1.2,103.075,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,37.0,2.0,INTERMEDIATE,10.0,True,1,True,10.0,14.6,22.5,78.0,True,1.3,100.273,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,38.0,2.0,INTERMEDIATE,11.0,True,1,False,10.0,14.6,24.2,76.0,True,1.9,97.843,True,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,39.0,3.0,MEDIUM,1.0,True,1,False,10.0,14.8,24.6,75.0,False,1.2,117.678,True,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,40.0,3.0,MEDIUM,2.0,True,1,True,10.0,15.2,24.2,73.0,False,2.2,90.889,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,41.0,3.0,MEDIUM,3.0,True,1,True,10.0,15.3,24.2,76.0,False,1.1,90.715,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,42.0,3.0,MEDIUM,4.0,True,1,True,10.0,15.2,25.0,75.0,False,1.4,90.458,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,43.0,3.0,MEDIUM,5.0,True,1,True,10.0,15.3,24.9,75.0,False,1.6,90.126,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,44.0,3.0,MEDIUM,6.0,True,1,True,10.0,15.4,24.5,73.0,True,2.0,90.74,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,45.0,3.0,MEDIUM,7.0,True,1,True,9.0,15.5,25.0,73.0,False,2.0,90.406,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,46.0,3.0,MEDIUM,8.0,True,1,True,9.0,15.6,24.9,69.0,False,0.9,90.234,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,47.0,3.0,MEDIUM,9.0,True,1,True,9.0,15.6,24.9,71.0,False,1.1,90.148,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,48.0,3.0,MEDIUM,10.0,True,1,True,9.0,15.7,25.2,72.0,False,1.5,90.068,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,49.0,3.0,MEDIUM,11.0,True,1,True,9.0,15.8,25.2,69.0,False,1.8,89.96,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,50.0,3.0,MEDIUM,12.0,True,1,True,9.0,15.9,25.5,69.0,False,1.4,89.828,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,51.0,3.0,MEDIUM,13.0,True,1,True,9.0,15.9,25.3,68.0,False,1.2,89.916,False,52,2024,12,British Grand Prix,2024_12
+ALB,Williams,52.0,3.0,MEDIUM,14.0,True,1,True,9.0,15.8,24.9,68.0,False,1.9,89.718,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,16.2,33.0,63.0,False,1.6,101.109,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,16.2,33.0,61.0,False,1.8,93.214,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,16.3,24.3,61.0,False,1.9,93.062,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,16.3,24.1,61.0,False,2.5,93.164,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,16.3,24.2,60.0,False,2.4,92.607,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,16.3,25.4,61.0,False,2.1,92.614,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,16.4,25.8,60.0,False,2.4,92.817,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,16.5,26.1,61.0,False,2.0,92.623,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,16.6,26.0,62.0,False,0.9,92.57,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,16.8,25.6,62.0,False,1.7,93.438,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,16.8,25.4,60.0,False,2.0,92.805,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,12.0,1.0,MEDIUM,12.0,True,1,True,11.0,16.7,25.2,61.0,False,2.1,92.782,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,13.0,1.0,MEDIUM,13.0,True,1,True,11.0,16.7,24.9,60.0,False,1.8,93.031,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,14.0,1.0,MEDIUM,14.0,True,1,True,11.0,16.5,24.6,60.0,False,1.2,92.731,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,16.5,24.6,59.0,False,1.9,92.589,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,16.0,1.0,MEDIUM,16.0,True,1,True,11.0,16.5,24.3,60.0,False,1.4,93.209,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,17.0,1.0,MEDIUM,17.0,True,1,True,11.0,16.5,24.3,61.0,False,1.5,94.738,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,18.0,1.0,MEDIUM,18.0,True,1,True,11.0,16.6,23.9,60.0,True,1.6,95.392,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,19.0,1.0,MEDIUM,19.0,True,1,True,11.0,16.2,22.9,64.0,True,1.5,104.585,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,20.0,1.0,MEDIUM,20.0,True,1,True,10.0,16.1,22.5,67.0,True,0.7,96.875,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,21.0,1.0,MEDIUM,21.0,True,1,True,10.0,15.6,22.1,69.0,True,1.6,93.724,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,22.0,1.0,MEDIUM,22.0,True,1,True,10.0,15.2,22.0,68.0,True,0.7,92.681,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,23.0,1.0,MEDIUM,23.0,True,1,True,10.0,15.2,22.0,69.0,True,1.2,93.106,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,24.0,1.0,MEDIUM,24.0,True,1,True,10.0,15.1,22.0,68.0,True,0.8,94.106,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,25.0,1.0,MEDIUM,25.0,True,1,True,10.0,15.1,22.0,69.0,True,0.8,95.473,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,26.0,1.0,MEDIUM,26.0,True,1,True,10.0,15.1,21.5,68.0,True,0.9,103.26,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,27.0,1.0,MEDIUM,27.0,True,1,False,8.0,15.1,21.2,68.0,True,0.6,108.126,True,52,2024,12,British Grand Prix,2024_12
+TSU,RB,28.0,2.0,INTERMEDIATE,1.0,True,1,False,10.0,15.0,21.1,70.0,True,1.0,123.448,True,52,2024,12,British Grand Prix,2024_12
+TSU,RB,29.0,2.0,INTERMEDIATE,2.0,True,1,True,10.0,14.9,20.9,71.0,True,1.1,103.749,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,30.0,2.0,INTERMEDIATE,3.0,True,1,True,10.0,14.9,20.7,72.0,True,1.0,102.967,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,31.0,2.0,INTERMEDIATE,4.0,True,1,True,10.0,14.7,20.7,73.0,True,1.4,103.355,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,32.0,2.0,INTERMEDIATE,5.0,True,1,True,10.0,14.5,20.7,73.0,True,1.6,104.456,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,33.0,2.0,INTERMEDIATE,6.0,True,1,True,10.0,14.5,20.7,74.0,True,1.4,104.979,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,34.0,2.0,INTERMEDIATE,7.0,True,1,True,9.0,14.6,21.2,76.0,True,1.6,104.923,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,35.0,2.0,INTERMEDIATE,8.0,True,1,True,9.0,14.5,21.2,75.0,True,1.4,104.782,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,36.0,2.0,INTERMEDIATE,9.0,True,1,True,9.0,14.5,21.4,76.0,True,1.2,102.726,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,37.0,2.0,INTERMEDIATE,10.0,True,1,True,9.0,14.6,22.5,78.0,True,1.3,101.098,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,38.0,2.0,INTERMEDIATE,11.0,True,1,False,9.0,14.6,24.2,76.0,True,1.9,98.67,True,52,2024,12,British Grand Prix,2024_12
+TSU,RB,39.0,3.0,SOFT,1.0,True,1,False,9.0,14.8,24.6,75.0,False,1.2,118.637,True,52,2024,12,British Grand Prix,2024_12
+TSU,RB,40.0,3.0,SOFT,2.0,True,1,True,9.0,15.2,24.2,73.0,False,2.2,92.318,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,41.0,3.0,SOFT,3.0,True,1,True,9.0,15.3,24.2,76.0,False,1.1,90.812,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,42.0,3.0,SOFT,4.0,True,1,True,9.0,15.2,25.0,75.0,False,1.4,90.319,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,43.0,3.0,SOFT,5.0,True,1,True,9.0,15.3,24.9,75.0,False,1.6,90.229,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,44.0,3.0,SOFT,6.0,True,1,True,9.0,15.4,24.5,73.0,True,2.0,90.882,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,45.0,3.0,SOFT,7.0,True,1,True,10.0,15.5,25.0,73.0,False,2.0,91.438,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,46.0,3.0,SOFT,8.0,True,1,True,10.0,15.6,24.9,69.0,False,0.9,91.688,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,47.0,3.0,SOFT,9.0,True,1,True,10.0,15.6,24.9,71.0,False,1.1,90.982,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,48.0,3.0,SOFT,10.0,True,1,True,10.0,15.7,25.2,72.0,False,1.5,91.367,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,49.0,3.0,SOFT,11.0,True,1,True,10.0,15.8,25.2,69.0,False,1.8,91.08,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,50.0,3.0,SOFT,12.0,True,1,True,10.0,15.9,25.5,69.0,False,1.4,91.407,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,51.0,3.0,SOFT,13.0,True,1,True,10.0,15.9,25.3,68.0,False,1.2,91.529,False,52,2024,12,British Grand Prix,2024_12
+TSU,RB,52.0,3.0,SOFT,14.0,True,1,True,10.0,15.8,24.9,68.0,False,1.9,92.09,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,16.2,33.0,63.0,False,1.6,101.772,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,16.2,33.0,61.0,False,1.8,93.435,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,16.3,24.3,61.0,False,1.9,93.319,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,13.0,16.3,24.1,61.0,False,2.5,93.11,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,16.3,24.2,60.0,False,2.4,93.139,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,16.3,25.4,61.0,False,2.1,92.904,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,16.4,25.8,60.0,False,2.4,93.002,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,16.5,26.1,61.0,False,2.0,92.806,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,16.6,26.0,62.0,False,0.9,93.019,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,16.8,25.6,62.0,False,1.7,92.956,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,16.8,25.4,60.0,False,2.0,92.897,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,16.7,25.2,61.0,False,2.1,92.748,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,16.7,24.9,60.0,False,1.8,93.04,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,16.5,24.6,60.0,False,1.2,92.607,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,16.5,24.4,59.0,False,1.4,92.543,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,13.0,16.5,24.3,60.0,False,1.4,93.701,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,16.5,24.3,61.0,False,1.5,95.258,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,13.0,16.6,23.9,60.0,True,1.6,94.9,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,13.0,16.2,22.9,64.0,True,1.5,104.09,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,15.9,22.3,67.0,True,1.6,96.116,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,12.0,15.6,22.1,69.0,True,1.6,93.632,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,15.2,22.0,68.0,True,0.7,92.826,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,13.0,15.2,22.0,69.0,True,1.2,94.494,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,13.0,15.1,22.0,68.0,True,0.8,94.037,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,13.0,15.1,22.0,69.0,True,0.8,96.166,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,13.0,15.1,21.5,68.0,True,0.9,104.642,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,27.0,1.0,MEDIUM,27.0,True,1,False,11.0,15.1,21.2,68.0,True,0.6,112.246,True,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,28.0,2.0,INTERMEDIATE,1.0,True,1,False,13.0,15.0,21.0,69.0,True,0.9,125.981,True,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,29.0,2.0,INTERMEDIATE,2.0,True,1,True,13.0,14.9,20.7,70.0,True,0.9,102.215,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,30.0,2.0,INTERMEDIATE,3.0,True,1,True,13.0,14.9,20.7,72.0,True,1.0,102.476,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,31.0,2.0,INTERMEDIATE,4.0,True,1,True,13.0,14.7,20.7,73.0,True,1.4,104.332,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,32.0,2.0,INTERMEDIATE,5.0,True,1,True,13.0,14.5,20.7,73.0,True,1.6,104.912,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,33.0,2.0,INTERMEDIATE,6.0,True,1,True,13.0,14.6,21.0,75.0,True,0.5,105.684,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,34.0,2.0,INTERMEDIATE,7.0,True,1,True,12.0,14.6,21.2,76.0,True,1.6,106.095,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,35.0,2.0,INTERMEDIATE,8.0,True,1,True,12.0,14.5,21.2,75.0,True,1.4,105.851,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,36.0,2.0,INTERMEDIATE,9.0,True,1,True,12.0,14.5,21.4,76.0,True,1.2,103.365,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,37.0,2.0,INTERMEDIATE,10.0,True,1,True,13.0,14.6,23.8,77.0,True,1.8,102.207,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,38.0,2.0,INTERMEDIATE,11.0,True,1,False,11.0,14.6,24.2,76.0,True,1.9,98.811,True,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,39.0,3.0,SOFT,1.0,True,1,False,12.0,14.8,24.6,75.0,False,1.2,116.256,True,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,40.0,3.0,SOFT,2.0,True,1,True,12.0,15.2,24.2,73.0,False,2.2,91.353,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,41.0,3.0,SOFT,3.0,True,1,True,12.0,15.3,24.2,76.0,False,1.1,90.875,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,42.0,3.0,SOFT,4.0,True,1,True,12.0,15.2,25.0,75.0,False,1.4,89.972,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,43.0,3.0,SOFT,5.0,True,1,True,12.0,15.3,24.9,75.0,False,1.6,90.162,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,44.0,3.0,SOFT,6.0,True,1,True,11.0,15.4,24.5,73.0,True,2.0,90.003,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,45.0,3.0,SOFT,7.0,True,1,True,11.0,15.5,25.0,73.0,False,2.0,90.613,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,46.0,3.0,SOFT,8.0,True,1,True,11.0,15.6,24.9,69.0,False,0.9,90.826,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,47.0,3.0,SOFT,9.0,True,1,True,11.0,15.6,24.9,71.0,False,1.1,91.25,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,48.0,3.0,SOFT,10.0,True,1,True,11.0,15.7,25.2,72.0,False,1.5,91.201,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,49.0,3.0,SOFT,11.0,True,1,True,11.0,15.8,25.2,69.0,False,1.8,91.175,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,50.0,3.0,SOFT,12.0,True,1,True,11.0,15.9,25.5,69.0,False,1.4,91.249,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,51.0,3.0,SOFT,13.0,True,1,True,11.0,15.8,25.2,69.0,False,0.7,91.662,False,52,2024,12,British Grand Prix,2024_12
+SAR,Williams,52.0,3.0,SOFT,14.0,True,1,True,11.0,15.8,24.9,68.0,False,1.9,92.088,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,16.2,33.0,63.0,False,1.6,103.681,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,16.2,33.0,61.0,False,1.8,94.216,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,16.3,24.3,61.0,False,1.9,93.259,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,16.2,24.0,60.0,False,2.2,93.11,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,17.0,16.3,24.2,60.0,False,2.4,92.999,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,16.3,25.4,61.0,False,2.1,93.544,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,16.4,25.8,60.0,False,2.4,93.734,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,16.5,26.1,61.0,False,2.0,93.204,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,16.6,26.0,62.0,False,0.9,92.783,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,16.8,25.6,62.0,False,1.7,92.647,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,16.8,25.4,60.0,False,2.0,92.671,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,15.0,16.7,25.2,61.0,False,2.1,92.531,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,15.0,16.7,24.9,60.0,False,1.8,92.74,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,15.0,16.5,24.6,60.0,False,1.2,92.506,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,15.0,16.5,24.4,59.0,False,1.4,92.953,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,16.5,24.3,60.0,False,1.4,93.486,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,14.0,16.5,24.3,61.0,False,1.5,94.661,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,16.6,23.9,60.0,True,1.6,94.73,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,14.0,16.2,22.9,64.0,True,1.5,103.505,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,13.0,15.9,22.3,67.0,True,1.6,95.181,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,13.0,15.6,22.1,69.0,True,1.6,93.484,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,13.0,15.2,22.0,68.0,True,0.7,92.766,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,True,12.0,15.2,22.0,69.0,True,1.2,93.278,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,24.0,1.0,MEDIUM,24.0,True,1,True,12.0,15.1,22.0,68.0,True,0.8,93.625,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,25.0,1.0,MEDIUM,25.0,True,1,True,12.0,15.1,22.0,69.0,True,0.8,95.15,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,26.0,1.0,MEDIUM,26.0,True,1,True,12.0,15.1,21.5,68.0,True,0.9,105.466,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,27.0,1.0,MEDIUM,27.0,True,1,False,10.0,15.1,21.2,68.0,True,0.6,111.325,True,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,28.0,2.0,INTERMEDIATE,1.0,True,1,False,12.0,15.0,21.0,69.0,True,0.9,125.299,True,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,29.0,2.0,INTERMEDIATE,2.0,True,1,True,12.0,14.9,20.7,70.0,True,0.9,102.842,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,30.0,2.0,INTERMEDIATE,3.0,True,1,True,12.0,14.9,20.7,72.0,True,1.0,102.133,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,31.0,2.0,INTERMEDIATE,4.0,True,1,True,12.0,14.7,20.7,73.0,True,1.4,104.06,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,32.0,2.0,INTERMEDIATE,5.0,True,1,True,12.0,14.5,20.7,73.0,True,1.6,105.084,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,33.0,2.0,INTERMEDIATE,6.0,True,1,True,12.0,14.6,21.0,75.0,True,0.5,105.266,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,34.0,2.0,INTERMEDIATE,7.0,True,1,True,11.0,14.6,21.2,76.0,True,1.6,106.135,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,35.0,2.0,INTERMEDIATE,8.0,True,1,True,11.0,14.5,21.2,75.0,True,1.4,105.557,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,36.0,2.0,INTERMEDIATE,9.0,True,1,True,11.0,14.5,21.4,76.0,True,1.2,103.611,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,37.0,2.0,INTERMEDIATE,10.0,True,1,False,11.0,14.6,23.8,77.0,True,1.8,102.038,True,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,38.0,3.0,SOFT,1.0,True,1,False,12.0,14.6,24.2,76.0,True,1.9,123.931,True,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,39.0,3.0,SOFT,2.0,True,1,True,11.0,14.8,24.6,75.0,False,1.2,93.212,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,40.0,3.0,SOFT,3.0,True,1,True,11.0,15.2,24.2,73.0,False,2.2,92.071,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,41.0,3.0,SOFT,4.0,True,1,True,11.0,15.3,24.2,76.0,False,1.1,90.61,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,42.0,3.0,SOFT,5.0,True,1,True,11.0,15.2,25.0,75.0,False,1.4,90.093,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,43.0,3.0,SOFT,6.0,True,1,True,11.0,15.3,24.9,75.0,False,1.6,90.454,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,44.0,3.0,SOFT,7.0,True,1,True,12.0,15.4,24.5,73.0,True,2.0,91.342,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,45.0,3.0,SOFT,8.0,True,1,True,12.0,15.5,25.0,73.0,False,2.0,91.722,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,46.0,3.0,SOFT,9.0,True,1,True,12.0,15.6,24.9,69.0,False,0.9,91.131,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,47.0,3.0,SOFT,10.0,True,1,True,12.0,15.6,24.9,71.0,False,1.1,91.036,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,48.0,3.0,SOFT,11.0,True,1,True,12.0,15.7,25.2,72.0,False,1.5,90.953,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,49.0,3.0,SOFT,12.0,True,1,True,12.0,15.8,25.4,69.0,False,1.7,90.803,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,50.0,3.0,SOFT,13.0,True,1,True,12.0,15.9,25.5,69.0,False,1.4,91.143,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,51.0,3.0,SOFT,14.0,True,1,True,12.0,15.8,25.2,69.0,False,0.7,91.469,False,52,2024,12,British Grand Prix,2024_12
+MAG,Haas F1 Team,52.0,3.0,SOFT,15.0,True,1,True,12.0,15.8,24.9,68.0,False,1.9,91.982,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,16.2,33.0,63.0,False,1.6,102.715,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,16.2,33.0,61.0,False,1.8,93.709,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,16.3,24.3,61.0,False,1.9,93.429,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,16.2,24.0,60.0,False,2.2,93.253,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,16.3,24.2,60.0,False,2.4,93.263,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,16.3,25.4,61.0,False,2.1,93.666,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,16.4,25.8,60.0,False,2.4,92.952,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,16.5,26.1,61.0,False,2.0,93.095,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,16.6,26.0,62.0,False,0.9,92.762,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,10.0,1.0,MEDIUM,10.0,True,1,True,14.0,16.8,25.6,62.0,False,1.7,92.721,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,16.8,25.4,60.0,False,2.0,92.804,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,12.0,1.0,MEDIUM,12.0,True,1,True,14.0,16.7,25.2,61.0,False,2.1,92.797,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,13.0,1.0,MEDIUM,13.0,True,1,True,14.0,16.7,24.9,60.0,False,1.8,92.88,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,14.0,1.0,MEDIUM,14.0,True,1,True,14.0,16.5,24.6,60.0,False,1.2,92.933,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,16.5,24.4,59.0,False,1.4,93.171,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,16.0,1.0,MEDIUM,16.0,True,1,True,15.0,16.5,24.3,60.0,False,1.4,94.437,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,17.0,1.0,MEDIUM,17.0,True,1,True,16.0,16.5,24.3,61.0,False,1.5,95.885,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,18.0,1.0,MEDIUM,18.0,True,1,True,16.0,16.6,23.9,60.0,True,1.6,96.827,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,19.0,1.0,MEDIUM,19.0,True,1,True,16.0,16.2,22.9,64.0,True,1.5,104.922,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,20.0,1.0,MEDIUM,20.0,True,1,True,14.0,15.9,22.3,67.0,True,1.6,97.33,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,21.0,1.0,MEDIUM,21.0,True,1,True,14.0,15.6,22.1,69.0,True,1.6,94.722,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,22.0,1.0,MEDIUM,22.0,True,1,True,14.0,15.2,22.0,68.0,True,0.7,93.015,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,23.0,1.0,MEDIUM,23.0,True,1,True,14.0,15.2,22.0,69.0,True,1.2,94.224,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,24.0,1.0,MEDIUM,24.0,True,1,True,14.0,15.1,22.0,68.0,True,0.8,96.483,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,25.0,1.0,MEDIUM,25.0,True,1,True,14.0,15.1,22.0,67.0,True,1.0,98.725,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,26.0,1.0,MEDIUM,26.0,True,1,False,14.0,15.1,21.5,68.0,True,0.9,104.813,True,52,2024,12,British Grand Prix,2024_12
+RIC,RB,27.0,2.0,INTERMEDIATE,1.0,True,1,False,14.0,15.1,21.2,68.0,True,0.6,122.788,True,52,2024,12,British Grand Prix,2024_12
+RIC,RB,28.0,2.0,INTERMEDIATE,2.0,True,1,True,14.0,15.0,21.0,69.0,True,0.9,103.338,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,29.0,2.0,INTERMEDIATE,3.0,True,1,True,14.0,14.9,20.7,70.0,True,0.9,103.377,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,30.0,2.0,INTERMEDIATE,4.0,True,1,True,14.0,14.9,20.7,72.0,True,1.0,103.298,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,31.0,2.0,INTERMEDIATE,5.0,True,1,True,14.0,14.7,20.7,73.0,True,1.4,103.699,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,32.0,2.0,INTERMEDIATE,6.0,True,1,True,14.0,14.5,20.7,73.0,True,1.6,104.144,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,33.0,2.0,INTERMEDIATE,7.0,True,1,True,14.0,14.6,21.0,75.0,True,0.5,104.855,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,34.0,2.0,INTERMEDIATE,8.0,True,1,True,13.0,14.6,21.2,76.0,True,1.6,105.969,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,35.0,2.0,INTERMEDIATE,9.0,True,1,True,13.0,14.5,21.2,75.0,True,1.4,105.535,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,36.0,2.0,INTERMEDIATE,10.0,True,1,True,13.0,14.5,21.4,76.0,True,1.2,103.213,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,37.0,2.0,INTERMEDIATE,11.0,True,1,False,12.0,14.6,23.8,77.0,True,1.8,100.483,True,52,2024,12,British Grand Prix,2024_12
+RIC,RB,38.0,3.0,SOFT,1.0,True,1,False,13.0,14.6,24.2,76.0,True,1.9,123.328,True,52,2024,12,British Grand Prix,2024_12
+RIC,RB,39.0,3.0,SOFT,2.0,True,1,True,13.0,14.8,24.6,75.0,False,1.2,93.138,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,40.0,3.0,SOFT,3.0,True,1,True,13.0,15.2,24.2,73.0,False,2.2,92.428,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,41.0,3.0,SOFT,4.0,True,1,True,13.0,15.3,24.2,76.0,False,1.1,91.289,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,42.0,3.0,SOFT,5.0,True,1,True,13.0,15.2,25.0,75.0,False,1.4,90.765,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,43.0,3.0,SOFT,6.0,True,1,True,13.0,15.3,24.9,75.0,False,1.6,91.198,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,44.0,3.0,SOFT,7.0,True,1,True,13.0,15.4,24.5,73.0,True,2.0,91.08,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,45.0,3.0,SOFT,8.0,True,1,True,13.0,15.5,25.0,71.0,False,2.0,90.955,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,46.0,3.0,SOFT,9.0,True,1,True,13.0,15.6,24.9,69.0,False,0.9,90.849,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,47.0,3.0,SOFT,10.0,True,1,True,13.0,15.7,25.2,71.0,False,1.2,90.735,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,48.0,3.0,SOFT,11.0,True,1,True,13.0,15.7,25.2,72.0,False,1.5,91.109,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,49.0,3.0,SOFT,12.0,True,1,True,13.0,15.8,25.4,69.0,False,1.7,92.926,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,50.0,3.0,SOFT,13.0,True,1,True,13.0,15.9,25.5,69.0,False,1.4,94.15,False,52,2024,12,British Grand Prix,2024_12
+RIC,RB,51.0,3.0,SOFT,14.0,True,1,True,13.0,15.8,25.2,69.0,False,0.7,94.814,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,16.2,33.0,63.0,False,1.6,99.663,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,16.2,33.0,61.0,False,1.8,92.858,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,16.3,24.3,61.0,False,1.9,92.369,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,16.3,24.1,61.0,False,2.5,92.705,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,16.3,24.2,60.0,False,2.4,92.697,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,16.3,25.4,61.0,False,2.1,92.758,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,16.4,25.8,60.0,False,2.4,92.662,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,16.5,26.1,61.0,False,2.0,92.86,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,16.6,26.0,62.0,False,0.9,92.326,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,16.8,25.6,62.0,False,1.7,92.496,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,16.8,25.4,60.0,False,2.0,92.348,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,16.7,25.2,61.0,False,2.1,92.236,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,16.7,24.9,60.0,False,1.8,91.989,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,16.5,24.6,60.0,False,1.2,92.396,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,16.5,24.6,59.0,False,1.9,92.755,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,16.5,24.3,60.0,False,1.4,92.923,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,16.4,24.3,62.0,False,1.6,95.28,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,16.6,23.9,60.0,True,1.6,95.951,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,False,7.0,16.2,22.9,64.0,True,1.5,105.868,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,20.0,2.0,INTERMEDIATE,1.0,True,1,False,15.0,16.1,22.5,67.0,True,0.7,120.269,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,21.0,2.0,INTERMEDIATE,2.0,True,1,True,16.0,15.6,22.1,69.0,True,1.6,102.846,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,22.0,2.0,INTERMEDIATE,3.0,True,1,True,16.0,15.2,22.0,68.0,True,0.7,104.352,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,23.0,2.0,INTERMEDIATE,4.0,True,1,True,16.0,15.1,21.9,68.0,True,0.8,106.593,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,24.0,2.0,INTERMEDIATE,5.0,True,1,True,16.0,15.1,22.0,69.0,True,0.8,111.732,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,25.0,2.0,INTERMEDIATE,6.0,True,1,True,16.0,15.1,21.5,68.0,True,0.9,109.301,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,26.0,2.0,INTERMEDIATE,7.0,True,1,True,16.0,15.1,21.4,68.0,True,0.7,105.655,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,27.0,2.0,INTERMEDIATE,8.0,True,1,False,16.0,15.0,21.1,70.0,True,1.0,105.912,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,28.0,3.0,INTERMEDIATE,1.0,True,1,False,17.0,14.9,20.9,71.0,True,1.1,123.138,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,29.0,3.0,INTERMEDIATE,2.0,True,1,True,16.0,14.9,20.7,72.0,True,1.0,101.602,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,30.0,3.0,INTERMEDIATE,3.0,True,1,True,16.0,14.7,20.7,73.0,True,1.4,102.299,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,31.0,3.0,INTERMEDIATE,4.0,True,1,True,16.0,14.6,20.7,73.0,True,1.7,103.95,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,32.0,3.0,INTERMEDIATE,5.0,True,1,True,16.0,14.5,20.7,74.0,True,1.4,103.795,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,33.0,3.0,INTERMEDIATE,6.0,True,1,True,16.0,14.6,21.2,76.0,True,1.6,103.217,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,34.0,3.0,INTERMEDIATE,7.0,True,1,True,15.0,14.6,21.3,76.0,True,1.5,103.604,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,35.0,3.0,INTERMEDIATE,8.0,True,1,True,15.0,14.6,21.2,75.0,True,1.7,102.415,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,36.0,3.0,INTERMEDIATE,9.0,True,1,True,15.0,14.6,22.5,78.0,True,1.3,100.091,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,37.0,3.0,INTERMEDIATE,10.0,True,1,False,15.0,14.6,24.2,76.0,True,1.9,98.357,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,38.0,4.0,SOFT,1.0,True,1,False,15.0,14.6,24.6,78.0,False,1.4,117.811,True,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,39.0,4.0,SOFT,2.0,True,1,True,15.0,15.1,24.4,74.0,False,0.8,91.481,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,40.0,4.0,SOFT,3.0,True,1,True,15.0,15.3,24.2,76.0,False,1.1,90.878,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,41.0,4.0,SOFT,4.0,True,1,True,15.0,15.3,24.7,75.0,False,0.8,90.035,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,42.0,4.0,SOFT,5.0,True,1,True,15.0,15.3,24.9,75.0,False,1.6,89.832,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,43.0,4.0,SOFT,6.0,True,1,True,15.0,15.4,24.5,72.0,True,2.0,89.748,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,44.0,4.0,SOFT,7.0,True,1,True,15.0,15.5,25.0,73.0,False,2.0,89.933,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,45.0,4.0,SOFT,8.0,True,1,True,15.0,15.5,25.0,71.0,False,2.0,89.911,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,46.0,4.0,SOFT,9.0,True,1,True,15.0,15.6,24.9,71.0,False,1.1,90.051,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,47.0,4.0,SOFT,10.0,True,1,True,15.0,15.7,25.2,71.0,False,1.2,90.289,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,48.0,4.0,SOFT,11.0,True,1,True,15.0,15.8,25.2,69.0,False,1.8,90.204,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,49.0,4.0,SOFT,12.0,True,1,True,15.0,15.8,25.4,69.0,False,1.7,90.929,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,50.0,4.0,SOFT,13.0,True,1,True,14.0,15.9,25.3,68.0,False,1.2,90.488,False,52,2024,12,British Grand Prix,2024_12
+LEC,Ferrari,51.0,4.0,SOFT,14.0,True,1,True,14.0,15.8,25.2,69.0,False,0.7,91.674,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,16.2,33.0,63.0,False,1.6,104.29,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,16.2,33.0,61.0,False,1.8,95.368,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,16.3,24.3,61.0,False,1.9,94.447,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,16.2,24.0,60.0,False,2.2,94.322,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,19.0,16.3,24.2,60.0,False,2.4,93.768,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,19.0,16.3,25.4,61.0,False,2.1,93.46,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,19.0,16.4,25.8,60.0,False,2.4,93.648,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,19.0,16.5,26.1,61.0,False,2.0,93.561,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,19.0,16.6,26.0,62.0,False,0.9,93.645,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,18.0,16.8,25.6,62.0,False,1.7,93.787,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,18.0,16.7,25.3,59.0,False,2.1,93.561,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,18.0,16.7,25.2,61.0,False,2.1,93.269,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,18.0,16.6,24.8,59.0,False,2.1,93.65,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,17.0,16.5,24.6,60.0,False,1.2,93.156,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,17.0,16.5,24.4,59.0,False,1.4,93.228,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,17.0,16.5,24.3,60.0,False,1.4,93.967,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,17.0,16.5,24.3,61.0,False,1.5,95.498,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,17.0,16.6,23.9,60.0,True,1.6,96.075,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,17.0,16.2,22.9,64.0,True,1.5,104.426,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,16.0,15.9,22.3,67.0,True,1.6,98.542,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,True,15.0,15.6,22.1,69.0,True,1.6,95.235,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,22.0,1.0,MEDIUM,22.0,True,1,True,15.0,15.2,22.0,68.0,True,0.7,94.03,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,23.0,1.0,MEDIUM,23.0,True,1,True,15.0,15.1,21.9,68.0,True,0.8,94.076,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,24.0,1.0,MEDIUM,24.0,True,1,True,15.0,15.1,22.0,68.0,True,0.8,97.35,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,25.0,1.0,MEDIUM,25.0,True,1,True,15.0,15.1,22.0,67.0,True,1.0,99.761,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,26.0,1.0,MEDIUM,26.0,True,1,False,15.0,15.1,21.5,68.0,True,0.9,109.533,True,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,27.0,2.0,INTERMEDIATE,1.0,True,1,False,15.0,15.1,21.2,68.0,True,0.6,125.367,True,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,28.0,2.0,INTERMEDIATE,2.0,True,1,True,15.0,15.0,21.0,69.0,True,0.9,102.562,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,29.0,2.0,INTERMEDIATE,3.0,True,1,True,15.0,14.9,20.7,70.0,True,0.9,103.302,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,30.0,2.0,INTERMEDIATE,4.0,True,1,True,15.0,14.8,20.7,73.0,True,1.7,103.472,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,31.0,2.0,INTERMEDIATE,5.0,True,1,True,15.0,14.6,20.7,73.0,True,1.7,104.51,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,32.0,2.0,INTERMEDIATE,6.0,True,1,True,15.0,14.5,20.7,73.0,True,1.6,105.199,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,33.0,2.0,INTERMEDIATE,7.0,True,1,True,15.0,14.6,21.0,75.0,True,0.5,105.552,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,34.0,2.0,INTERMEDIATE,8.0,True,1,True,14.0,14.6,21.3,76.0,True,1.5,105.199,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,35.0,2.0,INTERMEDIATE,9.0,True,1,True,14.0,14.6,21.2,75.0,True,1.7,105.476,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,36.0,2.0,INTERMEDIATE,10.0,True,1,True,14.0,14.5,21.4,76.0,True,1.2,102.968,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,37.0,2.0,INTERMEDIATE,11.0,True,1,False,14.0,14.6,23.8,77.0,True,1.8,99.987,True,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,38.0,3.0,SOFT,1.0,True,1,False,14.0,14.6,24.6,78.0,False,1.4,126.628,True,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,39.0,3.0,SOFT,2.0,True,1,True,14.0,15.1,24.4,74.0,False,0.8,97.114,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,40.0,3.0,SOFT,3.0,True,1,True,14.0,15.2,24.2,73.0,False,2.2,92.973,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,41.0,3.0,SOFT,4.0,True,1,True,14.0,15.3,24.7,75.0,False,0.8,93.344,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,42.0,3.0,SOFT,5.0,True,1,True,14.0,15.2,25.0,75.0,False,1.4,92.348,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,43.0,3.0,SOFT,6.0,True,1,True,14.0,15.4,24.5,72.0,True,2.0,91.732,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,44.0,3.0,SOFT,7.0,True,1,True,14.0,15.5,25.0,73.0,False,2.0,91.277,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,45.0,3.0,SOFT,8.0,True,1,True,14.0,15.5,25.0,71.0,False,2.0,93.159,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,46.0,3.0,SOFT,9.0,True,1,True,14.0,15.6,24.9,71.0,False,1.1,91.396,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,47.0,3.0,SOFT,10.0,True,1,True,14.0,15.7,25.2,71.0,False,1.2,91.431,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,48.0,3.0,SOFT,11.0,True,1,True,14.0,15.8,25.2,69.0,False,1.8,92.006,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,49.0,3.0,SOFT,12.0,True,1,True,14.0,15.8,25.4,69.0,False,1.7,91.688,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,50.0,3.0,SOFT,13.0,True,1,True,15.0,15.9,25.3,68.0,False,1.2,92.32,False,52,2024,12,British Grand Prix,2024_12
+BOT,Kick Sauber,51.0,3.0,SOFT,14.0,True,1,True,15.0,15.8,25.2,69.0,False,0.7,92.217,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,1.0,1.0,SOFT,1.0,True,1,False,16.0,16.2,33.0,63.0,False,1.6,103.052,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,2.0,1.0,SOFT,2.0,True,1,True,16.0,16.2,33.0,61.0,False,1.8,93.846,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,3.0,1.0,SOFT,3.0,True,1,True,16.0,16.3,24.3,61.0,False,1.9,93.479,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,4.0,1.0,SOFT,4.0,True,1,True,16.0,16.2,24.0,60.0,False,2.2,93.316,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,5.0,1.0,SOFT,5.0,True,1,True,16.0,16.3,24.2,60.0,False,2.4,93.21,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,6.0,1.0,SOFT,6.0,True,1,True,16.0,16.3,25.4,61.0,False,2.1,93.616,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,7.0,1.0,SOFT,7.0,True,1,True,18.0,16.4,25.8,60.0,False,2.4,95.183,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,8.0,1.0,SOFT,8.0,True,1,True,17.0,16.5,26.1,61.0,False,2.0,93.79,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,9.0,1.0,SOFT,9.0,True,1,True,17.0,16.6,26.0,62.0,False,0.9,93.898,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,10.0,1.0,SOFT,10.0,True,1,True,17.0,16.8,25.6,62.0,False,1.7,93.843,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,11.0,1.0,SOFT,11.0,True,1,True,17.0,16.8,25.4,60.0,False,2.0,93.846,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,12.0,1.0,SOFT,12.0,True,1,True,17.0,16.7,25.2,61.0,False,2.1,94.071,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,13.0,1.0,SOFT,13.0,True,1,True,17.0,16.6,24.8,59.0,False,2.1,94.491,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,14.0,1.0,SOFT,14.0,True,1,True,18.0,16.5,24.6,60.0,False,1.2,95.293,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,15.0,1.0,SOFT,15.0,True,1,True,18.0,16.5,24.4,59.0,False,1.4,94.884,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,16.0,1.0,SOFT,16.0,True,1,True,18.0,16.5,24.3,60.0,False,1.4,96.522,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,17.0,1.0,SOFT,17.0,True,1,True,18.0,16.5,24.3,61.0,False,1.5,98.735,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,18.0,1.0,SOFT,18.0,True,1,True,18.0,16.4,23.2,63.0,True,1.5,98.497,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,19.0,1.0,SOFT,19.0,True,1,False,18.0,16.2,22.9,64.0,True,1.5,101.731,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,20.0,2.0,INTERMEDIATE,1.0,True,1,False,18.0,15.9,22.3,67.0,True,1.6,121.025,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,21.0,2.0,INTERMEDIATE,2.0,True,1,False,18.0,15.4,22.1,68.0,True,0.9,99.736,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,22.0,3.0,MEDIUM,1.0,True,1,False,18.0,15.2,22.0,69.0,True,1.2,115.208,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,23.0,3.0,MEDIUM,2.0,True,1,True,18.0,15.1,22.0,68.0,True,0.8,95.488,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,24.0,3.0,MEDIUM,3.0,True,1,True,18.0,15.1,22.0,69.0,True,0.8,98.005,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,25.0,3.0,MEDIUM,4.0,True,1,True,18.0,15.1,21.5,68.0,True,0.9,107.432,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,26.0,3.0,MEDIUM,5.0,True,1,False,18.0,15.1,21.2,68.0,True,0.6,118.71,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,27.0,4.0,INTERMEDIATE,1.0,True,1,False,18.0,15.0,21.0,69.0,True,0.9,122.736,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,28.0,4.0,INTERMEDIATE,2.0,True,1,True,18.0,14.9,20.7,70.0,True,0.9,101.716,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,29.0,4.0,INTERMEDIATE,3.0,True,1,True,18.0,14.9,20.7,72.0,True,1.0,102.362,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,30.0,4.0,INTERMEDIATE,4.0,True,1,True,18.0,14.7,20.7,73.0,True,1.4,103.336,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,31.0,4.0,INTERMEDIATE,5.0,True,1,True,18.0,14.5,20.7,73.0,True,1.6,104.019,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,32.0,4.0,INTERMEDIATE,6.0,True,1,True,18.0,14.5,20.7,74.0,True,1.4,104.673,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,33.0,4.0,INTERMEDIATE,7.0,True,1,True,18.0,14.6,21.2,76.0,True,1.6,105.29,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,34.0,4.0,INTERMEDIATE,8.0,True,1,True,17.0,14.5,21.2,75.0,True,1.4,105.511,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,35.0,4.0,INTERMEDIATE,9.0,True,1,True,17.0,14.5,21.4,76.0,True,1.2,102.995,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,36.0,4.0,INTERMEDIATE,10.0,True,1,True,17.0,14.6,22.5,78.0,True,1.3,101.215,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,37.0,4.0,INTERMEDIATE,11.0,True,1,True,17.0,14.6,24.2,76.0,True,1.9,102.235,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,38.0,4.0,INTERMEDIATE,12.0,True,1,False,16.0,14.8,24.6,75.0,False,1.2,99.44,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,39.0,5.0,MEDIUM,1.0,True,1,False,17.0,15.1,24.4,74.0,False,0.8,120.13,True,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,40.0,5.0,MEDIUM,2.0,True,1,True,17.0,15.3,24.2,76.0,False,1.1,92.838,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,41.0,5.0,MEDIUM,3.0,True,1,True,17.0,15.2,25.0,75.0,False,1.4,91.114,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,42.0,5.0,MEDIUM,4.0,True,1,True,17.0,15.4,24.5,72.0,True,2.0,91.187,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,43.0,5.0,MEDIUM,5.0,True,1,True,17.0,15.4,24.5,73.0,True,2.0,91.084,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,44.0,5.0,MEDIUM,6.0,True,1,True,17.0,15.5,25.0,71.0,False,2.0,90.928,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,45.0,5.0,MEDIUM,7.0,True,1,True,17.0,15.6,24.9,69.0,False,0.9,90.952,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,46.0,5.0,MEDIUM,8.0,True,1,True,17.0,15.7,25.2,71.0,False,1.2,90.875,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,47.0,5.0,MEDIUM,9.0,True,1,True,17.0,15.7,25.2,72.0,False,1.5,93.599,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,48.0,5.0,MEDIUM,10.0,True,1,True,16.0,15.8,25.4,69.0,False,1.7,95.931,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,49.0,5.0,MEDIUM,11.0,True,1,True,16.0,15.9,25.5,69.0,False,1.4,91.06,False,52,2024,12,British Grand Prix,2024_12
+OCO,Alpine,50.0,5.0,MEDIUM,12.0,True,1,True,16.0,15.8,25.2,69.0,False,0.7,91.608,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1,False,19.0,16.2,33.0,63.0,False,1.6,109.458,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,2.0,1.0,HARD,2.0,True,1,True,19.0,16.2,33.0,61.0,False,1.8,92.942,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,3.0,1.0,HARD,3.0,True,1,True,19.0,16.3,24.3,61.0,False,1.9,92.34,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,4.0,1.0,HARD,4.0,True,1,True,18.0,16.2,24.0,60.0,False,2.2,92.57,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,18.0,16.3,24.2,60.0,False,2.4,92.111,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,18.0,16.3,25.4,61.0,False,2.1,92.25,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,7.0,1.0,HARD,7.0,True,1,True,17.0,16.4,25.8,60.0,False,2.4,93.313,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,8.0,1.0,HARD,8.0,True,1,True,16.0,16.5,26.1,61.0,False,2.0,93.407,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,16.0,16.6,26.0,62.0,False,0.9,92.8,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,16.0,16.8,25.6,62.0,False,1.7,92.709,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,16.0,16.8,25.4,60.0,False,2.0,92.491,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,12.0,1.0,HARD,12.0,True,1,True,16.0,16.7,25.2,61.0,False,2.1,92.509,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,13.0,1.0,HARD,13.0,True,1,True,16.0,16.7,24.9,60.0,False,1.8,92.772,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,14.0,1.0,HARD,14.0,True,1,True,16.0,16.5,24.6,60.0,False,1.2,92.488,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,15.0,1.0,HARD,15.0,True,1,True,16.0,16.5,24.4,59.0,False,1.4,92.702,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,16.0,1.0,HARD,16.0,True,1,True,16.0,16.5,24.3,60.0,False,1.4,94.231,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,17.0,1.0,HARD,17.0,True,1,True,15.0,16.5,24.3,61.0,False,1.5,94.829,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,18.0,1.0,HARD,18.0,True,1,True,15.0,16.6,23.9,60.0,True,1.6,95.384,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,19.0,1.0,HARD,19.0,True,1,False,15.0,16.2,22.9,64.0,True,1.5,101.868,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,20.0,2.0,INTERMEDIATE,1.0,True,1,False,17.0,15.9,22.3,67.0,True,1.6,119.15,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,21.0,2.0,INTERMEDIATE,2.0,True,1,True,17.0,15.4,22.1,68.0,True,0.9,101.997,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,22.0,2.0,INTERMEDIATE,3.0,True,1,True,17.0,15.2,22.0,68.0,True,0.7,104.936,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,23.0,2.0,INTERMEDIATE,4.0,True,1,True,17.0,15.1,21.9,68.0,True,0.8,106.214,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,24.0,2.0,INTERMEDIATE,5.0,True,1,True,17.0,15.1,22.0,69.0,True,0.8,110.729,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,25.0,2.0,INTERMEDIATE,6.0,True,1,True,17.0,15.1,21.5,68.0,True,0.9,107.327,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,26.0,2.0,INTERMEDIATE,7.0,True,1,True,17.0,15.1,21.4,68.0,True,0.7,105.736,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,27.0,2.0,INTERMEDIATE,8.0,True,1,True,17.0,15.0,21.1,70.0,True,1.0,112.538,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,28.0,2.0,INTERMEDIATE,9.0,True,1,False,16.0,14.9,20.9,71.0,True,1.1,105.224,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,29.0,3.0,INTERMEDIATE,1.0,True,1,False,17.0,14.9,20.7,72.0,True,1.0,124.385,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,30.0,3.0,INTERMEDIATE,2.0,True,1,True,17.0,14.7,20.7,73.0,True,1.4,100.021,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,31.0,3.0,INTERMEDIATE,3.0,True,1,True,17.0,14.5,20.7,73.0,True,1.6,102.676,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,32.0,3.0,INTERMEDIATE,4.0,True,1,True,17.0,14.5,20.7,74.0,True,1.4,104.035,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,33.0,3.0,INTERMEDIATE,5.0,True,1,True,17.0,14.6,21.2,76.0,True,1.6,104.641,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,34.0,3.0,INTERMEDIATE,6.0,True,1,True,16.0,14.5,21.2,75.0,True,1.4,105.045,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,35.0,3.0,INTERMEDIATE,7.0,True,1,True,16.0,14.6,21.2,75.0,True,1.7,103.534,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,36.0,3.0,INTERMEDIATE,8.0,True,1,True,16.0,14.6,22.5,78.0,True,1.3,101.845,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,37.0,3.0,INTERMEDIATE,9.0,True,1,False,16.0,14.6,24.2,76.0,True,1.9,99.697,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,38.0,4.0,MEDIUM,1.0,True,1,False,17.0,14.8,24.6,75.0,False,1.2,120.171,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,39.0,4.0,MEDIUM,2.0,True,1,True,16.0,15.2,24.2,73.0,False,2.2,92.722,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,40.0,4.0,MEDIUM,3.0,True,1,True,16.0,15.3,24.2,76.0,False,1.1,93.219,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,41.0,4.0,MEDIUM,4.0,True,1,True,16.0,15.2,25.0,75.0,False,1.4,90.689,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,42.0,4.0,MEDIUM,5.0,True,1,True,16.0,15.3,24.9,75.0,False,1.6,90.542,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,43.0,4.0,MEDIUM,6.0,True,1,True,16.0,15.4,24.5,73.0,True,2.0,90.229,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,44.0,4.0,MEDIUM,7.0,True,1,True,16.0,15.5,25.0,73.0,False,2.0,90.518,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,45.0,4.0,MEDIUM,8.0,True,1,True,16.0,15.6,24.9,69.0,False,0.9,90.565,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,46.0,4.0,MEDIUM,9.0,True,1,True,16.0,15.6,24.9,71.0,False,1.1,90.136,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,47.0,4.0,MEDIUM,10.0,True,1,False,16.0,15.7,25.2,72.0,False,1.5,90.795,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,48.0,5.0,SOFT,1.0,True,1,False,17.0,15.8,25.2,69.0,False,1.8,125.507,True,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,49.0,5.0,SOFT,2.0,True,1,True,17.0,15.9,25.5,69.0,False,1.4,97.36,False,52,2024,12,British Grand Prix,2024_12
+PER,Red Bull Racing,50.0,5.0,SOFT,3.0,True,1,True,17.0,15.8,25.2,69.0,False,0.7,89.707,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,1.0,1.0,SOFT,1.0,True,1,False,14.0,16.2,33.0,63.0,False,1.6,102.231,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,2.0,1.0,SOFT,2.0,True,1,True,14.0,16.2,33.0,61.0,False,1.8,93.563,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,3.0,1.0,SOFT,3.0,True,1,True,14.0,16.3,24.3,61.0,False,1.9,93.487,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,4.0,1.0,SOFT,4.0,True,1,True,14.0,16.3,24.1,61.0,False,2.5,93.221,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,5.0,1.0,SOFT,5.0,True,1,True,14.0,16.3,24.2,60.0,False,2.4,93.271,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,6.0,1.0,SOFT,6.0,True,1,True,14.0,16.3,25.4,61.0,False,2.1,93.788,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,7.0,1.0,SOFT,7.0,True,1,True,15.0,16.4,25.8,60.0,False,2.4,94.51,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,8.0,1.0,SOFT,8.0,True,1,True,18.0,16.5,26.1,61.0,False,2.0,96.323,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,9.0,1.0,SOFT,9.0,True,1,True,18.0,16.6,26.0,62.0,False,0.9,95.322,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,10.0,1.0,SOFT,10.0,True,1,True,19.0,16.8,25.6,62.0,False,1.7,95.828,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,11.0,1.0,SOFT,11.0,True,1,True,19.0,16.7,25.3,59.0,False,2.1,95.012,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,12.0,1.0,SOFT,12.0,True,1,False,19.0,16.7,25.2,61.0,False,2.1,94.235,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,13.0,2.0,MEDIUM,1.0,True,1,False,19.0,16.6,24.8,59.0,False,2.1,115.049,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,14.0,2.0,MEDIUM,2.0,True,1,True,19.0,16.5,24.6,59.0,False,1.9,92.45,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,15.0,2.0,MEDIUM,3.0,True,1,True,19.0,16.5,24.4,59.0,False,1.4,92.479,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,16.0,2.0,MEDIUM,4.0,True,1,True,19.0,16.4,24.3,62.0,False,1.6,95.202,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,17.0,2.0,MEDIUM,5.0,True,1,True,19.0,16.5,24.3,61.0,False,1.5,98.106,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,18.0,2.0,MEDIUM,6.0,True,1,True,19.0,16.4,23.2,63.0,True,1.5,99.637,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,19.0,2.0,MEDIUM,7.0,True,1,False,19.0,16.1,22.5,67.0,True,0.7,106.313,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,20.0,3.0,INTERMEDIATE,1.0,True,1,False,19.0,15.9,22.3,67.0,True,1.6,125.955,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,21.0,3.0,INTERMEDIATE,2.0,True,1,True,19.0,15.4,22.1,68.0,True,0.9,104.56,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,22.0,3.0,INTERMEDIATE,3.0,True,1,True,19.0,15.2,22.0,69.0,True,1.2,110.248,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,23.0,3.0,INTERMEDIATE,4.0,True,1,True,19.0,15.1,22.0,68.0,True,0.8,110.081,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,24.0,3.0,INTERMEDIATE,5.0,True,1,True,19.0,15.1,22.0,67.0,True,1.0,108.867,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,25.0,3.0,INTERMEDIATE,6.0,True,1,True,19.0,15.1,21.4,68.0,True,0.7,108.245,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,26.0,3.0,INTERMEDIATE,7.0,True,1,False,19.0,15.1,21.2,68.0,True,0.6,105.113,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,27.0,4.0,INTERMEDIATE,1.0,True,1,False,19.0,15.0,21.0,69.0,True,0.9,124.515,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,28.0,4.0,INTERMEDIATE,2.0,True,1,True,19.0,14.9,20.7,70.0,True,0.9,101.866,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,29.0,4.0,INTERMEDIATE,3.0,True,1,True,19.0,14.8,20.7,73.0,True,1.7,101.993,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,30.0,4.0,INTERMEDIATE,4.0,True,1,True,19.0,14.6,20.7,73.0,True,1.7,103.157,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,31.0,4.0,INTERMEDIATE,5.0,True,1,True,19.0,14.5,20.7,73.0,True,1.6,104.316,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,32.0,4.0,INTERMEDIATE,6.0,True,1,True,19.0,14.6,21.0,75.0,True,0.5,105.029,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,33.0,4.0,INTERMEDIATE,7.0,True,1,True,19.0,14.6,21.3,76.0,True,1.5,105.412,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,34.0,4.0,INTERMEDIATE,8.0,True,1,True,18.0,14.6,21.2,75.0,True,1.7,108.01,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,35.0,4.0,INTERMEDIATE,9.0,True,1,True,18.0,14.5,21.4,76.0,True,1.2,102.569,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,36.0,4.0,INTERMEDIATE,10.0,True,1,True,18.0,14.6,23.8,77.0,True,1.8,102.823,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,37.0,4.0,INTERMEDIATE,11.0,True,1,False,18.0,14.6,24.6,78.0,False,1.4,101.608,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,38.0,5.0,SOFT,2.0,False,1,False,18.0,15.1,24.4,74.0,False,0.8,126.729,True,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,39.0,5.0,SOFT,3.0,False,1,True,18.0,15.3,24.2,76.0,False,1.1,92.696,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,40.0,5.0,SOFT,4.0,False,1,True,18.0,15.3,24.7,75.0,False,0.8,93.17,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,41.0,5.0,SOFT,5.0,False,1,True,18.0,15.3,24.9,75.0,False,1.6,91.151,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,42.0,5.0,SOFT,6.0,False,1,True,18.0,15.4,24.5,72.0,True,2.0,91.121,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,43.0,5.0,SOFT,7.0,False,1,True,18.0,15.5,25.0,73.0,False,2.0,91.014,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,44.0,5.0,SOFT,8.0,False,1,True,18.0,15.5,25.0,71.0,False,2.0,91.378,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,45.0,5.0,SOFT,9.0,False,1,True,18.0,15.6,24.9,71.0,False,1.1,91.36,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,46.0,5.0,SOFT,10.0,False,1,True,18.0,15.7,25.2,71.0,False,1.2,91.43,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,47.0,5.0,SOFT,11.0,False,1,True,18.0,15.8,25.2,69.0,False,1.8,91.283,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,48.0,5.0,SOFT,12.0,False,1,True,18.0,15.8,25.4,69.0,False,1.7,91.556,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,49.0,5.0,SOFT,13.0,False,1,True,18.0,15.9,25.3,68.0,False,1.2,92.504,False,52,2024,12,British Grand Prix,2024_12
+ZHO,Kick Sauber,50.0,5.0,SOFT,14.0,False,1,True,18.0,15.8,25.2,69.0,False,0.7,91.749,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,16.2,33.0,63.0,False,1.6,95.211,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,16.2,33.0,61.0,False,1.8,91.418,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,16.3,24.3,61.0,False,1.9,91.298,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,16.3,24.1,61.0,False,2.5,91.799,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,16.3,24.2,60.0,False,2.4,91.628,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,16.2,24.3,61.0,False,2.1,91.625,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,16.4,25.8,60.0,False,2.4,91.663,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,16.4,26.0,60.0,False,1.6,91.731,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,16.6,26.0,62.0,False,0.9,91.621,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,16.8,25.7,61.0,False,1.5,91.639,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,16.8,25.4,60.0,False,2.0,91.586,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,16.7,25.2,61.0,False,2.1,91.619,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,16.7,24.9,60.0,False,1.8,91.716,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,16.5,24.6,60.0,False,1.2,91.478,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,16.5,24.6,59.0,False,1.9,91.566,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,16.5,24.3,60.0,False,1.4,91.626,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,16.4,24.3,62.0,False,1.6,94.793,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,16.6,23.9,60.0,True,1.6,96.365,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,16.4,23.2,63.0,True,1.5,104.151,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,16.1,22.5,67.0,True,0.7,99.962,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,15.6,22.1,69.0,True,1.6,92.753,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,15.4,22.1,68.0,True,0.9,91.344,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,15.2,22.0,69.0,True,1.2,91.497,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,15.1,21.9,68.0,True,0.8,91.968,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,True,4.0,15.1,22.0,69.0,True,0.8,94.781,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,True,4.0,15.1,22.0,67.0,True,1.0,99.949,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,27.0,1.0,MEDIUM,27.0,True,1,False,4.0,15.1,21.4,68.0,True,0.7,107.698,True,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,28.0,2.0,INTERMEDIATE,1.0,True,1,False,5.0,15.0,21.1,70.0,True,1.0,124.342,True,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,29.0,2.0,INTERMEDIATE,2.0,True,1,True,4.0,14.9,20.9,71.0,True,1.1,100.405,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,30.0,2.0,INTERMEDIATE,3.0,True,1,True,4.0,14.9,20.7,72.0,True,1.0,101.237,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,31.0,2.0,INTERMEDIATE,4.0,True,1,True,4.0,14.8,20.7,73.0,True,1.7,101.902,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,32.0,2.0,INTERMEDIATE,5.0,True,1,True,4.0,14.6,20.7,73.0,True,1.7,103.085,False,52,2024,12,British Grand Prix,2024_12
+RUS,Mercedes,33.0,2.0,INTERMEDIATE,6.0,True,1,False,4.0,14.5,20.7,74.0,True,1.4,106.221,True,52,2024,12,British Grand Prix,2024_12

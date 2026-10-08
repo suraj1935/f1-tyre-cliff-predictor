@@ -1,0 +1,1060 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,14.3,21.0,77.0,False,0.9,94.725,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,14.2,20.8,77.0,False,0.7,93.943,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,14.3,20.8,77.0,False,1.5,93.639,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,14.3,20.9,77.0,False,1.1,93.744,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,14.3,20.7,77.0,False,1.5,93.776,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,14.3,20.7,77.0,False,1.1,93.646,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,14.3,20.6,78.0,False,1.4,93.526,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,14.3,20.7,77.0,False,2.3,93.536,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,14.3,20.7,78.0,False,1.2,93.529,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,14.3,20.7,77.0,False,1.7,93.555,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,14.3,20.6,78.0,False,0.8,93.498,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,14.3,20.2,78.0,False,1.1,93.643,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,14.3,20.4,78.0,False,1.0,93.64,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,14.3,20.4,78.0,False,1.0,93.38,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,14.3,20.3,77.0,False,1.3,93.368,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,14.5,20.1,76.0,False,1.8,93.431,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,14.5,19.9,76.0,False,1.6,93.542,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,14.4,20.0,77.0,False,1.9,93.353,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,14.4,20.1,77.0,False,1.3,93.358,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,14.4,20.1,76.0,False,0.9,93.064,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,False,1.0,14.5,20.0,77.0,False,1.0,95.22,True,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,22.0,2.0,HARD,1.0,True,1,False,5.0,14.4,20.0,77.0,False,1.4,114.078,True,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,23.0,2.0,HARD,2.0,True,1,True,5.0,14.5,20.0,77.0,False,1.0,92.682,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,24.0,2.0,HARD,3.0,True,1,True,4.0,14.5,19.9,77.0,False,0.9,92.291,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,25.0,2.0,HARD,4.0,True,1,True,3.0,14.4,19.6,77.0,False,0.7,92.506,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,26.0,2.0,HARD,5.0,True,1,True,3.0,14.4,19.6,77.0,False,1.6,92.448,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,27.0,2.0,HARD,6.0,True,1,True,3.0,14.4,19.6,77.0,False,1.1,92.346,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,28.0,2.0,HARD,7.0,True,1,True,3.0,14.5,19.5,78.0,False,0.5,92.463,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,29.0,2.0,HARD,8.0,True,1,True,3.0,14.5,19.5,78.0,False,0.7,92.148,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,30.0,2.0,HARD,9.0,True,1,True,2.0,14.6,19.7,77.0,False,0.7,92.646,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,31.0,2.0,HARD,10.0,True,1,True,2.0,14.6,19.7,77.0,False,0.7,91.734,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,32.0,2.0,HARD,11.0,True,1,True,1.0,14.6,19.5,77.0,False,1.2,92.033,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,33.0,2.0,HARD,12.0,True,1,True,1.0,14.6,19.4,77.0,False,1.4,91.814,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,34.0,2.0,HARD,13.0,True,1,True,1.0,14.5,19.4,78.0,False,0.9,91.782,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,35.0,2.0,HARD,14.0,True,1,True,1.0,14.6,19.4,77.0,False,1.1,92.01,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,36.0,2.0,HARD,15.0,True,1,True,1.0,14.5,19.4,78.0,False,1.4,91.758,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,37.0,2.0,HARD,16.0,True,1,True,1.0,14.4,19.3,78.0,False,0.9,91.739,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,38.0,2.0,HARD,17.0,True,1,True,1.0,14.5,19.3,78.0,False,1.2,91.788,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,39.0,2.0,HARD,18.0,True,1,True,1.0,14.5,19.2,77.0,False,1.9,91.779,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,40.0,2.0,HARD,19.0,True,1,True,1.0,14.4,19.3,78.0,False,0.8,91.513,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,41.0,2.0,HARD,20.0,True,1,True,1.0,14.5,19.2,77.0,False,0.5,91.58,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,42.0,2.0,HARD,21.0,True,1,True,1.0,14.5,19.4,77.0,False,1.6,91.468,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,43.0,2.0,HARD,22.0,True,1,True,1.0,14.5,19.4,78.0,False,1.4,91.441,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,44.0,2.0,HARD,23.0,True,1,True,1.0,14.5,19.4,77.0,False,1.1,91.601,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,45.0,2.0,HARD,24.0,True,1,True,1.0,14.5,19.4,77.0,False,1.1,91.604,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,46.0,2.0,HARD,25.0,True,1,True,1.0,14.5,19.4,77.0,False,1.1,91.467,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,47.0,2.0,HARD,26.0,True,1,True,1.0,14.6,19.4,77.0,False,1.4,91.377,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,48.0,2.0,HARD,27.0,True,1,True,1.0,14.5,19.2,77.0,False,1.3,91.358,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,49.0,2.0,HARD,28.0,True,1,True,1.0,14.5,19.2,77.0,False,1.2,91.275,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,50.0,2.0,HARD,29.0,True,1,True,1.0,14.6,19.3,77.0,False,1.4,91.364,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,51.0,2.0,HARD,30.0,True,1,True,1.0,14.6,19.4,77.0,False,2.4,91.185,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,52.0,2.0,HARD,31.0,True,1,True,1.0,14.6,19.3,77.0,False,1.3,91.041,False,53,2025,3,Japanese Grand Prix,2025_03
+VER,Red Bull Racing,53.0,2.0,HARD,32.0,True,1,True,1.0,14.6,19.0,76.0,False,2.1,91.548,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,14.3,21.0,77.0,False,0.9,95.761,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,14.2,20.8,77.0,False,0.7,93.947,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,14.3,20.8,77.0,False,1.5,93.789,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,14.3,20.9,77.0,False,1.1,93.838,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,14.3,20.7,77.0,False,1.5,93.947,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,14.3,20.7,77.0,False,1.1,93.936,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,14.3,20.6,78.0,False,1.4,93.82,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,14.3,20.7,77.0,False,2.3,93.588,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,14.3,20.7,78.0,False,1.2,93.512,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,14.3,20.7,77.0,False,1.7,93.648,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,14.3,20.6,78.0,False,0.8,93.574,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,14.3,20.2,78.0,False,1.1,93.465,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,14.3,20.4,78.0,False,1.0,93.466,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,14.3,20.4,78.0,False,1.0,93.513,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,14.3,20.3,77.0,False,1.3,93.51,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,14.5,20.1,76.0,False,1.8,93.401,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,14.5,19.9,76.0,False,1.6,93.328,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,14.4,20.0,77.0,False,1.9,93.261,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,14.4,20.1,77.0,False,1.3,92.988,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,14.4,20.1,76.0,False,0.9,93.119,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,False,2.0,14.5,20.0,77.0,False,1.0,95.034,True,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,22.0,2.0,HARD,1.0,True,1,False,6.0,14.4,20.0,77.0,False,1.4,114.797,True,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,23.0,2.0,HARD,2.0,True,1,True,6.0,14.5,20.0,77.0,False,1.0,92.719,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,24.0,2.0,HARD,3.0,True,1,True,5.0,14.5,19.9,77.0,False,0.9,92.717,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,25.0,2.0,HARD,4.0,True,1,True,5.0,14.4,19.6,77.0,False,0.7,92.238,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,26.0,2.0,HARD,5.0,True,1,True,4.0,14.4,19.6,78.0,False,1.8,92.567,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,27.0,2.0,HARD,6.0,True,1,True,4.0,14.4,19.6,77.0,False,1.1,92.303,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,28.0,2.0,HARD,7.0,True,1,True,4.0,14.5,19.5,78.0,False,0.5,92.084,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,29.0,2.0,HARD,8.0,True,1,True,4.0,14.5,19.5,78.0,False,0.7,92.176,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,30.0,2.0,HARD,9.0,True,1,True,3.0,14.6,19.7,77.0,False,0.7,92.106,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,31.0,2.0,HARD,10.0,True,1,True,3.0,14.6,19.7,77.0,False,0.7,91.76,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,32.0,2.0,HARD,11.0,True,1,True,2.0,14.6,19.5,77.0,False,1.2,91.911,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,33.0,2.0,HARD,12.0,True,1,True,2.0,14.6,19.4,77.0,False,1.4,91.906,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,34.0,2.0,HARD,13.0,True,1,True,2.0,14.5,19.4,78.0,False,0.9,91.901,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,35.0,2.0,HARD,14.0,True,1,True,2.0,14.6,19.4,77.0,False,1.1,91.976,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,36.0,2.0,HARD,15.0,True,1,True,2.0,14.5,19.4,78.0,False,1.4,91.627,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,37.0,2.0,HARD,16.0,True,1,True,2.0,14.4,19.3,78.0,False,0.9,91.736,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,38.0,2.0,HARD,17.0,True,1,True,2.0,14.5,19.3,78.0,False,1.2,91.658,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,39.0,2.0,HARD,18.0,True,1,True,2.0,14.5,19.2,77.0,False,1.9,91.963,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,40.0,2.0,HARD,19.0,True,1,True,2.0,14.4,19.3,78.0,False,0.8,91.586,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,41.0,2.0,HARD,20.0,True,1,True,2.0,14.5,19.4,77.0,False,1.6,91.521,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,42.0,2.0,HARD,21.0,True,1,True,2.0,14.5,19.4,77.0,False,1.6,91.456,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,43.0,2.0,HARD,22.0,True,1,True,2.0,14.5,19.4,78.0,False,1.4,91.573,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,44.0,2.0,HARD,23.0,True,1,True,2.0,14.5,19.4,77.0,False,1.1,91.408,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,45.0,2.0,HARD,24.0,True,1,True,2.0,14.5,19.4,77.0,False,1.1,91.524,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,46.0,2.0,HARD,25.0,True,1,True,2.0,14.5,19.4,77.0,False,1.1,91.383,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,47.0,2.0,HARD,26.0,True,1,True,2.0,14.6,19.4,77.0,False,1.4,91.364,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,48.0,2.0,HARD,27.0,True,1,True,2.0,14.5,19.2,77.0,False,1.3,91.402,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,49.0,2.0,HARD,28.0,True,1,True,2.0,14.5,19.2,77.0,False,1.2,91.461,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,50.0,2.0,HARD,29.0,True,1,True,2.0,14.6,19.3,77.0,False,1.4,91.153,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,51.0,2.0,HARD,30.0,True,1,True,2.0,14.6,19.4,77.0,False,2.4,91.116,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,52.0,2.0,HARD,31.0,True,1,True,2.0,14.6,19.3,77.0,False,1.3,91.446,False,53,2025,3,Japanese Grand Prix,2025_03
+NOR,McLaren,53.0,2.0,HARD,32.0,True,1,True,2.0,14.6,19.0,76.0,False,2.1,91.423,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,14.3,21.0,77.0,False,0.9,96.482,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,14.2,20.8,77.0,False,0.7,94.084,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,14.3,20.8,77.0,False,1.5,94.042,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,14.3,20.9,77.0,False,1.1,93.699,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,14.3,20.7,77.0,False,1.5,93.967,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,14.3,20.7,77.0,False,1.1,93.831,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,14.3,20.6,78.0,False,1.4,93.849,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,14.3,20.7,77.0,False,2.3,93.772,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,14.3,20.7,78.0,False,1.2,93.59,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,14.3,20.7,77.0,False,1.7,94.175,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,14.3,20.6,78.0,False,0.8,93.479,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,14.3,20.2,78.0,False,1.1,93.334,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,14.3,20.4,78.0,False,1.0,93.253,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,14.3,20.4,78.0,False,1.0,93.56,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,14.3,20.3,77.0,False,1.3,93.361,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,14.5,20.1,76.0,False,1.8,93.572,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,14.5,19.9,76.0,False,1.6,93.667,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,14.4,20.0,77.0,False,1.9,93.66,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,14.4,20.1,77.0,False,1.3,93.435,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,False,3.0,14.4,20.1,76.0,False,0.9,95.359,True,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,21.0,2.0,HARD,1.0,True,1,False,9.0,14.5,20.0,77.0,False,1.0,113.035,True,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,22.0,2.0,HARD,2.0,True,1,True,7.0,14.4,20.0,77.0,False,1.4,93.844,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,23.0,2.0,HARD,3.0,True,1,True,7.0,14.5,20.0,77.0,False,1.0,93.017,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,24.0,2.0,HARD,4.0,True,1,True,6.0,14.5,19.9,77.0,False,0.9,92.386,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,25.0,2.0,HARD,5.0,True,1,True,6.0,14.4,19.6,77.0,False,0.7,92.399,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,26.0,2.0,HARD,6.0,True,1,True,5.0,14.4,19.6,78.0,False,1.8,92.44,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,27.0,2.0,HARD,7.0,True,1,True,5.0,14.4,19.6,77.0,False,1.1,92.435,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,28.0,2.0,HARD,8.0,True,1,True,5.0,14.5,19.5,78.0,False,0.5,92.142,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,29.0,2.0,HARD,9.0,True,1,True,5.0,14.5,19.5,78.0,False,0.7,92.181,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,30.0,2.0,HARD,10.0,True,1,True,5.0,14.6,19.7,77.0,False,0.7,92.047,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,31.0,2.0,HARD,11.0,True,1,True,4.0,14.6,19.7,77.0,False,0.7,92.001,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,32.0,2.0,HARD,12.0,True,1,True,3.0,14.6,19.5,77.0,False,1.2,91.828,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,33.0,2.0,HARD,13.0,True,1,True,3.0,14.6,19.4,77.0,False,1.4,91.432,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,34.0,2.0,HARD,14.0,True,1,True,3.0,14.5,19.4,78.0,False,0.9,91.681,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,35.0,2.0,HARD,15.0,True,1,True,3.0,14.6,19.4,77.0,False,1.1,91.854,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,36.0,2.0,HARD,16.0,True,1,True,3.0,14.5,19.4,78.0,False,1.4,91.615,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,37.0,2.0,HARD,17.0,True,1,True,3.0,14.4,19.3,78.0,False,0.9,91.616,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,38.0,2.0,HARD,18.0,True,1,True,3.0,14.5,19.3,78.0,False,1.2,91.762,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,39.0,2.0,HARD,19.0,True,1,True,3.0,14.5,19.2,77.0,False,1.9,91.631,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,40.0,2.0,HARD,20.0,True,1,True,3.0,14.4,19.3,78.0,False,0.8,91.475,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,41.0,2.0,HARD,21.0,True,1,True,3.0,14.5,19.4,77.0,False,1.6,91.565,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,42.0,2.0,HARD,22.0,True,1,True,3.0,14.5,19.4,77.0,False,1.6,91.33,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,43.0,2.0,HARD,23.0,True,1,True,3.0,14.5,19.4,78.0,False,1.4,91.42,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,44.0,2.0,HARD,24.0,True,1,True,3.0,14.5,19.4,77.0,False,1.1,91.875,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,45.0,2.0,HARD,25.0,True,1,True,3.0,14.5,19.4,77.0,False,1.1,91.551,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,46.0,2.0,HARD,26.0,True,1,True,3.0,14.5,19.4,77.0,False,1.1,91.284,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,47.0,2.0,HARD,27.0,True,1,True,3.0,14.6,19.4,77.0,False,1.4,91.222,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,48.0,2.0,HARD,28.0,True,1,True,3.0,14.5,19.2,77.0,False,1.3,91.109,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,49.0,2.0,HARD,29.0,True,1,True,3.0,14.5,19.2,77.0,False,1.2,91.841,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,50.0,2.0,HARD,30.0,True,1,True,3.0,14.6,19.3,77.0,False,1.4,91.544,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,51.0,2.0,HARD,31.0,True,1,True,3.0,14.6,19.4,77.0,False,2.4,91.139,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,52.0,2.0,HARD,32.0,True,1,True,3.0,14.6,19.3,77.0,False,1.3,91.201,False,53,2025,3,Japanese Grand Prix,2025_03
+PIA,McLaren,53.0,2.0,HARD,33.0,True,1,True,3.0,14.6,19.0,76.0,False,2.1,91.039,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,14.3,21.0,77.0,False,0.9,97.371,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,14.2,20.8,77.0,False,0.7,94.121,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,14.3,20.8,77.0,False,1.5,94.129,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,14.3,20.9,77.0,False,1.1,93.954,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,14.2,20.6,77.0,False,1.3,93.878,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,14.3,20.7,77.0,False,1.1,93.879,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,14.3,20.6,78.0,False,1.4,93.897,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,14.3,20.7,77.0,False,2.3,93.787,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,14.3,20.7,78.0,False,1.2,94.055,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,14.3,20.7,77.0,False,1.7,93.827,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,14.3,20.6,78.0,False,0.8,93.664,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,14.3,20.2,78.0,False,1.1,93.777,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,14.3,20.4,78.0,False,1.0,93.413,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,14.3,20.4,78.0,False,1.0,93.699,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,14.3,20.3,77.0,False,1.3,93.475,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,14.5,20.1,76.0,False,1.8,93.665,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,14.5,19.9,76.0,False,1.6,93.809,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,14.4,20.0,77.0,False,1.9,93.648,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,14.4,20.1,77.0,False,1.3,93.545,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,14.4,20.1,76.0,False,0.9,93.628,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,False,3.0,14.5,20.0,77.0,False,1.0,95.423,True,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,22.0,2.0,HARD,1.0,True,1,False,10.0,14.4,20.0,77.0,False,1.4,113.611,True,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,23.0,2.0,HARD,2.0,True,1,True,10.0,14.5,20.0,77.0,False,1.0,93.95,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,24.0,2.0,HARD,3.0,True,1,True,8.0,14.5,19.7,77.0,False,1.6,93.124,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,25.0,2.0,HARD,4.0,True,1,True,7.0,14.4,19.6,77.0,False,0.7,92.679,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,26.0,2.0,HARD,5.0,True,1,True,6.0,14.4,19.6,78.0,False,1.8,92.503,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,27.0,2.0,HARD,6.0,True,1,True,6.0,14.4,19.6,77.0,False,1.1,92.539,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,28.0,2.0,HARD,7.0,True,1,True,6.0,14.5,19.5,78.0,False,0.5,92.3,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,29.0,2.0,HARD,8.0,True,1,True,6.0,14.5,19.5,78.0,False,0.7,92.312,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,30.0,2.0,HARD,9.0,True,1,True,6.0,14.6,19.7,77.0,False,0.7,92.063,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,31.0,2.0,HARD,10.0,True,1,True,5.0,14.6,19.7,77.0,False,0.7,92.013,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,32.0,2.0,HARD,11.0,True,1,True,4.0,14.6,19.5,77.0,False,1.2,92.025,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,33.0,2.0,HARD,12.0,True,1,True,4.0,14.6,19.4,77.0,False,1.4,91.772,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,34.0,2.0,HARD,13.0,True,1,True,4.0,14.5,19.4,78.0,False,0.9,92.134,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,35.0,2.0,HARD,14.0,True,1,True,4.0,14.6,19.4,77.0,False,1.1,91.957,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,36.0,2.0,HARD,15.0,True,1,True,4.0,14.5,19.4,78.0,False,1.4,91.905,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,37.0,2.0,HARD,16.0,True,1,True,4.0,14.4,19.3,77.0,False,1.4,92.137,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,38.0,2.0,HARD,17.0,True,1,True,4.0,14.5,19.3,78.0,False,1.2,91.819,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,39.0,2.0,HARD,18.0,True,1,True,4.0,14.5,19.2,78.0,False,0.7,92.222,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,40.0,2.0,HARD,19.0,True,1,True,4.0,14.4,19.3,78.0,False,0.8,91.813,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,41.0,2.0,HARD,20.0,True,1,True,4.0,14.5,19.4,77.0,False,1.6,91.9,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,42.0,2.0,HARD,21.0,True,1,True,4.0,14.5,19.4,77.0,False,1.6,91.961,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,43.0,2.0,HARD,22.0,True,1,True,4.0,14.5,19.4,78.0,False,1.4,91.94,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,44.0,2.0,HARD,23.0,True,1,True,4.0,14.5,19.4,77.0,False,1.1,91.838,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,45.0,2.0,HARD,24.0,True,1,True,4.0,14.5,19.4,77.0,False,1.1,91.661,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,46.0,2.0,HARD,25.0,True,1,True,4.0,14.5,19.4,77.0,False,1.1,92.121,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,47.0,2.0,HARD,26.0,True,1,True,4.0,14.6,19.4,77.0,False,1.4,91.469,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,48.0,2.0,HARD,27.0,True,1,True,4.0,14.5,19.2,77.0,False,1.3,91.769,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,49.0,2.0,HARD,28.0,True,1,True,4.0,14.5,19.2,77.0,False,1.2,91.791,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,50.0,2.0,HARD,29.0,True,1,True,4.0,14.6,19.3,77.0,False,1.4,91.779,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,51.0,2.0,HARD,30.0,True,1,True,4.0,14.6,19.4,77.0,False,2.4,91.908,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,52.0,2.0,HARD,31.0,True,1,True,4.0,14.7,19.2,77.0,False,1.7,91.676,False,53,2025,3,Japanese Grand Prix,2025_03
+LEC,Ferrari,53.0,2.0,HARD,32.0,True,1,True,4.0,14.6,19.0,76.0,False,2.1,91.745,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,14.3,21.0,77.0,False,0.9,97.985,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,14.2,20.8,77.0,False,0.7,94.191,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,14.3,20.8,77.0,False,1.5,94.204,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,14.3,20.9,77.0,False,1.1,94.057,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,14.2,20.6,77.0,False,1.3,93.795,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,14.3,20.7,77.0,False,1.1,93.922,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,14.3,20.6,78.0,False,1.4,94.181,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,14.3,20.7,77.0,False,2.3,93.798,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,14.3,20.7,78.0,False,1.2,93.816,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,14.3,20.7,77.0,False,1.7,93.603,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,14.3,20.6,78.0,False,0.8,93.883,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,14.3,20.2,78.0,False,1.1,93.864,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,14.3,20.4,78.0,False,1.0,93.815,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,14.3,20.4,78.0,False,1.0,93.658,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,14.3,20.3,77.0,False,1.3,93.707,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,14.5,20.1,76.0,False,1.8,93.86,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,14.5,19.9,76.0,False,1.6,93.834,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,14.4,20.0,77.0,False,1.9,93.966,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,False,5.0,14.4,20.1,77.0,False,1.3,95.756,True,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,20.0,2.0,HARD,1.0,True,1,False,13.0,14.4,20.1,76.0,False,0.9,112.912,True,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,21.0,2.0,HARD,2.0,True,1,True,12.0,14.4,20.0,77.0,False,0.9,93.237,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,22.0,2.0,HARD,3.0,True,1,True,11.0,14.4,20.0,77.0,False,1.4,94.123,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,23.0,2.0,HARD,4.0,True,1,True,11.0,14.5,20.0,77.0,False,1.0,93.278,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,24.0,2.0,HARD,5.0,True,1,True,9.0,14.5,19.7,77.0,False,1.6,94.34,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,25.0,2.0,HARD,6.0,True,1,True,8.0,14.4,19.6,77.0,False,0.7,92.913,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,26.0,2.0,HARD,7.0,True,1,True,7.0,14.4,19.6,78.0,False,1.8,92.411,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,27.0,2.0,HARD,8.0,True,1,True,7.0,14.4,19.6,77.0,False,1.1,92.611,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,28.0,2.0,HARD,9.0,True,1,True,7.0,14.5,19.5,78.0,False,0.5,92.488,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,29.0,2.0,HARD,10.0,True,1,True,7.0,14.5,19.5,78.0,False,0.7,92.407,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,30.0,2.0,HARD,11.0,True,1,True,7.0,14.6,19.7,77.0,False,0.7,92.359,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,31.0,2.0,HARD,12.0,True,1,True,6.0,14.6,19.7,77.0,False,0.7,92.143,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,32.0,2.0,HARD,13.0,True,1,True,5.0,14.6,19.5,77.0,False,1.2,92.031,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,33.0,2.0,HARD,14.0,True,1,True,5.0,14.6,19.4,77.0,False,1.4,92.08,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,34.0,2.0,HARD,15.0,True,1,True,5.0,14.5,19.4,78.0,False,0.9,92.219,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,35.0,2.0,HARD,16.0,True,1,True,5.0,14.5,19.5,78.0,False,1.4,91.936,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,36.0,2.0,HARD,17.0,True,1,True,5.0,14.5,19.4,78.0,False,1.4,91.823,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,37.0,2.0,HARD,18.0,True,1,True,5.0,14.4,19.3,77.0,False,1.4,91.868,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,38.0,2.0,HARD,19.0,True,1,True,5.0,14.5,19.3,78.0,False,1.2,91.84,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,39.0,2.0,HARD,20.0,True,1,True,5.0,14.5,19.2,78.0,False,0.7,92.073,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,40.0,2.0,HARD,21.0,True,1,True,5.0,14.4,19.3,78.0,False,0.8,91.915,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,41.0,2.0,HARD,22.0,True,1,True,5.0,14.5,19.4,77.0,False,1.6,91.895,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,42.0,2.0,HARD,23.0,True,1,True,5.0,14.5,19.4,77.0,False,1.6,92.135,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,43.0,2.0,HARD,24.0,True,1,True,5.0,14.5,19.4,78.0,False,1.4,91.923,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,44.0,2.0,HARD,25.0,True,1,True,5.0,14.5,19.4,77.0,False,1.1,91.778,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,45.0,2.0,HARD,26.0,True,1,True,5.0,14.5,19.4,77.0,False,1.1,91.625,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,46.0,2.0,HARD,27.0,True,1,True,5.0,14.5,19.4,77.0,False,1.1,91.552,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,47.0,2.0,HARD,28.0,True,1,True,5.0,14.6,19.4,77.0,False,1.4,91.598,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,48.0,2.0,HARD,29.0,True,1,True,5.0,14.5,19.2,77.0,False,1.3,91.543,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,49.0,2.0,HARD,30.0,True,1,True,5.0,14.5,19.2,77.0,False,1.2,91.609,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,50.0,2.0,HARD,31.0,True,1,True,5.0,14.6,19.3,77.0,False,1.4,91.37,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,51.0,2.0,HARD,32.0,True,1,True,5.0,14.6,19.4,77.0,False,2.4,91.357,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,52.0,2.0,HARD,33.0,True,1,True,5.0,14.7,19.2,77.0,False,1.7,91.627,False,53,2025,3,Japanese Grand Prix,2025_03
+RUS,Mercedes,53.0,2.0,HARD,34.0,True,1,True,5.0,14.6,19.0,76.0,False,2.1,91.431,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,14.3,21.0,77.0,False,0.9,98.965,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,14.2,20.8,77.0,False,0.7,94.531,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,14.3,20.8,77.0,False,1.5,94.123,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,14.3,20.9,77.0,False,1.1,94.26,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,14.2,20.6,77.0,False,1.3,93.79,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,14.3,20.7,77.0,False,1.1,94.057,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,14.3,20.6,78.0,False,1.4,93.841,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,14.3,20.7,77.0,False,2.3,94.018,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,14.3,20.7,78.0,False,1.2,93.882,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,14.3,20.7,77.0,False,1.7,93.721,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,14.3,20.6,78.0,False,0.8,94.22,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,14.3,20.4,78.0,False,1.0,94.182,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,14.3,20.4,78.0,False,1.0,93.768,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,14.3,20.4,78.0,False,1.0,93.973,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,14.3,20.3,77.0,False,1.3,93.774,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,14.5,20.1,76.0,False,1.8,93.861,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,14.5,19.9,76.0,False,1.6,93.912,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,14.4,20.0,77.0,False,1.9,93.861,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,14.4,20.1,77.0,False,1.3,93.754,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,14.4,20.1,76.0,False,0.9,93.556,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,14.4,20.0,77.0,False,0.9,93.147,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,14.4,20.0,77.0,False,1.4,93.185,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,14.5,20.0,77.0,False,1.0,93.152,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,14.5,19.9,77.0,False,0.9,93.055,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,14.4,19.6,77.0,False,0.7,93.097,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,14.4,19.6,77.0,False,1.6,93.126,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,27.0,1.0,MEDIUM,27.0,True,1,True,1.0,14.4,19.6,77.0,False,1.1,93.347,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,28.0,1.0,MEDIUM,28.0,True,1,True,1.0,14.4,19.4,78.0,False,0.7,93.196,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,29.0,1.0,MEDIUM,29.0,True,1,True,1.0,14.5,19.5,78.0,False,0.7,92.961,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,30.0,1.0,MEDIUM,30.0,True,1,True,1.0,14.6,19.7,77.0,False,0.7,93.059,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,31.0,1.0,MEDIUM,31.0,True,1,False,1.0,14.6,19.7,77.0,False,0.7,95.456,True,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,32.0,2.0,HARD,1.0,True,1,False,6.0,14.6,19.5,77.0,False,1.2,115.527,True,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,33.0,2.0,HARD,2.0,True,1,True,6.0,14.6,19.4,77.0,False,1.2,91.4,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,34.0,2.0,HARD,3.0,True,1,True,6.0,14.5,19.4,78.0,False,0.9,91.486,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,35.0,2.0,HARD,4.0,True,1,True,6.0,14.5,19.5,78.0,False,1.4,91.54,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,36.0,2.0,HARD,5.0,True,1,True,6.0,14.5,19.4,78.0,False,1.4,91.571,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,37.0,2.0,HARD,6.0,True,1,True,6.0,14.4,19.3,77.0,False,1.4,91.697,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,38.0,2.0,HARD,7.0,True,1,True,6.0,14.5,19.3,78.0,False,1.2,91.784,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,39.0,2.0,HARD,8.0,True,1,True,6.0,14.5,19.2,78.0,False,0.7,91.844,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,40.0,2.0,HARD,9.0,True,1,True,6.0,14.4,19.3,78.0,False,0.8,91.609,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,41.0,2.0,HARD,10.0,True,1,True,6.0,14.5,19.4,77.0,False,1.6,91.357,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,42.0,2.0,HARD,11.0,True,1,True,6.0,14.5,19.4,77.0,False,1.6,91.486,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,43.0,2.0,HARD,12.0,True,1,True,6.0,14.5,19.4,78.0,False,1.4,91.495,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,44.0,2.0,HARD,13.0,True,1,True,6.0,14.5,19.4,77.0,False,1.1,91.34,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,45.0,2.0,HARD,14.0,True,1,True,6.0,14.5,19.4,77.0,False,1.1,91.307,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,46.0,2.0,HARD,15.0,True,1,True,6.0,14.5,19.4,77.0,False,1.1,91.072,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,47.0,2.0,HARD,16.0,True,1,True,6.0,14.6,19.4,77.0,False,1.4,91.238,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,48.0,2.0,HARD,17.0,True,1,True,6.0,14.5,19.2,77.0,False,1.3,91.145,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,49.0,2.0,HARD,18.0,True,1,True,6.0,14.5,19.2,77.0,False,1.2,91.154,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,50.0,2.0,HARD,19.0,True,1,True,6.0,14.6,19.4,77.0,False,1.2,90.965,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,51.0,2.0,HARD,20.0,True,1,True,6.0,14.6,19.4,77.0,False,2.4,91.053,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,52.0,2.0,HARD,21.0,True,1,True,6.0,14.7,19.2,77.0,False,1.7,91.058,False,53,2025,3,Japanese Grand Prix,2025_03
+ANT,Mercedes,53.0,2.0,HARD,22.0,True,1,True,6.0,14.6,19.0,76.0,False,2.1,91.696,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,1.0,1.0,HARD,1.0,True,1,False,8.0,14.3,21.0,77.0,False,0.9,100.279,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,2.0,1.0,HARD,2.0,True,1,True,8.0,14.2,20.8,77.0,False,0.7,95.275,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,3.0,1.0,HARD,3.0,True,1,True,8.0,14.3,20.8,77.0,False,1.5,94.254,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,4.0,1.0,HARD,4.0,True,1,True,8.0,14.3,20.9,77.0,False,1.1,94.147,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,5.0,1.0,HARD,5.0,True,1,True,8.0,14.2,20.6,77.0,False,1.3,93.82,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,6.0,1.0,HARD,6.0,True,1,True,7.0,14.3,20.7,77.0,False,1.1,93.941,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,7.0,1.0,HARD,7.0,True,1,True,7.0,14.3,20.6,78.0,False,1.4,94.139,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,8.0,1.0,HARD,8.0,True,1,True,7.0,14.3,20.7,77.0,False,2.3,93.912,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,9.0,1.0,HARD,9.0,True,1,True,7.0,14.3,20.7,78.0,False,1.2,93.812,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,10.0,1.0,HARD,10.0,True,1,True,7.0,14.3,20.7,77.0,False,1.7,93.522,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,11.0,1.0,HARD,11.0,True,1,True,7.0,14.3,20.6,78.0,False,0.8,93.956,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,12.0,1.0,HARD,12.0,True,1,True,7.0,14.3,20.4,78.0,False,1.0,94.033,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,13.0,1.0,HARD,13.0,True,1,True,7.0,14.3,20.4,78.0,False,1.0,93.926,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,14.0,1.0,HARD,14.0,True,1,True,7.0,14.3,20.4,78.0,False,1.0,93.985,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,15.0,1.0,HARD,15.0,True,1,True,7.0,14.3,20.3,77.0,False,1.3,93.888,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,16.0,1.0,HARD,16.0,True,1,True,7.0,14.5,20.1,76.0,False,1.8,94.068,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,17.0,1.0,HARD,17.0,True,1,True,7.0,14.5,19.9,76.0,False,1.6,93.76,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,18.0,1.0,HARD,18.0,True,1,True,7.0,14.4,20.0,77.0,False,1.9,94.034,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,19.0,1.0,HARD,19.0,True,1,True,7.0,14.4,20.1,77.0,False,1.3,94.077,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,20.0,1.0,HARD,20.0,True,1,True,6.0,14.4,20.1,76.0,False,0.9,93.747,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,21.0,1.0,HARD,21.0,True,1,True,5.0,14.4,20.0,77.0,False,0.9,93.729,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,22.0,1.0,HARD,22.0,True,1,True,2.0,14.4,20.0,77.0,False,1.4,93.698,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,23.0,1.0,HARD,23.0,True,1,True,2.0,14.5,20.0,77.0,False,1.0,93.177,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,24.0,1.0,HARD,24.0,True,1,True,2.0,14.5,19.9,77.0,False,0.9,93.548,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,25.0,1.0,HARD,25.0,True,1,True,2.0,14.4,19.6,77.0,False,0.7,93.387,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,26.0,1.0,HARD,26.0,True,1,True,2.0,14.4,19.6,77.0,False,1.6,93.204,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,27.0,1.0,HARD,27.0,True,1,True,2.0,14.4,19.6,77.0,False,1.1,93.152,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,28.0,1.0,HARD,28.0,True,1,True,2.0,14.5,19.5,78.0,False,0.5,93.04,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,29.0,1.0,HARD,29.0,True,1,True,2.0,14.5,19.5,78.0,False,0.7,93.215,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,30.0,1.0,HARD,30.0,True,1,False,4.0,14.6,19.7,77.0,False,0.7,96.186,True,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,31.0,2.0,MEDIUM,1.0,True,1,False,7.0,14.6,19.7,77.0,False,0.7,112.362,True,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,32.0,2.0,MEDIUM,2.0,True,1,True,7.0,14.6,19.5,77.0,False,1.2,91.803,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,33.0,2.0,MEDIUM,3.0,True,1,True,7.0,14.6,19.4,77.0,False,1.2,91.589,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,34.0,2.0,MEDIUM,4.0,True,1,True,7.0,14.5,19.4,78.0,False,0.9,91.884,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,35.0,2.0,MEDIUM,5.0,True,1,True,7.0,14.5,19.5,78.0,False,1.4,92.385,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,36.0,2.0,MEDIUM,6.0,True,1,True,7.0,14.5,19.4,78.0,False,1.4,91.915,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,37.0,2.0,MEDIUM,7.0,True,1,True,7.0,14.4,19.3,77.0,False,1.4,91.889,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,38.0,2.0,MEDIUM,8.0,True,1,True,7.0,14.5,19.3,78.0,False,1.2,91.869,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,39.0,2.0,MEDIUM,9.0,True,1,True,7.0,14.5,19.2,78.0,False,0.7,91.978,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,40.0,2.0,MEDIUM,10.0,True,1,True,7.0,14.4,19.3,78.0,False,0.8,91.663,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,41.0,2.0,MEDIUM,11.0,True,1,True,7.0,14.5,19.4,77.0,False,1.6,91.569,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,42.0,2.0,MEDIUM,12.0,True,1,True,7.0,14.5,19.4,77.0,False,1.6,91.517,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,43.0,2.0,MEDIUM,13.0,True,1,True,7.0,14.5,19.4,78.0,False,1.4,92.634,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,44.0,2.0,MEDIUM,14.0,True,1,True,7.0,14.5,19.4,77.0,False,1.1,92.185,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,45.0,2.0,MEDIUM,15.0,True,1,True,7.0,14.5,19.4,77.0,False,1.1,92.668,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,46.0,2.0,MEDIUM,16.0,True,1,True,7.0,14.5,19.4,77.0,False,1.5,91.792,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,47.0,2.0,MEDIUM,17.0,True,1,True,7.0,14.6,19.4,77.0,False,1.4,91.603,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,48.0,2.0,MEDIUM,18.0,True,1,True,7.0,14.6,19.2,77.0,False,1.0,91.502,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,49.0,2.0,MEDIUM,19.0,True,1,True,7.0,14.5,19.2,77.0,False,1.2,91.944,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,50.0,2.0,MEDIUM,20.0,True,1,True,7.0,14.6,19.4,77.0,False,1.2,91.832,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,51.0,2.0,MEDIUM,21.0,True,1,True,7.0,14.6,19.4,77.0,False,2.4,91.406,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,52.0,2.0,MEDIUM,22.0,True,1,True,7.0,14.7,19.2,77.0,False,1.7,91.842,False,53,2025,3,Japanese Grand Prix,2025_03
+HAM,Ferrari,53.0,2.0,MEDIUM,23.0,True,1,True,7.0,14.6,19.0,76.0,False,2.1,91.423,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,14.3,21.0,77.0,False,0.9,99.924,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,14.2,20.8,77.0,False,0.7,94.75,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,14.3,20.8,77.0,False,1.5,94.166,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,14.3,20.9,77.0,False,1.1,94.277,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,14.2,20.6,77.0,False,1.3,94.296,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,14.3,20.7,77.0,False,1.1,95.455,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,14.3,20.6,78.0,False,1.4,94.427,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,14.3,20.7,77.0,False,2.3,93.99,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,14.3,20.7,78.0,False,1.2,94.164,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,14.3,20.7,77.0,False,1.7,93.959,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,14.3,20.6,78.0,False,0.8,94.239,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,14.3,20.4,78.0,False,1.0,94.085,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,14.3,20.4,78.0,False,1.0,94.027,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,14.3,20.4,78.0,False,1.0,93.941,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,14.3,20.3,77.0,False,1.3,93.891,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,14.5,20.1,76.0,False,1.8,94.046,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,14.5,19.9,76.0,False,1.6,94.055,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,14.4,20.0,77.0,False,1.9,93.886,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,14.4,20.1,77.0,False,1.2,93.831,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,14.4,20.1,76.0,False,0.9,93.89,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,14.4,20.0,77.0,False,0.9,93.703,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,14.4,20.0,77.0,False,1.4,93.753,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,14.5,20.0,77.0,False,1.0,93.691,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,14.5,19.9,77.0,False,0.9,93.637,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,25.0,1.0,MEDIUM,25.0,True,1,False,4.0,14.4,19.6,77.0,False,0.7,96.218,True,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,26.0,2.0,HARD,1.0,True,1,False,10.0,14.4,19.6,78.0,False,1.8,115.586,True,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,27.0,2.0,HARD,2.0,True,1,True,10.0,14.4,19.6,77.0,False,1.1,93.198,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,28.0,2.0,HARD,3.0,True,1,True,10.0,14.5,19.5,78.0,False,0.5,93.202,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,29.0,2.0,HARD,4.0,True,1,True,10.0,14.5,19.6,78.0,False,0.6,94.109,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,30.0,2.0,HARD,5.0,True,1,True,9.0,14.6,19.7,77.0,False,0.7,93.239,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,31.0,2.0,HARD,6.0,True,1,True,8.0,14.5,19.5,77.0,False,1.2,93.033,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,32.0,2.0,HARD,7.0,True,1,True,8.0,14.6,19.5,77.0,False,1.2,92.588,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,33.0,2.0,HARD,8.0,True,1,True,8.0,14.6,19.4,77.0,False,1.2,92.359,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,34.0,2.0,HARD,9.0,True,1,True,8.0,14.5,19.4,78.0,False,0.9,92.16,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,35.0,2.0,HARD,10.0,True,1,True,8.0,14.5,19.5,78.0,False,1.4,92.172,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,36.0,2.0,HARD,11.0,True,1,True,8.0,14.5,19.4,78.0,False,1.4,92.081,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,37.0,2.0,HARD,12.0,True,1,True,8.0,14.4,19.3,77.0,False,1.4,92.124,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,38.0,2.0,HARD,13.0,True,1,True,8.0,14.5,19.3,78.0,False,1.2,91.986,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,39.0,2.0,HARD,14.0,True,1,True,8.0,14.5,19.2,78.0,False,0.7,91.965,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,40.0,2.0,HARD,15.0,True,1,True,8.0,14.5,19.2,77.0,False,0.5,92.001,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,41.0,2.0,HARD,16.0,True,1,True,8.0,14.5,19.4,77.0,False,1.6,92.057,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,42.0,2.0,HARD,17.0,True,1,True,8.0,14.5,19.4,78.0,False,1.2,92.027,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,43.0,2.0,HARD,18.0,True,1,True,8.0,14.5,19.4,78.0,False,1.4,91.811,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,44.0,2.0,HARD,19.0,True,1,True,8.0,14.5,19.4,77.0,False,1.1,91.919,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,45.0,2.0,HARD,20.0,True,1,True,8.0,14.5,19.4,77.0,False,1.1,91.726,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,46.0,2.0,HARD,21.0,True,1,True,8.0,14.5,19.4,77.0,False,1.5,91.729,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,47.0,2.0,HARD,22.0,True,1,True,8.0,14.6,19.4,77.0,False,1.4,91.778,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,48.0,2.0,HARD,23.0,True,1,True,8.0,14.6,19.2,77.0,False,1.0,91.678,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,49.0,2.0,HARD,24.0,True,1,True,8.0,14.5,19.2,77.0,False,1.2,91.627,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,50.0,2.0,HARD,25.0,True,1,True,8.0,14.6,19.4,77.0,False,1.2,91.386,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,51.0,2.0,HARD,26.0,True,1,True,8.0,14.6,19.4,77.0,False,2.4,91.458,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,52.0,2.0,HARD,27.0,True,1,True,8.0,14.7,19.2,77.0,False,1.7,91.317,False,53,2025,3,Japanese Grand Prix,2025_03
+HAD,Racing Bulls,53.0,2.0,HARD,28.0,True,1,True,8.0,14.6,19.0,76.0,False,2.1,91.5,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,14.3,21.0,77.0,False,0.9,100.786,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,14.2,20.8,77.0,False,0.7,95.445,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,14.3,20.8,77.0,False,1.5,94.501,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,14.3,20.9,77.0,False,1.1,94.317,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,14.2,20.6,77.0,False,1.3,94.138,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,14.3,20.7,77.0,False,1.1,94.448,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,14.3,20.6,78.0,False,1.4,94.442,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,14.3,20.7,77.0,False,2.3,94.49,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,14.3,20.7,78.0,False,1.2,94.194,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,14.3,20.7,77.0,False,1.7,94.124,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,14.3,20.6,78.0,False,0.8,94.225,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,14.3,20.4,78.0,False,1.0,94.001,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,14.3,20.4,78.0,False,1.0,93.942,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,14.3,20.4,78.0,False,1.0,94.155,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,14.3,20.3,77.0,False,1.3,93.805,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,14.5,20.1,76.0,False,1.8,94.359,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,14.5,19.9,76.0,False,1.6,94.223,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,9.0,14.4,20.0,77.0,False,1.9,94.077,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,9.0,14.4,20.1,77.0,False,1.2,94.213,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,8.0,14.4,20.1,76.0,False,0.9,93.993,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,7.0,14.4,20.0,77.0,False,0.9,93.823,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,14.4,20.0,77.0,False,1.4,93.861,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,14.5,20.0,77.0,False,1.0,94.013,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,24.0,1.0,MEDIUM,24.0,True,1,False,7.0,14.5,19.9,77.0,False,0.9,96.927,True,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,25.0,2.0,HARD,1.0,True,1,False,13.0,14.4,19.6,77.0,False,0.7,115.756,True,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,26.0,2.0,HARD,2.0,True,1,True,13.0,14.4,19.6,78.0,False,1.8,93.103,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,27.0,2.0,HARD,3.0,True,1,True,13.0,14.4,19.4,78.0,False,0.7,93.821,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,28.0,2.0,HARD,4.0,True,1,True,12.0,14.5,19.5,78.0,False,0.5,92.624,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,29.0,2.0,HARD,5.0,True,1,True,11.0,14.5,19.6,78.0,False,0.6,92.648,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,30.0,2.0,HARD,6.0,True,1,True,10.0,14.6,19.7,77.0,False,0.7,93.229,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,31.0,2.0,HARD,7.0,True,1,True,10.0,14.5,19.5,77.0,False,1.2,93.067,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,32.0,2.0,HARD,8.0,True,1,True,9.0,14.6,19.5,77.0,False,1.2,93.693,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,33.0,2.0,HARD,9.0,True,1,True,9.0,14.6,19.4,77.0,False,1.2,92.592,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,34.0,2.0,HARD,10.0,True,1,True,9.0,14.5,19.4,78.0,False,0.9,92.763,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,35.0,2.0,HARD,11.0,True,1,True,9.0,14.5,19.5,78.0,False,1.4,92.479,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,36.0,2.0,HARD,12.0,True,1,True,9.0,14.5,19.4,78.0,False,1.4,92.228,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,37.0,2.0,HARD,13.0,True,1,True,9.0,14.4,19.3,77.0,False,1.4,92.297,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,38.0,2.0,HARD,14.0,True,1,True,9.0,14.5,19.2,77.0,False,1.9,92.201,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,39.0,2.0,HARD,15.0,True,1,True,9.0,14.5,19.2,78.0,False,0.7,92.181,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,40.0,2.0,HARD,16.0,True,1,True,9.0,14.5,19.2,77.0,False,0.5,92.131,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,41.0,2.0,HARD,17.0,True,1,True,9.0,14.5,19.4,77.0,False,1.6,92.087,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,42.0,2.0,HARD,18.0,True,1,True,9.0,14.5,19.4,78.0,False,1.2,91.979,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,43.0,2.0,HARD,19.0,True,1,True,9.0,14.5,19.4,78.0,False,1.4,91.836,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,44.0,2.0,HARD,20.0,True,1,True,9.0,14.5,19.4,77.0,False,1.1,91.622,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,45.0,2.0,HARD,21.0,True,1,True,9.0,14.5,19.4,77.0,False,1.1,91.644,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,46.0,2.0,HARD,22.0,True,1,True,9.0,14.5,19.4,77.0,False,1.5,91.708,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,47.0,2.0,HARD,23.0,True,1,True,9.0,14.6,19.4,77.0,False,1.4,91.608,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,48.0,2.0,HARD,24.0,True,1,True,9.0,14.6,19.2,77.0,False,1.0,91.335,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,49.0,2.0,HARD,25.0,True,1,True,9.0,14.5,19.2,77.0,False,1.2,91.253,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,50.0,2.0,HARD,26.0,True,1,True,9.0,14.6,19.4,77.0,False,1.2,91.391,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,51.0,2.0,HARD,27.0,True,1,True,9.0,14.6,19.4,77.0,False,2.4,91.293,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,52.0,2.0,HARD,28.0,True,1,True,9.0,14.7,19.2,77.0,False,1.7,91.125,False,53,2025,3,Japanese Grand Prix,2025_03
+ALB,Williams,53.0,2.0,HARD,29.0,True,1,True,9.0,14.6,19.0,76.0,False,2.1,91.154,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,14.3,21.0,77.0,False,0.9,101.275,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,14.2,20.8,77.0,False,0.7,95.553,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,14.3,20.8,77.0,False,1.5,94.435,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,14.3,20.9,77.0,False,1.1,94.466,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,14.2,20.6,77.0,False,1.3,94.126,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,14.3,20.7,77.0,False,1.1,94.535,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,14.3,20.6,78.0,False,1.4,94.751,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,14.3,20.7,77.0,False,2.3,94.731,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,14.3,20.7,78.0,False,1.2,94.408,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,14.3,20.7,77.0,False,1.7,94.217,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,14.3,20.6,78.0,False,0.8,94.423,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,14.3,20.4,78.0,False,1.0,94.244,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,14.3,20.4,78.0,False,1.0,94.235,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,14.3,20.4,78.0,False,1.0,94.327,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,14.3,20.3,77.0,False,1.3,94.034,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,14.5,20.1,76.0,False,1.8,94.425,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,14.5,19.9,76.0,False,1.6,94.437,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,10.0,14.4,20.0,77.0,False,1.9,94.381,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,14.4,20.1,77.0,False,1.2,94.248,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,9.0,14.4,20.1,76.0,False,0.9,94.061,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,14.4,20.0,77.0,False,0.9,93.986,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,14.4,20.0,77.0,False,1.4,96.628,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,False,9.0,14.5,20.0,77.0,False,1.0,96.245,True,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,24.0,2.0,HARD,2.0,False,1,False,16.0,14.5,19.7,77.0,False,1.6,114.602,True,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,25.0,2.0,HARD,3.0,False,1,True,14.0,14.4,19.6,77.0,False,0.7,93.13,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,26.0,2.0,HARD,4.0,False,1,True,14.0,14.4,19.6,78.0,False,1.8,93.333,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,27.0,2.0,HARD,5.0,False,1,True,14.0,14.4,19.4,78.0,False,0.7,93.39,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,28.0,2.0,HARD,6.0,False,1,True,14.0,14.5,19.5,78.0,False,0.5,93.375,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,29.0,2.0,HARD,7.0,False,1,True,14.0,14.5,19.6,78.0,False,0.6,93.079,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,30.0,2.0,HARD,8.0,False,1,True,14.0,14.6,19.7,77.0,False,0.7,92.922,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,31.0,2.0,HARD,9.0,False,1,True,13.0,14.5,19.5,77.0,False,1.2,93.375,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,32.0,2.0,HARD,10.0,False,1,True,12.0,14.6,19.5,77.0,False,1.2,93.24,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,33.0,2.0,HARD,11.0,False,1,True,11.0,14.6,19.4,77.0,False,1.2,93.558,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,34.0,2.0,HARD,12.0,False,1,True,10.0,14.5,19.4,78.0,False,0.9,92.174,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,35.0,2.0,HARD,13.0,False,1,True,10.0,14.5,19.5,78.0,False,1.4,92.348,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,36.0,2.0,HARD,14.0,False,1,True,10.0,14.4,19.3,78.0,False,0.9,92.211,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,37.0,2.0,HARD,15.0,False,1,True,10.0,14.4,19.3,77.0,False,1.4,92.333,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,38.0,2.0,HARD,16.0,False,1,True,10.0,14.5,19.2,77.0,False,1.9,92.467,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,39.0,2.0,HARD,17.0,False,1,True,10.0,14.5,19.2,78.0,False,0.7,92.302,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,40.0,2.0,HARD,18.0,False,1,True,10.0,14.5,19.2,77.0,False,0.5,92.096,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,41.0,2.0,HARD,19.0,False,1,True,10.0,14.5,19.4,77.0,False,1.6,92.219,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,42.0,2.0,HARD,20.0,False,1,True,10.0,14.5,19.4,78.0,False,1.2,92.109,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,43.0,2.0,HARD,21.0,False,1,True,10.0,14.5,19.4,78.0,False,1.4,92.072,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,44.0,2.0,HARD,22.0,False,1,True,10.0,14.5,19.4,77.0,False,1.1,93.009,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,45.0,2.0,HARD,23.0,False,1,True,10.0,14.5,19.4,77.0,False,1.1,92.459,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,46.0,2.0,HARD,24.0,False,1,True,10.0,14.5,19.4,77.0,False,1.5,92.499,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,47.0,2.0,HARD,25.0,False,1,True,10.0,14.6,19.4,77.0,False,1.4,92.051,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,48.0,2.0,HARD,26.0,False,1,True,10.0,14.6,19.2,77.0,False,1.0,92.09,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,49.0,2.0,HARD,27.0,False,1,True,10.0,14.6,19.3,77.0,False,1.4,92.006,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,50.0,2.0,HARD,28.0,False,1,True,10.0,14.6,19.4,77.0,False,1.2,92.214,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,51.0,2.0,HARD,29.0,False,1,True,10.0,14.6,19.3,77.0,False,1.3,92.048,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,52.0,2.0,HARD,30.0,False,1,True,10.0,14.7,19.2,77.0,False,1.7,92.081,False,53,2025,3,Japanese Grand Prix,2025_03
+BEA,Haas F1 Team,53.0,2.0,HARD,31.0,False,1,True,10.0,14.6,19.1,77.0,False,2.1,92.549,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,1.0,1.0,MEDIUM,2.0,False,1,False,11.0,14.3,21.0,77.0,False,0.9,102.048,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,2.0,1.0,MEDIUM,3.0,False,1,True,11.0,14.2,20.8,77.0,False,0.7,95.686,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,3.0,1.0,MEDIUM,4.0,False,1,True,11.0,14.3,20.8,77.0,False,1.5,94.761,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,True,11.0,14.3,20.9,77.0,False,1.1,94.61,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,True,11.0,14.2,20.6,77.0,False,1.3,94.599,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,11.0,14.3,20.7,77.0,False,1.1,94.719,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,11.0,14.3,20.6,78.0,False,1.4,94.397,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,8.0,1.0,MEDIUM,9.0,False,1,True,11.0,14.3,20.7,77.0,False,2.3,94.497,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,11.0,14.3,20.7,78.0,False,1.2,94.479,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,11.0,14.3,20.6,78.0,False,1.7,94.498,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,11.0,14.3,20.6,78.0,False,0.8,94.482,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,True,11.0,14.3,20.4,78.0,False,1.0,94.514,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,13.0,1.0,MEDIUM,14.0,False,1,True,11.0,14.3,20.4,78.0,False,1.0,94.327,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,14.0,1.0,MEDIUM,15.0,False,1,True,11.0,14.3,20.4,78.0,False,1.0,94.546,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,15.0,1.0,MEDIUM,16.0,False,1,True,11.0,14.3,20.3,77.0,False,1.3,94.311,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,16.0,1.0,MEDIUM,17.0,False,1,True,11.0,14.5,20.1,76.0,False,1.8,94.456,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,17.0,1.0,MEDIUM,18.0,False,1,True,11.0,14.4,20.0,76.0,False,1.4,94.439,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,18.0,1.0,MEDIUM,19.0,False,1,True,11.0,14.4,20.0,77.0,False,1.9,94.369,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,19.0,1.0,MEDIUM,20.0,False,1,True,11.0,14.4,20.1,77.0,False,1.2,94.111,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,20.0,1.0,MEDIUM,21.0,False,1,True,10.0,14.4,20.1,76.0,False,0.9,94.166,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,21.0,1.0,MEDIUM,22.0,False,1,True,10.0,14.4,20.0,77.0,False,0.9,95.187,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,22.0,1.0,MEDIUM,23.0,False,1,True,9.0,14.4,20.0,77.0,False,1.4,94.399,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,23.0,1.0,MEDIUM,24.0,False,1,True,8.0,14.5,20.0,77.0,False,1.0,94.468,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,24.0,1.0,MEDIUM,25.0,False,1,False,10.0,14.5,19.7,77.0,False,1.6,97.548,True,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,25.0,2.0,HARD,2.0,False,1,False,15.0,14.4,19.6,77.0,False,0.7,116.535,True,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,26.0,2.0,HARD,3.0,False,1,True,15.0,14.4,19.6,78.0,False,1.8,92.858,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,27.0,2.0,HARD,4.0,False,1,True,15.0,14.4,19.4,78.0,False,0.7,93.081,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,28.0,2.0,HARD,5.0,False,1,True,15.0,14.5,19.5,78.0,False,0.5,93.018,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,29.0,2.0,HARD,6.0,False,1,True,15.0,14.5,19.6,78.0,False,0.6,92.865,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,30.0,2.0,HARD,7.0,False,1,True,15.0,14.6,19.7,77.0,False,0.7,92.984,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,31.0,2.0,HARD,8.0,False,1,True,15.0,14.5,19.5,77.0,False,1.2,92.854,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,32.0,2.0,HARD,9.0,False,1,True,14.0,14.6,19.5,77.0,False,1.2,92.703,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,33.0,2.0,HARD,10.0,False,1,True,13.0,14.6,19.4,77.0,False,1.2,92.512,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,34.0,2.0,HARD,11.0,False,1,True,11.0,14.5,19.4,78.0,False,0.9,92.343,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,35.0,2.0,HARD,12.0,False,1,True,11.0,14.5,19.5,78.0,False,1.4,92.665,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,36.0,2.0,HARD,13.0,False,1,True,11.0,14.4,19.3,78.0,False,0.9,92.603,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,37.0,2.0,HARD,14.0,False,1,True,11.0,14.4,19.3,77.0,False,1.4,92.474,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,38.0,2.0,HARD,15.0,False,1,True,11.0,14.5,19.2,77.0,False,1.9,92.543,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,39.0,2.0,HARD,16.0,False,1,True,11.0,14.5,19.2,78.0,False,0.7,92.78,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,40.0,2.0,HARD,17.0,False,1,True,11.0,14.5,19.2,77.0,False,0.5,92.313,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,41.0,2.0,HARD,18.0,False,1,True,11.0,14.5,19.4,77.0,False,1.6,92.476,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,42.0,2.0,HARD,19.0,False,1,True,11.0,14.5,19.4,78.0,False,1.2,92.261,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,43.0,2.0,HARD,20.0,False,1,True,11.0,14.5,19.4,78.0,False,1.4,92.153,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,44.0,2.0,HARD,21.0,False,1,True,11.0,14.5,19.4,77.0,False,1.1,92.131,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,45.0,2.0,HARD,22.0,False,1,True,11.0,14.5,19.4,77.0,False,1.1,92.248,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,46.0,2.0,HARD,23.0,False,1,True,11.0,14.5,19.4,77.0,False,1.5,91.907,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,47.0,2.0,HARD,24.0,False,1,True,11.0,14.5,19.2,77.0,False,1.3,92.271,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,48.0,2.0,HARD,25.0,False,1,True,11.0,14.6,19.2,77.0,False,1.0,92.06,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,49.0,2.0,HARD,26.0,False,1,True,11.0,14.6,19.3,77.0,False,1.4,91.932,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,50.0,2.0,HARD,27.0,False,1,True,11.0,14.6,19.4,77.0,False,1.2,92.06,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,51.0,2.0,HARD,28.0,False,1,True,11.0,14.6,19.3,77.0,False,1.3,91.77,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,52.0,2.0,HARD,29.0,False,1,True,11.0,14.7,19.2,77.0,False,1.7,92.019,False,53,2025,3,Japanese Grand Prix,2025_03
+ALO,Aston Martin,53.0,2.0,HARD,30.0,False,1,True,11.0,14.6,19.1,77.0,False,2.1,92.28,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,14.3,21.0,77.0,False,0.9,102.862,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,14.2,20.8,77.0,False,0.7,96.076,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,14.3,20.8,77.0,False,1.5,95.057,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,13.0,14.3,20.9,77.0,False,1.1,94.771,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,14.2,20.6,77.0,False,1.3,94.569,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,14.3,20.7,77.0,False,1.1,94.76,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,14.3,20.6,78.0,False,1.4,94.655,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,14.3,20.7,77.0,False,2.3,94.818,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,14.3,20.7,78.0,False,1.2,94.552,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,14.3,20.6,78.0,False,1.7,94.598,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,14.3,20.6,78.0,False,0.8,94.668,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,14.3,20.4,78.0,False,1.0,94.427,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,14.3,20.4,78.0,False,1.0,94.357,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,14.3,20.4,78.0,False,1.0,94.6,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,14.3,20.3,77.0,False,1.3,94.02,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,13.0,14.5,20.1,76.0,False,1.8,94.717,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,14.4,20.0,76.0,False,1.4,94.595,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,13.0,14.4,20.0,77.0,False,1.9,94.606,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,13.0,14.4,20.1,77.0,False,1.2,94.439,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,14.4,20.1,76.0,False,0.9,94.326,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,13.0,14.4,20.0,77.0,False,0.9,94.975,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,13.0,14.4,20.0,77.0,False,1.4,95.661,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,False,13.0,14.5,20.0,77.0,False,1.0,96.396,True,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,24.0,2.0,HARD,1.0,True,1,False,17.0,14.5,19.7,77.0,False,1.6,114.579,True,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,25.0,2.0,HARD,2.0,True,1,True,16.0,14.4,19.6,77.0,False,1.6,93.618,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,26.0,2.0,HARD,3.0,True,1,True,16.0,14.4,19.6,78.0,False,1.8,93.745,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,27.0,2.0,HARD,4.0,True,1,True,16.0,14.4,19.4,78.0,False,0.7,92.893,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,28.0,2.0,HARD,5.0,True,1,True,16.0,14.5,19.5,78.0,False,0.5,93.036,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,29.0,2.0,HARD,6.0,True,1,True,16.0,14.5,19.6,78.0,False,0.6,92.955,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,30.0,2.0,HARD,7.0,True,1,True,16.0,14.6,19.7,77.0,False,0.7,92.925,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,31.0,2.0,HARD,8.0,True,1,True,16.0,14.5,19.5,77.0,False,1.2,93.125,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,32.0,2.0,HARD,9.0,True,1,True,15.0,14.6,19.5,77.0,False,1.2,92.735,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,33.0,2.0,HARD,10.0,True,1,True,14.0,14.6,19.4,77.0,False,1.2,92.533,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,34.0,2.0,HARD,11.0,True,1,True,12.0,14.6,19.4,77.0,False,1.1,92.609,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,35.0,2.0,HARD,12.0,True,1,True,12.0,14.5,19.5,78.0,False,1.4,92.424,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,36.0,2.0,HARD,13.0,True,1,True,12.0,14.4,19.3,78.0,False,0.9,92.35,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,37.0,2.0,HARD,14.0,True,1,True,12.0,14.4,19.3,77.0,False,1.4,92.354,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,38.0,2.0,HARD,15.0,True,1,True,12.0,14.5,19.2,77.0,False,1.9,92.509,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,39.0,2.0,HARD,16.0,True,1,True,12.0,14.5,19.2,78.0,False,0.7,92.598,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,40.0,2.0,HARD,17.0,True,1,True,12.0,14.5,19.2,77.0,False,0.5,92.319,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,41.0,2.0,HARD,18.0,True,1,True,12.0,14.5,19.4,77.0,False,1.6,92.522,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,42.0,2.0,HARD,19.0,True,1,True,12.0,14.5,19.4,78.0,False,1.2,92.482,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,43.0,2.0,HARD,20.0,True,1,True,12.0,14.5,19.4,78.0,False,1.4,92.131,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,44.0,2.0,HARD,21.0,True,1,True,12.0,14.5,19.4,77.0,False,1.1,92.195,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,45.0,2.0,HARD,22.0,True,1,True,12.0,14.5,19.4,77.0,False,1.1,92.007,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,46.0,2.0,HARD,23.0,True,1,True,12.0,14.5,19.4,77.0,False,1.5,91.94,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,47.0,2.0,HARD,24.0,True,1,True,12.0,14.5,19.2,77.0,False,1.3,92.381,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,48.0,2.0,HARD,25.0,True,1,True,12.0,14.6,19.2,77.0,False,1.0,91.907,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,49.0,2.0,HARD,26.0,True,1,True,12.0,14.6,19.3,77.0,False,1.4,91.929,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,50.0,2.0,HARD,27.0,True,1,True,12.0,14.6,19.4,77.0,False,1.2,91.978,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,51.0,2.0,HARD,28.0,True,1,True,12.0,14.6,19.3,77.0,False,1.3,91.871,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,52.0,2.0,HARD,29.0,True,1,True,12.0,14.7,19.2,77.0,False,1.7,92.141,False,53,2025,3,Japanese Grand Prix,2025_03
+TSU,Red Bull Racing,53.0,2.0,HARD,30.0,True,1,True,12.0,14.6,19.1,77.0,False,2.1,92.088,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,14.3,21.0,77.0,False,0.9,102.427,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,14.2,20.8,77.0,False,0.7,95.858,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,14.3,20.8,77.0,False,1.5,94.955,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,14.3,20.9,77.0,False,1.1,94.708,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,14.2,20.6,77.0,False,1.3,94.554,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,14.3,20.7,77.0,False,1.1,94.85,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,14.3,20.6,78.0,False,1.4,94.585,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,14.3,20.7,77.0,False,2.3,94.771,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,14.3,20.7,78.0,False,1.2,94.553,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,14.3,20.6,78.0,False,1.7,94.677,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,14.3,20.6,78.0,False,0.8,94.67,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,14.3,20.4,78.0,False,1.0,94.54,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,14.3,20.4,78.0,False,1.0,94.303,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,14.3,20.4,78.0,False,1.0,94.302,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,14.3,20.3,77.0,False,1.3,94.289,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,14.5,20.1,76.0,False,1.8,94.662,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,14.4,20.0,76.0,False,1.4,94.629,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,14.4,20.0,77.0,False,1.9,94.688,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,14.4,20.1,77.0,False,1.2,94.397,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,11.0,14.4,20.1,76.0,False,0.9,94.355,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,11.0,14.4,20.0,77.0,False,0.9,94.6,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,14.4,20.0,77.0,False,1.4,96.092,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,12.0,14.5,20.0,77.0,False,1.0,94.411,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,24.0,1.0,MEDIUM,24.0,True,1,False,11.0,14.5,19.7,77.0,False,1.6,96.901,True,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,25.0,2.0,HARD,1.0,True,1,False,18.0,14.4,19.6,77.0,False,0.7,120.106,True,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,26.0,2.0,HARD,2.0,True,1,True,18.0,14.4,19.6,78.0,False,1.8,93.248,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,27.0,2.0,HARD,3.0,True,1,True,18.0,14.4,19.4,78.0,False,0.7,92.944,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,28.0,2.0,HARD,4.0,True,1,True,18.0,14.5,19.5,78.0,False,0.5,92.911,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,29.0,2.0,HARD,5.0,True,1,True,18.0,14.5,19.6,78.0,False,0.6,92.654,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,30.0,2.0,HARD,6.0,True,1,True,18.0,14.6,19.7,77.0,False,0.7,92.696,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,31.0,2.0,HARD,7.0,True,1,True,18.0,14.5,19.5,77.0,False,1.2,92.624,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,32.0,2.0,HARD,8.0,True,1,True,17.0,14.6,19.4,77.0,False,1.4,92.682,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,33.0,2.0,HARD,9.0,True,1,True,15.0,14.6,19.4,77.0,False,1.2,92.509,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,34.0,2.0,HARD,10.0,True,1,True,13.0,14.6,19.4,77.0,False,1.1,92.438,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,35.0,2.0,HARD,11.0,True,1,True,13.0,14.5,19.5,78.0,False,1.4,92.3,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,36.0,2.0,HARD,12.0,True,1,True,13.0,14.4,19.3,78.0,False,0.9,92.179,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,37.0,2.0,HARD,13.0,True,1,True,13.0,14.4,19.3,77.0,False,1.4,92.354,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,38.0,2.0,HARD,14.0,True,1,True,13.0,14.5,19.2,77.0,False,1.9,92.258,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,39.0,2.0,HARD,15.0,True,1,True,13.0,14.5,19.2,78.0,False,0.7,92.377,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,40.0,2.0,HARD,16.0,True,1,True,13.0,14.5,19.2,77.0,False,0.5,92.447,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,41.0,2.0,HARD,17.0,True,1,True,13.0,14.5,19.4,77.0,False,1.6,92.129,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,42.0,2.0,HARD,18.0,True,1,True,13.0,14.5,19.4,78.0,False,1.2,92.077,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,43.0,2.0,HARD,19.0,True,1,True,13.0,14.5,19.4,78.0,False,1.4,92.024,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,44.0,2.0,HARD,20.0,True,1,True,13.0,14.5,19.4,77.0,False,1.1,91.934,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,45.0,2.0,HARD,21.0,True,1,True,13.0,14.5,19.4,77.0,False,1.1,92.013,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,46.0,2.0,HARD,22.0,True,1,True,13.0,14.5,19.4,77.0,False,1.5,92.05,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,47.0,2.0,HARD,23.0,True,1,True,13.0,14.5,19.2,77.0,False,1.3,92.216,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,48.0,2.0,HARD,24.0,True,1,True,13.0,14.6,19.2,77.0,False,1.0,92.023,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,49.0,2.0,HARD,25.0,True,1,True,13.0,14.6,19.3,77.0,False,1.4,92.087,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,50.0,2.0,HARD,26.0,True,1,True,13.0,14.6,19.4,77.0,False,1.2,92.11,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,51.0,2.0,HARD,27.0,True,1,True,13.0,14.6,19.3,77.0,False,1.3,91.949,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,52.0,2.0,HARD,28.0,True,1,True,13.0,14.7,19.2,77.0,False,1.7,91.82,False,53,2025,3,Japanese Grand Prix,2025_03
+GAS,Alpine,53.0,2.0,HARD,29.0,True,1,True,13.0,14.6,19.1,77.0,False,2.1,93.169,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,16.0,14.3,21.0,77.0,False,0.9,104.206,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,14.2,20.8,77.0,False,0.7,96.248,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,14.2,20.9,77.0,False,1.1,95.33,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,14.3,20.9,77.0,False,1.1,94.765,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,14.2,20.6,77.0,False,1.3,95.473,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,14.3,20.7,77.0,False,1.1,94.782,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,14.3,20.6,78.0,False,1.4,95.314,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,14.3,20.7,77.0,False,2.3,94.639,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,14.3,20.7,78.0,False,1.2,94.854,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,14.3,20.6,78.0,False,1.7,94.427,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,14.3,20.6,78.0,False,0.8,94.789,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,15.0,14.3,20.4,78.0,False,1.0,95.076,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,15.0,14.3,20.4,78.0,False,1.0,94.555,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,15.0,14.3,20.4,78.0,False,1.0,95.007,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,15.0,14.4,20.3,77.0,False,1.5,94.451,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,15.0,14.5,20.1,76.0,False,1.8,94.853,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,15.0,14.4,20.0,76.0,False,1.4,94.257,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,15.0,14.4,20.0,77.0,False,1.9,94.6,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,15.0,14.4,20.1,77.0,False,1.2,94.413,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,15.0,14.4,20.1,76.0,False,0.9,94.813,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,15.0,14.4,20.0,77.0,False,0.9,94.471,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,15.0,14.4,20.0,77.0,False,1.1,94.634,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,15.0,14.5,20.0,77.0,False,1.0,94.509,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,13.0,14.5,19.7,77.0,False,1.6,94.528,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,10.0,14.4,19.6,77.0,False,0.7,93.932,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,14.4,19.6,78.0,False,1.8,94.718,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,27.0,1.0,MEDIUM,27.0,True,1,True,9.0,14.4,19.6,77.0,False,1.1,94.02,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,28.0,1.0,MEDIUM,28.0,True,1,True,9.0,14.5,19.5,78.0,False,0.5,94.037,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,29.0,1.0,MEDIUM,29.0,True,1,True,9.0,14.5,19.6,78.0,False,0.6,94.382,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,30.0,1.0,MEDIUM,30.0,True,1,True,11.0,14.6,19.7,77.0,False,0.7,96.33,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,31.0,1.0,MEDIUM,31.0,True,1,True,11.0,14.5,19.5,77.0,False,1.2,94.387,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,32.0,1.0,MEDIUM,32.0,True,1,True,11.0,14.6,19.5,77.0,False,1.2,94.65,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,33.0,1.0,MEDIUM,33.0,True,1,False,12.0,14.6,19.4,77.0,False,1.2,96.256,True,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,34.0,2.0,SOFT,1.0,True,1,False,17.0,14.5,19.4,78.0,False,0.9,112.958,True,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,35.0,2.0,SOFT,2.0,True,1,True,17.0,14.5,19.5,78.0,False,1.4,91.676,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,36.0,2.0,SOFT,3.0,True,1,True,16.0,14.4,19.3,78.0,False,0.9,91.106,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,37.0,2.0,SOFT,4.0,True,1,True,16.0,14.4,19.3,77.0,False,1.4,92.087,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,38.0,2.0,SOFT,5.0,True,1,True,16.0,14.5,19.2,77.0,False,1.9,92.013,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,39.0,2.0,SOFT,6.0,True,1,True,16.0,14.5,19.2,78.0,False,0.7,92.048,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,40.0,2.0,SOFT,7.0,True,1,True,16.0,14.5,19.2,77.0,False,0.5,92.267,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,41.0,2.0,SOFT,8.0,True,1,True,16.0,14.5,19.4,77.0,False,1.6,92.172,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,42.0,2.0,SOFT,9.0,True,1,True,16.0,14.5,19.4,78.0,False,1.2,92.869,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,43.0,2.0,SOFT,10.0,True,1,True,16.0,14.5,19.4,77.0,False,1.1,92.937,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,44.0,2.0,SOFT,11.0,True,1,True,16.0,14.5,19.4,77.0,False,1.1,92.575,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,45.0,2.0,SOFT,12.0,True,1,True,16.0,14.5,19.4,77.0,False,1.1,92.819,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,46.0,2.0,SOFT,13.0,True,1,True,16.0,14.5,19.4,77.0,False,1.5,93.049,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,47.0,2.0,SOFT,14.0,True,1,True,16.0,14.5,19.2,77.0,False,1.3,92.602,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,48.0,2.0,SOFT,15.0,True,1,True,15.0,14.6,19.2,77.0,False,1.0,92.054,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,49.0,2.0,SOFT,16.0,True,1,True,15.0,14.6,19.3,77.0,False,1.4,92.959,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,50.0,2.0,SOFT,17.0,True,1,True,14.0,14.6,19.4,77.0,False,1.2,91.2,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,51.0,2.0,SOFT,18.0,True,1,True,14.0,14.6,19.3,77.0,False,1.3,91.244,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,52.0,2.0,SOFT,19.0,True,1,True,14.0,14.7,19.2,77.0,False,1.7,91.533,False,53,2025,3,Japanese Grand Prix,2025_03
+SAI,Williams,53.0,2.0,SOFT,20.0,True,1,True,14.0,14.6,19.1,77.0,False,2.1,91.238,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,1.0,1.0,SOFT,1.0,True,1,False,18.0,14.3,21.0,77.0,False,0.9,105.302,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,2.0,1.0,SOFT,2.0,True,1,True,18.0,14.2,20.8,77.0,False,0.7,96.848,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,3.0,1.0,SOFT,3.0,True,1,True,18.0,14.2,20.9,77.0,False,1.1,95.653,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,4.0,1.0,SOFT,4.0,True,1,True,18.0,14.3,20.9,77.0,False,1.1,95.344,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,5.0,1.0,SOFT,5.0,True,1,True,18.0,14.2,20.6,77.0,False,1.3,95.485,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,6.0,1.0,SOFT,6.0,True,1,True,18.0,14.3,20.7,77.0,False,1.1,95.348,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,7.0,1.0,SOFT,7.0,True,1,True,18.0,14.3,20.6,78.0,False,1.4,94.892,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,8.0,1.0,SOFT,8.0,True,1,True,18.0,14.3,20.7,77.0,False,2.3,95.075,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,9.0,1.0,SOFT,9.0,True,1,True,18.0,14.3,20.7,78.0,False,1.2,95.07,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,10.0,1.0,SOFT,10.0,True,1,True,18.0,14.3,20.6,78.0,False,1.7,95.007,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,11.0,1.0,SOFT,11.0,True,1,True,18.0,14.3,20.6,78.0,False,0.8,95.006,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,12.0,1.0,SOFT,12.0,True,1,True,18.0,14.3,20.4,78.0,False,1.0,95.186,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,13.0,1.0,SOFT,13.0,True,1,True,18.0,14.3,20.4,78.0,False,1.0,94.996,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,14.0,1.0,SOFT,14.0,True,1,True,18.0,14.3,20.4,78.0,False,1.0,94.929,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,15.0,1.0,SOFT,15.0,True,1,False,19.0,14.4,20.3,77.0,False,1.5,97.254,True,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,16.0,2.0,HARD,1.0,True,1,False,19.0,14.5,20.1,76.0,False,1.8,114.57,True,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,17.0,2.0,HARD,2.0,True,1,True,19.0,14.4,20.0,76.0,False,1.4,93.799,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,18.0,2.0,HARD,3.0,True,1,True,19.0,14.4,20.1,77.0,False,1.3,93.602,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,19.0,2.0,HARD,4.0,True,1,True,19.0,14.4,20.1,77.0,False,1.2,93.981,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,20.0,2.0,HARD,5.0,True,1,True,19.0,14.5,20.0,77.0,False,1.0,93.7,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,21.0,2.0,HARD,6.0,True,1,True,19.0,14.4,20.0,77.0,False,0.9,93.811,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,22.0,2.0,HARD,7.0,True,1,True,19.0,14.4,20.0,77.0,False,1.1,93.522,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,23.0,2.0,HARD,8.0,True,1,True,18.0,14.5,20.0,77.0,False,1.0,93.484,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,24.0,2.0,HARD,9.0,True,1,True,18.0,14.5,19.7,77.0,False,1.6,93.367,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,25.0,2.0,HARD,10.0,True,1,True,17.0,14.4,19.6,77.0,False,1.6,93.598,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,26.0,2.0,HARD,11.0,True,1,True,17.0,14.4,19.6,78.0,False,1.8,93.735,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,27.0,2.0,HARD,12.0,True,1,True,17.0,14.4,19.4,78.0,False,0.7,93.454,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,28.0,2.0,HARD,13.0,True,1,True,17.0,14.5,19.5,78.0,False,0.5,93.282,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,29.0,2.0,HARD,14.0,True,1,True,17.0,14.5,19.6,78.0,False,0.6,93.209,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,30.0,2.0,HARD,15.0,True,1,True,17.0,14.6,19.7,77.0,False,0.7,93.154,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,31.0,2.0,HARD,16.0,True,1,True,17.0,14.5,19.5,77.0,False,1.2,93.085,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,32.0,2.0,HARD,17.0,True,1,True,16.0,14.6,19.5,77.0,False,1.2,92.912,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,33.0,2.0,HARD,18.0,True,1,True,16.0,14.6,19.4,77.0,False,1.2,95.137,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,34.0,2.0,HARD,19.0,True,1,True,14.0,14.6,19.4,77.0,False,1.1,93.301,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,35.0,2.0,HARD,20.0,True,1,True,14.0,14.5,19.5,78.0,False,1.4,93.23,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,36.0,2.0,HARD,21.0,True,1,True,14.0,14.4,19.3,78.0,False,0.9,93.166,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,37.0,2.0,HARD,22.0,True,1,True,14.0,14.4,19.3,77.0,False,1.4,92.947,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,38.0,2.0,HARD,23.0,True,1,True,14.0,14.5,19.2,77.0,False,1.9,93.089,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,39.0,2.0,HARD,24.0,True,1,True,14.0,14.5,19.2,78.0,False,0.7,93.14,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,40.0,2.0,HARD,25.0,True,1,True,14.0,14.5,19.2,77.0,False,0.5,93.251,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,41.0,2.0,HARD,26.0,True,1,True,14.0,14.5,19.4,77.0,False,1.6,93.273,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,42.0,2.0,HARD,27.0,True,1,True,14.0,14.5,19.4,78.0,False,1.2,93.18,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,43.0,2.0,HARD,28.0,True,1,True,14.0,14.5,19.4,77.0,False,1.1,92.906,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,44.0,2.0,HARD,29.0,True,1,True,14.0,14.5,19.4,77.0,False,1.1,92.974,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,45.0,2.0,HARD,30.0,True,1,True,14.0,14.5,19.4,77.0,False,1.1,93.013,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,46.0,2.0,HARD,31.0,True,1,True,14.0,14.5,19.4,77.0,False,1.5,92.743,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,47.0,2.0,HARD,32.0,True,1,True,14.0,14.5,19.2,77.0,False,1.3,92.685,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,48.0,2.0,HARD,33.0,True,1,True,14.0,14.6,19.2,77.0,False,1.0,92.809,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,49.0,2.0,HARD,34.0,True,1,True,14.0,14.6,19.3,77.0,False,1.4,93.046,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,50.0,2.0,HARD,35.0,True,1,True,15.0,14.6,19.4,77.0,False,1.2,93.871,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,51.0,2.0,HARD,36.0,True,1,True,15.0,14.6,19.3,77.0,False,1.3,92.94,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,52.0,2.0,HARD,37.0,True,1,True,15.0,14.6,19.0,76.0,False,2.1,92.976,False,53,2025,3,Japanese Grand Prix,2025_03
+DOO,Alpine,53.0,2.0,HARD,38.0,True,1,True,15.0,14.6,19.1,77.0,False,2.1,92.96,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,14.3,21.0,77.0,False,0.9,103.858,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,14.2,20.8,77.0,False,0.7,97.125,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,14.2,20.9,77.0,False,1.1,95.419,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,14.3,20.9,77.0,False,1.1,95.266,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,14.2,20.6,77.0,False,1.3,95.266,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,16.0,14.3,20.7,77.0,False,1.1,95.091,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,14.3,20.6,78.0,False,1.4,95.254,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,14.3,20.7,77.0,False,2.3,94.76,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,14.3,20.7,78.0,False,1.2,94.87,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,16.0,14.3,20.6,78.0,False,1.7,94.598,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,16.0,14.3,20.6,78.0,False,0.8,94.906,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,16.0,14.3,20.4,78.0,False,1.0,95.054,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,16.0,14.3,20.4,78.0,False,1.0,94.482,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,16.0,14.3,20.4,78.0,False,1.0,94.789,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,16.0,14.4,20.3,77.0,False,1.5,94.729,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,16.0,14.5,20.1,76.0,False,1.8,94.995,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,16.0,14.4,20.0,76.0,False,1.4,94.492,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,16.0,14.4,20.0,77.0,False,1.9,94.551,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,16.0,14.4,20.1,77.0,False,1.2,94.312,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,16.0,14.4,20.1,76.0,False,0.9,94.314,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,True,16.0,14.4,20.0,77.0,False,0.9,94.438,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,22.0,1.0,MEDIUM,22.0,True,1,False,17.0,14.4,20.0,77.0,False,1.1,96.739,True,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,23.0,2.0,HARD,1.0,True,1,False,19.0,14.5,20.0,77.0,False,1.0,114.468,True,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,24.0,2.0,HARD,2.0,True,1,True,19.0,14.5,19.7,77.0,False,1.6,92.816,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,25.0,2.0,HARD,3.0,True,1,True,19.0,14.4,19.6,77.0,False,1.6,96.862,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,26.0,2.0,HARD,4.0,True,1,True,19.0,14.4,19.6,78.0,False,1.8,93.529,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,27.0,2.0,HARD,5.0,True,1,True,19.0,14.4,19.4,78.0,False,0.7,92.983,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,28.0,2.0,HARD,6.0,True,1,True,19.0,14.5,19.5,78.0,False,0.5,93.104,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,29.0,2.0,HARD,7.0,True,1,True,19.0,14.5,19.6,78.0,False,0.6,92.854,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,30.0,2.0,HARD,8.0,True,1,True,19.0,14.6,19.7,77.0,False,0.7,92.897,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,31.0,2.0,HARD,9.0,True,1,True,19.0,14.5,19.5,77.0,False,1.2,92.572,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,32.0,2.0,HARD,10.0,True,1,True,18.0,14.6,19.4,77.0,False,1.4,92.679,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,33.0,2.0,HARD,11.0,True,1,True,17.0,14.6,19.4,77.0,False,1.2,93.243,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,34.0,2.0,HARD,12.0,True,1,True,15.0,14.6,19.4,77.0,False,1.1,93.44,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,35.0,2.0,HARD,13.0,True,1,True,15.0,14.5,19.5,78.0,False,1.4,93.212,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,36.0,2.0,HARD,14.0,True,1,True,15.0,14.4,19.3,78.0,False,0.9,93.224,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,37.0,2.0,HARD,15.0,True,1,True,15.0,14.4,19.3,77.0,False,1.4,93.187,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,38.0,2.0,HARD,16.0,True,1,True,15.0,14.5,19.2,77.0,False,1.9,92.846,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,39.0,2.0,HARD,17.0,True,1,True,15.0,14.5,19.2,78.0,False,0.7,93.053,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,40.0,2.0,HARD,18.0,True,1,True,15.0,14.5,19.2,77.0,False,0.5,93.299,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,41.0,2.0,HARD,19.0,True,1,True,15.0,14.5,19.4,77.0,False,1.6,93.953,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,42.0,2.0,HARD,20.0,True,1,True,15.0,14.5,19.4,78.0,False,1.2,92.937,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,43.0,2.0,HARD,21.0,True,1,True,15.0,14.5,19.4,77.0,False,1.1,92.857,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,44.0,2.0,HARD,22.0,True,1,True,15.0,14.5,19.4,77.0,False,1.1,92.732,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,45.0,2.0,HARD,23.0,True,1,True,15.0,14.5,19.4,77.0,False,1.1,92.914,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,46.0,2.0,HARD,24.0,True,1,True,15.0,14.5,19.4,77.0,False,1.5,93.019,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,47.0,2.0,HARD,25.0,True,1,True,15.0,14.5,19.2,77.0,False,1.3,92.777,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,48.0,2.0,HARD,26.0,True,1,True,16.0,14.6,19.2,77.0,False,1.0,93.623,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,49.0,2.0,HARD,27.0,True,1,True,16.0,14.6,19.3,77.0,False,1.4,92.873,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,50.0,2.0,HARD,28.0,True,1,True,16.0,14.6,19.4,77.0,False,1.2,92.936,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,51.0,2.0,HARD,29.0,True,1,True,16.0,14.6,19.3,77.0,False,1.3,92.989,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,52.0,2.0,HARD,30.0,True,1,True,16.0,14.6,19.0,76.0,False,2.1,92.95,False,53,2025,3,Japanese Grand Prix,2025_03
+HUL,Kick Sauber,53.0,2.0,HARD,31.0,True,1,True,16.0,14.6,19.1,77.0,False,2.1,92.804,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,1.0,1.0,MEDIUM,1.0,True,1,False,14.0,14.3,21.0,77.0,False,0.9,103.463,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,14.2,20.8,77.0,False,0.7,96.326,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,14.2,20.9,77.0,False,1.1,95.233,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,14.3,20.9,77.0,False,1.1,95.098,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,14.2,20.6,77.0,False,1.3,95.169,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,14.3,20.7,77.0,False,1.1,95.056,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,14.3,20.6,78.0,False,1.4,95.115,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,14.3,20.7,77.0,False,2.3,94.69,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,14.3,20.7,78.0,False,1.2,94.713,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,10.0,1.0,MEDIUM,10.0,True,1,True,14.0,14.3,20.6,78.0,False,1.7,94.552,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,14.3,20.6,78.0,False,0.8,94.837,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,12.0,1.0,MEDIUM,12.0,True,1,True,14.0,14.3,20.4,78.0,False,1.0,94.804,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,13.0,1.0,MEDIUM,13.0,True,1,True,14.0,14.3,20.4,78.0,False,1.0,94.593,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,14.0,1.0,MEDIUM,14.0,True,1,True,14.0,14.3,20.4,78.0,False,1.0,94.737,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,14.3,20.3,77.0,False,1.3,94.705,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,14.5,20.1,76.0,False,1.8,94.633,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,17.0,1.0,MEDIUM,17.0,True,1,True,14.0,14.4,20.0,76.0,False,1.4,94.544,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,14.4,20.0,77.0,False,1.9,94.581,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,19.0,1.0,MEDIUM,19.0,True,1,True,14.0,14.4,20.1,77.0,False,1.2,94.342,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,20.0,1.0,MEDIUM,20.0,True,1,True,14.0,14.4,20.1,76.0,False,0.9,94.768,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,21.0,1.0,MEDIUM,21.0,True,1,True,14.0,14.4,20.0,77.0,False,0.9,94.604,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,22.0,1.0,MEDIUM,22.0,True,1,True,14.0,14.4,20.0,77.0,False,1.1,94.689,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,23.0,1.0,MEDIUM,23.0,True,1,True,14.0,14.5,20.0,77.0,False,1.0,94.458,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,24.0,1.0,MEDIUM,24.0,True,1,True,12.0,14.5,19.7,77.0,False,1.6,94.188,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,25.0,1.0,MEDIUM,25.0,True,1,True,9.0,14.4,19.6,77.0,False,0.7,94.116,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,26.0,1.0,MEDIUM,26.0,True,1,True,8.0,14.4,19.6,78.0,False,1.8,94.016,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,27.0,1.0,MEDIUM,27.0,True,1,True,8.0,14.4,19.6,77.0,False,1.1,94.064,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,28.0,1.0,MEDIUM,28.0,True,1,True,8.0,14.5,19.5,78.0,False,0.5,93.977,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,29.0,1.0,MEDIUM,29.0,True,1,True,8.0,14.5,19.6,78.0,False,0.6,93.959,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,30.0,1.0,MEDIUM,30.0,True,1,True,8.0,14.6,19.7,77.0,False,0.7,94.105,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,31.0,1.0,MEDIUM,31.0,True,1,True,9.0,14.5,19.5,77.0,False,1.2,95.823,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,32.0,1.0,MEDIUM,32.0,True,1,True,10.0,14.6,19.5,77.0,False,1.2,95.11,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,33.0,1.0,MEDIUM,33.0,True,1,False,10.0,14.6,19.4,77.0,False,1.2,96.455,True,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,34.0,2.0,SOFT,1.0,True,1,False,16.0,14.5,19.4,78.0,False,0.9,114.236,True,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,35.0,2.0,SOFT,2.0,True,1,True,16.0,14.5,19.5,78.0,False,1.4,92.2,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,36.0,2.0,SOFT,3.0,True,1,True,17.0,14.4,19.3,78.0,False,0.9,93.395,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,37.0,2.0,SOFT,4.0,True,1,True,17.0,14.4,19.3,77.0,False,1.4,92.796,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,38.0,2.0,SOFT,5.0,True,1,True,17.0,14.5,19.2,77.0,False,1.9,92.244,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,39.0,2.0,SOFT,6.0,True,1,True,17.0,14.4,19.3,78.0,False,0.8,92.043,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,40.0,2.0,SOFT,7.0,True,1,True,17.0,14.5,19.2,77.0,False,0.5,92.43,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,41.0,2.0,SOFT,8.0,True,1,True,17.0,14.5,19.4,77.0,False,1.6,92.294,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,42.0,2.0,SOFT,9.0,True,1,True,17.0,14.5,19.4,78.0,False,1.2,92.105,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,43.0,2.0,SOFT,10.0,True,1,True,17.0,14.5,19.4,77.0,False,1.1,92.368,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,44.0,2.0,SOFT,11.0,True,1,True,17.0,14.5,19.4,77.0,False,1.1,92.514,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,45.0,2.0,SOFT,12.0,True,1,True,17.0,14.5,19.4,77.0,False,1.1,92.681,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,46.0,2.0,SOFT,13.0,True,1,True,17.0,14.5,19.4,77.0,False,1.5,92.775,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,47.0,2.0,SOFT,14.0,True,1,True,17.0,14.5,19.2,77.0,False,1.3,92.705,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,48.0,2.0,SOFT,15.0,True,1,True,17.0,14.6,19.2,77.0,False,1.0,92.796,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,49.0,2.0,SOFT,16.0,True,1,True,17.0,14.6,19.3,77.0,False,1.4,92.936,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,50.0,2.0,SOFT,17.0,True,1,True,17.0,14.6,19.4,77.0,False,1.2,92.702,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,51.0,2.0,SOFT,18.0,True,1,True,17.0,14.6,19.3,77.0,False,1.3,92.934,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,52.0,2.0,SOFT,19.0,True,1,True,17.0,14.6,19.0,76.0,False,2.1,92.797,False,53,2025,3,Japanese Grand Prix,2025_03
+LAW,Racing Bulls,53.0,2.0,SOFT,20.0,True,1,True,17.0,14.6,19.1,77.0,False,2.1,93.243,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,1.0,1.0,HARD,2.0,False,1,False,17.0,14.3,21.0,77.0,False,0.9,104.763,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,2.0,1.0,HARD,3.0,False,1,True,17.0,14.2,20.8,77.0,False,0.7,96.899,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,3.0,1.0,HARD,4.0,False,1,True,17.0,14.2,20.9,77.0,False,1.1,95.531,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,4.0,1.0,HARD,5.0,False,1,True,17.0,14.3,20.9,77.0,False,1.1,95.17,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,5.0,1.0,HARD,6.0,False,1,True,17.0,14.2,20.6,77.0,False,1.3,95.361,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,6.0,1.0,HARD,7.0,False,1,True,17.0,14.3,20.7,77.0,False,1.1,95.157,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,7.0,1.0,HARD,8.0,False,1,True,17.0,14.3,20.6,78.0,False,1.4,95.042,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,8.0,1.0,HARD,9.0,False,1,True,17.0,14.3,20.7,77.0,False,2.3,95.05,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,9.0,1.0,HARD,10.0,False,1,True,17.0,14.3,20.7,78.0,False,1.2,95.035,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,10.0,1.0,HARD,11.0,False,1,True,17.0,14.3,20.6,78.0,False,1.7,94.855,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,11.0,1.0,HARD,12.0,False,1,True,17.0,14.3,20.6,78.0,False,0.8,94.845,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,12.0,1.0,HARD,13.0,False,1,True,17.0,14.3,20.4,78.0,False,1.0,94.869,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,13.0,1.0,HARD,14.0,False,1,True,17.0,14.3,20.4,78.0,False,1.0,94.569,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,14.0,1.0,HARD,15.0,False,1,True,17.0,14.3,20.4,78.0,False,1.0,94.82,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,15.0,1.0,HARD,16.0,False,1,True,17.0,14.4,20.3,77.0,False,1.5,94.721,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,16.0,1.0,HARD,17.0,False,1,True,17.0,14.5,20.1,76.0,False,1.8,94.941,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,17.0,1.0,HARD,18.0,False,1,True,17.0,14.4,20.0,76.0,False,1.4,94.713,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,18.0,1.0,HARD,19.0,False,1,True,17.0,14.4,20.0,77.0,False,1.9,94.768,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,19.0,1.0,HARD,20.0,False,1,True,17.0,14.4,20.1,77.0,False,1.2,94.5,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,20.0,1.0,HARD,21.0,False,1,True,17.0,14.4,20.1,76.0,False,0.9,94.363,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,21.0,1.0,HARD,22.0,False,1,True,17.0,14.4,20.0,77.0,False,0.9,94.208,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,22.0,1.0,HARD,23.0,False,1,True,16.0,14.4,20.0,77.0,False,1.1,94.356,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,23.0,1.0,HARD,24.0,False,1,True,16.0,14.5,20.0,77.0,False,1.0,94.118,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,24.0,1.0,HARD,25.0,False,1,True,14.0,14.5,19.7,77.0,False,1.6,94.232,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,25.0,1.0,HARD,26.0,False,1,True,11.0,14.4,19.6,77.0,False,0.7,94.051,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,26.0,1.0,HARD,27.0,False,1,True,11.0,14.4,19.6,78.0,False,1.8,96.45,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,27.0,1.0,HARD,28.0,False,1,True,11.0,14.4,19.6,77.0,False,1.1,94.007,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,28.0,1.0,HARD,29.0,False,1,True,11.0,14.5,19.5,78.0,False,0.5,93.923,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,29.0,1.0,HARD,30.0,False,1,True,12.0,14.5,19.6,78.0,False,0.6,94.829,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,30.0,1.0,HARD,31.0,False,1,True,12.0,14.6,19.7,77.0,False,0.7,94.101,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,31.0,1.0,HARD,32.0,False,1,True,12.0,14.5,19.5,77.0,False,1.2,93.889,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,32.0,1.0,HARD,33.0,False,1,False,13.0,14.6,19.5,77.0,False,1.2,96.135,True,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,33.0,2.0,MEDIUM,1.0,True,1,False,18.0,14.6,19.4,77.0,False,1.2,114.834,True,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,34.0,2.0,MEDIUM,2.0,True,1,True,18.0,14.6,19.4,77.0,False,1.1,92.908,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,35.0,2.0,MEDIUM,3.0,True,1,True,18.0,14.5,19.5,78.0,False,1.4,92.84,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,36.0,2.0,MEDIUM,4.0,True,1,True,18.0,14.4,19.3,78.0,False,0.9,92.782,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,37.0,2.0,MEDIUM,5.0,True,1,True,18.0,14.4,19.3,77.0,False,1.4,92.681,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,38.0,2.0,MEDIUM,6.0,True,1,True,18.0,14.5,19.2,77.0,False,1.9,92.736,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,39.0,2.0,MEDIUM,7.0,True,1,True,18.0,14.4,19.3,78.0,False,0.8,92.767,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,40.0,2.0,MEDIUM,8.0,True,1,True,18.0,14.5,19.2,77.0,False,0.5,92.519,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,41.0,2.0,MEDIUM,9.0,True,1,True,18.0,14.5,19.4,77.0,False,1.6,92.445,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,42.0,2.0,MEDIUM,10.0,True,1,True,18.0,14.5,19.4,78.0,False,1.2,92.258,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,43.0,2.0,MEDIUM,11.0,True,1,True,18.0,14.5,19.4,77.0,False,1.1,92.474,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,44.0,2.0,MEDIUM,12.0,True,1,True,18.0,14.5,19.4,77.0,False,1.1,92.186,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,45.0,2.0,MEDIUM,13.0,True,1,True,18.0,14.5,19.4,77.0,False,1.1,92.309,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,46.0,2.0,MEDIUM,14.0,True,1,True,18.0,14.5,19.4,77.0,False,1.5,92.542,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,47.0,2.0,MEDIUM,15.0,True,1,True,18.0,14.5,19.2,77.0,False,1.3,92.272,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,48.0,2.0,MEDIUM,16.0,True,1,True,18.0,14.6,19.2,77.0,False,1.0,91.967,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,49.0,2.0,MEDIUM,17.0,True,1,True,18.0,14.6,19.3,77.0,False,1.4,92.44,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,50.0,2.0,MEDIUM,18.0,True,1,True,18.0,14.6,19.4,77.0,False,1.2,92.338,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,51.0,2.0,MEDIUM,19.0,True,1,True,18.0,14.6,19.3,77.0,False,1.3,92.81,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,52.0,2.0,MEDIUM,20.0,True,1,True,18.0,14.6,19.0,76.0,False,2.1,92.936,False,53,2025,3,Japanese Grand Prix,2025_03
+OCO,Haas F1 Team,53.0,2.0,MEDIUM,21.0,True,1,True,18.0,14.6,19.1,77.0,False,2.1,93.106,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,1.0,1.0,HARD,1.0,True,1,False,20.0,14.3,21.0,77.0,False,0.9,106.89,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,2.0,1.0,HARD,2.0,True,1,True,20.0,14.2,20.8,77.0,False,0.7,96.988,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,3.0,1.0,HARD,3.0,True,1,True,20.0,14.2,20.9,77.0,False,1.1,95.678,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,4.0,1.0,HARD,4.0,True,1,True,20.0,14.3,20.9,77.0,False,1.1,94.968,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,5.0,1.0,HARD,5.0,True,1,True,20.0,14.2,20.6,77.0,False,1.3,95.043,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,6.0,1.0,HARD,6.0,True,1,True,20.0,14.3,20.7,77.0,False,1.1,95.555,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,7.0,1.0,HARD,7.0,True,1,True,20.0,14.3,20.6,78.0,False,1.4,95.276,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,8.0,1.0,HARD,8.0,True,1,True,20.0,14.3,20.6,78.0,False,1.7,95.209,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,9.0,1.0,HARD,9.0,True,1,True,19.0,14.3,20.7,78.0,False,1.2,95.474,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,10.0,1.0,HARD,10.0,True,1,True,19.0,14.3,20.6,78.0,False,1.7,94.459,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,11.0,1.0,HARD,11.0,True,1,True,19.0,14.3,20.6,78.0,False,0.8,94.699,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,12.0,1.0,HARD,12.0,True,1,True,19.0,14.3,20.4,78.0,False,1.0,94.899,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,13.0,1.0,HARD,13.0,True,1,True,19.0,14.3,20.4,78.0,False,1.0,94.632,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,14.0,1.0,HARD,14.0,True,1,True,19.0,14.3,20.4,78.0,False,1.0,94.971,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,15.0,1.0,HARD,15.0,True,1,True,18.0,14.4,20.3,77.0,False,1.5,94.858,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,16.0,1.0,HARD,16.0,True,1,True,18.0,14.5,20.1,76.0,False,1.8,94.599,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,17.0,1.0,HARD,17.0,True,1,True,18.0,14.4,20.0,76.0,False,1.4,94.642,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,18.0,1.0,HARD,18.0,True,1,True,18.0,14.4,20.0,77.0,False,1.9,94.724,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,19.0,1.0,HARD,19.0,True,1,True,18.0,14.4,20.1,77.0,False,1.2,94.204,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,20.0,1.0,HARD,20.0,True,1,True,18.0,14.4,20.1,76.0,False,0.9,94.539,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,21.0,1.0,HARD,21.0,True,1,True,18.0,14.4,20.0,77.0,False,0.9,94.372,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,22.0,1.0,HARD,22.0,True,1,True,18.0,14.4,20.0,77.0,False,1.1,94.492,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,23.0,1.0,HARD,23.0,True,1,True,17.0,14.5,20.0,77.0,False,1.0,94.124,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,24.0,1.0,HARD,24.0,True,1,True,15.0,14.5,19.7,77.0,False,1.6,93.799,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,25.0,1.0,HARD,25.0,True,1,True,12.0,14.4,19.6,77.0,False,0.7,93.638,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,26.0,1.0,HARD,26.0,True,1,True,12.0,14.4,19.6,78.0,False,1.8,95.226,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,27.0,1.0,HARD,27.0,True,1,True,12.0,14.4,19.6,77.0,False,1.1,95.015,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,28.0,1.0,HARD,28.0,True,1,True,13.0,14.5,19.5,78.0,False,0.5,95.01,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,29.0,1.0,HARD,29.0,True,1,True,13.0,14.5,19.6,78.0,False,0.6,93.814,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,30.0,1.0,HARD,30.0,True,1,True,13.0,14.6,19.7,77.0,False,0.7,93.695,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,31.0,1.0,HARD,31.0,True,1,False,14.0,14.5,19.5,77.0,False,1.2,97.484,True,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,32.0,2.0,MEDIUM,1.0,True,1,False,19.0,14.6,19.5,77.0,False,1.2,114.684,True,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,33.0,2.0,MEDIUM,2.0,True,1,True,19.0,14.6,19.4,77.0,False,1.2,92.47,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,34.0,2.0,MEDIUM,3.0,True,1,True,19.0,14.6,19.4,77.0,False,1.1,93.184,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,35.0,2.0,MEDIUM,4.0,True,1,True,19.0,14.5,19.5,78.0,False,1.4,92.947,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,36.0,2.0,MEDIUM,5.0,True,1,True,19.0,14.4,19.3,78.0,False,0.9,92.93,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,37.0,2.0,MEDIUM,6.0,True,1,True,19.0,14.4,19.3,77.0,False,1.4,92.857,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,38.0,2.0,MEDIUM,7.0,True,1,True,19.0,14.5,19.2,77.0,False,1.9,92.517,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,39.0,2.0,MEDIUM,8.0,True,1,True,19.0,14.4,19.3,78.0,False,0.8,92.538,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,40.0,2.0,MEDIUM,9.0,True,1,True,19.0,14.5,19.2,77.0,False,0.5,92.487,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,41.0,2.0,MEDIUM,10.0,True,1,True,19.0,14.5,19.4,77.0,False,1.6,92.154,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,42.0,2.0,MEDIUM,11.0,True,1,True,19.0,14.5,19.4,78.0,False,1.2,92.216,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,43.0,2.0,MEDIUM,12.0,True,1,True,19.0,14.5,19.4,77.0,False,1.1,92.23,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,44.0,2.0,MEDIUM,13.0,True,1,True,19.0,14.5,19.4,77.0,False,1.1,92.353,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,45.0,2.0,MEDIUM,14.0,True,1,True,19.0,14.5,19.4,77.0,False,1.1,92.034,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,46.0,2.0,MEDIUM,15.0,True,1,True,19.0,14.5,19.4,77.0,False,1.5,92.695,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,47.0,2.0,MEDIUM,16.0,True,1,True,19.0,14.5,19.2,77.0,False,1.3,92.276,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,48.0,2.0,MEDIUM,17.0,True,1,True,19.0,14.6,19.2,77.0,False,1.0,92.26,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,49.0,2.0,MEDIUM,18.0,True,1,True,19.0,14.6,19.3,77.0,False,1.4,92.201,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,50.0,2.0,MEDIUM,19.0,True,1,True,19.0,14.6,19.4,77.0,False,2.4,92.398,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,51.0,2.0,MEDIUM,20.0,True,1,True,19.0,14.6,19.3,77.0,False,1.3,92.531,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,52.0,2.0,MEDIUM,21.0,True,1,True,19.0,14.6,19.0,76.0,False,2.1,92.993,False,53,2025,3,Japanese Grand Prix,2025_03
+BOR,Kick Sauber,53.0,2.0,MEDIUM,22.0,True,1,True,19.0,14.6,19.1,77.0,False,2.1,92.949,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,1.0,1.0,SOFT,1.0,True,1,False,19.0,14.3,21.0,77.0,False,0.9,106.103,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,2.0,1.0,SOFT,2.0,True,1,True,19.0,14.2,20.8,77.0,False,0.7,97.016,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,3.0,1.0,SOFT,3.0,True,1,True,19.0,14.2,20.9,77.0,False,1.1,95.475,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,4.0,1.0,SOFT,4.0,True,1,True,19.0,14.3,20.9,77.0,False,1.1,95.161,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,5.0,1.0,SOFT,5.0,True,1,True,19.0,14.2,20.6,77.0,False,1.3,95.418,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,6.0,1.0,SOFT,6.0,True,1,True,19.0,14.3,20.7,77.0,False,1.1,95.289,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,7.0,1.0,SOFT,7.0,True,1,True,19.0,14.3,20.6,78.0,False,1.4,95.104,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,8.0,1.0,SOFT,8.0,True,1,True,19.0,14.3,20.6,78.0,False,1.7,95.356,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,9.0,1.0,SOFT,9.0,True,1,False,20.0,14.3,20.7,78.0,False,1.2,97.946,True,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,10.0,2.0,HARD,2.0,False,1,False,20.0,14.3,20.6,78.0,False,1.7,115.207,True,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,11.0,2.0,HARD,3.0,False,1,True,20.0,14.3,20.2,78.0,False,1.1,94.854,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,12.0,2.0,HARD,4.0,False,1,True,20.0,14.3,20.4,78.0,False,1.0,95.243,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,13.0,2.0,HARD,5.0,False,1,True,20.0,14.3,20.4,78.0,False,1.0,95.153,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,14.0,2.0,HARD,6.0,False,1,True,20.0,14.3,20.4,78.0,False,1.0,94.586,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,15.0,2.0,HARD,7.0,False,1,True,20.0,14.4,20.3,77.0,False,1.5,94.409,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,16.0,2.0,HARD,8.0,False,1,True,20.0,14.5,19.9,76.0,False,1.6,94.887,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,17.0,2.0,HARD,9.0,False,1,True,20.0,14.4,20.0,76.0,False,1.4,94.657,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,18.0,2.0,HARD,10.0,False,1,True,20.0,14.4,20.1,77.0,False,1.3,94.451,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,19.0,2.0,HARD,11.0,False,1,True,20.0,14.4,20.1,77.0,False,1.2,94.057,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,20.0,2.0,HARD,12.0,False,1,True,20.0,14.5,20.0,77.0,False,1.0,93.651,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,21.0,2.0,HARD,13.0,False,1,True,20.0,14.4,20.0,77.0,False,0.9,93.625,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,22.0,2.0,HARD,14.0,False,1,True,20.0,14.4,20.0,77.0,False,1.1,93.772,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,23.0,2.0,HARD,15.0,False,1,True,20.0,14.5,19.9,77.0,False,0.9,94.117,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,24.0,2.0,HARD,16.0,False,1,True,20.0,14.5,19.7,77.0,False,1.6,94.149,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,25.0,2.0,HARD,17.0,False,1,True,20.0,14.4,19.6,77.0,False,1.6,94.743,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,26.0,2.0,HARD,18.0,False,1,True,20.0,14.4,19.6,78.0,False,1.8,94.258,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,27.0,2.0,HARD,19.0,False,1,True,20.0,14.4,19.4,78.0,False,0.7,94.015,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,28.0,2.0,HARD,20.0,False,1,True,20.0,14.5,19.5,78.0,False,0.5,94.126,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,29.0,2.0,HARD,21.0,False,1,True,20.0,14.5,19.6,78.0,False,0.6,94.126,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,30.0,2.0,HARD,22.0,False,1,False,20.0,14.6,19.7,77.0,False,0.7,95.972,True,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,31.0,3.0,MEDIUM,2.0,False,1,False,20.0,14.5,19.5,77.0,False,1.2,113.37,True,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,32.0,3.0,MEDIUM,3.0,False,1,True,20.0,14.6,19.4,77.0,False,1.4,92.363,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,33.0,3.0,MEDIUM,4.0,False,1,True,20.0,14.5,19.4,78.0,False,0.9,92.456,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,34.0,3.0,MEDIUM,5.0,False,1,True,20.0,14.6,19.4,77.0,False,1.1,92.869,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,35.0,3.0,MEDIUM,6.0,False,1,True,20.0,14.5,19.4,78.0,False,1.4,93.04,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,36.0,3.0,MEDIUM,7.0,False,1,True,20.0,14.4,19.3,78.0,False,0.9,92.691,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,37.0,3.0,MEDIUM,8.0,False,1,True,20.0,14.5,19.3,78.0,False,1.2,92.781,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,38.0,3.0,MEDIUM,9.0,False,1,True,20.0,14.5,19.2,77.0,False,1.9,92.737,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,39.0,3.0,MEDIUM,10.0,False,1,True,20.0,14.4,19.3,78.0,False,0.8,92.856,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,40.0,3.0,MEDIUM,11.0,False,1,True,20.0,14.5,19.2,77.0,False,0.5,92.697,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,41.0,3.0,MEDIUM,12.0,False,1,True,20.0,14.5,19.4,77.0,False,1.6,92.567,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,42.0,3.0,MEDIUM,13.0,False,1,True,20.0,14.5,19.4,78.0,False,1.2,92.434,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,43.0,3.0,MEDIUM,14.0,False,1,True,20.0,14.5,19.4,77.0,False,1.1,92.438,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,44.0,3.0,MEDIUM,15.0,False,1,True,20.0,14.5,19.4,77.0,False,1.1,93.17,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,45.0,3.0,MEDIUM,16.0,False,1,True,20.0,14.5,19.4,77.0,False,1.1,98.056,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,46.0,3.0,MEDIUM,17.0,False,1,True,20.0,14.6,19.4,77.0,False,1.4,92.685,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,47.0,3.0,MEDIUM,18.0,False,1,True,20.0,14.5,19.2,77.0,False,1.3,92.442,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,48.0,3.0,MEDIUM,19.0,False,1,True,20.0,14.5,19.2,77.0,False,1.2,92.545,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,49.0,3.0,MEDIUM,20.0,False,1,True,20.0,14.6,19.3,77.0,False,1.4,92.374,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,50.0,3.0,MEDIUM,21.0,False,1,True,20.0,14.6,19.4,77.0,False,2.4,92.217,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,51.0,3.0,MEDIUM,22.0,False,1,True,20.0,14.6,19.3,77.0,False,1.3,92.146,False,53,2025,3,Japanese Grand Prix,2025_03
+STR,Aston Martin,52.0,3.0,MEDIUM,23.0,False,1,True,20.0,14.6,19.0,76.0,False,2.1,92.052,False,53,2025,3,Japanese Grand Prix,2025_03

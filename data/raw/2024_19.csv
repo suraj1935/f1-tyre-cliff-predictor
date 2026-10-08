@@ -1,0 +1,1060 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,12,False,2.0,27.6,46.4,38.0,False,0.9,101.657,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,28.0,47.0,37.0,False,0.7,99.991,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,124,False,2.0,28.1,47.2,37.0,False,1.8,122.849,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,4,False,2.0,28.3,47.0,37.0,False,2.4,,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,41,False,2.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,28.0,47.9,33.0,False,1.3,99.779,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,28.1,47.4,33.0,False,1.8,99.731,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,28.1,47.2,34.0,False,1.6,100.082,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,28.1,46.9,36.0,False,2.6,100.032,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,12,True,2.0,28.1,46.7,37.0,False,2.0,99.97,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,28.2,47.0,37.0,False,1.8,100.246,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,28.2,47.1,36.0,False,1.4,100.182,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,28.1,47.1,36.0,False,1.9,99.936,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,28.1,47.4,35.0,False,1.6,99.846,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,28.4,47.4,35.0,False,1.2,100.192,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,28.4,47.5,35.0,False,1.6,100.033,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,28.4,47.8,35.0,False,1.9,100.16,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,28.4,47.6,34.0,False,0.5,99.921,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,28.3,47.6,35.0,False,2.6,99.981,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,28.3,47.2,36.0,False,1.0,99.986,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,28.5,47.1,36.0,False,0.7,99.803,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,28.4,47.3,36.0,False,1.2,100.099,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,28.4,47.4,36.0,False,1.8,100.42,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,28.5,47.8,34.0,False,2.2,100.318,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,False,2.0,28.4,47.7,34.0,False,1.4,100.718,True,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,26.0,2.0,HARD,1.0,True,1,False,5.0,28.5,48.0,33.0,False,1.6,119.619,True,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,27.0,2.0,HARD,2.0,True,1,True,5.0,28.4,47.6,33.0,False,2.8,99.046,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,28.0,2.0,HARD,3.0,True,1,True,5.0,28.5,47.5,34.0,False,1.9,98.784,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,29.0,2.0,HARD,4.0,True,1,True,5.0,28.6,47.5,34.0,False,1.2,99.067,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,30.0,2.0,HARD,5.0,True,1,True,5.0,28.8,47.5,33.0,False,0.7,98.75,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,31.0,2.0,HARD,6.0,True,1,True,5.0,28.9,47.7,32.0,False,1.7,99.058,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,32.0,2.0,HARD,7.0,True,1,True,4.0,28.9,47.7,32.0,False,1.5,99.106,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,33.0,2.0,HARD,8.0,True,1,True,3.0,28.7,47.7,32.0,False,1.9,98.827,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,34.0,2.0,HARD,9.0,True,1,True,3.0,28.8,47.4,33.0,False,2.8,99.063,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,35.0,2.0,HARD,10.0,True,1,True,3.0,28.8,47.1,33.0,False,1.8,99.004,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,36.0,2.0,HARD,11.0,True,1,True,3.0,28.8,47.0,33.0,False,0.8,98.715,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,37.0,2.0,HARD,12.0,True,1,True,3.0,28.9,47.2,33.0,False,0.9,98.963,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,38.0,2.0,HARD,13.0,True,1,True,3.0,28.9,46.9,33.0,False,0.5,98.641,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,39.0,2.0,HARD,14.0,True,1,True,3.0,29.0,47.1,33.0,False,1.8,98.358,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,40.0,2.0,HARD,15.0,True,1,True,3.0,29.0,46.9,33.0,False,1.9,98.624,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,41.0,2.0,HARD,16.0,True,12,True,3.0,28.9,47.3,32.0,False,2.5,98.463,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,42.0,2.0,HARD,17.0,True,1,True,3.0,28.9,47.4,32.0,False,0.9,98.117,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,43.0,2.0,HARD,18.0,True,1,True,3.0,29.0,46.8,32.0,False,1.4,98.526,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,44.0,2.0,HARD,19.0,True,1,True,3.0,29.0,46.2,33.0,False,0.9,98.453,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,45.0,2.0,HARD,20.0,True,1,True,3.0,29.0,46.5,33.0,False,0.5,98.269,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,46.0,2.0,HARD,21.0,True,1,True,3.0,29.0,47.2,32.0,False,0.4,98.255,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,47.0,2.0,HARD,22.0,True,1,True,3.0,29.1,47.0,32.0,False,1.8,99.191,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,48.0,2.0,HARD,23.0,True,1,True,3.0,29.1,46.7,32.0,False,2.1,98.572,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,49.0,2.0,HARD,24.0,True,1,True,3.0,29.1,46.8,33.0,False,1.3,98.598,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,50.0,2.0,HARD,25.0,True,1,True,3.0,28.9,46.6,32.0,False,1.3,98.692,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,51.0,2.0,HARD,26.0,True,1,True,3.0,29.0,47.0,32.0,False,0.7,99.105,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,52.0,2.0,HARD,27.0,True,1,True,4.0,29.3,46.4,31.0,False,0.3,100.819,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,53.0,2.0,HARD,28.0,True,1,True,4.0,29.2,46.5,31.0,False,0.7,99.384,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,54.0,2.0,HARD,29.0,True,1,True,4.0,29.2,46.4,31.0,False,1.1,98.661,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,55.0,2.0,HARD,30.0,True,1,True,4.0,29.3,46.0,32.0,False,1.4,98.252,False,56,2024,19,United States Grand Prix,2024_19
+VER,Red Bull Racing,56.0,2.0,HARD,31.0,True,1,True,4.0,29.2,46.1,32.0,False,1.3,99.018,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,12,False,6.0,27.6,46.4,38.0,False,0.9,104.426,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,12,True,6.0,28.0,47.0,37.0,False,0.7,102.067,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,24,False,6.0,28.1,47.2,37.0,False,1.8,128.872,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,4,False,6.0,28.3,47.0,37.0,False,2.4,149.84,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,41,False,6.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,28.0,47.9,33.0,False,1.3,102.096,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,28.1,47.4,33.0,False,1.8,101.487,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,28.1,47.2,34.0,False,1.6,101.037,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,28.1,46.9,36.0,False,2.6,100.712,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,12,True,6.0,28.1,46.7,37.0,False,2.0,100.571,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,28.2,47.0,37.0,False,1.8,101.291,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,28.2,47.1,36.0,False,1.4,101.086,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,28.1,47.1,36.0,False,1.9,101.046,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,28.1,47.4,35.0,False,1.6,101.551,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,28.4,47.4,35.0,False,1.2,101.499,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,28.4,47.4,35.0,False,1.5,101.306,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,28.4,47.8,35.0,False,1.9,102.142,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,False,6.0,28.4,47.6,34.0,False,0.5,101.038,True,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,19.0,2.0,HARD,1.0,True,1,False,16.0,28.2,47.2,36.0,False,2.9,125.822,True,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,20.0,2.0,HARD,2.0,True,1,True,16.0,28.4,47.1,36.0,False,1.1,101.596,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,21.0,2.0,HARD,3.0,True,1,True,16.0,28.5,47.1,36.0,False,0.7,101.132,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,22.0,2.0,HARD,4.0,True,1,True,16.0,28.5,47.4,36.0,False,2.3,101.033,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,23.0,2.0,HARD,5.0,True,1,True,16.0,28.4,47.8,35.0,False,1.4,101.083,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,24.0,2.0,HARD,6.0,True,1,True,16.0,28.5,47.8,34.0,False,2.2,100.915,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,25.0,2.0,HARD,7.0,True,1,True,16.0,28.5,47.8,33.0,False,1.6,100.986,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,26.0,2.0,HARD,8.0,True,1,True,16.0,28.5,48.0,33.0,False,1.1,101.954,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,27.0,2.0,HARD,9.0,True,1,True,14.0,28.5,47.3,33.0,False,1.1,102.407,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,28.0,2.0,HARD,10.0,True,1,True,13.0,28.5,47.5,34.0,False,1.9,100.73,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,29.0,2.0,HARD,11.0,True,1,True,13.0,28.7,47.2,33.0,False,0.8,100.435,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,30.0,2.0,HARD,12.0,True,1,True,13.0,29.0,47.7,32.0,False,1.0,100.672,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,31.0,2.0,HARD,13.0,True,1,True,13.0,28.9,47.7,32.0,False,1.7,100.791,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,32.0,2.0,HARD,14.0,True,1,True,12.0,28.8,47.4,32.0,False,0.7,100.493,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,33.0,2.0,HARD,15.0,True,1,True,12.0,28.7,47.5,32.0,False,1.5,100.244,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,34.0,2.0,HARD,16.0,True,1,True,12.0,28.8,47.4,33.0,False,2.8,99.905,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,35.0,2.0,HARD,17.0,True,1,True,12.0,28.8,47.1,33.0,False,0.8,99.866,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,36.0,2.0,HARD,18.0,True,1,True,12.0,28.9,47.2,33.0,False,0.9,100.63,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,37.0,2.0,HARD,19.0,True,1,True,11.0,28.9,47.2,33.0,False,0.7,100.698,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,38.0,2.0,HARD,20.0,True,1,True,12.0,28.9,47.1,33.0,False,1.0,100.845,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,39.0,2.0,HARD,21.0,True,1,True,11.0,29.0,46.9,33.0,False,1.9,99.981,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,40.0,2.0,HARD,22.0,True,1,True,10.0,29.0,46.9,32.0,False,1.4,99.899,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,41.0,2.0,HARD,23.0,True,12,True,10.0,28.9,47.4,32.0,False,1.2,100.583,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,42.0,2.0,HARD,24.0,True,1,True,10.0,29.0,46.8,32.0,False,1.4,99.141,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,43.0,2.0,HARD,25.0,True,1,True,10.0,29.0,46.4,33.0,False,1.1,99.276,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,44.0,2.0,HARD,26.0,True,1,True,10.0,29.0,46.4,33.0,False,1.5,99.55,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,45.0,2.0,HARD,27.0,True,1,True,11.0,29.0,47.2,32.0,False,0.4,100.665,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,46.0,2.0,HARD,28.0,True,1,True,11.0,29.1,47.0,32.0,False,1.4,99.364,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,47.0,2.0,HARD,29.0,True,1,True,12.0,29.1,46.8,32.0,False,2.2,100.973,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,48.0,2.0,HARD,30.0,True,1,True,12.0,29.1,46.8,33.0,False,1.3,99.561,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,49.0,2.0,HARD,31.0,True,1,True,12.0,29.0,46.7,33.0,False,0.8,99.3,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,50.0,2.0,HARD,32.0,True,1,True,12.0,29.0,47.0,32.0,False,0.7,99.174,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,51.0,2.0,HARD,33.0,True,1,True,12.0,29.3,46.4,31.0,False,0.3,99.384,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,52.0,2.0,HARD,34.0,True,1,True,12.0,29.2,46.5,31.0,False,1.3,98.9,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,53.0,2.0,HARD,35.0,True,1,True,12.0,29.2,46.4,31.0,False,1.1,99.127,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,54.0,2.0,HARD,36.0,True,1,True,12.0,29.3,46.0,32.0,False,1.4,98.728,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,55.0,2.0,HARD,37.0,True,1,True,12.0,29.3,46.1,32.0,False,1.2,98.311,False,56,2024,19,United States Grand Prix,2024_19
+GAS,Alpine,56.0,2.0,HARD,38.0,True,1,True,12.0,29.2,45.9,32.0,False,1.0,98.769,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,12,False,9.0,27.6,46.4,38.0,False,0.9,106.074,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,12,True,9.0,28.0,47.0,37.0,False,0.7,102.416,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,24,False,9.0,28.1,47.2,37.0,False,1.8,132.043,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,4,False,9.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,41,False,9.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,28.0,47.9,33.0,False,1.3,102.576,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,28.1,47.4,33.0,False,1.8,101.703,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,28.1,47.2,34.0,False,1.6,101.129,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,28.1,46.9,36.0,False,2.6,101.402,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,12,True,9.0,28.1,46.7,37.0,False,2.0,101.136,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,28.2,47.0,37.0,False,1.8,101.525,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,28.2,47.1,36.0,False,1.4,101.491,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,28.0,47.1,36.0,False,1.5,101.219,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,28.1,47.4,35.0,False,1.6,101.431,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,28.4,47.4,35.0,False,1.2,101.611,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,28.4,47.4,35.0,False,1.5,101.468,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,28.4,47.8,35.0,False,1.9,101.48,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,28.4,47.6,34.0,False,0.5,100.538,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,28.2,47.2,36.0,False,2.9,100.258,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,28.3,47.2,36.0,False,1.0,100.252,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,28.5,47.1,36.0,False,0.7,100.57,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,6.0,28.5,47.4,36.0,False,2.3,101.456,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,6.0,28.4,47.4,36.0,False,1.8,100.681,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,6.0,28.5,47.8,34.0,False,2.2,100.564,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,6.0,28.5,47.8,33.0,False,1.6,100.115,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,False,6.0,28.5,48.0,33.0,False,1.6,100.789,True,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,27.0,2.0,HARD,1.0,True,1,False,11.0,28.4,47.6,33.0,False,2.8,119.807,True,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,28.0,2.0,HARD,2.0,True,1,True,9.0,28.5,47.5,34.0,False,1.9,99.642,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,29.0,2.0,HARD,3.0,True,1,True,9.0,28.7,47.2,33.0,False,0.8,99.451,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,30.0,2.0,HARD,4.0,True,1,True,9.0,28.8,47.5,33.0,False,0.7,99.633,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,31.0,2.0,HARD,5.0,True,1,True,9.0,28.9,47.7,32.0,False,1.7,99.682,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,32.0,2.0,HARD,6.0,True,1,True,9.0,28.8,47.4,32.0,False,0.7,99.378,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,33.0,2.0,HARD,7.0,True,1,True,9.0,28.7,47.7,32.0,False,1.9,99.719,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,34.0,2.0,HARD,8.0,True,1,True,9.0,28.8,47.4,33.0,False,2.8,100.2,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,35.0,2.0,HARD,9.0,True,1,True,9.0,28.8,47.1,33.0,False,0.8,100.105,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,36.0,2.0,HARD,10.0,True,1,True,9.0,28.8,47.0,33.0,False,0.8,100.162,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,37.0,2.0,HARD,11.0,True,1,True,7.0,28.9,47.2,33.0,False,0.7,99.499,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,38.0,2.0,HARD,12.0,True,1,True,7.0,28.9,47.1,33.0,False,1.0,98.939,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,39.0,2.0,HARD,13.0,True,1,True,7.0,29.0,47.1,33.0,False,1.8,98.986,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,40.0,2.0,HARD,14.0,True,1,True,7.0,29.0,46.9,32.0,False,1.4,99.066,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,41.0,2.0,HARD,15.0,True,12,True,6.0,28.9,47.4,32.0,False,1.2,99.701,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,42.0,2.0,HARD,16.0,True,1,True,6.0,28.9,47.4,32.0,False,0.9,98.866,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,43.0,2.0,HARD,17.0,True,1,True,6.0,29.0,46.4,33.0,False,1.1,98.787,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,44.0,2.0,HARD,18.0,True,1,True,6.0,29.0,46.4,33.0,False,1.5,98.781,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,45.0,2.0,HARD,19.0,True,1,True,6.0,29.0,46.5,33.0,False,0.5,98.514,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,46.0,2.0,HARD,20.0,True,1,True,6.0,29.1,47.0,32.0,False,1.4,98.579,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,47.0,2.0,HARD,21.0,True,1,True,6.0,29.1,46.8,32.0,False,2.2,98.914,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,48.0,2.0,HARD,22.0,True,1,True,6.0,29.1,46.7,32.0,False,2.1,98.842,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,49.0,2.0,HARD,23.0,True,1,True,6.0,29.0,46.7,33.0,False,0.8,98.682,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,50.0,2.0,HARD,24.0,True,1,True,6.0,28.9,46.6,32.0,False,1.3,98.729,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,51.0,2.0,HARD,25.0,True,1,True,6.0,29.3,46.7,31.0,False,0.0,98.67,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,52.0,2.0,HARD,26.0,True,1,True,6.0,29.2,46.5,31.0,False,1.3,99.176,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,53.0,2.0,HARD,27.0,True,1,True,6.0,29.2,46.5,31.0,False,0.7,99.739,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,54.0,2.0,HARD,28.0,True,1,True,6.0,29.1,46.0,31.0,False,1.7,98.803,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,55.0,2.0,HARD,29.0,True,1,True,7.0,29.3,46.1,32.0,False,1.2,99.987,False,56,2024,19,United States Grand Prix,2024_19
+PER,Red Bull Racing,56.0,2.0,HARD,30.0,True,1,True,7.0,29.2,46.1,32.0,False,1.3,99.57,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,12,False,10.0,27.6,46.4,38.0,False,0.9,106.421,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,12,True,10.0,28.0,47.0,37.0,False,0.7,102.72,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,24,False,10.0,28.1,47.2,37.0,False,1.8,133.66,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,4,False,10.0,28.3,47.1,36.0,False,1.4,149.599,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,41,False,10.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,28.0,47.9,33.0,False,1.3,103.042,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,28.1,47.4,33.0,False,1.8,102.409,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,28.1,47.2,34.0,False,1.6,101.508,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,28.1,46.9,36.0,False,2.6,101.975,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,12,True,11.0,28.1,46.7,37.0,False,1.5,101.928,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,28.2,47.0,37.0,False,1.8,103.326,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,28.2,47.1,36.0,False,1.4,101.701,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,28.0,47.1,36.0,False,1.5,101.687,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,28.1,47.4,35.0,False,1.6,101.706,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,28.4,47.4,35.0,False,1.2,101.53,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,28.4,47.4,35.0,False,1.5,101.681,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,28.4,47.8,35.0,False,1.9,102.424,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,28.4,47.6,34.0,False,0.5,101.238,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,28.2,47.2,36.0,False,2.9,101.677,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,True,10.0,28.3,47.2,36.0,False,1.0,101.585,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,21.0,1.0,MEDIUM,21.0,True,1,True,10.0,28.5,47.1,36.0,False,0.7,101.297,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,22.0,1.0,MEDIUM,22.0,True,1,True,11.0,28.5,47.4,36.0,False,2.3,102.707,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,23.0,1.0,MEDIUM,23.0,True,1,True,11.0,28.4,47.8,35.0,False,1.4,101.766,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,24.0,1.0,MEDIUM,24.0,True,1,True,11.0,28.5,47.8,34.0,False,2.2,101.879,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,25.0,1.0,MEDIUM,25.0,True,1,True,11.0,28.5,47.8,33.0,False,1.6,101.614,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,26.0,1.0,MEDIUM,26.0,True,1,False,11.0,28.5,48.0,33.0,False,1.1,102.193,True,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,27.0,2.0,HARD,2.0,False,1,False,18.0,28.4,47.6,33.0,False,2.8,120.837,True,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,28.0,2.0,HARD,3.0,False,1,True,17.0,28.5,47.5,34.0,False,1.9,100.478,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,29.0,2.0,HARD,4.0,False,1,True,17.0,28.7,47.2,33.0,False,0.8,100.48,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,30.0,2.0,HARD,5.0,False,1,True,17.0,29.0,47.7,32.0,False,1.0,100.21,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,31.0,2.0,HARD,6.0,False,1,True,17.0,28.9,47.7,32.0,False,1.7,100.133,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,32.0,2.0,HARD,7.0,False,1,True,16.0,28.8,47.4,32.0,False,0.7,100.6,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,33.0,2.0,HARD,8.0,False,1,True,16.0,28.7,47.5,32.0,False,1.5,100.556,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,34.0,2.0,HARD,9.0,False,1,True,14.0,28.8,47.4,33.0,False,2.8,100.285,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,35.0,2.0,HARD,10.0,False,1,True,14.0,28.8,47.1,33.0,False,0.8,101.231,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,36.0,2.0,HARD,11.0,False,1,True,14.0,28.9,47.2,33.0,False,0.9,100.213,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,37.0,2.0,HARD,12.0,False,1,True,14.0,28.9,47.2,33.0,False,0.7,100.61,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,38.0,2.0,HARD,13.0,False,1,True,14.0,28.9,47.1,33.0,False,1.0,100.14,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,39.0,2.0,HARD,14.0,False,1,True,14.0,29.0,46.9,33.0,False,1.9,100.079,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,40.0,2.0,HARD,15.0,False,1,True,14.0,29.0,46.9,32.0,False,1.4,99.927,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,41.0,2.0,HARD,16.0,False,12,True,13.0,28.9,47.4,32.0,False,1.2,101.035,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,42.0,2.0,HARD,17.0,False,1,True,13.0,29.0,46.8,32.0,False,1.4,99.445,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,43.0,2.0,HARD,18.0,False,1,True,13.0,29.0,46.4,33.0,False,1.1,99.554,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,44.0,2.0,HARD,19.0,False,1,True,13.0,29.0,46.4,33.0,False,1.5,99.452,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,45.0,2.0,HARD,20.0,False,1,True,13.0,29.0,47.2,32.0,False,0.4,99.999,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,46.0,2.0,HARD,21.0,False,1,True,13.0,29.1,47.0,32.0,False,1.4,99.54,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,47.0,2.0,HARD,22.0,False,1,True,13.0,29.1,46.8,32.0,False,2.2,99.533,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,48.0,2.0,HARD,23.0,False,1,True,13.0,29.1,46.8,33.0,False,1.3,99.638,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,49.0,2.0,HARD,24.0,False,1,True,13.0,29.0,46.7,33.0,False,0.8,99.949,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,50.0,2.0,HARD,25.0,False,1,True,13.0,29.0,47.0,32.0,False,0.7,99.584,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,51.0,2.0,HARD,26.0,False,1,True,13.0,29.3,46.4,31.0,False,0.3,99.29,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,52.0,2.0,HARD,27.0,False,1,True,13.0,29.2,46.5,31.0,False,1.3,99.261,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,53.0,2.0,HARD,28.0,False,1,True,13.0,29.2,46.4,31.0,False,1.1,99.729,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,54.0,2.0,HARD,29.0,False,1,True,13.0,29.3,46.0,32.0,False,1.4,101.67,False,56,2024,19,United States Grand Prix,2024_19
+ALO,Aston Martin,55.0,2.0,HARD,30.0,False,1,True,13.0,29.3,46.1,32.0,False,1.2,100.096,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,12,False,1.0,27.6,46.4,38.0,False,0.9,99.987,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,28.0,47.0,37.0,False,0.7,100.341,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,124,False,1.0,28.1,47.2,37.0,False,1.8,122.873,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,4,False,1.0,28.3,47.0,37.0,False,2.4,,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,41,False,1.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,28.0,47.9,33.0,False,1.3,98.951,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,28.1,47.4,33.0,False,1.8,99.57,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,28.1,47.2,34.0,False,1.6,99.307,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,28.1,46.9,36.0,False,2.6,99.257,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,12,True,1.0,28.1,46.7,37.0,False,2.0,99.421,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,28.2,47.0,37.0,False,1.8,99.597,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,28.2,47.1,36.0,False,1.4,99.448,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,28.1,47.1,36.0,False,1.9,99.399,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,28.1,47.4,35.0,False,1.6,99.2,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,28.4,47.4,35.0,False,1.2,99.672,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,28.4,47.5,35.0,False,1.6,99.782,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,28.4,47.8,35.0,False,1.9,99.621,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,28.4,47.6,34.0,False,0.5,99.435,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,28.3,47.6,35.0,False,2.6,99.553,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,28.3,47.2,36.0,False,1.0,99.756,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,28.4,47.1,36.0,False,1.1,99.506,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,28.4,47.3,36.0,False,1.2,99.411,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,28.4,47.4,36.0,False,1.8,99.878,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,28.4,47.8,35.0,False,1.4,99.699,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,28.4,47.7,34.0,False,1.4,99.583,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,False,1.0,28.5,48.0,33.0,False,1.6,100.211,True,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,27.0,2.0,HARD,1.0,True,1,False,3.0,28.5,48.0,33.0,False,1.1,119.522,True,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,28.0,2.0,HARD,2.0,True,1,True,3.0,28.5,47.3,33.0,False,1.1,98.662,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,29.0,2.0,HARD,3.0,True,1,True,3.0,28.6,47.5,34.0,False,1.2,99.067,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,30.0,2.0,HARD,4.0,True,1,True,3.0,28.8,47.5,33.0,False,0.7,99.034,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,31.0,2.0,HARD,5.0,True,1,True,2.0,29.0,47.7,32.0,False,1.0,98.667,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,32.0,2.0,HARD,6.0,True,1,True,1.0,28.9,47.7,32.0,False,1.5,98.825,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,33.0,2.0,HARD,7.0,True,1,True,1.0,28.7,47.7,32.0,False,1.9,99.032,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,34.0,2.0,HARD,8.0,True,1,True,1.0,28.7,47.5,32.0,False,1.5,98.633,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,35.0,2.0,HARD,9.0,True,1,True,1.0,28.8,47.1,33.0,False,1.8,98.897,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,36.0,2.0,HARD,10.0,True,1,True,1.0,28.8,47.0,33.0,False,0.8,98.643,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,37.0,2.0,HARD,11.0,True,1,True,1.0,28.9,47.2,33.0,False,0.9,98.477,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,38.0,2.0,HARD,12.0,True,1,True,1.0,28.9,46.9,33.0,False,0.5,98.57,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,39.0,2.0,HARD,13.0,True,1,True,1.0,29.0,47.1,33.0,False,1.8,97.834,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,40.0,2.0,HARD,14.0,True,1,True,1.0,29.0,46.9,33.0,False,1.9,98.287,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,41.0,2.0,HARD,15.0,True,12,True,1.0,28.9,47.3,32.0,False,2.5,98.395,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,42.0,2.0,HARD,16.0,True,1,True,1.0,28.9,47.4,32.0,False,1.2,98.179,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,43.0,2.0,HARD,17.0,True,1,True,1.0,29.0,46.8,32.0,False,1.4,98.257,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,44.0,2.0,HARD,18.0,True,1,True,1.0,29.0,46.2,33.0,False,0.9,98.697,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,45.0,2.0,HARD,19.0,True,1,True,1.0,29.0,46.4,33.0,False,1.5,98.349,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,46.0,2.0,HARD,20.0,True,1,True,1.0,29.0,47.2,32.0,False,0.4,99.177,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,47.0,2.0,HARD,21.0,True,1,True,1.0,29.1,47.0,32.0,False,1.8,98.471,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,48.0,2.0,HARD,22.0,True,1,True,1.0,29.1,46.8,32.0,False,2.2,98.313,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,49.0,2.0,HARD,23.0,True,1,True,1.0,29.1,46.8,33.0,False,1.3,98.326,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,50.0,2.0,HARD,24.0,True,1,True,1.0,28.9,46.6,32.0,False,1.3,97.951,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,51.0,2.0,HARD,25.0,True,1,True,1.0,29.0,47.0,32.0,False,0.7,97.875,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,52.0,2.0,HARD,26.0,True,1,True,1.0,29.3,46.4,31.0,False,0.3,98.092,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,53.0,2.0,HARD,27.0,True,1,True,1.0,29.2,46.5,31.0,False,1.3,98.365,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,54.0,2.0,HARD,28.0,True,1,True,1.0,29.2,46.4,31.0,False,1.1,98.175,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,55.0,2.0,HARD,29.0,True,1,True,1.0,29.3,46.0,32.0,False,1.4,97.902,False,56,2024,19,United States Grand Prix,2024_19
+LEC,Ferrari,56.0,2.0,HARD,30.0,True,1,True,1.0,29.3,46.1,32.0,False,1.2,99.518,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,1.0,1.0,HARD,2.0,False,12,False,13.0,27.6,46.4,38.0,False,0.9,108.52,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,2.0,1.0,HARD,3.0,False,12,True,12.0,28.0,47.0,37.0,False,0.7,102.792,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,3.0,1.0,HARD,4.0,False,24,False,12.0,28.1,47.2,37.0,False,1.8,134.001,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,4.0,1.0,HARD,5.0,False,4,False,12.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,5.0,1.0,HARD,6.0,False,41,False,12.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,6.0,1.0,HARD,7.0,False,1,True,18.0,28.0,47.9,33.0,False,1.3,107.096,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,7.0,1.0,HARD,8.0,False,1,True,18.0,28.1,47.4,33.0,False,1.8,102.147,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,8.0,1.0,HARD,9.0,False,1,True,18.0,28.1,47.2,34.0,False,1.6,101.873,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,9.0,1.0,HARD,10.0,False,1,True,18.0,28.1,46.9,36.0,False,2.6,101.972,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,10.0,1.0,HARD,11.0,False,12,True,17.0,28.1,46.7,37.0,False,1.5,101.813,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,11.0,1.0,HARD,12.0,False,1,True,17.0,28.2,47.0,37.0,False,1.8,102.777,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,12.0,1.0,HARD,13.0,False,1,True,17.0,28.2,47.1,36.0,False,1.4,102.174,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,13.0,1.0,HARD,14.0,False,1,True,17.0,28.0,47.1,36.0,False,1.5,102.102,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,14.0,1.0,HARD,15.0,False,1,True,17.0,28.1,47.4,35.0,False,1.6,102.062,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,15.0,1.0,HARD,16.0,False,1,True,17.0,28.4,47.4,35.0,False,1.2,102.348,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,16.0,1.0,HARD,17.0,False,1,True,16.0,28.4,47.4,35.0,False,1.5,102.311,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,17.0,1.0,HARD,18.0,False,1,True,16.0,28.4,47.6,35.0,False,1.8,102.054,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,18.0,1.0,HARD,19.0,False,1,True,15.0,28.4,47.6,34.0,False,0.5,101.869,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,19.0,1.0,HARD,20.0,False,1,True,13.0,28.2,47.2,36.0,False,2.9,101.57,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,20.0,1.0,HARD,21.0,False,1,True,13.0,28.4,47.1,36.0,False,1.1,101.601,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,21.0,1.0,HARD,22.0,False,1,True,13.0,28.5,47.1,36.0,False,0.7,101.416,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,22.0,1.0,HARD,23.0,False,1,True,14.0,28.5,47.4,36.0,False,2.3,102.657,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,23.0,1.0,HARD,24.0,False,1,True,14.0,28.4,47.8,35.0,False,1.4,102.237,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,24.0,1.0,HARD,25.0,False,1,True,14.0,28.5,47.8,34.0,False,2.2,101.678,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,25.0,1.0,HARD,26.0,False,1,True,14.0,28.5,47.8,33.0,False,1.6,101.634,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,26.0,1.0,HARD,27.0,False,1,True,15.0,28.5,48.0,33.0,False,1.1,103.213,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,27.0,1.0,HARD,28.0,False,1,False,13.0,28.5,47.3,33.0,False,1.1,102.199,True,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,28.0,2.0,MEDIUM,1.0,True,1,False,19.0,28.5,47.5,34.0,False,1.9,123.231,True,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,29.0,2.0,MEDIUM,2.0,True,1,True,18.0,28.7,47.2,33.0,False,0.8,99.575,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,30.0,2.0,MEDIUM,3.0,True,1,True,18.0,29.0,47.7,32.0,False,1.0,100.384,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,31.0,2.0,MEDIUM,4.0,True,1,True,18.0,28.9,47.7,32.0,False,1.5,100.088,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,32.0,2.0,MEDIUM,5.0,True,1,True,18.0,28.8,47.4,32.0,False,0.7,100.689,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,33.0,2.0,MEDIUM,6.0,True,1,True,18.0,28.7,47.5,32.0,False,1.5,100.414,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,34.0,2.0,MEDIUM,7.0,True,1,True,17.0,28.8,47.1,33.0,False,1.8,100.404,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,35.0,2.0,MEDIUM,8.0,True,1,True,17.0,28.8,47.1,33.0,False,0.8,100.399,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,36.0,2.0,MEDIUM,9.0,True,1,True,17.0,28.9,47.2,33.0,False,0.9,100.435,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,37.0,2.0,MEDIUM,10.0,True,1,True,17.0,28.9,46.9,33.0,False,0.5,100.21,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,38.0,2.0,MEDIUM,11.0,True,1,True,17.0,28.9,47.1,33.0,False,1.0,100.025,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,39.0,2.0,MEDIUM,12.0,True,1,True,17.0,29.0,46.9,33.0,False,1.9,100.038,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,40.0,2.0,MEDIUM,13.0,True,12,True,17.0,28.9,47.3,32.0,False,2.5,99.831,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,41.0,2.0,MEDIUM,14.0,True,21,True,17.0,28.9,47.4,32.0,False,1.2,100.475,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,42.0,2.0,MEDIUM,15.0,True,1,True,17.0,29.0,46.8,32.0,False,1.4,100.085,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,43.0,2.0,MEDIUM,16.0,True,1,True,17.0,29.0,46.2,33.0,False,0.9,99.922,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,44.0,2.0,MEDIUM,17.0,True,1,True,17.0,29.0,46.4,33.0,False,1.5,100.001,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,45.0,2.0,MEDIUM,18.0,True,1,True,16.0,29.0,47.2,32.0,False,0.4,100.481,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,46.0,2.0,MEDIUM,19.0,True,1,True,16.0,29.1,47.0,32.0,False,1.8,101.173,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,47.0,2.0,MEDIUM,20.0,True,1,True,16.0,29.1,46.8,32.0,False,2.2,99.524,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,48.0,2.0,MEDIUM,21.0,True,1,True,16.0,29.1,46.8,33.0,False,1.3,99.666,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,49.0,2.0,MEDIUM,22.0,True,1,True,16.0,28.9,46.6,32.0,False,1.3,101.69,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,50.0,2.0,MEDIUM,23.0,True,1,True,16.0,29.0,47.0,32.0,False,0.7,99.759,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,51.0,2.0,MEDIUM,24.0,True,1,True,16.0,29.3,46.4,31.0,False,0.3,99.896,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,52.0,2.0,MEDIUM,25.0,True,1,True,15.0,29.2,46.5,31.0,False,0.7,99.448,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,53.0,2.0,MEDIUM,26.0,True,1,True,15.0,29.2,46.4,31.0,False,1.1,99.435,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,54.0,2.0,MEDIUM,27.0,True,1,True,15.0,29.3,46.0,32.0,False,1.4,99.214,False,56,2024,19,United States Grand Prix,2024_19
+STR,Aston Martin,55.0,2.0,MEDIUM,28.0,True,1,True,15.0,29.2,46.1,32.0,False,1.3,101.498,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,12,False,7.0,27.6,46.4,38.0,False,0.9,105.073,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,12,True,7.0,28.0,47.0,37.0,False,0.7,102.038,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,24,False,7.0,28.1,47.2,37.0,False,1.8,128.559,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,4,False,7.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,41,False,7.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,28.0,47.9,33.0,False,1.3,102.311,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,28.1,47.4,33.0,False,1.8,101.74,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,28.1,47.2,34.0,False,1.6,100.836,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,28.1,46.9,36.0,False,2.6,100.634,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,12,True,7.0,28.1,46.7,37.0,False,2.0,101.287,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,28.2,47.0,37.0,False,1.8,101.697,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,28.2,47.1,36.0,False,1.4,101.161,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,28.1,47.1,36.0,False,1.9,101.15,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,28.1,47.4,35.0,False,1.6,101.279,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,28.4,47.4,35.0,False,1.2,101.736,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,28.4,47.4,35.0,False,1.5,101.901,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,False,7.0,28.4,47.8,35.0,False,1.9,101.895,True,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,18.0,2.0,HARD,1.0,True,1,False,17.0,28.4,47.6,34.0,False,0.5,119.791,True,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,19.0,2.0,HARD,2.0,True,1,True,15.0,28.2,47.2,36.0,False,2.9,100.868,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,20.0,2.0,HARD,3.0,True,1,True,15.0,28.4,47.1,36.0,False,1.1,100.996,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,21.0,2.0,HARD,4.0,True,1,True,14.0,28.5,47.1,36.0,False,0.7,101.259,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,22.0,2.0,HARD,5.0,True,1,True,13.0,28.5,47.4,36.0,False,2.3,100.479,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,23.0,2.0,HARD,6.0,True,1,True,13.0,28.4,47.8,35.0,False,1.4,100.732,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,24.0,2.0,HARD,7.0,True,1,True,13.0,28.5,47.8,34.0,False,2.2,100.626,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,25.0,2.0,HARD,8.0,True,1,True,12.0,28.5,47.8,33.0,False,1.6,100.292,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,26.0,2.0,HARD,9.0,True,1,True,12.0,28.5,48.0,33.0,False,1.1,100.479,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,27.0,2.0,HARD,10.0,True,1,True,10.0,28.4,47.6,33.0,False,2.8,100.126,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,28.0,2.0,HARD,11.0,True,1,True,10.0,28.5,47.5,34.0,False,1.9,101.523,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,29.0,2.0,HARD,12.0,True,1,True,10.0,28.7,47.2,33.0,False,0.8,100.25,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,30.0,2.0,HARD,13.0,True,1,True,10.0,28.8,47.5,33.0,False,0.7,100.769,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,31.0,2.0,HARD,14.0,True,1,True,10.0,28.9,47.7,32.0,False,1.7,100.455,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,32.0,2.0,HARD,15.0,True,1,True,10.0,28.8,47.4,32.0,False,0.7,100.166,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,33.0,2.0,HARD,16.0,True,1,True,10.0,28.7,47.7,32.0,False,1.9,99.826,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,34.0,2.0,HARD,17.0,True,1,True,10.0,28.8,47.4,33.0,False,2.8,99.641,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,35.0,2.0,HARD,18.0,True,1,True,10.0,28.8,47.1,33.0,False,0.8,99.585,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,36.0,2.0,HARD,19.0,True,1,True,10.0,28.8,47.0,33.0,False,0.8,99.786,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,37.0,2.0,HARD,20.0,True,1,True,9.0,28.9,47.2,33.0,False,0.7,100.481,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,38.0,2.0,HARD,21.0,True,1,False,9.0,28.9,47.1,33.0,False,1.0,99.843,True,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,39.0,3.0,MEDIUM,1.0,True,1,False,13.0,29.0,47.1,33.0,False,1.8,118.617,True,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,40.0,3.0,MEDIUM,2.0,True,1,True,13.0,29.0,46.9,32.0,False,1.4,98.975,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,41.0,3.0,MEDIUM,3.0,True,12,True,12.0,28.9,47.4,32.0,False,1.2,100.01,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,42.0,3.0,MEDIUM,4.0,True,1,True,12.0,29.0,46.8,32.0,False,1.4,98.653,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,43.0,3.0,MEDIUM,5.0,True,1,True,12.0,29.0,46.4,33.0,False,1.1,98.988,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,44.0,3.0,MEDIUM,6.0,True,1,True,12.0,29.0,46.4,33.0,False,1.5,98.671,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,45.0,3.0,MEDIUM,7.0,True,1,True,12.0,29.0,47.2,32.0,False,0.4,99.045,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,46.0,3.0,MEDIUM,8.0,True,1,True,12.0,29.1,47.0,32.0,False,1.4,99.085,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,47.0,3.0,MEDIUM,9.0,True,1,True,11.0,29.1,46.8,32.0,False,2.2,98.779,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,48.0,3.0,MEDIUM,10.0,True,1,True,11.0,29.1,46.8,33.0,False,1.3,99.025,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,49.0,3.0,MEDIUM,11.0,True,1,True,11.0,29.0,46.7,33.0,False,0.8,98.746,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,50.0,3.0,MEDIUM,12.0,True,1,True,11.0,29.0,47.0,32.0,False,0.7,98.676,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,51.0,3.0,MEDIUM,13.0,True,1,True,11.0,29.3,46.4,31.0,False,0.3,98.877,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,52.0,3.0,MEDIUM,14.0,True,1,True,11.0,29.2,46.5,31.0,False,1.3,98.623,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,53.0,3.0,MEDIUM,15.0,True,1,True,11.0,29.2,46.4,31.0,False,1.1,98.508,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,54.0,3.0,MEDIUM,16.0,True,1,True,11.0,29.1,46.0,31.0,False,1.7,98.325,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,55.0,3.0,MEDIUM,17.0,True,1,True,11.0,29.3,46.1,32.0,False,1.2,98.239,False,56,2024,19,United States Grand Prix,2024_19
+MAG,Haas F1 Team,56.0,3.0,MEDIUM,18.0,True,1,True,11.0,29.2,45.9,32.0,False,1.0,98.21,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,1.0,1.0,MEDIUM,1.0,True,12,False,8.0,27.6,46.4,38.0,False,0.9,105.613,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,2.0,1.0,MEDIUM,2.0,True,12,True,8.0,28.0,47.0,37.0,False,0.7,102.114,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,3.0,1.0,MEDIUM,3.0,True,24,False,8.0,28.1,47.2,37.0,False,1.8,131.6,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,4.0,1.0,MEDIUM,4.0,True,4,False,8.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,5.0,1.0,MEDIUM,5.0,True,41,False,8.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,28.0,47.9,33.0,False,1.3,102.559,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,28.1,47.4,33.0,False,1.8,101.731,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,28.1,47.2,34.0,False,1.6,101.101,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,28.1,46.9,36.0,False,2.6,100.953,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,10.0,1.0,MEDIUM,10.0,True,12,True,8.0,28.1,46.7,37.0,False,2.0,101.192,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,28.2,47.0,37.0,False,1.8,101.613,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,28.2,47.1,36.0,False,1.4,101.513,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,28.0,47.1,36.0,False,1.5,101.223,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,28.1,47.4,35.0,False,1.6,101.351,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,28.4,47.4,35.0,False,1.2,101.536,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,28.4,47.4,35.0,False,1.5,101.684,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,28.4,47.8,35.0,False,1.9,103.026,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,18.0,1.0,MEDIUM,18.0,True,1,False,9.0,28.4,47.6,34.0,False,0.5,102.676,True,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,19.0,2.0,HARD,1.0,True,1,False,17.0,28.2,47.2,36.0,False,2.9,122.848,True,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,20.0,2.0,HARD,2.0,True,1,True,17.0,28.4,47.1,36.0,False,1.1,101.198,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,21.0,2.0,HARD,3.0,True,1,True,17.0,28.5,47.1,36.0,False,0.7,101.337,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,22.0,2.0,HARD,4.0,True,1,True,17.0,28.5,47.4,36.0,False,2.3,101.005,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,23.0,2.0,HARD,5.0,True,1,True,17.0,28.4,47.8,35.0,False,1.4,101.365,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,24.0,2.0,HARD,6.0,True,1,True,17.0,28.4,47.7,34.0,False,1.4,101.205,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,25.0,2.0,HARD,7.0,True,1,True,17.0,28.5,47.8,33.0,False,1.6,101.073,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,26.0,2.0,HARD,8.0,True,1,True,17.0,28.5,48.0,33.0,False,1.1,100.927,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,27.0,2.0,HARD,9.0,True,1,True,16.0,28.5,47.3,33.0,False,1.1,101.246,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,28.0,2.0,HARD,10.0,True,1,True,14.0,28.5,47.5,34.0,False,1.9,101.467,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,29.0,2.0,HARD,11.0,True,1,True,14.0,28.7,47.2,33.0,False,0.8,100.793,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,30.0,2.0,HARD,12.0,True,1,True,14.0,29.0,47.7,32.0,False,1.0,100.706,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,31.0,2.0,HARD,13.0,True,1,True,14.0,28.9,47.7,32.0,False,1.7,100.793,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,32.0,2.0,HARD,14.0,True,1,True,13.0,28.8,47.4,32.0,False,0.7,100.466,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,33.0,2.0,HARD,15.0,True,1,True,13.0,28.7,47.5,32.0,False,1.5,100.302,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,34.0,2.0,HARD,16.0,True,1,True,13.0,28.8,47.4,33.0,False,2.8,100.139,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,35.0,2.0,HARD,17.0,True,1,True,13.0,28.8,47.1,33.0,False,0.8,99.787,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,36.0,2.0,HARD,18.0,True,1,True,13.0,28.9,47.2,33.0,False,0.9,99.923,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,37.0,2.0,HARD,19.0,True,1,True,13.0,28.9,47.2,33.0,False,0.7,101.002,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,38.0,2.0,HARD,20.0,True,1,True,13.0,28.9,47.1,33.0,False,1.0,99.855,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,39.0,2.0,HARD,21.0,True,1,True,12.0,29.0,46.9,33.0,False,1.9,99.614,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,40.0,2.0,HARD,22.0,True,1,True,11.0,29.0,46.9,32.0,False,1.4,99.845,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,41.0,2.0,HARD,23.0,True,12,True,14.0,28.9,47.4,32.0,False,1.2,112.718,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,42.0,2.0,HARD,24.0,True,1,True,14.0,29.0,46.8,32.0,False,1.4,99.212,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,43.0,2.0,HARD,25.0,True,1,True,14.0,29.0,46.2,33.0,False,0.9,99.361,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,44.0,2.0,HARD,26.0,True,1,True,14.0,29.0,46.4,33.0,False,1.5,99.379,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,45.0,2.0,HARD,27.0,True,1,True,14.0,29.0,47.2,32.0,False,0.4,99.711,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,46.0,2.0,HARD,28.0,True,1,True,14.0,29.1,47.0,32.0,False,1.4,99.778,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,47.0,2.0,HARD,29.0,True,1,True,14.0,29.1,46.8,32.0,False,2.2,99.631,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,48.0,2.0,HARD,30.0,True,1,True,14.0,29.1,46.8,33.0,False,1.3,99.697,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,49.0,2.0,HARD,31.0,True,1,True,14.0,29.0,46.7,33.0,False,0.8,99.476,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,50.0,2.0,HARD,32.0,True,1,True,14.0,29.0,47.0,32.0,False,0.7,99.863,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,51.0,2.0,HARD,33.0,True,1,True,14.0,29.3,46.4,31.0,False,0.3,99.521,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,52.0,2.0,HARD,34.0,True,1,True,14.0,29.2,46.5,31.0,False,1.3,99.657,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,53.0,2.0,HARD,35.0,True,1,True,14.0,29.2,46.4,31.0,False,1.1,101.114,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,54.0,2.0,HARD,36.0,True,1,True,14.0,29.3,46.0,32.0,False,1.4,99.193,False,56,2024,19,United States Grand Prix,2024_19
+TSU,RB,55.0,2.0,HARD,37.0,True,1,True,14.0,29.3,46.1,32.0,False,1.2,99.379,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,12,False,18.0,27.6,46.4,38.0,False,0.9,111.269,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,12,True,18.0,28.0,47.0,37.0,False,0.7,104.544,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,24,False,17.0,28.3,47.2,37.0,False,1.6,136.698,True,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,4.0,2.0,MEDIUM,1.0,True,4,False,19.0,28.3,47.1,36.0,False,1.4,,True,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,5.0,2.0,MEDIUM,2.0,True,41,False,19.0,28.1,47.4,35.0,False,2.9,141.937,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,6.0,2.0,MEDIUM,3.0,True,1,True,19.0,28.0,47.9,33.0,False,1.3,104.652,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,7.0,2.0,MEDIUM,4.0,True,1,True,19.0,28.1,47.4,33.0,False,1.8,102.627,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,8.0,2.0,MEDIUM,5.0,True,1,True,19.0,28.1,47.2,34.0,False,1.6,102.144,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,9.0,2.0,MEDIUM,6.0,True,1,True,19.0,28.1,46.9,36.0,False,2.6,102.001,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,10.0,2.0,MEDIUM,7.0,True,12,True,18.0,28.1,46.7,37.0,False,1.5,102.736,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,11.0,2.0,MEDIUM,8.0,True,1,True,18.0,28.2,47.0,37.0,False,1.8,102.219,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,12.0,2.0,MEDIUM,9.0,True,1,True,18.0,28.2,47.1,36.0,False,1.4,101.938,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,13.0,2.0,MEDIUM,10.0,True,1,True,18.0,28.0,47.1,36.0,False,1.5,102.458,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,14.0,2.0,MEDIUM,11.0,True,1,True,18.0,28.1,47.4,35.0,False,1.6,102.221,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,15.0,2.0,MEDIUM,12.0,True,1,True,18.0,28.4,47.4,35.0,False,1.2,102.263,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,16.0,2.0,MEDIUM,13.0,True,1,True,17.0,28.4,47.4,35.0,False,1.5,102.331,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,17.0,2.0,MEDIUM,14.0,True,1,True,17.0,28.4,47.6,35.0,False,1.8,101.884,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,18.0,2.0,MEDIUM,15.0,True,1,True,16.0,28.4,47.6,34.0,False,0.5,101.524,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,19.0,2.0,MEDIUM,16.0,True,1,True,14.0,28.2,47.2,36.0,False,2.9,101.601,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,20.0,2.0,MEDIUM,17.0,True,1,True,14.0,28.4,47.1,36.0,False,1.1,101.411,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,21.0,2.0,MEDIUM,18.0,True,1,True,15.0,28.5,47.1,36.0,False,0.7,102.46,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,22.0,2.0,MEDIUM,19.0,True,1,True,15.0,28.5,47.4,36.0,False,2.3,102.169,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,23.0,2.0,MEDIUM,20.0,True,1,True,15.0,28.4,47.8,35.0,False,1.4,101.886,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,24.0,2.0,MEDIUM,21.0,True,1,True,15.0,28.5,47.8,34.0,False,2.2,101.432,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,25.0,2.0,MEDIUM,22.0,True,1,True,15.0,28.5,47.8,33.0,False,1.6,101.418,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,26.0,2.0,MEDIUM,23.0,True,1,True,14.0,28.5,48.0,33.0,False,1.1,102.357,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,27.0,2.0,MEDIUM,24.0,True,1,True,15.0,28.5,47.3,33.0,False,1.1,103.544,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,28.0,2.0,MEDIUM,25.0,True,1,True,15.0,28.5,47.5,34.0,False,1.9,102.932,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,29.0,2.0,MEDIUM,26.0,True,1,True,15.0,28.7,47.2,33.0,False,0.8,101.287,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,30.0,2.0,MEDIUM,27.0,True,1,True,15.0,29.0,47.7,32.0,False,1.0,101.651,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,31.0,2.0,MEDIUM,28.0,True,1,True,15.0,28.9,47.7,32.0,False,1.7,101.635,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,32.0,2.0,MEDIUM,29.0,True,1,True,14.0,28.8,47.4,32.0,False,0.7,101.297,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,33.0,2.0,MEDIUM,30.0,True,1,False,14.0,28.7,47.5,32.0,False,1.5,101.702,True,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,34.0,3.0,HARD,1.0,True,1,False,19.0,28.8,47.4,33.0,False,2.8,121.549,True,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,35.0,3.0,HARD,2.0,True,1,True,18.0,28.8,47.1,33.0,False,0.8,100.029,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,36.0,3.0,HARD,3.0,True,1,True,18.0,28.9,47.2,33.0,False,0.9,99.721,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,37.0,3.0,HARD,4.0,True,1,True,18.0,28.9,46.9,33.0,False,0.5,99.632,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,38.0,3.0,HARD,5.0,True,1,True,18.0,28.9,47.1,33.0,False,1.0,99.69,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,39.0,3.0,HARD,6.0,True,1,True,18.0,29.0,46.9,33.0,False,1.9,99.531,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,40.0,3.0,HARD,7.0,True,12,True,18.0,28.9,47.3,32.0,False,2.5,99.666,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,41.0,3.0,HARD,8.0,True,1,True,18.0,28.9,47.4,32.0,False,1.2,99.406,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,42.0,3.0,HARD,9.0,True,1,True,18.0,29.0,46.8,32.0,False,1.4,99.241,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,43.0,3.0,HARD,10.0,True,1,True,18.0,29.0,46.2,33.0,False,0.9,99.353,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,44.0,3.0,HARD,11.0,True,1,True,18.0,29.0,46.4,33.0,False,1.5,101.215,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,45.0,3.0,HARD,12.0,True,1,True,18.0,29.0,47.2,32.0,False,0.4,99.961,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,46.0,3.0,HARD,13.0,True,1,True,17.0,29.1,47.0,32.0,False,1.8,101.733,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,47.0,3.0,HARD,14.0,True,1,True,17.0,29.1,46.8,32.0,False,2.2,99.552,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,48.0,3.0,HARD,15.0,True,1,True,17.0,29.1,46.8,33.0,False,1.3,99.205,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,49.0,3.0,HARD,16.0,True,1,True,17.0,28.9,46.6,32.0,False,1.3,99.509,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,50.0,3.0,HARD,17.0,True,1,True,17.0,29.0,47.0,32.0,False,0.7,99.639,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,51.0,3.0,HARD,18.0,True,1,True,17.0,29.3,46.4,31.0,False,0.3,99.72,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,52.0,3.0,HARD,19.0,True,1,True,16.0,29.2,46.5,31.0,False,0.7,99.279,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,53.0,3.0,HARD,20.0,True,1,True,16.0,29.2,46.4,31.0,False,1.1,99.35,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,54.0,3.0,HARD,21.0,True,1,True,16.0,29.3,46.0,32.0,False,1.4,99.084,False,56,2024,19,United States Grand Prix,2024_19
+ALB,Williams,55.0,3.0,HARD,22.0,True,1,True,16.0,29.2,46.1,32.0,False,1.3,101.299,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,1.0,False,12,False,15.0,27.6,46.4,38.0,False,0.9,109.473,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,2.0,1.0,MEDIUM,2.0,False,12,True,14.0,28.0,47.0,37.0,False,0.7,102.96,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,3.0,1.0,MEDIUM,3.0,False,24,False,14.0,28.1,47.2,37.0,False,1.8,136.979,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,4.0,1.0,MEDIUM,4.0,False,4,False,14.0,28.3,47.1,36.0,False,1.4,149.649,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,5.0,1.0,MEDIUM,5.0,False,41,False,14.0,28.1,47.4,35.0,False,2.9,149.529,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,6.0,1.0,MEDIUM,6.0,False,1,True,13.0,28.0,47.9,33.0,False,1.3,103.259,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,7.0,1.0,MEDIUM,7.0,False,1,True,13.0,28.1,47.4,33.0,False,1.8,102.1,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,8.0,1.0,MEDIUM,8.0,False,1,True,13.0,28.1,47.2,34.0,False,1.6,101.474,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,9.0,1.0,MEDIUM,9.0,False,1,True,13.0,28.1,46.9,36.0,False,2.6,101.91,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,10.0,1.0,MEDIUM,10.0,False,12,True,19.0,28.1,46.7,37.0,False,1.5,110.686,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,11.0,1.0,MEDIUM,11.0,False,1,True,19.0,28.2,47.0,37.0,False,1.8,102.743,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,12.0,1.0,MEDIUM,12.0,False,1,True,19.0,28.2,47.1,36.0,False,1.4,102.262,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,13.0,1.0,MEDIUM,13.0,False,1,False,19.0,28.0,47.1,36.0,False,1.5,102.427,True,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,14.0,2.0,MEDIUM,1.0,False,1,False,19.0,28.1,47.4,35.0,False,1.6,122.835,True,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,15.0,2.0,MEDIUM,2.0,False,1,True,19.0,28.4,47.5,35.0,False,1.6,101.376,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,16.0,2.0,MEDIUM,3.0,False,1,True,19.0,28.4,47.4,35.0,False,1.5,101.633,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,17.0,2.0,MEDIUM,4.0,False,1,True,19.0,28.4,47.6,35.0,False,1.8,101.886,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,18.0,2.0,MEDIUM,5.0,False,1,True,19.0,28.3,47.6,35.0,False,2.6,101.325,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,19.0,2.0,MEDIUM,6.0,False,1,True,19.0,28.2,47.2,36.0,False,2.9,101.352,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,20.0,2.0,MEDIUM,7.0,False,1,True,19.0,28.4,47.1,36.0,False,1.1,101.858,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,21.0,2.0,MEDIUM,8.0,False,1,True,19.0,28.4,47.3,36.0,False,1.2,101.435,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,22.0,2.0,MEDIUM,9.0,False,1,True,19.0,28.5,47.4,36.0,False,2.3,102.176,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,23.0,2.0,MEDIUM,10.0,False,1,True,19.0,28.4,47.8,35.0,False,1.4,102.259,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,24.0,2.0,MEDIUM,11.0,False,1,True,19.0,28.4,47.7,34.0,False,1.4,101.649,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,25.0,2.0,MEDIUM,12.0,False,1,True,19.0,28.5,47.8,33.0,False,1.6,101.696,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,26.0,2.0,MEDIUM,13.0,False,1,True,19.0,28.5,48.0,33.0,False,1.1,101.364,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,27.0,2.0,MEDIUM,14.0,False,1,True,19.0,28.5,47.3,33.0,False,1.1,101.186,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,28.0,2.0,MEDIUM,15.0,False,1,True,18.0,28.6,47.5,34.0,False,1.2,101.42,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,29.0,2.0,MEDIUM,16.0,False,1,True,19.0,28.7,47.2,33.0,False,0.8,102.231,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,30.0,2.0,MEDIUM,17.0,False,1,True,19.0,29.0,47.7,32.0,False,1.0,101.532,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,31.0,2.0,MEDIUM,18.0,False,1,True,19.0,28.9,47.7,32.0,False,1.5,101.502,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,32.0,2.0,MEDIUM,19.0,False,1,True,19.0,28.8,47.4,32.0,False,0.7,101.643,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,33.0,2.0,MEDIUM,20.0,False,1,True,19.0,28.7,47.5,32.0,False,1.5,101.13,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,34.0,2.0,MEDIUM,21.0,False,1,True,18.0,28.8,47.1,33.0,False,1.8,101.387,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,35.0,2.0,MEDIUM,22.0,False,1,False,19.0,28.8,47.1,33.0,False,0.8,101.783,True,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,36.0,3.0,HARD,1.0,True,1,False,19.0,28.9,47.2,33.0,False,0.9,126.093,True,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,37.0,3.0,HARD,2.0,True,1,True,19.0,28.9,46.9,33.0,False,0.5,100.161,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,38.0,3.0,HARD,3.0,True,1,True,19.0,29.0,47.1,33.0,False,1.8,100.148,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,39.0,3.0,HARD,4.0,True,1,True,19.0,29.0,46.9,32.0,False,1.4,101.88,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,40.0,3.0,HARD,5.0,True,12,True,19.0,28.9,47.3,32.0,False,2.5,100.131,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,41.0,3.0,HARD,6.0,True,1,True,19.0,28.9,47.4,32.0,False,0.9,100.342,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,42.0,3.0,HARD,7.0,True,1,True,19.0,29.0,46.4,33.0,False,1.1,100.168,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,43.0,3.0,HARD,8.0,True,1,True,19.0,29.0,46.2,33.0,False,0.9,100.241,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,44.0,3.0,HARD,9.0,True,1,True,19.0,29.0,46.5,33.0,False,0.5,100.033,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,45.0,3.0,HARD,10.0,True,1,True,19.0,29.1,47.0,32.0,False,1.4,99.658,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,46.0,3.0,HARD,11.0,True,1,True,19.0,29.1,47.0,32.0,False,1.8,99.858,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,47.0,3.0,HARD,12.0,True,1,True,19.0,29.1,46.7,32.0,False,2.1,99.625,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,48.0,3.0,HARD,13.0,True,1,True,19.0,29.0,46.7,33.0,False,0.8,100.219,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,49.0,3.0,HARD,14.0,True,1,True,19.0,28.9,46.6,32.0,False,1.3,100.24,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,50.0,3.0,HARD,15.0,True,1,True,19.0,29.3,46.7,31.0,False,0.0,99.963,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,51.0,3.0,HARD,16.0,True,1,True,19.0,29.2,46.5,31.0,False,1.3,99.398,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,52.0,3.0,HARD,17.0,True,1,True,19.0,29.2,46.5,31.0,False,0.7,99.683,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,53.0,3.0,HARD,18.0,True,1,True,19.0,29.1,46.0,31.0,False,1.7,99.272,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,54.0,3.0,HARD,19.0,True,1,True,19.0,29.3,46.1,32.0,False,1.2,99.596,False,56,2024,19,United States Grand Prix,2024_19
+ZHO,Kick Sauber,55.0,3.0,HARD,20.0,True,1,True,19.0,29.2,46.1,32.0,False,1.3,100.061,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,12,False,11.0,27.6,46.4,38.0,False,0.9,107.084,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,12,True,11.0,28.0,47.0,37.0,False,0.7,102.841,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,24,False,11.0,28.1,47.2,37.0,False,1.8,134.259,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,4,False,11.0,28.3,47.1,36.0,False,1.4,149.504,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,41,False,11.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,28.0,47.9,33.0,False,1.3,103.09,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,28.1,47.4,33.0,False,1.8,101.428,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,28.1,47.2,34.0,False,1.6,101.285,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,28.1,46.9,36.0,False,2.6,101.651,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,12,True,10.0,28.1,46.7,37.0,False,2.0,101.3,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,28.2,47.0,37.0,False,1.8,101.689,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,28.2,47.1,36.0,False,1.4,101.432,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,28.0,47.1,36.0,False,1.5,101.334,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,28.1,47.4,35.0,False,1.6,101.048,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,28.4,47.4,35.0,False,1.2,101.824,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,28.4,47.4,35.0,False,1.5,101.512,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,28.4,47.8,35.0,False,1.9,101.19,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,28.4,47.6,34.0,False,0.5,102.13,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,7.0,28.2,47.2,36.0,False,2.9,100.43,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,28.3,47.2,36.0,False,1.0,100.447,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,7.0,28.5,47.1,36.0,False,0.7,100.523,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,7.0,28.5,47.4,36.0,False,2.3,100.757,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,True,7.0,28.4,47.4,36.0,False,1.8,100.77,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,24.0,1.0,MEDIUM,24.0,True,1,True,7.0,28.5,47.8,34.0,False,2.2,100.329,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,25.0,1.0,MEDIUM,25.0,True,1,True,7.0,28.5,47.8,33.0,False,1.6,100.269,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,26.0,1.0,MEDIUM,26.0,True,1,True,7.0,28.5,48.0,33.0,False,1.6,100.664,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,27.0,1.0,MEDIUM,27.0,True,1,False,6.0,28.4,47.6,33.0,False,2.8,101.173,True,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,28.0,2.0,HARD,1.0,True,1,False,12.0,28.5,47.5,34.0,False,1.9,122.271,True,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,29.0,2.0,HARD,2.0,True,1,True,12.0,28.7,47.2,33.0,False,0.8,100.912,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,30.0,2.0,HARD,3.0,True,1,True,12.0,29.0,47.7,32.0,False,1.0,100.338,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,31.0,2.0,HARD,4.0,True,1,True,11.0,28.9,47.7,32.0,False,1.7,99.401,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,32.0,2.0,HARD,5.0,True,1,True,11.0,28.8,47.4,32.0,False,0.7,99.687,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,33.0,2.0,HARD,6.0,True,1,True,11.0,28.7,47.5,32.0,False,1.5,99.355,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,34.0,2.0,HARD,7.0,True,1,True,11.0,28.8,47.4,33.0,False,2.8,99.348,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,35.0,2.0,HARD,8.0,True,1,True,11.0,28.8,47.1,33.0,False,0.8,99.25,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,36.0,2.0,HARD,9.0,True,1,True,11.0,28.8,47.0,33.0,False,0.8,99.196,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,37.0,2.0,HARD,10.0,True,1,True,10.0,28.9,47.2,33.0,False,0.7,99.39,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,38.0,2.0,HARD,11.0,True,1,True,10.0,28.9,47.1,33.0,False,1.0,99.179,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,39.0,2.0,HARD,12.0,True,1,True,9.0,29.0,47.1,33.0,False,1.8,99.294,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,40.0,2.0,HARD,13.0,True,1,True,8.0,29.0,46.9,32.0,False,1.4,99.391,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,41.0,2.0,HARD,14.0,True,12,True,7.0,28.9,47.4,32.0,False,1.2,99.178,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,42.0,2.0,HARD,15.0,True,1,True,7.0,28.9,47.4,32.0,False,0.9,98.941,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,43.0,2.0,HARD,16.0,True,1,True,7.0,29.0,46.4,33.0,False,1.1,98.906,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,44.0,2.0,HARD,17.0,True,1,True,7.0,29.0,46.4,33.0,False,1.5,98.902,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,45.0,2.0,HARD,18.0,True,1,True,8.0,29.0,46.5,33.0,False,0.5,100.572,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,46.0,2.0,HARD,19.0,True,1,True,8.0,29.1,47.0,32.0,False,1.4,98.645,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,47.0,2.0,HARD,20.0,True,1,True,8.0,29.1,46.8,32.0,False,2.2,98.997,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,48.0,2.0,HARD,21.0,True,1,True,8.0,29.1,46.7,32.0,False,2.1,98.594,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,49.0,2.0,HARD,22.0,True,1,True,8.0,29.0,46.7,33.0,False,0.8,98.51,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,50.0,2.0,HARD,23.0,True,1,True,8.0,29.0,47.0,32.0,False,0.7,98.651,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,51.0,2.0,HARD,24.0,True,1,True,8.0,29.3,46.7,31.0,False,0.0,98.404,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,52.0,2.0,HARD,25.0,True,1,True,8.0,29.2,46.5,31.0,False,1.3,98.703,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,53.0,2.0,HARD,26.0,True,1,True,8.0,29.2,46.4,31.0,False,1.1,98.512,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,54.0,2.0,HARD,27.0,True,1,True,8.0,29.1,46.0,31.0,False,1.7,98.775,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,55.0,2.0,HARD,28.0,True,1,True,8.0,29.3,46.1,32.0,False,1.2,98.714,False,56,2024,19,United States Grand Prix,2024_19
+HUL,Haas F1 Team,56.0,2.0,HARD,29.0,True,1,True,8.0,29.2,46.1,32.0,False,1.3,99.0,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,1.0,1.0,HARD,1.0,True,12,False,14.0,27.6,46.4,38.0,False,0.9,108.974,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,2.0,1.0,HARD,2.0,True,12,True,13.0,28.0,47.0,37.0,False,0.7,102.809,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,3.0,1.0,HARD,3.0,True,24,False,13.0,28.1,47.2,37.0,False,1.8,135.152,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,4.0,1.0,HARD,4.0,True,4,False,13.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,5.0,1.0,HARD,5.0,True,41,False,13.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,6.0,1.0,HARD,6.0,True,1,True,12.0,28.0,47.9,33.0,False,1.3,102.925,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,7.0,1.0,HARD,7.0,True,1,True,12.0,28.1,47.4,33.0,False,1.8,102.01,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,8.0,1.0,HARD,8.0,True,1,True,12.0,28.1,47.2,34.0,False,1.6,101.557,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,9.0,1.0,HARD,9.0,True,1,True,12.0,28.1,46.9,36.0,False,2.6,102.1,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,10.0,1.0,HARD,10.0,True,12,True,12.0,28.1,46.7,37.0,False,1.5,102.012,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,11.0,1.0,HARD,11.0,True,1,True,11.0,28.2,47.0,37.0,False,1.8,101.535,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,12.0,1.0,HARD,12.0,True,1,True,11.0,28.2,47.1,36.0,False,1.4,101.26,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,13.0,1.0,HARD,13.0,True,1,True,11.0,28.0,47.1,36.0,False,1.5,101.32,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,14.0,1.0,HARD,14.0,True,1,True,11.0,28.1,47.4,35.0,False,1.6,101.383,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,15.0,1.0,HARD,15.0,True,1,True,11.0,28.4,47.4,35.0,False,1.2,102.041,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,16.0,1.0,HARD,16.0,True,1,True,11.0,28.4,47.4,35.0,False,1.5,101.646,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,17.0,1.0,HARD,17.0,True,1,True,11.0,28.4,47.8,35.0,False,1.9,101.371,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,18.0,1.0,HARD,18.0,True,1,True,10.0,28.4,47.6,34.0,False,0.5,101.335,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,19.0,1.0,HARD,19.0,True,1,True,8.0,28.2,47.2,36.0,False,2.9,101.101,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,20.0,1.0,HARD,20.0,True,1,True,8.0,28.3,47.2,36.0,False,1.0,100.988,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,21.0,1.0,HARD,21.0,True,1,True,9.0,28.5,47.1,36.0,False,0.7,102.238,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,22.0,1.0,HARD,22.0,True,1,True,9.0,28.5,47.4,36.0,False,2.3,101.448,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,23.0,1.0,HARD,23.0,True,1,True,9.0,28.4,47.8,35.0,False,1.4,100.853,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,24.0,1.0,HARD,24.0,True,1,True,9.0,28.5,47.8,34.0,False,2.2,100.869,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,25.0,1.0,HARD,25.0,True,1,True,9.0,28.5,47.8,33.0,False,1.6,100.653,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,26.0,1.0,HARD,26.0,True,1,True,9.0,28.5,48.0,33.0,False,1.1,100.922,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,27.0,1.0,HARD,27.0,True,1,True,8.0,28.4,47.6,33.0,False,2.8,100.304,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,28.0,1.0,HARD,28.0,True,1,True,7.0,28.5,47.5,34.0,False,1.9,100.235,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,29.0,1.0,HARD,29.0,True,1,True,7.0,28.7,47.2,33.0,False,0.8,100.523,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,30.0,1.0,HARD,30.0,True,1,True,7.0,28.8,47.5,33.0,False,0.7,100.622,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,31.0,1.0,HARD,31.0,True,1,True,7.0,28.9,47.7,32.0,False,1.7,100.613,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,32.0,1.0,HARD,32.0,True,1,True,7.0,28.8,47.4,32.0,False,0.7,100.451,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,33.0,1.0,HARD,33.0,True,1,True,7.0,28.7,47.7,32.0,False,1.9,100.286,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,34.0,1.0,HARD,34.0,True,1,True,7.0,28.8,47.4,33.0,False,2.8,100.449,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,35.0,1.0,HARD,35.0,True,1,True,7.0,28.8,47.1,33.0,False,0.8,100.484,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,36.0,1.0,HARD,36.0,True,1,False,7.0,28.8,47.0,33.0,False,0.8,101.342,True,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,37.0,2.0,MEDIUM,1.0,True,1,False,12.0,28.9,47.2,33.0,False,0.7,119.598,True,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,38.0,2.0,MEDIUM,2.0,True,1,True,11.0,28.9,47.1,33.0,False,1.0,98.905,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,39.0,2.0,MEDIUM,3.0,True,1,True,10.0,29.0,46.9,33.0,False,1.9,99.396,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,40.0,2.0,MEDIUM,4.0,True,1,True,9.0,29.0,46.9,32.0,False,1.4,99.035,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,41.0,2.0,MEDIUM,5.0,True,12,True,9.0,28.9,47.4,32.0,False,1.2,99.149,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,42.0,2.0,MEDIUM,6.0,True,1,True,9.0,29.0,46.8,32.0,False,1.4,98.409,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,43.0,2.0,MEDIUM,7.0,True,1,True,9.0,29.0,46.4,33.0,False,1.1,99.104,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,44.0,2.0,MEDIUM,8.0,True,1,True,9.0,29.0,46.4,33.0,False,1.5,99.057,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,45.0,2.0,MEDIUM,9.0,True,1,True,9.0,29.0,47.2,32.0,False,0.4,99.084,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,46.0,2.0,MEDIUM,10.0,True,1,True,9.0,29.1,47.0,32.0,False,1.4,98.619,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,47.0,2.0,MEDIUM,11.0,True,1,True,9.0,29.1,46.8,32.0,False,2.2,98.631,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,48.0,2.0,MEDIUM,12.0,True,1,True,9.0,29.1,46.7,32.0,False,2.1,98.493,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,49.0,2.0,MEDIUM,13.0,True,1,True,9.0,29.0,46.7,33.0,False,0.8,98.558,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,50.0,2.0,MEDIUM,14.0,True,1,True,9.0,29.0,47.0,32.0,False,0.7,98.513,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,51.0,2.0,MEDIUM,15.0,True,1,True,9.0,29.3,46.7,31.0,False,0.0,98.453,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,52.0,2.0,MEDIUM,16.0,True,1,True,9.0,29.2,46.5,31.0,False,1.3,98.281,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,53.0,2.0,MEDIUM,17.0,True,1,True,9.0,29.2,46.4,31.0,False,1.1,98.113,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,54.0,2.0,MEDIUM,18.0,True,1,True,9.0,29.1,46.0,31.0,False,1.7,98.091,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,55.0,2.0,MEDIUM,19.0,True,1,True,9.0,29.3,46.1,32.0,False,1.2,98.433,False,56,2024,19,United States Grand Prix,2024_19
+LAW,RB,56.0,2.0,MEDIUM,20.0,True,1,True,9.0,29.2,45.9,32.0,False,1.0,99.273,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,12,False,20.0,27.6,46.4,38.0,False,0.9,116.745,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,12,True,19.0,28.0,47.0,37.0,False,0.7,101.717,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,24,False,19.0,28.3,47.2,37.0,False,1.6,138.048,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,4,False,18.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,41,False,18.0,28.1,47.4,35.0,False,2.9,143.011,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,28.0,47.9,33.0,False,1.3,104.34,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,17.0,28.1,47.4,33.0,False,1.8,101.923,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,17.0,28.1,47.2,34.0,False,1.6,101.675,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,28.1,46.9,36.0,False,2.6,101.837,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,12,True,16.0,28.1,46.7,37.0,False,1.5,102.093,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,16.0,28.2,47.0,37.0,False,1.8,102.258,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,16.0,28.2,47.1,36.0,False,1.4,101.866,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,16.0,28.0,47.1,36.0,False,1.5,102.257,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,16.0,28.1,47.4,35.0,False,1.6,102.249,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,16.0,28.4,47.4,35.0,False,1.2,102.175,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,15.0,28.4,47.4,35.0,False,1.5,101.906,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,15.0,28.4,47.8,35.0,False,1.9,101.831,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,28.4,47.6,34.0,False,0.5,101.669,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,28.2,47.2,36.0,False,2.9,101.517,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,28.4,47.1,36.0,False,1.1,101.427,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,12.0,28.5,47.1,36.0,False,0.7,101.246,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,28.5,47.4,36.0,False,2.3,101.63,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,12.0,28.4,47.8,35.0,False,1.4,101.72,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,24.0,1.0,MEDIUM,24.0,True,1,True,12.0,28.5,47.8,34.0,False,2.2,101.489,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,25.0,1.0,MEDIUM,25.0,True,1,True,13.0,28.5,47.8,33.0,False,1.6,102.393,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,26.0,1.0,MEDIUM,26.0,True,1,True,13.0,28.5,48.0,33.0,False,1.1,101.547,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,27.0,1.0,MEDIUM,27.0,True,1,True,12.0,28.4,47.6,33.0,False,2.8,101.361,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,28.0,1.0,MEDIUM,28.0,True,1,True,11.0,28.5,47.5,34.0,False,1.9,101.369,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,29.0,1.0,MEDIUM,29.0,True,1,True,11.0,28.7,47.2,33.0,False,0.8,101.194,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,30.0,1.0,MEDIUM,30.0,True,1,True,11.0,28.8,47.5,33.0,False,0.7,101.452,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,31.0,1.0,MEDIUM,31.0,True,1,False,12.0,28.9,47.7,32.0,False,1.7,103.409,True,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,32.0,2.0,HARD,1.0,True,1,False,17.0,28.8,47.4,32.0,False,0.7,120.757,True,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,33.0,2.0,HARD,2.0,True,1,True,17.0,28.7,47.5,32.0,False,1.5,100.214,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,34.0,2.0,HARD,3.0,True,1,True,16.0,28.8,47.1,33.0,False,1.8,100.077,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,35.0,2.0,HARD,4.0,True,1,True,16.0,28.8,47.1,33.0,False,0.8,100.009,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,36.0,2.0,HARD,5.0,True,1,True,16.0,28.9,47.2,33.0,False,0.9,100.301,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,37.0,2.0,HARD,6.0,True,1,True,16.0,28.9,46.9,33.0,False,0.5,100.09,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,38.0,2.0,HARD,7.0,True,1,True,16.0,28.9,47.1,33.0,False,1.0,99.937,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,39.0,2.0,HARD,8.0,True,1,True,16.0,29.0,46.9,33.0,False,1.9,99.635,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,40.0,2.0,HARD,9.0,True,12,True,16.0,28.9,47.3,32.0,False,2.5,99.722,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,41.0,2.0,HARD,10.0,True,21,True,16.0,28.9,47.4,32.0,False,1.2,101.154,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,42.0,2.0,HARD,11.0,True,1,True,16.0,29.0,46.8,32.0,False,1.4,100.078,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,43.0,2.0,HARD,12.0,True,1,True,16.0,29.0,46.2,33.0,False,0.9,100.247,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,44.0,2.0,HARD,13.0,True,1,True,16.0,29.0,46.4,33.0,False,1.5,101.275,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,45.0,2.0,HARD,14.0,True,1,True,15.0,29.0,47.2,32.0,False,0.4,99.827,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,46.0,2.0,HARD,15.0,True,1,True,15.0,29.1,47.0,32.0,False,1.8,99.753,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,47.0,2.0,HARD,16.0,True,1,True,15.0,29.1,46.8,32.0,False,2.2,99.596,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,48.0,2.0,HARD,17.0,True,1,True,15.0,29.1,46.8,33.0,False,1.3,100.898,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,49.0,2.0,HARD,18.0,True,1,True,15.0,28.9,46.6,32.0,False,1.3,99.655,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,50.0,2.0,HARD,19.0,True,1,True,15.0,29.0,47.0,32.0,False,0.7,99.573,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,51.0,2.0,HARD,20.0,True,1,False,15.0,29.3,46.4,31.0,False,0.3,101.838,True,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,52.0,3.0,SOFT,4.0,False,1,False,18.0,29.2,46.5,31.0,False,0.7,129.77,True,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,53.0,3.0,SOFT,5.0,False,1,True,18.0,29.1,46.0,31.0,False,1.7,97.33,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,54.0,3.0,SOFT,6.0,False,1,True,18.0,29.3,46.0,32.0,False,1.4,99.993,False,56,2024,19,United States Grand Prix,2024_19
+OCO,Alpine,55.0,3.0,SOFT,7.0,False,1,True,18.0,29.2,46.1,32.0,False,1.3,99.999,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,12,False,4.0,27.6,46.4,38.0,False,0.9,102.902,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,28.0,47.0,37.0,False,0.7,100.864,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,124,False,4.0,28.1,47.2,37.0,False,1.8,124.41,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,4,False,4.0,28.3,47.0,37.0,False,2.4,,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,41,False,4.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,28.0,47.9,33.0,False,1.3,100.663,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,28.1,47.4,33.0,False,1.8,100.469,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,28.1,47.2,34.0,False,1.6,100.411,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,28.1,46.9,36.0,False,2.6,100.196,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,12,True,4.0,28.1,46.7,37.0,False,2.0,100.369,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,28.2,47.0,37.0,False,1.8,100.668,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,28.2,47.1,36.0,False,1.4,100.652,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,28.1,47.1,36.0,False,1.9,100.347,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,28.1,47.4,35.0,False,1.6,100.322,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,28.4,47.4,35.0,False,1.2,100.36,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,28.4,47.5,35.0,False,1.6,100.355,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,28.4,47.8,35.0,False,1.9,99.915,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,28.4,47.6,34.0,False,0.5,99.944,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,28.3,47.6,35.0,False,2.6,99.612,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,28.3,47.2,36.0,False,1.0,99.891,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,28.5,47.1,36.0,False,0.7,99.474,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,28.4,47.3,36.0,False,1.2,99.542,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,28.4,47.4,36.0,False,1.8,99.81,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,28.5,47.8,34.0,False,2.2,99.789,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,28.4,47.7,34.0,False,1.4,99.607,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,28.5,48.0,33.0,False,1.6,99.527,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,1.0,28.4,47.6,33.0,False,2.8,99.093,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,1.0,28.5,47.3,33.0,False,1.1,99.156,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,29.0,1.0,MEDIUM,29.0,True,1,True,1.0,28.6,47.5,34.0,False,1.2,99.548,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,30.0,1.0,MEDIUM,30.0,True,1,True,1.0,28.8,47.5,33.0,False,0.7,99.705,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,31.0,1.0,MEDIUM,31.0,True,1,False,1.0,29.0,47.7,32.0,False,1.0,101.469,True,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,32.0,2.0,HARD,1.0,True,1,False,5.0,28.9,47.7,32.0,False,1.5,119.605,True,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,33.0,2.0,HARD,2.0,True,1,True,4.0,28.7,47.7,32.0,False,1.9,98.641,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,34.0,2.0,HARD,3.0,True,1,True,4.0,28.8,47.4,33.0,False,2.8,98.043,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,35.0,2.0,HARD,4.0,True,1,True,4.0,28.8,47.1,33.0,False,1.8,97.918,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,36.0,2.0,HARD,5.0,True,1,True,4.0,28.8,47.0,33.0,False,0.8,98.317,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,37.0,2.0,HARD,6.0,True,1,True,4.0,28.9,47.2,33.0,False,0.7,98.31,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,38.0,2.0,HARD,7.0,True,1,True,4.0,28.9,46.9,33.0,False,0.5,98.081,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,39.0,2.0,HARD,8.0,True,1,True,4.0,29.0,47.1,33.0,False,1.8,98.062,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,40.0,2.0,HARD,9.0,True,1,True,4.0,29.0,46.9,33.0,False,1.9,98.321,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,41.0,2.0,HARD,10.0,True,12,True,4.0,28.9,47.3,32.0,False,2.5,97.966,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,42.0,2.0,HARD,11.0,True,1,True,4.0,28.9,47.4,32.0,False,0.9,97.925,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,43.0,2.0,HARD,12.0,True,1,True,4.0,29.0,46.8,32.0,False,1.4,98.033,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,44.0,2.0,HARD,13.0,True,1,True,4.0,29.0,46.2,33.0,False,0.9,98.229,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,45.0,2.0,HARD,14.0,True,1,True,4.0,29.0,46.5,33.0,False,0.5,98.34,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,46.0,2.0,HARD,15.0,True,1,True,4.0,29.0,47.2,32.0,False,0.4,98.119,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,47.0,2.0,HARD,16.0,True,1,True,4.0,29.1,47.0,32.0,False,1.8,99.194,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,48.0,2.0,HARD,17.0,True,1,True,4.0,29.1,46.7,32.0,False,2.1,98.436,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,49.0,2.0,HARD,18.0,True,1,True,4.0,29.1,46.8,33.0,False,1.3,98.549,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,50.0,2.0,HARD,19.0,True,1,True,4.0,28.9,46.6,32.0,False,1.3,98.813,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,51.0,2.0,HARD,20.0,True,1,True,4.0,29.0,47.0,32.0,False,0.7,99.066,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,52.0,2.0,HARD,21.0,True,1,True,3.0,29.3,46.4,31.0,False,0.3,99.843,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,53.0,2.0,HARD,22.0,True,1,True,3.0,29.2,46.5,31.0,False,0.7,98.347,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,54.0,2.0,HARD,23.0,True,1,True,3.0,29.2,46.4,31.0,False,1.1,97.889,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,55.0,2.0,HARD,24.0,True,1,True,3.0,29.3,46.0,32.0,False,1.4,97.679,False,56,2024,19,United States Grand Prix,2024_19
+NOR,McLaren,56.0,2.0,HARD,25.0,True,1,True,3.0,29.2,46.1,32.0,False,1.3,97.758,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,1.0,1.0,HARD,1.0,True,12,False,16.0,27.6,46.4,38.0,False,0.9,109.923,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,2.0,1.0,HARD,2.0,True,12,True,15.0,28.0,47.0,37.0,False,0.7,103.005,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,3.0,1.0,HARD,3.0,True,24,False,15.0,28.1,47.2,37.0,False,1.8,137.406,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,4.0,1.0,HARD,4.0,True,4,False,15.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,5.0,1.0,HARD,5.0,True,41,False,15.0,28.1,47.4,35.0,False,2.9,147.801,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,6.0,1.0,HARD,6.0,True,1,True,14.0,28.0,47.9,33.0,False,1.3,103.338,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,7.0,1.0,HARD,7.0,True,1,True,14.0,28.1,47.4,33.0,False,1.8,102.278,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,8.0,1.0,HARD,8.0,True,1,True,14.0,28.1,47.2,34.0,False,1.6,101.451,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,9.0,1.0,HARD,9.0,True,1,True,14.0,28.1,46.9,36.0,False,2.6,101.98,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,10.0,1.0,HARD,10.0,True,12,True,13.0,28.1,46.7,37.0,False,1.5,101.702,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,11.0,1.0,HARD,11.0,True,1,True,13.0,28.2,47.0,37.0,False,1.8,102.239,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,12.0,1.0,HARD,12.0,True,1,True,13.0,28.2,47.1,36.0,False,1.4,101.886,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,13.0,1.0,HARD,13.0,True,1,True,13.0,28.0,47.1,36.0,False,1.5,101.766,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,14.0,1.0,HARD,14.0,True,1,True,14.0,28.1,47.4,35.0,False,1.6,102.97,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,15.0,1.0,HARD,15.0,True,1,True,14.0,28.4,47.4,35.0,False,1.2,101.801,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,16.0,1.0,HARD,16.0,True,1,True,14.0,28.4,47.4,35.0,False,1.5,101.956,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,17.0,1.0,HARD,17.0,True,1,True,14.0,28.4,47.8,35.0,False,1.9,101.523,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,18.0,1.0,HARD,18.0,True,1,True,13.0,28.4,47.6,34.0,False,0.5,101.427,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,19.0,1.0,HARD,19.0,True,1,True,11.0,28.2,47.2,36.0,False,2.9,101.01,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,20.0,1.0,HARD,20.0,True,1,True,11.0,28.4,47.1,36.0,False,1.1,101.123,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,21.0,1.0,HARD,21.0,True,1,True,11.0,28.5,47.1,36.0,False,0.7,101.087,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,22.0,1.0,HARD,22.0,True,1,True,10.0,28.5,47.4,36.0,False,2.3,101.25,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,23.0,1.0,HARD,23.0,True,1,True,10.0,28.4,47.8,35.0,False,1.4,101.312,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,24.0,1.0,HARD,24.0,True,1,True,10.0,28.5,47.8,34.0,False,2.2,101.227,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,25.0,1.0,HARD,25.0,True,1,True,10.0,28.5,47.8,33.0,False,1.6,100.756,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,26.0,1.0,HARD,26.0,True,1,True,10.0,28.5,48.0,33.0,False,1.1,100.9,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,27.0,1.0,HARD,27.0,True,1,True,9.0,28.4,47.6,33.0,False,2.8,100.451,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,28.0,1.0,HARD,28.0,True,1,True,8.0,28.5,47.5,34.0,False,1.9,100.205,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,29.0,1.0,HARD,29.0,True,1,True,8.0,28.7,47.2,33.0,False,0.8,100.542,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,30.0,1.0,HARD,30.0,True,1,True,8.0,28.8,47.5,33.0,False,0.7,100.366,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,31.0,1.0,HARD,31.0,True,1,True,8.0,28.9,47.7,32.0,False,1.7,100.535,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,32.0,1.0,HARD,32.0,True,1,True,8.0,28.8,47.4,32.0,False,0.7,100.27,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,33.0,1.0,HARD,33.0,True,1,True,8.0,28.7,47.7,32.0,False,1.9,100.238,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,34.0,1.0,HARD,34.0,True,1,True,8.0,28.8,47.4,33.0,False,2.8,100.306,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,35.0,1.0,HARD,35.0,True,1,True,8.0,28.8,47.1,33.0,False,0.8,100.195,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,36.0,1.0,HARD,36.0,True,1,True,8.0,28.8,47.0,33.0,False,0.8,100.026,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,37.0,1.0,HARD,37.0,True,1,True,8.0,28.9,47.2,33.0,False,0.7,101.395,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,38.0,1.0,HARD,38.0,True,1,True,8.0,28.9,47.1,33.0,False,1.0,100.11,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,39.0,1.0,HARD,39.0,True,1,False,8.0,29.0,47.1,33.0,False,1.8,100.591,True,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,40.0,2.0,MEDIUM,1.0,True,1,False,12.0,29.0,46.9,32.0,False,1.4,119.212,True,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,41.0,2.0,MEDIUM,2.0,True,12,True,11.0,28.9,47.4,32.0,False,1.2,99.443,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,42.0,2.0,MEDIUM,3.0,True,1,True,11.0,29.0,46.8,32.0,False,1.4,98.533,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,43.0,2.0,MEDIUM,4.0,True,1,True,11.0,29.0,46.4,33.0,False,1.1,98.528,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,44.0,2.0,MEDIUM,5.0,True,1,True,11.0,29.0,46.4,33.0,False,1.5,98.876,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,45.0,2.0,MEDIUM,6.0,True,1,True,10.0,29.0,47.2,32.0,False,0.4,98.532,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,46.0,2.0,MEDIUM,7.0,True,1,True,10.0,29.1,47.0,32.0,False,1.4,97.611,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,47.0,2.0,MEDIUM,8.0,True,1,True,10.0,29.1,46.8,32.0,False,2.2,97.991,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,48.0,2.0,MEDIUM,9.0,True,1,True,10.0,29.1,46.8,33.0,False,1.3,98.326,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,49.0,2.0,MEDIUM,10.0,True,1,True,10.0,29.0,46.7,33.0,False,0.8,98.412,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,50.0,2.0,MEDIUM,11.0,True,1,True,10.0,29.0,47.0,32.0,False,0.7,98.026,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,51.0,2.0,MEDIUM,12.0,True,1,True,10.0,29.3,46.7,31.0,False,0.0,98.665,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,52.0,2.0,MEDIUM,13.0,True,1,True,10.0,29.2,46.5,31.0,False,1.3,98.133,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,53.0,2.0,MEDIUM,14.0,True,1,True,10.0,29.2,46.4,31.0,False,1.1,98.032,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,54.0,2.0,MEDIUM,15.0,True,1,True,10.0,29.1,46.0,31.0,False,1.7,97.708,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,55.0,2.0,MEDIUM,16.0,True,1,True,10.0,29.3,46.1,32.0,False,1.2,97.926,False,56,2024,19,United States Grand Prix,2024_19
+COL,Williams,56.0,2.0,MEDIUM,17.0,True,1,True,10.0,29.2,45.9,32.0,False,1.0,98.488,False,56,2024,19,United States Grand Prix,2024_19
+HAM,Mercedes,1.0,1.0,HARD,1.0,True,12,False,12.0,27.6,46.4,38.0,False,0.9,108.064,False,56,2024,19,United States Grand Prix,2024_19
+HAM,Mercedes,2.0,1.0,HARD,2.0,True,124,False,,28.0,47.0,37.0,False,0.7,,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,12,False,3.0,27.6,46.4,38.0,False,0.9,102.273,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,28.0,47.0,37.0,False,0.7,99.923,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,124,False,3.0,28.1,47.2,37.0,False,1.8,123.612,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,4,False,3.0,28.3,47.0,37.0,False,2.4,,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,41,False,3.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,28.0,47.9,33.0,False,1.3,100.002,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,28.1,47.4,33.0,False,1.8,99.684,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,28.1,47.2,34.0,False,1.6,100.944,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,28.1,46.9,36.0,False,2.6,100.022,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,12,True,3.0,28.1,46.7,37.0,False,2.0,99.887,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,28.2,47.0,37.0,False,1.8,100.352,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,28.2,47.1,36.0,False,1.4,100.241,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,28.1,47.1,36.0,False,1.9,100.014,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,28.1,47.4,35.0,False,1.6,100.038,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,28.4,47.4,35.0,False,1.2,100.071,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,28.4,47.5,35.0,False,1.6,100.286,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,28.4,47.8,35.0,False,1.9,100.203,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,28.4,47.6,34.0,False,0.5,99.696,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,28.3,47.6,35.0,False,2.6,99.898,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,28.3,47.2,36.0,False,1.0,99.814,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,False,3.0,28.5,47.1,36.0,False,0.7,100.695,True,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,22.0,2.0,HARD,1.0,True,1,False,5.0,28.4,47.3,36.0,False,1.2,117.897,True,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,23.0,2.0,HARD,2.0,True,1,True,5.0,28.4,47.4,36.0,False,1.8,98.731,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,24.0,2.0,HARD,3.0,True,1,True,5.0,28.5,47.8,34.0,False,2.2,99.113,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,25.0,2.0,HARD,4.0,True,1,True,5.0,28.5,47.8,33.0,False,1.6,99.355,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,26.0,2.0,HARD,5.0,True,1,True,4.0,28.5,48.0,33.0,False,1.6,99.342,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,27.0,2.0,HARD,6.0,True,1,True,4.0,28.4,47.6,33.0,False,2.8,98.96,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,28.0,2.0,HARD,7.0,True,1,True,4.0,28.5,47.5,34.0,False,1.9,99.054,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,29.0,2.0,HARD,8.0,True,1,True,4.0,28.6,47.5,34.0,False,1.2,99.203,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,30.0,2.0,HARD,9.0,True,1,True,4.0,28.8,47.5,33.0,False,0.7,98.674,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,31.0,2.0,HARD,10.0,True,1,True,4.0,28.9,47.7,32.0,False,1.7,99.281,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,32.0,2.0,HARD,11.0,True,1,True,3.0,28.9,47.7,32.0,False,1.5,99.025,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,33.0,2.0,HARD,12.0,True,1,True,2.0,28.7,47.7,32.0,False,1.9,98.76,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,34.0,2.0,HARD,13.0,True,1,True,2.0,28.7,47.5,32.0,False,1.5,98.812,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,35.0,2.0,HARD,14.0,True,1,True,2.0,28.8,47.1,33.0,False,1.8,98.62,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,36.0,2.0,HARD,15.0,True,1,True,2.0,28.8,47.0,33.0,False,0.8,98.587,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,37.0,2.0,HARD,16.0,True,1,True,2.0,28.9,47.2,33.0,False,0.9,98.428,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,38.0,2.0,HARD,17.0,True,1,True,2.0,28.9,46.9,33.0,False,0.5,98.189,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,39.0,2.0,HARD,18.0,True,1,True,2.0,29.0,47.1,33.0,False,1.8,98.075,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,40.0,2.0,HARD,19.0,True,1,True,2.0,29.0,46.9,33.0,False,1.9,98.082,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,41.0,2.0,HARD,20.0,True,12,True,2.0,28.9,47.3,32.0,False,2.5,97.786,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,42.0,2.0,HARD,21.0,True,1,True,2.0,28.9,47.4,32.0,False,0.9,97.763,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,43.0,2.0,HARD,22.0,True,1,True,2.0,29.0,46.8,32.0,False,1.4,98.223,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,44.0,2.0,HARD,23.0,True,1,True,2.0,29.0,46.2,33.0,False,0.9,98.45,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,45.0,2.0,HARD,24.0,True,1,True,2.0,29.0,46.4,33.0,False,1.5,98.28,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,46.0,2.0,HARD,25.0,True,1,True,2.0,29.0,47.2,32.0,False,0.4,98.618,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,47.0,2.0,HARD,26.0,True,1,True,2.0,29.1,47.0,32.0,False,1.8,98.883,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,48.0,2.0,HARD,27.0,True,1,True,2.0,29.1,46.8,32.0,False,2.2,98.13,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,49.0,2.0,HARD,28.0,True,1,True,2.0,29.1,46.8,33.0,False,1.3,98.584,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,50.0,2.0,HARD,29.0,True,1,True,2.0,28.9,46.6,32.0,False,1.3,98.27,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,51.0,2.0,HARD,30.0,True,1,True,2.0,29.0,47.0,32.0,False,0.7,98.501,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,52.0,2.0,HARD,31.0,True,1,True,2.0,29.3,46.4,31.0,False,0.3,98.088,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,53.0,2.0,HARD,32.0,True,1,True,2.0,29.2,46.5,31.0,False,0.7,98.17,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,54.0,2.0,HARD,33.0,True,1,True,2.0,29.2,46.4,31.0,False,1.1,98.2,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,55.0,2.0,HARD,34.0,True,1,True,2.0,29.3,46.0,32.0,False,1.4,99.009,False,56,2024,19,United States Grand Prix,2024_19
+SAI,Ferrari,56.0,2.0,HARD,35.0,True,1,True,2.0,29.2,46.1,32.0,False,1.3,101.083,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,1.0,1.0,HARD,1.0,True,12,False,19.0,27.6,46.4,38.0,False,0.9,111.647,True,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,2.0,1.0,HARD,2.0,True,12,True,17.0,28.0,47.0,37.0,False,0.7,103.503,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,3.0,1.0,HARD,3.0,True,24,False,18.0,28.1,47.2,37.0,False,1.8,140.454,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,4.0,1.0,HARD,4.0,True,4,False,17.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,5.0,1.0,HARD,5.0,True,41,False,17.0,28.1,47.4,35.0,False,2.9,143.987,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,6.0,1.0,HARD,6.0,True,1,True,16.0,28.0,47.9,33.0,False,1.3,104.179,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,7.0,1.0,HARD,7.0,True,1,True,16.0,28.1,47.4,33.0,False,1.8,101.898,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,8.0,1.0,HARD,8.0,True,1,True,16.0,28.1,47.2,34.0,False,1.6,101.524,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,9.0,1.0,HARD,9.0,True,1,True,16.0,28.1,46.9,36.0,False,2.6,101.913,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,10.0,1.0,HARD,10.0,True,12,True,15.0,28.1,46.7,37.0,False,1.5,101.994,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,11.0,1.0,HARD,11.0,True,1,True,15.0,28.2,47.0,37.0,False,1.8,102.165,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,12.0,1.0,HARD,12.0,True,1,True,15.0,28.2,47.1,36.0,False,1.4,101.837,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,13.0,1.0,HARD,13.0,True,1,True,14.0,28.0,47.1,36.0,False,1.5,101.3,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,14.0,1.0,HARD,14.0,True,1,True,13.0,28.1,47.4,35.0,False,1.6,101.098,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,15.0,1.0,HARD,15.0,True,1,True,13.0,28.4,47.4,35.0,False,1.2,101.155,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,16.0,1.0,HARD,16.0,True,1,True,13.0,28.4,47.4,35.0,False,1.5,101.26,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,17.0,1.0,HARD,17.0,True,1,True,12.0,28.4,47.8,35.0,False,1.9,101.132,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,18.0,1.0,HARD,18.0,True,1,True,11.0,28.4,47.6,34.0,False,0.5,100.53,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,19.0,1.0,HARD,19.0,True,1,True,9.0,28.2,47.2,36.0,False,2.9,101.203,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,20.0,1.0,HARD,20.0,True,1,True,9.0,28.3,47.2,36.0,False,1.0,100.766,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,21.0,1.0,HARD,21.0,True,1,True,8.0,28.5,47.1,36.0,False,0.7,99.965,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,22.0,1.0,HARD,22.0,True,1,True,8.0,28.5,47.4,36.0,False,2.3,100.019,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,23.0,1.0,HARD,23.0,True,1,True,8.0,28.4,47.4,36.0,False,1.8,100.174,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,24.0,1.0,HARD,24.0,True,1,True,8.0,28.5,47.8,34.0,False,2.2,100.06,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,25.0,1.0,HARD,25.0,True,1,True,8.0,28.5,47.8,33.0,False,1.6,99.692,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,26.0,1.0,HARD,26.0,True,1,True,8.0,28.5,48.0,33.0,False,1.6,100.158,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,27.0,1.0,HARD,27.0,True,1,True,7.0,28.4,47.6,33.0,False,2.8,99.889,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,28.0,1.0,HARD,28.0,True,1,True,6.0,28.5,47.5,34.0,False,1.9,99.235,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,29.0,1.0,HARD,29.0,True,1,True,6.0,28.6,47.5,34.0,False,1.2,99.624,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,30.0,1.0,HARD,30.0,True,1,True,6.0,28.8,47.5,33.0,False,0.7,99.577,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,31.0,1.0,HARD,31.0,True,1,True,6.0,28.9,47.7,32.0,False,1.7,99.634,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,32.0,1.0,HARD,32.0,True,1,True,6.0,28.9,47.7,32.0,False,1.5,99.553,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,33.0,1.0,HARD,33.0,True,1,True,6.0,28.7,47.7,32.0,False,1.9,100.373,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,34.0,1.0,HARD,34.0,True,1,True,6.0,28.8,47.4,33.0,False,2.8,100.071,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,35.0,1.0,HARD,35.0,True,1,True,6.0,28.8,47.1,33.0,False,1.8,99.925,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,36.0,1.0,HARD,36.0,True,1,True,6.0,28.8,47.0,33.0,False,0.8,99.152,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,37.0,1.0,HARD,37.0,True,1,True,6.0,28.9,47.2,33.0,False,0.7,99.451,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,38.0,1.0,HARD,38.0,True,1,True,6.0,28.9,46.9,33.0,False,0.5,99.331,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,39.0,1.0,HARD,39.0,True,1,True,6.0,29.0,47.1,33.0,False,1.8,98.997,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,40.0,1.0,HARD,40.0,True,1,False,6.0,29.0,46.9,32.0,False,1.4,100.641,True,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,41.0,2.0,MEDIUM,1.0,True,12,False,8.0,28.9,47.3,32.0,False,2.5,124.213,True,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,42.0,2.0,MEDIUM,2.0,True,1,True,8.0,28.9,47.4,32.0,False,0.9,97.656,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,43.0,2.0,MEDIUM,3.0,True,1,True,8.0,29.0,46.4,33.0,False,1.1,98.118,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,44.0,2.0,MEDIUM,4.0,True,1,True,8.0,29.0,46.4,33.0,False,1.5,97.826,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,45.0,2.0,MEDIUM,5.0,True,1,True,7.0,29.0,46.5,33.0,False,0.5,97.963,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,46.0,2.0,MEDIUM,6.0,True,1,True,7.0,29.1,47.0,32.0,False,1.4,97.782,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,47.0,2.0,MEDIUM,7.0,True,1,True,7.0,29.1,46.8,32.0,False,2.2,97.79,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,48.0,2.0,MEDIUM,8.0,True,1,True,7.0,29.1,46.7,32.0,False,2.1,98.041,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,49.0,2.0,MEDIUM,9.0,True,1,True,7.0,29.0,46.7,33.0,False,0.8,98.001,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,50.0,2.0,MEDIUM,10.0,True,1,True,7.0,29.0,47.0,32.0,False,0.7,97.943,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,51.0,2.0,MEDIUM,11.0,True,1,True,7.0,29.3,46.7,31.0,False,0.0,98.059,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,52.0,2.0,MEDIUM,12.0,True,1,True,7.0,29.2,46.5,31.0,False,1.3,98.608,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,53.0,2.0,MEDIUM,13.0,True,1,True,7.0,29.2,46.5,31.0,False,0.7,99.888,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,54.0,2.0,MEDIUM,14.0,True,1,True,7.0,29.1,46.0,31.0,False,1.7,98.724,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,55.0,2.0,MEDIUM,15.0,True,1,True,6.0,29.3,46.1,32.0,False,1.2,98.18,False,56,2024,19,United States Grand Prix,2024_19
+RUS,Mercedes,56.0,2.0,MEDIUM,16.0,True,1,True,6.0,29.2,46.1,32.0,False,1.3,97.955,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,1.0,1.0,MEDIUM,1.0,False,12,False,17.0,27.6,46.4,38.0,False,0.9,110.705,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,2.0,1.0,MEDIUM,2.0,False,12,True,16.0,28.0,47.0,37.0,False,0.7,103.075,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,3.0,1.0,MEDIUM,3.0,False,24,False,16.0,28.1,47.2,37.0,False,1.8,138.546,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,4.0,1.0,MEDIUM,4.0,False,4,False,16.0,28.3,47.1,36.0,False,1.4,,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,5.0,1.0,MEDIUM,5.0,False,41,False,16.0,28.1,47.4,35.0,False,2.9,146.661,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,6.0,1.0,MEDIUM,6.0,False,1,True,15.0,28.0,47.9,33.0,False,1.3,103.6,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,7.0,1.0,MEDIUM,7.0,False,1,True,15.0,28.1,47.4,33.0,False,1.8,102.18,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,8.0,1.0,MEDIUM,8.0,False,1,True,15.0,28.1,47.2,34.0,False,1.6,101.483,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,9.0,1.0,MEDIUM,9.0,False,1,True,15.0,28.1,46.9,36.0,False,2.6,102.031,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,10.0,1.0,MEDIUM,10.0,False,12,True,14.0,28.1,46.7,37.0,False,1.5,101.749,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,11.0,1.0,MEDIUM,11.0,False,1,True,14.0,28.2,47.0,37.0,False,1.8,102.3,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,12.0,1.0,MEDIUM,12.0,False,1,True,14.0,28.2,47.1,36.0,False,1.4,101.945,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,13.0,1.0,MEDIUM,13.0,False,1,True,15.0,28.0,47.1,36.0,False,1.5,102.677,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,14.0,1.0,MEDIUM,14.0,False,1,True,15.0,28.1,47.4,35.0,False,1.6,102.125,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,15.0,1.0,MEDIUM,15.0,False,1,False,15.0,28.4,47.4,35.0,False,1.2,102.714,True,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,16.0,2.0,HARD,1.0,True,1,False,18.0,28.4,47.4,35.0,False,1.5,121.652,True,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,17.0,2.0,HARD,2.0,True,1,True,18.0,28.4,47.6,35.0,False,1.8,100.801,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,18.0,2.0,HARD,3.0,True,1,True,18.0,28.4,47.6,34.0,False,0.5,100.762,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,19.0,2.0,HARD,4.0,True,1,True,18.0,28.2,47.2,36.0,False,2.9,100.869,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,20.0,2.0,HARD,5.0,True,1,True,18.0,28.4,47.1,36.0,False,1.1,100.837,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,21.0,2.0,HARD,6.0,True,1,True,18.0,28.4,47.3,36.0,False,1.2,100.92,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,22.0,2.0,HARD,7.0,True,1,True,18.0,28.5,47.4,36.0,False,2.3,100.998,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,23.0,2.0,HARD,8.0,True,1,True,18.0,28.4,47.8,35.0,False,1.4,101.138,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,24.0,2.0,HARD,9.0,True,1,True,18.0,28.4,47.7,34.0,False,1.4,101.147,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,25.0,2.0,HARD,10.0,True,1,True,18.0,28.5,47.8,33.0,False,1.6,100.909,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,26.0,2.0,HARD,11.0,True,1,True,18.0,28.5,48.0,33.0,False,1.1,100.839,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,27.0,2.0,HARD,12.0,True,1,True,17.0,28.5,47.3,33.0,False,1.1,100.869,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,28.0,2.0,HARD,13.0,True,1,True,16.0,28.5,47.5,34.0,False,1.9,101.024,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,29.0,2.0,HARD,14.0,True,1,True,16.0,28.7,47.2,33.0,False,0.8,101.298,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,30.0,2.0,HARD,15.0,True,1,True,16.0,29.0,47.7,32.0,False,1.0,101.185,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,31.0,2.0,HARD,16.0,True,1,True,16.0,28.9,47.7,32.0,False,1.7,101.374,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,32.0,2.0,HARD,17.0,True,1,True,15.0,28.8,47.4,32.0,False,0.7,100.932,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,33.0,2.0,HARD,18.0,True,1,True,15.0,28.7,47.5,32.0,False,1.5,100.784,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,34.0,2.0,HARD,19.0,True,1,True,15.0,28.8,47.4,33.0,False,2.8,101.938,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,35.0,2.0,HARD,20.0,True,1,True,15.0,28.8,47.1,33.0,False,0.8,101.436,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,36.0,2.0,HARD,21.0,True,1,True,15.0,28.9,47.2,33.0,False,0.9,101.155,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,37.0,2.0,HARD,22.0,True,1,True,15.0,28.9,47.2,33.0,False,0.7,100.815,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,38.0,2.0,HARD,23.0,True,1,True,15.0,28.9,47.1,33.0,False,1.0,100.944,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,39.0,2.0,HARD,24.0,True,1,True,15.0,29.0,46.9,33.0,False,1.9,100.78,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,40.0,2.0,HARD,25.0,True,1,True,15.0,28.9,47.3,32.0,False,2.5,100.701,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,41.0,2.0,HARD,26.0,True,12,True,15.0,28.9,47.4,32.0,False,1.2,101.258,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,42.0,2.0,HARD,27.0,True,1,True,15.0,29.0,46.8,32.0,False,1.4,101.243,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,43.0,2.0,HARD,28.0,True,1,True,15.0,29.0,46.2,33.0,False,0.9,100.696,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,44.0,2.0,HARD,29.0,True,1,True,15.0,29.0,46.4,33.0,False,1.5,101.717,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,45.0,2.0,HARD,30.0,True,1,True,17.0,29.0,47.2,32.0,False,0.4,105.416,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,46.0,2.0,HARD,31.0,True,1,True,18.0,29.1,47.0,32.0,False,1.8,103.225,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,47.0,2.0,HARD,32.0,True,1,True,18.0,29.1,46.8,32.0,False,2.2,101.064,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,48.0,2.0,HARD,33.0,True,1,True,18.0,29.1,46.8,33.0,False,1.3,101.07,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,49.0,2.0,HARD,34.0,True,1,True,18.0,28.9,46.6,32.0,False,1.3,103.447,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,50.0,2.0,HARD,35.0,True,1,True,18.0,29.3,46.7,31.0,False,0.0,101.045,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,51.0,2.0,HARD,36.0,True,1,True,18.0,29.3,46.4,31.0,False,0.3,102.931,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,52.0,2.0,HARD,37.0,True,1,True,17.0,29.2,46.5,31.0,False,0.7,100.658,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,53.0,2.0,HARD,38.0,True,1,True,17.0,29.1,46.0,31.0,False,1.7,100.575,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,54.0,2.0,HARD,39.0,True,1,True,17.0,29.3,46.0,32.0,False,1.4,100.679,False,56,2024,19,United States Grand Prix,2024_19
+BOT,Kick Sauber,55.0,2.0,HARD,40.0,True,1,True,17.0,29.2,46.1,32.0,False,1.3,100.708,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,12,False,5.0,27.6,46.4,38.0,False,0.9,103.937,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,12,True,5.0,28.0,47.0,37.0,False,0.7,101.768,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,24,False,5.0,28.1,47.2,37.0,False,1.8,126.009,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,4,False,5.0,28.3,47.0,37.0,False,2.4,149.123,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,41,False,5.0,28.1,47.4,35.0,False,2.9,,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,28.0,47.9,33.0,False,1.3,101.753,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,28.1,47.4,33.0,False,1.8,101.086,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,28.1,47.2,34.0,False,1.6,100.678,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,28.1,46.9,36.0,False,2.6,100.285,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,12,True,5.0,28.1,46.7,37.0,False,2.0,100.339,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,28.2,47.0,37.0,False,1.8,100.607,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,28.2,47.1,36.0,False,1.4,100.696,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,28.1,47.1,36.0,False,1.9,100.579,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,28.1,47.4,35.0,False,1.6,100.807,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,28.4,47.4,35.0,False,1.2,101.013,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,28.4,47.5,35.0,False,1.6,100.229,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,28.4,47.8,35.0,False,1.9,99.925,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,28.4,47.6,34.0,False,0.5,100.006,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,28.3,47.6,35.0,False,2.6,99.685,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,28.3,47.2,36.0,False,1.0,99.791,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,28.5,47.1,36.0,False,0.7,99.711,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,28.4,47.3,36.0,False,1.2,99.864,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,28.4,47.4,36.0,False,1.8,99.91,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,28.5,47.8,34.0,False,2.2,100.269,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,4.0,28.4,47.7,34.0,False,1.4,99.409,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,3.0,28.5,48.0,33.0,False,1.6,99.299,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,2.0,28.4,47.6,33.0,False,2.8,99.016,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,2.0,28.5,47.3,33.0,False,1.1,99.65,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,29.0,1.0,MEDIUM,29.0,True,1,True,2.0,28.6,47.5,34.0,False,1.2,99.55,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,30.0,1.0,MEDIUM,30.0,True,1,True,2.0,28.8,47.5,33.0,False,0.7,99.661,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,31.0,1.0,MEDIUM,31.0,True,1,True,3.0,29.0,47.7,32.0,False,1.0,100.829,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,32.0,1.0,MEDIUM,32.0,True,1,False,2.0,28.9,47.7,32.0,False,1.5,101.107,True,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,33.0,2.0,HARD,1.0,True,1,False,5.0,28.7,47.7,32.0,False,1.9,119.344,True,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,34.0,2.0,HARD,2.0,True,1,True,5.0,28.8,47.4,33.0,False,2.8,98.495,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,35.0,2.0,HARD,3.0,True,1,True,5.0,28.8,47.1,33.0,False,1.8,98.022,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,36.0,2.0,HARD,4.0,True,1,True,5.0,28.8,47.0,33.0,False,0.8,98.31,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,37.0,2.0,HARD,5.0,True,1,True,5.0,28.9,47.2,33.0,False,0.7,98.49,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,38.0,2.0,HARD,6.0,True,1,True,5.0,28.9,46.9,33.0,False,0.5,98.212,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,39.0,2.0,HARD,7.0,True,1,True,5.0,29.0,47.1,33.0,False,1.8,98.183,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,40.0,2.0,HARD,8.0,True,1,True,5.0,29.0,46.9,32.0,False,1.4,99.348,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,41.0,2.0,HARD,9.0,True,12,True,5.0,28.9,47.3,32.0,False,2.5,98.206,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,42.0,2.0,HARD,10.0,True,1,True,5.0,28.9,47.4,32.0,False,0.9,97.883,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,43.0,2.0,HARD,11.0,True,1,True,5.0,29.0,46.8,32.0,False,1.4,97.984,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,44.0,2.0,HARD,12.0,True,1,True,5.0,29.0,46.2,33.0,False,0.9,98.455,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,45.0,2.0,HARD,13.0,True,1,True,5.0,29.0,46.5,33.0,False,0.5,97.979,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,46.0,2.0,HARD,14.0,True,1,True,5.0,29.0,47.2,32.0,False,0.4,98.32,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,47.0,2.0,HARD,15.0,True,1,True,5.0,29.1,47.0,32.0,False,1.8,98.655,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,48.0,2.0,HARD,16.0,True,1,True,5.0,29.1,46.7,32.0,False,2.1,98.021,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,49.0,2.0,HARD,17.0,True,1,True,5.0,29.1,46.8,33.0,False,1.3,98.023,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,50.0,2.0,HARD,18.0,True,1,True,5.0,28.9,46.6,32.0,False,1.3,97.979,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,51.0,2.0,HARD,19.0,True,1,True,5.0,29.3,46.7,31.0,False,0.0,98.532,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,52.0,2.0,HARD,20.0,True,1,True,5.0,29.3,46.4,31.0,False,0.3,98.18,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,53.0,2.0,HARD,21.0,True,1,True,5.0,29.2,46.5,31.0,False,0.7,99.104,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,54.0,2.0,HARD,22.0,True,1,True,5.0,29.1,46.0,31.0,False,1.7,97.954,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,55.0,2.0,HARD,23.0,True,1,True,5.0,29.3,46.0,32.0,False,1.4,97.924,False,56,2024,19,United States Grand Prix,2024_19
+PIA,McLaren,56.0,2.0,HARD,24.0,True,1,True,5.0,29.2,46.1,32.0,False,1.3,99.112,False,56,2024,19,United States Grand Prix,2024_19

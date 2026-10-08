@@ -1,0 +1,826 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,1.0,18.3,24.1,80.0,False,0.9,105.82,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,26,False,1.0,18.5,24.5,82.0,False,1.0,135.598,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,6,False,1.0,18.4,24.5,80.0,False,1.5,137.357,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,1.0,18.7,24.8,75.0,False,1.3,105.568,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,126,False,1.0,18.6,24.9,75.0,False,0.9,104.809,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,6,False,1.0,18.8,25.2,77.0,False,1.2,139.789,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,671,False,1.0,19.1,24.4,75.0,False,1.3,122.547,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,2.0,19.2,24.2,75.0,False,1.0,105.834,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,2.0,19.2,24.8,74.0,False,1.1,106.326,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,2.0,19.2,24.3,72.0,False,1.9,106.432,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,1,False,3.0,19.0,24.0,74.0,True,1.2,110.497,True,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,12.0,2.0,INTERMEDIATE,1.0,True,1,False,2.0,18.7,22.5,72.0,True,3.1,126.914,True,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,13.0,2.0,INTERMEDIATE,2.0,True,12,True,2.0,18.1,21.0,74.0,True,4.5,111.224,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,14.0,2.0,INTERMEDIATE,3.0,True,14,False,2.0,17.4,20.1,78.0,True,5.4,136.82,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,15.0,2.0,INTERMEDIATE,4.0,True,4,False,2.0,16.7,20.0,82.0,True,2.9,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,16.0,2.0,INTERMEDIATE,5.0,True,4,False,2.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,17.0,2.0,INTERMEDIATE,6.0,True,41,False,2.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,18.0,2.0,INTERMEDIATE,7.0,True,124,False,2.0,16.1,21.7,84.0,False,1.0,118.665,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,19.0,2.0,INTERMEDIATE,8.0,True,4,False,2.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,20.0,2.0,INTERMEDIATE,9.0,True,4,False,2.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,21.0,2.0,INTERMEDIATE,10.0,True,41,False,10.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,22.0,2.0,INTERMEDIATE,11.0,True,12,True,10.0,16.7,23.1,82.0,False,1.9,111.018,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,23.0,2.0,INTERMEDIATE,12.0,True,1,True,10.0,17.0,22.9,80.0,False,2.2,105.863,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,24.0,2.0,INTERMEDIATE,13.0,True,1,True,10.0,17.0,22.9,82.0,False,1.6,105.017,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,25.0,2.0,INTERMEDIATE,14.0,True,1,True,10.0,17.2,22.8,80.0,False,0.9,104.139,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,26.0,2.0,INTERMEDIATE,15.0,True,1,True,10.0,17.1,22.7,81.0,False,1.2,104.304,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,27.0,2.0,INTERMEDIATE,16.0,True,1,True,10.0,17.1,22.5,81.0,False,0.8,103.903,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,28.0,2.0,INTERMEDIATE,17.0,True,1,True,10.0,17.4,22.6,81.0,False,0.7,104.243,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,29.0,2.0,INTERMEDIATE,18.0,True,1,True,10.0,17.5,22.8,82.0,False,1.3,104.716,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,30.0,2.0,INTERMEDIATE,19.0,True,1,True,10.0,17.5,22.4,81.0,False,1.3,104.721,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,31.0,2.0,INTERMEDIATE,20.0,True,1,True,10.0,17.7,22.4,82.0,False,1.7,104.559,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,32.0,2.0,INTERMEDIATE,21.0,True,1,True,10.0,17.9,23.3,80.0,False,1.5,104.511,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,33.0,2.0,INTERMEDIATE,22.0,True,1,True,10.0,18.0,23.6,77.0,False,1.1,104.306,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,34.0,2.0,INTERMEDIATE,23.0,True,1,True,9.0,18.0,23.5,76.0,False,1.2,103.923,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,35.0,2.0,INTERMEDIATE,24.0,True,1,True,9.0,18.2,23.2,74.0,False,0.7,102.617,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,36.0,2.0,INTERMEDIATE,25.0,True,1,True,9.0,18.5,23.2,73.0,False,1.9,101.924,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,37.0,2.0,INTERMEDIATE,26.0,True,1,True,9.0,18.5,23.4,73.0,False,0.6,101.583,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,38.0,2.0,INTERMEDIATE,27.0,True,1,True,8.0,18.5,23.7,72.0,False,1.5,101.19,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,39.0,2.0,INTERMEDIATE,28.0,True,12,True,7.0,18.7,24.1,70.0,False,2.1,100.758,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,40.0,2.0,INTERMEDIATE,29.0,True,1,True,7.0,18.8,23.6,70.0,False,1.5,101.474,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,41.0,2.0,INTERMEDIATE,30.0,True,1,False,6.0,18.9,23.6,68.0,False,2.3,99.465,True,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,42.0,3.0,MEDIUM,1.0,True,12,False,9.0,19.0,23.5,69.0,False,2.5,127.784,True,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,43.0,3.0,MEDIUM,2.0,True,12,True,6.0,19.0,22.8,68.0,False,1.1,99.479,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,44.0,3.0,MEDIUM,3.0,True,21,True,6.0,18.9,23.7,68.0,False,2.3,95.165,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,45.0,3.0,MEDIUM,4.0,True,1,True,6.0,19.0,24.0,67.0,False,2.2,93.844,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,46.0,3.0,MEDIUM,5.0,True,1,True,6.0,19.1,23.8,66.0,False,2.1,92.96,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,47.0,3.0,MEDIUM,6.0,True,1,True,6.0,19.2,23.6,67.0,False,1.5,91.712,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,48.0,3.0,MEDIUM,7.0,True,1,True,6.0,19.2,23.6,67.0,False,1.3,90.776,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,49.0,3.0,MEDIUM,8.0,True,1,True,6.0,19.1,23.7,67.0,False,1.1,90.179,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,50.0,3.0,MEDIUM,9.0,True,1,True,6.0,19.3,24.4,65.0,False,1.1,90.29,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,51.0,3.0,MEDIUM,10.0,True,1,True,5.0,19.4,24.4,64.0,False,1.9,90.973,False,52,2025,12,British Grand Prix,2025_12
+VER,Red Bull Racing,52.0,3.0,MEDIUM,11.0,True,1,True,5.0,19.5,24.6,64.0,False,1.6,91.389,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,1.0,1.0,INTERMEDIATE,1.0,True,12,False,5.0,18.3,24.1,80.0,False,0.9,109.058,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,2.0,1.0,INTERMEDIATE,2.0,True,26,False,6.0,18.5,24.5,82.0,False,1.0,138.221,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,3.0,1.0,INTERMEDIATE,3.0,True,6,False,5.0,18.4,24.5,80.0,False,1.5,137.418,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,5.0,18.7,24.8,75.0,False,1.3,105.466,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,5.0,1.0,INTERMEDIATE,5.0,True,126,False,5.0,18.6,24.9,75.0,False,0.9,108.978,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,6.0,1.0,INTERMEDIATE,6.0,True,6,False,5.0,18.8,25.2,77.0,False,1.2,136.266,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,7.0,1.0,INTERMEDIATE,7.0,True,671,False,5.0,19.1,24.0,73.0,False,2.6,123.029,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,8.0,1.0,INTERMEDIATE,8.0,True,1,True,5.0,19.2,24.2,75.0,False,1.0,106.083,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,9.0,1.0,INTERMEDIATE,9.0,True,1,True,5.0,19.2,24.8,74.0,False,1.1,107.962,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,10.0,1.0,INTERMEDIATE,10.0,True,1,True,6.0,19.2,24.3,72.0,False,1.9,108.953,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,11.0,1.0,INTERMEDIATE,11.0,True,1,False,5.0,19.0,24.0,74.0,True,1.2,109.24,True,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,12.0,2.0,INTERMEDIATE,1.0,True,1,False,9.0,18.7,22.5,72.0,True,3.1,127.003,True,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,13.0,2.0,INTERMEDIATE,2.0,True,124,False,6.0,18.1,21.0,74.0,True,4.5,115.838,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,14.0,2.0,INTERMEDIATE,3.0,True,4,False,6.0,17.4,20.1,78.0,True,5.4,136.634,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,15.0,2.0,INTERMEDIATE,4.0,True,4,False,6.0,16.7,20.0,82.0,True,2.9,148.486,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,16.0,2.0,INTERMEDIATE,5.0,True,4,False,6.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,17.0,2.0,INTERMEDIATE,6.0,True,41,False,6.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,18.0,2.0,INTERMEDIATE,7.0,True,124,False,7.0,16.1,21.7,84.0,False,1.0,124.781,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,19.0,2.0,INTERMEDIATE,8.0,True,4,False,6.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,20.0,2.0,INTERMEDIATE,9.0,True,4,False,7.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,21.0,2.0,INTERMEDIATE,10.0,True,41,False,5.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,22.0,2.0,INTERMEDIATE,11.0,True,12,True,5.0,16.7,23.1,82.0,False,1.9,109.883,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,23.0,2.0,INTERMEDIATE,12.0,True,1,True,5.0,17.0,22.9,80.0,False,2.2,105.583,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,24.0,2.0,INTERMEDIATE,13.0,True,1,True,5.0,17.0,22.9,82.0,False,1.6,104.631,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,25.0,2.0,INTERMEDIATE,14.0,True,1,True,5.0,17.2,22.8,80.0,False,0.9,104.204,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,26.0,2.0,INTERMEDIATE,15.0,True,1,True,5.0,17.1,22.7,81.0,False,1.2,104.244,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,27.0,2.0,INTERMEDIATE,16.0,True,1,True,5.0,17.1,22.5,81.0,False,0.8,103.205,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,28.0,2.0,INTERMEDIATE,17.0,True,1,True,5.0,17.4,22.6,81.0,False,0.7,103.575,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,29.0,2.0,INTERMEDIATE,18.0,True,1,True,6.0,17.5,22.8,82.0,False,1.3,104.969,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,30.0,2.0,INTERMEDIATE,19.0,True,1,True,6.0,17.5,22.4,81.0,False,1.3,105.061,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,31.0,2.0,INTERMEDIATE,20.0,True,1,True,6.0,17.7,22.4,82.0,False,1.7,104.504,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,32.0,2.0,INTERMEDIATE,21.0,True,1,True,6.0,17.9,23.3,80.0,False,1.5,104.368,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,33.0,2.0,INTERMEDIATE,22.0,True,1,True,6.0,18.0,23.6,77.0,False,1.1,105.205,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,34.0,2.0,INTERMEDIATE,23.0,True,1,True,6.0,18.0,23.5,76.0,False,1.2,104.227,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,35.0,2.0,INTERMEDIATE,24.0,True,1,True,6.0,18.2,23.2,74.0,False,0.7,102.768,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,36.0,2.0,INTERMEDIATE,25.0,True,1,True,6.0,18.5,23.2,73.0,False,1.9,102.42,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,37.0,2.0,INTERMEDIATE,26.0,True,1,True,6.0,18.5,23.2,72.0,False,1.4,101.825,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,38.0,2.0,INTERMEDIATE,27.0,True,1,True,7.0,18.5,23.7,72.0,False,1.5,102.926,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,39.0,2.0,INTERMEDIATE,28.0,True,12,True,6.0,18.7,24.1,70.0,False,2.1,101.869,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,40.0,2.0,INTERMEDIATE,29.0,True,21,True,6.0,18.8,23.6,70.0,False,1.5,102.307,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,41.0,2.0,INTERMEDIATE,30.0,True,1,False,7.0,18.9,23.6,68.0,False,2.3,102.126,True,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,42.0,3.0,MEDIUM,1.0,True,12,False,10.0,19.0,23.5,69.0,False,2.5,126.63,True,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,43.0,3.0,MEDIUM,2.0,True,12,True,7.0,19.0,22.8,68.0,False,1.1,98.76,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,44.0,3.0,MEDIUM,3.0,True,21,True,7.0,18.9,23.7,68.0,False,2.3,95.699,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,45.0,3.0,MEDIUM,4.0,True,1,True,7.0,19.0,24.0,67.0,False,2.2,93.758,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,46.0,3.0,MEDIUM,5.0,True,1,True,7.0,19.1,23.8,66.0,False,2.1,92.701,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,47.0,3.0,MEDIUM,6.0,True,1,True,7.0,19.2,23.6,67.0,False,1.5,91.824,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,48.0,3.0,MEDIUM,7.0,True,1,True,7.0,19.2,23.6,67.0,False,1.3,90.751,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,49.0,3.0,MEDIUM,8.0,True,1,True,7.0,19.1,23.7,67.0,False,1.1,90.759,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,50.0,3.0,MEDIUM,9.0,True,1,True,7.0,19.3,24.4,65.0,False,1.1,91.002,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,51.0,3.0,MEDIUM,10.0,True,1,True,7.0,19.5,24.6,65.0,False,1.5,91.465,False,52,2025,12,British Grand Prix,2025_12
+GAS,Alpine,52.0,3.0,MEDIUM,11.0,True,1,True,6.0,19.5,24.6,64.0,False,1.6,91.884,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,1.0,1.0,INTERMEDIATE,1.0,True,12,False,8.0,18.3,24.1,80.0,False,0.9,111.613,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,2.0,1.0,INTERMEDIATE,2.0,True,26,False,4.0,18.5,24.5,82.0,False,1.0,133.229,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,3.0,2.0,HARD,1.0,True,67,False,13.0,18.4,24.5,80.0,False,1.5,,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,4.0,2.0,HARD,2.0,True,712,False,13.0,18.7,24.8,75.0,False,1.3,115.035,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,5.0,2.0,HARD,3.0,True,126,False,14.0,18.6,24.9,75.0,False,0.7,121.805,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,6.0,2.0,HARD,4.0,True,6,False,14.0,19.1,25.0,74.0,False,1.5,135.762,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,7.0,2.0,HARD,5.0,True,671,False,14.0,19.1,24.0,73.0,False,2.6,115.536,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,8.0,2.0,HARD,6.0,True,1,True,14.0,19.2,24.2,75.0,False,1.0,105.576,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,9.0,2.0,HARD,7.0,True,1,False,14.0,19.2,24.8,74.0,False,0.7,99.336,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,10.0,3.0,INTERMEDIATE,1.0,True,1,False,17.0,19.0,24.1,74.0,False,0.7,125.979,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,11.0,3.0,INTERMEDIATE,2.0,True,1,True,15.0,18.9,23.3,73.0,True,1.1,108.439,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,12.0,3.0,INTERMEDIATE,3.0,True,1,True,15.0,18.7,22.5,72.0,True,3.1,107.009,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,13.0,3.0,INTERMEDIATE,4.0,True,124,False,15.0,18.1,21.0,74.0,True,4.5,118.898,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,14.0,3.0,INTERMEDIATE,5.0,True,4,False,15.0,17.4,20.1,78.0,True,5.4,136.49,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,15.0,3.0,INTERMEDIATE,6.0,True,4,False,15.0,16.7,20.0,82.0,True,2.9,140.841,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,16.0,3.0,INTERMEDIATE,7.0,True,4,False,15.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,17.0,3.0,INTERMEDIATE,8.0,True,41,False,15.0,16.1,21.3,85.0,False,1.8,,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,18.0,3.0,INTERMEDIATE,9.0,True,124,False,16.0,16.1,21.7,84.0,False,1.0,133.8,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,19.0,3.0,INTERMEDIATE,10.0,True,4,False,15.0,16.4,23.9,85.0,False,1.5,,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,20.0,3.0,INTERMEDIATE,11.0,True,4,False,6.0,16.6,24.3,83.0,False,0.7,,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,21.0,4.0,INTERMEDIATE,1.0,True,41,False,16.0,16.7,23.4,81.0,False,2.5,,True,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,22.0,4.0,INTERMEDIATE,2.0,True,12,True,16.0,16.7,23.1,82.0,False,1.9,115.501,False,52,2025,12,British Grand Prix,2025_12
+ANT,Mercedes,23.0,4.0,INTERMEDIATE,3.0,True,1,False,16.0,17.0,22.9,80.0,False,2.2,116.7,True,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,1.0,1.0,INTERMEDIATE,1.0,True,12,False,6.0,18.3,24.1,80.0,False,0.9,110.468,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,2.0,1.0,INTERMEDIATE,2.0,True,26,False,7.0,18.5,24.5,82.0,False,1.0,137.676,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,True,6,False,6.0,18.4,24.5,80.0,False,1.5,137.227,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,6.0,18.7,24.8,75.0,False,1.3,105.678,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,5.0,1.0,INTERMEDIATE,5.0,True,126,False,6.0,18.6,24.9,75.0,False,0.7,109.536,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,6.0,1.0,INTERMEDIATE,6.0,True,6,False,6.0,18.8,25.2,77.0,False,1.2,136.643,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,7.0,1.0,INTERMEDIATE,7.0,True,671,False,6.0,19.1,24.0,73.0,False,2.6,122.063,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,8.0,1.0,INTERMEDIATE,8.0,True,1,True,6.0,19.2,24.2,75.0,False,1.0,106.42,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,9.0,1.0,INTERMEDIATE,9.0,True,1,True,6.0,19.2,24.8,74.0,False,1.1,107.569,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,10.0,1.0,INTERMEDIATE,10.0,True,1,True,7.0,19.2,24.3,72.0,False,1.9,108.951,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,11.0,1.0,INTERMEDIATE,11.0,True,1,False,6.0,19.0,24.0,74.0,True,1.2,109.478,True,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,12.0,2.0,INTERMEDIATE,1.0,True,1,False,10.0,18.7,22.5,72.0,True,3.1,127.516,True,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,13.0,2.0,INTERMEDIATE,2.0,True,124,False,10.0,18.1,21.0,74.0,True,4.5,122.342,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,14.0,2.0,INTERMEDIATE,3.0,True,4,False,10.0,17.4,20.1,78.0,True,5.4,136.573,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,15.0,2.0,INTERMEDIATE,4.0,True,4,False,10.0,16.7,20.0,82.0,True,2.9,144.268,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,16.0,2.0,INTERMEDIATE,5.0,True,4,False,10.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,17.0,2.0,INTERMEDIATE,6.0,True,41,False,10.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,18.0,2.0,INTERMEDIATE,7.0,True,124,False,10.0,16.1,21.7,84.0,False,1.0,127.029,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,19.0,2.0,INTERMEDIATE,8.0,True,4,False,9.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,20.0,2.0,INTERMEDIATE,9.0,True,4,False,10.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,21.0,2.0,INTERMEDIATE,10.0,True,41,False,8.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,22.0,2.0,INTERMEDIATE,11.0,True,12,True,8.0,16.7,23.1,82.0,False,1.9,110.388,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,23.0,2.0,INTERMEDIATE,12.0,True,1,True,8.0,17.0,22.9,80.0,False,2.2,106.209,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,24.0,2.0,INTERMEDIATE,13.0,True,1,True,8.0,17.0,22.9,82.0,False,1.6,104.879,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,25.0,2.0,INTERMEDIATE,14.0,True,1,True,8.0,17.2,22.8,80.0,False,0.9,104.158,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,26.0,2.0,INTERMEDIATE,15.0,True,1,True,8.0,17.1,22.7,81.0,False,1.2,103.977,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,27.0,2.0,INTERMEDIATE,16.0,True,1,True,8.0,17.1,22.5,81.0,False,0.8,103.527,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,28.0,2.0,INTERMEDIATE,17.0,True,1,True,8.0,17.4,22.6,81.0,False,0.7,103.779,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,29.0,2.0,INTERMEDIATE,18.0,True,1,True,8.0,17.5,22.8,82.0,False,1.3,103.763,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,30.0,2.0,INTERMEDIATE,19.0,True,1,True,8.0,17.5,22.4,81.0,False,1.3,104.281,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,31.0,2.0,INTERMEDIATE,20.0,True,1,True,8.0,17.7,22.4,82.0,False,1.7,104.625,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,32.0,2.0,INTERMEDIATE,21.0,True,1,True,8.0,17.9,23.3,80.0,False,1.5,104.587,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,33.0,2.0,INTERMEDIATE,22.0,True,1,True,8.0,18.0,23.6,77.0,False,1.1,104.331,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,34.0,2.0,INTERMEDIATE,23.0,True,1,True,8.0,18.0,23.5,76.0,False,1.2,104.712,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,35.0,2.0,INTERMEDIATE,24.0,True,1,True,8.0,18.2,23.2,74.0,False,0.7,103.238,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,36.0,2.0,INTERMEDIATE,25.0,True,1,True,8.0,18.5,23.2,73.0,False,1.9,102.516,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,37.0,2.0,INTERMEDIATE,26.0,True,1,False,7.0,18.5,23.4,73.0,False,0.6,100.138,True,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,38.0,3.0,MEDIUM,2.0,False,1,False,15.0,18.5,23.7,72.0,False,1.5,136.801,True,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,39.0,3.0,MEDIUM,3.0,False,12,True,15.0,18.7,24.1,70.0,False,2.1,107.666,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,40.0,3.0,MEDIUM,4.0,False,1,True,15.0,18.8,23.6,70.0,False,1.5,102.659,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,41.0,3.0,MEDIUM,5.0,False,1,True,15.0,18.9,23.6,69.0,False,0.0,100.67,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,42.0,3.0,MEDIUM,6.0,False,12,True,14.0,18.9,23.2,68.0,False,1.4,99.415,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,43.0,3.0,MEDIUM,7.0,False,12,True,9.0,19.0,22.8,68.0,False,1.1,97.153,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,44.0,3.0,MEDIUM,8.0,False,1,True,8.0,18.9,23.7,68.0,False,2.3,93.635,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,45.0,3.0,MEDIUM,9.0,False,1,True,8.0,19.0,24.0,67.0,False,2.2,93.119,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,46.0,3.0,MEDIUM,10.0,False,1,True,8.0,19.1,23.8,66.0,False,2.1,92.4,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,47.0,3.0,MEDIUM,11.0,False,1,True,8.0,19.2,23.6,67.0,False,0.9,91.386,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,48.0,3.0,MEDIUM,12.0,False,1,True,8.0,19.2,23.6,67.0,False,1.3,90.669,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,49.0,3.0,MEDIUM,13.0,False,1,True,8.0,19.2,24.4,68.0,False,1.9,90.353,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,50.0,3.0,MEDIUM,14.0,False,1,True,8.0,19.3,24.4,65.0,False,1.1,90.943,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,51.0,3.0,MEDIUM,15.0,False,1,True,8.0,19.5,24.6,65.0,False,1.5,90.578,False,52,2025,12,British Grand Prix,2025_12
+ALO,Aston Martin,52.0,3.0,MEDIUM,16.0,False,1,True,9.0,19.5,24.6,64.0,False,1.6,92.745,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,126,False,15.0,18.3,24.1,80.0,False,0.9,131.978,True,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,6,False,15.0,18.5,24.5,78.0,False,1.1,137.868,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,671,False,15.0,18.5,24.8,80.0,False,1.2,135.872,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,12,True,15.0,18.7,24.8,75.0,False,1.3,112.993,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,126,False,15.0,18.6,24.9,75.0,False,0.7,118.458,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,6,False,15.0,19.1,25.0,74.0,False,1.5,137.909,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,671,False,15.0,19.1,24.0,73.0,False,2.6,112.542,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,19.2,24.2,75.0,False,1.0,104.73,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,19.2,24.8,74.0,False,0.7,100.941,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,False,13.0,19.0,24.1,74.0,False,0.7,100.092,True,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,11.0,2.0,INTERMEDIATE,1.0,True,1,False,14.0,19.0,24.0,74.0,True,1.2,128.576,True,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,12.0,2.0,INTERMEDIATE,2.0,True,1,True,14.0,18.7,22.5,72.0,True,3.1,108.142,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,13.0,2.0,INTERMEDIATE,3.0,True,124,False,14.0,18.1,21.0,74.0,True,4.5,120.583,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,14.0,2.0,INTERMEDIATE,4.0,True,4,False,14.0,17.4,20.1,78.0,True,5.4,135.37,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,15.0,2.0,INTERMEDIATE,5.0,True,4,False,14.0,16.7,20.0,82.0,True,2.9,142.1,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,16.0,2.0,INTERMEDIATE,6.0,True,4,False,14.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,17.0,2.0,INTERMEDIATE,7.0,True,41,False,14.0,16.1,21.3,85.0,False,1.8,,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,18.0,2.0,INTERMEDIATE,8.0,True,124,False,13.0,16.1,21.7,84.0,False,1.0,130.334,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,19.0,2.0,INTERMEDIATE,9.0,True,4,False,12.0,16.4,23.9,85.0,False,1.5,,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,20.0,2.0,INTERMEDIATE,10.0,True,4,False,13.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,21.0,2.0,INTERMEDIATE,11.0,True,41,False,12.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,22.0,2.0,INTERMEDIATE,12.0,True,12,True,12.0,16.7,23.1,82.0,False,1.9,111.791,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,23.0,2.0,INTERMEDIATE,13.0,True,1,True,12.0,17.0,22.9,80.0,False,2.2,106.291,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,24.0,2.0,INTERMEDIATE,14.0,True,1,True,12.0,17.0,22.9,82.0,False,1.6,104.821,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,25.0,2.0,INTERMEDIATE,15.0,True,1,True,12.0,17.2,22.8,80.0,False,0.9,104.251,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,26.0,2.0,INTERMEDIATE,16.0,True,1,True,12.0,17.2,22.5,80.0,False,1.3,104.13,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,27.0,2.0,INTERMEDIATE,17.0,True,1,True,12.0,17.1,22.5,81.0,False,0.8,103.878,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,28.0,2.0,INTERMEDIATE,18.0,True,1,True,12.0,17.4,22.6,81.0,False,0.7,104.728,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,29.0,2.0,INTERMEDIATE,19.0,True,1,True,12.0,17.5,22.8,82.0,False,1.3,104.472,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,30.0,2.0,INTERMEDIATE,20.0,True,1,True,12.0,17.5,22.4,81.0,False,1.3,104.511,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,31.0,2.0,INTERMEDIATE,21.0,True,1,True,12.0,17.7,22.4,82.0,False,1.7,104.832,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,32.0,2.0,INTERMEDIATE,22.0,True,1,True,12.0,17.9,23.3,80.0,False,1.5,105.187,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,33.0,2.0,INTERMEDIATE,23.0,True,1,True,12.0,18.0,23.6,77.0,False,1.1,104.096,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,34.0,2.0,INTERMEDIATE,24.0,True,1,True,12.0,18.0,23.5,76.0,False,1.2,104.024,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,35.0,2.0,INTERMEDIATE,25.0,True,1,True,11.0,18.2,23.2,74.0,False,0.7,103.415,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,36.0,2.0,INTERMEDIATE,26.0,True,1,True,11.0,18.5,23.2,73.0,False,1.9,102.957,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,37.0,2.0,INTERMEDIATE,27.0,True,1,True,11.0,18.5,23.4,73.0,False,0.6,102.994,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,38.0,2.0,INTERMEDIATE,28.0,True,1,True,10.0,18.5,23.7,72.0,False,1.5,102.457,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,39.0,2.0,INTERMEDIATE,29.0,True,12,True,8.0,18.7,24.1,70.0,False,2.1,101.051,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,40.0,2.0,INTERMEDIATE,30.0,True,1,True,8.0,18.8,23.6,70.0,False,1.5,99.633,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,41.0,2.0,INTERMEDIATE,31.0,True,1,True,8.0,18.9,23.6,68.0,False,2.3,99.616,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,42.0,2.0,INTERMEDIATE,32.0,True,12,False,4.0,19.0,23.5,69.0,False,2.5,102.92,True,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,43.0,3.0,SOFT,4.0,False,12,False,14.0,19.0,22.8,68.0,False,1.1,141.05,True,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,44.0,3.0,SOFT,5.0,False,1,True,14.0,18.9,23.7,68.0,False,2.3,99.076,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,45.0,3.0,SOFT,6.0,False,1,True,14.0,19.1,24.0,66.0,False,1.8,93.731,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,46.0,3.0,SOFT,7.0,False,1,True,14.0,19.1,23.8,66.0,False,2.1,91.961,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,47.0,3.0,SOFT,8.0,False,1,True,14.0,19.2,23.6,67.0,False,0.9,91.557,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,48.0,3.0,SOFT,9.0,False,1,True,14.0,19.2,23.6,67.0,False,1.3,91.274,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,49.0,3.0,SOFT,10.0,False,1,True,14.0,19.2,24.4,68.0,False,1.9,91.17,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,50.0,3.0,SOFT,11.0,False,1,True,14.0,19.3,24.4,65.0,False,1.1,90.819,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,51.0,3.0,SOFT,12.0,False,1,True,14.0,19.5,24.6,65.0,False,1.5,91.24,False,52,2025,12,British Grand Prix,2025_12
+LEC,Ferrari,52.0,3.0,SOFT,13.0,False,1,True,14.0,19.5,24.6,64.0,False,1.6,91.629,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,1.0,1.0,INTERMEDIATE,1.0,True,12,False,12.0,18.3,24.1,80.0,False,0.9,114.213,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,2.0,1.0,INTERMEDIATE,2.0,True,26,False,12.0,18.5,24.5,82.0,False,1.0,139.999,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,True,67,False,11.0,18.5,24.8,80.0,False,1.2,135.927,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,4.0,1.0,INTERMEDIATE,4.0,True,712,False,11.0,18.7,24.8,75.0,False,1.3,106.197,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,5.0,1.0,INTERMEDIATE,5.0,True,126,False,11.0,18.6,24.9,75.0,False,0.7,111.895,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,6.0,1.0,INTERMEDIATE,6.0,True,6,False,8.0,18.8,25.2,77.0,False,1.2,131.987,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,7.0,2.0,SOFT,1.0,True,671,False,12.0,19.1,24.0,73.0,False,2.6,131.823,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,8.0,2.0,SOFT,2.0,True,1,True,12.0,19.2,24.2,75.0,False,1.0,103.353,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,9.0,2.0,SOFT,3.0,True,1,True,11.0,19.2,24.8,74.0,False,0.7,104.912,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,10.0,2.0,SOFT,4.0,True,1,False,5.0,19.2,24.3,72.0,False,1.9,100.708,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,11.0,3.0,INTERMEDIATE,1.0,True,1,False,11.0,19.0,24.0,74.0,True,1.2,126.264,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,12.0,3.0,INTERMEDIATE,2.0,True,1,True,5.0,18.7,22.5,72.0,True,3.1,107.154,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,13.0,3.0,INTERMEDIATE,3.0,True,124,False,4.0,18.1,21.0,74.0,True,4.5,112.134,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,14.0,3.0,INTERMEDIATE,4.0,True,4,False,4.0,17.4,20.1,78.0,True,5.4,138.76,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,15.0,3.0,INTERMEDIATE,5.0,True,4,False,4.0,16.7,20.0,82.0,True,2.9,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,16.0,3.0,INTERMEDIATE,6.0,True,4,False,4.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,17.0,3.0,INTERMEDIATE,7.0,True,41,False,4.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,18.0,3.0,INTERMEDIATE,8.0,True,124,False,4.0,16.1,21.7,84.0,False,1.0,120.917,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,19.0,3.0,INTERMEDIATE,9.0,True,4,False,4.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,20.0,3.0,INTERMEDIATE,10.0,True,4,False,4.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,21.0,3.0,INTERMEDIATE,11.0,True,41,False,3.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,22.0,3.0,INTERMEDIATE,12.0,True,12,True,3.0,16.7,23.1,82.0,False,1.9,108.945,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,23.0,3.0,INTERMEDIATE,13.0,True,1,True,3.0,17.0,22.9,80.0,False,2.2,104.958,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,24.0,3.0,INTERMEDIATE,14.0,True,1,True,3.0,17.0,22.9,82.0,False,1.6,103.673,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,25.0,3.0,INTERMEDIATE,15.0,True,1,True,3.0,17.2,22.8,80.0,False,0.9,103.667,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,26.0,3.0,INTERMEDIATE,16.0,True,1,True,3.0,17.1,22.7,81.0,False,1.2,103.525,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,27.0,3.0,INTERMEDIATE,17.0,True,1,True,3.0,17.1,22.5,81.0,False,0.8,103.329,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,28.0,3.0,INTERMEDIATE,18.0,True,1,True,3.0,17.4,22.6,81.0,False,0.7,103.656,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,29.0,3.0,INTERMEDIATE,19.0,True,1,True,3.0,17.5,22.8,82.0,False,1.3,103.467,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,30.0,3.0,INTERMEDIATE,20.0,True,1,True,3.0,17.5,22.4,81.0,False,1.3,104.094,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,31.0,3.0,INTERMEDIATE,21.0,True,1,True,3.0,17.7,22.4,82.0,False,1.7,104.096,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,32.0,3.0,INTERMEDIATE,22.0,True,1,True,3.0,17.9,23.3,80.0,False,1.5,104.277,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,33.0,3.0,INTERMEDIATE,23.0,True,1,True,3.0,17.9,23.5,80.0,False,0.5,103.803,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,34.0,3.0,INTERMEDIATE,24.0,True,1,True,4.0,18.0,23.5,76.0,False,1.2,104.881,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,35.0,3.0,INTERMEDIATE,25.0,True,1,True,5.0,18.2,23.2,74.0,False,0.7,105.225,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,36.0,3.0,INTERMEDIATE,26.0,True,1,True,5.0,18.5,23.2,73.0,False,1.9,103.139,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,37.0,3.0,INTERMEDIATE,27.0,True,1,True,5.0,18.5,23.2,72.0,False,1.4,102.74,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,38.0,3.0,INTERMEDIATE,28.0,True,1,True,5.0,18.5,23.7,72.0,False,1.5,102.379,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,39.0,3.0,INTERMEDIATE,29.0,True,12,True,5.0,18.7,24.1,70.0,False,2.1,101.939,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,40.0,3.0,INTERMEDIATE,30.0,True,21,True,5.0,18.8,23.6,70.0,False,1.5,102.308,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,41.0,3.0,INTERMEDIATE,31.0,True,1,False,5.0,18.9,23.6,68.0,False,2.3,100.951,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,42.0,4.0,SOFT,1.0,True,12,False,8.0,19.0,23.5,69.0,False,2.5,124.425,True,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,43.0,4.0,SOFT,2.0,True,12,True,5.0,19.0,22.8,68.0,False,1.1,96.611,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,44.0,4.0,SOFT,3.0,True,12,True,5.0,18.9,23.7,68.0,False,2.3,97.279,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,45.0,4.0,SOFT,4.0,True,1,True,5.0,19.0,24.0,67.0,False,2.2,94.035,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,46.0,4.0,SOFT,5.0,True,1,True,5.0,19.1,23.8,66.0,False,2.1,93.059,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,47.0,4.0,SOFT,6.0,True,1,True,5.0,19.2,23.6,67.0,False,1.5,92.273,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,48.0,4.0,SOFT,7.0,True,1,True,5.0,19.2,23.6,67.0,False,1.3,92.132,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,49.0,4.0,SOFT,8.0,True,1,True,5.0,19.1,23.7,67.0,False,1.1,93.17,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,50.0,4.0,SOFT,9.0,True,1,True,5.0,19.3,24.4,65.0,False,1.1,92.088,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,51.0,4.0,SOFT,10.0,True,1,True,6.0,19.4,24.4,64.0,False,1.9,93.653,False,52,2025,12,British Grand Prix,2025_12
+STR,Aston Martin,52.0,4.0,SOFT,11.0,True,1,True,7.0,19.5,24.6,64.0,False,1.6,93.247,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,10.0,18.3,24.1,80.0,False,0.9,112.897,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,26,False,10.0,18.5,24.5,82.0,False,1.0,138.902,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,67,False,9.0,18.5,24.8,80.0,False,1.2,136.524,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,712,False,9.0,18.7,24.8,75.0,False,1.3,106.058,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,126,False,9.0,18.6,24.9,75.0,False,0.7,111.106,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,6,False,10.0,18.8,25.2,77.0,False,1.2,135.867,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,671,False,9.0,19.1,24.0,73.0,False,2.6,122.043,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,9.0,19.2,24.2,75.0,False,1.0,106.957,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,10.0,19.2,24.8,74.0,False,1.1,109.0,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,11.0,19.2,24.3,72.0,False,1.9,110.083,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,1,False,9.0,19.0,24.0,74.0,True,1.2,111.245,True,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,12.0,2.0,INTERMEDIATE,1.0,True,1,False,13.0,18.7,22.5,72.0,True,3.1,128.361,True,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,13.0,2.0,INTERMEDIATE,2.0,True,124,False,13.0,18.1,21.0,74.0,True,4.5,119.762,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,14.0,2.0,INTERMEDIATE,3.0,True,4,False,13.0,17.4,20.1,78.0,True,5.4,133.549,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,15.0,2.0,INTERMEDIATE,4.0,True,4,False,13.0,16.7,20.0,82.0,True,2.9,144.454,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,16.0,2.0,INTERMEDIATE,5.0,True,4,False,13.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,17.0,2.0,INTERMEDIATE,6.0,True,41,False,13.0,16.1,21.3,85.0,False,1.8,,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,18.0,2.0,INTERMEDIATE,7.0,True,124,False,14.0,16.1,21.7,84.0,False,1.0,132.762,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,19.0,2.0,INTERMEDIATE,8.0,True,4,False,13.0,16.4,23.9,85.0,False,1.5,,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,20.0,2.0,INTERMEDIATE,9.0,True,4,False,14.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,21.0,2.0,INTERMEDIATE,10.0,True,41,False,13.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,22.0,2.0,INTERMEDIATE,11.0,True,12,True,14.0,16.7,23.1,82.0,False,1.9,114.618,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,23.0,2.0,INTERMEDIATE,12.0,True,1,True,14.0,17.0,22.9,80.0,False,2.2,107.784,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,24.0,2.0,INTERMEDIATE,13.0,True,1,True,14.0,17.0,22.9,82.0,False,1.6,105.467,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,25.0,2.0,INTERMEDIATE,14.0,True,1,True,14.0,17.2,22.8,80.0,False,0.9,104.662,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,26.0,2.0,INTERMEDIATE,15.0,True,1,True,15.0,17.2,22.5,80.0,False,1.3,106.003,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,27.0,2.0,INTERMEDIATE,16.0,True,1,True,15.0,17.1,22.5,81.0,False,0.8,104.288,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,28.0,2.0,INTERMEDIATE,17.0,True,1,True,15.0,17.4,22.6,81.0,False,0.7,105.522,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,29.0,2.0,INTERMEDIATE,18.0,True,1,True,15.0,17.5,22.8,82.0,False,1.3,104.551,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,30.0,2.0,INTERMEDIATE,19.0,True,1,True,15.0,17.6,22.4,80.0,False,0.8,104.388,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,31.0,2.0,INTERMEDIATE,20.0,True,1,True,15.0,17.7,22.4,82.0,False,1.7,104.794,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,32.0,2.0,INTERMEDIATE,21.0,True,1,True,15.0,17.9,23.3,80.0,False,1.5,104.939,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,33.0,2.0,INTERMEDIATE,22.0,True,1,True,15.0,18.0,23.6,77.0,False,1.1,105.663,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,34.0,2.0,INTERMEDIATE,23.0,True,1,True,15.0,18.0,23.3,73.0,False,1.3,105.52,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,35.0,2.0,INTERMEDIATE,24.0,True,1,True,15.0,18.2,23.2,74.0,False,0.7,105.239,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,36.0,2.0,INTERMEDIATE,25.0,True,1,True,15.0,18.5,23.2,73.0,False,1.9,104.526,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,37.0,2.0,INTERMEDIATE,26.0,True,1,True,15.0,18.5,23.4,73.0,False,0.6,104.616,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,38.0,2.0,INTERMEDIATE,27.0,True,1,True,14.0,18.6,24.5,72.0,False,2.1,104.811,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,39.0,2.0,INTERMEDIATE,28.0,True,12,True,13.0,18.7,24.1,70.0,False,2.1,104.802,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,40.0,2.0,INTERMEDIATE,29.0,True,1,True,13.0,18.8,23.6,70.0,False,1.5,104.432,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,41.0,2.0,INTERMEDIATE,30.0,True,1,False,13.0,18.9,23.6,69.0,False,0.0,103.258,True,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,42.0,3.0,MEDIUM,1.0,True,12,False,15.0,18.9,23.2,68.0,False,1.4,144.066,True,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,43.0,3.0,MEDIUM,2.0,True,21,True,15.0,19.0,23.2,69.0,False,2.0,101.64,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,44.0,3.0,MEDIUM,3.0,True,1,True,15.0,19.0,24.0,67.0,False,2.2,98.597,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,45.0,3.0,MEDIUM,4.0,True,1,True,15.0,19.1,24.0,66.0,False,1.8,95.637,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,46.0,3.0,MEDIUM,5.0,True,1,True,15.0,19.2,23.6,67.0,False,1.5,94.49,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,47.0,3.0,MEDIUM,6.0,True,1,True,15.0,19.2,23.6,67.0,False,0.9,92.976,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,48.0,3.0,MEDIUM,7.0,True,1,True,15.0,19.1,23.7,67.0,False,1.1,91.665,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,49.0,3.0,MEDIUM,8.0,True,1,True,15.0,19.3,24.4,65.0,False,1.1,90.873,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,50.0,3.0,MEDIUM,9.0,True,1,True,15.0,19.4,24.4,64.0,False,1.9,91.649,False,52,2025,12,British Grand Prix,2025_12
+TSU,Red Bull Racing,51.0,3.0,MEDIUM,10.0,True,1,True,15.0,19.5,24.6,64.0,False,1.6,91.565,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,1.0,1.0,INTERMEDIATE,1.0,True,12,False,9.0,18.3,24.1,80.0,False,0.9,112.18,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,2.0,1.0,INTERMEDIATE,2.0,True,26,False,9.0,18.5,24.5,82.0,False,1.0,138.765,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,3.0,1.0,INTERMEDIATE,3.0,True,6,False,8.0,18.5,24.8,80.0,False,1.2,136.656,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,8.0,18.7,24.8,75.0,False,1.3,105.774,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,5.0,1.0,INTERMEDIATE,5.0,True,126,False,8.0,18.6,24.9,75.0,False,0.7,110.861,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,6.0,1.0,INTERMEDIATE,6.0,True,6,False,9.0,18.8,25.2,77.0,False,1.2,136.208,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,7.0,1.0,INTERMEDIATE,7.0,True,671,False,8.0,19.1,24.0,73.0,False,2.6,121.594,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,8.0,1.0,INTERMEDIATE,8.0,True,1,True,8.0,19.2,24.2,75.0,False,1.0,106.496,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,9.0,1.0,INTERMEDIATE,9.0,True,1,True,9.0,19.2,24.8,74.0,False,1.1,108.888,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,10.0,1.0,INTERMEDIATE,10.0,True,1,True,9.0,19.2,24.3,72.0,False,1.9,109.218,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,11.0,1.0,INTERMEDIATE,11.0,True,1,True,8.0,19.0,24.0,74.0,True,1.2,111.991,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,12.0,1.0,INTERMEDIATE,12.0,True,1,False,3.0,18.7,22.5,72.0,True,3.1,109.68,True,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,13.0,2.0,INTERMEDIATE,1.0,True,124,False,12.0,18.1,21.0,74.0,True,4.5,138.76,True,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,14.0,2.0,INTERMEDIATE,2.0,True,4,False,12.0,17.4,20.1,78.0,True,5.4,133.691,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,15.0,2.0,INTERMEDIATE,3.0,True,4,False,12.0,16.7,20.0,82.0,True,2.9,144.808,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,16.0,2.0,INTERMEDIATE,4.0,True,4,False,12.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,17.0,2.0,INTERMEDIATE,5.0,True,41,False,12.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,18.0,2.0,INTERMEDIATE,6.0,True,124,False,12.0,16.1,21.7,84.0,False,1.0,128.671,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,19.0,2.0,INTERMEDIATE,7.0,True,4,False,11.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,20.0,2.0,INTERMEDIATE,8.0,True,4,False,12.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,21.0,2.0,INTERMEDIATE,9.0,True,41,False,11.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,22.0,2.0,INTERMEDIATE,10.0,True,12,True,11.0,16.7,23.1,82.0,False,1.9,111.437,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,23.0,2.0,INTERMEDIATE,11.0,True,1,True,11.0,17.0,22.9,80.0,False,2.2,106.294,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,24.0,2.0,INTERMEDIATE,12.0,True,1,True,11.0,17.0,22.9,82.0,False,1.6,104.946,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,25.0,2.0,INTERMEDIATE,13.0,True,1,True,11.0,17.2,22.8,80.0,False,0.9,104.01,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,26.0,2.0,INTERMEDIATE,14.0,True,1,True,11.0,17.1,22.7,81.0,False,1.2,104.357,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,27.0,2.0,INTERMEDIATE,15.0,True,1,True,11.0,17.1,22.5,81.0,False,0.8,104.082,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,28.0,2.0,INTERMEDIATE,16.0,True,1,True,11.0,17.4,22.6,81.0,False,0.7,104.367,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,29.0,2.0,INTERMEDIATE,17.0,True,1,True,11.0,17.5,22.8,82.0,False,1.3,104.591,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,30.0,2.0,INTERMEDIATE,18.0,True,1,True,11.0,17.5,22.4,81.0,False,1.3,104.618,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,31.0,2.0,INTERMEDIATE,19.0,True,1,True,11.0,17.7,22.4,82.0,False,1.7,104.761,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,32.0,2.0,INTERMEDIATE,20.0,True,1,True,11.0,17.9,23.3,80.0,False,1.5,105.126,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,33.0,2.0,INTERMEDIATE,21.0,True,1,True,11.0,18.0,23.6,77.0,False,1.1,104.063,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,34.0,2.0,INTERMEDIATE,22.0,True,1,True,11.0,18.0,23.5,76.0,False,1.2,104.29,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,35.0,2.0,INTERMEDIATE,23.0,True,1,True,12.0,18.2,23.2,74.0,False,0.7,105.664,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,36.0,2.0,INTERMEDIATE,24.0,True,1,True,12.0,18.5,23.2,73.0,False,1.9,102.965,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,37.0,2.0,INTERMEDIATE,25.0,True,1,True,12.0,18.5,23.4,73.0,False,0.6,102.684,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,38.0,2.0,INTERMEDIATE,26.0,True,1,True,11.0,18.5,23.7,72.0,False,1.5,102.667,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,39.0,2.0,INTERMEDIATE,27.0,True,12,True,10.0,18.7,24.1,70.0,False,2.1,102.701,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,40.0,2.0,INTERMEDIATE,28.0,True,1,True,10.0,18.8,23.6,70.0,False,1.5,102.225,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,41.0,2.0,INTERMEDIATE,29.0,True,1,True,11.0,18.9,23.6,68.0,False,2.3,101.5,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,42.0,2.0,INTERMEDIATE,30.0,True,12,False,5.0,19.0,23.5,69.0,False,2.5,99.22,True,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,43.0,3.0,MEDIUM,1.0,True,12,False,8.0,19.0,22.8,68.0,False,1.1,124.165,True,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,44.0,3.0,MEDIUM,2.0,True,1,True,9.0,18.9,23.7,68.0,False,2.3,95.273,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,45.0,3.0,MEDIUM,3.0,True,1,True,9.0,19.0,24.0,67.0,False,2.2,94.663,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,46.0,3.0,MEDIUM,4.0,True,1,True,9.0,19.1,23.8,66.0,False,2.1,92.681,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,47.0,3.0,MEDIUM,5.0,True,1,True,9.0,19.2,23.6,67.0,False,0.9,91.309,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,48.0,3.0,MEDIUM,6.0,True,1,True,9.0,19.2,23.6,67.0,False,1.3,90.327,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,49.0,3.0,MEDIUM,7.0,True,1,True,9.0,19.2,24.4,68.0,False,1.9,90.148,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,50.0,3.0,MEDIUM,8.0,True,1,True,9.0,19.3,24.4,65.0,False,1.1,90.047,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,51.0,3.0,MEDIUM,9.0,True,1,True,9.0,19.5,24.6,65.0,False,1.5,90.12,False,52,2025,12,British Grand Prix,2025_12
+ALB,Williams,52.0,3.0,MEDIUM,10.0,True,1,True,8.0,19.5,24.6,64.0,False,1.6,90.452,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,1.0,1.0,INTERMEDIATE,1.0,True,12,False,11.0,18.3,24.1,80.0,False,0.9,113.433,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,2.0,1.0,INTERMEDIATE,2.0,True,26,False,11.0,18.5,24.5,82.0,False,1.0,139.63,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,3.0,1.0,INTERMEDIATE,3.0,True,67,False,10.0,18.5,24.8,80.0,False,1.2,135.863,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,4.0,1.0,INTERMEDIATE,4.0,True,712,False,10.0,18.7,24.8,75.0,False,1.3,106.563,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,5.0,1.0,INTERMEDIATE,5.0,True,126,False,10.0,18.6,24.9,75.0,False,0.7,111.575,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,6.0,1.0,INTERMEDIATE,6.0,True,6,False,11.0,18.8,25.2,77.0,False,1.2,136.14,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,7.0,1.0,INTERMEDIATE,7.0,True,671,False,10.0,19.1,24.0,73.0,False,2.6,121.737,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,8.0,1.0,INTERMEDIATE,8.0,True,1,True,10.0,19.2,24.2,75.0,False,1.0,106.517,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,9.0,1.0,INTERMEDIATE,9.0,True,1,False,8.0,19.2,24.8,74.0,False,0.7,105.879,True,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,10.0,2.0,INTERMEDIATE,1.0,True,1,False,16.0,19.2,24.3,72.0,False,1.9,124.672,True,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,11.0,2.0,INTERMEDIATE,2.0,True,1,True,12.0,19.0,24.0,74.0,True,1.2,105.789,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,12.0,2.0,INTERMEDIATE,3.0,True,1,True,6.0,18.7,22.5,72.0,True,3.1,107.347,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,13.0,2.0,INTERMEDIATE,4.0,True,124,False,5.0,18.1,21.0,74.0,True,4.5,113.815,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,14.0,2.0,INTERMEDIATE,5.0,True,4,False,5.0,17.4,20.1,78.0,True,5.4,138.607,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,15.0,2.0,INTERMEDIATE,6.0,True,4,False,5.0,16.7,20.0,82.0,True,2.9,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,16.0,2.0,INTERMEDIATE,7.0,True,4,False,5.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,17.0,2.0,INTERMEDIATE,8.0,True,41,False,5.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,18.0,2.0,INTERMEDIATE,9.0,True,124,False,5.0,16.1,21.7,84.0,False,1.0,124.183,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,19.0,2.0,INTERMEDIATE,10.0,True,4,False,5.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,20.0,2.0,INTERMEDIATE,11.0,True,4,False,5.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,21.0,2.0,INTERMEDIATE,12.0,True,41,False,4.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,22.0,2.0,INTERMEDIATE,13.0,True,12,True,4.0,16.7,23.1,82.0,False,1.9,109.15,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,23.0,2.0,INTERMEDIATE,14.0,True,1,True,4.0,17.0,22.9,80.0,False,2.2,105.226,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,24.0,2.0,INTERMEDIATE,15.0,True,1,True,4.0,17.0,22.9,82.0,False,1.6,103.475,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,25.0,2.0,INTERMEDIATE,16.0,True,1,True,4.0,17.2,22.8,80.0,False,0.9,103.716,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,26.0,2.0,INTERMEDIATE,17.0,True,1,True,4.0,17.1,22.7,81.0,False,1.2,103.905,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,27.0,2.0,INTERMEDIATE,18.0,True,1,True,4.0,17.1,22.5,81.0,False,0.8,103.748,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,28.0,2.0,INTERMEDIATE,19.0,True,1,True,4.0,17.4,22.6,81.0,False,0.7,103.414,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,29.0,2.0,INTERMEDIATE,20.0,True,1,True,4.0,17.5,22.8,82.0,False,1.3,103.643,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,30.0,2.0,INTERMEDIATE,21.0,True,1,True,4.0,17.5,22.4,81.0,False,1.3,103.379,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,31.0,2.0,INTERMEDIATE,22.0,True,1,True,4.0,17.7,22.4,82.0,False,1.7,103.832,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,32.0,2.0,INTERMEDIATE,23.0,True,1,True,4.0,17.9,23.3,80.0,False,1.5,103.946,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,33.0,2.0,INTERMEDIATE,24.0,True,1,True,4.0,17.9,23.5,80.0,False,0.5,103.882,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,34.0,2.0,INTERMEDIATE,25.0,True,1,True,3.0,18.0,23.5,76.0,False,1.2,103.089,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,35.0,2.0,INTERMEDIATE,26.0,True,1,True,3.0,18.2,23.2,74.0,False,0.7,101.463,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,36.0,2.0,INTERMEDIATE,27.0,True,1,True,3.0,18.5,23.2,73.0,False,1.9,101.519,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,37.0,2.0,INTERMEDIATE,28.0,True,1,True,3.0,18.5,23.2,72.0,False,1.4,101.009,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,38.0,2.0,INTERMEDIATE,29.0,True,1,True,3.0,18.5,23.7,72.0,False,1.5,101.023,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,39.0,2.0,INTERMEDIATE,30.0,True,1,True,3.0,18.7,24.1,70.0,False,2.1,100.101,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,40.0,2.0,INTERMEDIATE,31.0,True,12,True,3.0,18.7,23.7,70.0,False,2.0,100.096,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,41.0,2.0,INTERMEDIATE,32.0,True,1,True,3.0,18.9,23.6,68.0,False,2.3,100.716,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,42.0,2.0,INTERMEDIATE,33.0,True,1,False,3.0,19.0,23.5,69.0,False,2.5,98.912,True,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,43.0,3.0,MEDIUM,1.0,True,12,False,3.0,18.9,23.2,68.0,False,1.4,121.259,True,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,44.0,3.0,MEDIUM,2.0,True,12,True,3.0,19.0,23.2,69.0,False,2.0,95.665,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,45.0,3.0,MEDIUM,3.0,True,1,True,3.0,19.0,24.0,67.0,False,2.2,93.473,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,46.0,3.0,MEDIUM,4.0,True,1,True,3.0,19.1,24.0,66.0,False,1.8,92.695,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,47.0,3.0,MEDIUM,5.0,True,1,True,3.0,19.2,23.6,67.0,False,1.5,91.93,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,48.0,3.0,MEDIUM,6.0,True,1,True,3.0,19.2,23.6,67.0,False,1.3,91.468,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,49.0,3.0,MEDIUM,7.0,True,1,True,3.0,19.1,23.7,67.0,False,1.1,91.081,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,50.0,3.0,MEDIUM,8.0,True,1,True,3.0,19.3,24.4,65.0,False,1.1,90.983,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,51.0,3.0,MEDIUM,9.0,True,1,True,3.0,19.4,24.4,64.0,False,1.9,90.933,False,52,2025,12,British Grand Prix,2025_12
+HUL,Kick Sauber,52.0,3.0,MEDIUM,10.0,True,1,True,3.0,19.5,24.6,64.0,False,1.6,91.705,False,52,2025,12,British Grand Prix,2025_12
+LAW,Racing Bulls,1.0,1.0,INTERMEDIATE,1.0,True,12,False,,18.3,24.1,80.0,False,0.9,,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,True,12,False,13.0,18.3,24.1,80.0,False,0.9,114.646,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,2.0,1.0,INTERMEDIATE,2.0,True,26,False,13.0,18.5,24.5,82.0,False,1.0,140.933,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,3.0,1.0,INTERMEDIATE,3.0,True,67,False,12.0,18.5,24.8,80.0,False,1.2,135.573,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,4.0,1.0,INTERMEDIATE,4.0,True,712,False,12.0,18.7,24.8,75.0,False,1.3,106.266,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,5.0,1.0,INTERMEDIATE,5.0,True,126,False,12.0,18.6,24.9,75.0,False,0.7,112.165,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,6.0,1.0,INTERMEDIATE,6.0,True,6,False,12.0,18.8,25.2,77.0,False,1.2,135.737,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,7.0,1.0,INTERMEDIATE,7.0,True,671,False,11.0,19.1,24.0,73.0,False,2.6,121.435,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,8.0,1.0,INTERMEDIATE,8.0,True,1,True,11.0,19.2,24.2,75.0,False,1.0,107.293,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,9.0,1.0,INTERMEDIATE,9.0,True,1,True,12.0,19.2,24.8,74.0,False,0.7,109.361,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,10.0,1.0,INTERMEDIATE,10.0,True,1,True,12.0,19.2,24.3,72.0,False,1.9,109.77,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,11.0,1.0,INTERMEDIATE,11.0,True,1,True,10.0,19.0,24.0,74.0,True,1.2,111.866,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,12.0,1.0,INTERMEDIATE,12.0,True,1,True,7.0,18.7,22.5,72.0,True,3.1,110.786,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,13.0,1.0,INTERMEDIATE,13.0,True,124,False,7.0,18.1,21.0,74.0,True,4.5,120.169,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,14.0,1.0,INTERMEDIATE,14.0,True,4,False,7.0,17.4,20.1,78.0,True,5.4,136.497,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,15.0,1.0,INTERMEDIATE,15.0,True,4,False,7.0,16.7,20.0,82.0,True,2.9,147.377,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,16.0,1.0,INTERMEDIATE,16.0,True,4,False,7.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,17.0,1.0,INTERMEDIATE,17.0,True,41,False,7.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,18.0,1.0,INTERMEDIATE,18.0,True,124,False,6.0,16.1,21.7,84.0,False,1.0,123.452,True,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,19.0,2.0,INTERMEDIATE,1.0,True,4,False,16.0,16.2,22.8,84.0,False,1.1,,True,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,20.0,2.0,INTERMEDIATE,2.0,True,4,False,16.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,21.0,2.0,INTERMEDIATE,3.0,True,41,False,15.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,22.0,2.0,INTERMEDIATE,4.0,True,12,True,13.0,16.7,23.1,82.0,False,1.9,112.94,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,23.0,2.0,INTERMEDIATE,5.0,True,1,True,13.0,17.0,22.9,80.0,False,2.2,105.993,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,24.0,2.0,INTERMEDIATE,6.0,True,1,True,13.0,17.0,22.9,82.0,False,1.6,104.602,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,25.0,2.0,INTERMEDIATE,7.0,True,1,True,13.0,17.2,22.8,80.0,False,0.9,104.235,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,26.0,2.0,INTERMEDIATE,8.0,True,1,True,13.0,17.2,22.5,80.0,False,1.3,104.236,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,27.0,2.0,INTERMEDIATE,9.0,True,1,True,13.0,17.1,22.5,81.0,False,0.8,103.925,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,28.0,2.0,INTERMEDIATE,10.0,True,1,True,13.0,17.4,22.6,81.0,False,0.7,104.874,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,29.0,2.0,INTERMEDIATE,11.0,True,1,True,13.0,17.5,22.8,82.0,False,1.3,105.498,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,30.0,2.0,INTERMEDIATE,12.0,True,1,True,14.0,17.6,22.4,80.0,False,0.8,106.803,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,31.0,2.0,INTERMEDIATE,13.0,True,1,True,14.0,17.7,22.4,82.0,False,1.7,104.509,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,32.0,2.0,INTERMEDIATE,14.0,True,1,True,14.0,17.9,23.3,80.0,False,1.5,103.911,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,33.0,2.0,INTERMEDIATE,15.0,True,1,True,14.0,18.0,23.6,77.0,False,1.1,103.97,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,34.0,2.0,INTERMEDIATE,16.0,True,1,True,14.0,18.0,23.3,73.0,False,1.3,104.039,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,35.0,2.0,INTERMEDIATE,17.0,True,1,True,14.0,18.2,23.2,74.0,False,0.7,103.436,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,36.0,2.0,INTERMEDIATE,18.0,True,1,True,14.0,18.5,23.2,73.0,False,1.9,102.888,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,37.0,2.0,INTERMEDIATE,19.0,True,1,True,14.0,18.5,23.4,73.0,False,0.6,102.966,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,38.0,2.0,INTERMEDIATE,20.0,True,1,True,13.0,18.5,23.7,72.0,False,1.5,102.672,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,39.0,2.0,INTERMEDIATE,21.0,True,12,True,12.0,18.7,24.1,70.0,False,2.1,102.059,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,40.0,2.0,INTERMEDIATE,22.0,True,1,True,12.0,18.8,23.6,70.0,False,1.5,101.975,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,41.0,2.0,INTERMEDIATE,23.0,True,1,True,12.0,18.9,23.6,69.0,False,0.0,102.031,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,42.0,2.0,INTERMEDIATE,24.0,True,12,False,7.0,19.0,23.5,69.0,False,2.5,99.944,True,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,43.0,3.0,MEDIUM,1.0,True,12,False,13.0,19.0,22.8,68.0,False,1.1,132.286,True,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,44.0,3.0,MEDIUM,2.0,True,1,True,13.0,18.9,23.7,68.0,False,2.3,96.001,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,45.0,3.0,MEDIUM,3.0,True,1,True,13.0,19.1,24.0,66.0,False,1.8,92.673,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,46.0,3.0,MEDIUM,4.0,True,1,True,13.0,19.1,23.8,66.0,False,2.1,92.56,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,47.0,3.0,MEDIUM,5.0,True,1,True,13.0,19.2,23.6,67.0,False,0.9,91.422,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,48.0,3.0,MEDIUM,6.0,True,1,True,13.0,19.2,23.6,67.0,False,1.3,90.823,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,49.0,3.0,MEDIUM,7.0,True,1,True,13.0,19.2,24.4,68.0,False,1.9,90.948,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,50.0,3.0,MEDIUM,8.0,True,1,True,13.0,19.3,24.4,65.0,False,1.1,91.216,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,51.0,3.0,MEDIUM,9.0,True,1,True,13.0,19.5,24.6,65.0,False,1.5,91.029,False,52,2025,12,British Grand Prix,2025_12
+OCO,Haas F1 Team,52.0,3.0,MEDIUM,10.0,True,1,True,13.0,19.5,24.6,64.0,False,1.6,90.818,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,1.0,1.0,INTERMEDIATE,1.0,True,12,False,3.0,18.3,24.1,80.0,False,0.9,108.196,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,2.0,1.0,INTERMEDIATE,2.0,True,26,False,3.0,18.5,24.5,82.0,False,1.0,136.245,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,3.0,1.0,INTERMEDIATE,3.0,True,6,False,3.0,18.4,24.5,80.0,False,1.5,137.443,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,3.0,18.7,24.8,75.0,False,1.3,105.751,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,5.0,1.0,INTERMEDIATE,5.0,True,126,False,3.0,18.6,24.9,75.0,False,0.9,105.033,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,6.0,1.0,INTERMEDIATE,6.0,True,6,False,3.0,18.8,25.2,77.0,False,1.2,139.233,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,7.0,1.0,INTERMEDIATE,7.0,True,671,False,3.0,19.1,24.0,73.0,False,2.6,123.224,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,8.0,1.0,INTERMEDIATE,8.0,True,1,True,3.0,19.2,24.2,75.0,False,1.0,104.869,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,9.0,1.0,INTERMEDIATE,9.0,True,1,True,3.0,19.2,24.8,74.0,False,1.1,105.595,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,10.0,1.0,INTERMEDIATE,10.0,True,1,True,3.0,19.2,24.3,72.0,False,1.9,105.857,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,11.0,1.0,INTERMEDIATE,11.0,True,1,False,2.0,19.0,24.0,74.0,True,1.2,107.735,True,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,12.0,2.0,INTERMEDIATE,1.0,True,1,False,4.0,18.7,22.5,72.0,True,3.1,130.451,True,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,13.0,2.0,INTERMEDIATE,2.0,True,12,True,3.0,18.1,21.0,74.0,True,4.5,109.605,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,14.0,2.0,INTERMEDIATE,3.0,True,14,False,3.0,17.4,20.1,78.0,True,5.4,138.86,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,15.0,2.0,INTERMEDIATE,4.0,True,4,False,3.0,16.7,20.0,82.0,True,2.9,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,16.0,2.0,INTERMEDIATE,5.0,True,4,False,3.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,17.0,2.0,INTERMEDIATE,6.0,True,41,False,3.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,18.0,2.0,INTERMEDIATE,7.0,True,124,False,3.0,16.1,21.7,84.0,False,1.0,119.824,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,19.0,2.0,INTERMEDIATE,8.0,True,4,False,3.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,20.0,2.0,INTERMEDIATE,9.0,True,4,False,3.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,21.0,2.0,INTERMEDIATE,10.0,True,41,False,2.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,22.0,2.0,INTERMEDIATE,11.0,True,12,True,2.0,16.7,23.1,82.0,False,1.9,105.339,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,23.0,2.0,INTERMEDIATE,12.0,True,1,True,2.0,17.0,22.9,80.0,False,2.2,102.383,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,24.0,2.0,INTERMEDIATE,13.0,True,1,True,2.0,17.0,22.9,82.0,False,1.6,101.834,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,25.0,2.0,INTERMEDIATE,14.0,True,1,True,2.0,17.1,22.9,80.0,False,1.8,102.017,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,26.0,2.0,INTERMEDIATE,15.0,True,1,True,2.0,17.1,22.7,81.0,False,1.2,102.004,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,27.0,2.0,INTERMEDIATE,16.0,True,1,True,2.0,17.1,22.5,81.0,False,0.8,102.096,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,28.0,2.0,INTERMEDIATE,17.0,True,1,True,2.0,17.4,22.6,81.0,False,0.7,102.362,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,29.0,2.0,INTERMEDIATE,18.0,True,1,True,2.0,17.4,22.8,82.0,False,0.8,102.634,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,30.0,2.0,INTERMEDIATE,19.0,True,1,True,2.0,17.5,22.4,81.0,False,1.3,102.403,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,31.0,2.0,INTERMEDIATE,20.0,True,1,True,2.0,17.7,22.4,82.0,False,1.7,102.087,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,32.0,2.0,INTERMEDIATE,21.0,True,1,True,2.0,17.7,23.0,80.0,False,1.1,101.925,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,33.0,2.0,INTERMEDIATE,22.0,True,1,True,2.0,17.9,23.5,80.0,False,0.5,101.411,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,34.0,2.0,INTERMEDIATE,23.0,True,1,True,2.0,18.0,23.5,76.0,False,1.2,101.136,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,35.0,2.0,INTERMEDIATE,24.0,True,1,True,2.0,18.0,23.3,73.0,False,1.3,101.103,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,36.0,2.0,INTERMEDIATE,25.0,True,1,True,2.0,18.3,23.3,74.0,False,0.9,100.71,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,37.0,2.0,INTERMEDIATE,26.0,True,1,True,2.0,18.5,23.2,72.0,False,1.4,100.803,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,38.0,2.0,INTERMEDIATE,27.0,True,1,True,2.0,18.5,23.4,73.0,False,0.6,99.668,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,39.0,2.0,INTERMEDIATE,28.0,True,1,True,2.0,18.6,24.5,72.0,False,2.1,99.55,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,40.0,2.0,INTERMEDIATE,29.0,True,12,True,2.0,18.7,23.7,70.0,False,2.0,99.286,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,41.0,2.0,INTERMEDIATE,30.0,True,1,True,2.0,18.8,23.6,70.0,False,1.5,99.297,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,42.0,2.0,INTERMEDIATE,31.0,True,1,True,2.0,18.9,23.6,69.0,False,0.0,98.778,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,43.0,2.0,INTERMEDIATE,32.0,True,12,True,2.0,18.9,23.2,68.0,False,1.4,99.005,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,44.0,2.0,INTERMEDIATE,33.0,True,12,False,1.0,19.0,22.8,68.0,False,1.1,98.903,True,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,45.0,3.0,MEDIUM,1.0,True,1,False,1.0,18.9,23.7,68.0,False,2.3,117.948,True,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,46.0,3.0,MEDIUM,2.0,True,1,True,1.0,19.1,24.0,66.0,False,1.8,91.777,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,47.0,3.0,MEDIUM,3.0,True,1,True,1.0,19.2,23.6,67.0,False,1.5,90.035,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,48.0,3.0,MEDIUM,4.0,True,1,True,1.0,19.2,23.6,67.0,False,0.9,89.734,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,49.0,3.0,MEDIUM,5.0,True,1,True,1.0,19.1,23.7,67.0,False,1.1,90.235,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,50.0,3.0,MEDIUM,6.0,True,1,True,1.0,19.2,24.4,68.0,False,1.9,89.921,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,51.0,3.0,MEDIUM,7.0,True,1,True,1.0,19.4,24.4,64.0,False,1.9,90.269,False,52,2025,12,British Grand Prix,2025_12
+NOR,McLaren,52.0,3.0,MEDIUM,8.0,True,1,True,1.0,19.5,24.6,65.0,False,1.5,90.69,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,1.0,1.0,INTERMEDIATE,1.0,True,12,False,4.0,18.3,24.1,80.0,False,0.9,108.827,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,2.0,1.0,INTERMEDIATE,2.0,True,26,False,5.0,18.5,24.5,82.0,False,1.0,137.611,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,3.0,1.0,INTERMEDIATE,3.0,True,6,False,4.0,18.4,24.5,80.0,False,1.5,136.362,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,4.0,18.7,24.8,75.0,False,1.3,106.333,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,5.0,1.0,INTERMEDIATE,5.0,True,126,False,4.0,18.6,24.9,75.0,False,0.9,107.677,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,6.0,1.0,INTERMEDIATE,6.0,True,6,False,4.0,18.8,25.2,77.0,False,1.2,136.745,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,7.0,1.0,INTERMEDIATE,7.0,True,671,False,4.0,19.1,24.0,73.0,False,2.6,124.009,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,8.0,1.0,INTERMEDIATE,8.0,True,1,True,4.0,19.2,24.2,75.0,False,1.0,106.102,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,9.0,1.0,INTERMEDIATE,9.0,True,1,True,4.0,19.2,24.8,74.0,False,1.1,108.049,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,10.0,1.0,INTERMEDIATE,10.0,True,1,True,4.0,19.2,24.3,72.0,False,1.9,108.242,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,11.0,1.0,INTERMEDIATE,11.0,True,1,False,4.0,19.0,24.0,74.0,True,1.2,109.484,True,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,12.0,2.0,INTERMEDIATE,1.0,True,1,False,8.0,18.7,22.5,72.0,True,3.1,127.044,True,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,13.0,2.0,INTERMEDIATE,2.0,True,124,False,8.0,18.1,21.0,74.0,True,4.5,120.754,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,14.0,2.0,INTERMEDIATE,3.0,True,4,False,8.0,17.4,20.1,78.0,True,5.4,136.623,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,15.0,2.0,INTERMEDIATE,4.0,True,4,False,8.0,16.7,20.0,82.0,True,2.9,146.802,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,16.0,2.0,INTERMEDIATE,5.0,True,4,False,8.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,17.0,2.0,INTERMEDIATE,6.0,True,41,False,8.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,18.0,2.0,INTERMEDIATE,7.0,True,124,False,8.0,16.1,21.7,84.0,False,1.0,124.321,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,19.0,2.0,INTERMEDIATE,8.0,True,4,False,7.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,20.0,2.0,INTERMEDIATE,9.0,True,4,False,8.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,21.0,2.0,INTERMEDIATE,10.0,True,41,False,6.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,22.0,2.0,INTERMEDIATE,11.0,True,12,True,6.0,16.7,23.1,82.0,False,1.9,110.026,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,23.0,2.0,INTERMEDIATE,12.0,True,1,True,6.0,17.0,22.9,80.0,False,2.2,105.518,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,24.0,2.0,INTERMEDIATE,13.0,True,1,True,7.0,17.0,22.9,82.0,False,1.6,105.853,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,25.0,2.0,INTERMEDIATE,14.0,True,1,True,7.0,17.2,22.8,80.0,False,0.9,103.72,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,26.0,2.0,INTERMEDIATE,15.0,True,1,True,6.0,17.1,22.7,81.0,False,1.2,103.735,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,27.0,2.0,INTERMEDIATE,16.0,True,1,True,6.0,17.1,22.5,81.0,False,0.8,102.922,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,28.0,2.0,INTERMEDIATE,17.0,True,1,True,6.0,17.4,22.6,81.0,False,0.7,103.668,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,29.0,2.0,INTERMEDIATE,18.0,True,1,True,5.0,17.5,22.8,82.0,False,1.3,103.851,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,30.0,2.0,INTERMEDIATE,19.0,True,1,True,5.0,17.5,22.4,81.0,False,1.3,103.57,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,31.0,2.0,INTERMEDIATE,20.0,True,1,True,5.0,17.7,22.4,82.0,False,1.7,103.59,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,32.0,2.0,INTERMEDIATE,21.0,True,1,True,5.0,17.9,23.3,80.0,False,1.5,103.029,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,33.0,2.0,INTERMEDIATE,22.0,True,1,True,5.0,17.9,23.5,80.0,False,0.5,102.567,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,34.0,2.0,INTERMEDIATE,23.0,True,1,True,5.0,18.0,23.5,76.0,False,1.2,103.044,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,35.0,2.0,INTERMEDIATE,24.0,True,1,True,4.0,18.2,23.2,74.0,False,0.7,101.444,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,36.0,2.0,INTERMEDIATE,25.0,True,1,True,4.0,18.5,23.2,73.0,False,1.9,101.354,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,37.0,2.0,INTERMEDIATE,26.0,True,1,True,4.0,18.5,23.2,72.0,False,1.4,100.507,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,38.0,2.0,INTERMEDIATE,27.0,True,1,True,4.0,18.5,23.7,72.0,False,1.5,101.149,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,39.0,2.0,INTERMEDIATE,28.0,True,1,True,4.0,18.7,24.1,70.0,False,2.1,100.836,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,40.0,2.0,INTERMEDIATE,29.0,True,12,True,4.0,18.7,23.7,70.0,False,2.0,100.697,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,41.0,2.0,INTERMEDIATE,30.0,True,1,False,4.0,18.9,23.6,68.0,False,2.3,99.553,True,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,42.0,3.0,SOFT,4.0,False,12,False,6.0,19.0,23.5,69.0,False,2.5,129.772,True,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,43.0,3.0,SOFT,5.0,False,12,True,4.0,19.0,22.8,68.0,False,1.1,96.929,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,44.0,3.0,SOFT,6.0,False,12,True,4.0,19.0,23.2,69.0,False,2.0,94.874,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,45.0,3.0,SOFT,7.0,False,1,True,4.0,19.0,24.0,67.0,False,2.2,93.938,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,46.0,3.0,SOFT,8.0,False,1,True,4.0,19.1,23.8,66.0,False,2.1,91.328,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,47.0,3.0,SOFT,9.0,False,1,True,4.0,19.2,23.6,67.0,False,1.5,93.108,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,48.0,3.0,SOFT,10.0,False,1,True,4.0,19.2,23.6,67.0,False,1.3,90.785,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,49.0,3.0,SOFT,11.0,False,1,True,4.0,19.1,23.7,67.0,False,1.1,90.016,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,50.0,3.0,SOFT,12.0,False,1,True,4.0,19.3,24.4,65.0,False,1.1,90.775,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,51.0,3.0,SOFT,13.0,False,1,True,4.0,19.4,24.4,64.0,False,1.9,90.664,False,52,2025,12,British Grand Prix,2025_12
+HAM,Ferrari,52.0,3.0,SOFT,14.0,False,1,True,4.0,19.5,24.6,64.0,False,1.6,91.662,False,52,2025,12,British Grand Prix,2025_12
+BOR,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,126,False,17.0,18.3,24.1,80.0,False,0.9,135.202,True,52,2025,12,British Grand Prix,2025_12
+BOR,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,6,False,17.0,18.5,24.5,78.0,False,1.1,137.78,False,52,2025,12,British Grand Prix,2025_12
+BOR,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,671,False,17.0,18.5,24.8,80.0,False,1.2,136.121,False,52,2025,12,British Grand Prix,2025_12
+BOR,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,12,False,,18.7,24.8,75.0,False,1.3,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,1.0,1.0,INTERMEDIATE,1.0,True,12,False,7.0,18.3,24.1,80.0,False,0.9,111.254,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,2.0,1.0,INTERMEDIATE,2.0,True,26,False,8.0,18.5,24.5,82.0,False,1.0,138.077,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,3.0,1.0,INTERMEDIATE,3.0,True,6,False,7.0,18.4,24.5,80.0,False,1.5,137.24,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,7.0,18.7,24.8,75.0,False,1.3,106.016,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,5.0,1.0,INTERMEDIATE,5.0,True,126,False,7.0,18.6,24.9,75.0,False,0.7,110.644,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,6.0,1.0,INTERMEDIATE,6.0,True,6,False,7.0,18.8,25.2,77.0,False,1.2,135.577,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,7.0,1.0,INTERMEDIATE,7.0,True,671,False,7.0,19.1,24.0,73.0,False,2.6,122.205,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,8.0,1.0,INTERMEDIATE,8.0,True,1,True,7.0,19.2,24.2,75.0,False,1.0,106.227,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,9.0,1.0,INTERMEDIATE,9.0,True,1,True,7.0,19.2,24.8,74.0,False,1.1,107.819,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,10.0,1.0,INTERMEDIATE,10.0,True,1,True,8.0,19.2,24.3,72.0,False,1.9,108.531,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,11.0,1.0,INTERMEDIATE,11.0,True,1,False,7.0,19.0,24.0,74.0,True,1.2,109.688,True,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,12.0,2.0,INTERMEDIATE,1.0,True,1,False,12.0,18.7,22.5,72.0,True,3.1,128.134,True,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,13.0,2.0,INTERMEDIATE,2.0,True,124,False,11.0,18.1,21.0,74.0,True,4.5,123.101,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,14.0,2.0,INTERMEDIATE,3.0,True,4,False,11.0,17.4,20.1,78.0,True,5.4,135.643,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,15.0,2.0,INTERMEDIATE,4.0,True,4,False,11.0,16.7,20.0,82.0,True,2.9,144.702,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,16.0,2.0,INTERMEDIATE,5.0,True,4,False,11.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,17.0,2.0,INTERMEDIATE,6.0,True,41,False,11.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,18.0,2.0,INTERMEDIATE,7.0,True,124,False,11.0,16.1,21.7,84.0,False,1.0,128.665,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,19.0,2.0,INTERMEDIATE,8.0,True,4,False,10.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,20.0,2.0,INTERMEDIATE,9.0,True,4,False,11.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,21.0,2.0,INTERMEDIATE,10.0,True,41,False,9.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,22.0,2.0,INTERMEDIATE,11.0,True,12,True,9.0,16.7,23.1,82.0,False,1.9,110.697,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,23.0,2.0,INTERMEDIATE,12.0,True,1,True,9.0,17.0,22.9,80.0,False,2.2,105.893,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,24.0,2.0,INTERMEDIATE,13.0,True,1,True,9.0,17.0,22.9,82.0,False,1.6,104.859,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,25.0,2.0,INTERMEDIATE,14.0,True,1,True,9.0,17.2,22.8,80.0,False,0.9,104.229,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,26.0,2.0,INTERMEDIATE,15.0,True,1,True,9.0,17.1,22.7,81.0,False,1.2,104.287,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,27.0,2.0,INTERMEDIATE,16.0,True,1,True,9.0,17.1,22.5,81.0,False,0.8,103.772,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,28.0,2.0,INTERMEDIATE,17.0,True,1,True,9.0,17.4,22.6,81.0,False,0.7,104.265,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,29.0,2.0,INTERMEDIATE,18.0,True,1,True,9.0,17.5,22.8,82.0,False,1.3,104.379,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,30.0,2.0,INTERMEDIATE,19.0,True,1,True,9.0,17.5,22.4,81.0,False,1.3,104.712,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,31.0,2.0,INTERMEDIATE,20.0,True,1,True,9.0,17.7,22.4,82.0,False,1.7,104.747,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,32.0,2.0,INTERMEDIATE,21.0,True,1,True,9.0,17.9,23.3,80.0,False,1.5,105.107,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,33.0,2.0,INTERMEDIATE,22.0,True,1,True,9.0,18.0,23.6,77.0,False,1.1,104.414,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,34.0,2.0,INTERMEDIATE,23.0,True,1,True,10.0,18.0,23.5,76.0,False,1.2,105.146,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,35.0,2.0,INTERMEDIATE,24.0,True,1,True,10.0,18.2,23.2,74.0,False,0.7,104.475,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,36.0,2.0,INTERMEDIATE,25.0,True,1,True,10.0,18.5,23.2,73.0,False,1.9,103.152,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,37.0,2.0,INTERMEDIATE,26.0,True,1,True,10.0,18.5,23.4,73.0,False,0.6,103.057,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,38.0,2.0,INTERMEDIATE,27.0,True,1,True,9.0,18.5,23.7,72.0,False,1.5,102.692,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,39.0,2.0,INTERMEDIATE,28.0,True,12,True,9.0,18.7,24.1,70.0,False,2.1,103.891,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,40.0,2.0,INTERMEDIATE,29.0,True,1,True,9.0,18.8,23.6,70.0,False,1.5,102.143,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,41.0,2.0,INTERMEDIATE,30.0,True,1,False,9.0,18.9,23.6,68.0,False,2.3,100.264,True,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,42.0,3.0,MEDIUM,1.0,True,12,False,11.0,19.0,23.5,69.0,False,2.5,124.071,True,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,43.0,3.0,MEDIUM,2.0,True,12,True,12.0,19.0,22.8,68.0,False,1.1,107.371,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,44.0,3.0,MEDIUM,3.0,True,1,True,12.0,18.9,23.7,68.0,False,2.3,96.504,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,45.0,3.0,MEDIUM,4.0,True,1,True,12.0,19.1,24.0,66.0,False,1.8,93.517,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,46.0,3.0,MEDIUM,5.0,True,1,True,12.0,19.1,23.8,66.0,False,2.1,94.08,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,47.0,3.0,MEDIUM,6.0,True,1,True,12.0,19.2,23.6,67.0,False,0.9,91.822,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,48.0,3.0,MEDIUM,7.0,True,1,True,12.0,19.2,23.6,67.0,False,1.3,91.07,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,49.0,3.0,MEDIUM,8.0,True,1,True,12.0,19.2,24.4,68.0,False,1.9,90.952,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,50.0,3.0,MEDIUM,9.0,True,1,True,12.0,19.3,24.4,65.0,False,1.1,91.965,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,51.0,3.0,MEDIUM,10.0,True,1,True,12.0,19.5,24.6,65.0,False,1.5,91.017,False,52,2025,12,British Grand Prix,2025_12
+SAI,Williams,52.0,3.0,MEDIUM,11.0,True,1,True,12.0,19.5,24.6,64.0,False,1.6,90.645,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,1.0,1.0,MEDIUM,1.0,True,126,False,16.0,18.3,24.1,80.0,False,0.9,133.171,True,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,2.0,1.0,MEDIUM,2.0,True,6,False,16.0,18.5,24.5,78.0,False,1.1,138.715,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,3.0,1.0,MEDIUM,3.0,True,671,False,16.0,18.5,24.8,80.0,False,1.2,135.981,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,4.0,1.0,MEDIUM,4.0,True,12,True,16.0,18.7,24.8,75.0,False,1.3,113.542,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,5.0,1.0,MEDIUM,5.0,True,126,False,16.0,18.6,24.9,75.0,False,0.7,119.848,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,6.0,1.0,MEDIUM,6.0,True,6,False,16.0,19.1,25.0,74.0,False,1.5,137.761,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,7.0,1.0,MEDIUM,7.0,True,671,False,16.0,19.1,24.0,73.0,False,2.6,111.751,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,19.2,24.2,75.0,False,1.0,103.759,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,19.2,24.8,74.0,False,0.7,101.705,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,10.0,1.0,MEDIUM,10.0,True,1,False,14.0,19.0,24.1,74.0,False,0.7,102.691,True,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,11.0,2.0,INTERMEDIATE,1.0,True,1,False,16.0,19.0,24.0,74.0,True,1.2,129.977,True,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,12.0,2.0,INTERMEDIATE,2.0,True,1,True,16.0,18.7,22.5,72.0,True,3.1,108.339,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,13.0,2.0,INTERMEDIATE,3.0,True,124,False,16.0,18.1,21.0,74.0,True,4.5,117.216,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,14.0,2.0,INTERMEDIATE,4.0,True,4,False,16.0,17.4,20.1,78.0,True,5.4,136.377,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,15.0,2.0,INTERMEDIATE,5.0,True,4,False,16.0,16.5,20.2,83.0,True,3.0,139.641,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,16.0,2.0,INTERMEDIATE,6.0,True,4,False,16.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,17.0,2.0,INTERMEDIATE,7.0,True,41,False,16.0,16.1,21.3,85.0,False,1.8,,False,52,2025,12,British Grand Prix,2025_12
+HAD,Racing Bulls,18.0,2.0,INTERMEDIATE,8.0,True,124,False,,16.1,21.7,84.0,False,1.0,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,1.0,1.0,HARD,1.0,True,126,False,14.0,18.3,24.1,80.0,False,0.9,130.567,True,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,2.0,1.0,HARD,2.0,True,6,False,14.0,18.5,24.5,82.0,False,1.0,136.938,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,3.0,1.0,HARD,3.0,True,671,False,14.0,18.5,24.8,80.0,False,1.2,136.427,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,4.0,1.0,HARD,4.0,True,12,True,14.0,18.7,24.8,75.0,False,1.3,111.418,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,5.0,1.0,HARD,5.0,True,126,False,13.0,18.6,24.9,75.0,False,0.7,115.425,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,6.0,1.0,HARD,6.0,True,6,False,13.0,19.1,25.0,74.0,False,1.5,137.488,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,7.0,1.0,HARD,7.0,True,671,False,13.0,19.1,24.0,73.0,False,2.6,113.675,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,8.0,1.0,HARD,8.0,True,1,True,13.0,19.2,24.2,75.0,False,1.0,101.287,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,9.0,1.0,HARD,9.0,True,1,True,13.0,19.2,24.8,74.0,False,0.7,101.503,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,10.0,1.0,HARD,10.0,True,1,False,10.0,19.2,24.3,72.0,False,1.9,102.417,True,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,11.0,2.0,INTERMEDIATE,1.0,True,1,False,13.0,19.0,24.0,74.0,True,1.2,124.881,True,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,12.0,2.0,INTERMEDIATE,2.0,True,1,True,11.0,18.7,22.5,72.0,True,3.1,107.571,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,13.0,2.0,INTERMEDIATE,3.0,True,124,False,9.0,18.1,21.0,74.0,True,4.5,119.779,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,14.0,2.0,INTERMEDIATE,4.0,True,4,False,9.0,17.4,20.1,78.0,True,5.4,137.864,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,15.0,2.0,INTERMEDIATE,5.0,True,4,False,9.0,16.7,20.0,82.0,True,2.9,144.561,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,16.0,2.0,INTERMEDIATE,6.0,True,4,False,9.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,17.0,2.0,INTERMEDIATE,7.0,True,41,False,9.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,18.0,2.0,INTERMEDIATE,8.0,True,124,False,9.0,16.1,21.7,84.0,False,1.0,125.399,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,19.0,2.0,INTERMEDIATE,9.0,True,4,False,8.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,20.0,2.0,INTERMEDIATE,10.0,True,4,False,9.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,21.0,2.0,INTERMEDIATE,11.0,True,41,False,7.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,22.0,2.0,INTERMEDIATE,12.0,True,12,True,7.0,16.7,23.1,82.0,False,1.9,110.251,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,23.0,2.0,INTERMEDIATE,13.0,True,1,True,7.0,17.0,22.9,80.0,False,2.2,105.37,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,24.0,2.0,INTERMEDIATE,14.0,True,1,True,6.0,17.0,22.9,82.0,False,1.6,104.023,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,25.0,2.0,INTERMEDIATE,15.0,True,1,True,6.0,17.2,22.8,80.0,False,0.9,104.303,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,26.0,2.0,INTERMEDIATE,16.0,True,1,True,7.0,17.1,22.7,81.0,False,1.2,104.89,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,27.0,2.0,INTERMEDIATE,17.0,True,1,True,7.0,17.1,22.5,81.0,False,0.8,103.854,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,28.0,2.0,INTERMEDIATE,18.0,True,1,True,7.0,17.4,22.6,81.0,False,0.7,103.669,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,29.0,2.0,INTERMEDIATE,19.0,True,1,True,7.0,17.5,22.8,82.0,False,1.3,103.869,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,30.0,2.0,INTERMEDIATE,20.0,True,1,True,7.0,17.5,22.4,81.0,False,1.3,104.714,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,31.0,2.0,INTERMEDIATE,21.0,True,1,True,7.0,17.7,22.4,82.0,False,1.7,104.706,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,32.0,2.0,INTERMEDIATE,22.0,True,1,True,7.0,17.9,23.3,80.0,False,1.5,104.186,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,33.0,2.0,INTERMEDIATE,23.0,True,1,True,7.0,18.0,23.6,77.0,False,1.1,104.928,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,34.0,2.0,INTERMEDIATE,24.0,True,1,True,7.0,18.0,23.5,76.0,False,1.2,104.359,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,35.0,2.0,INTERMEDIATE,25.0,True,1,True,7.0,18.2,23.2,74.0,False,0.7,102.795,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,36.0,2.0,INTERMEDIATE,26.0,True,1,True,7.0,18.5,23.2,73.0,False,1.9,102.502,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,37.0,2.0,INTERMEDIATE,27.0,True,1,True,8.0,18.5,23.2,72.0,False,1.4,101.85,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,38.0,2.0,INTERMEDIATE,28.0,True,1,False,6.0,18.5,23.7,72.0,False,1.5,101.178,True,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,39.0,3.0,HARD,1.0,True,12,False,14.0,18.7,24.1,70.0,False,2.1,137.522,True,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,40.0,3.0,HARD,2.0,True,1,True,14.0,18.8,23.6,70.0,False,1.5,105.74,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,41.0,3.0,HARD,3.0,True,1,True,14.0,18.9,23.6,69.0,False,0.0,101.089,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,42.0,3.0,HARD,4.0,True,12,True,13.0,18.9,23.2,68.0,False,1.4,100.654,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,43.0,3.0,HARD,5.0,True,12,True,10.0,19.0,22.8,68.0,False,1.1,98.569,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,44.0,3.0,HARD,6.0,True,1,True,10.0,18.9,23.7,68.0,False,2.3,95.71,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,45.0,3.0,HARD,7.0,True,1,True,10.0,19.1,24.0,66.0,False,1.8,93.795,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,46.0,3.0,HARD,8.0,True,1,True,10.0,19.1,23.8,66.0,False,2.1,92.141,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,47.0,3.0,HARD,9.0,True,1,True,10.0,19.2,23.6,67.0,False,0.9,91.926,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,48.0,3.0,HARD,10.0,True,1,True,10.0,19.2,23.6,67.0,False,1.3,91.239,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,49.0,3.0,HARD,11.0,True,1,True,10.0,19.2,24.4,68.0,False,1.9,91.315,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,50.0,3.0,HARD,12.0,True,1,True,10.0,19.3,24.4,65.0,False,1.1,90.956,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,51.0,3.0,HARD,13.0,True,1,True,10.0,19.5,24.6,65.0,False,1.5,90.869,False,52,2025,12,British Grand Prix,2025_12
+RUS,Mercedes,52.0,3.0,HARD,14.0,True,1,True,10.0,19.5,24.6,64.0,False,1.6,91.9,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,1.0,1.0,INTERMEDIATE,1.0,True,12,False,2.0,18.3,24.1,80.0,False,0.9,106.554,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,2.0,1.0,INTERMEDIATE,2.0,True,26,False,2.0,18.5,24.5,82.0,False,1.0,135.131,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,3.0,1.0,INTERMEDIATE,3.0,True,6,False,2.0,18.4,24.5,80.0,False,1.5,137.795,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,4.0,1.0,INTERMEDIATE,4.0,True,6712,False,2.0,18.7,24.8,75.0,False,1.3,105.828,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,5.0,1.0,INTERMEDIATE,5.0,True,126,False,2.0,18.6,24.9,75.0,False,0.9,104.455,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,6.0,1.0,INTERMEDIATE,6.0,True,6,False,2.0,18.8,25.2,77.0,False,1.2,139.626,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,7.0,1.0,INTERMEDIATE,7.0,True,671,False,2.0,19.1,24.4,75.0,False,1.3,122.77,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,8.0,1.0,INTERMEDIATE,8.0,True,1,True,1.0,19.2,24.2,75.0,False,1.0,104.171,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,9.0,1.0,INTERMEDIATE,9.0,True,1,True,1.0,19.2,24.8,74.0,False,1.1,104.393,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,10.0,1.0,INTERMEDIATE,10.0,True,1,True,1.0,19.2,24.3,72.0,False,1.9,104.89,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,11.0,1.0,INTERMEDIATE,11.0,True,1,False,1.0,19.0,24.0,74.0,True,1.2,105.937,True,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,12.0,2.0,INTERMEDIATE,1.0,True,1,False,1.0,18.7,22.5,72.0,True,3.1,126.15,True,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,13.0,2.0,INTERMEDIATE,2.0,True,1,True,1.0,18.1,21.0,74.0,True,4.5,107.585,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,14.0,2.0,INTERMEDIATE,3.0,True,124,False,1.0,17.8,20.5,77.0,True,3.9,135.81,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,15.0,2.0,INTERMEDIATE,4.0,True,4,False,1.0,16.7,20.0,82.0,True,2.9,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,16.0,2.0,INTERMEDIATE,5.0,True,4,False,1.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,17.0,2.0,INTERMEDIATE,6.0,True,41,False,1.0,16.0,21.1,85.0,False,1.4,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,18.0,2.0,INTERMEDIATE,7.0,True,124,False,1.0,16.1,21.7,84.0,False,1.0,118.043,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,19.0,2.0,INTERMEDIATE,8.0,True,4,False,1.0,16.2,22.8,84.0,False,1.1,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,20.0,2.0,INTERMEDIATE,9.0,True,4,False,1.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,21.0,2.0,INTERMEDIATE,10.0,True,41,False,1.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,22.0,2.0,INTERMEDIATE,11.0,True,12,True,1.0,16.7,23.1,82.0,False,1.9,104.494,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,23.0,2.0,INTERMEDIATE,12.0,True,1,True,1.0,17.0,22.9,80.0,False,2.2,102.3,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,24.0,2.0,INTERMEDIATE,13.0,True,1,True,1.0,17.0,22.9,82.0,False,1.6,101.978,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,25.0,2.0,INTERMEDIATE,14.0,True,1,True,1.0,17.1,22.9,80.0,False,1.8,101.581,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,26.0,2.0,INTERMEDIATE,15.0,True,1,True,1.0,17.1,22.7,81.0,False,1.2,101.646,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,27.0,2.0,INTERMEDIATE,16.0,True,1,True,1.0,17.1,22.5,81.0,False,0.8,102.133,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,28.0,2.0,INTERMEDIATE,17.0,True,1,True,1.0,17.2,22.6,82.0,False,0.8,102.428,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,29.0,2.0,INTERMEDIATE,18.0,True,1,True,1.0,17.4,22.8,82.0,False,0.8,102.815,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,30.0,2.0,INTERMEDIATE,19.0,True,1,True,1.0,17.5,22.4,81.0,False,1.3,102.887,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,31.0,2.0,INTERMEDIATE,20.0,True,1,True,1.0,17.7,22.4,82.0,False,1.7,102.642,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,32.0,2.0,INTERMEDIATE,21.0,True,1,True,1.0,17.7,23.0,80.0,False,1.1,102.01,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,33.0,2.0,INTERMEDIATE,22.0,True,1,True,1.0,17.9,23.5,80.0,False,0.5,101.663,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,34.0,2.0,INTERMEDIATE,23.0,True,1,True,1.0,18.0,23.5,76.0,False,1.2,101.386,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,35.0,2.0,INTERMEDIATE,24.0,True,1,True,1.0,18.0,23.3,73.0,False,1.3,101.091,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,36.0,2.0,INTERMEDIATE,25.0,True,1,True,1.0,18.3,23.3,74.0,False,0.9,100.97,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,37.0,2.0,INTERMEDIATE,26.0,True,1,True,1.0,18.5,23.2,72.0,False,1.4,100.351,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,38.0,2.0,INTERMEDIATE,27.0,True,1,True,1.0,18.5,23.4,73.0,False,0.6,100.127,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,39.0,2.0,INTERMEDIATE,28.0,True,1,True,1.0,18.6,24.5,72.0,False,2.1,99.8,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,40.0,2.0,INTERMEDIATE,29.0,True,12,True,1.0,18.7,23.7,70.0,False,2.0,99.461,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,41.0,2.0,INTERMEDIATE,30.0,True,1,True,1.0,18.8,23.6,70.0,False,1.5,99.273,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,42.0,2.0,INTERMEDIATE,31.0,True,1,True,1.0,18.9,23.6,69.0,False,0.0,98.87,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,43.0,2.0,INTERMEDIATE,32.0,True,12,False,1.0,18.9,23.2,68.0,False,1.4,97.478,True,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,44.0,3.0,MEDIUM,1.0,True,12,False,2.0,19.0,22.8,68.0,False,1.1,129.636,True,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,45.0,3.0,MEDIUM,2.0,True,1,True,2.0,19.0,24.0,67.0,False,2.2,94.87,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,46.0,3.0,MEDIUM,3.0,True,1,True,2.0,19.1,24.0,66.0,False,1.8,91.673,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,47.0,3.0,MEDIUM,4.0,True,1,True,2.0,19.2,23.6,67.0,False,1.5,90.609,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,48.0,3.0,MEDIUM,5.0,True,1,True,2.0,19.2,23.6,67.0,False,0.9,90.817,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,49.0,3.0,MEDIUM,6.0,True,1,True,2.0,19.1,23.7,67.0,False,1.1,90.209,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,50.0,3.0,MEDIUM,7.0,True,1,True,2.0,19.2,24.4,68.0,False,1.9,89.686,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,51.0,3.0,MEDIUM,8.0,True,1,True,2.0,19.4,24.4,64.0,False,1.9,89.337,False,52,2025,12,British Grand Prix,2025_12
+PIA,McLaren,52.0,3.0,MEDIUM,9.0,True,1,True,2.0,19.5,24.6,65.0,False,1.5,92.34,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,1.0,1.0,HARD,1.0,True,126,False,18.0,18.3,24.1,80.0,False,0.9,136.342,True,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,2.0,1.0,HARD,2.0,True,6,False,18.0,18.5,24.5,78.0,False,1.1,137.12,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,3.0,1.0,HARD,3.0,True,671,False,18.0,18.5,24.8,80.0,False,1.2,137.209,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,4.0,1.0,HARD,4.0,True,12,True,17.0,18.7,24.8,75.0,False,1.3,111.955,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,5.0,1.0,HARD,5.0,True,126,False,17.0,18.6,24.9,75.0,False,0.7,120.293,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,6.0,1.0,HARD,6.0,True,6,False,17.0,19.1,25.0,74.0,False,1.5,137.467,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,7.0,1.0,HARD,7.0,True,671,False,17.0,19.1,24.0,73.0,False,2.6,111.212,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,True,17.0,19.2,24.2,75.0,False,1.0,104.011,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,17.0,19.2,24.8,74.0,False,0.7,102.431,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,False,15.0,19.0,24.1,74.0,False,0.7,103.208,True,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,11.0,2.0,INTERMEDIATE,1.0,True,1,False,17.0,19.0,24.0,74.0,True,1.2,128.816,True,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,12.0,2.0,INTERMEDIATE,2.0,True,1,True,17.0,18.7,22.5,72.0,True,3.1,108.51,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,13.0,2.0,INTERMEDIATE,3.0,True,124,False,17.0,18.1,21.0,74.0,True,4.5,118.712,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,14.0,2.0,INTERMEDIATE,4.0,True,4,False,17.0,17.4,20.1,78.0,True,5.4,136.851,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,15.0,2.0,INTERMEDIATE,5.0,True,4,False,17.0,16.5,20.2,83.0,True,3.0,137.133,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,16.0,2.0,INTERMEDIATE,6.0,True,4,False,17.0,16.2,20.5,85.0,False,2.8,,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,17.0,2.0,INTERMEDIATE,7.0,True,41,False,17.0,16.1,21.3,85.0,False,1.8,,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,18.0,2.0,INTERMEDIATE,8.0,True,124,False,15.0,16.1,21.7,84.0,False,1.0,131.242,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,19.0,2.0,INTERMEDIATE,9.0,True,4,False,14.0,16.4,23.9,85.0,False,1.5,,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,20.0,2.0,INTERMEDIATE,10.0,True,4,False,15.0,16.6,24.3,83.0,False,0.7,,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,21.0,2.0,INTERMEDIATE,11.0,True,41,False,14.0,16.7,23.4,81.0,False,2.5,,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,22.0,2.0,INTERMEDIATE,12.0,True,12,True,15.0,16.7,23.1,82.0,False,1.9,114.756,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,23.0,2.0,INTERMEDIATE,13.0,True,1,True,15.0,17.0,22.9,80.0,False,2.2,107.955,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,24.0,2.0,INTERMEDIATE,14.0,True,1,True,15.0,17.0,22.9,82.0,False,1.6,105.308,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,25.0,2.0,INTERMEDIATE,15.0,True,1,True,15.0,17.2,22.8,80.0,False,0.9,104.627,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,26.0,2.0,INTERMEDIATE,16.0,True,1,True,14.0,17.2,22.5,80.0,False,1.3,103.157,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,27.0,2.0,INTERMEDIATE,17.0,True,1,True,14.0,17.1,22.5,81.0,False,0.8,102.738,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,28.0,2.0,INTERMEDIATE,18.0,True,1,True,14.0,17.4,22.6,81.0,False,0.7,103.912,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,29.0,2.0,INTERMEDIATE,19.0,True,1,True,14.0,17.5,22.8,82.0,False,1.3,104.926,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,30.0,2.0,INTERMEDIATE,20.0,True,1,True,13.0,17.6,22.4,80.0,False,0.8,104.269,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,31.0,2.0,INTERMEDIATE,21.0,True,1,True,13.0,17.7,22.4,82.0,False,1.7,104.0,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,32.0,2.0,INTERMEDIATE,22.0,True,1,True,13.0,17.9,23.3,80.0,False,1.5,103.978,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,33.0,2.0,INTERMEDIATE,23.0,True,1,True,13.0,18.0,23.6,77.0,False,1.1,103.937,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,34.0,2.0,INTERMEDIATE,24.0,True,1,True,13.0,18.0,23.5,76.0,False,1.2,103.948,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,35.0,2.0,INTERMEDIATE,25.0,True,1,True,13.0,18.2,23.2,74.0,False,0.7,104.439,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,36.0,2.0,INTERMEDIATE,26.0,True,1,True,13.0,18.5,23.2,73.0,False,1.9,102.937,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,37.0,2.0,INTERMEDIATE,27.0,True,1,True,13.0,18.5,23.4,73.0,False,0.6,103.169,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,38.0,2.0,INTERMEDIATE,28.0,True,1,True,12.0,18.5,23.7,72.0,False,1.5,102.626,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,39.0,2.0,INTERMEDIATE,29.0,True,12,True,11.0,18.7,24.1,70.0,False,2.1,102.278,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,40.0,2.0,INTERMEDIATE,30.0,True,1,True,11.0,18.8,23.6,70.0,False,1.5,102.278,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,41.0,2.0,INTERMEDIATE,31.0,True,1,False,10.0,18.9,23.6,68.0,False,2.3,99.875,True,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,42.0,3.0,MEDIUM,1.0,True,12,False,12.0,19.0,23.5,69.0,False,2.5,124.956,True,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,43.0,3.0,MEDIUM,2.0,True,12,True,11.0,19.0,22.8,68.0,False,1.1,102.511,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,44.0,3.0,MEDIUM,3.0,True,1,True,11.0,18.9,23.7,68.0,False,2.3,94.874,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,45.0,3.0,MEDIUM,4.0,True,1,True,11.0,19.1,24.0,66.0,False,1.8,93.735,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,46.0,3.0,MEDIUM,5.0,True,1,True,11.0,19.1,23.8,66.0,False,2.1,92.102,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,47.0,3.0,MEDIUM,6.0,True,1,True,11.0,19.2,23.6,67.0,False,0.9,92.098,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,48.0,3.0,MEDIUM,7.0,True,1,True,11.0,19.2,23.6,67.0,False,1.3,91.041,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,49.0,3.0,MEDIUM,8.0,True,1,True,11.0,19.2,24.4,68.0,False,1.9,91.273,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,50.0,3.0,MEDIUM,9.0,True,1,True,11.0,19.3,24.4,65.0,False,1.1,90.921,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,51.0,3.0,MEDIUM,10.0,True,1,True,11.0,19.5,24.6,65.0,False,1.5,91.121,False,52,2025,12,British Grand Prix,2025_12
+BEA,Haas F1 Team,52.0,3.0,MEDIUM,11.0,True,1,True,11.0,19.5,24.6,64.0,False,1.6,92.585,False,52,2025,12,British Grand Prix,2025_12

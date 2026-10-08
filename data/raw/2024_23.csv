@@ -1,0 +1,944 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,124,False,1.0,19.1,23.0,55.0,False,1.8,111.344,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,4,False,1.0,19.1,23.0,55.0,False,2.4,141.257,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,4,False,1.0,19.1,23.0,55.0,False,1.8,137.39,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,41,False,1.0,19.0,23.0,54.0,False,1.3,,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,12,True,1.0,19.0,23.0,54.0,False,1.4,86.724,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,19.0,22.9,54.0,False,1.3,86.502,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,19.0,22.9,54.0,False,1.0,86.376,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,19.0,22.9,54.0,False,1.0,86.28,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,19.0,22.9,54.0,False,0.6,86.2,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,19.0,22.7,55.0,False,1.0,85.973,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,19.0,22.7,55.0,False,0.6,85.808,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,19.0,22.7,54.0,False,1.4,85.903,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,19.0,22.6,55.0,False,1.4,85.843,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,19.0,22.7,55.0,False,0.8,85.812,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,19.0,22.7,55.0,False,1.0,85.698,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,18.9,22.7,55.0,False,0.9,85.605,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,18.9,22.5,55.0,False,0.9,85.46,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,18.9,22.6,55.0,False,1.7,85.079,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,18.9,22.5,55.0,False,1.3,85.309,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,18.9,22.5,55.0,False,1.6,84.896,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,18.9,22.5,55.0,False,1.1,84.97,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,18.8,22.7,55.0,False,0.7,84.908,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,18.8,22.7,55.0,False,1.3,84.856,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,18.8,22.6,55.0,False,0.5,84.825,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,18.8,22.6,55.0,False,1.0,84.702,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,18.8,22.6,55.0,False,0.9,84.775,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,True,1.0,18.7,22.5,56.0,False,1.0,84.72,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,28.0,1.0,MEDIUM,28.0,True,1,True,1.0,18.7,22.4,56.0,False,1.6,84.719,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,29.0,1.0,MEDIUM,29.0,True,1,True,1.0,18.7,22.2,56.0,False,1.5,84.861,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,30.0,1.0,MEDIUM,30.0,True,12,True,1.0,18.6,22.5,56.0,False,1.2,85.127,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,31.0,1.0,MEDIUM,31.0,True,1,True,1.0,18.6,22.5,56.0,False,1.2,84.413,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,32.0,1.0,MEDIUM,32.0,True,1,True,1.0,18.6,22.3,56.0,False,1.4,84.427,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,33.0,1.0,MEDIUM,33.0,True,1,True,1.0,18.6,22.3,57.0,False,1.4,84.35,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,34.0,1.0,MEDIUM,34.0,True,1,True,1.0,18.5,22.1,57.0,False,1.1,84.468,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,35.0,1.0,MEDIUM,35.0,True,14,False,1.0,18.5,22.1,57.0,False,1.4,92.307,True,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,36.0,2.0,HARD,1.0,True,4,False,1.0,18.5,22.1,58.0,False,0.9,,True,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,37.0,3.0,HARD,2.0,False,4,False,1.0,18.5,22.2,58.0,False,1.1,,True,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,38.0,4.0,HARD,3.0,False,4,False,1.0,18.4,22.3,59.0,False,1.1,,True,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,39.0,4.0,HARD,4.0,False,41,False,1.0,18.5,22.2,59.0,False,1.1,146.153,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,40.0,4.0,HARD,5.0,False,1264,False,1.0,18.4,22.3,60.0,False,1.7,99.436,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,41.0,4.0,HARD,6.0,False,4,False,1.0,18.4,22.1,60.0,False,0.9,136.076,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,42.0,4.0,HARD,7.0,False,41,False,1.0,18.4,22.1,61.0,False,1.1,149.083,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,43.0,4.0,HARD,8.0,False,1,True,1.0,18.4,22.0,61.0,False,1.1,84.509,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,44.0,4.0,HARD,9.0,False,1,True,1.0,18.3,22.0,62.0,False,1.7,83.533,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,45.0,4.0,HARD,10.0,False,1,True,1.0,18.3,22.0,62.0,False,0.7,83.393,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,46.0,4.0,HARD,11.0,False,1,True,1.0,18.3,22.0,62.0,False,1.3,83.37,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,47.0,4.0,HARD,12.0,False,1,True,1.0,18.3,22.0,63.0,False,1.4,83.303,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,48.0,4.0,HARD,13.0,False,1,True,1.0,18.3,21.9,63.0,False,1.2,83.423,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,49.0,4.0,HARD,14.0,False,1,True,1.0,18.3,21.9,63.0,False,0.9,83.468,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,50.0,4.0,HARD,15.0,False,1,True,1.0,18.3,22.0,63.0,False,1.0,83.321,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,51.0,4.0,HARD,16.0,False,1,True,1.0,18.3,21.9,64.0,False,1.2,83.043,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,52.0,4.0,HARD,17.0,False,1,True,1.0,18.3,22.0,64.0,False,1.0,83.162,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,53.0,4.0,HARD,18.0,False,1,True,1.0,18.3,22.0,64.0,False,0.9,83.132,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,54.0,4.0,HARD,19.0,False,1,True,1.0,18.3,22.0,64.0,False,1.4,83.006,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,55.0,4.0,HARD,20.0,False,1,True,1.0,18.2,22.0,64.0,False,1.3,82.905,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,56.0,4.0,HARD,21.0,False,1,True,1.0,18.3,22.0,64.0,False,0.8,83.369,False,57,2024,23,Qatar Grand Prix,2024_23
+VER,Red Bull Racing,57.0,4.0,HARD,22.0,False,1,True,1.0,18.3,22.0,64.0,False,1.6,83.776,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,124,False,12.0,19.1,23.0,55.0,False,1.8,130.912,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,4,False,12.0,19.1,23.1,54.0,False,2.5,143.807,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,4,False,12.0,19.1,23.0,55.0,False,1.8,139.509,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,41,False,12.0,19.0,23.0,54.0,False,1.3,133.088,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,12,True,12.0,19.0,22.9,54.0,False,2.2,91.425,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,19.0,22.9,54.0,False,1.3,88.418,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,19.0,22.9,54.0,False,0.9,87.738,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,19.0,22.9,54.0,False,1.0,87.881,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,19.0,22.9,54.0,False,0.6,87.58,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,19.0,22.7,55.0,False,1.0,88.272,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,19.0,22.7,55.0,False,0.6,88.181,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,11.0,19.0,22.7,54.0,False,1.4,87.827,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,19.0,22.6,55.0,False,1.4,86.986,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,18.9,22.8,55.0,False,0.9,87.011,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,19.0,22.7,55.0,False,1.0,86.737,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,18.9,22.5,55.0,False,1.1,86.7,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,18.9,22.5,55.0,False,0.9,86.514,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,10.0,18.9,22.6,55.0,False,1.4,86.694,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,18.9,22.5,55.0,False,1.3,86.696,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,10.0,18.9,22.5,55.0,False,1.6,86.369,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,10.0,18.8,22.5,55.0,False,1.2,86.946,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,10.0,18.8,22.7,55.0,False,0.7,86.453,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,10.0,18.8,22.7,55.0,False,0.5,86.298,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,24.0,1.0,MEDIUM,24.0,True,1,True,9.0,18.8,22.6,55.0,False,0.5,86.235,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,25.0,1.0,MEDIUM,25.0,True,1,True,9.0,18.8,22.6,55.0,False,0.9,86.174,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,18.8,22.5,55.0,False,1.2,86.12,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,27.0,1.0,MEDIUM,27.0,True,1,True,8.0,18.7,22.4,56.0,False,1.6,85.969,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,28.0,1.0,MEDIUM,28.0,True,1,True,8.0,18.7,22.3,56.0,False,0.9,85.533,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,29.0,1.0,MEDIUM,29.0,True,12,True,8.0,18.7,22.2,56.0,False,1.5,85.588,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,30.0,1.0,MEDIUM,30.0,True,1,True,8.0,18.6,22.5,56.0,False,1.2,85.344,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,31.0,1.0,MEDIUM,31.0,True,1,True,8.0,18.6,22.4,56.0,False,1.3,85.335,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,32.0,1.0,MEDIUM,32.0,True,1,True,8.0,18.6,22.3,57.0,False,1.4,85.331,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,33.0,1.0,MEDIUM,33.0,True,1,True,8.0,18.5,22.3,57.0,False,1.2,85.122,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,34.0,1.0,MEDIUM,34.0,True,1,True,7.0,18.5,22.1,57.0,False,1.1,85.622,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,35.0,1.0,MEDIUM,35.0,True,14,False,6.0,18.5,22.1,57.0,False,0.8,111.497,True,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,36.0,2.0,HARD,1.0,True,4,False,6.0,18.5,22.1,58.0,False,1.2,142.16,True,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,37.0,3.0,HARD,2.0,False,4,False,6.0,18.4,22.1,59.0,False,1.5,141.304,True,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,38.0,4.0,HARD,3.0,False,4,False,6.0,18.4,22.3,59.0,False,1.1,146.588,True,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,39.0,4.0,HARD,4.0,False,41,False,5.0,18.5,22.2,59.0,False,1.1,139.279,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,40.0,4.0,HARD,5.0,False,1264,False,6.0,18.4,22.3,60.0,False,1.7,108.476,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,41.0,4.0,HARD,6.0,False,4,False,6.0,18.4,22.1,60.0,False,0.9,133.101,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,42.0,4.0,HARD,7.0,False,41,False,6.0,18.4,22.1,61.0,False,1.1,143.945,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,43.0,4.0,HARD,8.0,False,1,True,6.0,18.4,22.0,61.0,False,1.1,87.285,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,44.0,4.0,HARD,9.0,False,1,True,6.0,18.3,22.0,62.0,False,1.7,85.421,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,45.0,4.0,HARD,10.0,False,1,True,6.0,18.3,22.0,62.0,False,1.4,84.508,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,46.0,4.0,HARD,11.0,False,1,True,5.0,18.3,22.0,62.0,False,1.3,84.238,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,47.0,4.0,HARD,12.0,False,1,True,5.0,18.3,22.0,63.0,False,1.4,84.097,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,48.0,4.0,HARD,13.0,False,1,True,5.0,18.3,21.9,63.0,False,1.2,84.156,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,49.0,4.0,HARD,14.0,False,1,True,5.0,18.3,21.9,63.0,False,0.9,83.942,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,50.0,4.0,HARD,15.0,False,1,True,5.0,18.3,22.0,63.0,False,1.4,83.866,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,51.0,4.0,HARD,16.0,False,1,True,5.0,18.3,21.9,64.0,False,1.2,83.904,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,52.0,4.0,HARD,17.0,False,1,True,5.0,18.3,22.0,64.0,False,1.0,84.057,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,53.0,4.0,HARD,18.0,False,1,True,5.0,18.3,22.0,64.0,False,0.9,83.984,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,54.0,4.0,HARD,19.0,False,1,True,5.0,18.3,22.0,64.0,False,1.4,84.082,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,55.0,4.0,HARD,20.0,False,1,True,5.0,18.2,22.0,64.0,False,1.5,84.158,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,56.0,4.0,HARD,21.0,False,1,True,5.0,18.3,22.0,64.0,False,0.8,83.705,False,57,2024,23,Qatar Grand Prix,2024_23
+GAS,Alpine,57.0,4.0,HARD,22.0,False,1,True,5.0,18.3,22.0,64.0,False,1.6,83.937,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,124,False,7.0,19.1,23.0,55.0,False,1.8,120.204,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,4,False,7.0,19.1,23.0,55.0,False,2.4,143.708,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,4,False,7.0,19.1,23.0,55.0,False,1.8,138.267,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,41,False,7.0,19.0,23.0,54.0,False,1.3,143.573,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,12,True,7.0,19.0,23.0,54.0,False,1.4,89.55,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,19.0,22.9,54.0,False,1.3,87.827,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,19.0,22.9,54.0,False,1.0,87.28,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,19.0,22.9,54.0,False,1.0,87.403,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,19.0,22.9,54.0,False,0.6,87.124,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,19.0,22.7,55.0,False,1.0,86.884,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,19.0,22.7,55.0,False,0.6,86.788,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,19.0,22.7,54.0,False,1.4,86.729,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,19.0,22.6,55.0,False,1.4,86.631,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,18.9,22.8,55.0,False,0.9,86.483,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,19.0,22.7,55.0,False,1.0,86.409,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,18.9,22.7,55.0,False,0.9,86.359,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,18.9,22.5,55.0,False,0.9,85.929,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,18.9,22.6,55.0,False,1.7,86.455,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,7.0,18.9,22.5,55.0,False,1.3,86.152,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,18.9,22.5,55.0,False,1.6,86.049,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,7.0,18.8,22.5,55.0,False,1.2,85.714,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,7.0,18.8,22.7,55.0,False,0.7,85.973,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,7.0,18.8,22.7,55.0,False,0.5,85.85,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,6.0,18.8,22.6,55.0,False,0.5,85.642,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,6.0,18.8,22.6,55.0,False,1.0,85.498,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,True,6.0,18.8,22.5,55.0,False,1.2,85.458,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,True,6.0,18.7,22.5,56.0,False,1.0,85.576,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,28.0,1.0,MEDIUM,28.0,True,1,True,6.0,18.7,22.3,56.0,False,0.9,85.555,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,29.0,1.0,MEDIUM,29.0,True,12,True,6.0,18.7,22.2,56.0,False,1.5,85.507,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,30.0,1.0,MEDIUM,30.0,True,1,True,6.0,18.6,22.5,56.0,False,1.2,85.409,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,31.0,1.0,MEDIUM,31.0,True,1,True,6.0,18.6,22.4,56.0,False,1.3,85.288,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,32.0,1.0,MEDIUM,32.0,True,1,True,6.0,18.6,22.3,56.0,False,1.4,85.39,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,33.0,1.0,MEDIUM,33.0,True,1,True,6.0,18.5,22.3,57.0,False,1.2,85.382,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,34.0,1.0,MEDIUM,34.0,True,1,True,5.0,18.5,22.1,57.0,False,1.1,86.5,False,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,35.0,1.0,MEDIUM,35.0,True,14,False,4.0,18.5,22.1,57.0,False,0.8,106.636,True,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,36.0,2.0,HARD,1.0,True,4,False,5.0,18.5,22.1,58.0,False,0.9,143.642,True,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,37.0,3.0,HARD,2.0,False,4,False,5.0,18.4,22.1,59.0,False,1.5,,True,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,38.0,4.0,HARD,3.0,False,4,False,5.0,18.4,22.3,59.0,False,1.1,147.063,True,57,2024,23,Qatar Grand Prix,2024_23
+PER,Red Bull Racing,39.0,4.0,HARD,4.0,False,41,False,,18.5,22.2,59.0,False,1.1,,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,False,124,False,8.0,19.1,23.0,55.0,False,1.8,123.172,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,False,4,False,8.0,19.1,23.0,55.0,False,2.4,142.483,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,False,4,False,8.0,19.1,23.0,55.0,False,1.8,138.215,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,False,41,False,8.0,19.0,23.0,54.0,False,1.3,142.341,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,False,12,True,11.0,19.0,22.9,54.0,False,2.2,92.386,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,False,1,True,12.0,19.0,22.9,54.0,False,1.3,89.044,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,False,1,True,12.0,19.0,22.9,54.0,False,0.9,88.057,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,False,1,True,12.0,19.0,22.9,54.0,False,1.0,88.028,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,False,1,True,12.0,19.0,22.9,54.0,False,0.6,87.644,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,False,1,True,12.0,19.0,22.7,55.0,False,1.0,88.156,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,False,1,True,12.0,19.0,22.7,55.0,False,0.6,88.253,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,False,1,True,12.0,19.0,22.7,54.0,False,1.4,87.906,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,False,1,True,12.0,19.0,22.6,55.0,False,1.4,87.721,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,False,1,True,11.0,18.9,22.8,55.0,False,0.9,86.802,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,False,1,True,11.0,19.0,22.7,55.0,False,1.0,86.7,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,False,1,True,11.0,18.9,22.5,55.0,False,1.1,86.867,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,False,1,True,11.0,18.9,22.5,55.0,False,0.9,86.687,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,False,1,True,11.0,18.9,22.6,55.0,False,1.4,86.744,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,19.0,1.0,MEDIUM,19.0,False,1,True,11.0,18.9,22.5,55.0,False,1.3,86.629,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,20.0,1.0,MEDIUM,20.0,False,1,True,11.0,18.9,22.5,55.0,False,1.6,86.855,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,21.0,1.0,MEDIUM,21.0,False,1,True,11.0,18.8,22.5,55.0,False,1.2,86.37,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,22.0,1.0,MEDIUM,22.0,False,1,True,11.0,18.8,22.7,55.0,False,0.7,86.481,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,23.0,1.0,MEDIUM,23.0,False,1,True,11.0,18.8,22.7,55.0,False,0.5,86.268,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,24.0,1.0,MEDIUM,24.0,False,1,True,10.0,18.8,22.6,55.0,False,0.5,86.377,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,25.0,1.0,MEDIUM,25.0,False,1,True,10.0,18.8,22.6,55.0,False,0.9,86.245,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,26.0,1.0,MEDIUM,26.0,False,1,True,10.0,18.8,22.5,55.0,False,1.2,86.3,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,27.0,1.0,MEDIUM,27.0,False,1,True,9.0,18.7,22.4,56.0,False,1.6,86.085,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,28.0,1.0,MEDIUM,28.0,False,1,True,9.0,18.7,22.3,56.0,False,0.9,85.941,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,29.0,1.0,MEDIUM,29.0,False,12,True,9.0,18.7,22.2,56.0,False,1.5,85.957,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,30.0,1.0,MEDIUM,30.0,False,1,True,9.0,18.6,22.5,56.0,False,1.2,85.893,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,31.0,1.0,MEDIUM,31.0,False,1,True,9.0,18.6,22.4,56.0,False,1.3,85.724,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,32.0,1.0,MEDIUM,32.0,False,1,True,9.0,18.6,22.3,57.0,False,1.4,85.649,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,33.0,1.0,MEDIUM,33.0,False,1,True,9.0,18.5,22.3,57.0,False,1.2,85.797,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,34.0,1.0,MEDIUM,34.0,False,1,True,9.0,18.5,22.1,57.0,False,1.4,87.518,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,35.0,1.0,MEDIUM,35.0,False,14,False,8.0,18.5,22.1,57.0,False,0.8,115.097,True,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,36.0,2.0,HARD,1.0,False,4,False,9.0,18.5,22.1,58.0,False,1.2,146.362,True,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,37.0,3.0,MEDIUM,7.0,False,4,False,10.0,18.4,22.1,59.0,False,1.5,135.542,True,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,38.0,4.0,MEDIUM,8.0,False,4,False,10.0,18.5,22.2,59.0,False,1.3,144.47,True,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,39.0,4.0,MEDIUM,9.0,False,41,False,9.0,18.5,22.2,59.0,False,1.1,134.005,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,40.0,4.0,MEDIUM,10.0,False,1264,False,8.0,18.4,22.3,60.0,False,1.7,111.269,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,41.0,4.0,MEDIUM,11.0,False,4,False,8.0,18.4,22.1,60.0,False,0.9,132.579,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,42.0,4.0,MEDIUM,12.0,False,41,False,8.0,18.4,22.1,61.0,False,1.1,140.832,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,43.0,4.0,MEDIUM,13.0,False,1,True,8.0,18.4,22.0,61.0,False,1.1,87.771,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,44.0,4.0,MEDIUM,14.0,False,1,True,8.0,18.3,22.0,62.0,False,1.7,85.477,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,45.0,4.0,MEDIUM,15.0,False,1,True,8.0,18.3,22.0,62.0,False,1.4,85.0,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,46.0,4.0,MEDIUM,16.0,False,1,True,7.0,18.3,22.0,62.0,False,1.3,84.44,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,47.0,4.0,MEDIUM,17.0,False,1,True,7.0,18.3,22.0,63.0,False,1.4,84.383,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,48.0,4.0,MEDIUM,18.0,False,1,True,7.0,18.3,21.9,63.0,False,1.2,84.472,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,49.0,4.0,MEDIUM,19.0,False,1,True,7.0,18.3,21.9,63.0,False,0.9,84.395,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,50.0,4.0,MEDIUM,20.0,False,1,True,7.0,18.3,22.0,63.0,False,1.4,84.057,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,51.0,4.0,MEDIUM,21.0,False,1,True,7.0,18.3,21.9,64.0,False,1.2,84.054,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,52.0,4.0,MEDIUM,22.0,False,1,True,7.0,18.3,22.0,64.0,False,1.0,84.196,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,53.0,4.0,MEDIUM,23.0,False,1,True,7.0,18.3,22.0,64.0,False,0.9,83.993,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,54.0,4.0,MEDIUM,24.0,False,1,True,7.0,18.3,22.0,64.0,False,1.4,83.871,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,55.0,4.0,MEDIUM,25.0,False,1,True,7.0,18.2,22.0,64.0,False,1.5,84.078,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,56.0,4.0,MEDIUM,26.0,False,1,True,7.0,18.3,22.0,64.0,False,0.8,83.885,False,57,2024,23,Qatar Grand Prix,2024_23
+ALO,Aston Martin,57.0,4.0,MEDIUM,27.0,False,1,True,7.0,18.3,22.0,64.0,False,1.6,83.667,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,1.0,1.0,MEDIUM,2.0,False,124,False,4.0,19.1,23.0,55.0,False,1.8,117.439,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,2.0,1.0,MEDIUM,3.0,False,4,False,4.0,19.1,23.0,55.0,False,2.4,142.075,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,3.0,1.0,MEDIUM,4.0,False,4,False,4.0,19.1,23.0,55.0,False,1.8,137.488,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,4.0,1.0,MEDIUM,5.0,False,41,False,4.0,19.0,23.0,54.0,False,1.3,147.558,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,5.0,1.0,MEDIUM,6.0,False,12,True,5.0,19.0,23.0,54.0,False,1.4,89.202,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,6.0,1.0,MEDIUM,7.0,False,1,True,5.0,19.0,22.9,54.0,False,1.3,87.556,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,7.0,1.0,MEDIUM,8.0,False,1,True,5.0,19.0,22.9,54.0,False,1.0,86.887,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,8.0,1.0,MEDIUM,9.0,False,1,True,5.0,19.0,22.9,54.0,False,1.0,87.19,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,9.0,1.0,MEDIUM,10.0,False,1,True,5.0,19.0,22.9,54.0,False,0.6,86.914,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,10.0,1.0,MEDIUM,11.0,False,1,True,5.0,19.0,22.7,55.0,False,1.0,86.435,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,11.0,1.0,MEDIUM,12.0,False,1,True,5.0,19.0,22.7,55.0,False,0.6,86.381,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,12.0,1.0,MEDIUM,13.0,False,1,True,5.0,19.0,22.7,54.0,False,1.4,86.027,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,13.0,1.0,MEDIUM,14.0,False,1,True,5.0,19.0,22.6,55.0,False,1.4,86.272,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,14.0,1.0,MEDIUM,15.0,False,1,True,5.0,18.9,22.8,55.0,False,0.9,85.66,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,15.0,1.0,MEDIUM,16.0,False,1,True,5.0,19.0,22.7,55.0,False,1.0,85.805,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,16.0,1.0,MEDIUM,17.0,False,1,True,5.0,18.9,22.7,55.0,False,0.9,85.93,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,17.0,1.0,MEDIUM,18.0,False,1,True,5.0,18.9,22.5,55.0,False,0.9,85.835,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,18.0,1.0,MEDIUM,19.0,False,1,True,5.0,18.9,22.6,55.0,False,1.7,85.496,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,19.0,1.0,MEDIUM,20.0,False,1,True,5.0,18.9,22.5,55.0,False,1.3,85.647,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,20.0,1.0,MEDIUM,21.0,False,1,True,5.0,18.9,22.5,55.0,False,1.6,85.467,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,21.0,1.0,MEDIUM,22.0,False,1,True,5.0,18.8,22.5,55.0,False,1.2,85.323,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,22.0,1.0,MEDIUM,23.0,False,1,True,5.0,18.8,22.7,55.0,False,0.7,85.036,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,23.0,1.0,MEDIUM,24.0,False,1,True,4.0,18.8,22.7,55.0,False,1.3,85.189,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,24.0,1.0,MEDIUM,25.0,False,1,True,4.0,18.8,22.6,55.0,False,0.5,85.133,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,25.0,1.0,MEDIUM,26.0,False,1,True,4.0,18.8,22.6,55.0,False,1.0,84.801,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,26.0,1.0,MEDIUM,27.0,False,1,True,4.0,18.8,22.5,55.0,False,1.2,85.099,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,27.0,1.0,MEDIUM,28.0,False,1,True,4.0,18.7,22.5,56.0,False,1.0,84.749,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,28.0,1.0,MEDIUM,29.0,False,1,True,4.0,18.7,22.4,56.0,False,1.6,84.909,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,29.0,1.0,MEDIUM,30.0,False,12,True,4.0,18.7,22.2,56.0,False,1.5,84.653,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,30.0,1.0,MEDIUM,31.0,False,12,True,4.0,18.6,22.5,56.0,False,1.2,85.168,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,31.0,1.0,MEDIUM,32.0,False,1,True,4.0,18.6,22.4,56.0,False,1.3,84.71,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,32.0,1.0,MEDIUM,33.0,False,1,True,4.0,18.6,22.3,56.0,False,1.4,84.679,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,33.0,1.0,MEDIUM,34.0,False,1,True,4.0,18.5,22.3,57.0,False,1.2,84.9,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,34.0,1.0,MEDIUM,35.0,False,1,True,3.0,18.5,22.1,57.0,False,1.1,84.754,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,35.0,1.0,MEDIUM,36.0,False,14,False,3.0,18.5,22.1,57.0,False,1.4,98.515,True,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,36.0,2.0,HARD,1.0,True,4,False,3.0,18.5,22.1,58.0,False,0.9,,True,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,37.0,3.0,HARD,2.0,False,4,False,3.0,18.4,22.1,59.0,False,1.5,,True,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,38.0,4.0,HARD,3.0,False,4,False,3.0,18.4,22.3,59.0,False,1.1,148.35,True,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,39.0,4.0,HARD,4.0,False,41,False,3.0,18.5,22.2,59.0,False,1.1,142.818,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,40.0,4.0,HARD,5.0,False,1264,False,3.0,18.4,22.3,60.0,False,1.7,101.971,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,41.0,4.0,HARD,6.0,False,4,False,3.0,18.4,22.1,60.0,False,0.9,135.614,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,42.0,4.0,HARD,7.0,False,41,False,3.0,18.4,22.1,61.0,False,1.1,147.125,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,43.0,4.0,HARD,8.0,False,1,True,3.0,18.4,22.0,61.0,False,1.1,85.854,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,44.0,4.0,HARD,9.0,False,1,True,3.0,18.3,22.0,62.0,False,1.7,84.012,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,45.0,4.0,HARD,10.0,False,1,True,2.0,18.3,22.0,62.0,False,0.7,83.937,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,46.0,4.0,HARD,11.0,False,1,True,2.0,18.3,22.0,62.0,False,1.3,83.665,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,47.0,4.0,HARD,12.0,False,1,True,2.0,18.3,22.0,63.0,False,1.4,83.722,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,48.0,4.0,HARD,13.0,False,1,True,2.0,18.3,21.9,63.0,False,1.2,83.68,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,49.0,4.0,HARD,14.0,False,1,True,2.0,18.3,21.9,63.0,False,0.9,83.47,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,50.0,4.0,HARD,15.0,False,1,True,2.0,18.3,22.0,63.0,False,1.0,83.405,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,51.0,4.0,HARD,16.0,False,1,True,2.0,18.3,21.9,64.0,False,1.2,83.332,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,52.0,4.0,HARD,17.0,False,1,True,2.0,18.3,22.0,64.0,False,1.0,83.72,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,53.0,4.0,HARD,18.0,False,1,True,2.0,18.3,22.0,64.0,False,0.9,83.242,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,54.0,4.0,HARD,19.0,False,1,True,2.0,18.3,22.0,64.0,False,1.4,83.454,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,55.0,4.0,HARD,20.0,False,1,True,2.0,18.2,22.0,64.0,False,1.3,83.498,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,56.0,4.0,HARD,21.0,False,1,True,2.0,18.3,22.0,64.0,False,0.8,83.356,False,57,2024,23,Qatar Grand Prix,2024_23
+LEC,Ferrari,57.0,4.0,HARD,22.0,False,1,True,2.0,18.3,22.0,64.0,False,1.6,83.559,False,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,False,124,False,17.0,19.1,23.0,55.0,False,1.8,136.793,True,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,2.0,2.0,HARD,1.0,False,4,False,17.0,19.1,23.1,54.0,False,2.5,147.099,True,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,3.0,2.0,HARD,2.0,False,4,False,17.0,19.1,23.0,55.0,False,1.8,136.92,False,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,4.0,2.0,HARD,3.0,False,41,False,17.0,19.0,23.0,54.0,False,1.3,129.1,False,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,5.0,2.0,HARD,4.0,False,12,True,17.0,19.0,22.9,54.0,False,2.2,93.523,False,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,6.0,2.0,HARD,5.0,False,1,True,17.0,19.0,22.9,54.0,False,1.3,90.935,False,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,7.0,2.0,HARD,6.0,False,1,False,18.0,19.0,22.9,54.0,False,0.9,96.33,True,57,2024,23,Qatar Grand Prix,2024_23
+STR,Aston Martin,8.0,3.0,HARD,1.0,True,1,False,18.0,19.0,22.9,54.0,False,1.0,140.862,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,124,False,11.0,19.1,23.0,55.0,False,1.8,129.92,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,4,False,11.0,19.1,23.1,54.0,False,2.5,143.343,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,4,False,11.0,19.1,23.0,55.0,False,1.8,138.697,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,41,False,11.0,19.0,23.0,54.0,False,1.3,134.923,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,12,True,10.0,19.0,22.9,54.0,False,2.2,90.89,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,19.0,22.9,54.0,False,1.3,88.533,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,19.0,22.9,54.0,False,0.9,88.075,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,19.0,22.9,54.0,False,1.0,87.707,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,19.0,22.9,54.0,False,0.6,87.395,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,19.0,22.7,55.0,False,1.0,87.601,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,19.0,22.7,55.0,False,0.6,88.499,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,19.0,22.7,54.0,False,1.4,87.513,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,19.0,22.6,55.0,False,1.4,87.321,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,18.9,22.8,55.0,False,0.9,86.989,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,19.0,22.7,55.0,False,1.0,86.911,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,18.9,22.5,55.0,False,1.1,86.797,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,18.9,22.5,55.0,False,0.9,86.65,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,9.0,18.9,22.6,55.0,False,1.4,86.763,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,9.0,18.9,22.5,55.0,False,1.3,86.607,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,9.0,18.9,22.5,55.0,False,1.6,86.58,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,9.0,18.8,22.5,55.0,False,1.2,86.46,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,9.0,18.8,22.7,55.0,False,0.7,86.377,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,True,9.0,18.8,22.7,55.0,False,0.5,86.237,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,24.0,1.0,MEDIUM,24.0,True,1,True,8.0,18.8,22.6,55.0,False,0.5,86.304,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,25.0,1.0,MEDIUM,25.0,True,1,True,8.0,18.8,22.6,55.0,False,0.9,86.106,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,26.0,1.0,MEDIUM,26.0,True,1,True,8.0,18.8,22.5,55.0,False,1.2,86.148,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,27.0,1.0,MEDIUM,27.0,True,1,False,10.0,18.7,22.5,56.0,False,1.0,90.05,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,28.0,2.0,HARD,1.0,True,1,False,16.0,18.7,22.3,56.0,False,0.9,108.853,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,29.0,2.0,HARD,2.0,True,12,True,16.0,18.6,22.5,56.0,False,1.2,85.682,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,30.0,2.0,HARD,3.0,True,1,True,16.0,18.6,22.5,56.0,False,1.2,85.602,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,31.0,2.0,HARD,4.0,True,1,True,16.0,18.6,22.3,56.0,False,1.4,85.307,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,32.0,2.0,HARD,5.0,True,1,True,15.0,18.6,22.3,57.0,False,1.4,85.877,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,33.0,2.0,HARD,6.0,True,1,True,15.0,18.5,22.1,57.0,False,1.1,85.58,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,34.0,2.0,HARD,7.0,True,1,True,14.0,18.5,22.1,57.0,False,1.4,86.137,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,35.0,2.0,HARD,8.0,True,14,False,13.0,18.5,22.1,57.0,False,0.8,120.651,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,36.0,2.0,HARD,9.0,True,4,False,11.0,18.5,22.1,58.0,False,1.2,125.526,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,37.0,3.0,HARD,10.0,False,4,False,11.0,18.4,22.1,59.0,False,1.5,130.074,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,38.0,4.0,HARD,11.0,False,4,False,11.0,18.5,22.2,59.0,False,1.3,146.776,True,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,39.0,4.0,HARD,12.0,False,41,False,10.0,18.5,22.2,59.0,False,1.1,132.021,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,40.0,4.0,HARD,13.0,False,1264,False,10.0,18.4,22.3,60.0,False,1.7,113.041,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,41.0,4.0,HARD,14.0,False,4,False,10.0,18.4,22.1,60.0,False,0.9,133.54,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,42.0,4.0,HARD,15.0,False,41,False,10.0,18.4,22.1,61.0,False,1.1,138.376,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,43.0,4.0,HARD,16.0,False,1,True,11.0,18.4,22.0,61.0,False,1.1,89.014,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,44.0,4.0,HARD,17.0,False,1,True,11.0,18.3,22.0,62.0,False,1.7,86.26,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,45.0,4.0,HARD,18.0,False,1,True,11.0,18.3,22.0,62.0,False,1.4,85.784,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,46.0,4.0,HARD,19.0,False,1,True,10.0,18.3,22.0,62.0,False,1.3,85.823,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,47.0,4.0,HARD,20.0,False,1,True,10.0,18.3,22.0,63.0,False,1.4,85.542,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,48.0,4.0,HARD,21.0,False,1,True,10.0,18.3,21.9,63.0,False,1.2,85.56,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,49.0,4.0,HARD,22.0,False,1,True,9.0,18.3,21.9,63.0,False,0.9,84.603,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,50.0,4.0,HARD,23.0,False,1,True,9.0,18.3,22.0,63.0,False,1.4,84.584,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,51.0,4.0,HARD,24.0,False,1,True,9.0,18.3,21.9,64.0,False,1.2,84.558,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,52.0,4.0,HARD,25.0,False,1,True,9.0,18.3,21.9,64.0,False,1.2,84.593,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,53.0,4.0,HARD,26.0,False,1,True,9.0,18.3,22.0,64.0,False,0.9,84.482,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,54.0,4.0,HARD,27.0,False,1,True,9.0,18.3,22.0,64.0,False,1.4,84.431,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,55.0,4.0,HARD,28.0,False,1,True,9.0,18.2,22.0,64.0,False,1.5,84.259,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,56.0,4.0,HARD,29.0,False,1,True,9.0,18.3,22.0,64.0,False,0.8,84.741,False,57,2024,23,Qatar Grand Prix,2024_23
+MAG,Haas F1 Team,57.0,4.0,HARD,30.0,False,1,True,9.0,18.3,22.0,64.0,False,1.3,84.827,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,1.0,1.0,MEDIUM,1.0,True,124,False,10.0,19.1,23.0,55.0,False,1.8,127.75,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,2.0,1.0,MEDIUM,2.0,True,4,False,10.0,19.1,23.1,54.0,False,2.5,143.351,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,3.0,1.0,MEDIUM,3.0,True,4,False,10.0,19.1,23.0,55.0,False,1.8,138.497,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,4.0,1.0,MEDIUM,4.0,True,41,False,10.0,19.0,23.0,54.0,False,1.3,136.969,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,5.0,1.0,MEDIUM,5.0,True,12,True,9.0,19.0,22.9,54.0,False,2.2,90.04,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,19.0,22.9,54.0,False,1.3,88.679,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,19.0,22.9,54.0,False,1.0,88.217,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,19.0,22.9,54.0,False,1.0,87.737,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,19.0,22.9,54.0,False,0.6,87.661,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,19.0,22.7,55.0,False,1.0,89.206,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,19.0,22.7,55.0,False,0.6,88.174,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,19.0,22.7,54.0,False,1.4,87.91,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,13.0,1.0,MEDIUM,13.0,True,1,True,11.0,19.0,22.6,55.0,False,1.4,88.7,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,18.9,22.8,55.0,False,0.9,88.832,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,19.0,22.7,55.0,False,1.0,88.648,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,16.0,1.0,MEDIUM,16.0,True,1,True,13.0,18.9,22.5,55.0,False,1.1,87.635,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,18.9,22.5,55.0,False,0.9,87.433,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,18.0,1.0,MEDIUM,18.0,True,1,True,13.0,18.9,22.6,55.0,False,1.4,87.574,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,19.0,1.0,MEDIUM,19.0,True,1,True,13.0,18.9,22.5,55.0,False,1.3,87.537,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,20.0,1.0,MEDIUM,20.0,True,1,True,14.0,18.9,22.5,55.0,False,1.1,88.247,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,21.0,1.0,MEDIUM,21.0,True,1,True,14.0,18.8,22.5,55.0,False,1.2,87.301,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,22.0,1.0,MEDIUM,22.0,True,1,True,14.0,18.8,22.7,55.0,False,0.7,87.162,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,23.0,1.0,MEDIUM,23.0,True,1,True,14.0,18.8,22.7,55.0,False,0.5,87.139,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,24.0,1.0,MEDIUM,24.0,True,1,True,13.0,18.8,22.6,55.0,False,0.5,87.036,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,25.0,1.0,MEDIUM,25.0,True,1,True,13.0,18.8,22.6,55.0,False,0.9,86.975,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,26.0,1.0,MEDIUM,26.0,True,1,True,13.0,18.8,22.5,55.0,False,1.2,86.725,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,27.0,1.0,MEDIUM,27.0,True,1,True,13.0,18.7,22.4,56.0,False,1.6,86.505,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,28.0,1.0,MEDIUM,28.0,True,1,True,12.0,18.7,22.3,56.0,False,0.9,86.46,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,29.0,1.0,MEDIUM,29.0,True,12,True,12.0,18.6,22.5,56.0,False,1.2,86.505,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,30.0,1.0,MEDIUM,30.0,True,1,True,12.0,18.6,22.5,56.0,False,1.2,86.912,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,31.0,1.0,MEDIUM,31.0,True,1,True,12.0,18.6,22.3,56.0,False,1.4,86.369,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,32.0,1.0,MEDIUM,32.0,True,1,True,12.0,18.6,22.3,57.0,False,1.4,86.456,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,33.0,1.0,MEDIUM,33.0,True,1,True,12.0,18.5,22.3,57.0,False,1.2,86.519,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,34.0,1.0,MEDIUM,34.0,True,1,True,11.0,18.5,22.1,57.0,False,1.4,86.33,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,35.0,1.0,MEDIUM,35.0,True,14,False,11.0,18.5,22.1,57.0,False,0.8,121.862,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,36.0,2.0,HARD,1.0,True,4,False,12.0,18.5,22.1,58.0,False,1.2,143.242,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,37.0,3.0,HARD,2.0,False,4,False,12.0,18.4,22.1,59.0,False,0.9,118.996,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,38.0,4.0,HARD,3.0,False,4,False,12.0,18.5,22.2,59.0,False,1.3,146.782,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,39.0,4.0,HARD,4.0,False,41,False,11.0,18.5,22.2,59.0,False,1.1,129.747,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,40.0,4.0,HARD,5.0,False,1264,False,13.0,18.4,22.3,60.0,False,1.7,119.241,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,41.0,5.0,SOFT,1.0,True,4,False,14.0,18.4,22.1,60.0,False,0.9,134.978,True,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,42.0,5.0,SOFT,2.0,True,41,False,14.0,18.4,22.1,61.0,False,0.8,131.701,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,43.0,5.0,SOFT,3.0,True,1,True,13.0,18.4,22.0,61.0,False,1.1,88.689,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,44.0,5.0,SOFT,4.0,True,1,True,13.0,18.3,22.0,62.0,False,1.7,87.188,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,45.0,5.0,SOFT,5.0,True,1,True,14.0,18.3,22.0,62.0,False,1.4,86.798,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,46.0,5.0,SOFT,6.0,True,1,True,13.0,18.3,22.0,62.0,False,1.3,86.367,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,47.0,5.0,SOFT,7.0,True,1,True,12.0,18.3,22.0,63.0,False,1.3,86.144,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,48.0,5.0,SOFT,8.0,True,1,True,12.0,18.3,21.9,63.0,False,1.2,86.154,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,49.0,5.0,SOFT,9.0,True,1,True,12.0,18.3,21.9,63.0,False,0.9,86.28,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,50.0,5.0,SOFT,10.0,True,1,True,12.0,18.3,22.0,63.0,False,1.4,87.03,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,51.0,5.0,SOFT,11.0,True,1,True,12.0,18.3,21.9,64.0,False,1.2,87.301,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,52.0,5.0,SOFT,12.0,True,1,True,13.0,18.3,21.9,64.0,False,1.2,87.78,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,53.0,5.0,SOFT,13.0,True,1,True,13.0,18.3,22.0,64.0,False,0.9,87.383,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,54.0,5.0,SOFT,14.0,True,1,True,13.0,18.2,22.0,64.0,False,1.3,87.337,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,55.0,5.0,SOFT,15.0,True,1,True,12.0,18.2,22.0,64.0,False,1.5,87.433,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,56.0,5.0,SOFT,16.0,True,1,True,13.0,18.3,22.0,64.0,False,1.6,87.674,False,57,2024,23,Qatar Grand Prix,2024_23
+TSU,RB,57.0,5.0,SOFT,17.0,True,1,True,13.0,18.3,22.0,64.0,False,1.3,87.125,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,124,False,16.0,19.1,23.0,55.0,False,1.8,135.384,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,4,False,16.0,19.1,23.1,54.0,False,2.5,146.296,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,4,False,16.0,19.1,23.0,55.0,False,1.8,137.47,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,41,False,16.0,19.0,23.0,54.0,False,1.3,129.827,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,12,True,15.0,19.0,22.9,54.0,False,2.2,91.146,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,19.0,22.9,54.0,False,1.3,89.921,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,19.0,22.9,54.0,False,0.9,88.528,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,19.0,22.9,54.0,False,1.0,88.499,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,19.0,22.9,54.0,False,1.3,88.038,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,19.0,22.7,55.0,False,1.0,87.781,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,19.0,22.7,55.0,False,0.6,89.252,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,15.0,19.0,22.7,54.0,False,1.4,87.299,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,15.0,19.0,22.6,55.0,False,1.4,87.771,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,15.0,18.9,22.8,55.0,False,0.9,87.525,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,15.0,19.0,22.7,55.0,False,1.0,87.793,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,15.0,18.9,22.5,55.0,False,1.1,87.6,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,15.0,18.9,22.5,55.0,False,0.9,87.556,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,15.0,18.9,22.6,55.0,False,1.4,87.321,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,15.0,18.9,22.5,55.0,False,1.3,87.428,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,15.0,18.9,22.5,55.0,False,1.1,87.347,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,15.0,18.8,22.5,55.0,False,1.2,87.42,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,15.0,18.8,22.7,55.0,False,1.3,87.133,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,15.0,18.8,22.7,55.0,False,0.5,86.951,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,15.0,18.8,22.6,55.0,False,0.5,86.968,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,14.0,18.8,22.6,55.0,False,0.9,86.998,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,14.0,18.8,22.5,55.0,False,1.2,86.774,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,27.0,1.0,MEDIUM,27.0,True,1,True,14.0,18.7,22.4,56.0,False,1.6,86.663,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,28.0,1.0,MEDIUM,28.0,True,1,True,13.0,18.7,22.3,56.0,False,0.9,86.553,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,29.0,1.0,MEDIUM,29.0,True,12,True,13.0,18.6,22.5,56.0,False,1.2,86.395,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,30.0,1.0,MEDIUM,30.0,True,1,True,13.0,18.6,22.5,56.0,False,1.2,86.708,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,31.0,1.0,MEDIUM,31.0,True,1,True,13.0,18.6,22.3,56.0,False,1.4,86.39,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,32.0,1.0,MEDIUM,32.0,True,1,True,13.0,18.6,22.3,57.0,False,1.4,86.572,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,33.0,1.0,MEDIUM,33.0,True,1,True,13.0,18.5,22.3,57.0,False,1.2,86.303,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,34.0,1.0,MEDIUM,34.0,True,1,True,12.0,18.5,22.1,57.0,False,1.4,87.708,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,35.0,1.0,MEDIUM,35.0,True,14,False,12.0,18.5,22.1,57.0,False,0.8,121.917,True,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,36.0,2.0,SOFT,1.0,True,4,False,13.0,18.5,22.1,58.0,False,1.2,142.739,True,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,37.0,3.0,SOFT,2.0,False,4,False,13.0,18.4,22.1,59.0,False,0.9,118.603,True,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,38.0,4.0,SOFT,3.0,False,4,False,13.0,18.5,22.2,59.0,False,1.3,146.301,True,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,39.0,4.0,SOFT,4.0,False,41,False,12.0,18.5,22.2,59.0,False,1.1,129.058,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,40.0,4.0,SOFT,5.0,False,1264,False,11.0,18.4,22.3,60.0,False,1.7,114.034,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,41.0,4.0,SOFT,6.0,False,4,False,11.0,18.4,22.1,60.0,False,0.9,134.065,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,42.0,4.0,SOFT,7.0,False,41,False,11.0,18.4,22.1,61.0,False,1.1,136.483,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,43.0,4.0,SOFT,8.0,False,1,True,10.0,18.4,22.0,61.0,False,1.1,87.968,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,44.0,4.0,SOFT,9.0,False,1,True,10.0,18.3,22.0,62.0,False,1.7,86.524,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,45.0,4.0,SOFT,10.0,False,1,True,10.0,18.3,22.0,62.0,False,1.4,85.844,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,46.0,4.0,SOFT,11.0,False,1,True,9.0,18.3,22.0,62.0,False,1.3,85.701,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,47.0,4.0,SOFT,12.0,False,1,True,9.0,18.3,22.0,63.0,False,1.4,85.559,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,48.0,4.0,SOFT,13.0,False,1,True,9.0,18.3,21.9,63.0,False,1.2,85.751,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,49.0,4.0,SOFT,14.0,False,1,True,10.0,18.3,21.9,63.0,False,0.9,87.222,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,50.0,4.0,SOFT,15.0,False,1,True,10.0,18.3,22.0,63.0,False,1.4,86.781,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,51.0,4.0,SOFT,16.0,False,1,True,10.0,18.3,21.9,64.0,False,1.2,86.66,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,52.0,4.0,SOFT,17.0,False,1,True,10.0,18.3,21.9,64.0,False,1.2,87.51,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,53.0,4.0,SOFT,18.0,False,1,True,12.0,18.3,22.0,64.0,False,0.9,90.321,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,54.0,4.0,SOFT,19.0,False,1,True,12.0,18.2,22.0,64.0,False,1.3,88.167,False,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,55.0,4.0,SOFT,20.0,False,1,False,14.0,18.2,22.0,64.0,False,1.5,92.223,True,57,2024,23,Qatar Grand Prix,2024_23
+ALB,Williams,56.0,5.0,SOFT,1.0,True,1,False,15.0,18.3,22.0,64.0,False,1.6,123.543,True,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,124,False,15.0,19.1,23.0,55.0,False,1.8,134.044,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,4,False,15.0,19.1,23.1,54.0,False,2.5,145.861,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,4,False,15.0,19.1,23.0,55.0,False,1.8,138.331,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,41,False,15.0,19.0,23.0,54.0,False,1.3,130.295,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,12,True,13.0,19.0,22.9,54.0,False,2.2,90.517,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,19.0,22.9,54.0,False,1.3,89.258,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,19.0,22.9,54.0,False,0.9,88.056,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,19.0,22.9,54.0,False,1.0,88.369,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,19.0,22.9,54.0,False,0.6,88.078,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,19.0,22.7,55.0,False,1.0,87.643,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,19.0,22.7,55.0,False,0.6,88.164,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,19.0,22.7,54.0,False,1.4,87.973,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,19.0,22.6,55.0,False,1.4,87.659,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,18.9,22.8,55.0,False,0.9,87.909,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,19.0,22.7,55.0,False,1.0,87.024,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,18.9,22.5,55.0,False,1.1,87.165,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,18.9,22.5,55.0,False,0.9,87.247,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,18.9,22.6,55.0,False,1.4,87.02,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,18.9,22.5,55.0,False,1.3,86.888,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,18.9,22.5,55.0,False,1.1,86.609,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,True,12.0,18.8,22.5,55.0,False,1.2,86.594,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,18.8,22.7,55.0,False,0.7,86.428,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,23.0,1.0,MEDIUM,23.0,True,1,True,12.0,18.8,22.7,55.0,False,0.5,86.126,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,24.0,1.0,MEDIUM,24.0,True,1,True,12.0,18.8,22.6,55.0,False,0.5,86.397,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,25.0,1.0,MEDIUM,25.0,True,1,True,12.0,18.8,22.6,55.0,False,0.9,86.191,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,26.0,1.0,MEDIUM,26.0,True,1,True,12.0,18.8,22.5,55.0,False,1.2,85.928,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,27.0,1.0,MEDIUM,27.0,True,1,True,12.0,18.7,22.4,56.0,False,1.6,85.912,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,28.0,1.0,MEDIUM,28.0,True,1,True,11.0,18.7,22.3,56.0,False,0.9,85.916,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,29.0,1.0,MEDIUM,29.0,True,12,True,11.0,18.7,22.2,56.0,False,1.5,85.979,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,30.0,1.0,MEDIUM,30.0,True,1,True,11.0,18.6,22.5,56.0,False,1.2,85.849,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,31.0,1.0,MEDIUM,31.0,True,1,True,11.0,18.6,22.4,56.0,False,1.3,85.899,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,32.0,1.0,MEDIUM,32.0,True,1,True,11.0,18.6,22.3,57.0,False,1.4,85.849,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,33.0,1.0,MEDIUM,33.0,True,1,True,11.0,18.5,22.3,57.0,False,1.2,85.659,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,34.0,1.0,MEDIUM,34.0,True,1,True,10.0,18.5,22.1,57.0,False,1.4,85.937,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,35.0,1.0,MEDIUM,35.0,True,14,False,9.0,18.5,22.1,57.0,False,0.8,115.892,True,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,36.0,2.0,HARD,1.0,False,4,False,10.0,18.5,22.1,58.0,False,1.2,146.39,True,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,37.0,3.0,HARD,2.0,False,4,False,9.0,18.4,22.1,59.0,False,1.5,129.664,True,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,38.0,4.0,HARD,3.0,False,4,False,9.0,18.5,22.2,59.0,False,1.3,146.432,True,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,39.0,4.0,HARD,4.0,False,41,False,8.0,18.5,22.2,59.0,False,1.1,135.506,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,40.0,4.0,HARD,5.0,False,1264,False,9.0,18.4,22.3,60.0,False,1.7,112.918,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,41.0,4.0,HARD,6.0,False,4,False,9.0,18.4,22.1,60.0,False,0.9,132.403,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,42.0,4.0,HARD,7.0,False,41,False,9.0,18.4,22.1,61.0,False,1.1,139.983,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,43.0,4.0,HARD,8.0,False,1,True,9.0,18.4,22.0,61.0,False,1.1,88.011,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,44.0,4.0,HARD,9.0,False,1,True,9.0,18.3,22.0,62.0,False,1.7,86.299,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,45.0,4.0,HARD,10.0,False,1,True,9.0,18.3,22.0,62.0,False,1.4,85.141,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,46.0,4.0,HARD,11.0,False,1,True,8.0,18.3,22.0,62.0,False,1.3,85.067,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,47.0,4.0,HARD,12.0,False,1,True,8.0,18.3,22.0,63.0,False,1.4,84.936,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,48.0,4.0,HARD,13.0,False,1,True,8.0,18.3,21.9,63.0,False,1.2,84.906,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,49.0,4.0,HARD,14.0,False,1,True,8.0,18.3,21.9,63.0,False,0.9,84.667,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,50.0,4.0,HARD,15.0,False,1,True,8.0,18.3,22.0,63.0,False,1.4,84.428,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,51.0,4.0,HARD,16.0,False,1,True,8.0,18.3,21.9,64.0,False,1.2,84.425,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,52.0,4.0,HARD,17.0,False,1,True,8.0,18.3,22.0,64.0,False,1.0,84.403,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,53.0,4.0,HARD,18.0,False,1,True,8.0,18.3,22.0,64.0,False,0.9,84.294,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,54.0,4.0,HARD,19.0,False,1,True,8.0,18.3,22.0,64.0,False,1.4,84.239,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,55.0,4.0,HARD,20.0,False,1,True,8.0,18.2,22.0,64.0,False,1.5,84.038,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,56.0,4.0,HARD,21.0,False,1,True,8.0,18.3,22.0,64.0,False,0.8,83.978,False,57,2024,23,Qatar Grand Prix,2024_23
+ZHO,Kick Sauber,57.0,4.0,HARD,22.0,False,1,True,8.0,18.3,22.0,64.0,False,1.3,83.889,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,1.0,1.0,HARD,1.0,True,124,False,18.0,19.1,23.0,55.0,False,1.8,165.271,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,2.0,2.0,HARD,1.0,True,4,False,18.0,19.1,23.1,54.0,False,2.5,127.072,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,3.0,2.0,HARD,2.0,True,4,False,18.0,19.1,23.0,55.0,False,1.8,131.639,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,4.0,2.0,HARD,3.0,True,41,False,18.0,19.0,23.0,54.0,False,1.3,126.08,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,5.0,2.0,HARD,4.0,True,12,True,16.0,19.0,22.9,54.0,False,2.2,91.557,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,6.0,2.0,HARD,5.0,True,1,True,16.0,19.0,22.9,54.0,False,1.3,90.682,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,7.0,2.0,HARD,6.0,True,1,True,16.0,19.0,22.9,54.0,False,0.9,88.652,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,8.0,2.0,HARD,7.0,True,1,True,16.0,19.0,22.9,54.0,False,1.0,88.418,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,9.0,2.0,HARD,8.0,True,1,True,16.0,19.0,22.9,54.0,False,1.3,87.812,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,10.0,2.0,HARD,9.0,True,1,True,16.0,19.0,22.7,55.0,False,1.0,88.286,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,11.0,2.0,HARD,10.0,True,1,True,16.0,19.0,22.7,55.0,False,0.6,88.031,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,12.0,2.0,HARD,11.0,True,1,True,16.0,19.0,22.7,54.0,False,1.4,88.229,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,13.0,2.0,HARD,12.0,True,1,True,16.0,19.0,22.6,55.0,False,1.4,87.908,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,14.0,2.0,HARD,13.0,True,1,True,16.0,18.9,22.8,55.0,False,0.9,87.442,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,15.0,2.0,HARD,14.0,True,1,True,16.0,19.0,22.7,55.0,False,1.0,87.232,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,16.0,2.0,HARD,15.0,True,1,True,16.0,18.9,22.5,55.0,False,1.1,86.897,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,17.0,2.0,HARD,16.0,True,1,True,16.0,18.9,22.5,55.0,False,0.9,87.481,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,18.0,2.0,HARD,17.0,True,1,True,16.0,18.9,22.6,55.0,False,1.4,87.808,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,19.0,2.0,HARD,18.0,True,1,True,16.0,18.9,22.5,55.0,False,1.3,87.227,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,20.0,2.0,HARD,19.0,True,1,True,16.0,18.9,22.5,55.0,False,1.1,87.237,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,21.0,2.0,HARD,20.0,True,1,True,16.0,18.8,22.5,55.0,False,1.2,87.327,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,22.0,2.0,HARD,21.0,True,1,True,16.0,18.8,22.7,55.0,False,1.3,87.214,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,23.0,2.0,HARD,22.0,True,1,True,16.0,18.8,22.7,55.0,False,0.5,87.3,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,24.0,2.0,HARD,23.0,True,1,True,16.0,18.8,22.6,55.0,False,0.5,87.021,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,25.0,2.0,HARD,24.0,True,1,True,15.0,18.8,22.6,55.0,False,0.9,86.647,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,26.0,2.0,HARD,25.0,True,1,True,15.0,18.8,22.5,55.0,False,1.2,86.568,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,27.0,2.0,HARD,26.0,True,1,True,15.0,18.7,22.4,56.0,False,1.6,86.737,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,28.0,2.0,HARD,27.0,True,1,True,14.0,18.7,22.3,56.0,False,0.9,86.235,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,29.0,2.0,HARD,28.0,True,12,True,14.0,18.6,22.5,56.0,False,1.2,86.334,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,30.0,2.0,HARD,29.0,True,1,True,14.0,18.6,22.5,56.0,False,1.2,86.595,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,31.0,2.0,HARD,30.0,True,1,False,15.0,18.6,22.3,56.0,False,1.4,90.767,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,32.0,3.0,MEDIUM,1.0,True,1,False,16.0,18.6,22.3,57.0,False,1.4,106.841,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,33.0,3.0,MEDIUM,2.0,True,1,True,16.0,18.5,22.1,57.0,False,1.1,85.767,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,34.0,3.0,MEDIUM,3.0,True,14,False,16.0,18.5,22.1,57.0,False,1.4,94.689,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,35.0,3.0,MEDIUM,4.0,True,4,False,15.0,18.5,22.1,58.0,False,0.9,118.789,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,36.0,3.0,MEDIUM,5.0,True,4,False,14.0,18.5,22.2,58.0,False,1.1,116.135,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,37.0,4.0,MEDIUM,6.0,False,4,False,14.0,18.4,22.1,59.0,False,0.9,119.627,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,38.0,5.0,MEDIUM,7.0,False,4,False,14.0,18.5,22.2,59.0,False,1.3,144.972,True,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,39.0,5.0,MEDIUM,8.0,False,41,False,13.0,18.5,22.2,59.0,False,1.1,127.982,False,57,2024,23,Qatar Grand Prix,2024_23
+HUL,Haas F1 Team,40.0,5.0,MEDIUM,9.0,False,1264,False,,18.4,22.3,60.0,False,1.7,,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,1.0,1.0,MEDIUM,1.0,True,124,False,14.0,19.1,23.0,55.0,False,1.8,133.331,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,2.0,1.0,MEDIUM,2.0,True,4,False,14.0,19.1,23.1,54.0,False,2.5,145.297,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,3.0,1.0,MEDIUM,3.0,True,4,False,14.0,19.1,23.0,55.0,False,1.8,138.396,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,4.0,1.0,MEDIUM,4.0,True,41,False,14.0,19.0,23.0,54.0,False,1.3,130.85,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,5.0,1.0,MEDIUM,5.0,True,12,True,18.0,19.0,22.9,54.0,False,2.2,97.35,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,19.0,22.9,54.0,False,1.3,89.548,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,7.0,1.0,MEDIUM,7.0,True,1,True,17.0,19.0,22.9,54.0,False,0.9,88.165,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,8.0,1.0,MEDIUM,8.0,True,1,True,17.0,19.0,22.9,54.0,False,1.0,88.159,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,19.0,22.9,54.0,False,1.3,87.66,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,10.0,1.0,MEDIUM,10.0,True,1,True,17.0,19.0,22.7,55.0,False,1.0,88.209,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,11.0,1.0,MEDIUM,11.0,True,1,True,17.0,19.0,22.7,55.0,False,1.3,88.037,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,12.0,1.0,MEDIUM,12.0,True,1,True,17.0,19.0,22.7,54.0,False,1.4,88.11,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,13.0,1.0,MEDIUM,13.0,True,1,True,17.0,19.0,22.6,55.0,False,1.4,88.275,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,14.0,1.0,MEDIUM,14.0,True,1,True,17.0,18.9,22.8,55.0,False,0.9,87.703,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,15.0,1.0,MEDIUM,15.0,True,1,True,17.0,19.0,22.7,55.0,False,1.0,87.692,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,16.0,1.0,MEDIUM,16.0,True,1,True,17.0,18.9,22.5,55.0,False,1.1,87.514,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,17.0,1.0,MEDIUM,17.0,True,1,True,17.0,18.9,22.5,55.0,False,0.9,87.411,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,18.0,1.0,MEDIUM,18.0,True,1,True,17.0,18.9,22.6,55.0,False,1.4,87.362,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,19.0,1.0,MEDIUM,19.0,True,1,True,17.0,18.9,22.5,55.0,False,1.3,87.288,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,20.0,1.0,MEDIUM,20.0,True,1,True,17.0,18.9,22.5,55.0,False,1.1,87.111,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,21.0,1.0,MEDIUM,21.0,True,1,True,17.0,18.8,22.5,55.0,False,1.2,87.143,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,22.0,1.0,MEDIUM,22.0,True,1,True,17.0,18.8,22.7,55.0,False,1.3,87.107,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,23.0,1.0,MEDIUM,23.0,True,1,True,17.0,18.8,22.7,55.0,False,0.5,86.886,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,24.0,1.0,MEDIUM,24.0,True,1,True,17.0,18.8,22.6,55.0,False,0.5,87.019,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,25.0,1.0,MEDIUM,25.0,True,1,True,16.0,18.8,22.6,55.0,False,0.9,87.045,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,26.0,1.0,MEDIUM,26.0,True,1,True,16.0,18.8,22.5,55.0,False,1.2,86.915,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,27.0,1.0,MEDIUM,27.0,True,1,True,16.0,18.7,22.4,56.0,False,1.6,86.56,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,28.0,1.0,MEDIUM,28.0,True,1,True,15.0,18.7,22.3,56.0,False,0.9,86.533,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,29.0,1.0,MEDIUM,29.0,True,12,True,15.0,18.6,22.5,56.0,False,1.2,86.446,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,30.0,1.0,MEDIUM,30.0,True,1,True,15.0,18.6,22.5,56.0,False,1.2,86.642,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,31.0,1.0,MEDIUM,31.0,True,1,True,14.0,18.6,22.3,56.0,False,1.4,86.242,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,32.0,1.0,MEDIUM,32.0,True,1,True,14.0,18.6,22.3,57.0,False,1.4,86.264,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,33.0,1.0,MEDIUM,33.0,True,1,True,14.0,18.5,22.3,57.0,False,1.2,86.219,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,34.0,1.0,MEDIUM,34.0,True,1,True,13.0,18.5,22.1,57.0,False,1.4,86.194,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,35.0,1.0,MEDIUM,35.0,True,14,False,14.0,18.5,22.1,57.0,False,0.8,123.205,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,36.0,2.0,HARD,1.0,True,4,False,15.0,18.5,22.1,58.0,False,1.2,,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,37.0,3.0,HARD,2.0,False,4,False,15.0,18.4,22.1,59.0,False,0.9,115.739,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,38.0,4.0,HARD,3.0,False,4,False,15.0,18.5,22.2,59.0,False,1.3,134.297,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,39.0,4.0,HARD,4.0,False,41,False,14.0,18.5,22.2,59.0,False,1.1,125.703,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,40.0,4.0,HARD,5.0,False,1264,False,15.0,18.4,22.3,60.0,False,1.7,120.647,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,41.0,5.0,SOFT,1.0,True,4,False,15.0,18.4,22.1,60.0,False,0.9,135.917,True,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,42.0,5.0,SOFT,2.0,True,41,False,15.0,18.4,22.1,61.0,False,0.8,128.759,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,43.0,5.0,SOFT,3.0,True,1,True,15.0,18.4,22.0,61.0,False,1.1,89.07,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,44.0,5.0,SOFT,4.0,True,1,True,15.0,18.3,22.0,62.0,False,1.7,87.6,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,45.0,5.0,SOFT,5.0,True,1,True,15.0,18.3,22.0,62.0,False,1.4,86.207,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,46.0,5.0,SOFT,6.0,True,1,True,14.0,18.3,22.0,62.0,False,1.3,86.076,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,47.0,5.0,SOFT,7.0,True,1,True,13.0,18.3,22.0,63.0,False,1.3,86.424,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,48.0,5.0,SOFT,8.0,True,1,True,13.0,18.3,21.9,63.0,False,1.2,86.369,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,49.0,5.0,SOFT,9.0,True,1,True,13.0,18.3,21.9,63.0,False,0.9,86.753,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,50.0,5.0,SOFT,10.0,True,1,True,13.0,18.3,22.0,63.0,False,1.4,87.637,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,51.0,5.0,SOFT,11.0,True,1,True,14.0,18.3,21.9,64.0,False,1.2,88.245,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,52.0,5.0,SOFT,12.0,True,1,True,14.0,18.3,21.9,64.0,False,1.2,87.612,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,53.0,5.0,SOFT,13.0,True,1,True,14.0,18.3,22.0,64.0,False,0.9,87.521,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,54.0,5.0,SOFT,14.0,True,1,True,14.0,18.2,22.0,64.0,False,1.3,87.69,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,55.0,5.0,SOFT,15.0,True,1,True,15.0,18.2,22.0,64.0,False,1.5,87.54,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,56.0,5.0,SOFT,16.0,True,1,True,14.0,18.3,22.0,64.0,False,1.6,86.327,False,57,2024,23,Qatar Grand Prix,2024_23
+LAW,RB,57.0,5.0,SOFT,17.0,True,1,True,14.0,18.3,22.0,64.0,False,1.3,86.522,False,57,2024,23,Qatar Grand Prix,2024_23
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,124,False,,19.1,23.0,55.0,False,1.8,,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,2.0,19.1,23.0,55.0,False,1.8,113.635,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,4,False,2.0,19.1,23.0,55.0,False,2.4,141.28,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,4,False,2.0,19.1,23.0,55.0,False,1.8,137.622,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,41,False,2.0,19.0,23.0,54.0,False,1.3,,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,12,True,2.0,19.0,23.0,54.0,False,1.4,87.175,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,19.0,22.9,54.0,False,1.3,86.683,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,19.0,22.9,54.0,False,1.0,86.5,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,19.0,22.9,54.0,False,1.0,86.668,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,19.0,22.9,54.0,False,0.6,86.344,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,19.0,22.7,55.0,False,1.0,85.972,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,19.0,22.7,55.0,False,0.6,85.985,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,19.0,22.7,54.0,False,1.4,85.813,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,19.0,22.6,55.0,False,1.4,85.794,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,19.0,22.7,55.0,False,0.8,85.924,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,19.0,22.7,55.0,False,1.0,85.535,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,18.9,22.7,55.0,False,0.9,85.508,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,18.9,22.5,55.0,False,0.9,85.39,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,18.9,22.6,55.0,False,1.7,85.253,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,18.9,22.5,55.0,False,1.3,85.276,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,18.9,22.5,55.0,False,1.6,85.017,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,18.9,22.5,55.0,False,1.1,84.997,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,18.8,22.7,55.0,False,0.7,84.865,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,18.8,22.7,55.0,False,1.3,84.977,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,18.8,22.6,55.0,False,0.5,84.67,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,2.0,18.8,22.6,55.0,False,1.0,84.721,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,18.8,22.6,55.0,False,0.9,84.537,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,2.0,18.7,22.5,56.0,False,1.0,84.861,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,2.0,18.7,22.4,56.0,False,1.6,84.751,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,29.0,1.0,MEDIUM,29.0,True,1,True,2.0,18.7,22.2,56.0,False,1.5,84.915,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,30.0,1.0,MEDIUM,30.0,True,12,True,2.0,18.6,22.5,56.0,False,1.2,84.556,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,31.0,1.0,MEDIUM,31.0,True,1,True,2.0,18.6,22.4,56.0,False,1.3,84.794,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,32.0,1.0,MEDIUM,32.0,True,1,True,2.0,18.6,22.3,56.0,False,1.4,84.65,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,33.0,1.0,MEDIUM,33.0,True,1,True,2.0,18.6,22.3,57.0,False,1.4,84.96,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,34.0,1.0,MEDIUM,34.0,True,1,True,2.0,18.5,22.1,57.0,False,1.1,84.562,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,35.0,1.0,MEDIUM,35.0,True,14,False,2.0,18.5,22.1,57.0,False,1.4,93.654,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,36.0,2.0,HARD,1.0,True,4,False,2.0,18.5,22.1,58.0,False,0.9,,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,37.0,3.0,HARD,2.0,False,4,False,2.0,18.4,22.1,59.0,False,1.5,,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,38.0,4.0,HARD,3.0,False,4,False,2.0,18.4,22.3,59.0,False,1.1,149.162,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,39.0,4.0,HARD,4.0,False,41,False,2.0,18.5,22.2,59.0,False,1.1,144.447,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,40.0,4.0,HARD,5.0,False,1264,False,2.0,18.4,22.3,60.0,False,1.7,99.808,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,41.0,4.0,HARD,6.0,False,4,False,2.0,18.4,22.1,60.0,False,0.9,137.19,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,42.0,4.0,HARD,7.0,False,41,False,2.0,18.4,22.1,61.0,False,1.1,148.012,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,43.0,4.0,HARD,8.0,False,1,True,2.0,18.4,22.0,61.0,False,1.1,84.627,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,44.0,4.0,HARD,9.0,False,1,True,2.0,18.3,22.0,62.0,False,1.7,83.473,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,45.0,4.0,HARD,10.0,False,1,False,4.0,18.3,22.0,62.0,False,0.7,87.666,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,46.0,5.0,HARD,11.0,False,1,False,15.0,18.3,22.0,62.0,False,1.3,112.677,True,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,47.0,5.0,HARD,12.0,False,1,True,15.0,18.3,22.0,63.0,False,1.3,82.936,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,48.0,5.0,HARD,13.0,False,1,True,14.0,18.3,21.9,63.0,False,1.2,82.64,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,49.0,5.0,HARD,14.0,False,1,True,14.0,18.3,22.0,63.0,False,1.0,82.822,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,50.0,5.0,HARD,15.0,False,1,True,14.0,18.3,22.0,63.0,False,1.4,84.692,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,51.0,5.0,HARD,16.0,False,1,True,13.0,18.3,21.9,64.0,False,1.2,85.197,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,52.0,5.0,HARD,17.0,False,1,True,12.0,18.3,21.9,64.0,False,1.2,82.928,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,53.0,5.0,HARD,18.0,False,1,True,11.0,18.3,22.0,64.0,False,0.9,85.089,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,54.0,5.0,HARD,19.0,False,1,True,10.0,18.2,22.0,64.0,False,1.3,82.471,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,55.0,5.0,HARD,20.0,False,1,True,10.0,18.2,22.0,64.0,False,1.5,82.994,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,56.0,5.0,HARD,21.0,False,1,True,10.0,18.3,22.0,64.0,False,0.8,82.384,False,57,2024,23,Qatar Grand Prix,2024_23
+NOR,McLaren,57.0,5.0,HARD,22.0,False,1,True,10.0,18.3,22.0,64.0,False,1.3,83.271,False,57,2024,23,Qatar Grand Prix,2024_23
+COL,Williams,1.0,1.0,MEDIUM,1.0,True,124,False,,19.1,23.0,55.0,False,1.8,,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,1.0,1.0,MEDIUM,1.0,True,124,False,9.0,19.1,23.0,55.0,False,1.8,124.279,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,2.0,1.0,MEDIUM,2.0,True,4,False,9.0,19.1,23.0,55.0,False,2.4,144.03,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,3.0,1.0,MEDIUM,3.0,True,4,False,9.0,19.1,23.0,55.0,False,1.8,138.93,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,4.0,1.0,MEDIUM,4.0,True,41,False,9.0,19.0,23.0,54.0,False,1.3,139.017,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,5.0,1.0,MEDIUM,5.0,True,12,True,8.0,19.0,22.9,54.0,False,2.2,89.473,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,19.0,22.9,54.0,False,1.3,88.084,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,19.0,22.9,54.0,False,1.0,87.872,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,19.0,22.9,54.0,False,1.0,87.043,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,19.0,22.9,54.0,False,0.6,86.983,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,19.0,22.7,55.0,False,1.0,87.154,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,19.0,22.7,55.0,False,0.6,86.816,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,19.0,22.7,54.0,False,1.4,86.532,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,19.0,22.6,55.0,False,1.4,86.514,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,18.9,22.8,55.0,False,0.9,86.558,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,19.0,22.7,55.0,False,1.0,86.8,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,18.9,22.7,55.0,False,0.9,86.585,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,18.9,22.5,55.0,False,0.9,86.276,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,18.9,22.6,55.0,False,1.7,86.47,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,18.9,22.5,55.0,False,1.3,86.323,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,8.0,18.9,22.5,55.0,False,1.6,86.383,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,18.8,22.5,55.0,False,1.2,86.026,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,18.8,22.7,55.0,False,0.7,86.189,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,8.0,18.8,22.7,55.0,False,0.5,85.618,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,7.0,18.8,22.6,55.0,False,0.5,85.734,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,True,7.0,18.8,22.6,55.0,False,1.0,85.378,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,26.0,1.0,MEDIUM,26.0,True,1,True,7.0,18.8,22.5,55.0,False,1.2,85.326,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,27.0,1.0,MEDIUM,27.0,True,1,True,7.0,18.7,22.5,56.0,False,1.0,85.227,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,28.0,1.0,MEDIUM,28.0,True,1,True,7.0,18.7,22.3,56.0,False,0.9,86.598,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,29.0,1.0,MEDIUM,29.0,True,12,True,7.0,18.7,22.2,56.0,False,1.5,85.25,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,30.0,1.0,MEDIUM,30.0,True,1,True,7.0,18.6,22.5,56.0,False,1.2,85.396,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,31.0,1.0,MEDIUM,31.0,True,1,True,7.0,18.6,22.4,56.0,False,1.3,85.272,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,32.0,1.0,MEDIUM,32.0,True,1,True,7.0,18.6,22.3,56.0,False,1.4,85.253,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,33.0,1.0,MEDIUM,33.0,True,1,True,7.0,18.5,22.3,57.0,False,1.2,85.713,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,34.0,1.0,MEDIUM,34.0,True,14,False,15.0,18.5,22.1,57.0,False,1.1,136.781,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,35.0,2.0,HARD,1.0,False,4,False,16.0,18.5,22.1,58.0,False,0.9,,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,36.0,3.0,HARD,2.0,False,4,False,16.0,18.5,22.2,58.0,False,1.1,,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,37.0,4.0,HARD,3.0,False,4,False,16.0,18.4,22.3,59.0,False,1.1,120.881,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,38.0,4.0,HARD,4.0,False,4,False,16.0,18.5,22.2,59.0,False,1.1,86.953,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,39.0,4.0,HARD,5.0,False,41,False,15.0,18.5,22.2,59.0,False,1.3,91.819,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,40.0,4.0,HARD,6.0,False,1264,False,12.0,18.4,22.3,60.0,False,1.7,114.351,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,41.0,4.0,HARD,7.0,False,4,False,12.0,18.4,22.1,60.0,False,0.9,134.586,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,42.0,4.0,HARD,8.0,False,41,False,12.0,18.4,22.1,61.0,False,1.1,135.024,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,43.0,4.0,HARD,9.0,False,1,True,14.0,18.4,22.0,61.0,False,1.1,89.654,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,44.0,4.0,HARD,10.0,False,1,True,14.0,18.3,22.0,62.0,False,1.7,87.093,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,45.0,4.0,HARD,11.0,False,1,True,13.0,18.3,22.0,62.0,False,1.4,85.28,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,46.0,4.0,HARD,12.0,False,1,True,11.0,18.3,22.0,62.0,False,1.3,84.726,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,47.0,4.0,HARD,13.0,False,1,False,14.0,18.3,22.0,63.0,False,1.4,89.954,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,48.0,5.0,HARD,14.0,False,1,False,15.0,18.3,21.9,63.0,False,1.2,102.41,True,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,49.0,5.0,HARD,15.0,False,1,True,15.0,18.3,22.0,63.0,False,1.0,85.096,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,50.0,5.0,HARD,16.0,False,1,True,15.0,18.3,22.0,63.0,False,1.4,84.806,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,51.0,5.0,HARD,17.0,False,1,True,15.0,18.3,22.0,64.0,False,1.0,84.462,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,52.0,5.0,HARD,18.0,False,1,True,15.0,18.3,21.9,64.0,False,1.2,83.865,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,53.0,5.0,HARD,19.0,False,1,True,15.0,18.3,22.0,64.0,False,0.9,84.044,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,54.0,5.0,HARD,20.0,False,1,True,15.0,18.2,22.0,64.0,False,1.3,87.079,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,55.0,5.0,HARD,21.0,False,1,True,13.0,18.2,22.0,64.0,False,1.5,84.25,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,56.0,5.0,HARD,22.0,False,1,True,12.0,18.3,22.0,64.0,False,1.6,84.412,False,57,2024,23,Qatar Grand Prix,2024_23
+HAM,Mercedes,57.0,5.0,HARD,23.0,False,1,True,12.0,18.3,22.0,64.0,False,1.3,85.086,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,1.0,1.0,MEDIUM,2.0,False,124,False,6.0,19.1,23.0,55.0,False,1.8,119.394,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,2.0,1.0,MEDIUM,3.0,False,4,False,6.0,19.1,23.0,55.0,False,2.4,143.307,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,3.0,1.0,MEDIUM,4.0,False,4,False,6.0,19.1,23.0,55.0,False,1.8,137.994,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,4.0,1.0,MEDIUM,5.0,False,41,False,6.0,19.0,23.0,54.0,False,1.3,144.487,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,5.0,1.0,MEDIUM,6.0,False,12,True,6.0,19.0,23.0,54.0,False,1.4,89.355,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,6.0,1.0,MEDIUM,7.0,False,1,True,6.0,19.0,22.9,54.0,False,1.3,87.634,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,7.0,1.0,MEDIUM,8.0,False,1,True,6.0,19.0,22.9,54.0,False,1.0,87.189,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,8.0,1.0,MEDIUM,9.0,False,1,True,6.0,19.0,22.9,54.0,False,1.0,87.142,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,9.0,1.0,MEDIUM,10.0,False,1,True,6.0,19.0,22.9,54.0,False,0.6,86.794,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,10.0,1.0,MEDIUM,11.0,False,1,True,6.0,19.0,22.7,55.0,False,1.0,86.466,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,11.0,1.0,MEDIUM,12.0,False,1,True,6.0,19.0,22.7,55.0,False,0.6,86.378,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,12.0,1.0,MEDIUM,13.0,False,1,True,6.0,19.0,22.7,54.0,False,1.4,86.223,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,13.0,1.0,MEDIUM,14.0,False,1,True,6.0,19.0,22.6,55.0,False,1.4,86.126,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,14.0,1.0,MEDIUM,15.0,False,1,True,6.0,18.9,22.8,55.0,False,0.9,86.19,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,15.0,1.0,MEDIUM,16.0,False,1,True,6.0,19.0,22.7,55.0,False,1.0,86.112,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,16.0,1.0,MEDIUM,17.0,False,1,True,6.0,18.9,22.7,55.0,False,0.9,85.887,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,17.0,1.0,MEDIUM,18.0,False,1,True,6.0,18.9,22.5,55.0,False,0.9,85.873,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,18.0,1.0,MEDIUM,19.0,False,1,True,6.0,18.9,22.6,55.0,False,1.7,85.568,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,19.0,1.0,MEDIUM,20.0,False,1,True,6.0,18.9,22.5,55.0,False,1.3,85.852,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,20.0,1.0,MEDIUM,21.0,False,1,True,6.0,18.9,22.5,55.0,False,1.6,85.559,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,21.0,1.0,MEDIUM,22.0,False,1,True,6.0,18.8,22.5,55.0,False,1.2,85.369,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,22.0,1.0,MEDIUM,23.0,False,1,True,6.0,18.8,22.7,55.0,False,0.7,85.353,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,23.0,1.0,MEDIUM,24.0,False,1,True,6.0,18.8,22.7,55.0,False,1.3,85.373,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,24.0,1.0,MEDIUM,25.0,False,1,True,5.0,18.8,22.6,55.0,False,0.5,85.279,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,25.0,1.0,MEDIUM,26.0,False,1,True,5.0,18.8,22.6,55.0,False,1.0,85.331,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,26.0,1.0,MEDIUM,27.0,False,1,True,5.0,18.8,22.5,55.0,False,1.2,85.13,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,27.0,1.0,MEDIUM,28.0,False,1,True,5.0,18.7,22.5,56.0,False,1.0,84.859,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,28.0,1.0,MEDIUM,29.0,False,1,True,5.0,18.7,22.3,56.0,False,0.9,85.144,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,29.0,1.0,MEDIUM,30.0,False,12,True,5.0,18.7,22.2,56.0,False,1.5,84.982,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,30.0,1.0,MEDIUM,31.0,False,21,True,5.0,18.6,22.5,56.0,False,1.2,85.235,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,31.0,1.0,MEDIUM,32.0,False,1,True,5.0,18.6,22.4,56.0,False,1.3,84.802,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,32.0,1.0,MEDIUM,33.0,False,1,True,5.0,18.6,22.3,56.0,False,1.4,84.885,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,33.0,1.0,MEDIUM,34.0,False,1,True,5.0,18.5,22.3,57.0,False,1.2,85.104,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,34.0,1.0,MEDIUM,35.0,False,1,False,6.0,18.5,22.1,57.0,False,1.1,107.696,True,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,35.0,2.0,HARD,1.0,True,14,False,10.0,18.5,22.1,57.0,False,0.8,148.364,True,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,36.0,2.0,HARD,2.0,True,4,False,8.0,18.5,22.1,58.0,False,1.2,123.309,True,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,37.0,3.0,HARD,3.0,False,4,False,8.0,18.4,22.1,59.0,False,1.5,133.402,True,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,38.0,4.0,HARD,4.0,False,4,False,8.0,18.5,22.2,59.0,False,1.3,146.73,True,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,39.0,4.0,HARD,5.0,False,41,False,7.0,18.5,22.2,59.0,False,1.1,135.775,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,40.0,4.0,HARD,6.0,False,1264,False,7.0,18.4,22.3,60.0,False,1.7,110.298,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,41.0,4.0,HARD,7.0,False,4,False,7.0,18.4,22.1,60.0,False,0.9,133.053,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,42.0,4.0,HARD,8.0,False,41,False,7.0,18.4,22.1,61.0,False,1.1,142.05,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,43.0,4.0,HARD,9.0,False,1,True,7.0,18.4,22.0,61.0,False,1.1,87.686,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,44.0,4.0,HARD,10.0,False,1,True,7.0,18.3,22.0,62.0,False,1.7,85.236,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,45.0,4.0,HARD,11.0,False,1,True,7.0,18.3,22.0,62.0,False,1.4,84.607,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,46.0,4.0,HARD,12.0,False,1,True,6.0,18.3,22.0,62.0,False,1.3,84.17,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,47.0,4.0,HARD,13.0,False,1,True,6.0,18.3,22.0,63.0,False,1.4,84.445,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,48.0,4.0,HARD,14.0,False,1,True,6.0,18.3,21.9,63.0,False,1.2,84.094,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,49.0,4.0,HARD,15.0,False,1,True,6.0,18.3,21.9,63.0,False,0.9,83.89,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,50.0,4.0,HARD,16.0,False,1,True,6.0,18.3,22.0,63.0,False,1.4,83.858,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,51.0,4.0,HARD,17.0,False,1,True,6.0,18.3,21.9,64.0,False,1.2,84.922,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,52.0,4.0,HARD,18.0,False,1,True,6.0,18.3,22.0,64.0,False,1.0,83.465,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,53.0,4.0,HARD,19.0,False,1,True,6.0,18.3,22.0,64.0,False,0.9,83.62,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,54.0,4.0,HARD,20.0,False,1,True,6.0,18.3,22.0,64.0,False,1.4,83.745,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,55.0,4.0,HARD,21.0,False,1,True,6.0,18.2,22.0,64.0,False,1.5,84.559,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,56.0,4.0,HARD,22.0,False,1,True,6.0,18.3,22.0,64.0,False,0.8,83.544,False,57,2024,23,Qatar Grand Prix,2024_23
+SAI,Ferrari,57.0,4.0,HARD,23.0,False,1,True,6.0,18.3,22.0,64.0,False,1.6,83.905,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,1.0,1.0,MEDIUM,2.0,False,124,False,3.0,19.1,23.0,55.0,False,1.8,115.631,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,2.0,1.0,MEDIUM,3.0,False,4,False,3.0,19.1,23.0,55.0,False,2.4,141.375,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,3.0,1.0,MEDIUM,4.0,False,4,False,3.0,19.1,23.0,55.0,False,1.8,137.726,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,4.0,1.0,MEDIUM,5.0,False,41,False,3.0,19.0,23.0,54.0,False,1.3,149.191,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,5.0,1.0,MEDIUM,6.0,False,12,True,3.0,19.0,23.0,54.0,False,1.4,87.948,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,6.0,1.0,MEDIUM,7.0,False,1,True,3.0,19.0,22.9,54.0,False,1.3,86.797,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,7.0,1.0,MEDIUM,8.0,False,1,True,3.0,19.0,22.9,54.0,False,1.0,86.561,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,8.0,1.0,MEDIUM,9.0,False,1,True,3.0,19.0,22.9,54.0,False,1.0,86.433,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,9.0,1.0,MEDIUM,10.0,False,1,True,3.0,19.0,22.9,54.0,False,0.6,86.498,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,10.0,1.0,MEDIUM,11.0,False,1,True,3.0,19.0,22.7,55.0,False,1.0,86.274,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,11.0,1.0,MEDIUM,12.0,False,1,True,3.0,19.0,22.7,55.0,False,0.6,86.214,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,12.0,1.0,MEDIUM,13.0,False,1,True,3.0,19.0,22.7,54.0,False,1.4,85.989,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,13.0,1.0,MEDIUM,14.0,False,1,True,3.0,19.0,22.6,55.0,False,1.4,86.182,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,14.0,1.0,MEDIUM,15.0,False,1,True,3.0,19.0,22.7,55.0,False,0.8,86.24,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,15.0,1.0,MEDIUM,16.0,False,1,True,3.0,19.0,22.7,55.0,False,1.0,85.958,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,16.0,1.0,MEDIUM,17.0,False,1,True,3.0,18.9,22.7,55.0,False,0.9,86.022,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,17.0,1.0,MEDIUM,18.0,False,1,True,3.0,18.9,22.5,55.0,False,0.9,85.749,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,18.0,1.0,MEDIUM,19.0,False,1,True,3.0,18.9,22.6,55.0,False,1.7,85.56,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,19.0,1.0,MEDIUM,20.0,False,1,True,3.0,18.9,22.5,55.0,False,1.3,85.546,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,20.0,1.0,MEDIUM,21.0,False,1,True,3.0,18.9,22.5,55.0,False,1.6,85.76,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,21.0,1.0,MEDIUM,22.0,False,1,True,3.0,18.9,22.5,55.0,False,1.1,85.721,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,22.0,1.0,MEDIUM,23.0,False,1,True,3.0,18.8,22.7,55.0,False,0.7,85.576,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,23.0,1.0,MEDIUM,24.0,False,1,False,5.0,18.8,22.7,55.0,False,1.3,89.591,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,24.0,2.0,HARD,1.0,True,1,False,11.0,18.8,22.6,55.0,False,0.5,113.294,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,25.0,2.0,HARD,2.0,True,1,True,11.0,18.8,22.6,55.0,False,0.9,85.514,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,26.0,2.0,HARD,3.0,True,1,True,11.0,18.8,22.5,55.0,False,1.2,85.973,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,27.0,2.0,HARD,4.0,True,1,True,11.0,18.7,22.4,56.0,False,1.6,86.155,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,28.0,2.0,HARD,5.0,True,1,True,10.0,18.7,22.3,56.0,False,0.9,85.867,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,29.0,2.0,HARD,6.0,True,12,True,10.0,18.7,22.2,56.0,False,1.5,85.916,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,30.0,2.0,HARD,7.0,True,1,True,10.0,18.6,22.5,56.0,False,1.2,86.145,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,31.0,2.0,HARD,8.0,True,1,True,10.0,18.6,22.4,56.0,False,1.3,85.811,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,32.0,2.0,HARD,9.0,True,1,True,10.0,18.6,22.3,57.0,False,1.4,85.583,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,33.0,2.0,HARD,10.0,True,1,True,10.0,18.5,22.3,57.0,False,1.2,85.498,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,34.0,2.0,HARD,11.0,True,1,True,8.0,18.5,22.1,57.0,False,1.4,85.972,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,35.0,2.0,HARD,12.0,True,14,False,7.0,18.5,22.1,57.0,False,0.8,114.752,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,36.0,3.0,HARD,1.0,True,4,False,7.0,18.5,22.1,58.0,False,1.2,142.188,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,37.0,4.0,HARD,2.0,False,4,False,7.0,18.4,22.1,59.0,False,1.5,134.784,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,38.0,5.0,HARD,3.0,False,4,False,7.0,18.5,22.2,59.0,False,1.3,146.38,True,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,39.0,5.0,HARD,4.0,False,41,False,6.0,18.5,22.2,59.0,False,1.1,137.029,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,40.0,5.0,HARD,5.0,False,1264,False,5.0,18.4,22.3,60.0,False,1.7,106.275,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,41.0,5.0,HARD,6.0,False,4,False,5.0,18.4,22.1,60.0,False,0.9,134.121,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,42.0,5.0,HARD,7.0,False,41,False,5.0,18.4,22.1,61.0,False,1.1,144.716,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,43.0,5.0,HARD,8.0,False,1,True,5.0,18.4,22.0,61.0,False,1.1,86.371,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,44.0,5.0,HARD,9.0,False,1,True,5.0,18.3,22.0,62.0,False,1.7,84.644,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,45.0,5.0,HARD,10.0,False,1,True,5.0,18.3,22.0,62.0,False,1.4,84.01,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,46.0,5.0,HARD,11.0,False,1,True,4.0,18.3,22.0,62.0,False,1.3,83.614,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,47.0,5.0,HARD,12.0,False,1,True,4.0,18.3,22.0,63.0,False,1.4,83.889,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,48.0,5.0,HARD,13.0,False,1,True,4.0,18.3,21.9,63.0,False,1.2,83.796,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,49.0,5.0,HARD,14.0,False,1,True,4.0,18.3,21.9,63.0,False,0.9,83.744,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,50.0,5.0,HARD,15.0,False,1,True,4.0,18.3,22.0,63.0,False,1.4,83.355,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,51.0,5.0,HARD,16.0,False,1,True,4.0,18.3,21.9,64.0,False,1.2,83.495,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,52.0,5.0,HARD,17.0,False,1,True,4.0,18.3,22.0,64.0,False,1.0,83.549,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,53.0,5.0,HARD,18.0,False,1,True,4.0,18.3,22.0,64.0,False,0.9,83.681,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,54.0,5.0,HARD,19.0,False,1,True,4.0,18.3,22.0,64.0,False,1.4,83.56,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,55.0,5.0,HARD,20.0,False,1,True,4.0,18.2,22.0,64.0,False,1.3,83.361,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,56.0,5.0,HARD,21.0,False,1,True,4.0,18.3,22.0,64.0,False,0.8,83.366,False,57,2024,23,Qatar Grand Prix,2024_23
+RUS,Mercedes,57.0,5.0,HARD,22.0,False,1,True,4.0,18.3,22.0,64.0,False,1.6,83.477,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,124,False,13.0,19.1,23.0,55.0,False,1.8,132.082,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,4,False,13.0,19.1,23.1,54.0,False,2.5,144.412,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,4,False,13.0,19.1,23.0,55.0,False,1.8,138.818,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,41,False,13.0,19.0,23.0,54.0,False,1.3,132.447,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,12,True,14.0,19.0,22.9,54.0,False,2.2,92.024,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,19.0,22.9,54.0,False,1.3,89.4,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,19.0,22.9,54.0,False,0.9,88.25,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,19.0,22.9,54.0,False,1.0,88.501,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,19.0,22.9,54.0,False,0.6,87.855,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,14.0,19.0,22.7,55.0,False,1.0,87.717,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,19.0,22.7,55.0,False,0.6,88.141,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,14.0,19.0,22.7,54.0,False,1.4,87.842,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,14.0,19.0,22.6,55.0,False,1.4,87.753,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,14.0,18.9,22.8,55.0,False,0.9,87.79,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,19.0,22.7,55.0,False,1.0,88.029,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,18.9,22.5,55.0,False,1.1,87.96,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,14.0,18.9,22.5,55.0,False,0.9,87.339,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,18.9,22.6,55.0,False,1.4,87.489,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,14.0,18.9,22.5,55.0,False,1.3,87.16,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,13.0,18.9,22.5,55.0,False,1.1,86.295,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,True,13.0,18.8,22.5,55.0,False,1.2,86.958,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,22.0,1.0,MEDIUM,22.0,True,1,True,13.0,18.8,22.7,55.0,False,0.7,86.843,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,23.0,1.0,MEDIUM,23.0,True,1,True,13.0,18.8,22.7,55.0,False,0.5,86.299,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,24.0,1.0,MEDIUM,24.0,True,1,False,14.0,18.8,22.6,55.0,False,0.5,90.542,True,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,25.0,2.0,HARD,1.0,False,1,False,17.0,18.8,22.6,55.0,False,0.9,111.494,True,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,26.0,2.0,HARD,2.0,False,1,True,17.0,18.7,22.5,56.0,False,1.0,87.079,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,27.0,2.0,HARD,3.0,False,1,True,17.0,18.7,22.4,56.0,False,1.6,86.69,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,28.0,2.0,HARD,4.0,False,1,True,17.0,18.7,22.2,56.0,False,1.5,89.406,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,29.0,2.0,HARD,5.0,False,12,True,17.0,18.6,22.5,56.0,False,1.2,86.93,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,30.0,2.0,HARD,6.0,False,1,True,17.0,18.6,22.4,56.0,False,1.3,86.461,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,31.0,2.0,HARD,7.0,False,1,True,17.0,18.6,22.3,56.0,False,1.4,86.288,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,32.0,2.0,HARD,8.0,False,1,True,17.0,18.6,22.3,57.0,False,1.4,88.647,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,33.0,2.0,HARD,9.0,False,1,True,17.0,18.5,22.1,57.0,False,1.1,88.461,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,34.0,2.0,HARD,10.0,False,14,False,17.0,18.5,22.1,57.0,False,1.4,97.515,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,35.0,2.0,HARD,11.0,False,4,False,17.0,18.5,22.1,58.0,False,0.9,,True,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,36.0,3.0,MEDIUM,9.0,False,4,False,17.0,18.4,22.1,59.0,False,1.5,,True,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,37.0,4.0,MEDIUM,10.0,False,4,False,17.0,18.4,22.3,59.0,False,1.1,120.033,True,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,38.0,4.0,MEDIUM,11.0,False,4,False,17.0,18.5,22.2,59.0,False,1.1,88.199,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,39.0,4.0,MEDIUM,12.0,False,41,False,16.0,18.5,22.2,59.0,False,1.3,89.792,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,40.0,4.0,MEDIUM,13.0,False,1264,False,14.0,18.4,22.3,60.0,False,1.7,117.286,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,41.0,4.0,MEDIUM,14.0,False,4,False,13.0,18.4,22.1,60.0,False,0.9,132.721,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,42.0,4.0,MEDIUM,15.0,False,41,False,13.0,18.4,22.1,61.0,False,1.1,133.244,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,43.0,4.0,MEDIUM,16.0,False,1,True,12.0,18.4,22.0,61.0,False,1.1,88.386,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,44.0,4.0,MEDIUM,17.0,False,1,True,12.0,18.3,22.0,62.0,False,1.7,86.779,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,45.0,4.0,MEDIUM,18.0,False,1,True,12.0,18.3,22.0,62.0,False,1.4,86.296,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,46.0,4.0,MEDIUM,19.0,False,1,True,12.0,18.3,22.0,62.0,False,1.3,86.979,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,47.0,4.0,MEDIUM,20.0,False,1,True,11.0,18.3,22.0,63.0,False,1.3,85.92,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,48.0,4.0,MEDIUM,21.0,False,1,True,11.0,18.3,21.9,63.0,False,1.2,85.548,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,49.0,4.0,MEDIUM,22.0,False,1,True,11.0,18.3,21.9,63.0,False,0.9,85.639,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,50.0,4.0,MEDIUM,23.0,False,1,True,11.0,18.3,22.0,63.0,False,1.4,85.881,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,51.0,4.0,MEDIUM,24.0,False,1,True,11.0,18.3,21.9,64.0,False,1.2,86.352,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,52.0,4.0,MEDIUM,25.0,False,1,True,11.0,18.3,21.9,64.0,False,1.2,86.927,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,53.0,4.0,MEDIUM,26.0,False,1,True,10.0,18.3,22.0,64.0,False,0.9,85.533,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,54.0,4.0,MEDIUM,27.0,False,1,True,11.0,18.2,22.0,64.0,False,1.3,86.568,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,55.0,4.0,MEDIUM,28.0,False,1,True,11.0,18.2,22.0,64.0,False,1.5,86.051,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,56.0,4.0,MEDIUM,29.0,False,1,True,11.0,18.3,22.0,64.0,False,0.8,86.311,False,57,2024,23,Qatar Grand Prix,2024_23
+BOT,Kick Sauber,57.0,4.0,MEDIUM,30.0,False,1,True,11.0,18.3,22.0,64.0,False,1.3,87.014,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,5.0,19.1,23.0,55.0,False,1.8,118.513,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,4,False,5.0,19.1,23.0,55.0,False,2.4,142.913,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,4,False,5.0,19.1,23.0,55.0,False,1.8,137.707,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,41,False,5.0,19.0,23.0,54.0,False,1.3,145.626,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,12,True,4.0,19.0,23.0,54.0,False,1.4,87.603,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,19.0,22.9,54.0,False,1.3,87.02,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,19.0,22.9,54.0,False,1.0,86.851,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,19.0,22.9,54.0,False,1.0,86.322,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,19.0,22.9,54.0,False,0.6,86.464,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,19.0,22.7,55.0,False,1.0,86.169,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,19.0,22.7,55.0,False,0.6,86.382,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,19.0,22.7,54.0,False,1.4,86.288,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,19.0,22.6,55.0,False,1.4,86.035,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,19.0,22.7,55.0,False,0.8,86.056,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,19.0,22.7,55.0,False,1.0,85.803,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,18.9,22.7,55.0,False,0.9,86.474,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,18.9,22.5,55.0,False,0.9,86.031,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,18.9,22.6,55.0,False,1.7,85.703,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,18.9,22.5,55.0,False,1.3,85.494,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,18.9,22.5,55.0,False,1.6,85.517,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,18.9,22.5,55.0,False,1.1,85.366,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,18.8,22.7,55.0,False,0.7,85.218,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,18.8,22.7,55.0,False,1.3,85.634,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,18.8,22.6,55.0,False,0.5,84.75,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,18.8,22.6,55.0,False,1.0,84.897,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,3.0,18.8,22.5,55.0,False,1.2,84.898,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,3.0,18.7,22.5,56.0,False,1.0,84.727,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,3.0,18.7,22.4,56.0,False,1.6,84.71,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,29.0,1.0,MEDIUM,29.0,True,12,True,3.0,18.7,22.2,56.0,False,1.5,84.761,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,30.0,1.0,MEDIUM,30.0,True,21,True,3.0,18.6,22.5,56.0,False,1.2,85.129,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,31.0,1.0,MEDIUM,31.0,True,1,True,3.0,18.6,22.4,56.0,False,1.3,84.883,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,32.0,1.0,MEDIUM,32.0,True,1,True,3.0,18.6,22.3,56.0,False,1.4,84.894,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,33.0,1.0,MEDIUM,33.0,True,1,True,3.0,18.6,22.3,57.0,False,1.4,85.284,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,34.0,1.0,MEDIUM,34.0,True,1,False,4.0,18.5,22.1,57.0,False,1.1,89.34,True,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,35.0,2.0,HARD,1.0,True,14,False,5.0,18.5,22.1,57.0,False,1.4,127.624,True,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,36.0,2.0,HARD,2.0,True,4,False,4.0,18.5,22.1,58.0,False,1.2,128.14,True,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,37.0,3.0,HARD,3.0,False,4,False,4.0,18.4,22.1,59.0,False,1.5,,True,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,38.0,4.0,HARD,4.0,False,4,False,4.0,18.4,22.3,59.0,False,1.1,148.28,True,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,39.0,4.0,HARD,5.0,False,41,False,4.0,18.5,22.2,59.0,False,1.1,141.872,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,40.0,4.0,HARD,6.0,False,1264,False,4.0,18.4,22.3,60.0,False,1.7,103.378,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,41.0,4.0,HARD,7.0,False,4,False,4.0,18.4,22.1,60.0,False,0.9,135.81,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,42.0,4.0,HARD,8.0,False,41,False,4.0,18.4,22.1,61.0,False,1.1,145.878,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,43.0,4.0,HARD,9.0,False,1,True,4.0,18.4,22.0,61.0,False,1.1,86.116,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,44.0,4.0,HARD,10.0,False,1,True,4.0,18.3,22.0,62.0,False,1.7,84.301,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,45.0,4.0,HARD,11.0,False,1,True,3.0,18.3,22.0,62.0,False,1.4,83.98,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,46.0,4.0,HARD,12.0,False,1,True,3.0,18.3,22.0,62.0,False,1.3,83.909,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,47.0,4.0,HARD,13.0,False,1,True,3.0,18.3,22.0,63.0,False,1.4,83.568,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,48.0,4.0,HARD,14.0,False,1,True,3.0,18.3,21.9,63.0,False,1.2,83.624,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,49.0,4.0,HARD,15.0,False,1,True,3.0,18.3,21.9,63.0,False,0.9,83.623,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,50.0,4.0,HARD,16.0,False,1,True,3.0,18.3,22.0,63.0,False,1.0,83.625,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,51.0,4.0,HARD,17.0,False,1,True,3.0,18.3,21.9,64.0,False,1.2,83.218,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,52.0,4.0,HARD,18.0,False,1,True,3.0,18.3,22.0,64.0,False,1.0,83.478,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,53.0,4.0,HARD,19.0,False,1,True,3.0,18.3,22.0,64.0,False,0.9,83.523,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,54.0,4.0,HARD,20.0,False,1,True,3.0,18.3,22.0,64.0,False,1.4,83.37,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,55.0,4.0,HARD,21.0,False,1,True,3.0,18.2,22.0,64.0,False,1.3,83.269,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,56.0,4.0,HARD,22.0,False,1,True,3.0,18.3,22.0,64.0,False,0.8,83.313,False,57,2024,23,Qatar Grand Prix,2024_23
+PIA,McLaren,57.0,4.0,HARD,23.0,False,1,True,3.0,18.3,22.0,64.0,False,1.6,83.241,False,57,2024,23,Qatar Grand Prix,2024_23

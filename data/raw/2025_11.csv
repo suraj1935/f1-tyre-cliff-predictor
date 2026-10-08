@@ -1,0 +1,1127 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,1.0,30.2,47.8,33.0,False,0.9,88.861,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,4,False,1.0,30.4,49.7,32.0,False,1.0,114.426,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,41,False,1.0,30.6,49.2,32.0,False,1.5,113.022,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,30.7,49.6,32.0,False,0.8,70.254,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,30.8,49.8,32.0,False,0.6,69.858,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,30.7,49.7,32.0,False,1.4,69.46,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,30.6,50.3,32.0,False,1.9,69.313,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,30.6,50.4,32.0,False,2.1,69.394,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,30.6,50.3,32.0,False,2.2,69.488,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,30.7,50.3,31.0,False,3.1,69.952,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,30.6,49.2,31.0,False,2.4,70.946,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,30.6,49.1,32.0,False,2.1,70.184,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,30.5,49.2,31.0,False,2.1,70.046,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,30.4,49.9,32.0,False,2.7,71.318,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,30.4,49.5,31.0,False,3.1,71.274,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,30.4,49.5,32.0,False,2.1,70.937,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,30.5,49.6,31.0,False,1.9,70.841,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,30.6,49.7,30.0,False,1.9,70.789,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,30.6,49.4,31.0,False,2.5,71.043,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,False,2.0,30.6,49.4,32.0,False,2.2,73.982,True,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,21.0,2.0,HARD,1.0,True,1,False,4.0,30.6,49.0,31.0,False,1.8,87.815,True,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,22.0,2.0,HARD,2.0,True,1,True,4.0,30.6,49.3,31.0,False,1.6,69.921,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,23.0,2.0,HARD,3.0,True,1,True,4.0,30.7,49.3,31.0,False,1.9,70.012,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,24.0,2.0,HARD,4.0,True,1,True,4.0,30.6,49.3,31.0,False,1.8,69.829,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,25.0,2.0,HARD,5.0,True,1,True,3.0,30.6,49.6,31.0,False,1.9,69.645,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,26.0,2.0,HARD,6.0,True,1,True,1.0,30.5,49.1,31.0,False,1.3,69.62,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,27.0,2.0,HARD,7.0,True,1,True,1.0,30.5,49.1,31.0,False,1.9,69.522,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,28.0,2.0,HARD,8.0,True,1,True,1.0,30.6,48.8,31.0,False,2.4,69.528,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,29.0,2.0,HARD,9.0,True,1,True,1.0,30.6,49.7,31.0,False,1.5,69.494,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,30.0,2.0,HARD,10.0,True,1,True,1.0,30.6,49.4,31.0,False,3.2,69.641,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,31.0,2.0,HARD,11.0,True,12,True,1.0,30.6,48.8,31.0,False,2.5,69.546,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,32.0,2.0,HARD,12.0,True,1,True,1.0,30.5,48.8,31.0,False,2.0,69.546,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,33.0,2.0,HARD,13.0,True,1,True,1.0,30.6,48.7,32.0,False,2.2,69.602,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,34.0,2.0,HARD,14.0,True,1,True,1.0,30.6,48.8,32.0,False,2.2,69.561,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,35.0,2.0,HARD,15.0,True,1,True,1.0,30.5,48.5,31.0,False,2.0,69.377,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,36.0,2.0,HARD,16.0,True,1,True,1.0,30.4,48.5,32.0,False,1.6,69.309,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,37.0,2.0,HARD,17.0,True,1,True,1.0,30.5,48.4,32.0,False,1.7,69.779,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,38.0,2.0,HARD,18.0,True,1,True,1.0,30.5,48.4,31.0,False,1.2,69.723,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,39.0,2.0,HARD,19.0,True,1,True,1.0,30.4,48.3,32.0,False,1.1,69.955,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,40.0,2.0,HARD,20.0,True,1,True,1.0,30.5,48.7,31.0,False,0.8,70.682,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,41.0,2.0,HARD,21.0,True,1,True,1.0,30.8,49.3,31.0,False,0.7,69.899,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,42.0,2.0,HARD,22.0,True,1,True,1.0,30.9,48.6,30.0,False,3.3,69.808,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,43.0,2.0,HARD,23.0,True,1,True,1.0,30.9,48.4,31.0,False,2.7,69.638,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,44.0,2.0,HARD,24.0,True,1,True,1.0,30.8,48.4,32.0,False,1.1,69.641,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,45.0,2.0,HARD,25.0,True,1,True,1.0,31.0,49.3,31.0,False,1.2,70.044,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,46.0,2.0,HARD,26.0,True,1,True,1.0,31.1,49.1,31.0,False,2.1,69.677,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,47.0,2.0,HARD,27.0,True,1,True,1.0,31.2,49.1,30.0,False,2.8,69.97,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,48.0,2.0,HARD,28.0,True,1,True,1.0,31.2,48.9,30.0,False,2.5,70.073,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,49.0,2.0,HARD,29.0,True,1,True,1.0,31.3,48.0,31.0,False,1.8,70.072,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,50.0,2.0,HARD,30.0,True,1,True,1.0,31.3,48.2,32.0,False,0.8,70.221,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,51.0,2.0,HARD,31.0,True,1,True,1.0,31.1,48.9,31.0,False,3.2,70.292,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,52.0,2.0,HARD,32.0,True,1,False,2.0,31.1,48.7,31.0,False,2.0,73.952,True,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,53.0,3.0,MEDIUM,1.0,True,1,False,2.0,31.1,48.7,31.0,False,2.8,86.125,True,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,54.0,3.0,MEDIUM,2.0,True,1,True,1.0,31.1,48.7,31.0,False,2.5,68.989,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,55.0,3.0,MEDIUM,3.0,True,1,True,1.0,31.0,48.4,31.0,False,2.2,69.357,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,56.0,3.0,MEDIUM,4.0,True,1,True,1.0,31.0,48.6,31.0,False,1.9,68.527,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,57.0,3.0,MEDIUM,5.0,True,1,True,1.0,30.9,48.5,31.0,False,2.5,68.552,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,58.0,3.0,MEDIUM,6.0,True,1,True,1.0,30.9,48.2,30.0,False,2.9,68.326,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,59.0,3.0,MEDIUM,7.0,True,1,True,1.0,30.9,47.5,31.0,False,1.7,68.435,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,60.0,3.0,MEDIUM,8.0,True,1,True,1.0,30.7,48.2,31.0,False,1.5,68.678,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,61.0,3.0,MEDIUM,9.0,True,1,True,1.0,30.7,48.6,31.0,False,2.3,68.272,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,62.0,3.0,MEDIUM,10.0,True,1,True,1.0,31.0,48.6,30.0,False,2.1,68.665,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,63.0,3.0,MEDIUM,11.0,True,1,True,1.0,31.1,48.3,30.0,False,1.9,68.698,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,64.0,3.0,MEDIUM,12.0,True,1,True,1.0,31.2,48.2,30.0,False,2.8,68.655,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,65.0,3.0,MEDIUM,13.0,True,1,True,1.0,31.3,48.0,30.0,False,2.2,68.754,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,66.0,3.0,MEDIUM,14.0,True,1,True,1.0,31.3,47.5,30.0,False,2.4,69.043,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,67.0,3.0,MEDIUM,15.0,True,1,True,1.0,31.0,47.5,32.0,False,1.6,69.1,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,68.0,3.0,MEDIUM,16.0,True,1,True,1.0,30.8,47.3,32.0,False,2.8,69.46,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,69.0,3.0,MEDIUM,17.0,True,1,True,1.0,30.7,45.9,32.0,False,0.9,69.844,False,70,2025,11,Austrian Grand Prix,2025_11
+NOR,McLaren,70.0,3.0,MEDIUM,18.0,True,1,True,1.0,30.6,46.3,32.0,False,1.3,69.431,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,2.0,30.2,47.8,33.0,False,0.9,90.706,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,4,False,2.0,30.4,49.7,32.0,False,1.0,113.508,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,41,False,2.0,30.6,49.2,32.0,False,1.5,112.637,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,30.7,49.6,32.0,False,0.8,70.527,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,30.8,49.8,32.0,False,0.6,69.937,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,30.7,49.7,32.0,False,1.4,69.34,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,30.6,50.3,32.0,False,1.9,69.445,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,30.6,50.4,32.0,False,2.1,69.454,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,30.6,50.3,32.0,False,2.2,69.271,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,30.7,50.3,31.0,False,3.1,69.849,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,30.6,49.2,31.0,False,2.4,71.008,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,30.6,49.1,32.0,False,2.1,70.441,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,30.5,49.2,31.0,False,2.1,69.995,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,30.4,49.9,32.0,False,2.7,70.68,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,30.4,49.5,31.0,False,3.1,71.748,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,30.4,49.5,32.0,False,2.1,70.889,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,30.5,49.6,31.0,False,1.9,71.064,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,30.6,49.7,30.0,False,1.9,70.709,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,30.6,49.4,31.0,False,2.5,70.863,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,30.6,49.4,32.0,False,2.2,70.951,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,30.6,49.0,31.0,False,1.8,70.624,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,30.6,49.3,31.0,False,1.6,70.938,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,30.7,49.3,31.0,False,1.9,71.249,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,False,1.0,30.6,49.3,31.0,False,1.8,74.728,True,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,25.0,2.0,HARD,1.0,True,1,False,4.0,30.6,49.6,31.0,False,1.9,88.329,True,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,26.0,2.0,HARD,2.0,True,1,True,3.0,30.5,49.1,31.0,False,1.3,69.854,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,27.0,2.0,HARD,3.0,True,1,True,2.0,30.5,49.1,31.0,False,1.9,69.52,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,28.0,2.0,HARD,4.0,True,1,True,2.0,30.6,48.8,31.0,False,2.4,69.519,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,29.0,2.0,HARD,5.0,True,1,True,2.0,30.6,49.7,31.0,False,1.5,69.434,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,30.0,2.0,HARD,6.0,True,1,True,2.0,30.6,49.4,31.0,False,3.2,69.343,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,31.0,2.0,HARD,7.0,True,12,True,2.0,30.6,48.8,31.0,False,2.5,69.348,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,32.0,2.0,HARD,8.0,True,1,True,2.0,30.5,48.7,31.0,False,2.8,69.449,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,33.0,2.0,HARD,9.0,True,1,True,2.0,30.6,48.7,32.0,False,2.2,69.44,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,34.0,2.0,HARD,10.0,True,1,True,2.0,30.6,48.8,32.0,False,2.2,69.196,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,35.0,2.0,HARD,11.0,True,1,True,2.0,30.5,48.5,31.0,False,2.0,69.443,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,36.0,2.0,HARD,12.0,True,1,True,2.0,30.4,48.5,32.0,False,1.6,69.46,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,37.0,2.0,HARD,13.0,True,1,True,2.0,30.5,48.4,32.0,False,1.7,69.482,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,38.0,2.0,HARD,14.0,True,1,True,2.0,30.4,48.1,31.0,False,0.0,69.273,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,39.0,2.0,HARD,15.0,True,1,True,2.0,30.4,48.3,32.0,False,1.1,69.437,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,40.0,2.0,HARD,16.0,True,1,True,2.0,30.5,48.7,31.0,False,0.8,69.637,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,41.0,2.0,HARD,17.0,True,1,True,2.0,30.8,49.3,31.0,False,0.7,69.737,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,42.0,2.0,HARD,18.0,True,1,True,2.0,30.9,48.6,30.0,False,3.3,69.8,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,43.0,2.0,HARD,19.0,True,1,True,2.0,30.9,48.4,31.0,False,2.7,70.103,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,44.0,2.0,HARD,20.0,True,1,True,2.0,30.8,48.4,32.0,False,1.1,69.714,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,45.0,2.0,HARD,21.0,True,1,True,2.0,31.0,49.3,31.0,False,1.2,70.151,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,46.0,2.0,HARD,22.0,True,1,True,2.0,31.1,49.1,31.0,False,2.1,70.048,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,47.0,2.0,HARD,23.0,True,1,True,2.0,31.2,49.1,30.0,False,2.8,69.471,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,48.0,2.0,HARD,24.0,True,1,True,2.0,31.2,48.9,30.0,False,2.5,70.621,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,49.0,2.0,HARD,25.0,True,1,True,2.0,31.3,48.0,31.0,False,1.8,70.2,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,50.0,2.0,HARD,26.0,True,1,True,2.0,31.1,48.9,31.0,False,1.4,70.073,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,51.0,2.0,HARD,27.0,True,1,True,2.0,31.1,48.9,31.0,False,3.2,70.114,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,52.0,2.0,HARD,28.0,True,1,True,1.0,31.1,48.7,31.0,False,2.0,70.014,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,53.0,2.0,HARD,29.0,True,1,False,1.0,31.1,48.7,31.0,False,2.8,73.038,True,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,54.0,3.0,MEDIUM,1.0,True,1,False,2.0,31.1,48.7,31.0,False,2.5,86.307,True,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,55.0,3.0,MEDIUM,2.0,True,1,True,2.0,31.0,48.4,31.0,False,2.2,68.558,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,56.0,3.0,MEDIUM,3.0,True,1,True,2.0,31.0,48.6,31.0,False,1.9,68.283,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,57.0,3.0,MEDIUM,4.0,True,1,True,2.0,30.9,48.5,31.0,False,2.5,68.739,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,58.0,3.0,MEDIUM,5.0,True,1,True,2.0,30.9,48.2,30.0,False,2.9,68.157,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,59.0,3.0,MEDIUM,6.0,True,1,True,2.0,30.9,47.5,31.0,False,1.7,67.924,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,60.0,3.0,MEDIUM,7.0,True,1,True,2.0,30.7,48.2,31.0,False,1.5,68.085,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,61.0,3.0,MEDIUM,8.0,True,1,True,2.0,30.7,48.6,31.0,False,2.3,68.162,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,62.0,3.0,MEDIUM,9.0,True,1,True,2.0,31.0,48.6,30.0,False,2.1,68.372,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,63.0,3.0,MEDIUM,10.0,True,1,True,2.0,31.1,48.3,30.0,False,1.9,68.903,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,64.0,3.0,MEDIUM,11.0,True,1,True,2.0,31.2,48.2,30.0,False,2.8,68.952,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,65.0,3.0,MEDIUM,12.0,True,1,True,2.0,31.3,48.0,30.0,False,2.2,68.49,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,66.0,3.0,MEDIUM,13.0,True,1,True,2.0,31.3,47.5,30.0,False,2.4,69.037,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,67.0,3.0,MEDIUM,14.0,True,1,True,2.0,31.0,47.5,32.0,False,1.6,69.087,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,68.0,3.0,MEDIUM,15.0,True,1,True,2.0,30.7,45.9,31.0,False,1.5,69.273,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,69.0,3.0,MEDIUM,16.0,True,1,True,2.0,30.7,45.9,32.0,False,0.9,69.468,False,70,2025,11,Austrian Grand Prix,2025_11
+PIA,McLaren,70.0,3.0,MEDIUM,17.0,True,1,True,2.0,30.6,46.3,32.0,False,1.3,70.782,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,124,False,3.0,30.2,47.8,33.0,False,0.9,94.202,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,4,False,3.0,30.4,49.7,32.0,False,1.0,111.532,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,41,False,3.0,30.6,49.2,32.0,False,1.5,111.593,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,30.7,49.6,32.0,False,0.8,70.935,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,30.8,49.8,32.0,False,0.6,70.227,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,30.7,49.7,32.0,False,1.4,70.21,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,30.6,50.3,32.0,False,1.9,70.193,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,30.6,50.4,32.0,False,2.1,69.912,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,30.6,50.3,32.0,False,2.2,70.123,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,30.7,50.3,31.0,False,3.1,70.069,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,30.6,49.2,31.0,False,2.4,70.565,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,30.6,49.1,32.0,False,2.1,70.623,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,30.5,49.2,31.0,False,2.1,70.605,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,30.4,49.9,32.0,False,2.7,71.297,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,30.4,49.5,31.0,False,3.1,71.051,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,30.5,49.5,31.0,False,2.6,70.889,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,30.5,49.6,31.0,False,1.9,71.747,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,30.6,49.7,30.0,False,1.9,71.233,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,30.6,49.4,31.0,False,2.5,71.122,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,30.6,49.4,32.0,False,2.2,70.924,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,30.6,49.0,31.0,False,1.8,71.043,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,30.6,49.3,31.0,False,1.6,71.203,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,30.7,49.3,31.0,False,1.9,71.22,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,30.6,49.3,31.0,False,1.8,71.42,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,False,2.0,30.6,49.6,31.0,False,1.9,75.052,True,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,26.0,2.0,HARD,1.0,True,1,False,6.0,30.6,49.6,30.0,False,2.4,87.356,True,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,27.0,2.0,HARD,2.0,True,1,True,4.0,30.5,49.1,31.0,False,1.9,70.884,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,28.0,2.0,HARD,3.0,True,1,True,3.0,30.6,48.8,31.0,False,2.4,70.656,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,29.0,2.0,HARD,4.0,True,1,True,3.0,30.6,49.7,31.0,False,1.5,70.408,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,30.0,2.0,HARD,5.0,True,12,True,3.0,30.6,49.4,31.0,False,3.2,70.145,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,31.0,2.0,HARD,6.0,True,1,True,3.0,30.5,48.8,31.0,False,2.0,70.017,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,32.0,2.0,HARD,7.0,True,1,True,3.0,30.5,48.7,31.0,False,2.8,69.772,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,33.0,2.0,HARD,8.0,True,1,True,3.0,30.6,48.7,32.0,False,2.2,69.717,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,34.0,2.0,HARD,9.0,True,1,True,3.0,30.6,48.8,32.0,False,2.2,69.701,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,35.0,2.0,HARD,10.0,True,1,True,3.0,30.5,48.5,31.0,False,2.0,69.646,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,36.0,2.0,HARD,11.0,True,1,True,3.0,30.4,48.5,32.0,False,1.6,69.677,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,37.0,2.0,HARD,12.0,True,1,True,3.0,30.5,48.4,31.0,False,1.2,69.339,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,38.0,2.0,HARD,13.0,True,1,True,3.0,30.4,48.1,31.0,False,0.0,69.362,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,39.0,2.0,HARD,14.0,True,1,True,3.0,30.4,48.3,32.0,False,1.1,69.501,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,40.0,2.0,HARD,15.0,True,1,True,3.0,30.5,48.7,31.0,False,0.8,69.616,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,41.0,2.0,HARD,16.0,True,1,True,3.0,30.8,49.3,31.0,False,0.7,69.764,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,42.0,2.0,HARD,17.0,True,1,True,3.0,30.9,48.6,30.0,False,3.3,69.779,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,43.0,2.0,HARD,18.0,True,1,True,3.0,30.8,48.4,32.0,False,1.1,69.719,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,44.0,2.0,HARD,19.0,True,1,True,3.0,30.8,48.7,32.0,False,1.4,69.814,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,45.0,2.0,HARD,20.0,True,1,True,3.0,31.0,49.3,31.0,False,1.2,69.979,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,46.0,2.0,HARD,21.0,True,1,True,3.0,31.1,49.1,31.0,False,2.1,69.924,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,47.0,2.0,HARD,22.0,True,1,True,3.0,31.2,49.1,30.0,False,2.8,69.887,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,48.0,2.0,HARD,23.0,True,1,True,3.0,31.2,48.9,30.0,False,2.5,69.759,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,49.0,2.0,HARD,24.0,True,1,False,3.0,31.3,48.2,32.0,False,0.8,73.884,True,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,50.0,3.0,MEDIUM,1.0,True,1,False,4.0,31.1,48.9,31.0,False,1.4,87.349,True,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,51.0,3.0,MEDIUM,2.0,True,1,True,3.0,31.1,48.9,31.0,False,3.2,69.533,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,52.0,3.0,MEDIUM,3.0,True,1,True,3.0,31.1,48.7,31.0,False,2.0,69.422,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,53.0,3.0,MEDIUM,4.0,True,1,True,3.0,31.1,48.7,31.0,False,2.5,69.344,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,54.0,3.0,MEDIUM,5.0,True,1,True,3.0,31.1,48.4,31.0,False,3.1,69.028,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,55.0,3.0,MEDIUM,6.0,True,1,True,3.0,31.0,48.4,31.0,False,2.2,68.97,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,56.0,3.0,MEDIUM,7.0,True,1,True,3.0,31.0,48.6,31.0,False,1.9,68.765,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,57.0,3.0,MEDIUM,8.0,True,1,True,3.0,30.9,48.5,31.0,False,2.5,68.805,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,58.0,3.0,MEDIUM,9.0,True,1,True,3.0,30.9,48.2,30.0,False,2.9,68.839,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,59.0,3.0,MEDIUM,10.0,True,1,True,3.0,30.9,47.5,31.0,False,1.7,68.936,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,60.0,3.0,MEDIUM,11.0,True,1,True,3.0,30.7,48.6,31.0,False,2.3,69.04,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,61.0,3.0,MEDIUM,12.0,True,1,True,3.0,30.9,48.6,30.0,False,2.0,68.811,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,62.0,3.0,MEDIUM,13.0,True,1,True,3.0,31.0,48.6,30.0,False,2.1,68.85,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,63.0,3.0,MEDIUM,14.0,True,1,True,3.0,31.1,48.3,30.0,False,1.9,69.366,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,64.0,3.0,MEDIUM,15.0,True,1,True,3.0,31.2,48.2,30.0,False,2.8,69.267,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,65.0,3.0,MEDIUM,16.0,True,1,True,3.0,31.3,48.0,30.0,False,2.2,69.263,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,66.0,3.0,MEDIUM,17.0,True,1,True,3.0,31.0,47.5,32.0,False,1.6,69.178,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,67.0,3.0,MEDIUM,18.0,True,1,True,3.0,30.8,47.3,32.0,False,2.8,70.016,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,68.0,3.0,MEDIUM,19.0,True,1,True,3.0,30.7,45.9,31.0,False,1.5,69.288,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,69.0,3.0,MEDIUM,20.0,True,1,True,3.0,30.7,45.9,32.0,False,0.9,69.121,False,70,2025,11,Austrian Grand Prix,2025_11
+LEC,Ferrari,70.0,3.0,MEDIUM,21.0,True,1,True,3.0,30.6,46.3,32.0,False,1.3,69.026,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,1.0,1.0,MEDIUM,1.0,True,124,False,4.0,30.2,47.8,33.0,False,0.9,96.74,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,2.0,1.0,MEDIUM,2.0,True,4,False,4.0,30.4,49.7,32.0,False,1.0,110.441,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,3.0,1.0,MEDIUM,3.0,True,41,False,4.0,30.6,49.2,32.0,False,1.5,110.612,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,30.7,49.6,32.0,False,0.8,71.4,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,30.8,49.8,32.0,False,0.6,70.714,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,30.7,49.7,32.0,False,1.4,70.309,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,30.6,50.3,32.0,False,1.9,70.552,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,30.6,50.4,32.0,False,2.1,70.17,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,30.6,50.3,32.0,False,2.2,70.546,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,30.8,49.9,31.0,False,3.7,71.333,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,30.6,49.2,31.0,False,2.4,71.169,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,30.6,49.1,32.0,False,2.1,70.891,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,30.5,49.2,31.0,False,2.1,70.714,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,30.4,49.9,32.0,False,2.7,70.701,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,30.4,49.5,31.0,False,3.1,70.717,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,30.5,49.5,31.0,False,2.6,71.009,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,30.5,49.6,31.0,False,1.9,71.064,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,30.6,49.7,30.0,False,1.9,71.052,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,30.6,49.4,31.0,False,2.5,70.811,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,30.6,49.4,32.0,False,2.2,70.942,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,3.0,30.5,49.0,31.0,False,1.0,71.728,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,30.6,49.3,31.0,False,1.6,71.07,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,30.7,49.3,31.0,False,1.9,71.377,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,30.6,49.3,31.0,False,1.8,71.132,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,30.6,49.6,31.0,False,1.9,71.588,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,False,2.0,30.6,49.6,30.0,False,2.4,74.514,True,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,27.0,2.0,HARD,1.0,True,1,False,6.0,30.5,49.1,31.0,False,1.9,87.027,True,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,28.0,2.0,HARD,2.0,True,1,True,6.0,30.6,48.8,31.0,False,2.4,70.23,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,29.0,2.0,HARD,3.0,True,1,True,4.0,30.6,49.7,31.0,False,1.5,70.653,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,30.0,2.0,HARD,4.0,True,12,True,4.0,30.6,48.8,31.0,False,2.5,70.175,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,31.0,2.0,HARD,5.0,True,1,True,4.0,30.5,48.8,31.0,False,2.0,69.979,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,32.0,2.0,HARD,6.0,True,1,True,4.0,30.5,48.7,31.0,False,2.8,69.933,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,33.0,2.0,HARD,7.0,True,1,True,4.0,30.6,48.7,32.0,False,2.2,69.864,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,34.0,2.0,HARD,8.0,True,1,True,4.0,30.6,48.8,32.0,False,2.2,69.769,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,35.0,2.0,HARD,9.0,True,1,True,4.0,30.5,48.5,31.0,False,2.0,69.961,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,36.0,2.0,HARD,10.0,True,1,True,4.0,30.5,48.4,32.0,False,1.7,69.425,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,37.0,2.0,HARD,11.0,True,1,True,4.0,30.5,48.4,31.0,False,1.2,69.665,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,38.0,2.0,HARD,12.0,True,1,True,4.0,30.4,48.1,31.0,False,0.0,69.319,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,39.0,2.0,HARD,13.0,True,1,True,4.0,30.4,48.3,32.0,False,1.1,70.055,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,40.0,2.0,HARD,14.0,True,1,True,4.0,30.5,48.7,31.0,False,0.8,69.641,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,41.0,2.0,HARD,15.0,True,1,True,4.0,30.8,49.3,31.0,False,0.7,70.106,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,42.0,2.0,HARD,16.0,True,1,True,4.0,30.9,48.6,30.0,False,3.3,70.087,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,43.0,2.0,HARD,17.0,True,1,True,4.0,30.8,48.4,32.0,False,1.1,69.923,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,44.0,2.0,HARD,18.0,True,1,True,4.0,30.8,48.7,32.0,False,1.4,70.173,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,45.0,2.0,HARD,19.0,True,1,True,4.0,31.0,49.3,31.0,False,1.2,70.61,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,46.0,2.0,HARD,20.0,True,1,True,4.0,31.1,49.1,31.0,False,2.1,70.346,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,47.0,2.0,HARD,21.0,True,1,True,4.0,31.2,49.1,30.0,False,2.8,70.282,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,48.0,2.0,HARD,22.0,True,1,True,4.0,31.3,48.0,31.0,False,1.8,71.777,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,49.0,2.0,HARD,23.0,True,1,True,4.0,31.3,48.2,32.0,False,0.8,70.432,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,50.0,2.0,HARD,24.0,True,1,False,3.0,31.1,48.9,31.0,False,1.4,73.95,True,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,51.0,3.0,MEDIUM,1.0,True,1,False,4.0,31.1,48.9,31.0,False,3.2,85.727,True,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,52.0,3.0,MEDIUM,2.0,True,1,True,4.0,31.1,48.7,31.0,False,2.8,69.115,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,53.0,3.0,MEDIUM,3.0,True,1,True,4.0,31.1,48.7,31.0,False,2.5,68.628,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,54.0,3.0,MEDIUM,4.0,True,1,True,4.0,31.1,48.4,31.0,False,3.1,68.979,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,55.0,3.0,MEDIUM,5.0,True,1,True,4.0,31.0,48.4,31.0,False,2.2,68.757,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,56.0,3.0,MEDIUM,6.0,True,1,True,4.0,31.0,48.6,31.0,False,1.9,68.989,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,57.0,3.0,MEDIUM,7.0,True,1,True,4.0,30.9,48.5,31.0,False,2.5,68.938,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,58.0,3.0,MEDIUM,8.0,True,1,True,4.0,30.9,48.2,30.0,False,2.9,68.669,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,59.0,3.0,MEDIUM,9.0,True,1,True,4.0,30.7,48.2,31.0,False,1.5,69.31,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,60.0,3.0,MEDIUM,10.0,True,1,True,4.0,30.7,48.6,31.0,False,2.3,69.324,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,61.0,3.0,MEDIUM,11.0,True,1,True,4.0,30.9,48.6,30.0,False,2.0,69.266,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,62.0,3.0,MEDIUM,12.0,True,1,True,4.0,31.0,48.6,30.0,False,2.1,69.287,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,63.0,3.0,MEDIUM,13.0,True,1,True,4.0,31.1,48.3,30.0,False,1.9,69.242,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,64.0,3.0,MEDIUM,14.0,True,1,True,4.0,31.2,48.2,30.0,False,2.8,69.088,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,65.0,3.0,MEDIUM,15.0,True,1,True,4.0,31.3,48.0,30.0,False,2.2,69.447,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,66.0,3.0,MEDIUM,16.0,True,1,True,4.0,31.0,47.5,32.0,False,1.6,69.317,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,67.0,3.0,MEDIUM,17.0,True,1,True,4.0,30.8,47.3,32.0,False,2.8,69.515,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,68.0,3.0,MEDIUM,18.0,True,1,True,4.0,30.7,45.9,31.0,False,1.5,69.574,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,69.0,3.0,MEDIUM,19.0,True,1,True,4.0,30.7,45.9,32.0,False,0.9,69.31,False,70,2025,11,Austrian Grand Prix,2025_11
+HAM,Ferrari,70.0,3.0,MEDIUM,20.0,True,1,True,4.0,30.6,46.3,32.0,False,1.3,69.553,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,124,False,5.0,30.2,47.8,33.0,False,0.9,97.687,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,4,False,5.0,30.4,49.7,32.0,False,1.0,111.333,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,41,False,5.0,30.6,49.2,32.0,False,1.5,109.154,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,30.7,49.6,32.0,False,0.8,71.671,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,30.8,49.8,32.0,False,0.6,70.953,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,30.7,49.7,32.0,False,1.4,70.594,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,30.6,50.3,32.0,False,1.9,70.739,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,30.6,50.4,32.0,False,2.1,70.574,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,30.6,50.3,32.0,False,2.2,70.931,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,30.8,49.9,31.0,False,3.7,71.16,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,30.6,49.2,31.0,False,2.4,71.465,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,30.6,49.1,32.0,False,2.1,71.232,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,30.5,49.2,31.0,False,2.1,71.429,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,30.4,49.9,32.0,False,2.7,71.849,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,30.4,49.5,32.0,False,2.1,71.554,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,30.5,49.5,31.0,False,2.6,71.907,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,30.5,49.6,31.0,False,1.9,71.675,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,False,6.0,30.6,49.7,30.0,False,1.9,75.249,True,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,19.0,2.0,MEDIUM,1.0,True,1,False,11.0,30.6,49.4,31.0,False,2.5,87.877,True,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,20.0,2.0,MEDIUM,2.0,True,1,True,10.0,30.6,49.0,31.0,False,1.8,70.908,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,21.0,2.0,MEDIUM,3.0,True,1,True,10.0,30.5,49.0,31.0,False,1.0,71.438,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,22.0,2.0,MEDIUM,4.0,True,1,True,9.0,30.6,49.3,31.0,False,1.6,71.289,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,23.0,2.0,MEDIUM,5.0,True,1,True,9.0,30.7,49.3,31.0,False,1.9,71.53,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,24.0,2.0,MEDIUM,6.0,True,1,True,9.0,30.6,49.6,31.0,False,1.9,71.367,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,25.0,2.0,MEDIUM,7.0,True,1,True,8.0,30.6,49.6,30.0,False,2.4,71.448,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,26.0,2.0,MEDIUM,8.0,True,1,True,7.0,30.5,49.1,31.0,False,1.3,70.478,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,27.0,2.0,MEDIUM,9.0,True,1,True,7.0,30.5,49.1,31.0,False,1.9,71.172,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,28.0,2.0,MEDIUM,10.0,True,1,True,7.0,30.6,48.8,31.0,False,2.4,71.338,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,29.0,2.0,MEDIUM,11.0,True,1,True,7.0,30.6,49.7,31.0,False,1.5,71.239,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,30.0,2.0,MEDIUM,12.0,True,12,True,7.0,30.6,48.8,31.0,False,2.5,71.081,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,31.0,2.0,MEDIUM,13.0,True,1,True,7.0,30.5,48.8,31.0,False,2.0,70.77,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,32.0,2.0,MEDIUM,14.0,True,1,True,7.0,30.5,48.7,31.0,False,2.8,70.769,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,33.0,2.0,MEDIUM,15.0,True,1,True,5.0,30.6,48.7,32.0,False,2.2,70.545,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,34.0,2.0,MEDIUM,16.0,True,1,True,5.0,30.6,48.8,32.0,False,2.2,70.49,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,35.0,2.0,MEDIUM,17.0,True,1,True,5.0,30.4,48.5,32.0,False,1.6,70.237,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,36.0,2.0,MEDIUM,18.0,True,1,True,5.0,30.5,48.4,32.0,False,1.7,70.331,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,37.0,2.0,MEDIUM,19.0,True,1,True,5.0,30.5,48.4,31.0,False,1.2,70.457,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,38.0,2.0,MEDIUM,20.0,True,1,True,5.0,30.4,48.1,31.0,False,0.0,70.427,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,39.0,2.0,MEDIUM,21.0,True,1,True,5.0,30.4,48.3,32.0,False,1.1,70.401,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,40.0,2.0,MEDIUM,22.0,True,1,True,5.0,30.5,48.7,31.0,False,0.8,70.705,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,41.0,2.0,MEDIUM,23.0,True,1,True,5.0,30.9,48.6,30.0,False,3.3,70.732,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,42.0,2.0,MEDIUM,24.0,True,1,True,5.0,30.9,48.4,31.0,False,2.7,70.703,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,43.0,2.0,MEDIUM,25.0,True,1,True,5.0,30.8,48.4,32.0,False,1.1,70.583,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,44.0,2.0,MEDIUM,26.0,True,1,True,5.0,30.8,48.7,32.0,False,1.4,70.752,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,45.0,2.0,MEDIUM,27.0,True,1,False,5.0,31.0,49.3,31.0,False,1.2,74.223,True,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,46.0,3.0,HARD,1.0,True,1,False,9.0,31.2,49.1,30.0,False,2.8,86.839,True,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,47.0,3.0,HARD,2.0,True,1,True,9.0,31.2,48.9,30.0,False,2.5,69.372,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,48.0,3.0,HARD,3.0,True,1,True,9.0,31.3,48.0,31.0,False,1.8,69.532,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,49.0,3.0,HARD,4.0,True,1,True,9.0,31.3,48.2,32.0,False,0.8,69.823,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,50.0,3.0,HARD,5.0,True,1,True,8.0,31.1,48.9,31.0,False,1.4,69.962,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,51.0,3.0,HARD,6.0,True,1,True,7.0,31.1,48.7,31.0,False,2.0,69.89,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,52.0,3.0,HARD,7.0,True,1,True,7.0,31.1,48.7,31.0,False,2.8,69.976,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,53.0,3.0,HARD,8.0,True,1,True,7.0,31.1,48.7,31.0,False,2.5,69.901,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,54.0,3.0,HARD,9.0,True,1,True,6.0,31.1,48.4,31.0,False,3.1,69.779,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,55.0,3.0,HARD,10.0,True,1,True,5.0,31.0,48.4,31.0,False,2.2,69.738,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,56.0,3.0,HARD,11.0,True,1,True,5.0,31.0,48.6,31.0,False,1.9,69.931,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,57.0,3.0,HARD,12.0,True,1,True,5.0,30.9,48.2,30.0,False,2.9,69.853,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,58.0,3.0,HARD,13.0,True,1,True,5.0,30.9,47.5,31.0,False,1.7,69.798,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,59.0,3.0,HARD,14.0,True,1,True,5.0,30.7,48.2,31.0,False,1.5,69.725,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,60.0,3.0,HARD,15.0,True,1,True,5.0,30.7,48.6,31.0,False,2.3,69.962,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,61.0,3.0,HARD,16.0,True,1,True,5.0,30.9,48.6,30.0,False,2.0,69.87,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,62.0,3.0,HARD,17.0,True,1,True,5.0,31.0,48.6,30.0,False,2.1,69.917,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,63.0,3.0,HARD,18.0,True,1,True,5.0,31.2,48.2,30.0,False,2.8,70.107,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,64.0,3.0,HARD,19.0,True,1,True,5.0,31.3,48.0,30.0,False,2.2,70.173,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,65.0,3.0,HARD,20.0,True,1,True,5.0,31.3,47.5,30.0,False,2.4,70.231,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,66.0,3.0,HARD,21.0,True,1,True,5.0,31.0,47.5,32.0,False,1.6,70.616,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,67.0,3.0,HARD,22.0,True,1,True,5.0,30.8,47.3,32.0,False,2.8,70.505,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,68.0,3.0,HARD,23.0,True,1,True,5.0,30.7,45.9,31.0,False,1.5,70.363,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,69.0,3.0,HARD,24.0,True,1,True,5.0,30.6,46.3,32.0,False,1.3,69.96,False,70,2025,11,Austrian Grand Prix,2025_11
+RUS,Mercedes,70.0,3.0,HARD,25.0,True,1,True,5.0,30.6,47.6,32.0,False,1.9,69.82,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,1.0,1.0,MEDIUM,1.0,False,124,False,9.0,30.2,47.8,33.0,False,0.9,104.886,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,2.0,1.0,MEDIUM,2.0,False,4,False,9.0,30.4,49.7,32.0,False,1.0,108.551,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,3.0,1.0,MEDIUM,3.0,False,41,False,9.0,30.6,49.2,32.0,False,1.5,106.296,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,4.0,1.0,MEDIUM,4.0,False,1,True,9.0,30.7,49.6,32.0,False,0.8,72.35,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,5.0,1.0,MEDIUM,5.0,False,1,True,9.0,30.8,49.8,32.0,False,0.6,71.439,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,6.0,1.0,MEDIUM,6.0,False,1,True,9.0,30.7,49.7,32.0,False,1.4,71.106,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,7.0,1.0,MEDIUM,7.0,False,1,True,9.0,30.6,50.3,32.0,False,1.9,71.013,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,8.0,1.0,MEDIUM,8.0,False,1,True,9.0,30.6,50.4,32.0,False,2.1,70.941,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,9.0,1.0,MEDIUM,9.0,False,1,True,9.0,30.6,50.3,32.0,False,2.2,71.051,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,10.0,1.0,MEDIUM,10.0,False,1,True,9.0,30.8,49.9,31.0,False,3.7,71.434,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,11.0,1.0,MEDIUM,11.0,False,1,True,9.0,30.6,49.2,31.0,False,2.4,71.603,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,12.0,1.0,MEDIUM,12.0,False,1,True,8.0,30.6,49.1,32.0,False,2.1,72.178,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,13.0,1.0,MEDIUM,13.0,False,1,True,8.0,30.5,49.2,31.0,False,2.1,71.36,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,14.0,1.0,MEDIUM,14.0,False,1,True,7.0,30.4,49.9,32.0,False,2.7,71.525,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,15.0,1.0,MEDIUM,15.0,False,1,True,7.0,30.4,49.5,32.0,False,2.1,71.551,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,16.0,1.0,MEDIUM,16.0,False,1,True,7.0,30.5,49.5,31.0,False,2.6,71.619,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,17.0,1.0,MEDIUM,17.0,False,1,True,7.0,30.5,49.6,31.0,False,1.9,71.736,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,18.0,1.0,MEDIUM,18.0,False,1,True,7.0,30.6,49.7,30.0,False,1.9,71.577,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,19.0,1.0,MEDIUM,19.0,False,1,True,6.0,30.6,49.4,31.0,False,2.5,71.524,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,20.0,1.0,MEDIUM,20.0,False,1,True,6.0,30.6,49.0,31.0,False,1.8,71.748,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,21.0,1.0,MEDIUM,21.0,False,1,True,5.0,30.5,49.0,31.0,False,1.0,71.876,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,22.0,1.0,MEDIUM,22.0,False,1,True,5.0,30.6,49.3,31.0,False,1.6,71.413,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,23.0,1.0,MEDIUM,23.0,False,1,True,5.0,30.7,49.3,31.0,False,1.9,71.457,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,24.0,1.0,MEDIUM,24.0,False,1,True,5.0,30.6,49.3,31.0,False,1.8,71.628,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,25.0,1.0,MEDIUM,25.0,False,1,True,5.0,30.6,49.6,30.0,False,2.4,71.622,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,26.0,1.0,MEDIUM,26.0,False,1,True,4.0,30.5,49.1,31.0,False,1.3,71.517,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,27.0,1.0,MEDIUM,27.0,False,1,True,3.0,30.5,49.1,31.0,False,1.9,71.628,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,28.0,1.0,MEDIUM,28.0,False,1,True,4.0,30.6,48.8,31.0,False,2.4,72.809,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,29.0,1.0,MEDIUM,29.0,False,1,True,5.0,30.6,49.7,31.0,False,1.5,73.076,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,30.0,1.0,MEDIUM,30.0,False,12,True,5.0,30.6,48.8,31.0,False,2.5,71.98,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,31.0,1.0,MEDIUM,31.0,False,1,True,5.0,30.5,48.8,31.0,False,2.0,71.821,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,32.0,1.0,MEDIUM,32.0,False,1,False,6.0,30.5,48.7,31.0,False,2.8,75.289,True,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,33.0,2.0,HARD,1.0,True,1,False,12.0,30.6,48.7,32.0,False,2.2,89.189,True,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,34.0,2.0,HARD,2.0,True,1,True,11.0,30.5,48.5,31.0,False,2.0,71.013,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,35.0,2.0,HARD,3.0,True,1,True,11.0,30.4,48.5,32.0,False,1.6,70.671,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,36.0,2.0,HARD,4.0,True,1,True,11.0,30.5,48.4,32.0,False,1.7,70.664,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,37.0,2.0,HARD,5.0,True,1,True,11.0,30.5,48.4,31.0,False,1.2,70.707,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,38.0,2.0,HARD,6.0,True,1,True,10.0,30.4,48.1,31.0,False,0.0,71.39,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,39.0,2.0,HARD,7.0,True,1,True,9.0,30.5,48.7,31.0,False,0.8,70.35,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,40.0,2.0,HARD,8.0,True,1,True,9.0,30.8,49.3,31.0,False,0.7,70.087,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,41.0,2.0,HARD,9.0,True,1,True,9.0,30.9,48.6,30.0,False,3.3,70.122,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,42.0,2.0,HARD,10.0,True,1,True,9.0,30.9,48.4,31.0,False,2.7,69.996,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,43.0,2.0,HARD,11.0,True,1,True,8.0,30.8,48.4,32.0,False,1.1,70.163,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,44.0,2.0,HARD,12.0,True,1,True,8.0,30.8,48.7,32.0,False,1.4,70.36,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,45.0,2.0,HARD,13.0,True,1,True,8.0,31.1,49.1,31.0,False,2.1,70.118,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,46.0,2.0,HARD,14.0,True,1,True,7.0,31.2,49.1,30.0,False,2.8,70.085,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,47.0,2.0,HARD,15.0,True,1,True,7.0,31.2,48.9,30.0,False,2.5,70.068,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,48.0,2.0,HARD,16.0,True,1,True,7.0,31.3,48.0,31.0,False,1.8,70.244,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,49.0,2.0,HARD,17.0,True,1,True,7.0,31.3,48.2,32.0,False,0.8,70.224,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,50.0,2.0,HARD,18.0,True,1,True,5.0,31.1,48.9,31.0,False,1.4,70.413,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,51.0,2.0,HARD,19.0,True,1,True,5.0,31.1,48.7,31.0,False,2.0,70.177,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,52.0,2.0,HARD,20.0,True,1,True,5.0,31.1,48.7,31.0,False,2.8,70.374,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,53.0,2.0,HARD,21.0,True,1,True,5.0,31.1,48.7,31.0,False,2.5,70.152,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,54.0,2.0,HARD,22.0,True,1,True,5.0,31.1,48.4,31.0,False,3.1,70.534,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,55.0,2.0,HARD,23.0,True,1,True,6.0,31.0,48.4,31.0,False,2.2,71.825,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,56.0,2.0,HARD,24.0,True,1,True,6.0,30.9,48.5,31.0,False,2.5,70.456,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,57.0,2.0,HARD,25.0,True,1,True,6.0,30.9,48.2,30.0,False,2.9,70.256,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,58.0,2.0,HARD,26.0,True,1,True,6.0,30.9,47.5,31.0,False,1.7,69.977,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,59.0,2.0,HARD,27.0,True,1,True,6.0,30.7,48.2,31.0,False,1.5,70.267,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,60.0,2.0,HARD,28.0,True,1,True,6.0,30.7,48.6,31.0,False,2.3,70.179,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,61.0,2.0,HARD,29.0,True,1,True,6.0,30.9,48.6,30.0,False,2.0,70.165,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,62.0,2.0,HARD,30.0,True,1,True,6.0,31.1,48.3,30.0,False,1.9,70.32,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,63.0,2.0,HARD,31.0,True,1,True,6.0,31.2,48.2,30.0,False,2.8,70.388,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,64.0,2.0,HARD,32.0,True,1,True,6.0,31.3,48.0,30.0,False,2.2,70.256,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,65.0,2.0,HARD,33.0,True,1,True,6.0,31.3,47.5,30.0,False,2.4,70.218,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,66.0,2.0,HARD,34.0,True,1,True,6.0,31.0,47.5,32.0,False,1.6,70.579,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,67.0,2.0,HARD,35.0,True,1,True,6.0,30.8,47.3,32.0,False,2.8,70.456,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,68.0,2.0,HARD,36.0,True,1,True,6.0,30.7,45.9,32.0,False,0.9,70.175,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,69.0,2.0,HARD,37.0,True,1,True,6.0,30.6,46.3,32.0,False,1.3,70.167,False,70,2025,11,Austrian Grand Prix,2025_11
+LAW,Racing Bulls,70.0,2.0,HARD,38.0,True,1,True,6.0,30.6,47.6,32.0,False,1.9,71.058,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,1.0,1.0,MEDIUM,2.0,False,124,False,10.0,30.2,47.8,33.0,False,0.9,105.927,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,2.0,1.0,MEDIUM,3.0,False,4,False,10.0,30.4,49.7,32.0,False,1.0,108.453,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,3.0,1.0,MEDIUM,4.0,False,41,False,10.0,30.6,49.2,32.0,False,1.5,105.782,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,True,10.0,30.7,49.6,32.0,False,0.8,72.463,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,True,10.0,30.8,49.8,32.0,False,0.6,71.38,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,10.0,30.7,49.7,32.0,False,1.4,71.395,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,10.0,30.6,50.3,32.0,False,1.9,70.81,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,8.0,1.0,MEDIUM,9.0,False,1,True,10.0,30.6,50.4,32.0,False,2.1,71.085,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,10.0,30.6,50.3,32.0,False,2.2,70.906,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,10.0,30.8,49.9,31.0,False,3.7,71.532,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,10.0,30.6,49.2,31.0,False,2.4,71.484,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,True,9.0,30.6,49.1,32.0,False,2.1,72.027,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,13.0,1.0,MEDIUM,14.0,False,1,True,9.0,30.5,49.2,31.0,False,2.1,71.794,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,14.0,1.0,MEDIUM,15.0,False,1,True,8.0,30.4,49.9,32.0,False,2.7,71.528,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,15.0,1.0,MEDIUM,16.0,False,1,True,8.0,30.4,49.5,32.0,False,2.1,71.502,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,16.0,1.0,MEDIUM,17.0,False,1,True,8.0,30.5,49.5,31.0,False,2.6,71.565,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,17.0,1.0,MEDIUM,18.0,False,1,True,8.0,30.5,49.6,31.0,False,1.9,71.795,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,18.0,1.0,MEDIUM,19.0,False,1,True,8.0,30.6,49.7,30.0,False,1.9,71.589,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,19.0,1.0,MEDIUM,20.0,False,1,True,7.0,30.6,49.4,31.0,False,2.5,71.609,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,20.0,1.0,MEDIUM,21.0,False,1,True,7.0,30.6,49.0,31.0,False,1.8,71.629,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,21.0,1.0,MEDIUM,22.0,False,1,True,6.0,30.5,49.0,31.0,False,1.0,71.951,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,22.0,1.0,MEDIUM,23.0,False,1,True,6.0,30.6,49.3,31.0,False,1.6,71.446,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,23.0,1.0,MEDIUM,24.0,False,1,True,6.0,30.7,49.3,31.0,False,1.9,71.422,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,24.0,1.0,MEDIUM,25.0,False,1,True,6.0,30.6,49.3,31.0,False,1.8,71.566,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,25.0,1.0,MEDIUM,26.0,False,1,True,6.0,30.6,49.6,30.0,False,2.4,71.676,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,26.0,1.0,MEDIUM,27.0,False,1,True,5.0,30.5,49.1,31.0,False,1.3,71.649,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,27.0,1.0,MEDIUM,28.0,False,1,True,5.0,30.5,49.1,31.0,False,1.9,72.243,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,28.0,1.0,MEDIUM,29.0,False,1,True,5.0,30.6,48.8,31.0,False,2.4,72.033,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,29.0,1.0,MEDIUM,30.0,False,1,True,6.0,30.6,49.7,31.0,False,1.5,73.447,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,30.0,1.0,MEDIUM,31.0,False,12,True,6.0,30.6,48.8,31.0,False,2.5,72.132,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,31.0,1.0,MEDIUM,32.0,False,1,True,6.0,30.5,48.8,31.0,False,2.0,71.899,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,32.0,1.0,MEDIUM,33.0,False,1,True,5.0,30.5,48.7,31.0,False,2.8,72.085,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,33.0,1.0,MEDIUM,34.0,False,1,False,6.0,30.6,48.7,32.0,False,2.2,75.811,True,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,34.0,2.0,HARD,2.0,False,1,False,12.0,30.6,48.8,32.0,False,2.2,88.004,True,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,35.0,2.0,HARD,3.0,False,1,True,12.0,30.4,48.5,32.0,False,1.6,70.934,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,36.0,2.0,HARD,4.0,False,1,True,12.0,30.5,48.4,32.0,False,1.7,70.727,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,37.0,2.0,HARD,5.0,False,1,True,12.0,30.5,48.4,31.0,False,1.2,70.697,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,38.0,2.0,HARD,6.0,False,1,True,11.0,30.4,48.1,31.0,False,0.0,70.58,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,39.0,2.0,HARD,7.0,False,1,True,11.0,30.5,48.7,31.0,False,0.8,69.935,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,40.0,2.0,HARD,8.0,False,1,True,10.0,30.8,49.3,31.0,False,0.7,70.175,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,41.0,2.0,HARD,9.0,False,1,True,10.0,30.9,48.6,30.0,False,3.3,70.057,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,42.0,2.0,HARD,10.0,False,1,True,10.0,30.9,48.4,31.0,False,2.7,69.964,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,43.0,2.0,HARD,11.0,False,1,True,9.0,30.8,48.4,32.0,False,1.1,70.068,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,44.0,2.0,HARD,12.0,False,1,True,9.0,30.8,48.7,32.0,False,1.4,70.338,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,45.0,2.0,HARD,13.0,False,1,True,9.0,31.1,49.1,31.0,False,2.1,70.255,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,46.0,2.0,HARD,14.0,False,1,True,8.0,31.2,49.1,30.0,False,2.8,69.971,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,47.0,2.0,HARD,15.0,False,1,True,8.0,31.2,48.9,30.0,False,2.5,70.129,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,48.0,2.0,HARD,16.0,False,1,True,8.0,31.3,48.0,31.0,False,1.8,70.302,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,49.0,2.0,HARD,17.0,False,1,True,8.0,31.3,48.2,32.0,False,0.8,70.203,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,50.0,2.0,HARD,18.0,False,1,True,6.0,31.1,48.9,31.0,False,1.4,70.313,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,51.0,2.0,HARD,19.0,False,1,True,6.0,31.1,48.7,31.0,False,2.0,70.329,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,52.0,2.0,HARD,20.0,False,1,True,6.0,31.1,48.7,31.0,False,2.8,70.325,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,53.0,2.0,HARD,21.0,False,1,True,6.0,31.1,48.7,31.0,False,2.5,70.207,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,54.0,2.0,HARD,22.0,False,1,True,7.0,31.1,48.4,31.0,False,3.1,71.177,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,55.0,2.0,HARD,23.0,False,1,True,7.0,31.0,48.4,31.0,False,2.2,70.859,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,56.0,2.0,HARD,24.0,False,1,True,7.0,30.9,48.5,31.0,False,2.5,70.609,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,57.0,2.0,HARD,25.0,False,1,True,7.0,30.9,48.2,30.0,False,2.9,70.195,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,58.0,2.0,HARD,26.0,False,1,True,7.0,30.9,47.5,31.0,False,1.7,70.254,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,59.0,2.0,HARD,27.0,False,1,True,7.0,30.7,48.2,31.0,False,1.5,70.252,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,60.0,2.0,HARD,28.0,False,1,True,7.0,30.7,48.6,31.0,False,2.3,70.149,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,61.0,2.0,HARD,29.0,False,1,True,7.0,30.9,48.6,30.0,False,2.0,70.198,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,62.0,2.0,HARD,30.0,False,1,True,7.0,31.1,48.3,30.0,False,1.9,70.172,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,63.0,2.0,HARD,31.0,False,1,True,7.0,31.2,48.2,30.0,False,2.8,70.462,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,64.0,2.0,HARD,32.0,False,1,True,7.0,31.3,48.0,30.0,False,2.2,70.255,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,65.0,2.0,HARD,33.0,False,1,True,7.0,31.3,47.5,30.0,False,2.4,70.4,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,66.0,2.0,HARD,34.0,False,1,True,7.0,31.0,47.5,32.0,False,1.6,71.118,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,67.0,2.0,HARD,35.0,False,1,True,7.0,30.8,47.3,32.0,False,2.8,70.966,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,68.0,2.0,HARD,36.0,False,1,True,7.0,30.7,45.9,32.0,False,0.9,71.471,False,70,2025,11,Austrian Grand Prix,2025_11
+ALO,Aston Martin,69.0,2.0,HARD,37.0,False,1,True,7.0,30.6,46.3,32.0,False,1.3,71.465,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,124,False,8.0,30.2,47.8,33.0,False,0.9,102.691,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,4,False,8.0,30.4,49.7,32.0,False,1.0,109.849,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,41,False,8.0,30.6,49.2,32.0,False,1.5,106.776,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,30.7,49.6,32.0,False,0.8,72.12,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,30.8,49.8,32.0,False,0.6,71.284,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,30.7,49.7,32.0,False,1.4,70.933,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,30.6,50.3,32.0,False,1.9,70.946,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,30.6,50.4,32.0,False,2.1,70.969,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,30.6,50.3,32.0,False,2.2,71.241,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,30.8,49.9,31.0,False,3.7,71.408,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,30.6,49.2,31.0,False,2.4,71.6,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,30.6,49.1,32.0,False,2.1,71.412,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,30.5,49.2,31.0,False,2.1,71.78,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,30.4,49.9,32.0,False,2.7,71.418,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,30.4,49.5,32.0,False,2.1,71.428,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,30.5,49.5,31.0,False,2.6,71.502,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,30.5,49.6,31.0,False,1.9,71.752,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,30.6,49.7,30.0,False,1.9,71.445,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,30.6,49.4,31.0,False,2.5,71.567,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,30.6,49.0,31.0,False,1.8,71.712,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,False,7.0,30.5,49.0,31.0,False,1.0,75.062,True,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,22.0,2.0,MEDIUM,1.0,True,1,False,13.0,30.6,49.3,31.0,False,1.6,89.243,True,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,23.0,2.0,MEDIUM,2.0,True,1,True,12.0,30.7,49.3,31.0,False,1.9,70.456,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,24.0,2.0,MEDIUM,3.0,True,1,True,12.0,30.6,49.6,31.0,False,1.9,70.911,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,25.0,2.0,MEDIUM,4.0,True,1,True,12.0,30.6,49.6,30.0,False,2.4,70.5,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,26.0,2.0,MEDIUM,5.0,True,1,True,11.0,30.5,49.1,31.0,False,1.3,71.17,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,27.0,2.0,MEDIUM,6.0,True,1,True,10.0,30.5,49.1,31.0,False,1.9,71.314,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,28.0,2.0,MEDIUM,7.0,True,1,True,8.0,30.6,48.8,31.0,False,2.4,70.962,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,29.0,2.0,MEDIUM,8.0,True,1,True,8.0,30.6,49.4,31.0,False,3.2,70.586,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,30.0,2.0,MEDIUM,9.0,True,12,True,8.0,30.6,48.8,31.0,False,2.5,70.744,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,31.0,2.0,MEDIUM,10.0,True,1,True,8.0,30.5,48.8,31.0,False,2.0,70.591,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,32.0,2.0,MEDIUM,11.0,True,1,True,8.0,30.5,48.7,31.0,False,2.8,70.66,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,33.0,2.0,MEDIUM,12.0,True,1,True,7.0,30.6,48.7,32.0,False,2.2,70.872,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,34.0,2.0,MEDIUM,13.0,True,1,True,6.0,30.6,48.8,32.0,False,2.2,70.493,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,35.0,2.0,MEDIUM,14.0,True,1,True,6.0,30.4,48.5,32.0,False,1.6,70.723,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,36.0,2.0,MEDIUM,15.0,True,1,True,6.0,30.5,48.4,32.0,False,1.7,70.575,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,37.0,2.0,MEDIUM,16.0,True,1,True,6.0,30.5,48.4,31.0,False,1.2,70.616,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,38.0,2.0,MEDIUM,17.0,True,1,True,6.0,30.4,48.1,31.0,False,0.0,70.58,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,39.0,2.0,MEDIUM,18.0,True,1,True,6.0,30.4,48.3,32.0,False,1.1,70.929,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,40.0,2.0,MEDIUM,19.0,True,1,True,6.0,30.8,49.3,31.0,False,0.7,70.795,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,41.0,2.0,MEDIUM,20.0,True,1,True,6.0,30.9,48.6,30.0,False,3.3,70.987,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,42.0,2.0,MEDIUM,21.0,True,1,True,6.0,30.9,48.4,31.0,False,2.7,70.512,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,43.0,2.0,MEDIUM,22.0,True,1,True,6.0,30.8,48.4,32.0,False,1.1,70.775,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,44.0,2.0,MEDIUM,23.0,True,1,True,6.0,30.8,48.7,32.0,False,1.4,70.97,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,45.0,2.0,MEDIUM,24.0,True,1,True,6.0,31.0,49.3,31.0,False,1.2,70.853,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,46.0,2.0,MEDIUM,25.0,True,1,True,5.0,31.2,49.1,30.0,False,2.8,70.902,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,47.0,2.0,MEDIUM,26.0,True,1,True,5.0,31.2,48.9,30.0,False,2.5,70.704,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,48.0,2.0,MEDIUM,27.0,True,1,True,5.0,31.3,48.0,31.0,False,1.8,71.191,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,49.0,2.0,MEDIUM,28.0,True,1,False,5.0,31.3,48.2,32.0,False,0.8,74.673,True,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,50.0,3.0,HARD,1.0,True,1,False,10.0,31.1,48.9,31.0,False,1.4,88.844,True,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,51.0,3.0,HARD,2.0,True,1,True,9.0,31.1,48.7,31.0,False,2.0,69.997,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,52.0,3.0,HARD,3.0,True,1,True,9.0,31.1,48.7,31.0,False,2.8,69.786,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,53.0,3.0,HARD,4.0,True,1,True,9.0,31.1,48.7,31.0,False,2.5,69.433,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,54.0,3.0,HARD,5.0,True,1,True,9.0,31.1,48.4,31.0,False,3.1,69.676,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,55.0,3.0,HARD,6.0,True,1,True,9.0,31.0,48.6,31.0,False,1.9,70.307,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,56.0,3.0,HARD,7.0,True,1,True,8.0,30.9,48.5,31.0,False,2.5,69.852,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,57.0,3.0,HARD,8.0,True,1,True,8.0,30.9,48.2,30.0,False,2.9,69.955,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,58.0,3.0,HARD,9.0,True,1,True,8.0,30.9,47.5,31.0,False,1.7,69.648,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,59.0,3.0,HARD,10.0,True,1,True,8.0,30.7,48.2,31.0,False,1.5,69.289,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,60.0,3.0,HARD,11.0,True,1,True,8.0,30.7,48.6,31.0,False,2.3,69.247,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,61.0,3.0,HARD,12.0,True,1,True,8.0,30.9,48.6,30.0,False,2.0,69.302,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,62.0,3.0,HARD,13.0,True,1,True,8.0,31.1,48.3,30.0,False,1.9,69.375,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,63.0,3.0,HARD,14.0,True,1,True,8.0,31.2,48.2,30.0,False,2.8,69.261,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,64.0,3.0,HARD,15.0,True,1,True,8.0,31.3,48.0,30.0,False,2.2,69.254,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,65.0,3.0,HARD,16.0,True,1,True,8.0,31.3,47.5,30.0,False,2.4,69.416,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,66.0,3.0,HARD,17.0,True,1,True,8.0,31.0,47.5,32.0,False,1.6,69.944,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,67.0,3.0,HARD,18.0,True,1,True,8.0,30.8,47.3,32.0,False,2.8,70.756,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,68.0,3.0,HARD,19.0,True,1,True,8.0,30.7,45.9,32.0,False,0.9,72.241,False,70,2025,11,Austrian Grand Prix,2025_11
+BOR,Kick Sauber,69.0,3.0,HARD,20.0,True,1,True,8.0,30.6,46.3,32.0,False,1.3,70.88,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,1.0,1.0,SOFT,1.0,True,124,False,17.0,30.2,47.8,33.0,False,0.9,118.625,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,2.0,1.0,SOFT,2.0,True,4,False,17.0,30.4,49.7,32.0,False,1.0,104.918,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,3.0,1.0,SOFT,3.0,True,41,False,16.0,30.6,49.2,32.0,False,1.5,99.362,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,4.0,1.0,SOFT,4.0,True,1,True,16.0,30.7,49.8,32.0,False,1.4,72.316,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,5.0,1.0,SOFT,5.0,True,1,True,16.0,30.8,49.8,32.0,False,0.6,72.034,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,6.0,1.0,SOFT,6.0,True,1,True,16.0,30.7,49.7,32.0,False,1.4,71.857,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,7.0,1.0,SOFT,7.0,True,1,True,16.0,30.6,50.3,32.0,False,1.9,71.507,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,8.0,1.0,SOFT,8.0,True,1,True,16.0,30.6,50.4,32.0,False,2.1,70.949,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,9.0,1.0,SOFT,9.0,True,1,True,16.0,30.7,50.3,31.0,False,3.1,71.201,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,10.0,1.0,SOFT,10.0,True,1,True,16.0,30.8,49.9,31.0,False,3.7,71.118,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,11.0,1.0,SOFT,11.0,True,1,True,16.0,30.6,49.2,31.0,False,2.4,71.537,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,12.0,1.0,SOFT,12.0,True,1,False,16.0,30.6,49.1,32.0,False,2.1,75.086,True,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,13.0,2.0,MEDIUM,1.0,True,1,False,17.0,30.5,49.2,31.0,False,2.1,87.5,True,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,14.0,2.0,MEDIUM,2.0,True,1,True,16.0,30.4,49.5,31.0,False,3.1,71.372,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,15.0,2.0,MEDIUM,3.0,True,1,True,15.0,30.4,49.5,32.0,False,2.1,70.735,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,16.0,2.0,MEDIUM,4.0,True,1,True,15.0,30.5,49.5,31.0,False,2.6,70.729,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,17.0,2.0,MEDIUM,5.0,True,1,True,15.0,30.5,49.6,31.0,False,1.9,70.879,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,18.0,2.0,MEDIUM,6.0,True,1,True,15.0,30.6,49.4,31.0,False,2.5,70.967,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,19.0,2.0,MEDIUM,7.0,True,1,True,14.0,30.6,49.4,32.0,False,2.2,70.746,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,20.0,2.0,MEDIUM,8.0,True,1,True,13.0,30.6,49.0,31.0,False,1.8,70.769,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,21.0,2.0,MEDIUM,9.0,True,1,True,13.0,30.5,49.0,31.0,False,1.0,71.332,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,22.0,2.0,MEDIUM,10.0,True,1,True,11.0,30.6,49.3,31.0,False,1.6,70.923,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,23.0,2.0,MEDIUM,11.0,True,1,True,11.0,30.7,49.3,31.0,False,1.9,70.78,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,24.0,2.0,MEDIUM,12.0,True,1,True,11.0,30.6,49.6,31.0,False,1.9,70.924,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,25.0,2.0,MEDIUM,13.0,True,1,True,11.0,30.6,49.6,30.0,False,2.4,71.101,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,26.0,2.0,MEDIUM,14.0,True,1,True,10.0,30.5,49.1,31.0,False,1.3,71.448,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,27.0,2.0,MEDIUM,15.0,True,1,True,9.0,30.5,49.1,31.0,False,1.9,71.142,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,28.0,2.0,MEDIUM,16.0,True,1,True,9.0,30.6,48.8,31.0,False,2.4,72.593,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,29.0,2.0,MEDIUM,17.0,True,1,True,9.0,30.6,49.4,31.0,False,3.2,70.895,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,30.0,2.0,MEDIUM,18.0,True,12,True,9.0,30.6,48.8,31.0,False,2.5,71.238,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,31.0,2.0,MEDIUM,19.0,True,1,True,9.0,30.5,48.8,31.0,False,2.0,71.075,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,32.0,2.0,MEDIUM,20.0,True,1,True,9.0,30.5,48.7,31.0,False,2.8,71.239,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,33.0,2.0,MEDIUM,21.0,True,1,True,8.0,30.6,48.7,32.0,False,2.2,71.002,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,34.0,2.0,MEDIUM,22.0,True,1,True,7.0,30.6,48.8,32.0,False,2.2,70.923,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,35.0,2.0,MEDIUM,23.0,True,1,True,7.0,30.4,48.5,32.0,False,1.6,70.948,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,36.0,2.0,MEDIUM,24.0,True,1,True,7.0,30.5,48.4,32.0,False,1.7,70.861,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,37.0,2.0,MEDIUM,25.0,True,1,True,7.0,30.5,48.4,31.0,False,1.2,70.802,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,38.0,2.0,MEDIUM,26.0,True,1,True,7.0,30.4,48.1,31.0,False,0.0,70.797,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,39.0,2.0,MEDIUM,27.0,True,1,True,7.0,30.4,48.3,32.0,False,1.1,70.906,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,40.0,2.0,MEDIUM,28.0,True,1,True,7.0,30.8,49.3,31.0,False,0.7,70.708,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,41.0,2.0,MEDIUM,29.0,True,1,True,7.0,30.9,48.6,30.0,False,3.3,71.041,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,42.0,2.0,MEDIUM,30.0,True,1,False,8.0,30.9,48.4,31.0,False,2.7,74.479,True,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,43.0,3.0,MEDIUM,1.0,True,1,False,11.0,30.8,48.4,32.0,False,1.1,87.028,True,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,44.0,3.0,MEDIUM,2.0,True,1,True,11.0,31.0,49.3,31.0,False,1.2,70.552,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,45.0,3.0,MEDIUM,3.0,True,1,True,11.0,31.1,49.1,31.0,False,2.1,70.168,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,46.0,3.0,MEDIUM,4.0,True,1,True,11.0,31.2,49.1,30.0,False,2.8,72.362,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,47.0,3.0,MEDIUM,5.0,True,1,True,11.0,31.2,48.9,30.0,False,2.5,70.453,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,48.0,3.0,MEDIUM,6.0,True,1,True,11.0,31.3,48.0,31.0,False,1.8,70.645,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,49.0,3.0,MEDIUM,7.0,True,1,True,11.0,31.1,48.9,31.0,False,1.4,70.257,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,50.0,3.0,MEDIUM,8.0,True,1,True,11.0,31.1,48.9,31.0,False,3.2,70.645,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,51.0,3.0,MEDIUM,9.0,True,1,True,10.0,31.1,48.7,31.0,False,2.0,70.162,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,52.0,3.0,MEDIUM,10.0,True,1,True,10.0,31.1,48.7,31.0,False,2.8,70.293,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,53.0,3.0,MEDIUM,11.0,True,1,True,10.0,31.1,48.7,31.0,False,2.5,69.945,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,54.0,3.0,MEDIUM,12.0,True,1,True,10.0,31.1,48.4,31.0,False,3.1,69.857,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,55.0,3.0,MEDIUM,13.0,True,1,True,10.0,31.0,48.6,31.0,False,1.9,70.188,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,56.0,3.0,MEDIUM,14.0,True,1,True,10.0,30.9,48.5,31.0,False,2.5,69.872,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,57.0,3.0,MEDIUM,15.0,True,1,True,9.0,30.9,48.2,30.0,False,2.9,69.459,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,58.0,3.0,MEDIUM,16.0,True,1,True,9.0,30.9,47.5,31.0,False,1.7,69.661,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,59.0,3.0,MEDIUM,17.0,True,1,True,9.0,30.7,48.2,31.0,False,1.5,69.46,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,60.0,3.0,MEDIUM,18.0,True,1,True,9.0,30.7,48.6,31.0,False,2.3,69.792,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,61.0,3.0,MEDIUM,19.0,True,1,True,9.0,31.0,48.6,30.0,False,2.1,69.742,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,62.0,3.0,MEDIUM,20.0,True,1,True,9.0,31.1,48.3,30.0,False,1.9,69.996,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,63.0,3.0,MEDIUM,21.0,True,1,True,9.0,31.2,48.2,30.0,False,2.8,71.67,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,64.0,3.0,MEDIUM,22.0,True,1,True,9.0,31.3,48.0,30.0,False,2.2,70.646,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,65.0,3.0,MEDIUM,23.0,True,1,True,9.0,31.3,47.5,30.0,False,2.4,69.81,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,66.0,3.0,MEDIUM,24.0,True,1,True,9.0,31.0,47.5,32.0,False,1.6,70.375,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,67.0,3.0,MEDIUM,25.0,True,1,True,9.0,30.7,45.9,31.0,False,1.5,70.274,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,68.0,3.0,MEDIUM,26.0,True,1,True,9.0,30.7,45.9,32.0,False,0.9,70.294,False,70,2025,11,Austrian Grand Prix,2025_11
+HUL,Kick Sauber,69.0,3.0,MEDIUM,27.0,True,1,True,9.0,30.6,46.3,32.0,False,1.3,70.443,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,124,False,14.0,30.2,47.8,33.0,False,0.9,111.782,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,4,False,14.0,30.4,49.7,32.0,False,1.0,107.393,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,41,False,14.0,30.6,49.2,32.0,False,1.5,102.552,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,30.7,49.8,32.0,False,1.4,72.537,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,30.8,49.8,32.0,False,0.6,72.012,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,30.7,49.7,32.0,False,1.4,71.558,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,30.6,50.3,32.0,False,1.9,71.316,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,30.6,50.4,32.0,False,2.1,70.909,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,14.0,30.6,50.3,32.0,False,2.2,71.186,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,14.0,30.8,49.9,31.0,False,3.7,71.314,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,30.6,49.2,31.0,False,2.4,71.644,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,30.6,49.1,32.0,False,2.1,71.521,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,30.5,49.2,31.0,False,2.1,71.88,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,30.4,49.9,32.0,False,2.7,72.136,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,30.4,49.5,32.0,False,2.1,71.753,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,9.0,30.5,49.5,31.0,False,2.6,71.81,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,9.0,30.5,49.6,31.0,False,1.9,71.899,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,9.0,30.6,49.7,30.0,False,1.9,71.769,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,False,8.0,30.6,49.4,31.0,False,2.5,75.316,True,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,20.0,2.0,HARD,1.0,True,1,False,15.0,30.6,49.0,31.0,False,1.8,89.31,True,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,21.0,2.0,HARD,2.0,True,1,True,15.0,30.5,49.0,31.0,False,1.0,70.244,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,22.0,2.0,HARD,3.0,True,1,True,15.0,30.6,49.3,31.0,False,1.6,70.561,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,23.0,2.0,HARD,4.0,True,1,True,15.0,30.6,49.3,31.0,False,1.8,70.326,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,24.0,2.0,HARD,5.0,True,1,True,15.0,30.6,49.6,31.0,False,1.9,70.758,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,25.0,2.0,HARD,6.0,True,1,True,15.0,30.6,49.6,30.0,False,2.4,70.79,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,26.0,2.0,HARD,7.0,True,1,True,14.0,30.5,49.1,31.0,False,1.3,70.992,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,27.0,2.0,HARD,8.0,True,1,True,14.0,30.5,49.1,31.0,False,1.9,72.205,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,28.0,2.0,HARD,9.0,True,1,True,13.0,30.6,48.8,31.0,False,2.4,70.871,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,29.0,2.0,HARD,10.0,True,1,True,12.0,30.6,49.4,31.0,False,3.2,71.373,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,30.0,2.0,HARD,11.0,True,12,True,11.0,30.6,48.8,31.0,False,2.5,70.703,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,31.0,2.0,HARD,12.0,True,1,True,11.0,30.5,48.8,31.0,False,2.0,70.9,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,32.0,2.0,HARD,13.0,True,1,True,11.0,30.5,48.7,31.0,False,2.8,71.233,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,33.0,2.0,HARD,14.0,True,1,True,9.0,30.6,48.7,32.0,False,2.2,70.752,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,34.0,2.0,HARD,15.0,True,1,True,8.0,30.5,48.5,31.0,False,2.0,70.94,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,35.0,2.0,HARD,16.0,True,1,True,8.0,30.4,48.5,32.0,False,1.6,70.655,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,36.0,2.0,HARD,17.0,True,1,True,8.0,30.5,48.4,32.0,False,1.7,70.387,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,37.0,2.0,HARD,18.0,True,1,True,8.0,30.5,48.4,31.0,False,1.2,70.663,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,38.0,2.0,HARD,19.0,True,1,True,8.0,30.4,48.1,31.0,False,0.0,70.739,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,39.0,2.0,HARD,20.0,True,1,True,8.0,30.4,48.3,32.0,False,1.1,70.802,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,40.0,2.0,HARD,21.0,True,1,True,8.0,30.8,49.3,31.0,False,0.7,70.597,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,41.0,2.0,HARD,22.0,True,1,True,8.0,30.9,48.6,30.0,False,3.3,70.925,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,42.0,2.0,HARD,23.0,True,1,True,7.0,30.9,48.4,31.0,False,2.7,70.829,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,43.0,2.0,HARD,24.0,True,1,True,7.0,30.8,48.4,32.0,False,1.1,70.662,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,44.0,2.0,HARD,25.0,True,1,True,7.0,30.8,48.7,32.0,False,1.4,70.815,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,45.0,2.0,HARD,26.0,True,1,True,7.0,31.1,49.1,31.0,False,2.1,70.828,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,46.0,2.0,HARD,27.0,True,1,True,6.0,31.2,49.1,30.0,False,2.8,70.6,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,47.0,2.0,HARD,28.0,True,1,True,6.0,31.2,48.9,30.0,False,2.5,70.705,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,48.0,2.0,HARD,29.0,True,1,True,6.0,31.3,48.0,31.0,False,1.8,70.843,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,49.0,2.0,HARD,30.0,True,1,True,6.0,31.3,48.2,32.0,False,0.8,70.826,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,50.0,2.0,HARD,31.0,True,1,False,7.0,31.1,48.9,31.0,False,1.4,74.68,True,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,51.0,3.0,HARD,1.0,True,1,False,11.0,31.1,48.7,31.0,False,2.0,87.615,True,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,52.0,3.0,HARD,2.0,True,1,True,11.0,31.1,48.7,31.0,False,2.8,69.687,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,53.0,3.0,HARD,3.0,True,1,True,11.0,31.1,48.7,31.0,False,2.5,69.583,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,54.0,3.0,HARD,4.0,True,1,True,11.0,31.1,48.4,31.0,False,3.1,69.853,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,55.0,3.0,HARD,5.0,True,1,True,11.0,31.0,48.6,31.0,False,1.9,69.55,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,56.0,3.0,HARD,6.0,True,1,True,11.0,30.9,48.5,31.0,False,2.5,69.765,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,57.0,3.0,HARD,7.0,True,1,True,11.0,30.9,48.2,30.0,False,2.9,69.877,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,58.0,3.0,HARD,8.0,True,1,True,10.0,30.9,47.5,31.0,False,1.7,69.621,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,59.0,3.0,HARD,9.0,True,1,True,10.0,30.7,48.2,31.0,False,1.5,69.658,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,60.0,3.0,HARD,10.0,True,1,True,10.0,30.7,48.6,31.0,False,2.3,69.68,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,61.0,3.0,HARD,11.0,True,1,True,10.0,31.0,48.6,30.0,False,2.1,72.661,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,62.0,3.0,HARD,12.0,True,1,True,10.0,31.1,48.3,30.0,False,1.9,69.781,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,63.0,3.0,HARD,13.0,True,1,True,10.0,31.2,48.2,30.0,False,2.8,70.017,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,64.0,3.0,HARD,14.0,True,1,True,10.0,31.3,48.0,30.0,False,2.2,69.744,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,65.0,3.0,HARD,15.0,True,1,True,10.0,31.3,47.5,30.0,False,2.4,69.992,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,66.0,3.0,HARD,16.0,True,1,True,10.0,31.0,47.5,32.0,False,1.6,70.343,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,67.0,3.0,HARD,17.0,True,1,True,10.0,30.7,45.9,31.0,False,1.5,70.177,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,68.0,3.0,HARD,18.0,True,1,True,10.0,30.7,45.9,32.0,False,0.9,70.246,False,70,2025,11,Austrian Grand Prix,2025_11
+OCO,Haas F1 Team,69.0,3.0,HARD,19.0,True,1,True,10.0,30.6,46.3,32.0,False,1.3,70.028,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,1.0,1.0,SOFT,1.0,True,124,False,12.0,30.2,47.8,33.0,False,0.9,109.434,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,2.0,1.0,SOFT,2.0,True,4,False,12.0,30.4,49.7,32.0,False,1.0,107.141,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,3.0,1.0,SOFT,3.0,True,41,False,12.0,30.6,49.2,32.0,False,1.5,104.216,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,4.0,1.0,SOFT,4.0,True,1,True,12.0,30.7,49.8,32.0,False,1.4,72.69,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,5.0,1.0,SOFT,5.0,True,1,True,11.0,30.8,49.8,32.0,False,0.6,71.256,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,6.0,1.0,SOFT,6.0,True,1,True,11.0,30.7,49.7,32.0,False,1.4,71.386,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,7.0,1.0,SOFT,7.0,True,1,True,11.0,30.6,50.3,32.0,False,1.9,70.807,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,8.0,1.0,SOFT,8.0,True,1,True,11.0,30.6,50.4,32.0,False,2.1,71.059,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,9.0,1.0,SOFT,9.0,True,1,True,11.0,30.6,50.3,32.0,False,2.2,71.192,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,10.0,1.0,SOFT,10.0,True,1,True,11.0,30.8,49.9,31.0,False,3.7,71.322,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,11.0,1.0,SOFT,11.0,True,1,False,15.0,30.6,49.2,31.0,False,2.4,74.538,True,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,12.0,2.0,HARD,1.0,True,1,False,17.0,30.6,49.1,32.0,False,2.1,88.16,True,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,13.0,2.0,HARD,2.0,True,1,True,15.0,30.4,49.9,32.0,False,2.7,70.913,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,14.0,2.0,HARD,3.0,True,1,True,14.0,30.4,49.5,31.0,False,3.1,70.884,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,15.0,2.0,HARD,4.0,True,1,True,14.0,30.4,49.5,32.0,False,2.1,72.127,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,16.0,2.0,HARD,5.0,True,1,True,14.0,30.5,49.5,31.0,False,2.6,71.444,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,17.0,2.0,HARD,6.0,True,1,True,14.0,30.5,49.6,31.0,False,1.9,71.49,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,18.0,2.0,HARD,7.0,True,1,True,14.0,30.6,49.7,30.0,False,1.9,71.202,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,19.0,2.0,HARD,8.0,True,1,True,13.0,30.6,49.4,32.0,False,2.2,71.442,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,20.0,2.0,HARD,9.0,True,1,True,12.0,30.6,49.0,31.0,False,1.8,71.184,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,21.0,2.0,HARD,10.0,True,1,True,12.0,30.5,49.0,31.0,False,1.0,71.386,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,22.0,2.0,HARD,11.0,True,1,True,12.0,30.6,49.3,31.0,False,1.6,72.363,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,23.0,2.0,HARD,12.0,True,1,True,13.0,30.7,49.3,31.0,False,1.9,71.867,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,24.0,2.0,HARD,13.0,True,1,True,13.0,30.6,49.6,31.0,False,1.9,71.4,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,25.0,2.0,HARD,14.0,True,1,True,13.0,30.6,49.6,30.0,False,2.4,71.268,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,26.0,2.0,HARD,15.0,True,1,True,12.0,30.5,49.1,31.0,False,1.3,71.683,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,27.0,2.0,HARD,16.0,True,1,True,12.0,30.5,49.1,31.0,False,1.9,71.19,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,28.0,2.0,HARD,17.0,True,1,True,12.0,30.6,48.8,31.0,False,2.4,71.701,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,29.0,2.0,HARD,18.0,True,1,True,11.0,30.6,49.4,31.0,False,3.2,72.441,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,30.0,2.0,HARD,19.0,True,12,True,12.0,30.6,48.8,31.0,False,2.5,72.5,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,31.0,2.0,HARD,20.0,True,1,True,12.0,30.5,48.8,31.0,False,2.0,71.211,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,32.0,2.0,HARD,21.0,True,1,True,12.0,30.5,48.7,31.0,False,2.8,71.273,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,33.0,2.0,HARD,22.0,True,1,True,11.0,30.6,48.7,32.0,False,2.2,71.412,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,34.0,2.0,HARD,23.0,True,1,True,10.0,30.5,48.5,31.0,False,2.0,71.624,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,35.0,2.0,HARD,24.0,True,1,True,9.0,30.4,48.5,32.0,False,1.6,71.316,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,36.0,2.0,HARD,25.0,True,1,True,9.0,30.5,48.4,32.0,False,1.7,70.969,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,37.0,2.0,HARD,26.0,True,1,True,9.0,30.5,48.4,31.0,False,1.2,71.188,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,38.0,2.0,HARD,27.0,True,1,True,9.0,30.4,48.1,31.0,False,0.0,71.312,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,39.0,2.0,HARD,28.0,True,1,False,10.0,30.5,48.7,31.0,False,0.8,74.083,True,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,40.0,3.0,MEDIUM,1.0,True,1,False,13.0,30.8,49.3,31.0,False,0.7,88.239,True,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,41.0,3.0,MEDIUM,2.0,True,1,True,13.0,30.9,48.6,30.0,False,3.3,70.381,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,42.0,3.0,MEDIUM,3.0,True,1,True,13.0,30.9,48.4,31.0,False,2.7,69.96,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,43.0,3.0,MEDIUM,4.0,True,1,True,13.0,30.8,48.7,32.0,False,1.4,69.961,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,44.0,3.0,MEDIUM,5.0,True,1,True,13.0,31.0,49.3,31.0,False,1.2,70.203,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,45.0,3.0,MEDIUM,6.0,True,1,True,13.0,31.1,49.1,31.0,False,2.1,70.18,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,46.0,3.0,MEDIUM,7.0,True,1,True,13.0,31.2,49.1,30.0,False,2.8,70.297,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,47.0,3.0,MEDIUM,8.0,True,1,True,13.0,31.2,48.9,30.0,False,2.5,70.647,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,48.0,3.0,MEDIUM,9.0,True,1,True,12.0,31.3,48.0,31.0,False,1.8,70.307,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,49.0,3.0,MEDIUM,10.0,True,1,True,12.0,31.1,48.9,31.0,False,1.4,70.317,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,50.0,3.0,MEDIUM,11.0,True,1,True,12.0,31.1,48.9,31.0,False,3.2,70.48,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,51.0,3.0,MEDIUM,12.0,True,1,True,12.0,31.1,48.7,31.0,False,2.0,71.666,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,52.0,3.0,MEDIUM,13.0,True,1,True,12.0,31.1,48.7,31.0,False,2.8,70.411,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,53.0,3.0,MEDIUM,14.0,True,1,True,12.0,31.1,48.7,31.0,False,2.5,70.473,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,54.0,3.0,MEDIUM,15.0,True,1,True,12.0,31.1,48.4,31.0,False,3.1,70.694,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,55.0,3.0,MEDIUM,16.0,True,1,True,12.0,31.0,48.6,31.0,False,1.9,70.214,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,56.0,3.0,MEDIUM,17.0,True,1,True,12.0,30.9,48.5,31.0,False,2.5,70.277,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,57.0,3.0,MEDIUM,18.0,True,1,True,12.0,30.9,48.2,30.0,False,2.9,72.01,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,58.0,3.0,MEDIUM,19.0,True,1,True,12.0,30.9,47.5,31.0,False,1.7,71.313,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,59.0,3.0,MEDIUM,20.0,True,1,True,12.0,30.7,48.2,31.0,False,1.5,70.483,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,60.0,3.0,MEDIUM,21.0,True,1,True,12.0,30.9,48.6,30.0,False,2.0,70.26,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,61.0,3.0,MEDIUM,22.0,True,1,True,12.0,31.0,48.6,30.0,False,2.1,70.162,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,62.0,3.0,MEDIUM,23.0,True,1,True,12.0,31.1,48.3,30.0,False,1.9,70.782,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,63.0,3.0,MEDIUM,24.0,True,1,True,12.0,31.2,48.2,30.0,False,2.8,70.445,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,64.0,3.0,MEDIUM,25.0,True,1,True,12.0,31.3,48.0,30.0,False,2.2,70.953,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,65.0,3.0,MEDIUM,26.0,True,1,True,12.0,31.3,47.5,30.0,False,2.4,70.909,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,66.0,3.0,MEDIUM,27.0,True,1,True,11.0,30.8,47.3,32.0,False,2.8,70.799,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,67.0,3.0,MEDIUM,28.0,True,1,True,11.0,30.7,45.9,31.0,False,1.5,72.745,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,68.0,3.0,MEDIUM,29.0,True,1,True,11.0,30.7,45.9,32.0,False,0.9,70.747,False,70,2025,11,Austrian Grand Prix,2025_11
+BEA,Haas F1 Team,69.0,3.0,MEDIUM,30.0,True,1,True,11.0,30.6,46.3,32.0,False,1.3,70.158,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,1.0,1.0,SOFT,1.0,False,124,False,16.0,30.2,47.8,33.0,False,0.9,117.087,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,2.0,1.0,SOFT,2.0,False,4,False,15.0,30.4,49.7,32.0,False,1.0,102.317,True,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,3.0,2.0,MEDIUM,1.0,True,41,False,17.0,30.6,49.2,32.0,False,1.5,103.989,True,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,4.0,2.0,MEDIUM,2.0,True,1,True,17.0,30.7,49.8,32.0,False,1.4,72.286,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,5.0,2.0,MEDIUM,3.0,True,1,True,17.0,30.8,49.8,32.0,False,0.6,72.011,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,6.0,2.0,MEDIUM,4.0,True,1,True,17.0,30.7,49.7,32.0,False,1.4,72.078,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,7.0,2.0,MEDIUM,5.0,True,1,True,17.0,30.6,50.3,32.0,False,1.9,71.578,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,8.0,2.0,MEDIUM,6.0,True,1,True,17.0,30.6,50.4,32.0,False,2.1,70.974,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,9.0,2.0,MEDIUM,7.0,True,1,True,17.0,30.7,50.3,31.0,False,3.1,71.008,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,10.0,2.0,MEDIUM,8.0,True,1,True,17.0,30.8,49.9,31.0,False,3.7,71.516,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,11.0,2.0,MEDIUM,9.0,True,1,True,17.0,30.6,49.2,31.0,False,2.4,71.208,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,12.0,2.0,MEDIUM,10.0,True,1,True,15.0,30.6,49.1,32.0,False,2.1,71.777,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,13.0,2.0,MEDIUM,11.0,True,1,True,13.0,30.5,49.2,31.0,False,2.1,72.331,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,14.0,2.0,MEDIUM,12.0,True,1,True,12.0,30.4,49.9,32.0,False,2.7,72.691,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,15.0,2.0,MEDIUM,13.0,True,1,True,12.0,30.4,49.5,32.0,False,2.1,72.527,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,16.0,2.0,MEDIUM,14.0,True,1,True,12.0,30.5,49.5,31.0,False,2.6,72.243,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,17.0,2.0,MEDIUM,15.0,True,1,True,12.0,30.5,49.6,31.0,False,1.9,72.008,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,18.0,2.0,MEDIUM,16.0,True,1,True,11.0,30.6,49.7,30.0,False,1.9,71.672,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,19.0,2.0,MEDIUM,17.0,True,1,True,10.0,30.6,49.4,32.0,False,2.2,72.465,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,20.0,2.0,MEDIUM,18.0,True,1,True,9.0,30.6,49.0,31.0,False,1.8,72.607,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,21.0,2.0,MEDIUM,19.0,True,1,True,9.0,30.5,49.0,31.0,False,1.0,72.297,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,22.0,2.0,MEDIUM,20.0,True,1,True,8.0,30.6,49.3,31.0,False,1.6,72.202,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,23.0,2.0,MEDIUM,21.0,True,1,True,8.0,30.7,49.3,31.0,False,1.9,72.05,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,24.0,2.0,MEDIUM,22.0,True,1,True,8.0,30.6,49.6,31.0,False,1.9,71.986,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,25.0,2.0,MEDIUM,23.0,True,1,True,7.0,30.6,49.6,30.0,False,2.4,71.315,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,26.0,2.0,MEDIUM,24.0,True,1,True,8.0,30.5,49.1,31.0,False,1.3,72.602,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,27.0,2.0,MEDIUM,25.0,True,1,True,8.0,30.5,49.1,31.0,False,1.9,71.94,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,28.0,2.0,MEDIUM,26.0,True,1,False,10.0,30.6,48.8,31.0,False,2.4,74.834,True,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,29.0,3.0,HARD,1.0,True,1,False,15.0,30.6,49.4,31.0,False,3.2,88.284,True,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,30.0,3.0,HARD,2.0,True,12,True,15.0,30.6,48.8,31.0,False,2.5,70.739,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,31.0,3.0,HARD,3.0,True,1,True,14.0,30.5,48.8,31.0,False,2.0,70.665,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,32.0,3.0,HARD,4.0,True,1,True,14.0,30.5,48.7,31.0,False,2.8,70.518,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,33.0,3.0,HARD,5.0,True,1,True,14.0,30.6,48.8,32.0,False,2.2,70.618,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,34.0,3.0,HARD,6.0,True,1,True,14.0,30.5,48.5,31.0,False,2.0,70.78,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,35.0,3.0,HARD,7.0,True,1,True,14.0,30.4,48.5,32.0,False,1.6,70.735,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,36.0,3.0,HARD,8.0,True,1,True,13.0,30.5,48.4,32.0,False,1.7,70.515,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,37.0,3.0,HARD,9.0,True,1,True,13.0,30.5,48.4,31.0,False,1.2,70.467,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,38.0,3.0,HARD,10.0,True,1,True,13.0,30.4,48.1,31.0,False,0.0,70.269,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,39.0,3.0,HARD,11.0,True,1,True,12.0,30.5,48.7,31.0,False,0.8,70.337,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,40.0,3.0,HARD,12.0,True,1,True,11.0,30.8,49.3,31.0,False,0.7,70.204,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,41.0,3.0,HARD,13.0,True,1,True,11.0,30.9,48.6,30.0,False,3.3,70.305,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,42.0,3.0,HARD,14.0,True,1,True,11.0,30.9,48.4,31.0,False,2.7,70.237,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,43.0,3.0,HARD,15.0,True,1,True,10.0,30.8,48.4,32.0,False,1.1,70.379,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,44.0,3.0,HARD,16.0,True,1,True,10.0,31.0,49.3,31.0,False,1.2,70.225,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,45.0,3.0,HARD,17.0,True,1,True,10.0,31.1,49.1,31.0,False,2.1,70.374,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,46.0,3.0,HARD,18.0,True,1,True,10.0,31.2,49.1,30.0,False,2.8,71.21,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,47.0,3.0,HARD,19.0,True,1,True,10.0,31.2,48.9,30.0,False,2.5,70.412,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,48.0,3.0,HARD,20.0,True,1,True,10.0,31.3,48.0,31.0,False,1.8,70.455,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,49.0,3.0,HARD,21.0,True,1,True,10.0,31.3,48.2,32.0,False,0.8,70.323,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,50.0,3.0,HARD,22.0,True,1,True,9.0,31.1,48.9,31.0,False,3.2,70.635,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,51.0,3.0,HARD,23.0,True,1,True,8.0,31.1,48.7,31.0,False,2.0,71.225,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,52.0,3.0,HARD,24.0,True,1,True,8.0,31.1,48.7,31.0,False,2.8,71.224,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,53.0,3.0,HARD,25.0,True,1,True,8.0,31.1,48.7,31.0,False,2.5,71.214,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,54.0,3.0,HARD,26.0,True,1,True,8.0,31.1,48.4,31.0,False,3.1,71.468,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,55.0,3.0,HARD,27.0,True,1,True,8.0,31.0,48.4,31.0,False,2.2,71.43,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,56.0,3.0,HARD,28.0,True,1,True,9.0,30.9,48.5,31.0,False,2.5,72.16,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,57.0,3.0,HARD,29.0,True,1,True,10.0,30.9,48.2,30.0,False,2.9,72.158,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,58.0,3.0,HARD,30.0,True,1,True,11.0,30.9,47.5,31.0,False,1.7,71.845,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,59.0,3.0,HARD,31.0,True,1,True,11.0,30.7,48.2,31.0,False,1.5,71.899,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,60.0,3.0,HARD,32.0,True,1,True,11.0,30.7,48.6,31.0,False,2.3,72.266,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,61.0,3.0,HARD,33.0,True,1,True,11.0,31.0,48.6,30.0,False,2.1,71.264,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,62.0,3.0,HARD,34.0,True,1,True,11.0,31.1,48.3,30.0,False,1.9,71.258,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,63.0,3.0,HARD,35.0,True,1,True,11.0,31.2,48.2,30.0,False,2.8,71.407,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,64.0,3.0,HARD,36.0,True,1,True,11.0,31.3,48.0,30.0,False,2.2,71.056,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,65.0,3.0,HARD,37.0,True,1,True,11.0,31.3,47.5,30.0,False,2.4,71.297,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,66.0,3.0,HARD,38.0,True,1,True,12.0,30.8,47.3,32.0,False,2.8,73.979,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,67.0,3.0,HARD,39.0,True,1,True,12.0,30.7,45.9,31.0,False,1.5,71.715,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,68.0,3.0,HARD,40.0,True,1,True,12.0,30.7,45.9,32.0,False,0.9,71.381,False,70,2025,11,Austrian Grand Prix,2025_11
+HAD,Racing Bulls,69.0,3.0,HARD,41.0,True,1,True,12.0,30.6,46.3,32.0,False,1.3,71.119,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,1.0,1.0,SOFT,4.0,False,124,False,6.0,30.2,47.8,33.0,False,0.9,100.322,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,2.0,1.0,SOFT,5.0,False,4,False,6.0,30.4,49.7,32.0,False,1.0,110.256,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,3.0,1.0,SOFT,6.0,False,41,False,6.0,30.6,49.2,32.0,False,1.5,108.045,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,4.0,1.0,SOFT,7.0,False,1,True,6.0,30.7,49.6,32.0,False,0.8,71.859,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,5.0,1.0,SOFT,8.0,False,1,True,6.0,30.8,49.8,32.0,False,0.6,71.097,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,6.0,1.0,SOFT,9.0,False,1,True,6.0,30.7,49.7,32.0,False,1.4,70.776,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,7.0,1.0,SOFT,10.0,False,1,True,6.0,30.6,50.3,32.0,False,1.9,70.854,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,8.0,1.0,SOFT,11.0,False,1,True,6.0,30.6,50.4,32.0,False,2.1,71.025,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,9.0,1.0,SOFT,12.0,False,1,True,7.0,30.6,50.3,32.0,False,2.2,72.131,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,10.0,1.0,SOFT,13.0,False,1,True,7.0,30.8,49.9,31.0,False,3.7,71.575,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,11.0,1.0,SOFT,14.0,False,1,True,7.0,30.6,49.2,31.0,False,2.4,71.522,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,12.0,1.0,SOFT,15.0,False,1,False,11.0,30.6,49.1,32.0,False,2.1,75.976,True,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,13.0,2.0,HARD,1.0,True,1,False,16.0,30.5,49.2,31.0,False,2.1,89.354,True,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,14.0,2.0,HARD,2.0,True,1,True,15.0,30.4,49.5,31.0,False,3.1,70.994,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,15.0,2.0,HARD,3.0,True,1,True,13.0,30.4,49.5,32.0,False,2.1,70.3,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,16.0,2.0,HARD,4.0,True,1,True,13.0,30.5,49.5,31.0,False,2.6,71.071,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,17.0,2.0,HARD,5.0,True,1,True,13.0,30.5,49.6,31.0,False,1.9,71.036,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,18.0,2.0,HARD,6.0,True,1,True,13.0,30.6,49.7,30.0,False,1.9,71.249,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,19.0,2.0,HARD,7.0,True,1,True,12.0,30.6,49.4,32.0,False,2.2,71.32,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,20.0,2.0,HARD,8.0,True,1,True,11.0,30.6,49.0,31.0,False,1.8,71.208,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,21.0,2.0,HARD,9.0,True,1,True,11.0,30.5,49.0,31.0,False,1.0,71.32,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,22.0,2.0,HARD,10.0,True,1,True,10.0,30.6,49.3,31.0,False,1.6,71.343,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,23.0,2.0,HARD,11.0,True,1,True,10.0,30.7,49.3,31.0,False,1.9,71.065,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,24.0,2.0,HARD,12.0,True,1,True,10.0,30.6,49.6,31.0,False,1.9,71.337,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,25.0,2.0,HARD,13.0,True,1,True,10.0,30.6,49.6,30.0,False,2.4,71.918,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,26.0,2.0,HARD,14.0,True,1,True,9.0,30.5,49.1,31.0,False,1.3,71.328,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,27.0,2.0,HARD,15.0,True,1,True,11.0,30.5,49.1,31.0,False,1.9,73.418,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,28.0,2.0,HARD,16.0,True,1,True,11.0,30.6,48.8,31.0,False,2.4,72.238,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,29.0,2.0,HARD,17.0,True,1,True,10.0,30.6,49.4,31.0,False,3.2,71.575,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,30.0,2.0,HARD,18.0,True,12,True,10.0,30.6,48.8,31.0,False,2.5,71.672,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,31.0,2.0,HARD,19.0,True,1,True,10.0,30.5,48.8,31.0,False,2.0,71.38,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,32.0,2.0,HARD,20.0,True,1,True,10.0,30.5,48.7,31.0,False,2.8,71.787,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,33.0,2.0,HARD,21.0,True,1,True,10.0,30.6,48.7,32.0,False,2.2,72.553,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,34.0,2.0,HARD,22.0,True,1,True,9.0,30.5,48.5,31.0,False,2.0,71.705,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,35.0,2.0,HARD,23.0,True,1,True,10.0,30.4,48.5,32.0,False,1.6,72.905,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,36.0,2.0,HARD,24.0,True,1,True,10.0,30.5,48.4,32.0,False,1.7,71.629,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,37.0,2.0,HARD,25.0,True,1,True,10.0,30.5,48.4,31.0,False,1.2,71.574,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,38.0,2.0,HARD,26.0,True,1,False,12.0,30.4,48.1,31.0,False,0.0,75.313,True,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,39.0,3.0,MEDIUM,1.0,True,1,False,15.0,30.5,48.7,31.0,False,0.8,88.598,True,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,40.0,3.0,MEDIUM,2.0,True,1,True,14.0,30.8,49.3,31.0,False,0.7,70.757,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,41.0,3.0,MEDIUM,3.0,True,1,True,14.0,30.9,48.6,30.0,False,3.3,70.241,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,42.0,3.0,MEDIUM,4.0,True,1,True,14.0,30.9,48.4,31.0,False,2.7,70.463,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,43.0,3.0,MEDIUM,5.0,True,1,True,14.0,30.8,48.7,32.0,False,1.4,70.216,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,44.0,3.0,MEDIUM,6.0,True,1,True,14.0,31.0,49.3,31.0,False,1.2,70.405,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,45.0,3.0,MEDIUM,7.0,True,1,True,14.0,31.1,49.1,31.0,False,2.1,70.179,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,46.0,3.0,MEDIUM,8.0,True,1,True,14.0,31.2,49.1,30.0,False,2.8,70.151,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,47.0,3.0,MEDIUM,9.0,True,1,True,14.0,31.2,48.9,30.0,False,2.5,70.21,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,48.0,3.0,MEDIUM,10.0,True,1,True,14.0,31.3,48.0,31.0,False,1.8,70.476,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,49.0,3.0,MEDIUM,11.0,True,1,True,14.0,31.1,48.9,31.0,False,1.4,70.554,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,50.0,3.0,MEDIUM,12.0,True,1,True,14.0,31.1,48.9,31.0,False,3.2,70.723,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,51.0,3.0,MEDIUM,13.0,True,1,True,14.0,31.1,48.7,31.0,False,2.0,71.133,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,52.0,3.0,MEDIUM,14.0,True,1,True,14.0,31.1,48.7,31.0,False,2.8,70.902,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,53.0,3.0,MEDIUM,15.0,True,1,True,13.0,31.1,48.7,31.0,False,2.5,70.383,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,54.0,3.0,MEDIUM,16.0,True,1,True,13.0,31.0,48.4,31.0,False,2.2,71.812,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,55.0,3.0,MEDIUM,17.0,True,1,True,13.0,31.0,48.6,31.0,False,1.9,71.228,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,56.0,3.0,MEDIUM,18.0,True,1,True,13.0,30.9,48.5,31.0,False,2.5,71.532,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,57.0,3.0,MEDIUM,19.0,True,1,True,13.0,30.9,48.2,30.0,False,2.9,70.284,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,58.0,3.0,MEDIUM,20.0,True,1,True,13.0,30.9,47.5,31.0,False,1.7,70.444,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,59.0,3.0,MEDIUM,21.0,True,1,True,13.0,30.7,48.2,31.0,False,1.5,70.222,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,60.0,3.0,MEDIUM,22.0,True,1,True,13.0,30.9,48.6,30.0,False,2.0,70.981,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,61.0,3.0,MEDIUM,23.0,True,1,True,13.0,31.0,48.6,30.0,False,2.1,70.903,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,62.0,3.0,MEDIUM,24.0,True,1,True,13.0,31.1,48.3,30.0,False,1.9,71.168,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,63.0,3.0,MEDIUM,25.0,True,1,True,13.0,31.2,48.2,30.0,False,2.8,71.62,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,64.0,3.0,MEDIUM,26.0,True,1,True,13.0,31.3,48.0,30.0,False,2.2,70.72,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,65.0,3.0,MEDIUM,27.0,True,1,True,13.0,31.0,47.5,32.0,False,1.6,70.888,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,66.0,3.0,MEDIUM,28.0,True,1,True,13.0,30.8,47.3,32.0,False,2.8,71.146,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,67.0,3.0,MEDIUM,29.0,True,1,True,13.0,30.7,45.9,31.0,False,1.5,72.536,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,68.0,3.0,MEDIUM,30.0,True,1,True,13.0,30.7,45.9,32.0,False,0.9,70.816,False,70,2025,11,Austrian Grand Prix,2025_11
+GAS,Alpine,69.0,3.0,MEDIUM,31.0,True,1,True,13.0,30.6,46.3,32.0,False,1.3,71.027,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,1.0,1.0,MEDIUM,2.0,False,124,False,13.0,30.2,47.8,33.0,False,0.9,110.757,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,2.0,1.0,MEDIUM,3.0,False,4,False,13.0,30.4,49.7,32.0,False,1.0,107.622,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,3.0,1.0,MEDIUM,4.0,False,41,False,13.0,30.6,49.2,32.0,False,1.5,102.903,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,4.0,1.0,MEDIUM,5.0,False,1,True,13.0,30.7,49.8,32.0,False,1.4,72.717,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,5.0,1.0,MEDIUM,6.0,False,1,True,13.0,30.8,49.8,32.0,False,0.6,71.788,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,6.0,1.0,MEDIUM,7.0,False,1,True,13.0,30.7,49.7,32.0,False,1.4,71.612,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,7.0,1.0,MEDIUM,8.0,False,1,True,13.0,30.6,50.3,32.0,False,1.9,71.069,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,8.0,1.0,MEDIUM,9.0,False,1,True,13.0,30.6,50.4,32.0,False,2.1,70.931,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,9.0,1.0,MEDIUM,10.0,False,1,True,13.0,30.6,50.3,32.0,False,2.2,71.167,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,10.0,1.0,MEDIUM,11.0,False,1,True,13.0,30.8,49.9,31.0,False,3.7,71.257,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,11.0,1.0,MEDIUM,12.0,False,1,True,12.0,30.6,49.2,31.0,False,2.4,71.713,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,12.0,1.0,MEDIUM,13.0,False,1,True,13.0,30.6,49.1,32.0,False,2.1,72.704,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,13.0,1.0,MEDIUM,14.0,False,1,True,11.0,30.5,49.2,31.0,False,2.1,73.258,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,14.0,1.0,MEDIUM,15.0,False,1,True,10.0,30.4,49.9,32.0,False,2.7,71.964,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,15.0,1.0,MEDIUM,16.0,False,1,True,11.0,30.4,49.5,32.0,False,2.1,73.402,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,16.0,1.0,MEDIUM,17.0,False,1,True,11.0,30.5,49.5,31.0,False,2.6,72.224,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,17.0,1.0,MEDIUM,18.0,False,1,True,11.0,30.5,49.6,31.0,False,1.9,71.855,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,18.0,1.0,MEDIUM,19.0,False,1,True,10.0,30.6,49.7,30.0,False,1.9,71.888,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,19.0,1.0,MEDIUM,20.0,False,1,True,9.0,30.6,49.4,32.0,False,2.2,72.378,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,20.0,1.0,MEDIUM,21.0,False,1,True,8.0,30.6,49.0,31.0,False,1.8,72.658,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,21.0,1.0,MEDIUM,22.0,False,1,True,8.0,30.5,49.0,31.0,False,1.0,72.212,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,22.0,1.0,MEDIUM,23.0,False,1,True,7.0,30.6,49.3,31.0,False,1.6,72.175,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,23.0,1.0,MEDIUM,24.0,False,1,True,7.0,30.7,49.3,31.0,False,1.9,72.043,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,24.0,1.0,MEDIUM,25.0,False,1,True,7.0,30.6,49.6,31.0,False,1.9,72.036,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,25.0,1.0,MEDIUM,26.0,False,1,True,9.0,30.6,49.6,30.0,False,2.4,74.015,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,26.0,1.0,MEDIUM,27.0,False,1,False,15.0,30.5,49.1,31.0,False,1.3,78.405,True,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,27.0,2.0,HARD,2.0,False,1,False,16.0,30.5,49.1,31.0,False,1.9,89.232,True,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,28.0,2.0,HARD,3.0,False,1,True,16.0,30.6,49.7,31.0,False,1.5,70.566,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,29.0,2.0,HARD,4.0,False,1,True,16.0,30.6,49.4,31.0,False,3.2,70.51,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,30.0,2.0,HARD,5.0,False,12,True,16.0,30.6,48.8,31.0,False,2.5,70.816,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,31.0,2.0,HARD,6.0,False,1,True,15.0,30.5,48.8,31.0,False,2.0,70.779,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,32.0,2.0,HARD,7.0,False,1,True,15.0,30.5,48.7,31.0,False,2.8,71.083,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,33.0,2.0,HARD,8.0,False,1,True,15.0,30.6,48.8,32.0,False,2.2,70.665,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,34.0,2.0,HARD,9.0,False,1,True,15.0,30.5,48.5,31.0,False,2.0,70.641,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,35.0,2.0,HARD,10.0,False,1,True,15.0,30.4,48.5,32.0,False,1.6,70.94,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,36.0,2.0,HARD,11.0,False,1,True,15.0,30.5,48.4,32.0,False,1.7,70.873,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,37.0,2.0,HARD,12.0,False,1,True,15.0,30.5,48.4,31.0,False,1.2,70.773,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,38.0,2.0,HARD,13.0,False,1,True,15.0,30.4,48.3,32.0,False,1.1,70.916,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,39.0,2.0,HARD,14.0,False,1,True,13.0,30.5,48.7,31.0,False,0.8,70.713,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,40.0,2.0,HARD,15.0,False,1,True,12.0,30.8,49.3,31.0,False,0.7,71.073,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,41.0,2.0,HARD,16.0,False,1,True,12.0,30.9,48.6,30.0,False,3.3,72.291,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,42.0,2.0,HARD,17.0,False,1,True,12.0,30.9,48.4,31.0,False,2.7,70.744,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,43.0,2.0,HARD,18.0,False,1,True,12.0,30.8,48.4,32.0,False,1.1,72.04,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,44.0,2.0,HARD,19.0,False,1,True,12.0,31.0,49.3,31.0,False,1.2,71.08,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,45.0,2.0,HARD,20.0,False,1,True,12.0,31.1,49.1,31.0,False,2.1,71.177,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,46.0,2.0,HARD,21.0,False,1,True,12.0,31.2,49.1,30.0,False,2.8,70.812,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,47.0,2.0,HARD,22.0,False,1,True,12.0,31.2,48.9,30.0,False,2.5,71.063,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,48.0,2.0,HARD,23.0,False,1,True,13.0,31.3,48.0,31.0,False,1.8,72.237,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,49.0,2.0,HARD,24.0,False,1,True,13.0,31.1,48.9,31.0,False,1.4,71.192,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,50.0,2.0,HARD,25.0,False,1,True,13.0,31.1,48.9,31.0,False,3.2,71.003,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,51.0,2.0,HARD,26.0,False,1,True,13.0,31.1,48.7,31.0,False,2.0,71.336,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,52.0,2.0,HARD,27.0,False,1,True,13.0,31.1,48.7,31.0,False,2.8,71.151,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,53.0,2.0,HARD,28.0,False,1,False,14.0,31.1,48.7,31.0,False,2.5,75.636,True,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,54.0,3.0,SOFT,1.0,False,1,False,16.0,31.0,48.4,31.0,False,2.2,87.197,True,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,55.0,3.0,SOFT,2.0,False,1,True,16.0,31.0,48.6,31.0,False,1.9,69.214,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,56.0,3.0,SOFT,3.0,False,1,True,16.0,30.9,48.5,31.0,False,2.5,69.463,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,57.0,3.0,SOFT,4.0,False,1,True,16.0,30.9,48.2,30.0,False,2.9,69.452,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,58.0,3.0,SOFT,5.0,False,1,True,16.0,30.7,48.2,31.0,False,1.5,71.393,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,59.0,3.0,SOFT,6.0,False,1,True,16.0,30.7,48.6,31.0,False,2.3,69.582,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,60.0,3.0,SOFT,7.0,False,1,True,16.0,30.9,48.6,30.0,False,2.0,69.624,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,61.0,3.0,SOFT,8.0,False,1,True,15.0,31.0,48.6,30.0,False,2.1,69.808,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,62.0,3.0,SOFT,9.0,False,1,True,15.0,31.1,48.3,30.0,False,1.9,69.664,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,63.0,3.0,SOFT,10.0,False,1,True,15.0,31.2,48.2,30.0,False,2.8,69.276,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,64.0,3.0,SOFT,11.0,False,1,True,15.0,31.3,47.5,30.0,False,2.4,69.554,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,65.0,3.0,SOFT,12.0,False,1,True,15.0,31.0,47.5,32.0,False,1.6,69.955,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,66.0,3.0,SOFT,13.0,False,1,True,14.0,30.8,47.3,32.0,False,2.8,70.185,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,67.0,3.0,SOFT,14.0,False,1,True,14.0,30.7,45.9,31.0,False,1.5,69.787,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,68.0,3.0,SOFT,15.0,False,1,True,14.0,30.7,45.9,32.0,False,0.9,69.445,False,70,2025,11,Austrian Grand Prix,2025_11
+STR,Aston Martin,69.0,3.0,SOFT,16.0,False,1,True,14.0,30.6,46.3,32.0,False,1.3,70.461,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,1.0,1.0,SOFT,1.0,True,124,False,11.0,30.2,47.8,33.0,False,0.9,107.783,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,2.0,1.0,SOFT,2.0,True,4,False,11.0,30.4,49.7,32.0,False,1.0,107.447,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,3.0,1.0,SOFT,3.0,True,41,False,11.0,30.6,49.2,32.0,False,1.5,105.238,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,4.0,1.0,SOFT,4.0,True,1,True,11.0,30.7,49.8,32.0,False,1.4,72.585,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,5.0,1.0,SOFT,5.0,True,1,True,12.0,30.8,49.8,32.0,False,0.6,72.185,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,6.0,1.0,SOFT,6.0,True,1,True,12.0,30.7,49.7,32.0,False,1.4,71.533,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,7.0,1.0,SOFT,7.0,True,1,True,12.0,30.6,50.3,32.0,False,1.9,70.842,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,8.0,1.0,SOFT,8.0,True,1,True,12.0,30.6,50.4,32.0,False,2.1,71.225,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,9.0,1.0,SOFT,9.0,True,1,True,12.0,30.6,50.3,32.0,False,2.2,71.068,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,10.0,1.0,SOFT,10.0,True,1,True,12.0,30.8,49.9,31.0,False,3.7,71.286,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,11.0,1.0,SOFT,11.0,True,1,True,11.0,30.6,49.2,31.0,False,2.4,72.022,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,12.0,1.0,SOFT,12.0,True,1,True,10.0,30.6,49.1,32.0,False,2.1,72.053,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,13.0,1.0,SOFT,13.0,True,1,False,14.0,30.5,49.2,31.0,False,2.1,76.45,True,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,14.0,2.0,MEDIUM,1.0,True,1,False,17.0,30.4,49.5,31.0,False,3.1,89.807,True,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,15.0,2.0,MEDIUM,2.0,True,1,True,17.0,30.4,49.5,32.0,False,2.1,70.769,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,16.0,2.0,MEDIUM,3.0,True,1,True,16.0,30.5,49.5,31.0,False,2.6,70.847,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,17.0,2.0,MEDIUM,4.0,True,1,True,16.0,30.5,49.6,31.0,False,1.9,70.707,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,18.0,2.0,MEDIUM,5.0,True,1,True,16.0,30.6,49.4,31.0,False,2.5,70.763,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,19.0,2.0,MEDIUM,6.0,True,1,True,15.0,30.6,49.4,32.0,False,2.2,71.013,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,20.0,2.0,MEDIUM,7.0,True,1,True,14.0,30.6,49.0,31.0,False,1.8,71.073,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,21.0,2.0,MEDIUM,8.0,True,1,True,14.0,30.5,49.0,31.0,False,1.0,71.067,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,22.0,2.0,MEDIUM,9.0,True,1,True,14.0,30.6,49.3,31.0,False,1.6,71.386,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,23.0,2.0,MEDIUM,10.0,True,1,True,14.0,30.7,49.3,31.0,False,1.9,71.197,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,24.0,2.0,MEDIUM,11.0,True,1,True,14.0,30.6,49.6,31.0,False,1.9,71.493,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,25.0,2.0,MEDIUM,12.0,True,1,True,14.0,30.6,49.6,30.0,False,2.4,71.391,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,26.0,2.0,MEDIUM,13.0,True,1,True,13.0,30.5,49.1,31.0,False,1.3,71.666,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,27.0,2.0,MEDIUM,14.0,True,1,True,13.0,30.5,49.1,31.0,False,1.9,71.776,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,28.0,2.0,MEDIUM,15.0,True,1,True,14.0,30.6,48.8,31.0,False,2.4,72.726,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,29.0,2.0,MEDIUM,16.0,True,1,True,13.0,30.6,49.4,31.0,False,3.2,71.524,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,30.0,2.0,MEDIUM,17.0,True,12,True,13.0,30.6,48.8,31.0,False,2.5,76.829,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,31.0,2.0,MEDIUM,18.0,True,1,True,13.0,30.5,48.8,31.0,False,2.0,72.507,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,32.0,2.0,MEDIUM,19.0,True,1,True,13.0,30.5,48.7,31.0,False,2.8,71.789,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,33.0,2.0,MEDIUM,20.0,True,1,True,13.0,30.6,48.8,32.0,False,2.2,71.747,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,34.0,2.0,MEDIUM,21.0,True,1,True,13.0,30.5,48.5,31.0,False,2.0,71.846,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,35.0,2.0,MEDIUM,22.0,True,1,True,13.0,30.4,48.5,32.0,False,1.6,71.599,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,36.0,2.0,MEDIUM,23.0,True,1,True,14.0,30.5,48.4,32.0,False,1.7,72.86,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,37.0,2.0,MEDIUM,24.0,True,1,True,14.0,30.5,48.4,31.0,False,1.2,71.858,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,38.0,2.0,MEDIUM,25.0,True,1,True,14.0,30.4,48.3,32.0,False,1.1,72.111,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,39.0,2.0,MEDIUM,26.0,True,1,False,14.0,30.5,48.7,31.0,False,0.8,75.693,True,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,40.0,3.0,HARD,1.0,True,1,False,16.0,30.8,49.3,31.0,False,0.7,87.406,True,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,41.0,3.0,HARD,2.0,True,1,True,16.0,30.9,48.6,30.0,False,3.3,70.144,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,42.0,3.0,HARD,3.0,True,1,True,16.0,30.8,48.4,32.0,False,1.1,69.966,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,43.0,3.0,HARD,4.0,True,1,True,16.0,30.8,48.7,32.0,False,1.4,69.748,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,44.0,3.0,HARD,5.0,True,1,True,16.0,31.0,49.3,31.0,False,1.2,69.621,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,45.0,3.0,HARD,6.0,True,1,True,16.0,31.1,49.1,31.0,False,2.1,69.843,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,46.0,3.0,HARD,7.0,True,1,True,16.0,31.2,49.1,30.0,False,2.8,69.783,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,47.0,3.0,HARD,8.0,True,1,True,16.0,31.2,48.9,30.0,False,2.5,70.539,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,48.0,3.0,HARD,9.0,True,1,True,16.0,31.3,48.2,32.0,False,0.8,70.393,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,49.0,3.0,HARD,10.0,True,1,True,16.0,31.1,48.9,31.0,False,1.4,70.459,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,50.0,3.0,HARD,11.0,True,1,True,16.0,31.1,48.9,31.0,False,3.2,70.611,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,51.0,3.0,HARD,12.0,True,1,True,16.0,31.1,48.7,31.0,False,2.0,70.518,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,52.0,3.0,HARD,13.0,True,1,True,16.0,31.1,48.7,31.0,False,2.8,70.864,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,53.0,3.0,HARD,14.0,True,1,True,16.0,31.1,48.7,31.0,False,2.5,72.816,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,54.0,3.0,HARD,15.0,True,1,True,14.0,31.0,48.4,31.0,False,2.2,70.849,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,55.0,3.0,HARD,16.0,True,1,True,14.0,31.0,48.6,31.0,False,1.9,70.68,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,56.0,3.0,HARD,17.0,True,1,True,14.0,30.9,48.5,31.0,False,2.5,70.569,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,57.0,3.0,HARD,18.0,True,1,True,14.0,30.9,48.2,30.0,False,2.9,70.216,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,58.0,3.0,HARD,19.0,True,1,True,14.0,30.9,47.5,31.0,False,1.7,70.328,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,59.0,3.0,HARD,20.0,True,1,True,14.0,30.7,48.6,31.0,False,2.3,71.852,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,60.0,3.0,HARD,21.0,True,1,True,14.0,30.9,48.6,30.0,False,2.0,70.466,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,61.0,3.0,HARD,22.0,True,1,True,14.0,31.0,48.6,30.0,False,2.1,70.42,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,62.0,3.0,HARD,23.0,True,1,True,14.0,31.1,48.3,30.0,False,1.9,70.493,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,63.0,3.0,HARD,24.0,True,1,True,14.0,31.2,48.2,30.0,False,2.8,70.426,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,64.0,3.0,HARD,25.0,True,1,True,14.0,31.3,48.0,30.0,False,2.2,72.314,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,65.0,3.0,HARD,26.0,True,1,True,14.0,31.0,47.5,32.0,False,1.6,70.853,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,66.0,3.0,HARD,27.0,True,1,True,15.0,30.8,47.3,32.0,False,2.8,71.726,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,67.0,3.0,HARD,28.0,True,1,True,15.0,30.7,45.9,31.0,False,1.5,70.928,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,68.0,3.0,HARD,29.0,True,1,True,15.0,30.7,45.9,32.0,False,0.9,70.677,False,70,2025,11,Austrian Grand Prix,2025_11
+COL,Alpine,69.0,3.0,HARD,30.0,True,1,True,15.0,30.6,46.3,32.0,False,1.3,70.116,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,124,False,15.0,30.2,47.8,33.0,False,0.9,114.268,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,4,False,16.0,30.4,49.7,32.0,False,1.0,106.849,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,41,False,15.0,30.6,49.2,32.0,False,1.5,101.193,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,30.7,49.8,32.0,False,1.4,72.544,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,30.8,49.8,32.0,False,0.6,71.975,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,30.7,49.7,32.0,False,1.4,71.649,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,30.6,50.3,32.0,False,1.9,71.332,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,30.6,50.4,32.0,False,2.1,70.949,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,30.7,50.3,31.0,False,3.1,71.2,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,30.8,49.9,31.0,False,3.7,71.437,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,14.0,30.6,49.2,31.0,False,2.4,71.565,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,14.0,30.6,49.1,32.0,False,2.1,71.898,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,30.5,49.2,31.0,False,2.1,73.047,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,11.0,30.4,49.9,32.0,False,2.7,72.273,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,30.4,49.5,32.0,False,2.1,71.943,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,30.5,49.5,31.0,False,2.6,72.21,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,30.5,49.6,31.0,False,1.9,71.848,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,False,12.0,30.6,49.7,30.0,False,1.9,75.031,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,19.0,2.0,HARD,1.0,True,1,False,16.0,30.6,49.4,32.0,False,2.2,87.671,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,20.0,2.0,HARD,2.0,True,1,True,16.0,30.6,49.0,31.0,False,1.8,71.869,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,21.0,2.0,HARD,3.0,True,1,True,16.0,30.5,49.0,31.0,False,1.0,70.539,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,22.0,2.0,HARD,4.0,True,1,True,16.0,30.6,49.3,31.0,False,1.6,70.923,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,23.0,2.0,HARD,5.0,True,1,True,16.0,30.6,49.3,31.0,False,1.8,70.613,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,24.0,2.0,HARD,6.0,True,1,True,16.0,30.6,49.6,31.0,False,1.9,70.781,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,25.0,2.0,HARD,7.0,True,1,True,16.0,30.6,49.6,30.0,False,2.4,70.85,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,26.0,2.0,HARD,8.0,True,1,True,16.0,30.5,49.1,31.0,False,1.3,70.676,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,27.0,2.0,HARD,9.0,True,1,True,15.0,30.5,49.1,31.0,False,1.9,71.254,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,28.0,2.0,HARD,10.0,True,1,True,15.0,30.6,48.8,31.0,False,2.4,71.658,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,29.0,2.0,HARD,11.0,True,1,True,14.0,30.6,49.4,31.0,False,3.2,71.39,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,30.0,2.0,HARD,12.0,True,12,False,14.0,30.6,48.8,31.0,False,2.5,79.039,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,31.0,3.0,MEDIUM,1.0,True,1,False,16.0,30.5,48.8,31.0,False,2.0,97.508,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,32.0,3.0,MEDIUM,2.0,True,1,True,16.0,30.6,48.7,32.0,False,2.2,70.469,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,33.0,3.0,MEDIUM,3.0,True,1,True,16.0,30.6,48.8,32.0,False,2.2,70.209,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,34.0,3.0,MEDIUM,4.0,True,1,True,16.0,30.5,48.5,31.0,False,2.0,70.028,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,35.0,3.0,MEDIUM,5.0,True,1,True,16.0,30.4,48.5,32.0,False,1.6,70.213,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,36.0,3.0,MEDIUM,6.0,True,1,True,16.0,30.5,48.4,32.0,False,1.7,70.189,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,37.0,3.0,MEDIUM,7.0,True,1,True,16.0,30.4,48.1,31.0,False,0.0,70.216,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,38.0,3.0,MEDIUM,8.0,True,1,True,16.0,30.4,48.3,32.0,False,1.1,70.015,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,39.0,3.0,MEDIUM,9.0,True,1,True,16.0,30.5,48.7,31.0,False,0.8,70.256,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,40.0,3.0,MEDIUM,10.0,True,1,True,15.0,30.8,49.3,31.0,False,0.7,70.486,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,41.0,3.0,MEDIUM,11.0,True,1,True,15.0,30.9,48.6,30.0,False,3.3,70.311,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,42.0,3.0,MEDIUM,12.0,True,1,True,15.0,30.9,48.4,31.0,False,2.7,70.416,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,43.0,3.0,MEDIUM,13.0,True,1,True,15.0,30.8,48.7,32.0,False,1.4,70.548,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,44.0,3.0,MEDIUM,14.0,True,1,True,15.0,31.0,49.3,31.0,False,1.2,70.569,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,45.0,3.0,MEDIUM,15.0,True,1,True,15.0,31.1,49.1,31.0,False,2.1,70.35,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,46.0,3.0,MEDIUM,16.0,True,1,True,15.0,31.2,49.1,30.0,False,2.8,70.511,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,47.0,3.0,MEDIUM,17.0,True,1,True,15.0,31.2,48.9,30.0,False,2.5,72.399,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,48.0,3.0,MEDIUM,18.0,True,1,True,15.0,31.3,48.2,32.0,False,0.8,70.711,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,49.0,3.0,MEDIUM,19.0,True,1,True,15.0,31.1,48.9,31.0,False,1.4,70.657,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,50.0,3.0,MEDIUM,20.0,True,1,True,15.0,31.1,48.9,31.0,False,3.2,70.671,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,51.0,3.0,MEDIUM,21.0,True,1,True,15.0,31.1,48.7,31.0,False,2.0,70.769,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,52.0,3.0,MEDIUM,22.0,True,1,True,15.0,31.1,48.7,31.0,False,2.8,71.183,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,53.0,3.0,MEDIUM,23.0,True,1,True,15.0,31.1,48.7,31.0,False,2.5,72.887,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,54.0,3.0,MEDIUM,24.0,True,1,True,15.0,31.0,48.4,31.0,False,2.2,72.299,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,55.0,3.0,MEDIUM,25.0,True,1,True,15.0,31.0,48.6,31.0,False,1.9,70.912,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,56.0,3.0,MEDIUM,26.0,True,1,True,15.0,30.9,48.5,31.0,False,2.5,71.023,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,57.0,3.0,MEDIUM,27.0,True,1,True,15.0,30.9,48.2,30.0,False,2.9,71.979,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,58.0,3.0,MEDIUM,28.0,True,1,True,15.0,30.9,47.5,31.0,False,1.7,70.415,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,59.0,3.0,MEDIUM,29.0,True,1,True,15.0,30.7,48.6,31.0,False,2.3,70.84,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,60.0,3.0,MEDIUM,30.0,True,1,False,15.0,30.9,48.6,30.0,False,2.0,74.033,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,61.0,4.0,SOFT,1.0,True,1,False,16.0,31.0,48.6,30.0,False,2.1,100.638,True,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,62.0,4.0,SOFT,2.0,True,1,True,16.0,31.2,48.2,30.0,False,2.8,69.802,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,63.0,4.0,SOFT,3.0,True,1,True,16.0,31.3,48.0,30.0,False,2.2,70.252,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,64.0,4.0,SOFT,4.0,True,1,True,16.0,31.3,47.5,30.0,False,2.4,70.561,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,65.0,4.0,SOFT,5.0,True,1,True,16.0,31.0,47.5,32.0,False,1.6,72.126,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,66.0,4.0,SOFT,6.0,True,1,True,16.0,30.8,47.3,32.0,False,2.8,70.776,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,67.0,4.0,SOFT,7.0,True,1,True,16.0,30.7,45.9,32.0,False,0.9,73.165,False,70,2025,11,Austrian Grand Prix,2025_11
+TSU,Red Bull Racing,68.0,4.0,SOFT,8.0,True,1,True,16.0,30.6,46.3,32.0,False,1.3,69.806,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,124,False,7.0,30.2,47.8,33.0,False,0.9,102.177,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,4,False,7.0,30.4,49.7,32.0,False,1.0,109.602,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,41,False,7.0,30.6,49.2,32.0,False,1.5,107.182,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,30.7,49.6,32.0,False,0.8,71.975,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,30.8,49.8,32.0,False,0.6,71.163,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,30.7,49.7,32.0,False,1.4,70.881,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,30.6,50.3,32.0,False,1.9,71.009,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,30.6,50.4,32.0,False,2.1,70.85,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,30.6,50.3,32.0,False,2.2,70.641,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,30.8,49.9,31.0,False,3.7,71.401,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,30.6,49.2,31.0,False,2.4,71.541,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,30.6,49.1,32.0,False,2.1,71.316,False,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,False,7.0,30.5,49.2,31.0,False,2.1,74.03,True,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,14.0,2.0,MEDIUM,1.0,True,1,False,13.0,30.4,49.9,32.0,False,2.7,87.615,True,70,2025,11,Austrian Grand Prix,2025_11
+ALB,Williams,15.0,2.0,MEDIUM,2.0,True,1,False,16.0,30.4,49.5,32.0,False,2.1,78.845,True,70,2025,11,Austrian Grand Prix,2025_11
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,124,False,,30.2,47.8,33.0,False,0.9,,False,70,2025,11,Austrian Grand Prix,2025_11
+ANT,Mercedes,1.0,1.0,MEDIUM,1.0,True,124,False,,30.2,47.8,33.0,False,0.9,,False,70,2025,11,Austrian Grand Prix,2025_11

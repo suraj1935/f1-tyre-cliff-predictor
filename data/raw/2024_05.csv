@@ -1,0 +1,1033 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,18.8,30.3,66.0,False,1.4,101.528,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,18.7,31.3,66.0,False,1.1,100.103,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,18.7,31.0,65.0,False,1.3,100.494,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,18.8,31.0,65.0,False,1.5,100.573,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,19.0,30.5,65.0,False,3.2,100.919,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,19.0,30.7,66.0,False,1.6,101.147,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,19.0,31.0,66.0,False,2.1,101.118,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,19.0,30.7,65.0,False,1.8,101.11,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,19.0,30.9,65.0,False,0.8,101.155,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,19.0,30.7,65.0,False,1.9,101.424,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,19.0,30.3,65.0,False,2.9,101.401,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,18.9,30.2,66.0,False,2.5,101.318,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,False,1.0,18.8,30.5,66.0,False,1.0,106.526,True,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,14.0,2.0,HARD,1.0,True,1,False,3.0,18.8,30.5,65.0,False,2.1,119.074,True,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,15.0,2.0,HARD,2.0,True,1,True,3.0,18.9,30.3,65.0,False,1.3,99.591,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,16.0,2.0,HARD,3.0,True,1,True,2.0,18.8,30.1,65.0,False,2.7,99.985,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,17.0,2.0,HARD,4.0,True,1,True,2.0,18.8,29.8,66.0,False,1.7,99.519,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,18.0,2.0,HARD,5.0,True,1,True,2.0,18.6,29.9,67.0,False,3.2,100.07,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,19.0,2.0,HARD,6.0,True,1,True,1.0,18.6,29.9,67.0,False,2.5,100.139,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,20.0,2.0,HARD,7.0,True,1,True,1.0,18.5,29.9,67.0,False,2.7,100.081,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,21.0,2.0,HARD,8.0,True,12,True,1.0,18.6,29.9,66.0,False,3.1,100.49,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,22.0,2.0,HARD,9.0,True,26,False,1.0,18.6,29.6,66.0,False,2.6,134.296,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,23.0,2.0,HARD,10.0,True,64,False,1.0,18.6,29.5,66.0,False,2.5,137.938,True,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,24.0,3.0,HARD,1.0,True,4,False,1.0,18.6,29.4,66.0,False,2.7,,True,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,25.0,3.0,HARD,2.0,True,4,False,1.0,18.6,29.4,67.0,False,1.9,145.05,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,26.0,3.0,HARD,3.0,True,41,False,1.0,18.6,29.4,66.0,False,1.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,27.0,3.0,HARD,4.0,True,124,False,1.0,18.7,29.5,66.0,False,2.6,107.123,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,28.0,3.0,HARD,5.0,True,4,False,1.0,18.6,29.2,67.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,29.0,3.0,HARD,6.0,True,4,False,1.0,18.6,29.2,67.0,False,1.1,146.57,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,30.0,3.0,HARD,7.0,True,4,False,1.0,18.5,29.2,67.0,False,2.5,140.118,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,31.0,3.0,HARD,8.0,True,41,False,1.0,18.4,28.9,67.0,False,1.5,148.77,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,32.0,3.0,HARD,9.0,True,1,True,1.0,18.5,28.8,66.0,False,1.8,98.604,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,33.0,3.0,HARD,10.0,True,1,True,1.0,18.3,28.8,67.0,False,1.7,98.406,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,34.0,3.0,HARD,11.0,True,1,True,1.0,18.4,28.9,67.0,False,1.8,98.426,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,35.0,3.0,HARD,12.0,True,1,True,1.0,18.3,28.9,67.0,False,2.0,98.765,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,36.0,3.0,HARD,13.0,True,1,True,1.0,18.3,28.9,67.0,False,2.1,98.825,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,37.0,3.0,HARD,14.0,True,1,True,1.0,18.4,28.7,67.0,False,2.1,98.801,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,38.0,3.0,HARD,15.0,True,1,True,1.0,18.4,28.8,67.0,False,1.8,98.855,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,39.0,3.0,HARD,16.0,True,1,True,1.0,18.4,28.5,67.0,False,1.4,98.742,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,40.0,3.0,HARD,17.0,True,1,True,1.0,18.4,28.5,68.0,False,1.2,98.956,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,41.0,3.0,HARD,18.0,True,1,True,1.0,18.4,28.3,68.0,False,1.3,99.067,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,42.0,3.0,HARD,19.0,True,1,True,1.0,18.4,28.4,67.0,False,1.5,99.227,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,43.0,3.0,HARD,20.0,True,1,True,1.0,18.4,28.2,67.0,False,2.1,99.224,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,44.0,3.0,HARD,21.0,True,1,True,1.0,18.4,28.1,67.0,False,2.5,99.305,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,45.0,3.0,HARD,22.0,True,1,True,1.0,18.4,27.8,67.0,False,2.1,99.216,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,46.0,3.0,HARD,23.0,True,1,True,1.0,18.3,27.7,67.0,False,2.2,99.433,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,47.0,3.0,HARD,24.0,True,1,True,1.0,18.2,27.6,67.0,False,1.7,99.422,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,48.0,3.0,HARD,25.0,True,1,True,1.0,18.2,27.4,67.0,False,2.8,99.325,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,49.0,3.0,HARD,26.0,True,1,True,1.0,18.2,28.0,68.0,False,2.1,99.35,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,50.0,3.0,HARD,27.0,True,1,True,1.0,18.2,28.0,68.0,False,2.0,99.445,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,51.0,3.0,HARD,28.0,True,1,True,1.0,18.2,27.6,67.0,False,3.4,99.276,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,52.0,3.0,HARD,29.0,True,1,True,1.0,18.2,27.7,68.0,False,3.1,99.694,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,53.0,3.0,HARD,30.0,True,1,True,1.0,18.2,27.6,68.0,False,1.1,99.654,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,54.0,3.0,HARD,31.0,True,1,True,1.0,18.2,27.9,68.0,False,0.9,99.773,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,55.0,3.0,HARD,32.0,True,1,True,1.0,18.2,27.4,67.0,False,1.5,99.805,False,56,2024,5,Chinese Grand Prix,2024_05
+VER,Red Bull Racing,56.0,3.0,HARD,33.0,True,1,True,1.0,18.2,27.4,67.0,False,2.2,100.253,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,14.0,18.8,30.3,66.0,False,1.4,109.907,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,14.0,18.7,31.3,66.0,False,1.1,103.179,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,14.0,18.8,30.4,65.0,False,1.0,103.012,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,14.0,18.8,31.0,65.0,False,1.5,102.847,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,14.0,19.0,30.5,65.0,False,3.2,103.552,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,14.0,19.0,30.7,66.0,False,1.6,103.494,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,14.0,19.0,31.0,66.0,False,2.1,103.352,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,19.0,30.7,65.0,False,1.8,103.871,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,19.0,30.7,65.0,False,2.3,103.691,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,19.0,30.6,65.0,False,2.3,103.435,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,False,11.0,19.0,30.3,65.0,False,2.9,108.722,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,12.0,2.0,HARD,1.0,True,1,False,20.0,18.9,30.2,66.0,False,2.5,137.655,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,13.0,2.0,HARD,2.0,True,1,True,20.0,18.8,30.5,66.0,False,1.2,101.071,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,14.0,2.0,HARD,3.0,True,1,True,20.0,18.9,30.3,66.0,False,1.5,101.893,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,15.0,2.0,HARD,4.0,True,1,True,20.0,18.8,30.1,66.0,False,1.0,101.679,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,16.0,2.0,HARD,5.0,True,1,True,20.0,18.8,29.8,66.0,False,1.7,102.107,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,17.0,2.0,HARD,6.0,True,1,True,20.0,18.6,29.8,66.0,False,2.5,101.956,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,18.0,2.0,HARD,7.0,True,1,True,19.0,18.6,29.7,66.0,False,1.6,101.812,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,19.0,2.0,HARD,8.0,True,1,True,19.0,18.5,29.9,67.0,False,2.7,102.136,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,20.0,2.0,HARD,9.0,True,12,True,18.0,18.6,29.9,67.0,False,3.2,102.229,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,21.0,2.0,HARD,10.0,True,26,False,18.0,18.7,29.6,66.0,False,3.5,123.25,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,22.0,2.0,HARD,11.0,True,6,False,18.0,18.6,29.5,66.0,False,3.4,134.094,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,23.0,2.0,HARD,12.0,True,64,False,19.0,18.6,29.4,66.0,False,2.5,138.481,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,24.0,3.0,HARD,1.0,True,4,False,19.0,18.6,29.7,67.0,False,1.0,149.898,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,25.0,3.0,HARD,2.0,True,4,False,19.0,18.6,29.4,66.0,False,2.0,109.465,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,26.0,3.0,HARD,3.0,True,41,False,18.0,18.7,29.4,66.0,False,2.7,132.45,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,27.0,3.0,HARD,4.0,True,124,False,16.0,18.7,29.5,66.0,False,2.6,118.826,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,28.0,3.0,HARD,5.0,True,4,False,16.0,18.6,29.2,67.0,False,2.7,146.862,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,29.0,3.0,HARD,6.0,True,4,False,16.0,18.6,29.2,67.0,False,1.7,146.365,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,30.0,3.0,HARD,7.0,True,4,False,16.0,18.5,29.2,67.0,False,2.5,140.888,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,31.0,3.0,HARD,8.0,True,41,False,16.0,18.4,28.9,67.0,False,1.5,139.27,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,32.0,3.0,HARD,9.0,True,1,True,16.0,18.5,28.8,66.0,False,1.8,101.886,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,33.0,3.0,HARD,10.0,True,1,True,14.0,18.3,28.8,67.0,False,1.7,102.047,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,34.0,3.0,HARD,11.0,True,1,True,14.0,18.4,28.9,67.0,False,1.8,101.522,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,35.0,3.0,HARD,12.0,True,1,True,14.0,18.3,28.9,67.0,False,2.0,101.078,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,36.0,3.0,HARD,13.0,True,1,True,14.0,18.3,28.9,67.0,False,2.1,101.311,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,37.0,3.0,HARD,14.0,True,1,True,13.0,18.4,28.7,67.0,False,2.1,101.071,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,38.0,3.0,HARD,15.0,True,1,False,16.0,18.4,28.5,67.0,False,2.2,106.348,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,39.0,4.0,MEDIUM,1.0,True,1,False,16.0,18.4,28.4,68.0,False,2.7,118.239,True,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,40.0,4.0,MEDIUM,2.0,True,1,True,16.0,18.4,28.3,68.0,False,1.3,99.198,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,41.0,4.0,MEDIUM,3.0,True,1,True,15.0,18.4,28.3,68.0,False,1.9,99.758,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,42.0,4.0,MEDIUM,4.0,True,1,True,15.0,18.4,28.1,67.0,False,1.5,100.024,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,43.0,4.0,MEDIUM,5.0,True,1,True,15.0,18.4,28.1,67.0,False,2.5,100.029,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,44.0,4.0,MEDIUM,6.0,True,1,True,15.0,18.4,27.9,67.0,False,2.4,99.906,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,45.0,4.0,MEDIUM,7.0,True,1,True,15.0,18.3,27.7,67.0,False,3.0,100.065,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,46.0,4.0,MEDIUM,8.0,True,1,True,15.0,18.2,27.6,67.0,False,1.7,100.25,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,47.0,4.0,MEDIUM,9.0,True,1,True,15.0,18.2,27.4,67.0,False,3.2,100.397,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,48.0,4.0,MEDIUM,10.0,True,1,True,14.0,18.2,27.9,68.0,False,2.3,101.551,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,49.0,4.0,MEDIUM,11.0,True,1,True,14.0,18.2,28.0,68.0,False,2.0,100.305,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,50.0,4.0,MEDIUM,12.0,True,1,True,14.0,18.2,27.7,68.0,False,3.3,100.138,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,51.0,4.0,MEDIUM,13.0,True,1,True,14.0,18.2,27.6,68.0,False,3.2,100.497,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,52.0,4.0,MEDIUM,14.0,True,1,True,14.0,18.2,27.6,68.0,False,1.1,101.052,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,53.0,4.0,MEDIUM,15.0,True,1,True,13.0,18.2,27.7,68.0,False,1.4,101.373,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,54.0,4.0,MEDIUM,16.0,True,1,True,13.0,18.2,27.5,68.0,False,1.5,100.727,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,55.0,4.0,MEDIUM,17.0,True,1,True,13.0,18.2,27.4,67.0,False,2.2,100.737,False,56,2024,5,Chinese Grand Prix,2024_05
+GAS,Alpine,56.0,4.0,MEDIUM,18.0,True,1,True,13.0,18.2,27.3,68.0,False,1.1,100.819,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,18.8,30.3,66.0,False,1.4,103.97,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,18.7,31.3,66.0,False,1.1,100.881,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,18.7,31.0,65.0,False,1.3,100.973,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,18.8,31.0,65.0,False,1.5,101.604,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,19.0,30.5,65.0,False,3.2,101.625,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,19.0,30.7,66.0,False,1.6,101.656,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,19.0,31.0,66.0,False,2.1,101.583,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,19.0,30.7,65.0,False,1.8,101.713,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,19.0,30.7,65.0,False,2.3,101.768,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,19.0,30.7,65.0,False,1.9,101.84,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,19.0,30.3,65.0,False,2.9,101.767,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,18.9,30.2,66.0,False,2.5,102.266,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,False,3.0,18.8,30.5,66.0,False,1.0,106.866,True,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,14.0,2.0,HARD,1.0,True,1,False,6.0,18.8,30.5,65.0,False,2.1,118.255,True,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,15.0,2.0,HARD,2.0,True,1,True,6.0,18.9,30.3,65.0,False,1.3,100.038,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,16.0,2.0,HARD,3.0,True,1,True,5.0,18.8,30.1,65.0,False,2.7,100.556,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,17.0,2.0,HARD,4.0,True,1,True,4.0,18.8,29.8,66.0,False,1.7,102.103,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,18.0,2.0,HARD,5.0,True,1,True,4.0,18.6,29.9,67.0,False,3.2,100.199,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,19.0,2.0,HARD,6.0,True,1,True,4.0,18.6,29.9,67.0,False,2.5,100.313,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,20.0,2.0,HARD,7.0,True,12,True,4.0,18.6,29.9,67.0,False,3.2,100.522,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,21.0,2.0,HARD,8.0,True,26,False,3.0,18.6,29.9,66.0,False,3.1,107.126,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,22.0,2.0,HARD,9.0,True,6,False,3.0,18.6,29.6,66.0,False,2.6,133.674,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,23.0,2.0,HARD,10.0,True,64,False,2.0,18.6,29.5,66.0,False,2.5,137.492,True,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,24.0,3.0,HARD,1.0,True,4,False,4.0,18.6,29.4,66.0,False,2.7,,True,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,25.0,3.0,HARD,2.0,True,4,False,4.0,18.6,29.4,67.0,False,1.9,144.356,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,26.0,3.0,HARD,3.0,True,41,False,4.0,18.6,29.4,66.0,False,1.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,27.0,3.0,HARD,4.0,True,124,False,4.0,18.7,29.5,66.0,False,2.6,109.072,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,28.0,3.0,HARD,5.0,True,4,False,4.0,18.6,29.2,67.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,29.0,3.0,HARD,6.0,True,4,False,4.0,18.6,29.2,67.0,False,1.1,145.947,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,30.0,3.0,HARD,7.0,True,4,False,4.0,18.5,29.2,67.0,False,2.5,141.644,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,31.0,3.0,HARD,8.0,True,41,False,4.0,18.4,28.9,67.0,False,1.5,145.856,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,32.0,3.0,HARD,9.0,True,1,True,4.0,18.5,28.8,66.0,False,1.8,99.731,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,33.0,3.0,HARD,10.0,True,1,True,4.0,18.3,28.8,67.0,False,1.7,99.388,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,34.0,3.0,HARD,11.0,True,1,True,4.0,18.4,28.9,67.0,False,1.8,99.512,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,35.0,3.0,HARD,12.0,True,1,True,4.0,18.3,28.9,67.0,False,2.0,99.698,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,36.0,3.0,HARD,13.0,True,1,True,4.0,18.3,28.9,67.0,False,2.1,99.68,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,37.0,3.0,HARD,14.0,True,1,True,4.0,18.4,28.7,67.0,False,2.1,100.005,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,38.0,3.0,HARD,15.0,True,1,True,4.0,18.4,28.5,67.0,False,2.2,100.068,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,39.0,3.0,HARD,16.0,True,1,True,3.0,18.4,28.5,67.0,False,1.4,99.409,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,40.0,3.0,HARD,17.0,True,1,True,3.0,18.4,28.5,68.0,False,1.2,99.687,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,41.0,3.0,HARD,18.0,True,1,True,3.0,18.4,28.3,68.0,False,1.9,99.599,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,42.0,3.0,HARD,19.0,True,1,True,3.0,18.4,28.4,67.0,False,1.5,99.521,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,43.0,3.0,HARD,20.0,True,1,True,3.0,18.4,28.2,67.0,False,2.1,99.607,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,44.0,3.0,HARD,21.0,True,1,True,3.0,18.4,27.9,67.0,False,2.4,99.722,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,45.0,3.0,HARD,22.0,True,1,True,3.0,18.4,27.8,67.0,False,2.1,99.849,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,46.0,3.0,HARD,23.0,True,1,True,3.0,18.3,27.7,67.0,False,2.2,99.966,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,47.0,3.0,HARD,24.0,True,1,True,3.0,18.2,27.4,67.0,False,3.2,99.955,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,48.0,3.0,HARD,25.0,True,1,True,3.0,18.2,27.4,67.0,False,2.8,99.961,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,49.0,3.0,HARD,26.0,True,1,True,3.0,18.2,28.0,68.0,False,2.1,99.903,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,50.0,3.0,HARD,27.0,True,1,True,3.0,18.2,28.0,68.0,False,2.0,100.052,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,51.0,3.0,HARD,28.0,True,1,True,3.0,18.2,27.6,67.0,False,3.4,99.906,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,52.0,3.0,HARD,29.0,True,1,True,3.0,18.2,27.7,68.0,False,3.1,100.123,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,53.0,3.0,HARD,30.0,True,1,True,3.0,18.2,27.7,68.0,False,1.4,100.196,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,54.0,3.0,HARD,31.0,True,1,True,3.0,18.2,27.9,68.0,False,0.9,100.228,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,55.0,3.0,HARD,32.0,True,1,True,3.0,18.2,27.4,67.0,False,1.5,100.593,False,56,2024,5,Chinese Grand Prix,2024_05
+PER,Red Bull Racing,56.0,3.0,HARD,33.0,True,1,True,3.0,18.2,27.3,68.0,False,1.1,100.65,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,18.8,30.3,66.0,False,1.4,103.173,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,18.7,31.3,66.0,False,1.1,101.128,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,18.7,31.0,65.0,False,1.3,100.988,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,18.8,31.0,65.0,False,1.5,101.579,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,19.0,30.5,65.0,False,3.2,103.06,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,19.0,30.7,66.0,False,1.6,102.363,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,19.0,31.0,66.0,False,2.1,103.817,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,19.0,30.7,65.0,False,1.8,103.132,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,19.0,30.7,65.0,False,2.3,102.946,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,19.0,30.7,65.0,False,1.9,103.083,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,False,7.0,19.0,30.3,65.0,False,2.9,108.048,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,12.0,2.0,HARD,1.0,True,1,False,9.0,18.9,30.2,66.0,False,2.5,120.05,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,13.0,2.0,HARD,2.0,True,1,True,8.0,18.8,30.5,66.0,False,1.2,102.256,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,14.0,2.0,HARD,3.0,True,1,True,7.0,18.9,30.3,66.0,False,1.5,100.944,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,15.0,2.0,HARD,4.0,True,1,True,7.0,18.9,30.3,65.0,False,1.3,100.983,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,16.0,2.0,HARD,5.0,True,1,True,7.0,18.8,30.1,65.0,False,2.7,101.274,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,17.0,2.0,HARD,6.0,True,1,True,6.0,18.6,29.8,66.0,False,2.5,101.251,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,18.0,2.0,HARD,7.0,True,1,True,5.0,18.6,29.9,67.0,False,3.2,101.229,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,19.0,2.0,HARD,8.0,True,1,True,5.0,18.6,29.9,67.0,False,2.5,101.459,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,20.0,2.0,HARD,9.0,True,12,True,5.0,18.6,29.9,67.0,False,3.2,101.64,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,21.0,2.0,HARD,10.0,True,26,False,5.0,18.6,29.9,66.0,False,3.1,110.904,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,22.0,2.0,HARD,11.0,True,6,False,4.0,18.6,29.6,66.0,False,2.6,133.864,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,23.0,2.0,HARD,12.0,True,64,False,5.0,18.6,29.5,66.0,False,2.5,137.153,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,24.0,3.0,SOFT,1.0,True,4,False,7.0,18.6,29.7,67.0,False,1.9,148.542,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,25.0,3.0,SOFT,2.0,True,4,False,6.0,18.6,29.4,67.0,False,1.9,135.201,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,26.0,3.0,SOFT,3.0,True,41,False,6.0,18.7,29.4,66.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,27.0,3.0,SOFT,4.0,True,124,False,5.0,18.7,29.5,66.0,False,2.6,110.392,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,28.0,3.0,SOFT,5.0,True,4,False,5.0,18.6,29.2,67.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,29.0,3.0,SOFT,6.0,True,4,False,5.0,18.6,29.2,67.0,False,1.1,145.818,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,30.0,3.0,SOFT,7.0,True,4,False,5.0,18.5,29.2,67.0,False,2.5,142.1,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,31.0,3.0,SOFT,8.0,True,41,False,5.0,18.4,28.9,67.0,False,1.5,144.857,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,32.0,3.0,SOFT,9.0,True,1,True,5.0,18.5,28.8,66.0,False,1.8,100.19,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,33.0,3.0,SOFT,10.0,True,1,True,5.0,18.3,28.8,67.0,False,1.7,99.48,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,34.0,3.0,SOFT,11.0,True,1,True,5.0,18.4,28.9,67.0,False,1.8,99.452,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,35.0,3.0,SOFT,12.0,True,1,True,5.0,18.3,28.9,67.0,False,2.0,99.817,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,36.0,3.0,SOFT,13.0,True,1,True,5.0,18.3,28.9,67.0,False,2.1,100.638,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,37.0,3.0,SOFT,14.0,True,1,True,5.0,18.4,28.7,67.0,False,2.1,100.4,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,38.0,3.0,SOFT,15.0,True,1,True,5.0,18.4,28.5,67.0,False,2.2,100.119,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,39.0,3.0,SOFT,16.0,True,1,True,5.0,18.4,28.5,67.0,False,1.4,100.447,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,40.0,3.0,SOFT,17.0,True,1,True,5.0,18.4,28.5,68.0,False,1.2,100.693,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,41.0,3.0,SOFT,18.0,True,1,True,5.0,18.4,28.3,68.0,False,1.9,100.819,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,42.0,3.0,SOFT,19.0,True,1,True,5.0,18.4,28.4,67.0,False,1.5,100.794,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,43.0,3.0,SOFT,20.0,True,1,False,7.0,18.4,28.2,67.0,False,2.1,105.953,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,44.0,4.0,MEDIUM,1.0,True,1,False,12.0,18.4,27.9,67.0,False,2.4,117.277,True,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,45.0,4.0,MEDIUM,2.0,True,1,True,11.0,18.3,27.7,67.0,False,3.0,97.81,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,46.0,4.0,MEDIUM,3.0,True,1,True,10.0,18.3,27.7,67.0,False,2.2,99.559,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,47.0,4.0,MEDIUM,4.0,True,1,True,9.0,18.2,27.4,67.0,False,3.2,99.963,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,48.0,4.0,MEDIUM,5.0,True,1,True,9.0,18.2,27.9,68.0,False,2.3,99.837,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,49.0,4.0,MEDIUM,6.0,True,1,True,7.0,18.2,28.0,68.0,False,2.1,99.403,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,50.0,4.0,MEDIUM,7.0,True,1,True,7.0,18.2,27.7,68.0,False,3.3,99.174,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,51.0,4.0,MEDIUM,8.0,True,1,True,7.0,18.2,27.6,68.0,False,3.2,99.487,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,52.0,4.0,MEDIUM,9.0,True,1,True,7.0,18.2,27.7,68.0,False,3.1,99.396,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,53.0,4.0,MEDIUM,10.0,True,1,True,7.0,18.2,27.7,68.0,False,1.4,99.557,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,54.0,4.0,MEDIUM,11.0,True,1,True,7.0,18.2,27.5,68.0,False,1.5,100.377,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,55.0,4.0,MEDIUM,12.0,True,1,True,7.0,18.2,27.4,67.0,False,1.5,100.056,False,56,2024,5,Chinese Grand Prix,2024_05
+ALO,Aston Martin,56.0,4.0,MEDIUM,13.0,True,1,True,7.0,18.2,27.3,68.0,False,1.1,100.249,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,18.8,30.3,66.0,False,1.4,106.488,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,18.7,31.3,66.0,False,1.1,101.812,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,18.7,31.0,65.0,False,1.3,102.09,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,18.8,31.0,65.0,False,1.5,102.22,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,19.0,30.5,65.0,False,3.2,102.095,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,19.0,30.7,66.0,False,1.6,102.322,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,19.0,31.0,66.0,False,2.1,102.417,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,19.0,30.7,65.0,False,1.8,102.969,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,19.0,30.7,65.0,False,2.3,102.189,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,19.0,30.7,65.0,False,1.9,102.324,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,19.0,30.3,65.0,False,2.9,102.128,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,18.9,30.2,66.0,False,2.5,101.939,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,18.8,30.5,66.0,False,1.2,102.079,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,18.8,30.5,65.0,False,2.1,101.812,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,18.9,30.3,65.0,False,1.3,101.864,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,18.8,30.1,65.0,False,2.7,102.729,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,18.8,29.8,66.0,False,1.7,101.979,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,18.6,29.9,67.0,False,3.2,102.114,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,18.6,29.9,67.0,False,2.5,101.982,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,12,True,3.0,18.5,29.9,67.0,False,2.7,102.041,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,26,False,4.0,18.6,29.9,66.0,False,3.1,111.969,True,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,22.0,2.0,HARD,1.0,True,6,False,5.0,18.6,29.6,66.0,False,2.6,,True,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,23.0,2.0,HARD,2.0,True,64,False,4.0,18.6,29.5,66.0,False,2.5,132.911,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,24.0,2.0,HARD,3.0,True,4,False,3.0,18.6,29.7,67.0,False,1.9,136.842,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,25.0,2.0,HARD,4.0,True,4,False,3.0,18.6,29.4,67.0,False,1.9,145.209,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,26.0,2.0,HARD,5.0,True,41,False,3.0,18.6,29.4,66.0,False,1.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,27.0,2.0,HARD,6.0,True,124,False,3.0,18.7,29.5,66.0,False,2.6,108.724,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,28.0,2.0,HARD,7.0,True,4,False,3.0,18.6,29.2,67.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,29.0,2.0,HARD,8.0,True,4,False,3.0,18.6,29.2,67.0,False,1.1,146.334,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,30.0,2.0,HARD,9.0,True,4,False,3.0,18.5,29.2,67.0,False,2.5,140.784,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,31.0,2.0,HARD,10.0,True,41,False,3.0,18.4,28.9,67.0,False,1.5,146.766,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,32.0,2.0,HARD,11.0,True,1,True,3.0,18.5,28.8,66.0,False,1.8,99.525,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,33.0,2.0,HARD,12.0,True,1,True,3.0,18.3,28.8,67.0,False,1.7,99.384,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,34.0,2.0,HARD,13.0,True,1,True,3.0,18.4,28.9,67.0,False,1.8,99.561,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,35.0,2.0,HARD,14.0,True,1,True,3.0,18.3,28.9,67.0,False,2.0,99.707,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,36.0,2.0,HARD,15.0,True,1,True,3.0,18.3,28.9,67.0,False,2.1,99.775,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,37.0,2.0,HARD,16.0,True,1,True,3.0,18.4,28.7,67.0,False,2.1,100.04,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,38.0,2.0,HARD,17.0,True,1,True,3.0,18.4,28.5,67.0,False,2.2,100.058,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,39.0,2.0,HARD,18.0,True,1,True,4.0,18.4,28.5,67.0,False,1.4,100.789,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,40.0,2.0,HARD,19.0,True,1,True,4.0,18.4,28.5,68.0,False,1.2,99.731,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,41.0,2.0,HARD,20.0,True,1,True,4.0,18.4,28.3,68.0,False,1.9,99.625,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,42.0,2.0,HARD,21.0,True,1,True,4.0,18.4,28.4,67.0,False,1.5,99.906,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,43.0,2.0,HARD,22.0,True,1,True,4.0,18.4,28.2,67.0,False,2.1,99.908,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,44.0,2.0,HARD,23.0,True,1,True,4.0,18.4,27.9,67.0,False,2.4,99.841,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,45.0,2.0,HARD,24.0,True,1,True,4.0,18.4,27.8,67.0,False,2.1,100.025,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,46.0,2.0,HARD,25.0,True,1,True,4.0,18.3,27.7,67.0,False,2.2,100.224,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,47.0,2.0,HARD,26.0,True,1,True,4.0,18.2,27.4,67.0,False,3.2,100.316,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,48.0,2.0,HARD,27.0,True,1,True,4.0,18.2,27.4,67.0,False,2.8,100.158,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,49.0,2.0,HARD,28.0,True,1,True,4.0,18.2,28.0,68.0,False,2.1,100.423,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,50.0,2.0,HARD,29.0,True,1,True,4.0,18.2,27.7,68.0,False,3.3,100.337,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,51.0,2.0,HARD,30.0,True,1,True,4.0,18.2,27.6,67.0,False,3.4,100.205,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,52.0,2.0,HARD,31.0,True,1,True,4.0,18.2,27.7,68.0,False,3.1,100.453,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,53.0,2.0,HARD,32.0,True,1,True,4.0,18.2,27.7,68.0,False,1.4,100.366,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,54.0,2.0,HARD,33.0,True,1,True,4.0,18.2,27.9,68.0,False,0.9,100.171,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,55.0,2.0,HARD,34.0,True,1,True,4.0,18.2,27.4,67.0,False,1.5,100.882,False,56,2024,5,Chinese Grand Prix,2024_05
+LEC,Ferrari,56.0,2.0,HARD,35.0,True,1,True,4.0,18.2,27.3,68.0,False,1.1,100.568,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,1.0,1.0,SOFT,1.0,True,1,False,10.0,18.8,30.3,66.0,False,1.4,107.73,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,2.0,1.0,SOFT,2.0,True,1,True,9.0,18.7,31.3,66.0,False,1.1,102.326,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,3.0,1.0,SOFT,3.0,True,1,True,9.0,18.8,30.4,65.0,False,1.0,102.305,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,4.0,1.0,SOFT,4.0,True,1,True,9.0,18.8,31.0,65.0,False,1.5,102.556,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,5.0,1.0,SOFT,5.0,True,1,True,9.0,19.0,30.5,65.0,False,3.2,102.984,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,6.0,1.0,SOFT,6.0,True,1,True,9.0,19.0,30.7,66.0,False,1.6,103.277,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,7.0,1.0,SOFT,7.0,True,1,True,9.0,19.0,31.0,66.0,False,2.1,103.261,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,8.0,1.0,SOFT,8.0,True,1,True,9.0,19.0,30.7,65.0,False,1.8,103.068,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,9.0,1.0,SOFT,9.0,True,1,False,9.0,19.0,30.7,65.0,False,2.3,107.714,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,10.0,2.0,MEDIUM,1.0,True,1,False,13.0,19.0,30.6,65.0,False,2.3,119.726,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,11.0,2.0,MEDIUM,2.0,True,1,True,13.0,18.9,30.2,65.0,False,3.2,101.281,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,12.0,2.0,MEDIUM,3.0,True,1,True,11.0,18.9,30.2,66.0,False,2.5,102.009,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,13.0,2.0,MEDIUM,4.0,True,1,True,11.0,18.8,30.5,66.0,False,1.2,101.472,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,14.0,2.0,MEDIUM,5.0,True,1,True,11.0,18.9,30.3,66.0,False,1.5,101.825,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,15.0,2.0,MEDIUM,6.0,True,1,True,9.0,18.9,30.3,65.0,False,1.3,101.47,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,16.0,2.0,MEDIUM,7.0,True,1,True,9.0,18.8,30.1,65.0,False,2.7,101.816,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,17.0,2.0,MEDIUM,8.0,True,1,True,8.0,18.6,29.8,66.0,False,2.5,101.721,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,18.0,2.0,MEDIUM,9.0,True,1,True,8.0,18.6,29.9,67.0,False,3.2,102.436,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,19.0,2.0,MEDIUM,10.0,True,1,True,8.0,18.6,29.9,67.0,False,2.5,102.334,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,20.0,2.0,MEDIUM,11.0,True,12,True,8.0,18.6,29.9,67.0,False,3.2,102.095,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,21.0,2.0,MEDIUM,12.0,True,26,False,9.0,18.7,29.6,66.0,False,3.5,118.981,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,22.0,3.0,HARD,1.0,True,6,False,13.0,18.6,29.5,66.0,False,3.4,,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,23.0,3.0,HARD,2.0,True,64,False,12.0,18.6,29.4,66.0,False,2.5,132.612,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,24.0,3.0,HARD,3.0,True,4,False,10.0,18.6,29.7,67.0,False,1.9,132.862,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,25.0,3.0,HARD,4.0,True,4,False,10.0,18.6,29.4,67.0,False,1.9,127.034,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,26.0,3.0,HARD,5.0,True,41,False,19.0,18.7,29.4,66.0,False,2.7,,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,27.0,4.0,MEDIUM,1.0,True,124,False,18.0,18.7,29.5,66.0,False,2.6,,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,28.0,4.0,MEDIUM,2.0,True,4,False,18.0,18.6,29.2,67.0,False,1.1,138.015,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,29.0,4.0,MEDIUM,3.0,True,4,False,18.0,18.6,29.2,67.0,False,1.7,104.547,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,30.0,4.0,MEDIUM,4.0,True,4,False,18.0,18.5,29.1,67.0,False,1.7,103.268,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,31.0,4.0,MEDIUM,5.0,True,41,False,18.0,18.5,29.1,66.0,False,1.3,124.24,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,32.0,4.0,MEDIUM,6.0,True,1,True,18.0,18.5,28.8,66.0,False,1.8,101.485,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,33.0,4.0,MEDIUM,7.0,True,1,True,17.0,18.3,28.8,67.0,False,1.7,102.201,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,34.0,4.0,MEDIUM,8.0,True,1,True,16.0,18.4,28.9,67.0,False,1.8,102.969,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,35.0,4.0,MEDIUM,9.0,True,1,False,17.0,18.3,28.9,67.0,False,2.0,105.678,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,36.0,5.0,HARD,6.0,False,1,False,17.0,18.4,28.7,67.0,False,1.7,130.576,True,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,37.0,5.0,HARD,7.0,False,1,True,17.0,18.4,28.8,67.0,False,1.8,99.444,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,38.0,5.0,HARD,8.0,False,1,True,17.0,18.4,28.5,67.0,False,2.2,99.449,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,39.0,5.0,HARD,9.0,False,1,True,17.0,18.4,28.4,68.0,False,2.7,99.639,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,40.0,5.0,HARD,10.0,False,1,True,17.0,18.4,28.3,68.0,False,1.3,99.905,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,41.0,5.0,HARD,11.0,False,1,True,17.0,18.4,28.3,68.0,False,1.9,100.145,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,42.0,5.0,HARD,12.0,False,1,True,17.0,18.4,28.1,67.0,False,1.5,99.953,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,43.0,5.0,HARD,13.0,False,1,True,17.0,18.4,28.1,67.0,False,2.5,100.351,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,44.0,5.0,HARD,14.0,False,1,True,17.0,18.4,27.9,67.0,False,2.4,100.358,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,45.0,5.0,HARD,15.0,False,1,True,17.0,18.3,27.7,67.0,False,3.0,100.291,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,46.0,5.0,HARD,16.0,False,1,True,17.0,18.2,27.6,67.0,False,1.7,100.736,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,47.0,5.0,HARD,17.0,False,1,True,17.0,18.2,27.4,67.0,False,3.2,100.654,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,48.0,5.0,HARD,18.0,False,1,True,17.0,18.2,27.9,68.0,False,2.3,100.297,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,49.0,5.0,HARD,19.0,False,1,True,17.0,18.2,28.0,68.0,False,2.0,100.569,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,50.0,5.0,HARD,20.0,False,1,True,17.0,18.2,27.7,68.0,False,3.3,100.588,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,51.0,5.0,HARD,21.0,False,1,True,17.0,18.2,27.6,68.0,False,3.2,100.717,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,52.0,5.0,HARD,22.0,False,1,True,17.0,18.2,27.6,68.0,False,1.1,100.988,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,53.0,5.0,HARD,23.0,False,1,True,17.0,18.2,27.7,68.0,False,1.4,101.402,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,54.0,5.0,HARD,24.0,False,1,True,17.0,18.2,27.5,68.0,False,1.5,101.571,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,55.0,5.0,HARD,25.0,False,1,True,16.0,18.2,27.4,67.0,False,2.2,101.143,False,56,2024,5,Chinese Grand Prix,2024_05
+STR,Aston Martin,56.0,5.0,HARD,26.0,False,1,True,16.0,18.1,27.3,68.0,False,0.8,101.502,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,1.0,1.0,SOFT,1.0,True,1,False,20.0,18.8,30.3,66.0,False,1.4,112.13,True,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,2.0,1.0,SOFT,2.0,True,1,True,20.0,18.7,31.3,66.0,False,1.1,104.088,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,3.0,1.0,SOFT,3.0,True,1,True,20.0,18.8,30.4,65.0,False,1.0,103.644,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,4.0,1.0,SOFT,4.0,True,1,True,20.0,18.8,31.0,65.0,False,1.5,104.226,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,5.0,1.0,SOFT,5.0,True,1,True,20.0,19.0,30.5,65.0,False,3.2,103.516,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,6.0,1.0,SOFT,6.0,True,1,True,20.0,19.0,30.7,66.0,False,1.6,103.726,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,7.0,1.0,SOFT,7.0,True,1,True,20.0,19.0,30.7,66.0,False,1.0,104.084,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,8.0,1.0,SOFT,8.0,True,1,True,18.0,19.0,30.7,65.0,False,1.8,104.213,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,9.0,1.0,SOFT,9.0,True,1,True,16.0,19.0,30.7,65.0,False,2.3,103.236,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,10.0,1.0,SOFT,10.0,True,1,True,12.0,19.0,30.6,65.0,False,2.3,103.684,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,11.0,1.0,SOFT,11.0,True,1,True,12.0,19.0,30.3,65.0,False,2.9,103.575,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,12.0,1.0,SOFT,12.0,True,1,False,12.0,18.9,30.2,66.0,False,2.5,109.069,True,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,13.0,2.0,MEDIUM,1.0,True,1,False,19.0,18.8,30.5,66.0,False,1.2,120.228,True,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,14.0,2.0,MEDIUM,2.0,True,1,True,19.0,18.9,30.3,66.0,False,1.5,101.0,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,15.0,2.0,MEDIUM,3.0,True,1,True,19.0,18.8,30.1,66.0,False,1.0,101.741,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,16.0,2.0,MEDIUM,4.0,True,1,True,19.0,18.8,30.1,65.0,False,2.7,102.441,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,17.0,2.0,MEDIUM,5.0,True,1,True,19.0,18.6,29.8,66.0,False,2.5,102.275,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,18.0,2.0,MEDIUM,6.0,True,1,True,18.0,18.6,29.7,66.0,False,1.6,102.301,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,19.0,2.0,MEDIUM,7.0,True,1,True,18.0,18.6,29.9,67.0,False,2.5,102.59,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,20.0,2.0,MEDIUM,8.0,True,12,True,17.0,18.6,29.9,67.0,False,3.2,103.203,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,21.0,2.0,MEDIUM,9.0,True,26,False,17.0,18.7,29.6,66.0,False,3.5,122.122,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,22.0,2.0,MEDIUM,10.0,True,6,False,16.0,18.6,29.5,66.0,False,3.4,133.694,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,23.0,2.0,MEDIUM,11.0,True,64,False,15.0,18.6,29.4,66.0,False,2.5,133.935,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,24.0,2.0,MEDIUM,12.0,True,4,False,12.0,18.6,29.7,67.0,False,1.9,135.351,True,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,25.0,3.0,HARD,1.0,True,4,False,17.0,18.6,29.4,66.0,False,2.0,126.753,True,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,26.0,3.0,HARD,2.0,True,41,False,16.0,18.7,29.4,66.0,False,2.7,141.458,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,27.0,3.0,HARD,3.0,True,124,False,14.0,18.7,29.5,66.0,False,2.6,117.209,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,28.0,3.0,HARD,4.0,True,4,False,14.0,18.6,29.2,67.0,False,2.7,146.89,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,29.0,3.0,HARD,5.0,True,4,False,14.0,18.6,29.2,67.0,False,1.7,144.794,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,30.0,3.0,HARD,6.0,True,4,False,14.0,18.5,29.2,67.0,False,2.5,141.607,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,31.0,3.0,HARD,7.0,True,41,False,14.0,18.4,28.9,67.0,False,1.5,141.503,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,32.0,3.0,HARD,8.0,True,1,True,14.0,18.5,28.8,66.0,False,1.8,102.185,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,33.0,3.0,HARD,9.0,True,1,True,13.0,18.3,28.8,67.0,False,1.7,102.482,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,34.0,3.0,HARD,10.0,True,1,True,13.0,18.4,28.9,67.0,False,1.8,101.233,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,35.0,3.0,HARD,11.0,True,1,True,13.0,18.3,28.9,67.0,False,2.0,101.096,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,36.0,3.0,HARD,12.0,True,1,True,13.0,18.3,28.9,67.0,False,2.1,101.518,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,37.0,3.0,HARD,13.0,True,1,True,14.0,18.4,28.7,67.0,False,2.1,102.43,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,38.0,3.0,HARD,14.0,True,1,True,14.0,18.4,28.5,67.0,False,2.2,102.347,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,39.0,3.0,HARD,15.0,True,1,True,14.0,18.4,28.4,68.0,False,2.7,102.346,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,40.0,3.0,HARD,16.0,True,1,True,13.0,18.4,28.5,68.0,False,1.2,102.428,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,41.0,3.0,HARD,17.0,True,1,True,13.0,18.4,28.3,68.0,False,1.9,101.943,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,42.0,3.0,HARD,18.0,True,1,True,13.0,18.4,28.1,67.0,False,1.5,101.894,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,43.0,3.0,HARD,19.0,True,1,True,14.0,18.4,28.2,67.0,False,2.1,103.096,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,44.0,3.0,HARD,20.0,True,1,True,14.0,18.4,27.9,67.0,False,2.4,102.394,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,45.0,3.0,HARD,21.0,True,1,True,14.0,18.3,27.7,67.0,False,3.0,101.914,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,46.0,3.0,HARD,22.0,True,1,True,14.0,18.3,27.7,67.0,False,2.2,102.396,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,47.0,3.0,HARD,23.0,True,1,True,14.0,18.2,27.4,67.0,False,3.2,101.914,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,48.0,3.0,HARD,24.0,True,1,True,15.0,18.2,27.9,68.0,False,2.3,102.767,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,49.0,3.0,HARD,25.0,True,1,True,16.0,18.2,28.0,68.0,False,2.0,102.743,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,50.0,3.0,HARD,26.0,True,1,True,16.0,18.2,27.7,68.0,False,3.3,102.645,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,51.0,3.0,HARD,27.0,True,1,True,16.0,18.2,27.6,68.0,False,3.2,102.32,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,52.0,3.0,HARD,28.0,True,1,True,16.0,18.2,27.6,68.0,False,1.1,102.55,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,53.0,3.0,HARD,29.0,True,1,True,16.0,18.2,27.7,68.0,False,1.4,102.274,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,54.0,3.0,HARD,30.0,True,1,True,16.0,18.2,27.5,68.0,False,1.5,102.402,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,55.0,3.0,HARD,31.0,True,1,True,17.0,18.2,27.4,67.0,False,2.2,102.913,False,56,2024,5,Chinese Grand Prix,2024_05
+SAR,Williams,56.0,3.0,HARD,32.0,True,1,True,17.0,18.1,27.3,68.0,False,0.8,103.148,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,1.0,1.0,HARD,1.0,True,1,False,18.0,18.8,30.3,66.0,False,1.4,111.086,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,2.0,1.0,HARD,2.0,True,1,True,17.0,18.7,31.3,66.0,False,1.1,103.907,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,True,17.0,18.8,30.4,65.0,False,1.0,103.179,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,True,18.0,18.8,31.0,65.0,False,1.5,104.116,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,True,18.0,19.0,30.5,65.0,False,3.2,103.797,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,True,18.0,19.0,30.7,66.0,False,1.6,103.899,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,7.0,1.0,HARD,7.0,True,1,True,18.0,19.0,30.7,66.0,False,1.0,103.93,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,True,17.0,19.0,30.7,65.0,False,1.8,104.239,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,15.0,19.0,30.7,65.0,False,2.3,103.461,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,True,11.0,19.0,30.6,65.0,False,2.3,103.28,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,True,10.0,19.0,30.3,65.0,False,2.9,103.549,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,12.0,1.0,HARD,12.0,True,1,True,8.0,18.9,30.2,66.0,False,2.5,103.665,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,True,10.0,18.8,30.5,66.0,False,1.2,104.59,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,14.0,1.0,HARD,14.0,True,1,True,10.0,18.9,30.3,66.0,False,1.5,103.959,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,15.0,1.0,HARD,15.0,True,1,True,10.0,18.9,30.3,65.0,False,1.3,104.466,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,16.0,1.0,HARD,16.0,True,1,True,10.0,18.8,30.1,65.0,False,2.7,103.648,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,17.0,1.0,HARD,17.0,True,1,False,14.0,18.6,29.8,66.0,False,2.5,110.262,True,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,18.0,2.0,HARD,1.0,True,1,False,20.0,18.6,29.7,66.0,False,1.6,120.904,True,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,19.0,2.0,HARD,2.0,True,1,True,20.0,18.5,29.9,67.0,False,2.7,101.106,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,20.0,2.0,HARD,3.0,True,12,True,19.0,18.6,29.9,67.0,False,3.2,101.312,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,21.0,2.0,HARD,4.0,True,26,False,19.0,18.7,29.6,66.0,False,3.5,123.843,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,22.0,2.0,HARD,5.0,True,6,False,19.0,18.6,29.5,66.0,False,3.4,135.385,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,23.0,2.0,HARD,6.0,True,64,False,18.0,18.6,29.4,66.0,False,2.5,132.117,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,24.0,2.0,HARD,7.0,True,4,False,15.0,18.6,29.7,67.0,False,1.0,132.967,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,25.0,2.0,HARD,8.0,True,4,False,14.0,18.6,29.4,66.0,False,2.0,114.289,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,26.0,2.0,HARD,9.0,True,41,False,13.0,18.7,29.4,66.0,False,2.7,146.068,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,27.0,2.0,HARD,10.0,True,124,False,17.0,18.7,29.5,66.0,False,2.6,,True,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,28.0,3.0,MEDIUM,1.0,True,4,False,17.0,18.6,29.2,66.0,False,1.5,137.066,True,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,29.0,3.0,MEDIUM,2.0,True,4,False,17.0,18.6,29.2,67.0,False,1.7,117.805,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,30.0,3.0,MEDIUM,3.0,True,4,False,17.0,18.5,29.2,67.0,False,2.5,141.596,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,31.0,3.0,MEDIUM,4.0,True,41,False,17.0,18.4,28.9,67.0,False,1.5,137.804,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,32.0,3.0,MEDIUM,5.0,True,1,True,17.0,18.5,28.8,66.0,False,1.8,101.74,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,33.0,3.0,MEDIUM,6.0,True,1,True,16.0,18.3,28.8,67.0,False,1.7,102.473,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,34.0,3.0,MEDIUM,7.0,True,1,True,17.0,18.4,28.9,67.0,False,1.8,103.518,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,35.0,3.0,MEDIUM,8.0,True,1,True,16.0,18.3,28.9,67.0,False,2.0,102.616,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,36.0,3.0,MEDIUM,9.0,True,1,True,16.0,18.4,28.7,67.0,False,1.7,101.298,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,37.0,3.0,MEDIUM,10.0,True,1,True,16.0,18.4,28.7,67.0,False,2.1,101.42,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,38.0,3.0,MEDIUM,11.0,True,1,True,15.0,18.4,28.5,67.0,False,2.2,101.36,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,39.0,3.0,MEDIUM,12.0,True,1,True,15.0,18.4,28.4,68.0,False,2.7,101.28,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,40.0,3.0,MEDIUM,13.0,True,1,True,14.0,18.4,28.5,68.0,False,1.2,101.754,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,41.0,3.0,MEDIUM,14.0,True,1,True,14.0,18.4,28.3,68.0,False,1.9,101.84,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,42.0,3.0,MEDIUM,15.0,True,1,True,14.0,18.4,28.1,67.0,False,1.5,101.513,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,43.0,3.0,MEDIUM,16.0,True,1,True,13.0,18.4,28.2,67.0,False,2.1,101.245,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,44.0,3.0,MEDIUM,17.0,True,1,True,13.0,18.4,27.9,67.0,False,2.4,101.324,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,45.0,3.0,MEDIUM,18.0,True,1,True,13.0,18.3,27.7,67.0,False,3.0,101.077,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,46.0,3.0,MEDIUM,19.0,True,1,True,13.0,18.3,27.7,67.0,False,2.2,101.498,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,47.0,3.0,MEDIUM,20.0,True,1,True,13.0,18.2,27.4,67.0,False,3.2,101.366,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,48.0,3.0,MEDIUM,21.0,True,1,True,13.0,18.2,27.9,68.0,False,2.3,101.603,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,49.0,3.0,MEDIUM,22.0,True,1,True,13.0,18.2,28.0,68.0,False,2.0,101.355,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,50.0,3.0,MEDIUM,23.0,True,1,True,13.0,18.2,27.7,68.0,False,3.3,101.376,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,51.0,3.0,MEDIUM,24.0,True,1,True,13.0,18.2,27.6,68.0,False,3.2,101.879,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,52.0,3.0,MEDIUM,25.0,True,1,True,13.0,18.2,27.6,68.0,False,1.1,102.059,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,53.0,3.0,MEDIUM,26.0,True,1,True,15.0,18.2,27.7,68.0,False,1.4,104.013,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,54.0,3.0,MEDIUM,27.0,True,1,True,15.0,18.2,27.5,68.0,False,1.5,102.863,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,55.0,3.0,MEDIUM,28.0,True,1,True,15.0,18.2,27.4,67.0,False,2.2,102.864,False,56,2024,5,Chinese Grand Prix,2024_05
+MAG,Haas F1 Team,56.0,3.0,MEDIUM,29.0,True,1,True,15.0,18.2,27.3,68.0,False,1.1,102.87,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,1.0,1.0,SOFT,1.0,True,1,False,16.0,18.8,30.3,66.0,False,1.4,110.625,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,2.0,1.0,SOFT,2.0,True,1,True,16.0,18.7,31.3,66.0,False,1.1,103.674,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,3.0,1.0,SOFT,3.0,True,1,True,16.0,18.8,30.4,65.0,False,1.0,103.136,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,4.0,1.0,SOFT,4.0,True,1,True,16.0,18.8,31.0,65.0,False,1.5,103.095,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,5.0,1.0,SOFT,5.0,True,1,True,16.0,19.0,30.5,65.0,False,3.2,103.657,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,6.0,1.0,SOFT,6.0,True,1,True,16.0,19.0,30.7,66.0,False,1.6,103.669,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,7.0,1.0,SOFT,7.0,True,1,True,16.0,19.0,31.0,66.0,False,2.1,103.951,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,8.0,1.0,SOFT,8.0,True,1,False,19.0,19.0,30.7,65.0,False,1.8,108.43,True,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,9.0,2.0,MEDIUM,1.0,True,1,False,19.0,19.0,30.7,65.0,False,2.3,119.845,True,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,10.0,2.0,MEDIUM,2.0,True,1,True,17.0,19.0,30.6,65.0,False,2.3,102.171,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,11.0,2.0,MEDIUM,3.0,True,1,True,17.0,18.9,30.2,65.0,False,3.2,101.593,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,12.0,2.0,MEDIUM,4.0,True,1,True,16.0,18.9,30.2,66.0,False,2.5,102.304,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,13.0,2.0,MEDIUM,5.0,True,1,True,16.0,18.8,30.5,66.0,False,1.2,103.531,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,14.0,2.0,MEDIUM,6.0,True,1,True,16.0,18.9,30.3,66.0,False,1.5,102.51,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,15.0,2.0,MEDIUM,7.0,True,1,True,15.0,18.8,30.1,66.0,False,1.0,102.294,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,16.0,2.0,MEDIUM,8.0,True,1,True,15.0,18.8,30.1,65.0,False,2.7,102.528,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,17.0,2.0,MEDIUM,9.0,True,1,True,15.0,18.6,29.8,66.0,False,2.5,102.441,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,18.0,2.0,MEDIUM,10.0,True,1,True,14.0,18.6,29.7,66.0,False,1.6,102.628,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,19.0,2.0,MEDIUM,11.0,True,1,True,15.0,18.6,29.9,67.0,False,2.5,103.224,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,20.0,2.0,MEDIUM,12.0,True,12,True,14.0,18.6,29.9,67.0,False,3.2,103.174,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,21.0,2.0,MEDIUM,13.0,True,26,False,13.0,18.7,29.6,66.0,False,3.5,119.83,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,22.0,2.0,MEDIUM,14.0,True,6,False,12.0,18.6,29.5,66.0,False,3.4,133.79,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,23.0,2.0,MEDIUM,15.0,True,64,False,13.0,18.6,29.4,66.0,False,2.5,137.702,True,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,24.0,3.0,HARD,1.0,True,4,False,16.0,18.6,29.7,67.0,False,1.9,149.433,True,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,25.0,3.0,HARD,2.0,True,4,False,15.0,18.6,29.4,66.0,False,2.0,114.27,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,26.0,3.0,HARD,3.0,True,41,False,14.0,18.7,29.4,66.0,False,2.7,143.71,False,56,2024,5,Chinese Grand Prix,2024_05
+TSU,RB,27.0,3.0,HARD,4.0,True,124,False,,18.7,29.5,66.0,False,2.6,,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,13.0,18.8,30.3,66.0,False,1.4,109.364,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,13.0,18.7,31.3,66.0,False,1.1,103.157,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,13.0,18.8,30.4,65.0,False,1.0,103.014,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,13.0,18.8,31.0,65.0,False,1.5,102.975,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,19.0,30.5,65.0,False,3.2,103.392,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,19.0,30.7,66.0,False,1.6,103.353,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,13.0,19.0,31.0,66.0,False,2.1,103.361,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,19.0,30.7,65.0,False,1.8,103.991,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,False,14.0,19.0,30.7,65.0,False,2.3,108.371,True,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,10.0,2.0,MEDIUM,1.0,True,1,False,18.0,19.0,30.6,65.0,False,2.3,121.494,True,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,11.0,2.0,MEDIUM,2.0,True,1,True,19.0,18.9,30.2,65.0,False,3.2,102.937,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,12.0,2.0,MEDIUM,3.0,True,1,True,18.0,18.9,30.2,66.0,False,2.5,102.151,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,13.0,2.0,MEDIUM,4.0,True,1,True,17.0,18.8,30.5,66.0,False,1.2,102.608,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,14.0,2.0,MEDIUM,5.0,True,1,True,17.0,18.9,30.3,66.0,False,1.5,103.274,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,15.0,2.0,MEDIUM,6.0,True,1,True,16.0,18.8,30.1,66.0,False,1.0,102.762,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,16.0,2.0,MEDIUM,7.0,True,1,True,16.0,18.8,30.1,65.0,False,2.7,102.611,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,17.0,2.0,MEDIUM,8.0,True,1,True,17.0,18.6,29.8,66.0,False,2.5,103.118,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,18.0,2.0,MEDIUM,9.0,True,1,True,16.0,18.6,29.7,66.0,False,1.6,103.004,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,19.0,2.0,MEDIUM,10.0,True,1,True,16.0,18.6,29.9,67.0,False,2.5,103.187,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,20.0,2.0,MEDIUM,11.0,True,12,True,15.0,18.6,29.9,67.0,False,3.2,103.186,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,21.0,2.0,MEDIUM,12.0,True,26,False,15.0,18.7,29.6,66.0,False,3.5,120.728,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,22.0,2.0,MEDIUM,13.0,True,6,False,14.0,18.6,29.5,66.0,False,3.4,133.878,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,23.0,2.0,MEDIUM,14.0,True,64,False,14.0,18.6,29.4,66.0,False,2.5,136.59,True,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,24.0,3.0,HARD,1.0,True,4,False,17.0,18.6,29.7,67.0,False,1.9,149.799,True,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,25.0,3.0,HARD,2.0,True,4,False,16.0,18.6,29.4,66.0,False,2.0,111.954,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,26.0,3.0,HARD,3.0,True,41,False,15.0,18.7,29.4,66.0,False,2.7,143.336,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,27.0,3.0,HARD,4.0,True,124,False,13.0,18.7,29.5,66.0,False,2.6,116.85,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,28.0,3.0,HARD,5.0,True,4,False,13.0,18.6,29.2,67.0,False,2.7,146.979,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,29.0,3.0,HARD,6.0,True,4,False,13.0,18.6,29.2,67.0,False,1.7,144.784,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,30.0,3.0,HARD,7.0,True,4,False,13.0,18.5,29.2,67.0,False,2.5,141.349,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,31.0,3.0,HARD,8.0,True,41,False,13.0,18.4,28.9,67.0,False,1.5,142.128,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,32.0,3.0,HARD,9.0,True,1,True,13.0,18.5,28.8,66.0,False,1.8,102.221,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,33.0,3.0,HARD,10.0,True,1,True,12.0,18.3,28.8,67.0,False,1.7,101.269,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,34.0,3.0,HARD,11.0,True,1,True,12.0,18.4,28.9,67.0,False,1.8,100.79,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,35.0,3.0,HARD,12.0,True,1,True,12.0,18.3,28.9,67.0,False,2.0,101.335,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,36.0,3.0,HARD,13.0,True,1,True,12.0,18.3,28.9,67.0,False,2.1,101.38,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,37.0,3.0,HARD,14.0,True,1,True,12.0,18.4,28.7,67.0,False,2.1,101.261,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,38.0,3.0,HARD,15.0,True,1,True,12.0,18.4,28.5,67.0,False,2.2,101.088,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,39.0,3.0,HARD,16.0,True,1,True,12.0,18.4,28.5,67.0,False,1.4,101.341,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,40.0,3.0,HARD,17.0,True,1,True,12.0,18.4,28.5,68.0,False,1.2,101.672,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,41.0,3.0,HARD,18.0,True,1,True,12.0,18.4,28.3,68.0,False,1.9,101.755,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,42.0,3.0,HARD,19.0,True,1,True,12.0,18.4,28.1,67.0,False,1.5,101.558,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,43.0,3.0,HARD,20.0,True,1,True,12.0,18.4,28.2,67.0,False,2.1,101.423,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,44.0,3.0,HARD,21.0,True,1,True,11.0,18.4,27.9,67.0,False,2.4,101.504,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,45.0,3.0,HARD,22.0,True,1,True,12.0,18.3,27.7,67.0,False,3.0,101.66,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,46.0,3.0,HARD,23.0,True,1,True,12.0,18.3,27.7,67.0,False,2.2,101.776,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,47.0,3.0,HARD,24.0,True,1,True,12.0,18.2,27.4,67.0,False,3.2,101.584,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,48.0,3.0,HARD,25.0,True,1,True,12.0,18.2,27.9,68.0,False,2.3,101.509,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,49.0,3.0,HARD,26.0,True,1,True,12.0,18.2,28.0,68.0,False,2.1,101.404,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,50.0,3.0,HARD,27.0,True,1,True,12.0,18.2,27.7,68.0,False,3.3,101.438,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,51.0,3.0,HARD,28.0,True,1,True,12.0,18.2,27.6,68.0,False,3.2,101.437,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,52.0,3.0,HARD,29.0,True,1,True,12.0,18.2,27.7,68.0,False,3.1,101.67,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,53.0,3.0,HARD,30.0,True,1,True,12.0,18.2,27.7,68.0,False,1.4,101.354,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,54.0,3.0,HARD,31.0,True,1,True,12.0,18.2,27.5,68.0,False,1.5,102.424,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,55.0,3.0,HARD,32.0,True,1,True,12.0,18.2,27.4,67.0,False,2.2,101.998,False,56,2024,5,Chinese Grand Prix,2024_05
+ALB,Williams,56.0,3.0,HARD,33.0,True,1,True,12.0,18.2,27.3,68.0,False,1.1,101.524,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,18.8,30.3,66.0,False,1.4,110.671,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,18.7,31.3,66.0,False,1.1,104.398,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,19.0,18.8,30.4,65.0,False,1.0,103.991,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,18.8,31.0,65.0,False,1.5,103.484,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,19.0,19.0,30.5,65.0,False,3.2,104.018,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,19.0,19.0,30.7,66.0,False,1.6,104.212,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,19.0,19.0,30.7,66.0,False,1.0,104.073,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,False,20.0,19.0,30.7,65.0,False,1.8,109.478,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,9.0,2.0,HARD,1.0,True,1,False,20.0,19.0,30.7,65.0,False,2.3,121.214,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,10.0,2.0,HARD,2.0,True,1,True,20.0,19.0,30.6,65.0,False,2.3,101.765,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,11.0,2.0,HARD,3.0,True,1,True,20.0,18.9,30.2,65.0,False,3.2,101.833,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,12.0,2.0,HARD,4.0,True,1,True,19.0,18.9,30.2,66.0,False,2.5,101.928,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,13.0,2.0,HARD,5.0,True,1,True,18.0,18.8,30.5,66.0,False,1.2,102.212,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,14.0,2.0,HARD,6.0,True,1,True,18.0,18.9,30.3,66.0,False,1.5,102.626,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,15.0,2.0,HARD,7.0,True,1,True,17.0,18.8,30.1,66.0,False,1.0,102.994,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,16.0,2.0,HARD,8.0,True,1,True,18.0,18.8,30.1,65.0,False,2.7,103.24,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,17.0,2.0,HARD,9.0,True,1,True,18.0,18.6,29.8,66.0,False,2.5,103.189,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,18.0,2.0,HARD,10.0,True,1,True,17.0,18.6,29.7,66.0,False,1.6,102.887,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,19.0,2.0,HARD,11.0,True,1,True,17.0,18.6,29.9,67.0,False,2.5,102.827,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,20.0,2.0,HARD,12.0,True,12,True,16.0,18.6,29.9,67.0,False,3.2,103.17,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,21.0,2.0,HARD,13.0,True,26,False,16.0,18.7,29.6,66.0,False,3.5,121.981,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,22.0,2.0,HARD,14.0,True,6,False,15.0,18.6,29.5,66.0,False,3.4,133.883,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,23.0,2.0,HARD,15.0,True,64,False,16.0,18.6,29.4,66.0,False,2.5,137.614,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,24.0,3.0,HARD,1.0,True,4,False,18.0,18.6,29.7,67.0,False,1.9,,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,25.0,3.0,HARD,2.0,True,4,False,18.0,18.6,29.4,66.0,False,2.0,109.955,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,26.0,3.0,HARD,3.0,True,41,False,17.0,18.7,29.4,66.0,False,2.7,138.497,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,27.0,3.0,HARD,4.0,True,124,False,15.0,18.7,29.5,66.0,False,2.6,118.405,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,28.0,3.0,HARD,5.0,True,4,False,15.0,18.6,29.2,67.0,False,2.7,147.061,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,29.0,3.0,HARD,6.0,True,4,False,15.0,18.6,29.2,67.0,False,1.7,146.076,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,30.0,3.0,HARD,7.0,True,4,False,15.0,18.5,29.2,67.0,False,2.5,141.354,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,31.0,3.0,HARD,8.0,True,41,False,15.0,18.4,28.9,67.0,False,1.5,139.42,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,32.0,3.0,HARD,9.0,True,1,True,15.0,18.5,28.8,66.0,False,1.8,102.002,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,33.0,3.0,HARD,10.0,True,1,True,15.0,18.3,28.8,67.0,False,1.7,102.746,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,34.0,3.0,HARD,11.0,True,1,True,15.0,18.4,28.9,67.0,False,1.8,101.72,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,35.0,3.0,HARD,12.0,True,1,True,15.0,18.3,28.9,67.0,False,2.0,101.366,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,36.0,3.0,HARD,13.0,True,1,True,15.0,18.3,28.9,67.0,False,2.1,101.283,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,37.0,3.0,HARD,14.0,True,1,True,15.0,18.4,28.7,67.0,False,2.1,101.738,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,38.0,3.0,HARD,15.0,True,1,True,13.0,18.4,28.5,67.0,False,2.2,101.311,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,39.0,3.0,HARD,16.0,True,1,True,13.0,18.4,28.4,68.0,False,2.7,101.749,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,40.0,3.0,HARD,17.0,True,1,False,15.0,18.4,28.5,68.0,False,1.2,106.271,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,41.0,4.0,SOFT,1.0,True,1,False,16.0,18.4,28.3,68.0,False,1.9,118.828,True,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,42.0,4.0,SOFT,2.0,True,1,True,16.0,18.4,28.1,67.0,False,1.5,98.633,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,43.0,4.0,SOFT,3.0,True,1,True,16.0,18.4,28.1,67.0,False,2.5,99.32,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,44.0,4.0,SOFT,4.0,True,1,True,16.0,18.4,27.9,67.0,False,2.4,99.682,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,45.0,4.0,SOFT,5.0,True,1,True,16.0,18.3,27.7,67.0,False,3.0,99.553,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,46.0,4.0,SOFT,6.0,True,1,True,16.0,18.2,27.6,67.0,False,1.7,99.636,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,47.0,4.0,SOFT,7.0,True,1,True,16.0,18.2,27.4,67.0,False,3.2,100.046,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,48.0,4.0,SOFT,8.0,True,1,True,16.0,18.2,27.9,68.0,False,2.3,100.391,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,49.0,4.0,SOFT,9.0,True,1,True,15.0,18.2,28.0,68.0,False,2.0,101.502,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,50.0,4.0,SOFT,10.0,True,1,True,15.0,18.2,27.7,68.0,False,3.3,100.534,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,51.0,4.0,SOFT,11.0,True,1,True,15.0,18.2,27.6,68.0,False,3.2,100.179,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,52.0,4.0,SOFT,12.0,True,1,True,15.0,18.2,27.6,68.0,False,1.1,100.542,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,53.0,4.0,SOFT,13.0,True,1,True,14.0,18.2,27.7,68.0,False,1.4,101.049,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,54.0,4.0,SOFT,14.0,True,1,True,14.0,18.2,27.5,68.0,False,1.5,101.258,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,55.0,4.0,SOFT,15.0,True,1,True,14.0,18.2,27.4,67.0,False,2.2,100.785,False,56,2024,5,Chinese Grand Prix,2024_05
+ZHO,Kick Sauber,56.0,4.0,SOFT,16.0,True,1,True,14.0,18.2,27.3,68.0,False,1.1,101.192,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,18.8,30.3,66.0,False,1.4,107.041,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,18.7,31.3,66.0,False,1.1,103.687,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,18.8,30.4,65.0,False,1.0,102.347,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,18.8,31.0,65.0,False,1.5,102.824,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,19.0,30.5,65.0,False,3.2,103.331,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,19.0,30.7,66.0,False,1.6,103.384,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,19.0,31.0,66.0,False,2.1,104.061,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,False,15.0,19.0,30.7,65.0,False,1.8,109.064,True,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,9.0,2.0,HARD,1.0,True,1,False,18.0,19.0,30.7,65.0,False,2.3,119.939,True,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,10.0,2.0,HARD,2.0,True,1,True,14.0,19.0,30.6,65.0,False,2.3,101.429,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,11.0,2.0,HARD,3.0,True,1,True,14.0,18.9,30.2,65.0,False,3.2,101.42,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,12.0,2.0,HARD,4.0,True,1,True,13.0,18.9,30.2,66.0,False,2.5,101.821,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,13.0,2.0,HARD,5.0,True,1,True,12.0,18.8,30.5,66.0,False,1.2,102.061,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,14.0,2.0,HARD,6.0,True,1,True,12.0,18.9,30.3,66.0,False,1.5,102.123,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,15.0,2.0,HARD,7.0,True,1,True,11.0,18.9,30.3,65.0,False,1.3,102.408,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,16.0,2.0,HARD,8.0,True,1,True,11.0,18.8,30.1,65.0,False,2.7,102.5,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,17.0,2.0,HARD,9.0,True,1,True,10.0,18.6,29.8,66.0,False,2.5,101.955,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,18.0,2.0,HARD,10.0,True,1,True,10.0,18.6,29.7,66.0,False,1.6,103.019,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,19.0,2.0,HARD,11.0,True,1,True,10.0,18.6,29.9,67.0,False,2.5,102.465,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,20.0,2.0,HARD,12.0,True,12,True,10.0,18.6,29.9,67.0,False,3.2,102.187,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,21.0,2.0,HARD,13.0,True,26,False,10.0,18.7,29.6,66.0,False,3.5,117.611,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,22.0,2.0,HARD,14.0,True,6,False,9.0,18.6,29.5,66.0,False,3.4,132.713,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,23.0,2.0,HARD,15.0,True,64,False,9.0,18.6,29.4,66.0,False,2.5,137.671,True,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,24.0,3.0,HARD,1.0,True,4,False,11.0,18.6,29.7,67.0,False,1.9,,True,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,25.0,3.0,HARD,2.0,True,4,False,11.0,18.6,29.4,66.0,False,2.0,119.529,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,26.0,3.0,HARD,3.0,True,41,False,9.0,18.7,29.4,66.0,False,2.7,147.733,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,27.0,3.0,HARD,4.0,True,124,False,9.0,18.7,29.5,66.0,False,2.6,114.261,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,28.0,3.0,HARD,5.0,True,4,False,10.0,18.6,29.2,67.0,False,2.7,149.564,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,29.0,3.0,HARD,6.0,True,4,False,10.0,18.6,29.2,67.0,False,1.1,145.148,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,30.0,3.0,HARD,7.0,True,4,False,10.0,18.5,29.2,67.0,False,2.5,141.361,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,31.0,3.0,HARD,8.0,True,41,False,10.0,18.4,28.9,67.0,False,1.5,143.141,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,32.0,3.0,HARD,9.0,True,1,True,9.0,18.5,28.8,66.0,False,1.8,100.815,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,33.0,3.0,HARD,10.0,True,1,True,9.0,18.3,28.8,67.0,False,1.7,100.879,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,34.0,3.0,HARD,11.0,True,1,True,9.0,18.4,28.9,67.0,False,1.8,100.864,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,35.0,3.0,HARD,12.0,True,1,True,9.0,18.3,28.9,67.0,False,2.0,101.035,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,36.0,3.0,HARD,13.0,True,1,True,9.0,18.3,28.9,67.0,False,2.1,101.223,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,37.0,3.0,HARD,14.0,True,1,True,9.0,18.4,28.7,67.0,False,2.1,101.127,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,38.0,3.0,HARD,15.0,True,1,True,9.0,18.4,28.5,67.0,False,2.2,100.998,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,39.0,3.0,HARD,16.0,True,1,True,9.0,18.4,28.5,67.0,False,1.4,101.268,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,40.0,3.0,HARD,17.0,True,1,True,9.0,18.4,28.5,68.0,False,1.2,101.593,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,41.0,3.0,HARD,18.0,True,1,True,10.0,18.4,28.3,68.0,False,1.9,102.174,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,42.0,3.0,HARD,19.0,True,1,True,10.0,18.4,28.1,67.0,False,1.5,101.672,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,43.0,3.0,HARD,20.0,True,1,True,10.0,18.4,28.2,67.0,False,2.1,101.373,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,44.0,3.0,HARD,21.0,True,1,True,9.0,18.4,27.9,67.0,False,2.4,101.346,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,45.0,3.0,HARD,22.0,True,1,True,9.0,18.3,27.7,67.0,False,3.0,101.234,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,46.0,3.0,HARD,23.0,True,1,True,9.0,18.3,27.7,67.0,False,2.2,101.518,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,47.0,3.0,HARD,24.0,True,1,True,10.0,18.2,27.4,67.0,False,3.2,101.998,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,48.0,3.0,HARD,25.0,True,1,True,10.0,18.2,27.9,68.0,False,2.3,101.196,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,49.0,3.0,HARD,26.0,True,1,True,10.0,18.2,28.0,68.0,False,2.1,101.241,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,50.0,3.0,HARD,27.0,True,1,True,10.0,18.2,27.7,68.0,False,3.3,101.331,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,51.0,3.0,HARD,28.0,True,1,True,10.0,18.2,27.6,68.0,False,3.2,101.549,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,52.0,3.0,HARD,29.0,True,1,True,10.0,18.2,27.7,68.0,False,3.1,101.625,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,53.0,3.0,HARD,30.0,True,1,True,10.0,18.2,27.7,68.0,False,1.4,101.543,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,54.0,3.0,HARD,31.0,True,1,True,10.0,18.2,27.5,68.0,False,1.5,101.646,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,55.0,3.0,HARD,32.0,True,1,True,10.0,18.2,27.4,67.0,False,1.5,101.705,False,56,2024,5,Chinese Grand Prix,2024_05
+HUL,Haas F1 Team,56.0,3.0,HARD,33.0,True,1,True,10.0,18.2,27.3,68.0,False,1.1,101.904,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,18.8,30.3,66.0,False,1.4,110.255,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,18.7,31.3,66.0,False,1.1,103.47,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,18.8,30.4,65.0,False,1.0,103.073,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,18.8,31.0,65.0,False,1.5,102.976,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,19.0,30.5,65.0,False,3.2,103.449,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,19.0,30.7,66.0,False,1.6,103.613,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,19.0,31.0,66.0,False,2.1,103.798,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,8.0,1.0,MEDIUM,8.0,True,1,True,14.0,19.0,30.7,65.0,False,1.8,103.843,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,19.0,30.7,65.0,False,2.3,103.605,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,19.0,30.6,65.0,False,2.3,103.309,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,19.0,30.3,65.0,False,2.9,103.487,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,18.9,30.2,66.0,False,2.5,103.115,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,18.8,30.5,66.0,False,1.2,103.016,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,14.0,1.0,MEDIUM,14.0,True,1,False,9.0,18.9,30.3,66.0,False,1.5,107.802,True,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,15.0,2.0,MEDIUM,1.0,True,1,False,18.0,18.9,30.3,65.0,False,1.3,120.257,True,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,16.0,2.0,MEDIUM,2.0,True,1,True,17.0,18.8,30.1,65.0,False,2.7,100.994,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,17.0,2.0,MEDIUM,3.0,True,1,True,16.0,18.6,29.8,66.0,False,2.5,101.077,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,18.0,2.0,MEDIUM,4.0,True,1,True,15.0,18.6,29.7,66.0,False,1.6,101.542,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,19.0,2.0,MEDIUM,5.0,True,1,True,14.0,18.6,29.9,67.0,False,2.5,101.955,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,20.0,2.0,MEDIUM,6.0,True,12,True,13.0,18.6,29.9,67.0,False,3.2,101.817,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,21.0,2.0,MEDIUM,7.0,True,26,False,12.0,18.7,29.6,66.0,False,3.5,119.371,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,22.0,2.0,MEDIUM,8.0,True,6,False,11.0,18.6,29.5,66.0,False,3.4,134.125,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,23.0,2.0,MEDIUM,9.0,True,64,False,10.0,18.6,29.4,66.0,False,2.5,132.827,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,24.0,2.0,MEDIUM,10.0,True,4,False,9.0,18.6,29.7,67.0,False,1.9,132.652,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,25.0,2.0,MEDIUM,11.0,True,4,False,9.0,18.6,29.4,67.0,False,1.9,128.183,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,26.0,2.0,MEDIUM,12.0,True,41,False,10.0,18.7,29.4,66.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,27.0,2.0,MEDIUM,13.0,True,124,False,10.0,18.7,29.5,66.0,False,2.6,114.803,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,28.0,2.0,MEDIUM,14.0,True,4,False,9.0,18.6,29.2,67.0,False,2.7,146.589,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,29.0,2.0,MEDIUM,15.0,True,4,False,9.0,18.6,29.2,67.0,False,1.1,145.366,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,30.0,2.0,MEDIUM,16.0,True,4,False,9.0,18.5,29.2,67.0,False,2.5,141.054,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,31.0,2.0,MEDIUM,17.0,True,41,False,9.0,18.4,28.9,67.0,False,1.5,143.797,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,32.0,2.0,MEDIUM,18.0,True,1,True,12.0,18.5,28.8,66.0,False,1.8,104.075,False,56,2024,5,Chinese Grand Prix,2024_05
+RIC,RB,33.0,2.0,MEDIUM,19.0,True,1,False,18.0,18.3,28.8,67.0,False,1.7,115.415,True,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,18.8,30.3,66.0,False,1.4,108.897,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,18.7,31.3,66.0,False,1.1,103.022,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,18.8,30.4,65.0,False,1.0,102.807,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,18.8,31.0,65.0,False,1.5,103.002,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,19.0,30.5,65.0,False,3.2,103.105,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,19.0,30.7,66.0,False,1.6,103.212,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,12.0,19.0,31.0,66.0,False,2.1,103.549,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,19.0,30.7,65.0,False,1.8,104.045,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,False,13.0,19.0,30.7,65.0,False,2.3,108.29,True,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,10.0,2.0,HARD,1.0,True,1,False,16.0,19.0,30.6,65.0,False,2.3,120.652,True,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,11.0,2.0,HARD,2.0,True,1,True,16.0,18.9,30.2,65.0,False,3.2,101.472,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,12.0,2.0,HARD,3.0,True,1,True,15.0,18.9,30.2,66.0,False,2.5,101.793,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,13.0,2.0,HARD,4.0,True,1,True,14.0,18.8,30.5,66.0,False,1.2,102.193,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,14.0,2.0,HARD,5.0,True,1,True,14.0,18.9,30.3,66.0,False,1.5,102.112,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,15.0,2.0,HARD,6.0,True,1,True,13.0,18.9,30.3,65.0,False,1.3,102.357,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,16.0,2.0,HARD,7.0,True,1,True,13.0,18.8,30.1,65.0,False,2.7,102.443,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,17.0,2.0,HARD,8.0,True,1,True,12.0,18.6,29.8,66.0,False,2.5,102.55,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,18.0,2.0,HARD,9.0,True,1,True,12.0,18.6,29.7,66.0,False,1.6,102.486,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,19.0,2.0,HARD,10.0,True,1,True,12.0,18.6,29.9,67.0,False,2.5,102.544,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,20.0,2.0,HARD,11.0,True,12,True,11.0,18.6,29.9,67.0,False,3.2,102.599,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,21.0,2.0,HARD,12.0,True,26,False,11.0,18.7,29.6,66.0,False,3.5,117.545,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,22.0,2.0,HARD,13.0,True,6,False,10.0,18.6,29.5,66.0,False,3.4,135.159,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,23.0,2.0,HARD,14.0,True,64,False,11.0,18.6,29.4,66.0,False,2.5,137.613,True,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,24.0,3.0,HARD,1.0,True,4,False,13.0,18.6,29.7,67.0,False,1.9,148.655,True,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,25.0,3.0,HARD,2.0,True,4,False,12.0,18.6,29.4,66.0,False,2.0,116.221,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,26.0,3.0,HARD,3.0,True,41,False,11.0,18.7,29.4,66.0,False,2.7,147.921,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,27.0,3.0,HARD,4.0,True,124,False,12.0,18.7,29.5,66.0,False,2.6,116.712,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,28.0,3.0,HARD,5.0,True,4,False,12.0,18.6,29.2,67.0,False,2.7,147.622,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,29.0,3.0,HARD,6.0,True,4,False,12.0,18.6,29.2,67.0,False,1.7,144.917,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,30.0,3.0,HARD,7.0,True,4,False,12.0,18.5,29.2,67.0,False,2.5,141.322,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,31.0,3.0,HARD,8.0,True,41,False,12.0,18.4,28.9,67.0,False,1.5,142.345,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,32.0,3.0,HARD,9.0,True,1,True,11.0,18.5,28.8,66.0,False,1.8,101.902,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,33.0,3.0,HARD,10.0,True,1,True,11.0,18.3,28.8,67.0,False,1.7,100.937,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,34.0,3.0,HARD,11.0,True,1,True,11.0,18.4,28.9,67.0,False,1.8,100.972,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,35.0,3.0,HARD,12.0,True,1,True,11.0,18.3,28.9,67.0,False,2.0,101.009,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,36.0,3.0,HARD,13.0,True,1,True,11.0,18.3,28.9,67.0,False,2.1,101.194,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,37.0,3.0,HARD,14.0,True,1,True,11.0,18.4,28.7,67.0,False,2.1,101.361,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,38.0,3.0,HARD,15.0,True,1,True,11.0,18.4,28.5,67.0,False,2.2,101.131,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,39.0,3.0,HARD,16.0,True,1,True,11.0,18.4,28.5,67.0,False,1.4,101.313,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,40.0,3.0,HARD,17.0,True,1,True,11.0,18.4,28.5,68.0,False,1.2,101.592,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,41.0,3.0,HARD,18.0,True,1,True,11.0,18.4,28.3,68.0,False,1.9,101.653,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,42.0,3.0,HARD,19.0,True,1,True,11.0,18.4,28.1,67.0,False,1.5,101.515,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,43.0,3.0,HARD,20.0,True,1,True,11.0,18.4,28.2,67.0,False,2.1,101.535,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,44.0,3.0,HARD,21.0,True,1,True,10.0,18.4,27.9,67.0,False,2.4,101.24,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,45.0,3.0,HARD,22.0,True,1,True,10.0,18.3,27.7,67.0,False,3.0,101.423,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,46.0,3.0,HARD,23.0,True,1,True,11.0,18.3,27.7,67.0,False,2.2,102.084,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,47.0,3.0,HARD,24.0,True,1,True,11.0,18.2,27.4,67.0,False,3.2,101.743,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,48.0,3.0,HARD,25.0,True,1,True,11.0,18.2,27.9,68.0,False,2.3,101.301,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,49.0,3.0,HARD,26.0,True,1,True,11.0,18.2,28.0,68.0,False,2.1,101.297,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,50.0,3.0,HARD,27.0,True,1,True,11.0,18.2,27.7,68.0,False,3.3,101.567,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,51.0,3.0,HARD,28.0,True,1,True,11.0,18.2,27.6,68.0,False,3.2,101.477,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,52.0,3.0,HARD,29.0,True,1,True,11.0,18.2,27.7,68.0,False,3.1,101.559,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,53.0,3.0,HARD,30.0,True,1,True,11.0,18.2,27.7,68.0,False,1.4,101.652,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,54.0,3.0,HARD,31.0,True,1,True,11.0,18.2,27.5,68.0,False,1.5,101.522,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,55.0,3.0,HARD,32.0,True,1,True,11.0,18.2,27.4,67.0,False,2.2,101.574,False,56,2024,5,Chinese Grand Prix,2024_05
+OCO,Alpine,56.0,3.0,HARD,33.0,True,1,True,11.0,18.2,27.3,68.0,False,1.1,101.651,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,18.8,30.3,66.0,False,1.4,104.524,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,18.7,31.3,66.0,False,1.1,101.267,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,18.7,31.0,65.0,False,1.3,101.282,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,18.8,31.0,65.0,False,1.5,101.929,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,19.0,30.5,65.0,False,3.2,101.94,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,19.0,30.7,66.0,False,1.6,102.009,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,19.0,31.0,66.0,False,2.1,102.403,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,19.0,30.7,65.0,False,1.8,101.756,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,19.0,30.7,65.0,False,2.3,101.688,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,19.0,30.7,65.0,False,1.9,101.695,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,19.0,30.3,65.0,False,2.9,101.828,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,18.9,30.2,66.0,False,2.5,102.007,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,18.8,30.5,66.0,False,1.0,101.805,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,18.8,30.5,65.0,False,2.1,101.656,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,18.9,30.3,65.0,False,1.3,102.04,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,18.8,30.1,66.0,False,1.0,101.795,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,18.8,29.8,66.0,False,1.7,101.7,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,18.6,29.9,67.0,False,3.2,101.994,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,18.6,29.9,67.0,False,2.5,102.658,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,18.5,29.9,67.0,False,2.7,102.167,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,126,False,2.0,18.6,29.9,66.0,False,3.1,103.566,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,6,False,2.0,18.6,29.6,66.0,False,2.6,138.646,True,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,23.0,2.0,HARD,1.0,True,64,False,3.0,18.6,29.5,66.0,False,2.5,148.677,True,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,24.0,2.0,HARD,2.0,True,4,False,2.0,18.6,29.7,67.0,False,1.9,146.575,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,25.0,2.0,HARD,3.0,True,4,False,2.0,18.6,29.4,67.0,False,1.9,145.105,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,26.0,2.0,HARD,4.0,True,41,False,2.0,18.6,29.4,66.0,False,1.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,27.0,2.0,HARD,5.0,True,124,False,2.0,18.7,29.5,66.0,False,2.6,108.631,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,28.0,2.0,HARD,6.0,True,4,False,2.0,18.6,29.2,67.0,False,2.7,149.965,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,29.0,2.0,HARD,7.0,True,4,False,2.0,18.6,29.2,67.0,False,1.1,147.449,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,30.0,2.0,HARD,8.0,True,4,False,2.0,18.5,29.2,67.0,False,2.5,139.874,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,31.0,2.0,HARD,9.0,True,41,False,2.0,18.4,28.9,67.0,False,1.5,148.01,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,32.0,2.0,HARD,10.0,True,1,True,2.0,18.5,28.8,66.0,False,1.8,98.957,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,33.0,2.0,HARD,11.0,True,1,True,2.0,18.3,28.8,67.0,False,1.7,98.751,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,34.0,2.0,HARD,12.0,True,1,True,2.0,18.4,28.9,67.0,False,1.8,99.022,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,35.0,2.0,HARD,13.0,True,1,True,2.0,18.3,28.9,67.0,False,2.0,99.094,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,36.0,2.0,HARD,14.0,True,1,True,2.0,18.3,28.9,67.0,False,2.1,99.166,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,37.0,2.0,HARD,15.0,True,1,True,2.0,18.4,28.7,67.0,False,2.1,99.3,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,38.0,2.0,HARD,16.0,True,1,True,2.0,18.4,28.8,67.0,False,1.8,99.28,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,39.0,2.0,HARD,17.0,True,1,True,2.0,18.4,28.5,67.0,False,1.4,99.501,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,40.0,2.0,HARD,18.0,True,1,True,2.0,18.4,28.5,68.0,False,1.2,99.854,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,41.0,2.0,HARD,19.0,True,1,True,2.0,18.4,28.3,68.0,False,1.3,99.721,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,42.0,2.0,HARD,20.0,True,1,True,2.0,18.4,28.4,67.0,False,1.5,100.701,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,43.0,2.0,HARD,21.0,True,1,True,2.0,18.4,28.2,67.0,False,2.1,99.932,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,44.0,2.0,HARD,22.0,True,1,True,2.0,18.4,28.1,67.0,False,2.5,99.435,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,45.0,2.0,HARD,23.0,True,1,True,2.0,18.4,27.8,67.0,False,2.1,99.437,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,46.0,2.0,HARD,24.0,True,1,True,2.0,18.3,27.7,67.0,False,2.2,99.718,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,47.0,2.0,HARD,25.0,True,1,True,2.0,18.2,27.6,67.0,False,1.7,100.113,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,48.0,2.0,HARD,26.0,True,1,True,2.0,18.2,27.4,67.0,False,2.8,99.646,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,49.0,2.0,HARD,27.0,True,1,True,2.0,18.2,28.0,68.0,False,2.1,99.716,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,50.0,2.0,HARD,28.0,True,1,True,2.0,18.2,28.0,68.0,False,2.0,100.177,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,51.0,2.0,HARD,29.0,True,1,True,2.0,18.2,27.6,67.0,False,3.4,99.949,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,52.0,2.0,HARD,30.0,True,1,True,2.0,18.2,27.7,68.0,False,3.1,99.944,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,53.0,2.0,HARD,31.0,True,1,True,2.0,18.2,27.6,68.0,False,1.1,100.208,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,54.0,2.0,HARD,32.0,True,1,True,2.0,18.2,27.9,68.0,False,0.9,100.217,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,55.0,2.0,HARD,33.0,True,1,True,2.0,18.2,27.4,67.0,False,1.5,100.686,False,56,2024,5,Chinese Grand Prix,2024_05
+NOR,McLaren,56.0,2.0,HARD,34.0,True,1,True,2.0,18.2,27.4,67.0,False,2.2,100.284,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,1.0,1.0,SOFT,1.0,True,1,False,19.0,18.8,30.3,66.0,False,1.4,111.502,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,2.0,1.0,SOFT,2.0,True,1,True,19.0,18.7,31.3,66.0,False,1.1,104.135,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,3.0,1.0,SOFT,3.0,True,1,True,18.0,18.8,30.4,65.0,False,1.0,102.906,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,4.0,1.0,SOFT,4.0,True,1,True,17.0,18.8,31.0,65.0,False,1.5,103.013,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,5.0,1.0,SOFT,5.0,True,1,True,17.0,19.0,30.5,65.0,False,3.2,103.499,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,6.0,1.0,SOFT,6.0,True,1,True,17.0,19.0,30.7,66.0,False,1.6,103.467,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,7.0,1.0,SOFT,7.0,True,1,True,17.0,19.0,31.0,66.0,False,2.1,104.056,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,8.0,1.0,SOFT,8.0,True,1,True,16.0,19.0,30.7,65.0,False,1.8,103.769,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,9.0,1.0,SOFT,9.0,True,1,False,17.0,19.0,30.7,65.0,False,2.3,107.942,True,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,10.0,2.0,MEDIUM,1.0,True,1,False,19.0,19.0,30.6,65.0,False,2.3,118.909,True,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,11.0,2.0,MEDIUM,2.0,True,1,True,18.0,18.9,30.2,65.0,False,3.2,101.409,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,12.0,2.0,MEDIUM,3.0,True,1,True,17.0,18.9,30.2,66.0,False,2.5,101.904,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,13.0,2.0,MEDIUM,4.0,True,1,True,15.0,18.8,30.5,66.0,False,1.2,101.927,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,14.0,2.0,MEDIUM,5.0,True,1,True,15.0,18.9,30.3,66.0,False,1.5,101.72,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,15.0,2.0,MEDIUM,6.0,True,1,True,14.0,18.8,30.1,66.0,False,1.0,102.314,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,16.0,2.0,MEDIUM,7.0,True,1,True,14.0,18.8,30.1,65.0,False,2.7,102.531,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,17.0,2.0,MEDIUM,8.0,True,1,True,13.0,18.6,29.8,66.0,False,2.5,102.223,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,18.0,2.0,MEDIUM,9.0,True,1,True,13.0,18.6,29.7,66.0,False,1.6,102.564,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,19.0,2.0,MEDIUM,10.0,True,1,True,13.0,18.6,29.9,67.0,False,2.5,102.854,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,20.0,2.0,MEDIUM,11.0,True,12,True,12.0,18.6,29.9,67.0,False,3.2,103.115,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,21.0,2.0,MEDIUM,12.0,True,26,False,14.0,18.7,29.6,66.0,False,3.5,122.779,True,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,22.0,3.0,HARD,1.0,True,6,False,17.0,18.6,29.5,66.0,False,3.4,149.397,True,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,23.0,3.0,HARD,2.0,True,64,False,17.0,18.6,29.4,66.0,False,2.5,133.536,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,24.0,3.0,HARD,3.0,True,4,False,14.0,18.6,29.7,67.0,False,1.0,133.117,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,25.0,3.0,HARD,4.0,True,4,False,13.0,18.6,29.4,66.0,False,2.0,114.977,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,26.0,3.0,HARD,5.0,True,41,False,12.0,18.7,29.4,66.0,False,2.7,147.219,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,27.0,3.0,HARD,6.0,True,124,False,11.0,18.7,29.5,66.0,False,2.6,115.435,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,28.0,3.0,HARD,7.0,True,4,False,11.0,18.6,29.2,67.0,False,2.7,147.598,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,29.0,3.0,HARD,8.0,True,4,False,11.0,18.6,29.2,67.0,False,1.1,144.889,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,30.0,3.0,HARD,9.0,True,4,False,11.0,18.5,29.2,67.0,False,2.5,141.1,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,31.0,3.0,HARD,10.0,True,41,False,11.0,18.4,28.9,67.0,False,1.5,142.834,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,32.0,3.0,HARD,11.0,True,1,True,10.0,18.5,28.8,66.0,False,1.8,101.118,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,33.0,3.0,HARD,12.0,True,1,True,10.0,18.3,28.8,67.0,False,1.7,100.857,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,34.0,3.0,HARD,13.0,True,1,True,10.0,18.4,28.9,67.0,False,1.8,100.835,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,35.0,3.0,HARD,14.0,True,1,True,10.0,18.3,28.9,67.0,False,2.0,100.908,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,36.0,3.0,HARD,15.0,True,1,True,10.0,18.3,28.9,67.0,False,2.1,101.289,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,37.0,3.0,HARD,16.0,True,1,True,10.0,18.4,28.7,67.0,False,2.1,101.215,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,38.0,3.0,HARD,17.0,True,1,True,10.0,18.4,28.5,67.0,False,2.2,100.974,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,39.0,3.0,HARD,18.0,True,1,True,10.0,18.4,28.5,67.0,False,1.4,101.113,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,40.0,3.0,HARD,19.0,True,1,True,10.0,18.4,28.5,68.0,False,1.2,101.5,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,41.0,3.0,HARD,20.0,True,1,True,9.0,18.4,28.3,68.0,False,1.9,100.882,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,42.0,3.0,HARD,21.0,True,1,True,9.0,18.4,28.4,67.0,False,1.5,101.068,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,43.0,3.0,HARD,22.0,True,1,True,9.0,18.4,28.2,67.0,False,2.1,101.222,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,44.0,3.0,HARD,23.0,True,1,True,8.0,18.4,27.9,67.0,False,2.4,100.915,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,45.0,3.0,HARD,24.0,True,1,True,8.0,18.3,27.7,67.0,False,3.0,101.098,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,46.0,3.0,HARD,25.0,True,1,True,8.0,18.3,27.7,67.0,False,2.2,101.341,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,47.0,3.0,HARD,26.0,True,1,True,8.0,18.2,27.4,67.0,False,3.2,101.376,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,48.0,3.0,HARD,27.0,True,1,True,8.0,18.2,27.9,68.0,False,2.3,101.315,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,49.0,3.0,HARD,28.0,True,1,True,9.0,18.2,28.0,68.0,False,2.1,101.92,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,50.0,3.0,HARD,29.0,True,1,True,9.0,18.2,27.7,68.0,False,3.3,101.306,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,51.0,3.0,HARD,30.0,True,1,True,9.0,18.2,27.6,68.0,False,3.2,101.485,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,52.0,3.0,HARD,31.0,True,1,True,9.0,18.2,27.7,68.0,False,3.1,101.461,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,53.0,3.0,HARD,32.0,True,1,True,9.0,18.2,27.7,68.0,False,1.4,101.521,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,54.0,3.0,HARD,33.0,True,1,True,9.0,18.2,27.5,68.0,False,1.5,101.493,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,55.0,3.0,HARD,34.0,True,1,True,9.0,18.2,27.4,67.0,False,1.5,101.604,False,56,2024,5,Chinese Grand Prix,2024_05
+HAM,Mercedes,56.0,3.0,HARD,35.0,True,1,True,9.0,18.2,27.3,68.0,False,1.1,102.084,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,18.8,30.3,66.0,False,1.4,107.147,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,18.7,31.3,66.0,False,1.1,102.115,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,18.7,31.0,65.0,False,1.3,101.979,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,18.8,31.0,65.0,False,1.5,102.145,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,19.0,30.5,65.0,False,3.2,102.21,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,19.0,30.7,66.0,False,1.6,102.409,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,19.0,31.0,66.0,False,2.1,102.783,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,19.0,30.7,65.0,False,1.8,102.951,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,19.0,30.7,65.0,False,2.3,102.8,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,19.0,30.7,65.0,False,1.9,103.238,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,19.0,30.3,65.0,False,2.9,103.299,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,18.9,30.2,66.0,False,2.5,102.603,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,18.8,30.5,66.0,False,1.2,102.4,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,18.8,30.5,65.0,False,2.1,103.087,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,18.9,30.3,65.0,False,1.3,102.792,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,18.8,30.1,65.0,False,2.7,102.693,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,False,5.0,18.8,29.8,66.0,False,1.7,107.863,True,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,18.0,2.0,HARD,1.0,True,1,False,9.0,18.6,29.9,67.0,False,3.2,118.852,True,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,19.0,2.0,HARD,2.0,True,1,True,9.0,18.6,29.9,67.0,False,2.5,99.764,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,20.0,2.0,HARD,3.0,True,12,True,9.0,18.6,29.9,67.0,False,3.2,100.661,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,21.0,2.0,HARD,4.0,True,26,False,8.0,18.7,29.6,66.0,False,3.5,115.808,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,22.0,2.0,HARD,5.0,True,6,False,8.0,18.6,29.6,66.0,False,2.6,134.775,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,23.0,2.0,HARD,6.0,True,64,False,8.0,18.6,29.4,66.0,False,2.5,133.108,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,24.0,2.0,HARD,7.0,True,4,False,6.0,18.6,29.7,67.0,False,1.9,133.409,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,25.0,2.0,HARD,8.0,True,4,False,5.0,18.6,29.4,67.0,False,1.9,136.459,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,26.0,2.0,HARD,9.0,True,41,False,5.0,18.6,29.4,66.0,False,1.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,27.0,2.0,HARD,10.0,True,124,False,6.0,18.7,29.5,66.0,False,2.6,112.235,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,28.0,2.0,HARD,11.0,True,4,False,6.0,18.6,29.2,67.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,29.0,2.0,HARD,12.0,True,4,False,6.0,18.6,29.2,67.0,False,1.1,145.926,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,30.0,2.0,HARD,13.0,True,4,False,6.0,18.5,29.2,67.0,False,2.5,141.876,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,31.0,2.0,HARD,14.0,True,41,False,6.0,18.4,28.9,67.0,False,1.5,144.652,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,32.0,2.0,HARD,15.0,True,1,True,6.0,18.5,28.8,66.0,False,1.8,100.401,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,33.0,2.0,HARD,16.0,True,1,True,6.0,18.3,28.8,67.0,False,1.7,100.048,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,34.0,2.0,HARD,17.0,True,1,True,6.0,18.4,28.9,67.0,False,1.8,100.416,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,35.0,2.0,HARD,18.0,True,1,True,6.0,18.3,28.9,67.0,False,2.0,100.311,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,36.0,2.0,HARD,19.0,True,1,True,6.0,18.3,28.9,67.0,False,2.1,100.615,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,37.0,2.0,HARD,20.0,True,1,True,6.0,18.4,28.7,67.0,False,2.1,100.726,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,38.0,2.0,HARD,21.0,True,1,True,6.0,18.4,28.5,67.0,False,2.2,100.603,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,39.0,2.0,HARD,22.0,True,1,True,6.0,18.4,28.5,67.0,False,1.4,100.497,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,40.0,2.0,HARD,23.0,True,1,True,6.0,18.4,28.5,68.0,False,1.2,100.875,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,41.0,2.0,HARD,24.0,True,1,True,6.0,18.4,28.3,68.0,False,1.9,100.299,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,42.0,2.0,HARD,25.0,True,1,True,6.0,18.4,28.4,67.0,False,1.5,100.756,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,43.0,2.0,HARD,26.0,True,1,True,5.0,18.4,28.2,67.0,False,2.1,100.345,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,44.0,2.0,HARD,27.0,True,1,True,5.0,18.4,27.9,67.0,False,2.4,100.109,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,45.0,2.0,HARD,28.0,True,1,True,5.0,18.4,27.8,67.0,False,2.1,100.22,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,46.0,2.0,HARD,29.0,True,1,True,5.0,18.3,27.7,67.0,False,2.2,100.227,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,47.0,2.0,HARD,30.0,True,1,True,5.0,18.2,27.4,67.0,False,3.2,100.602,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,48.0,2.0,HARD,31.0,True,1,True,5.0,18.2,27.4,67.0,False,2.8,100.471,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,49.0,2.0,HARD,32.0,True,1,True,5.0,18.2,28.0,68.0,False,2.1,100.109,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,50.0,2.0,HARD,33.0,True,1,True,5.0,18.2,27.7,68.0,False,3.3,100.352,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,51.0,2.0,HARD,34.0,True,1,True,5.0,18.2,27.6,67.0,False,3.4,100.239,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,52.0,2.0,HARD,35.0,True,1,True,5.0,18.2,27.7,68.0,False,3.1,100.413,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,53.0,2.0,HARD,36.0,True,1,True,5.0,18.2,27.7,68.0,False,1.4,100.561,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,54.0,2.0,HARD,37.0,True,1,True,5.0,18.2,27.9,68.0,False,0.9,100.281,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,55.0,2.0,HARD,38.0,True,1,True,5.0,18.2,27.4,67.0,False,1.5,100.711,False,56,2024,5,Chinese Grand Prix,2024_05
+SAI,Ferrari,56.0,2.0,HARD,39.0,True,1,True,5.0,18.2,27.3,68.0,False,1.1,100.41,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,18.8,30.3,66.0,False,1.4,105.746,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,18.7,31.3,66.0,False,1.1,101.696,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,18.7,31.0,65.0,False,1.3,101.771,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,18.8,31.0,65.0,False,1.5,102.413,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,19.0,30.5,65.0,False,3.2,102.185,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,19.0,30.7,66.0,False,1.6,102.597,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,19.0,31.0,66.0,False,2.1,102.589,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,19.0,30.7,65.0,False,1.8,103.114,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,19.0,30.7,65.0,False,2.3,103.985,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,19.0,30.7,65.0,False,1.9,103.227,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,False,8.0,19.0,30.3,65.0,False,2.9,108.016,True,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,12.0,2.0,MEDIUM,1.0,True,1,False,10.0,18.9,30.2,66.0,False,2.5,118.003,True,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,13.0,2.0,MEDIUM,2.0,True,1,True,9.0,18.8,30.5,66.0,False,1.2,100.785,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,14.0,2.0,MEDIUM,3.0,True,1,True,8.0,18.9,30.3,66.0,False,1.5,101.754,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,15.0,2.0,MEDIUM,4.0,True,1,True,8.0,18.9,30.3,65.0,False,1.3,101.308,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,16.0,2.0,MEDIUM,5.0,True,1,True,8.0,18.8,30.1,65.0,False,2.7,101.4,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,17.0,2.0,MEDIUM,6.0,True,1,True,7.0,18.6,29.8,66.0,False,2.5,101.376,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,18.0,2.0,MEDIUM,7.0,True,1,True,6.0,18.6,29.9,67.0,False,3.2,101.491,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,19.0,2.0,MEDIUM,8.0,True,1,True,6.0,18.6,29.9,67.0,False,2.5,101.416,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,20.0,2.0,MEDIUM,9.0,True,12,True,6.0,18.6,29.9,67.0,False,3.2,102.067,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,21.0,2.0,MEDIUM,10.0,True,26,False,6.0,18.6,29.9,66.0,False,3.1,112.13,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,22.0,2.0,MEDIUM,11.0,True,6,False,6.0,18.6,29.6,66.0,False,2.6,133.433,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,23.0,2.0,MEDIUM,12.0,True,64,False,7.0,18.6,29.4,66.0,False,2.5,138.074,True,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,24.0,3.0,HARD,1.0,True,4,False,8.0,18.6,29.7,67.0,False,1.9,148.872,True,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,25.0,3.0,HARD,2.0,True,4,False,7.0,18.6,29.4,67.0,False,1.9,131.356,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,26.0,3.0,HARD,3.0,True,41,False,7.0,18.7,29.4,66.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,27.0,3.0,HARD,4.0,True,124,False,7.0,18.7,29.5,66.0,False,2.6,113.377,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,28.0,3.0,HARD,5.0,True,4,False,7.0,18.6,29.2,67.0,False,2.7,149.234,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,29.0,3.0,HARD,6.0,True,4,False,7.0,18.6,29.2,67.0,False,1.1,145.225,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,30.0,3.0,HARD,7.0,True,4,False,7.0,18.5,29.2,67.0,False,2.5,141.655,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,31.0,3.0,HARD,8.0,True,41,False,7.0,18.4,28.9,67.0,False,1.5,144.253,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,32.0,3.0,HARD,9.0,True,1,True,7.0,18.5,28.8,66.0,False,1.8,100.69,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,33.0,3.0,HARD,10.0,True,1,True,7.0,18.3,28.8,67.0,False,1.7,100.476,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,34.0,3.0,HARD,11.0,True,1,True,7.0,18.4,28.9,67.0,False,1.8,100.467,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,35.0,3.0,HARD,12.0,True,1,True,7.0,18.3,28.9,67.0,False,2.0,100.493,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,36.0,3.0,HARD,13.0,True,1,True,7.0,18.3,28.9,67.0,False,2.1,100.496,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,37.0,3.0,HARD,14.0,True,1,True,7.0,18.4,28.7,67.0,False,2.1,100.687,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,38.0,3.0,HARD,15.0,True,1,True,7.0,18.4,28.5,67.0,False,2.2,100.451,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,39.0,3.0,HARD,16.0,True,1,True,7.0,18.4,28.5,67.0,False,1.4,100.112,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,40.0,3.0,HARD,17.0,True,1,True,7.0,18.4,28.5,68.0,False,1.2,100.78,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,41.0,3.0,HARD,18.0,True,1,True,7.0,18.4,28.3,68.0,False,1.9,101.024,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,42.0,3.0,HARD,19.0,True,1,True,7.0,18.4,28.4,67.0,False,1.5,100.772,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,43.0,3.0,HARD,20.0,True,1,True,6.0,18.4,28.2,67.0,False,2.1,100.681,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,44.0,3.0,HARD,21.0,True,1,True,6.0,18.4,27.9,67.0,False,2.4,100.38,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,45.0,3.0,HARD,22.0,True,1,True,6.0,18.4,27.8,67.0,False,2.1,100.619,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,46.0,3.0,HARD,23.0,True,1,True,6.0,18.3,27.7,67.0,False,2.2,100.38,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,47.0,3.0,HARD,24.0,True,1,True,6.0,18.2,27.4,67.0,False,3.2,100.404,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,48.0,3.0,HARD,25.0,True,1,True,6.0,18.2,27.4,67.0,False,2.8,100.394,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,49.0,3.0,HARD,26.0,True,1,True,6.0,18.2,28.0,68.0,False,2.1,100.218,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,50.0,3.0,HARD,27.0,True,1,True,6.0,18.2,27.7,68.0,False,3.3,100.466,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,51.0,3.0,HARD,28.0,True,1,True,6.0,18.2,27.6,67.0,False,3.4,100.334,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,52.0,3.0,HARD,29.0,True,1,True,6.0,18.2,27.7,68.0,False,3.1,100.731,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,53.0,3.0,HARD,30.0,True,1,True,6.0,18.2,27.7,68.0,False,1.4,100.67,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,54.0,3.0,HARD,31.0,True,1,True,6.0,18.2,27.9,68.0,False,0.9,100.84,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,55.0,3.0,HARD,32.0,True,1,True,6.0,18.2,27.4,67.0,False,1.5,101.429,False,56,2024,5,Chinese Grand Prix,2024_05
+RUS,Mercedes,56.0,3.0,HARD,33.0,True,1,True,6.0,18.2,27.3,68.0,False,1.1,100.793,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,18.8,30.3,66.0,False,1.4,108.149,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,18.7,31.3,66.0,False,1.1,103.041,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,18.8,30.4,65.0,False,1.0,102.548,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,18.8,31.0,65.0,False,1.5,103.032,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,19.0,30.5,65.0,False,3.2,103.192,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,19.0,30.7,66.0,False,1.6,103.151,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,19.0,31.0,66.0,False,2.1,102.959,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,19.0,30.7,65.0,False,1.8,103.45,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,False,11.0,19.0,30.7,65.0,False,2.3,107.977,True,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,10.0,2.0,HARD,1.0,True,1,False,15.0,19.0,30.6,65.0,False,2.3,121.016,True,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,11.0,2.0,HARD,2.0,True,1,True,15.0,18.9,30.2,65.0,False,3.2,101.276,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,12.0,2.0,HARD,3.0,True,1,True,14.0,18.9,30.2,66.0,False,2.5,101.994,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,13.0,2.0,HARD,4.0,True,1,True,13.0,18.8,30.5,66.0,False,1.2,102.144,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,14.0,2.0,HARD,5.0,True,1,True,13.0,18.9,30.3,66.0,False,1.5,102.359,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,15.0,2.0,HARD,6.0,True,1,True,12.0,18.9,30.3,65.0,False,1.3,102.391,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,16.0,2.0,HARD,7.0,True,1,True,12.0,18.8,30.1,65.0,False,2.7,102.215,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,17.0,2.0,HARD,8.0,True,1,True,11.0,18.6,29.8,66.0,False,2.5,102.606,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,18.0,2.0,HARD,9.0,True,1,True,11.0,18.6,29.7,66.0,False,1.6,102.768,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,19.0,2.0,HARD,10.0,True,1,True,11.0,18.6,29.9,67.0,False,2.5,102.252,False,56,2024,5,Chinese Grand Prix,2024_05
+BOT,Kick Sauber,20.0,2.0,HARD,11.0,True,12,False,,18.6,29.9,67.0,False,3.2,,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,18.8,30.3,66.0,False,1.4,105.121,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,18.7,31.3,66.0,False,1.1,101.607,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,18.7,31.0,65.0,False,1.3,101.754,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,18.8,31.0,65.0,False,1.5,102.247,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,19.0,30.5,65.0,False,3.2,102.227,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,19.0,30.7,66.0,False,1.6,102.608,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,19.0,31.0,66.0,False,2.1,102.376,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,19.0,30.7,65.0,False,1.8,102.627,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,19.0,30.7,65.0,False,2.3,102.976,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,19.0,30.7,65.0,False,1.9,102.658,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,19.0,30.3,65.0,False,2.9,103.456,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,18.9,30.2,66.0,False,2.5,102.975,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,18.8,30.5,66.0,False,1.2,102.871,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,18.8,30.5,65.0,False,2.1,103.139,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,18.9,30.3,65.0,False,1.3,102.645,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,False,6.0,18.8,30.1,65.0,False,2.7,107.643,True,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,17.0,2.0,MEDIUM,2.0,False,1,False,9.0,18.8,29.8,66.0,False,1.7,119.282,True,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,18.0,2.0,MEDIUM,3.0,False,1,True,7.0,18.6,29.9,67.0,False,3.2,99.739,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,19.0,2.0,MEDIUM,4.0,False,1,True,7.0,18.6,29.9,67.0,False,2.5,100.632,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,20.0,2.0,MEDIUM,5.0,False,12,True,7.0,18.6,29.9,67.0,False,3.2,100.478,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,21.0,2.0,MEDIUM,6.0,False,26,False,7.0,18.6,29.9,66.0,False,3.1,112.541,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,22.0,2.0,MEDIUM,7.0,False,6,False,7.0,18.6,29.6,66.0,False,2.6,135.352,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,23.0,2.0,MEDIUM,8.0,False,64,False,6.0,18.6,29.4,66.0,False,2.5,132.376,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,24.0,2.0,MEDIUM,9.0,False,4,False,5.0,18.6,29.7,67.0,False,1.9,137.575,True,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,25.0,3.0,HARD,1.0,True,4,False,8.0,18.6,29.4,67.0,False,1.9,145.072,True,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,26.0,3.0,HARD,2.0,True,41,False,8.0,18.7,29.4,66.0,False,2.7,,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,27.0,3.0,HARD,3.0,True,124,False,8.0,18.7,29.5,66.0,False,2.6,114.121,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,28.0,3.0,HARD,4.0,True,4,False,8.0,18.6,29.2,67.0,False,2.7,149.005,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,29.0,3.0,HARD,5.0,True,4,False,8.0,18.6,29.2,67.0,False,1.1,145.655,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,30.0,3.0,HARD,6.0,True,4,False,8.0,18.5,29.2,67.0,False,2.5,141.071,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,31.0,3.0,HARD,7.0,True,41,False,8.0,18.4,28.9,67.0,False,1.5,144.001,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,32.0,3.0,HARD,8.0,True,1,True,8.0,18.5,28.8,66.0,False,1.8,101.017,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,33.0,3.0,HARD,9.0,True,1,True,8.0,18.3,28.8,67.0,False,1.7,100.725,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,34.0,3.0,HARD,10.0,True,1,True,8.0,18.4,28.9,67.0,False,1.8,100.748,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,35.0,3.0,HARD,11.0,True,1,True,8.0,18.3,28.9,67.0,False,2.0,100.397,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,36.0,3.0,HARD,12.0,True,1,True,8.0,18.3,28.9,67.0,False,2.1,101.5,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,37.0,3.0,HARD,13.0,True,1,True,8.0,18.4,28.7,67.0,False,2.1,101.45,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,38.0,3.0,HARD,14.0,True,1,True,8.0,18.4,28.5,67.0,False,2.2,100.946,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,39.0,3.0,HARD,15.0,True,1,True,8.0,18.4,28.5,67.0,False,1.4,101.496,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,40.0,3.0,HARD,16.0,True,1,True,8.0,18.4,28.5,68.0,False,1.2,101.119,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,41.0,3.0,HARD,17.0,True,1,True,8.0,18.4,28.3,68.0,False,1.9,101.621,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,42.0,3.0,HARD,18.0,True,1,True,8.0,18.4,28.4,67.0,False,1.5,101.01,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,43.0,3.0,HARD,19.0,True,1,True,8.0,18.4,28.2,67.0,False,2.1,100.876,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,44.0,3.0,HARD,20.0,True,1,True,7.0,18.4,27.9,67.0,False,2.4,101.004,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,45.0,3.0,HARD,21.0,True,1,True,7.0,18.3,27.7,67.0,False,3.0,101.301,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,46.0,3.0,HARD,22.0,True,1,True,7.0,18.3,27.7,67.0,False,2.2,101.294,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,47.0,3.0,HARD,23.0,True,1,True,7.0,18.2,27.4,67.0,False,3.2,101.45,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,48.0,3.0,HARD,24.0,True,1,True,7.0,18.2,27.9,68.0,False,2.3,101.437,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,49.0,3.0,HARD,25.0,True,1,True,8.0,18.2,28.0,68.0,False,2.1,102.046,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,50.0,3.0,HARD,26.0,True,1,True,8.0,18.2,27.7,68.0,False,3.3,101.297,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,51.0,3.0,HARD,27.0,True,1,True,8.0,18.2,27.6,68.0,False,3.2,101.331,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,52.0,3.0,HARD,28.0,True,1,True,8.0,18.2,27.7,68.0,False,3.1,101.602,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,53.0,3.0,HARD,29.0,True,1,True,8.0,18.2,27.7,68.0,False,1.4,101.471,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,54.0,3.0,HARD,30.0,True,1,True,8.0,18.2,27.5,68.0,False,1.5,101.647,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,55.0,3.0,HARD,31.0,True,1,True,8.0,18.2,27.4,67.0,False,1.5,101.45,False,56,2024,5,Chinese Grand Prix,2024_05
+PIA,McLaren,56.0,3.0,HARD,32.0,True,1,True,8.0,18.2,27.3,68.0,False,1.1,101.61,False,56,2024,5,Chinese Grand Prix,2024_05

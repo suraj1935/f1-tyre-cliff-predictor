@@ -1,0 +1,1230 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,28.7,33.6,80.0,False,0.4,103.905,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,28.9,34.2,80.0,False,0.6,99.149,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,28.9,33.3,81.0,False,0.5,98.035,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,29.1,34.5,80.0,False,0.8,97.57,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,29.1,34.5,80.0,False,0.8,97.184,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,29.0,33.8,78.0,False,1.0,96.854,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,12,True,1.0,29.1,33.8,78.0,False,1.4,96.768,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,29.0,33.8,78.0,False,1.9,96.655,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,29.1,34.1,77.0,False,1.4,96.726,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,29.1,34.0,76.0,False,1.8,96.665,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,29.1,34.2,75.0,False,1.7,96.712,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,29.0,34.3,74.0,False,1.9,96.485,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,29.0,34.0,73.0,False,1.9,96.63,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,29.0,34.0,73.0,False,1.6,96.822,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,29.1,34.3,72.0,False,1.6,97.152,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,29.1,34.0,72.0,False,2.1,96.903,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,29.2,33.8,72.0,False,2.1,96.973,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,29.2,33.8,72.0,False,1.8,97.039,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,29.3,34.1,72.0,False,1.1,96.916,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,29.2,33.8,73.0,False,0.9,97.259,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,29.2,33.8,73.0,False,1.0,97.109,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,29.2,34.0,71.0,False,1.3,97.226,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,29.2,33.8,72.0,False,1.1,97.158,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,29.2,33.7,72.0,False,1.3,97.199,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,False,1.0,29.3,33.8,72.0,False,1.4,103.178,True,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,26.0,2.0,HARD,1.0,True,1,False,3.0,29.3,33.7,71.0,False,1.4,113.098,True,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,27.0,2.0,HARD,2.0,True,1,True,2.0,29.2,33.7,72.0,False,1.4,95.676,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,28.0,2.0,HARD,3.0,True,1,True,1.0,29.2,33.7,72.0,False,1.1,95.843,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,29.0,2.0,HARD,4.0,True,1,True,1.0,29.2,33.9,73.0,False,1.1,95.795,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,30.0,2.0,HARD,5.0,True,1,True,1.0,29.2,33.9,72.0,False,1.3,96.027,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,31.0,2.0,HARD,6.0,True,1,True,1.0,29.2,33.8,72.0,False,1.1,95.912,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,32.0,2.0,HARD,7.0,True,1,True,1.0,29.2,33.8,72.0,False,1.3,95.836,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,33.0,2.0,HARD,8.0,True,1,True,1.0,29.2,33.9,71.0,False,1.3,96.123,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,34.0,2.0,HARD,9.0,True,1,True,1.0,29.2,33.7,71.0,False,1.2,95.904,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,35.0,2.0,HARD,10.0,True,1,True,1.0,29.1,34.0,72.0,False,1.3,95.879,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,36.0,2.0,HARD,11.0,True,1,True,1.0,29.1,34.0,71.0,False,1.0,95.91,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,37.0,2.0,HARD,12.0,True,1,True,1.0,29.2,33.9,71.0,False,1.4,96.119,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,38.0,2.0,HARD,13.0,True,1,True,1.0,29.2,34.0,71.0,False,1.0,96.189,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,39.0,2.0,HARD,14.0,True,1,True,1.0,29.2,33.7,72.0,False,0.5,96.248,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,40.0,2.0,HARD,15.0,True,1,True,1.0,29.2,33.9,72.0,False,0.8,96.357,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,41.0,2.0,HARD,16.0,True,1,True,1.0,29.3,34.3,71.0,False,1.5,96.128,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,42.0,2.0,HARD,17.0,True,1,True,1.0,29.3,34.1,71.0,False,0.8,97.0,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,43.0,2.0,HARD,18.0,True,1,True,1.0,29.4,34.1,71.0,False,0.9,97.065,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,44.0,2.0,HARD,19.0,True,1,True,1.0,29.3,33.5,71.0,False,0.6,97.89,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,45.0,2.0,HARD,20.0,True,12,True,1.0,29.4,33.9,71.0,False,0.7,97.401,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,46.0,2.0,HARD,21.0,True,1,True,1.0,29.4,33.9,71.0,False,0.6,97.026,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,47.0,2.0,HARD,22.0,True,1,True,1.0,29.4,34.1,71.0,False,0.5,96.761,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,48.0,2.0,HARD,23.0,True,1,True,1.0,29.5,33.6,70.0,False,0.9,96.183,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,49.0,2.0,HARD,24.0,True,1,True,1.0,29.5,34.0,70.0,False,1.2,96.077,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,50.0,2.0,HARD,25.0,True,1,True,1.0,29.5,33.5,72.0,False,0.7,96.223,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,51.0,2.0,HARD,26.0,True,1,True,1.0,29.4,33.6,73.0,False,0.9,97.317,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,52.0,2.0,HARD,27.0,True,1,True,1.0,29.4,33.3,73.0,False,0.9,97.388,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,53.0,2.0,HARD,28.0,True,1,True,1.0,29.4,33.3,72.0,False,0.6,96.261,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,54.0,2.0,HARD,29.0,True,1,True,1.0,29.3,33.6,74.0,False,1.1,96.254,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,55.0,2.0,HARD,30.0,True,1,True,1.0,29.4,33.6,74.0,False,1.3,96.153,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,56.0,2.0,HARD,31.0,True,1,True,1.0,29.5,33.1,72.0,False,1.1,96.333,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,57.0,2.0,HARD,32.0,True,1,True,1.0,29.5,33.3,73.0,False,0.3,96.133,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,58.0,2.0,HARD,33.0,True,1,True,1.0,29.5,33.3,72.0,False,0.9,96.088,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,59.0,2.0,HARD,34.0,True,1,True,1.0,29.5,33.5,72.0,False,1.2,96.405,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,60.0,2.0,HARD,35.0,True,1,True,1.0,29.4,33.5,71.0,False,1.4,96.381,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,61.0,2.0,HARD,36.0,True,1,True,1.0,29.4,33.3,72.0,False,1.7,96.257,False,62,2025,18,Singapore Grand Prix,2025_18
+RUS,Mercedes,62.0,2.0,HARD,37.0,True,1,True,1.0,29.4,33.6,72.0,False,1.4,96.455,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,1.0,1.0,SOFT,4.0,False,1,False,2.0,28.7,33.6,80.0,False,0.4,104.887,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,2.0,1.0,SOFT,5.0,False,1,True,2.0,28.9,34.2,80.0,False,0.6,99.698,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,3.0,1.0,SOFT,6.0,False,1,True,2.0,28.9,33.3,81.0,False,0.5,98.481,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,4.0,1.0,SOFT,7.0,False,1,True,2.0,29.1,34.5,80.0,False,0.8,98.077,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,5.0,1.0,SOFT,8.0,False,1,True,2.0,29.1,34.1,78.0,False,1.0,97.504,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,6.0,1.0,SOFT,9.0,False,1,True,2.0,29.0,33.8,78.0,False,1.0,97.326,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,7.0,1.0,SOFT,10.0,False,12,True,2.0,29.1,33.8,78.0,False,1.4,97.149,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,8.0,1.0,SOFT,11.0,False,1,True,2.0,29.0,33.8,78.0,False,1.9,97.136,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,9.0,1.0,SOFT,12.0,False,1,True,2.0,29.1,34.1,77.0,False,1.4,97.165,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,10.0,1.0,SOFT,13.0,False,1,True,2.0,29.1,34.0,76.0,False,1.8,97.239,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,11.0,1.0,SOFT,14.0,False,1,True,2.0,29.1,34.2,75.0,False,1.7,97.223,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,12.0,1.0,SOFT,15.0,False,1,True,2.0,29.0,34.3,74.0,False,1.9,97.187,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,13.0,1.0,SOFT,16.0,False,1,True,2.0,29.0,34.0,73.0,False,1.9,97.332,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,14.0,1.0,SOFT,17.0,False,1,True,2.0,29.0,34.0,73.0,False,1.6,97.472,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,15.0,1.0,SOFT,18.0,False,1,True,2.0,29.1,34.3,72.0,False,1.6,97.292,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,16.0,1.0,SOFT,19.0,False,1,True,2.0,29.1,34.0,72.0,False,2.1,97.318,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,17.0,1.0,SOFT,20.0,False,1,True,2.0,29.2,33.8,72.0,False,2.1,97.231,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,18.0,1.0,SOFT,21.0,False,1,True,2.0,29.2,34.1,72.0,False,1.9,97.449,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,19.0,1.0,SOFT,22.0,False,1,False,4.0,29.3,34.1,72.0,False,1.1,103.287,True,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,20.0,2.0,HARD,1.0,True,1,False,7.0,29.2,33.8,73.0,False,0.9,113.036,True,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,21.0,2.0,HARD,2.0,True,1,True,7.0,29.2,34.0,72.0,False,1.2,96.786,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,22.0,2.0,HARD,3.0,True,1,True,6.0,29.2,34.0,71.0,False,1.3,96.33,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,23.0,2.0,HARD,4.0,True,1,True,6.0,29.2,33.8,72.0,False,1.1,96.084,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,24.0,2.0,HARD,5.0,True,1,True,5.0,29.3,33.7,72.0,False,1.3,96.359,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,25.0,2.0,HARD,6.0,True,1,True,4.0,29.3,33.8,72.0,False,1.4,95.87,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,26.0,2.0,HARD,7.0,True,1,True,4.0,29.3,33.7,72.0,False,1.5,95.938,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,27.0,2.0,HARD,8.0,True,1,True,3.0,29.2,33.7,72.0,False,1.4,96.002,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,28.0,2.0,HARD,9.0,True,1,True,2.0,29.2,33.7,72.0,False,1.1,95.732,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,29.0,2.0,HARD,10.0,True,1,True,2.0,29.2,33.9,73.0,False,1.1,96.15,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,30.0,2.0,HARD,11.0,True,1,True,2.0,29.2,33.9,72.0,False,1.3,95.649,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,31.0,2.0,HARD,12.0,True,1,True,2.0,29.2,33.8,72.0,False,1.1,95.751,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,32.0,2.0,HARD,13.0,True,1,True,2.0,29.2,33.8,72.0,False,1.3,95.684,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,33.0,2.0,HARD,14.0,True,1,True,2.0,29.2,33.9,71.0,False,1.3,95.676,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,34.0,2.0,HARD,15.0,True,1,True,2.0,29.2,33.7,71.0,False,1.2,95.815,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,35.0,2.0,HARD,16.0,True,1,True,2.0,29.1,34.0,72.0,False,1.3,95.898,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,36.0,2.0,HARD,17.0,True,1,True,2.0,29.1,34.0,71.0,False,1.0,97.774,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,37.0,2.0,HARD,18.0,True,1,True,2.0,29.2,33.9,71.0,False,1.4,96.42,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,38.0,2.0,HARD,19.0,True,1,True,2.0,29.2,34.0,71.0,False,1.0,96.064,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,39.0,2.0,HARD,20.0,True,1,True,2.0,29.2,33.7,72.0,False,0.5,96.298,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,40.0,2.0,HARD,21.0,True,1,True,2.0,29.2,33.9,72.0,False,0.8,96.13,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,41.0,2.0,HARD,22.0,True,1,True,2.0,29.3,34.3,71.0,False,1.5,96.263,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,42.0,2.0,HARD,23.0,True,1,True,2.0,29.3,34.1,71.0,False,0.8,96.448,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,43.0,2.0,HARD,24.0,True,1,True,2.0,29.4,34.1,71.0,False,0.9,97.09,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,44.0,2.0,HARD,25.0,True,1,True,2.0,29.3,33.5,71.0,False,0.6,96.872,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,45.0,2.0,HARD,26.0,True,12,True,2.0,29.4,33.9,71.0,False,0.7,97.805,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,46.0,2.0,HARD,27.0,True,1,True,2.0,29.4,33.9,71.0,False,0.6,97.54,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,47.0,2.0,HARD,28.0,True,1,True,2.0,29.4,34.1,70.0,False,1.0,97.51,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,48.0,2.0,HARD,29.0,True,1,True,2.0,29.5,33.6,70.0,False,0.9,97.119,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,49.0,2.0,HARD,30.0,True,1,True,2.0,29.5,34.0,70.0,False,1.2,96.211,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,50.0,2.0,HARD,31.0,True,1,True,2.0,29.5,33.5,72.0,False,0.7,96.08,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,51.0,2.0,HARD,32.0,True,1,True,2.0,29.4,33.6,73.0,False,0.9,96.257,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,52.0,2.0,HARD,33.0,True,1,True,2.0,29.4,33.3,73.0,False,0.9,96.687,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,53.0,2.0,HARD,34.0,True,1,True,2.0,29.4,33.3,72.0,False,0.6,97.611,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,54.0,2.0,HARD,35.0,True,1,True,2.0,29.3,33.6,74.0,False,1.1,96.581,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,55.0,2.0,HARD,36.0,True,1,True,2.0,29.4,33.6,74.0,False,1.3,96.326,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,56.0,2.0,HARD,37.0,True,1,True,2.0,29.5,33.1,72.0,False,1.1,96.666,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,57.0,2.0,HARD,38.0,True,1,True,2.0,29.5,33.3,73.0,False,0.3,96.142,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,58.0,2.0,HARD,39.0,True,1,True,2.0,29.5,33.3,72.0,False,0.9,95.982,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,59.0,2.0,HARD,40.0,True,1,True,2.0,29.5,33.5,72.0,False,1.2,95.999,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,60.0,2.0,HARD,41.0,True,1,True,2.0,29.4,33.5,71.0,False,1.4,96.194,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,61.0,2.0,HARD,42.0,True,1,True,2.0,29.4,33.3,72.0,False,1.7,96.036,False,62,2025,18,Singapore Grand Prix,2025_18
+VER,Red Bull Racing,62.0,2.0,HARD,43.0,True,1,True,2.0,29.4,33.6,72.0,False,1.4,96.479,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,28.7,33.6,80.0,False,0.4,105.566,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,28.9,34.2,80.0,False,0.6,99.639,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,28.9,33.3,81.0,False,0.5,98.753,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,29.1,34.5,80.0,False,0.8,98.211,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,29.1,34.1,78.0,False,1.0,98.066,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,29.0,33.8,78.0,False,1.0,97.597,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,12,True,3.0,29.1,33.8,78.0,False,1.4,97.199,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,29.0,33.8,78.0,False,1.9,97.032,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,29.1,34.1,77.0,False,1.4,97.125,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,29.1,34.0,76.0,False,1.8,97.259,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,29.1,34.2,75.0,False,1.7,97.13,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,29.0,34.3,74.0,False,1.9,97.157,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,29.0,34.0,73.0,False,1.9,97.04,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,29.0,34.0,73.0,False,1.6,97.333,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,29.1,34.3,72.0,False,1.6,97.198,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,29.1,34.0,72.0,False,2.1,97.329,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,29.2,33.8,72.0,False,2.1,97.177,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,29.2,34.1,72.0,False,1.9,97.444,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,29.3,34.1,72.0,False,1.1,97.559,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,29.2,33.8,73.0,False,0.9,97.016,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,29.2,33.8,73.0,False,1.0,96.638,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,29.2,34.0,71.0,False,1.3,96.688,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,29.2,33.8,72.0,False,1.1,96.81,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,29.2,33.7,72.0,False,1.3,96.959,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,2.0,29.3,33.8,72.0,False,1.4,97.153,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,False,2.0,29.3,33.7,72.0,False,1.5,102.705,True,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,27.0,2.0,HARD,1.0,True,1,False,4.0,29.2,33.7,72.0,False,1.4,111.946,True,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,28.0,2.0,HARD,2.0,True,1,True,3.0,29.2,33.7,72.0,False,1.1,95.623,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,29.0,2.0,HARD,3.0,True,1,True,3.0,29.2,33.9,73.0,False,1.1,95.697,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,30.0,2.0,HARD,4.0,True,1,True,3.0,29.2,33.9,72.0,False,1.3,95.765,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,31.0,2.0,HARD,5.0,True,1,True,3.0,29.2,33.8,72.0,False,1.1,95.721,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,32.0,2.0,HARD,6.0,True,1,True,3.0,29.2,33.8,72.0,False,1.3,95.636,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,33.0,2.0,HARD,7.0,True,1,True,3.0,29.2,33.9,71.0,False,1.3,95.709,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,34.0,2.0,HARD,8.0,True,1,True,3.0,29.2,33.7,71.0,False,1.2,95.847,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,35.0,2.0,HARD,9.0,True,1,True,3.0,29.1,34.0,72.0,False,1.3,95.987,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,36.0,2.0,HARD,10.0,True,1,True,3.0,29.1,34.0,71.0,False,1.0,95.555,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,37.0,2.0,HARD,11.0,True,1,True,3.0,29.2,33.9,71.0,False,1.4,95.996,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,38.0,2.0,HARD,12.0,True,1,True,3.0,29.2,34.0,71.0,False,1.0,96.0,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,39.0,2.0,HARD,13.0,True,1,True,3.0,29.2,33.7,72.0,False,0.5,95.926,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,40.0,2.0,HARD,14.0,True,1,True,3.0,29.2,33.9,72.0,False,0.8,96.261,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,41.0,2.0,HARD,15.0,True,1,True,3.0,29.3,34.3,71.0,False,1.5,97.06,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,42.0,2.0,HARD,16.0,True,1,True,3.0,29.3,34.1,71.0,False,0.8,96.631,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,43.0,2.0,HARD,17.0,True,1,True,3.0,29.4,34.1,71.0,False,0.9,96.633,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,44.0,2.0,HARD,18.0,True,1,True,3.0,29.3,33.5,71.0,False,0.6,96.381,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,45.0,2.0,HARD,19.0,True,12,True,3.0,29.4,33.9,71.0,False,0.7,97.45,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,46.0,2.0,HARD,20.0,True,1,True,3.0,29.4,33.9,71.0,False,0.6,97.012,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,47.0,2.0,HARD,21.0,True,1,True,3.0,29.4,34.1,70.0,False,1.0,97.318,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,48.0,2.0,HARD,22.0,True,1,True,3.0,29.5,33.6,70.0,False,0.9,97.376,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,49.0,2.0,HARD,23.0,True,1,True,3.0,29.5,34.0,70.0,False,1.2,96.25,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,50.0,2.0,HARD,24.0,True,1,True,3.0,29.5,33.5,72.0,False,0.7,95.958,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,51.0,2.0,HARD,25.0,True,1,True,3.0,29.4,33.6,73.0,False,0.9,96.275,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,52.0,2.0,HARD,26.0,True,1,True,3.0,29.4,33.3,73.0,False,0.9,96.69,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,53.0,2.0,HARD,27.0,True,1,True,3.0,29.4,33.3,72.0,False,0.6,97.814,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,54.0,2.0,HARD,28.0,True,1,True,3.0,29.3,33.6,74.0,False,1.1,96.67,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,55.0,2.0,HARD,29.0,True,1,True,3.0,29.4,33.6,74.0,False,1.3,96.39,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,56.0,2.0,HARD,30.0,True,1,True,3.0,29.5,33.1,72.0,False,1.1,96.324,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,57.0,2.0,HARD,31.0,True,1,True,3.0,29.5,33.3,73.0,False,0.3,96.115,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,58.0,2.0,HARD,32.0,True,1,True,3.0,29.5,33.3,72.0,False,0.9,96.211,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,59.0,2.0,HARD,33.0,True,1,True,3.0,29.5,33.5,72.0,False,1.2,95.819,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,60.0,2.0,HARD,34.0,True,1,True,3.0,29.4,33.5,71.0,False,1.4,96.232,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,61.0,2.0,HARD,35.0,True,1,True,3.0,29.4,33.3,72.0,False,1.7,96.122,False,62,2025,18,Singapore Grand Prix,2025_18
+NOR,McLaren,62.0,2.0,HARD,36.0,True,1,True,3.0,29.4,33.6,72.0,False,1.4,96.25,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,28.7,33.6,80.0,False,0.4,106.982,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,28.9,34.2,80.0,False,0.6,100.284,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,28.9,33.3,81.0,False,0.5,98.968,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,29.1,34.5,80.0,False,0.8,98.418,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,29.1,34.1,78.0,False,1.0,97.949,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,29.0,33.8,78.0,False,1.0,97.924,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,12,True,4.0,29.1,33.8,78.0,False,1.4,97.249,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,29.0,33.8,78.0,False,1.9,97.212,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,29.1,34.1,77.0,False,1.4,97.212,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,29.1,34.0,76.0,False,1.8,97.736,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,29.1,34.2,75.0,False,1.7,97.428,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,29.0,34.3,74.0,False,1.9,97.685,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,29.0,33.9,74.0,False,2.2,97.334,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,29.0,34.0,73.0,False,1.6,97.478,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,29.1,34.3,72.0,False,1.6,97.412,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,29.1,34.0,72.0,False,2.1,97.347,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,29.2,33.8,72.0,False,2.1,97.388,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,29.2,34.1,72.0,False,1.9,96.923,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,29.3,34.1,72.0,False,1.1,97.117,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,29.2,33.8,73.0,False,0.9,96.992,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,3.0,29.2,34.0,72.0,False,1.2,96.796,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,29.2,34.0,71.0,False,1.3,96.609,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,29.2,33.8,72.0,False,1.1,96.846,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,29.2,33.7,72.0,False,1.3,97.546,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,29.3,33.8,72.0,False,1.4,96.701,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,29.3,33.7,72.0,False,1.5,96.84,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,27.0,1.0,MEDIUM,27.0,True,1,False,1.0,29.2,33.7,72.0,False,1.4,102.83,True,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,28.0,2.0,HARD,1.0,True,1,False,4.0,29.2,33.7,72.0,False,1.1,116.043,True,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,29.0,2.0,HARD,2.0,True,1,True,4.0,29.2,33.9,73.0,False,1.1,95.649,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,30.0,2.0,HARD,3.0,True,1,True,4.0,29.2,33.9,72.0,False,1.3,95.535,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,31.0,2.0,HARD,4.0,True,1,True,4.0,29.2,33.8,72.0,False,1.1,95.408,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,32.0,2.0,HARD,5.0,True,1,True,4.0,29.2,34.0,72.0,False,1.1,95.565,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,33.0,2.0,HARD,6.0,True,1,True,4.0,29.2,33.9,71.0,False,1.3,95.668,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,34.0,2.0,HARD,7.0,True,1,True,4.0,29.2,33.7,71.0,False,1.2,95.737,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,35.0,2.0,HARD,8.0,True,1,True,4.0,29.1,34.0,72.0,False,1.3,95.92,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,36.0,2.0,HARD,9.0,True,1,True,4.0,29.1,34.0,71.0,False,1.0,95.449,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,37.0,2.0,HARD,10.0,True,1,True,4.0,29.2,34.0,71.0,False,1.1,95.66,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,38.0,2.0,HARD,11.0,True,1,True,4.0,29.2,34.0,71.0,False,1.0,95.585,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,39.0,2.0,HARD,12.0,True,1,True,4.0,29.2,33.7,72.0,False,0.5,95.688,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,40.0,2.0,HARD,13.0,True,1,True,4.0,29.2,33.9,72.0,False,0.8,96.172,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,41.0,2.0,HARD,14.0,True,1,True,4.0,29.3,34.3,71.0,False,1.5,95.744,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,42.0,2.0,HARD,15.0,True,1,True,4.0,29.3,34.1,71.0,False,0.5,95.93,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,43.0,2.0,HARD,16.0,True,1,True,4.0,29.4,34.1,71.0,False,0.9,96.449,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,44.0,2.0,HARD,17.0,True,1,True,4.0,29.3,33.5,71.0,False,0.6,96.738,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,45.0,2.0,HARD,18.0,True,12,True,4.0,29.4,33.9,71.0,False,0.7,97.103,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,46.0,2.0,HARD,19.0,True,1,True,4.0,29.4,33.9,71.0,False,0.6,95.98,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,47.0,2.0,HARD,20.0,True,1,True,4.0,29.4,34.1,70.0,False,1.0,96.413,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,48.0,2.0,HARD,21.0,True,1,True,4.0,29.5,33.6,70.0,False,0.9,97.661,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,49.0,2.0,HARD,22.0,True,1,True,4.0,29.5,34.0,70.0,False,1.2,97.286,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,50.0,2.0,HARD,23.0,True,1,True,4.0,29.5,33.5,72.0,False,0.7,97.368,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,51.0,2.0,HARD,24.0,True,1,True,4.0,29.4,33.6,73.0,False,0.9,96.174,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,52.0,2.0,HARD,25.0,True,1,True,4.0,29.4,33.3,73.0,False,0.9,95.882,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,53.0,2.0,HARD,26.0,True,1,True,4.0,29.4,33.3,72.0,False,0.6,95.556,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,54.0,2.0,HARD,27.0,True,1,True,4.0,29.3,33.6,74.0,False,1.1,96.978,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,55.0,2.0,HARD,28.0,True,1,True,4.0,29.4,33.2,74.0,False,0.9,95.881,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,56.0,2.0,HARD,29.0,True,1,True,4.0,29.5,33.1,72.0,False,1.1,96.078,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,57.0,2.0,HARD,30.0,True,1,True,4.0,29.5,33.3,73.0,False,0.3,96.4,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,58.0,2.0,HARD,31.0,True,1,True,4.0,29.5,33.3,72.0,False,0.9,95.867,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,59.0,2.0,HARD,32.0,True,1,True,4.0,29.5,33.5,72.0,False,1.2,95.606,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,60.0,2.0,HARD,33.0,True,1,True,4.0,29.4,33.4,71.0,False,1.6,95.858,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,61.0,2.0,HARD,34.0,True,1,True,4.0,29.4,33.3,72.0,False,1.7,95.89,False,62,2025,18,Singapore Grand Prix,2025_18
+PIA,McLaren,62.0,2.0,HARD,35.0,True,1,True,4.0,29.4,33.6,72.0,False,1.4,96.386,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,28.7,33.6,80.0,False,0.4,107.862,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,28.9,34.2,80.0,False,0.6,101.392,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,28.9,33.3,81.0,False,0.5,99.261,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,29.1,34.5,80.0,False,0.8,98.206,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,29.1,34.1,78.0,False,1.0,98.044,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,29.0,33.8,78.0,False,1.0,97.733,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,7.0,1.0,MEDIUM,7.0,True,12,True,6.0,29.1,33.8,78.0,False,1.4,97.906,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,29.0,33.8,78.0,False,1.9,97.588,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,29.1,34.1,77.0,False,1.4,97.736,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,29.1,34.0,76.0,False,1.8,97.905,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,29.1,34.2,75.0,False,1.7,97.615,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,29.0,34.3,74.0,False,1.9,97.615,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,29.0,33.9,74.0,False,2.2,97.621,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,29.0,34.0,73.0,False,1.6,97.711,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,29.1,34.3,72.0,False,1.6,97.851,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,29.1,34.0,71.0,False,2.0,97.705,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,29.2,33.8,72.0,False,2.1,97.529,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,29.2,34.1,72.0,False,1.9,97.73,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,29.3,34.1,72.0,False,1.1,97.704,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,29.2,33.8,73.0,False,0.9,97.744,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,29.2,34.0,72.0,False,1.2,97.466,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,29.2,34.0,71.0,False,1.3,96.842,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,29.2,33.8,72.0,False,1.1,97.176,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,29.3,33.7,72.0,False,1.3,96.971,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,False,5.0,29.3,33.8,72.0,False,1.4,102.347,True,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,26.0,2.0,HARD,1.0,True,1,False,7.0,29.3,33.7,72.0,False,1.5,114.51,True,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,27.0,2.0,HARD,2.0,True,1,True,6.0,29.2,33.7,72.0,False,1.2,95.303,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,28.0,2.0,HARD,3.0,True,1,True,6.0,29.2,33.7,72.0,False,1.1,96.339,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,29.0,2.0,HARD,4.0,True,1,True,6.0,29.2,33.9,73.0,False,1.1,96.676,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,30.0,2.0,HARD,5.0,True,1,True,6.0,29.3,33.7,72.0,False,1.1,96.351,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,31.0,2.0,HARD,6.0,True,1,True,6.0,29.2,33.8,72.0,False,1.1,96.808,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,32.0,2.0,HARD,7.0,True,1,True,6.0,29.2,34.0,72.0,False,1.1,97.339,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,33.0,2.0,HARD,8.0,True,1,True,6.0,29.2,33.9,71.0,False,1.3,96.324,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,34.0,2.0,HARD,9.0,True,1,True,6.0,29.2,33.7,71.0,False,1.2,96.64,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,35.0,2.0,HARD,10.0,True,1,True,6.0,29.1,34.1,72.0,False,1.0,95.984,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,36.0,2.0,HARD,11.0,True,1,True,6.0,29.1,34.0,71.0,False,1.0,96.426,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,37.0,2.0,HARD,12.0,True,1,True,6.0,29.2,34.0,71.0,False,1.1,96.431,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,38.0,2.0,HARD,13.0,True,1,True,6.0,29.2,34.0,71.0,False,1.0,96.73,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,39.0,2.0,HARD,14.0,True,1,True,6.0,29.2,33.7,72.0,False,0.5,96.49,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,40.0,2.0,HARD,15.0,True,1,True,6.0,29.2,34.3,72.0,False,0.8,96.189,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,41.0,2.0,HARD,16.0,True,1,True,6.0,29.3,34.3,71.0,False,1.5,95.997,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,42.0,2.0,HARD,17.0,True,1,True,6.0,29.3,34.1,71.0,False,0.5,96.022,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,43.0,2.0,HARD,18.0,True,1,True,6.0,29.4,34.1,71.0,False,0.9,96.406,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,44.0,2.0,HARD,19.0,True,1,True,6.0,29.3,33.5,71.0,False,0.6,96.331,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,45.0,2.0,HARD,20.0,True,12,True,6.0,29.4,33.6,71.0,False,0.0,96.586,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,46.0,2.0,HARD,21.0,True,1,True,6.0,29.4,33.9,71.0,False,0.6,96.744,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,47.0,2.0,HARD,22.0,True,1,True,6.0,29.4,34.1,70.0,False,1.0,96.486,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,48.0,2.0,HARD,23.0,True,1,True,6.0,29.5,33.6,70.0,False,0.9,96.136,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,49.0,2.0,HARD,24.0,True,1,True,6.0,29.5,34.0,70.0,False,1.2,97.413,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,50.0,2.0,HARD,25.0,True,1,True,6.0,29.5,33.4,73.0,False,0.7,96.287,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,51.0,2.0,HARD,26.0,True,1,True,6.0,29.4,33.6,73.0,False,0.9,97.036,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,52.0,2.0,HARD,27.0,True,1,True,6.0,29.4,33.3,73.0,False,0.9,97.788,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,53.0,2.0,HARD,28.0,True,1,True,5.0,29.3,33.3,73.0,False,0.6,97.875,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,54.0,2.0,HARD,29.0,True,1,True,5.0,29.3,33.6,74.0,False,1.1,96.969,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,55.0,2.0,HARD,30.0,True,1,True,5.0,29.4,33.2,74.0,False,0.9,96.558,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,56.0,2.0,HARD,31.0,True,1,True,5.0,29.5,33.1,72.0,False,1.1,96.629,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,57.0,2.0,HARD,32.0,True,1,True,5.0,29.5,33.3,73.0,False,0.3,96.303,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,58.0,2.0,HARD,33.0,True,1,True,5.0,29.5,33.5,72.0,False,1.5,96.307,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,59.0,2.0,HARD,34.0,True,1,True,5.0,29.5,33.5,72.0,False,1.2,97.901,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,60.0,2.0,HARD,35.0,True,1,True,5.0,29.4,33.4,71.0,False,1.6,96.757,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,61.0,2.0,HARD,36.0,True,1,True,5.0,29.4,33.3,72.0,False,1.7,96.394,False,62,2025,18,Singapore Grand Prix,2025_18
+ANT,Mercedes,62.0,2.0,HARD,37.0,True,1,True,5.0,29.4,33.6,72.0,False,1.4,99.323,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,28.7,33.6,80.0,False,0.4,107.564,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,28.9,34.2,80.0,False,0.6,101.077,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,28.9,33.3,81.0,False,0.5,99.042,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,29.1,34.5,80.0,False,0.8,98.265,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,29.1,34.1,78.0,False,1.0,98.061,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,29.0,33.8,78.0,False,1.0,97.827,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,12,True,5.0,29.1,33.8,78.0,False,1.4,97.846,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,29.0,33.8,78.0,False,1.9,97.422,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,29.1,34.1,77.0,False,1.4,97.184,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,29.1,34.0,76.0,False,1.8,97.73,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,29.1,34.2,75.0,False,1.7,97.871,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,29.0,34.3,74.0,False,1.9,97.618,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,29.0,33.9,74.0,False,2.2,97.431,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,29.0,34.0,73.0,False,1.6,97.493,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,29.1,34.3,72.0,False,1.6,97.648,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,29.1,34.0,72.0,False,2.1,97.525,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,29.2,33.8,72.0,False,2.1,97.995,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,29.2,34.1,72.0,False,1.9,98.131,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,29.3,34.1,72.0,False,1.1,97.836,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,29.2,33.8,73.0,False,0.9,97.334,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,False,6.0,29.2,34.0,72.0,False,1.2,103.372,True,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,22.0,2.0,HARD,1.0,True,1,False,9.0,29.2,34.0,71.0,False,1.3,114.189,True,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,23.0,2.0,HARD,2.0,True,1,True,8.0,29.2,33.8,72.0,False,1.1,96.378,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,24.0,2.0,HARD,3.0,True,1,True,8.0,29.3,33.7,72.0,False,1.3,96.407,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,25.0,2.0,HARD,4.0,True,1,True,7.0,29.3,33.8,72.0,False,1.4,96.296,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,26.0,2.0,HARD,5.0,True,1,True,6.0,29.3,33.7,72.0,False,1.5,96.569,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,27.0,2.0,HARD,6.0,True,1,True,5.0,29.2,33.7,72.0,False,1.2,97.733,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,28.0,2.0,HARD,7.0,True,1,True,5.0,29.2,33.7,72.0,False,1.1,96.814,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,29.0,2.0,HARD,8.0,True,1,True,5.0,29.2,33.9,73.0,False,1.1,96.702,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,30.0,2.0,HARD,9.0,True,1,True,5.0,29.3,33.7,72.0,False,1.1,96.401,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,31.0,2.0,HARD,10.0,True,1,True,5.0,29.2,33.8,72.0,False,1.1,96.518,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,32.0,2.0,HARD,11.0,True,1,True,5.0,29.2,34.0,72.0,False,1.1,96.539,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,33.0,2.0,HARD,12.0,True,1,True,5.0,29.2,33.9,71.0,False,1.3,96.481,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,34.0,2.0,HARD,13.0,True,1,True,5.0,29.2,33.7,71.0,False,1.2,96.286,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,35.0,2.0,HARD,14.0,True,1,True,5.0,29.1,34.1,72.0,False,1.0,96.508,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,36.0,2.0,HARD,15.0,True,1,True,5.0,29.1,34.0,71.0,False,1.0,96.576,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,37.0,2.0,HARD,16.0,True,1,True,5.0,29.2,34.0,71.0,False,1.1,96.168,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,38.0,2.0,HARD,17.0,True,1,True,5.0,29.2,34.0,71.0,False,1.0,96.721,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,39.0,2.0,HARD,18.0,True,1,True,5.0,29.2,33.7,72.0,False,0.5,96.314,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,40.0,2.0,HARD,19.0,True,1,True,5.0,29.2,34.3,72.0,False,0.8,96.307,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,41.0,2.0,HARD,20.0,True,1,True,5.0,29.3,34.3,71.0,False,1.5,95.983,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,42.0,2.0,HARD,21.0,True,1,True,5.0,29.3,34.1,71.0,False,0.5,96.288,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,43.0,2.0,HARD,22.0,True,1,True,5.0,29.4,34.1,71.0,False,0.9,96.397,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,44.0,2.0,HARD,23.0,True,1,True,5.0,29.3,33.5,71.0,False,0.6,96.256,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,45.0,2.0,HARD,24.0,True,12,True,5.0,29.4,33.6,71.0,False,0.0,96.589,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,46.0,2.0,HARD,25.0,True,1,True,5.0,29.4,33.9,71.0,False,0.6,96.038,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,47.0,2.0,HARD,26.0,True,1,True,5.0,29.4,34.1,70.0,False,1.0,96.596,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,48.0,2.0,HARD,27.0,True,1,True,5.0,29.5,33.6,70.0,False,0.9,96.547,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,49.0,2.0,HARD,28.0,True,1,True,5.0,29.5,34.0,70.0,False,1.2,97.043,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,50.0,2.0,HARD,29.0,True,1,True,5.0,29.5,33.4,73.0,False,0.7,96.809,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,51.0,2.0,HARD,30.0,True,1,True,5.0,29.4,33.6,73.0,False,0.9,97.1,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,52.0,2.0,HARD,31.0,True,1,True,5.0,29.4,33.3,73.0,False,0.9,98.277,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,53.0,2.0,HARD,32.0,True,1,True,6.0,29.3,33.3,73.0,False,0.6,99.212,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,54.0,2.0,HARD,33.0,True,1,True,6.0,29.3,33.6,74.0,False,1.1,97.887,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,55.0,2.0,HARD,34.0,True,1,True,6.0,29.4,33.2,74.0,False,0.9,97.698,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,56.0,2.0,HARD,35.0,True,1,True,7.0,29.5,33.1,72.0,False,1.1,98.842,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,57.0,2.0,HARD,36.0,True,1,True,7.0,29.5,33.3,73.0,False,0.3,97.659,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,58.0,2.0,HARD,37.0,True,1,True,7.0,29.5,33.5,72.0,False,1.5,97.04,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,59.0,2.0,HARD,38.0,True,1,True,7.0,29.5,33.5,72.0,False,1.2,97.404,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,60.0,2.0,HARD,39.0,True,1,True,7.0,29.4,33.4,71.0,False,1.6,97.628,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,61.0,2.0,HARD,40.0,True,1,True,6.0,29.4,33.4,71.0,False,1.6,101.327,False,62,2025,18,Singapore Grand Prix,2025_18
+LEC,Ferrari,62.0,2.0,HARD,41.0,True,1,True,6.0,29.4,33.6,72.0,False,1.4,99.564,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,1.0,1.0,SOFT,4.0,False,1,False,9.0,28.7,33.6,80.0,False,0.4,110.169,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,2.0,1.0,SOFT,5.0,False,1,True,9.0,28.9,34.2,80.0,False,0.6,101.359,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,3.0,1.0,SOFT,6.0,False,1,True,8.0,28.9,33.3,81.0,False,0.5,98.983,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,4.0,1.0,SOFT,7.0,False,1,True,8.0,29.1,34.5,80.0,False,0.8,99.281,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,5.0,1.0,SOFT,8.0,False,1,True,8.0,29.1,34.1,78.0,False,1.0,98.617,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,6.0,1.0,SOFT,9.0,False,1,True,8.0,29.0,33.8,78.0,False,1.0,98.403,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,7.0,1.0,SOFT,10.0,False,12,True,8.0,29.1,33.8,78.0,False,1.4,98.371,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,8.0,1.0,SOFT,11.0,False,1,True,8.0,29.1,33.9,77.0,False,1.2,98.523,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,9.0,1.0,SOFT,12.0,False,1,True,8.0,29.1,34.1,77.0,False,1.4,98.36,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,10.0,1.0,SOFT,13.0,False,1,True,8.0,29.1,34.0,76.0,False,1.8,98.275,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,11.0,1.0,SOFT,14.0,False,1,True,8.0,29.1,34.2,75.0,False,1.7,98.325,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,12.0,1.0,SOFT,15.0,False,1,True,8.0,29.0,34.3,74.0,False,1.9,98.42,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,13.0,1.0,SOFT,16.0,False,1,True,8.0,29.0,33.9,74.0,False,2.2,98.431,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,14.0,1.0,SOFT,17.0,False,1,True,8.0,29.0,34.0,73.0,False,1.6,97.773,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,15.0,1.0,SOFT,18.0,False,1,True,8.0,29.1,34.3,72.0,False,1.6,97.898,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,16.0,1.0,SOFT,19.0,False,1,True,8.0,29.1,34.0,71.0,False,2.0,98.166,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,17.0,1.0,SOFT,20.0,False,1,True,8.0,29.2,33.8,72.0,False,2.1,98.082,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,18.0,1.0,SOFT,21.0,False,1,True,8.0,29.2,34.1,72.0,False,1.9,98.153,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,19.0,1.0,SOFT,22.0,False,1,True,8.0,29.2,33.8,72.0,False,1.5,97.839,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,20.0,1.0,SOFT,23.0,False,1,True,8.0,29.2,33.8,73.0,False,0.9,98.584,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,21.0,1.0,SOFT,24.0,False,1,True,8.0,29.2,34.0,72.0,False,1.2,97.727,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,22.0,1.0,SOFT,25.0,False,1,True,7.0,29.2,34.0,71.0,False,1.3,97.829,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,23.0,1.0,SOFT,26.0,False,1,True,7.0,29.2,33.8,72.0,False,1.1,98.147,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,24.0,1.0,SOFT,27.0,False,1,True,7.0,29.3,33.7,72.0,False,1.3,97.965,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,25.0,1.0,SOFT,28.0,False,1,True,6.0,29.3,33.8,72.0,False,1.4,98.231,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,26.0,1.0,SOFT,29.0,False,1,True,5.0,29.3,33.7,72.0,False,1.5,98.487,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,27.0,1.0,SOFT,30.0,False,1,False,7.0,29.2,33.7,72.0,False,1.2,105.503,True,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,28.0,2.0,MEDIUM,2.0,False,1,False,15.0,29.2,33.7,72.0,False,1.1,122.356,True,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,29.0,2.0,MEDIUM,3.0,False,1,True,15.0,29.2,33.9,73.0,False,1.1,98.233,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,30.0,2.0,MEDIUM,4.0,False,1,True,15.0,29.3,33.7,72.0,False,1.1,98.209,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,31.0,2.0,MEDIUM,5.0,False,1,True,14.0,29.2,33.8,72.0,False,1.3,97.474,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,32.0,2.0,MEDIUM,6.0,False,1,True,14.0,29.2,34.0,72.0,False,1.1,97.376,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,33.0,2.0,MEDIUM,7.0,False,1,True,14.0,29.2,33.9,72.0,False,1.3,97.571,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,34.0,2.0,MEDIUM,8.0,False,1,True,14.0,29.1,34.0,72.0,False,1.3,97.35,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,35.0,2.0,MEDIUM,9.0,False,1,True,14.0,29.1,34.1,72.0,False,1.0,97.378,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,36.0,2.0,MEDIUM,10.0,False,1,True,14.0,29.2,33.9,71.0,False,1.4,101.384,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,37.0,2.0,MEDIUM,11.0,False,1,True,13.0,29.2,34.0,71.0,False,1.0,98.878,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,38.0,2.0,MEDIUM,12.0,False,1,True,12.0,29.2,34.0,72.0,False,0.8,97.838,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,39.0,2.0,MEDIUM,13.0,False,1,True,12.0,29.2,33.9,72.0,False,0.8,97.758,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,40.0,2.0,MEDIUM,14.0,False,1,True,12.0,29.2,34.3,72.0,False,0.8,97.62,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,41.0,2.0,MEDIUM,15.0,False,1,True,12.0,29.3,34.1,71.0,False,0.8,97.416,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,42.0,2.0,MEDIUM,16.0,False,1,True,11.0,29.4,34.1,71.0,False,0.9,98.034,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,43.0,2.0,MEDIUM,17.0,False,1,True,11.0,29.4,33.9,71.0,False,1.0,96.801,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,44.0,2.0,MEDIUM,18.0,False,12,True,11.0,29.4,33.9,71.0,False,0.7,97.665,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,45.0,2.0,MEDIUM,19.0,False,1,True,10.0,29.4,33.9,71.0,False,0.6,98.277,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,46.0,2.0,MEDIUM,20.0,False,1,True,10.0,29.4,34.1,71.0,False,0.5,97.55,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,47.0,2.0,MEDIUM,21.0,False,1,True,8.0,29.5,33.6,70.0,False,0.9,98.748,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,48.0,2.0,MEDIUM,22.0,False,1,True,8.0,29.5,34.0,70.0,False,0.8,97.488,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,49.0,2.0,MEDIUM,23.0,False,1,True,8.0,29.5,33.5,72.0,False,0.7,96.628,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,50.0,2.0,MEDIUM,24.0,False,1,True,8.0,29.4,33.6,73.0,False,0.9,95.962,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,51.0,2.0,MEDIUM,25.0,False,1,True,8.0,29.4,34.0,73.0,False,0.6,96.056,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,52.0,2.0,MEDIUM,26.0,False,1,True,8.0,29.4,33.3,72.0,False,0.6,95.862,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,53.0,2.0,MEDIUM,27.0,False,1,True,8.0,29.3,33.6,74.0,False,1.1,96.014,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,54.0,2.0,MEDIUM,28.0,False,1,True,8.0,29.4,33.6,74.0,False,1.3,96.036,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,55.0,2.0,MEDIUM,29.0,False,1,True,8.0,29.5,33.1,72.0,False,1.1,96.768,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,56.0,2.0,MEDIUM,30.0,False,1,True,8.0,29.5,33.1,73.0,False,0.9,96.153,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,57.0,2.0,MEDIUM,31.0,False,1,True,8.0,29.5,33.3,72.0,False,0.9,95.92,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,58.0,2.0,MEDIUM,32.0,False,1,True,8.0,29.5,33.5,72.0,False,1.2,95.942,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,59.0,2.0,MEDIUM,33.0,False,1,True,8.0,29.4,33.5,71.0,False,1.4,96.004,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,60.0,2.0,MEDIUM,34.0,False,1,True,8.0,29.4,33.3,72.0,False,1.7,95.943,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,61.0,2.0,MEDIUM,35.0,False,1,True,8.0,29.4,33.4,71.0,False,1.6,96.23,False,62,2025,18,Singapore Grand Prix,2025_18
+ALO,Aston Martin,62.0,2.0,MEDIUM,36.0,False,1,True,8.0,29.4,33.2,72.0,False,1.6,96.211,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,28.7,33.6,80.0,False,0.4,108.603,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,28.9,34.2,80.0,False,0.6,101.35,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,28.9,33.3,81.0,False,0.5,99.319,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,29.1,34.5,80.0,False,0.8,98.69,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,29.1,34.1,78.0,False,1.0,97.785,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,29.0,33.8,78.0,False,1.0,97.836,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,7.0,1.0,MEDIUM,7.0,True,12,True,7.0,29.1,33.8,78.0,False,1.4,97.757,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,29.1,33.9,77.0,False,1.2,97.899,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,29.1,34.1,77.0,False,1.4,97.796,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,29.1,34.0,76.0,False,1.8,97.743,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,29.1,34.2,75.0,False,1.7,97.461,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,29.0,34.3,74.0,False,1.9,97.309,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,29.0,33.9,74.0,False,2.2,98.348,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,29.0,34.0,73.0,False,1.6,97.649,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,29.1,34.3,72.0,False,1.6,97.813,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,29.1,34.0,71.0,False,2.0,98.041,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,29.2,33.8,72.0,False,2.1,97.497,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,29.2,34.1,72.0,False,1.9,97.671,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,7.0,29.3,34.1,72.0,False,1.1,97.595,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,29.2,33.8,73.0,False,0.9,97.771,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,29.2,34.0,72.0,False,1.2,98.039,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,29.2,34.0,71.0,False,1.3,98.26,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,5.0,29.2,33.8,72.0,False,1.1,97.884,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,False,6.0,29.3,33.7,72.0,False,1.3,103.559,True,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,25.0,2.0,HARD,1.0,True,1,False,8.0,29.3,33.8,72.0,False,1.4,114.658,True,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,26.0,2.0,HARD,2.0,True,1,True,8.0,29.3,33.7,72.0,False,1.5,96.807,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,27.0,2.0,HARD,3.0,True,1,True,8.0,29.2,33.7,72.0,False,1.2,96.46,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,28.0,2.0,HARD,4.0,True,1,True,7.0,29.2,33.7,72.0,False,1.1,96.132,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,29.0,2.0,HARD,5.0,True,1,True,7.0,29.2,33.9,73.0,False,1.1,96.133,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,30.0,2.0,HARD,6.0,True,1,True,7.0,29.3,33.7,72.0,False,1.1,96.211,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,31.0,2.0,HARD,7.0,True,1,True,7.0,29.2,33.8,72.0,False,1.1,96.248,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,32.0,2.0,HARD,8.0,True,1,True,7.0,29.2,34.0,72.0,False,1.1,96.049,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,33.0,2.0,HARD,9.0,True,1,True,7.0,29.2,33.9,71.0,False,1.3,96.367,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,34.0,2.0,HARD,10.0,True,1,True,7.0,29.2,33.7,71.0,False,1.2,96.149,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,35.0,2.0,HARD,11.0,True,1,True,7.0,29.1,34.1,72.0,False,1.0,96.159,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,36.0,2.0,HARD,12.0,True,1,True,7.0,29.1,34.0,71.0,False,1.0,96.086,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,37.0,2.0,HARD,13.0,True,1,True,7.0,29.2,34.0,71.0,False,1.1,96.448,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,38.0,2.0,HARD,14.0,True,1,True,7.0,29.2,34.0,71.0,False,1.0,96.382,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,39.0,2.0,HARD,15.0,True,1,True,7.0,29.2,33.7,72.0,False,0.5,96.463,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,40.0,2.0,HARD,16.0,True,1,True,7.0,29.2,34.3,72.0,False,0.8,96.429,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,41.0,2.0,HARD,17.0,True,1,True,7.0,29.3,34.3,71.0,False,1.5,96.07,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,42.0,2.0,HARD,18.0,True,1,True,7.0,29.3,34.1,71.0,False,0.5,96.268,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,43.0,2.0,HARD,19.0,True,1,True,7.0,29.4,34.1,71.0,False,0.9,96.01,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,44.0,2.0,HARD,20.0,True,1,True,7.0,29.3,33.5,71.0,False,0.6,95.887,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,45.0,2.0,HARD,21.0,True,12,True,7.0,29.4,33.6,71.0,False,0.0,95.924,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,46.0,2.0,HARD,22.0,True,1,False,7.0,29.4,33.9,71.0,False,0.6,101.821,True,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,47.0,3.0,SOFT,4.0,False,1,False,7.0,29.4,34.1,70.0,False,1.0,110.503,True,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,48.0,3.0,SOFT,5.0,False,1,True,7.0,29.5,34.0,70.0,False,0.8,93.808,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,49.0,3.0,SOFT,6.0,False,1,True,7.0,29.5,34.0,70.0,False,1.2,94.312,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,50.0,3.0,SOFT,7.0,False,1,True,7.0,29.5,33.4,73.0,False,0.7,94.361,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,51.0,3.0,SOFT,8.0,False,1,True,7.0,29.4,34.0,73.0,False,0.6,94.659,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,52.0,3.0,SOFT,9.0,False,1,True,7.0,29.4,33.3,73.0,False,0.9,94.805,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,53.0,3.0,SOFT,10.0,False,1,True,7.0,29.3,33.3,73.0,False,0.6,95.319,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,54.0,3.0,SOFT,11.0,False,1,True,7.0,29.3,33.6,74.0,False,1.1,94.887,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,55.0,3.0,SOFT,12.0,False,1,True,7.0,29.4,33.2,74.0,False,0.9,96.06,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,56.0,3.0,SOFT,13.0,False,1,True,6.0,29.5,33.1,72.0,False,1.1,96.194,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,57.0,3.0,SOFT,14.0,False,1,True,6.0,29.5,33.3,73.0,False,0.3,95.241,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,58.0,3.0,SOFT,15.0,False,1,True,6.0,29.5,33.5,72.0,False,1.5,95.619,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,59.0,3.0,SOFT,16.0,False,1,True,6.0,29.5,33.5,72.0,False,1.2,99.167,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,60.0,3.0,SOFT,17.0,False,1,True,6.0,29.4,33.4,71.0,False,1.6,100.466,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,61.0,3.0,SOFT,18.0,False,1,True,7.0,29.4,33.4,71.0,False,1.6,128.668,False,62,2025,18,Singapore Grand Prix,2025_18
+HAM,Ferrari,62.0,3.0,SOFT,19.0,False,1,True,7.0,29.4,33.2,72.0,False,1.6,107.713,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,28.7,33.6,80.0,False,0.4,110.644,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,28.9,34.2,80.0,False,0.6,101.501,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,28.9,33.3,81.0,False,0.5,100.033,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,29.1,34.5,80.0,False,0.8,98.962,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,29.1,34.1,78.0,False,1.0,98.673,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,29.0,33.8,78.0,False,1.0,98.596,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,12,True,10.0,29.1,33.8,78.0,False,1.4,99.02,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,29.1,33.9,77.0,False,1.2,98.477,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,29.1,34.1,77.0,False,1.4,98.668,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,29.1,34.0,76.0,False,1.8,98.23,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,29.1,34.3,74.0,False,1.7,98.494,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,29.0,34.3,74.0,False,1.9,98.182,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,29.0,33.9,74.0,False,2.2,98.419,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,10.0,29.0,34.0,73.0,False,1.6,98.526,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,10.0,29.1,34.3,72.0,False,1.6,98.947,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,29.1,34.0,71.0,False,2.0,98.536,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,29.2,33.8,72.0,False,2.1,98.336,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,10.0,29.2,34.1,72.0,False,1.9,98.404,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,29.2,33.8,72.0,False,1.5,98.509,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,9.0,29.2,33.8,73.0,False,0.9,99.08,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,9.0,29.2,34.0,72.0,False,1.2,97.986,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,29.2,33.7,72.0,False,1.5,97.586,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,False,10.0,29.2,33.8,72.0,False,1.1,103.418,True,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,24.0,2.0,HARD,1.0,True,1,False,15.0,29.3,33.7,72.0,False,1.3,114.076,True,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,25.0,2.0,HARD,2.0,True,1,True,15.0,29.3,33.7,71.0,False,1.4,96.992,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,26.0,2.0,HARD,3.0,True,1,True,13.0,29.3,33.7,72.0,False,1.5,97.917,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,27.0,2.0,HARD,4.0,True,1,True,13.0,29.2,33.7,72.0,False,1.2,96.718,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,28.0,2.0,HARD,5.0,True,1,True,12.0,29.2,33.7,73.0,False,1.1,96.658,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,29.0,2.0,HARD,6.0,True,1,True,12.0,29.2,33.9,73.0,False,1.1,97.005,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,30.0,2.0,HARD,7.0,True,1,True,11.0,29.3,33.7,72.0,False,1.1,97.573,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,31.0,2.0,HARD,8.0,True,1,True,11.0,29.2,33.8,72.0,False,1.3,97.288,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,32.0,2.0,HARD,9.0,True,1,True,11.0,29.2,34.0,72.0,False,1.1,98.179,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,33.0,2.0,HARD,10.0,True,1,True,11.0,29.2,33.9,72.0,False,1.3,99.142,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,34.0,2.0,HARD,11.0,True,1,True,11.0,29.2,33.7,71.0,False,1.2,99.259,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,35.0,2.0,HARD,12.0,True,1,True,11.0,29.1,34.1,72.0,False,1.0,99.178,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,36.0,2.0,HARD,13.0,True,1,True,11.0,29.2,33.9,71.0,False,1.4,98.766,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,37.0,2.0,HARD,14.0,True,1,True,11.0,29.2,34.0,71.0,False,1.1,99.542,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,38.0,2.0,HARD,15.0,True,1,True,10.0,29.2,34.0,72.0,False,0.8,99.763,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,39.0,2.0,HARD,16.0,True,1,True,10.0,29.2,33.9,72.0,False,0.8,97.85,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,40.0,2.0,HARD,17.0,True,1,True,10.0,29.2,34.3,72.0,False,0.8,97.879,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,41.0,2.0,HARD,18.0,True,1,True,10.0,29.3,34.1,71.0,False,0.8,97.893,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,42.0,2.0,HARD,19.0,True,1,True,10.0,29.4,34.1,71.0,False,0.9,97.927,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,43.0,2.0,HARD,20.0,True,1,True,10.0,29.4,33.9,71.0,False,1.0,98.28,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,44.0,2.0,HARD,21.0,True,12,True,10.0,29.4,33.9,71.0,False,0.7,99.621,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,45.0,2.0,HARD,22.0,True,1,True,11.0,29.4,33.9,71.0,False,0.6,100.55,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,46.0,2.0,HARD,23.0,True,1,True,11.0,29.4,34.1,71.0,False,0.5,97.848,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,47.0,2.0,HARD,24.0,True,1,True,11.0,29.5,33.6,70.0,False,0.9,98.859,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,48.0,2.0,HARD,25.0,True,1,True,10.0,29.5,34.0,70.0,False,1.2,100.519,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,49.0,2.0,HARD,26.0,True,1,True,10.0,29.5,33.5,72.0,False,0.7,98.599,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,50.0,2.0,HARD,27.0,True,1,True,9.0,29.4,33.6,73.0,False,0.9,98.436,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,51.0,2.0,HARD,28.0,True,1,True,9.0,29.4,34.0,73.0,False,0.6,96.229,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,52.0,2.0,HARD,29.0,True,1,True,9.0,29.4,33.3,72.0,False,0.6,96.449,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,53.0,2.0,HARD,30.0,True,1,True,9.0,29.3,33.6,74.0,False,1.1,96.697,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,54.0,2.0,HARD,31.0,True,1,True,9.0,29.4,33.6,74.0,False,1.3,96.277,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,55.0,2.0,HARD,32.0,True,1,True,9.0,29.5,33.1,72.0,False,1.1,96.215,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,56.0,2.0,HARD,33.0,True,1,True,9.0,29.5,33.1,73.0,False,0.9,96.201,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,57.0,2.0,HARD,34.0,True,1,True,9.0,29.5,33.3,72.0,False,0.9,96.262,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,58.0,2.0,HARD,35.0,True,1,True,9.0,29.5,33.5,72.0,False,1.2,96.597,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,59.0,2.0,HARD,36.0,True,1,True,9.0,29.4,33.5,71.0,False,1.4,96.228,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,60.0,2.0,HARD,37.0,True,1,True,9.0,29.4,33.3,72.0,False,1.7,96.436,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,61.0,2.0,HARD,38.0,True,1,True,9.0,29.4,33.6,72.0,False,1.4,96.531,False,62,2025,18,Singapore Grand Prix,2025_18
+BEA,Haas F1 Team,62.0,2.0,HARD,39.0,True,1,True,9.0,29.4,33.2,72.0,False,1.6,96.228,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,28.7,33.6,80.0,False,0.4,116.072,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,28.9,34.2,80.0,False,0.6,102.183,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,28.9,33.3,81.0,False,0.5,99.996,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,18.0,29.1,34.5,80.0,False,0.8,99.625,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,18.0,29.1,34.1,78.0,False,1.0,99.431,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,29.0,33.8,78.0,False,1.0,100.0,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,7.0,1.0,MEDIUM,7.0,True,12,True,18.0,29.1,33.8,78.0,False,1.4,99.3,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,18.0,29.1,33.9,77.0,False,1.2,99.297,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,18.0,29.1,34.1,77.0,False,1.4,98.858,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,18.0,29.1,34.0,76.0,False,1.8,98.88,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,18.0,29.1,34.3,74.0,False,1.7,99.052,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,18.0,29.0,34.3,74.0,False,1.9,99.116,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,16.0,29.0,33.9,74.0,False,2.2,99.055,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,16.0,29.1,33.9,71.0,False,2.0,98.224,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,15.0,29.1,34.3,72.0,False,1.6,97.962,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,15.0,29.1,34.0,71.0,False,2.0,98.609,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,15.0,29.2,33.8,72.0,False,1.8,98.607,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,15.0,29.2,34.1,72.0,False,1.9,98.331,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,15.0,29.2,33.8,72.0,False,1.5,98.65,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,15.0,29.2,33.8,73.0,False,1.0,98.309,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,14.0,29.2,34.0,72.0,False,1.2,98.23,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,14.0,29.2,33.7,72.0,False,1.5,98.599,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,14.0,29.2,33.8,72.0,False,1.1,98.439,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,13.0,29.3,33.7,72.0,False,1.3,98.347,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,13.0,29.3,33.7,71.0,False,1.4,98.052,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,12.0,29.3,33.7,72.0,False,1.5,98.401,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,27.0,1.0,MEDIUM,27.0,True,1,True,12.0,29.2,33.7,72.0,False,1.2,98.303,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,28.0,1.0,MEDIUM,28.0,True,1,True,11.0,29.2,33.7,73.0,False,1.1,98.477,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,29.0,1.0,MEDIUM,29.0,True,1,True,11.0,29.2,33.9,73.0,False,1.1,98.359,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,30.0,1.0,MEDIUM,30.0,True,1,True,10.0,29.3,33.7,72.0,False,1.1,98.229,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,31.0,1.0,MEDIUM,31.0,True,1,True,10.0,29.2,33.8,72.0,False,1.3,97.797,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,32.0,1.0,MEDIUM,32.0,True,1,True,10.0,29.2,34.0,72.0,False,1.1,98.329,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,33.0,1.0,MEDIUM,33.0,True,1,True,10.0,29.2,33.9,72.0,False,1.3,99.058,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,34.0,1.0,MEDIUM,34.0,True,1,True,10.0,29.2,33.7,71.0,False,1.2,99.058,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,35.0,1.0,MEDIUM,35.0,True,1,True,10.0,29.1,34.1,72.0,False,1.0,99.474,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,36.0,1.0,MEDIUM,36.0,True,1,True,10.0,29.2,33.9,71.0,False,1.4,98.69,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,37.0,1.0,MEDIUM,37.0,True,1,True,10.0,29.2,34.0,71.0,False,1.1,99.7,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,38.0,1.0,MEDIUM,38.0,True,1,True,9.0,29.2,34.0,72.0,False,0.8,99.483,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,39.0,1.0,MEDIUM,39.0,True,1,True,9.0,29.2,33.9,72.0,False,0.8,97.806,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,40.0,1.0,MEDIUM,40.0,True,1,True,9.0,29.2,34.3,72.0,False,0.8,97.94,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,41.0,1.0,MEDIUM,41.0,True,1,True,9.0,29.3,34.1,71.0,False,0.8,97.884,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,42.0,1.0,MEDIUM,42.0,True,1,True,9.0,29.4,34.1,71.0,False,0.9,97.97,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,43.0,1.0,MEDIUM,43.0,True,1,True,9.0,29.4,33.9,71.0,False,1.0,98.539,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,44.0,1.0,MEDIUM,44.0,True,12,True,9.0,29.4,33.9,71.0,False,0.7,98.459,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,45.0,1.0,MEDIUM,45.0,True,1,True,9.0,29.4,33.9,71.0,False,0.6,98.438,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,46.0,1.0,MEDIUM,46.0,True,1,True,9.0,29.4,34.1,71.0,False,0.5,99.139,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,47.0,1.0,MEDIUM,47.0,True,1,True,10.0,29.5,33.6,70.0,False,0.9,100.721,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,48.0,1.0,MEDIUM,48.0,True,1,True,9.0,29.5,34.0,70.0,False,0.8,100.539,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,49.0,1.0,MEDIUM,49.0,True,1,True,9.0,29.5,33.5,72.0,False,0.7,98.501,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,50.0,1.0,MEDIUM,50.0,True,1,False,12.0,29.4,33.6,73.0,False,0.9,103.958,True,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,51.0,2.0,SOFT,1.0,True,1,False,14.0,29.4,33.3,73.0,False,0.9,113.298,True,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,52.0,2.0,SOFT,2.0,True,1,True,13.0,29.4,33.3,72.0,False,0.6,96.172,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,53.0,2.0,SOFT,3.0,True,1,True,12.0,29.3,33.6,74.0,False,1.1,95.688,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,54.0,2.0,SOFT,4.0,True,1,True,12.0,29.4,33.2,74.0,False,0.9,95.072,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,55.0,2.0,SOFT,5.0,True,1,True,12.0,29.5,33.1,72.0,False,1.1,95.207,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,56.0,2.0,SOFT,6.0,True,1,True,12.0,29.5,33.3,73.0,False,0.3,95.375,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,57.0,2.0,SOFT,7.0,True,1,True,11.0,29.5,33.3,72.0,False,0.9,96.081,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,58.0,2.0,SOFT,8.0,True,1,True,11.0,29.5,33.5,72.0,False,1.2,95.735,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,59.0,2.0,SOFT,9.0,True,1,True,10.0,29.4,33.4,71.0,False,1.6,95.728,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,60.0,2.0,SOFT,10.0,True,1,True,10.0,29.4,33.3,72.0,False,1.7,95.326,False,62,2025,18,Singapore Grand Prix,2025_18
+SAI,Williams,61.0,2.0,SOFT,11.0,True,1,True,10.0,29.4,33.6,72.0,False,1.4,94.963,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,1.0,1.0,SOFT,3.0,False,1,False,8.0,28.7,33.6,80.0,False,0.4,109.417,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,2.0,1.0,SOFT,4.0,False,1,True,8.0,28.9,34.2,80.0,False,0.6,101.529,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,3.0,1.0,SOFT,5.0,False,1,True,9.0,28.9,33.3,81.0,False,0.5,100.257,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,4.0,1.0,SOFT,6.0,False,1,True,9.0,29.1,34.5,80.0,False,0.8,99.326,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,5.0,1.0,SOFT,7.0,False,1,True,9.0,29.1,34.1,78.0,False,1.0,98.739,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,6.0,1.0,SOFT,8.0,False,1,True,9.0,29.0,33.8,78.0,False,1.0,98.554,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,7.0,1.0,SOFT,9.0,False,12,True,9.0,29.1,33.8,78.0,False,1.4,98.093,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,8.0,1.0,SOFT,10.0,False,1,True,9.0,29.1,33.9,77.0,False,1.2,98.577,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,9.0,1.0,SOFT,11.0,False,1,True,9.0,29.1,34.1,77.0,False,1.4,98.465,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,10.0,1.0,SOFT,12.0,False,1,True,9.0,29.1,34.0,76.0,False,1.8,98.28,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,11.0,1.0,SOFT,13.0,False,1,True,9.0,29.1,34.3,74.0,False,1.7,98.427,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,12.0,1.0,SOFT,14.0,False,1,True,9.0,29.0,34.3,74.0,False,1.9,98.335,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,13.0,1.0,SOFT,15.0,False,1,True,9.0,29.0,33.9,74.0,False,2.2,98.379,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,14.0,1.0,SOFT,16.0,False,1,True,9.0,29.0,34.0,73.0,False,1.6,98.489,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,15.0,1.0,SOFT,17.0,False,1,True,9.0,29.1,34.3,72.0,False,1.6,98.588,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,16.0,1.0,SOFT,18.0,False,1,True,9.0,29.1,34.0,71.0,False,2.0,98.526,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,17.0,1.0,SOFT,19.0,False,1,True,9.0,29.2,33.8,72.0,False,2.1,98.518,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,18.0,1.0,SOFT,20.0,False,1,True,9.0,29.2,34.1,72.0,False,1.9,98.569,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,19.0,1.0,SOFT,21.0,False,1,True,9.0,29.2,33.8,72.0,False,1.5,98.914,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,20.0,1.0,SOFT,22.0,False,1,False,11.0,29.2,33.8,73.0,False,0.9,104.812,True,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,21.0,2.0,HARD,1.0,True,1,False,17.0,29.2,34.0,72.0,False,1.2,116.026,True,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,22.0,2.0,HARD,2.0,True,1,True,17.0,29.2,33.7,72.0,False,1.5,98.403,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,23.0,2.0,HARD,3.0,True,1,True,17.0,29.2,33.7,72.0,False,1.3,97.753,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,24.0,2.0,HARD,4.0,True,1,True,16.0,29.3,33.7,72.0,False,1.3,98.352,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,25.0,2.0,HARD,5.0,True,1,True,16.0,29.3,33.7,71.0,False,1.4,97.915,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,26.0,2.0,HARD,6.0,True,1,True,15.0,29.3,33.7,72.0,False,1.5,98.372,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,27.0,2.0,HARD,7.0,True,1,True,15.0,29.2,33.7,72.0,False,1.2,97.978,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,28.0,2.0,HARD,8.0,True,1,True,14.0,29.2,33.7,73.0,False,1.1,98.366,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,29.0,2.0,HARD,9.0,True,1,True,14.0,29.2,33.9,73.0,False,1.1,98.085,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,30.0,2.0,HARD,10.0,True,1,True,14.0,29.3,33.7,72.0,False,1.1,98.055,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,31.0,2.0,HARD,11.0,True,1,True,13.0,29.2,33.8,72.0,False,1.3,97.736,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,32.0,2.0,HARD,12.0,True,1,True,13.0,29.2,34.0,72.0,False,1.1,97.842,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,33.0,2.0,HARD,13.0,True,1,True,13.0,29.2,33.9,72.0,False,1.3,97.777,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,34.0,2.0,HARD,14.0,True,1,True,13.0,29.1,34.0,72.0,False,1.3,97.86,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,35.0,2.0,HARD,15.0,True,1,True,13.0,29.1,34.1,72.0,False,1.0,97.927,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,36.0,2.0,HARD,16.0,True,1,True,13.0,29.2,33.9,71.0,False,1.4,101.606,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,37.0,2.0,HARD,17.0,True,1,True,14.0,29.2,34.0,71.0,False,1.0,101.044,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,38.0,2.0,HARD,18.0,True,1,True,14.0,29.2,34.0,72.0,False,0.8,98.662,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,39.0,2.0,HARD,19.0,True,1,True,13.0,29.2,33.9,72.0,False,0.8,98.013,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,40.0,2.0,HARD,20.0,True,1,True,13.0,29.2,34.3,72.0,False,0.8,97.77,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,41.0,2.0,HARD,21.0,True,1,True,13.0,29.3,34.1,71.0,False,0.8,97.614,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,42.0,2.0,HARD,22.0,True,1,True,12.0,29.4,34.1,71.0,False,0.9,99.032,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,43.0,2.0,HARD,23.0,True,1,True,12.0,29.4,33.9,71.0,False,1.0,97.651,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,44.0,2.0,HARD,24.0,True,12,True,12.0,29.4,33.9,71.0,False,0.7,97.74,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,45.0,2.0,HARD,25.0,True,1,True,12.0,29.4,33.9,71.0,False,0.6,97.813,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,46.0,2.0,HARD,26.0,True,1,True,12.0,29.4,34.1,71.0,False,0.5,97.742,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,47.0,2.0,HARD,27.0,True,1,True,12.0,29.5,33.6,70.0,False,0.9,97.757,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,48.0,2.0,HARD,28.0,True,1,True,11.0,29.5,34.0,70.0,False,1.2,99.629,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,49.0,2.0,HARD,29.0,True,1,True,11.0,29.5,33.5,72.0,False,0.7,98.688,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,50.0,2.0,HARD,30.0,True,1,True,10.0,29.4,33.6,73.0,False,0.9,98.784,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,51.0,2.0,HARD,31.0,True,1,True,10.0,29.4,34.0,73.0,False,0.6,100.282,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,52.0,2.0,HARD,32.0,True,1,True,10.0,29.4,33.3,72.0,False,0.6,97.541,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,53.0,2.0,HARD,33.0,True,1,True,10.0,29.3,33.6,74.0,False,1.1,97.184,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,54.0,2.0,HARD,34.0,True,1,True,10.0,29.4,33.6,74.0,False,1.3,96.938,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,55.0,2.0,HARD,35.0,True,1,True,10.0,29.5,33.1,72.0,False,1.1,100.4,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,56.0,2.0,HARD,36.0,True,1,True,10.0,29.5,33.3,73.0,False,0.3,99.199,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,57.0,2.0,HARD,37.0,True,1,True,10.0,29.5,33.3,72.0,False,0.9,97.093,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,58.0,2.0,HARD,38.0,True,1,True,10.0,29.5,33.5,72.0,False,1.2,97.068,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,59.0,2.0,HARD,39.0,True,1,True,11.0,29.4,33.4,71.0,False,1.6,98.564,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,60.0,2.0,HARD,40.0,True,1,True,11.0,29.4,33.3,72.0,False,1.7,96.985,False,62,2025,18,Singapore Grand Prix,2025_18
+HAD,Racing Bulls,61.0,2.0,HARD,41.0,True,1,True,11.0,29.4,33.6,72.0,False,1.4,97.662,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,1.0,1.0,SOFT,1.0,True,1,False,16.0,28.7,33.6,80.0,False,0.4,115.167,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,2.0,1.0,SOFT,2.0,True,1,True,17.0,28.9,34.2,80.0,False,0.6,102.21,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,3.0,1.0,SOFT,3.0,True,1,True,17.0,28.9,33.3,81.0,False,0.5,100.188,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,4.0,1.0,SOFT,4.0,True,1,True,17.0,29.1,34.5,80.0,False,0.8,99.595,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,5.0,1.0,SOFT,5.0,True,1,True,17.0,29.1,34.1,78.0,False,1.0,99.162,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,6.0,1.0,SOFT,6.0,True,1,True,17.0,29.0,33.8,78.0,False,1.0,99.293,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,7.0,1.0,SOFT,7.0,True,12,True,17.0,29.1,33.8,78.0,False,1.4,99.199,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,8.0,1.0,SOFT,8.0,True,1,True,17.0,29.1,33.9,77.0,False,1.2,98.957,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,9.0,1.0,SOFT,9.0,True,1,True,17.0,29.1,34.1,77.0,False,1.4,98.981,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,10.0,1.0,SOFT,10.0,True,1,True,17.0,29.1,34.0,76.0,False,1.8,99.149,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,11.0,1.0,SOFT,11.0,True,1,True,17.0,29.1,34.3,74.0,False,1.7,99.007,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,12.0,1.0,SOFT,12.0,True,1,True,17.0,29.0,34.3,74.0,False,1.9,98.949,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,13.0,1.0,SOFT,13.0,True,1,False,20.0,29.0,33.9,74.0,False,2.2,105.142,True,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,14.0,2.0,HARD,1.0,True,1,False,19.0,29.1,33.9,71.0,False,2.0,116.995,True,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,15.0,2.0,HARD,2.0,True,1,True,19.0,29.1,34.0,72.0,False,2.1,97.038,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,16.0,2.0,HARD,3.0,True,1,True,19.0,29.1,34.0,71.0,False,2.0,96.934,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,17.0,2.0,HARD,4.0,True,1,True,19.0,29.2,33.8,72.0,False,1.8,97.076,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,18.0,2.0,HARD,5.0,True,1,True,19.0,29.3,34.1,72.0,False,1.1,96.998,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,19.0,2.0,HARD,6.0,True,1,True,19.0,29.2,33.8,72.0,False,1.5,97.067,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,20.0,2.0,HARD,7.0,True,1,True,19.0,29.2,33.8,73.0,False,1.0,97.172,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,21.0,2.0,HARD,8.0,True,1,True,19.0,29.2,34.0,72.0,False,1.2,97.846,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,22.0,2.0,HARD,9.0,True,1,True,19.0,29.2,33.7,72.0,False,1.5,97.953,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,23.0,2.0,HARD,10.0,True,1,True,19.0,29.2,33.7,72.0,False,1.3,98.116,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,24.0,2.0,HARD,11.0,True,1,True,19.0,29.3,33.7,72.0,False,1.3,98.139,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,25.0,2.0,HARD,12.0,True,1,True,18.0,29.3,33.7,71.0,False,1.4,98.289,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,26.0,2.0,HARD,13.0,True,1,True,17.0,29.2,33.7,72.0,False,1.4,98.434,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,27.0,2.0,HARD,14.0,True,1,True,17.0,29.2,33.7,72.0,False,1.2,98.049,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,28.0,2.0,HARD,15.0,True,1,True,17.0,29.2,33.7,73.0,False,1.1,98.758,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,29.0,2.0,HARD,16.0,True,1,True,17.0,29.2,33.9,73.0,False,1.1,98.536,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,30.0,2.0,HARD,17.0,True,1,True,17.0,29.3,33.7,72.0,False,1.1,98.8,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,31.0,2.0,HARD,18.0,True,1,True,16.0,29.2,33.8,72.0,False,1.3,98.416,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,32.0,2.0,HARD,19.0,True,1,True,16.0,29.2,34.0,72.0,False,1.1,98.365,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,33.0,2.0,HARD,20.0,True,1,True,16.0,29.2,33.9,72.0,False,1.3,98.496,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,34.0,2.0,HARD,21.0,True,1,True,16.0,29.1,34.0,72.0,False,1.3,98.056,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,35.0,2.0,HARD,22.0,True,1,True,16.0,29.1,34.1,72.0,False,1.0,98.205,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,36.0,2.0,HARD,23.0,True,1,True,16.0,29.2,33.9,71.0,False,1.4,98.281,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,37.0,2.0,HARD,24.0,True,1,True,16.0,29.2,34.0,71.0,False,1.0,99.216,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,38.0,2.0,HARD,25.0,True,1,True,16.0,29.2,34.0,72.0,False,0.8,98.757,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,39.0,2.0,HARD,26.0,True,1,True,15.0,29.2,33.9,72.0,False,0.8,98.422,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,40.0,2.0,HARD,27.0,True,1,True,15.0,29.3,34.3,71.0,False,1.5,98.02,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,41.0,2.0,HARD,28.0,True,1,True,15.0,29.3,34.1,71.0,False,0.8,100.021,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,42.0,2.0,HARD,29.0,True,1,True,14.0,29.4,34.1,71.0,False,0.9,99.256,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,43.0,2.0,HARD,30.0,True,1,True,13.0,29.4,33.9,71.0,False,1.0,97.501,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,44.0,2.0,HARD,31.0,True,12,True,13.0,29.4,33.9,71.0,False,0.7,97.085,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,45.0,2.0,HARD,32.0,True,1,True,13.0,29.4,33.9,71.0,False,0.6,96.831,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,46.0,2.0,HARD,33.0,True,1,True,13.0,29.4,34.1,71.0,False,0.5,97.204,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,47.0,2.0,HARD,34.0,True,1,True,13.0,29.5,33.6,70.0,False,0.9,97.187,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,48.0,2.0,HARD,35.0,True,1,True,12.0,29.5,34.0,70.0,False,1.2,98.112,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,49.0,2.0,HARD,36.0,True,1,True,12.0,29.5,33.5,72.0,False,0.7,98.353,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,50.0,2.0,HARD,37.0,True,1,True,11.0,29.4,33.6,73.0,False,0.9,100.09,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,51.0,2.0,HARD,38.0,True,1,True,11.0,29.4,33.3,73.0,False,0.9,98.679,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,52.0,2.0,HARD,39.0,True,1,True,11.0,29.4,33.3,72.0,False,0.6,101.585,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,53.0,2.0,HARD,40.0,True,1,True,11.0,29.3,33.6,74.0,False,1.1,99.992,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,54.0,2.0,HARD,41.0,True,1,True,11.0,29.4,33.2,74.0,False,0.9,97.47,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,55.0,2.0,HARD,42.0,True,1,True,11.0,29.5,33.1,72.0,False,1.1,97.002,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,56.0,2.0,HARD,43.0,True,1,True,11.0,29.5,33.3,73.0,False,0.3,96.852,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,57.0,2.0,HARD,44.0,True,1,True,12.0,29.5,33.3,72.0,False,0.9,99.01,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,58.0,2.0,HARD,45.0,True,1,True,12.0,29.5,33.5,72.0,False,1.2,96.952,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,59.0,2.0,HARD,46.0,True,1,True,12.0,29.4,33.4,71.0,False,1.6,96.934,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,60.0,2.0,HARD,47.0,True,1,True,12.0,29.4,33.3,72.0,False,1.7,96.844,False,62,2025,18,Singapore Grand Prix,2025_18
+TSU,Red Bull Racing,61.0,2.0,HARD,48.0,True,1,True,12.0,29.4,33.6,72.0,False,1.4,97.243,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,1.0,1.0,SOFT,1.0,True,1,False,14.0,28.7,33.6,80.0,False,0.4,113.822,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,2.0,1.0,SOFT,2.0,True,1,True,14.0,28.9,34.2,80.0,False,0.6,101.142,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,3.0,1.0,SOFT,3.0,True,1,True,14.0,28.9,33.3,81.0,False,0.5,99.963,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,4.0,1.0,SOFT,4.0,True,1,True,14.0,29.1,34.5,80.0,False,0.8,99.589,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,5.0,1.0,SOFT,5.0,True,1,True,14.0,29.1,34.1,78.0,False,1.0,99.24,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,6.0,1.0,SOFT,6.0,True,1,True,14.0,29.0,33.8,78.0,False,1.0,99.132,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,7.0,1.0,SOFT,7.0,True,12,True,14.0,29.1,33.8,78.0,False,1.4,98.951,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,8.0,1.0,SOFT,8.0,True,1,True,14.0,29.1,33.9,77.0,False,1.2,98.67,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,9.0,1.0,SOFT,9.0,True,1,True,14.0,29.1,34.1,77.0,False,1.4,98.79,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,10.0,1.0,SOFT,10.0,True,1,True,14.0,29.1,34.0,76.0,False,1.8,98.81,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,11.0,1.0,SOFT,11.0,True,1,True,14.0,29.1,34.3,74.0,False,1.7,98.647,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,12.0,1.0,SOFT,12.0,True,1,True,14.0,29.0,34.3,74.0,False,1.9,99.065,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,13.0,1.0,SOFT,13.0,True,1,True,14.0,29.0,33.9,74.0,False,2.2,98.954,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,14.0,1.0,SOFT,14.0,True,1,True,13.0,29.1,33.9,71.0,False,2.0,98.977,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,15.0,1.0,SOFT,15.0,True,1,True,13.0,29.1,34.3,72.0,False,1.6,98.242,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,16.0,1.0,SOFT,16.0,True,1,True,13.0,29.1,34.0,71.0,False,2.0,99.034,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,17.0,1.0,SOFT,17.0,True,1,True,13.0,29.2,33.8,72.0,False,2.1,98.675,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,18.0,1.0,SOFT,18.0,True,1,True,13.0,29.2,34.1,72.0,False,1.9,98.589,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,19.0,1.0,SOFT,19.0,True,1,True,13.0,29.2,33.8,72.0,False,1.5,98.608,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,20.0,1.0,SOFT,20.0,True,1,True,13.0,29.2,33.8,73.0,False,0.9,98.292,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,21.0,1.0,SOFT,21.0,True,1,True,12.0,29.2,34.0,72.0,False,1.2,98.477,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,22.0,1.0,SOFT,22.0,True,1,True,12.0,29.2,33.7,72.0,False,1.5,98.499,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,23.0,1.0,SOFT,23.0,True,1,True,12.0,29.2,33.8,72.0,False,1.1,98.526,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,24.0,1.0,SOFT,24.0,True,1,True,11.0,29.3,33.7,72.0,False,1.3,98.498,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,25.0,1.0,SOFT,25.0,True,1,True,10.0,29.3,33.7,71.0,False,1.4,98.808,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,26.0,1.0,SOFT,26.0,True,1,True,10.0,29.3,33.7,72.0,False,1.5,98.605,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,27.0,1.0,SOFT,27.0,True,1,True,10.0,29.2,33.7,72.0,False,1.2,98.79,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,28.0,1.0,SOFT,28.0,True,1,True,9.0,29.2,33.7,73.0,False,1.1,98.31,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,29.0,1.0,SOFT,29.0,True,1,True,9.0,29.2,33.9,73.0,False,1.1,98.407,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,30.0,1.0,SOFT,30.0,True,1,True,9.0,29.3,33.7,72.0,False,1.1,98.683,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,31.0,1.0,SOFT,31.0,True,1,True,9.0,29.2,33.8,72.0,False,1.1,98.645,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,32.0,1.0,SOFT,32.0,True,1,True,9.0,29.2,34.0,72.0,False,1.1,99.025,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,33.0,1.0,SOFT,33.0,True,1,True,9.0,29.2,33.9,72.0,False,1.3,98.878,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,34.0,1.0,SOFT,34.0,True,1,True,9.0,29.2,33.7,71.0,False,1.2,99.264,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,35.0,1.0,SOFT,35.0,True,1,True,9.0,29.1,34.1,72.0,False,1.0,99.085,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,36.0,1.0,SOFT,36.0,True,1,True,9.0,29.2,33.9,71.0,False,1.4,99.048,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,37.0,1.0,SOFT,37.0,True,1,True,9.0,29.2,34.0,71.0,False,1.1,99.727,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,38.0,1.0,SOFT,38.0,True,1,False,13.0,29.2,34.0,72.0,False,0.8,105.618,True,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,39.0,2.0,MEDIUM,2.0,False,1,False,20.0,29.2,33.9,72.0,False,0.8,114.524,True,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,40.0,2.0,MEDIUM,3.0,False,1,True,20.0,29.3,34.3,71.0,False,1.5,97.21,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,41.0,2.0,MEDIUM,4.0,False,1,True,20.0,29.3,34.1,71.0,False,0.8,99.689,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,42.0,2.0,MEDIUM,5.0,False,1,True,20.0,29.4,34.1,71.0,False,0.9,97.792,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,43.0,2.0,MEDIUM,6.0,False,1,True,19.0,29.3,33.5,71.0,False,0.6,97.57,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,44.0,2.0,MEDIUM,7.0,False,12,True,18.0,29.4,33.9,71.0,False,0.7,101.327,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,45.0,2.0,MEDIUM,8.0,False,1,True,18.0,29.4,33.9,71.0,False,0.6,97.661,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,46.0,2.0,MEDIUM,9.0,False,1,True,18.0,29.4,34.1,70.0,False,1.0,98.761,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,47.0,2.0,MEDIUM,10.0,False,1,True,19.0,29.5,33.6,70.0,False,0.9,100.366,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,48.0,2.0,MEDIUM,11.0,False,1,True,18.0,29.5,34.0,70.0,False,1.2,98.112,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,49.0,2.0,MEDIUM,12.0,False,1,True,17.0,29.5,33.4,73.0,False,0.7,97.239,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,50.0,2.0,MEDIUM,13.0,False,1,True,15.0,29.4,33.6,73.0,False,0.9,100.093,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,51.0,2.0,MEDIUM,14.0,False,1,True,15.0,29.4,33.3,73.0,False,0.9,98.283,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,52.0,2.0,MEDIUM,15.0,False,1,True,15.0,29.4,33.3,72.0,False,0.6,97.392,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,53.0,2.0,MEDIUM,16.0,False,1,True,14.0,29.3,33.6,74.0,False,1.1,97.307,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,54.0,2.0,MEDIUM,17.0,False,1,True,14.0,29.4,33.2,74.0,False,0.9,97.123,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,55.0,2.0,MEDIUM,18.0,False,1,True,14.0,29.5,33.1,72.0,False,1.1,97.937,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,56.0,2.0,MEDIUM,19.0,False,1,True,14.0,29.5,33.3,73.0,False,0.3,96.867,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,57.0,2.0,MEDIUM,20.0,False,1,True,13.0,29.5,33.5,72.0,False,1.5,97.291,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,58.0,2.0,MEDIUM,21.0,False,1,True,13.0,29.5,33.5,72.0,False,1.2,96.324,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,59.0,2.0,MEDIUM,22.0,False,1,True,13.0,29.4,33.4,71.0,False,1.6,96.053,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,60.0,2.0,MEDIUM,23.0,False,1,True,13.0,29.4,33.3,72.0,False,1.7,95.851,False,62,2025,18,Singapore Grand Prix,2025_18
+STR,Aston Martin,61.0,2.0,MEDIUM,24.0,False,1,True,13.0,29.4,33.6,72.0,False,1.4,96.0,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,20.0,28.7,33.6,80.0,False,0.4,116.76,True,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,20.0,28.9,34.2,80.0,False,0.6,102.374,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,20.0,28.9,33.3,81.0,False,0.5,100.171,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,20.0,29.1,34.5,80.0,False,0.8,100.091,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,20.0,29.1,34.1,78.0,False,1.0,99.142,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,20.0,29.0,33.8,78.0,False,1.0,100.67,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,12,True,20.0,29.1,33.8,78.0,False,1.4,99.483,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,20.0,29.1,33.9,77.0,False,1.2,99.48,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,20.0,29.1,34.1,77.0,False,1.4,99.185,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,20.0,29.1,34.0,76.0,False,1.8,98.941,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,20.0,29.1,34.3,74.0,False,1.7,98.758,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,20.0,29.0,34.3,74.0,False,1.9,99.603,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,19.0,29.0,33.9,74.0,False,2.2,100.215,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,18.0,29.1,33.9,71.0,False,2.0,98.819,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,17.0,29.1,34.3,72.0,False,1.6,99.028,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,17.0,29.1,34.0,71.0,False,2.0,98.507,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,17.0,29.2,33.8,72.0,False,1.8,98.427,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,17.0,29.2,34.1,72.0,False,1.9,98.647,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,17.0,29.2,33.8,72.0,False,1.5,98.389,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,17.0,29.2,33.8,73.0,False,1.0,98.469,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,16.0,29.2,34.0,72.0,False,1.2,98.668,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,22.0,1.0,MEDIUM,22.0,True,1,True,16.0,29.2,33.7,72.0,False,1.5,98.446,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,23.0,1.0,MEDIUM,23.0,True,1,True,16.0,29.2,33.7,72.0,False,1.3,98.445,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,24.0,1.0,MEDIUM,24.0,True,1,True,14.0,29.3,33.7,72.0,False,1.3,98.64,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,25.0,1.0,MEDIUM,25.0,True,1,True,14.0,29.3,33.7,71.0,False,1.4,97.975,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,26.0,1.0,MEDIUM,26.0,True,1,True,14.0,29.3,33.7,72.0,False,1.5,99.363,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,27.0,1.0,MEDIUM,27.0,True,1,True,14.0,29.2,33.7,72.0,False,1.2,98.21,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,28.0,1.0,MEDIUM,28.0,True,1,True,13.0,29.2,33.7,73.0,False,1.1,97.694,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,29.0,1.0,MEDIUM,29.0,True,1,True,13.0,29.2,33.9,73.0,False,1.1,97.84,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,30.0,1.0,MEDIUM,30.0,True,1,True,13.0,29.3,33.7,72.0,False,1.1,97.733,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,31.0,1.0,MEDIUM,31.0,True,1,True,12.0,29.2,33.8,72.0,False,1.3,97.831,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,32.0,1.0,MEDIUM,32.0,True,1,True,12.0,29.2,34.0,72.0,False,1.1,98.089,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,33.0,1.0,MEDIUM,33.0,True,1,True,12.0,29.2,33.9,72.0,False,1.3,98.36,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,34.0,1.0,MEDIUM,34.0,True,1,True,12.0,29.1,34.0,72.0,False,1.3,98.286,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,35.0,1.0,MEDIUM,35.0,True,1,True,12.0,29.1,34.1,72.0,False,1.0,98.601,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,36.0,1.0,MEDIUM,36.0,True,1,True,12.0,29.2,33.9,71.0,False,1.4,98.579,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,37.0,1.0,MEDIUM,37.0,True,1,True,12.0,29.2,34.0,71.0,False,1.1,98.951,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,38.0,1.0,MEDIUM,38.0,True,1,True,11.0,29.2,34.0,72.0,False,0.8,99.303,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,39.0,1.0,MEDIUM,39.0,True,1,True,11.0,29.2,33.9,72.0,False,0.8,98.886,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,40.0,1.0,MEDIUM,40.0,True,1,True,11.0,29.2,34.3,72.0,False,0.8,98.624,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,41.0,1.0,MEDIUM,41.0,True,1,True,11.0,29.3,34.1,71.0,False,0.8,98.657,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,42.0,1.0,MEDIUM,42.0,True,1,False,13.0,29.4,34.1,71.0,False,0.9,108.02,True,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,43.0,2.0,SOFT,1.0,True,1,False,20.0,29.4,33.9,71.0,False,1.0,116.997,True,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,44.0,2.0,SOFT,2.0,True,12,True,19.0,29.4,33.9,71.0,False,0.7,96.556,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,45.0,2.0,SOFT,3.0,True,1,True,19.0,29.4,33.9,71.0,False,0.6,95.961,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,46.0,2.0,SOFT,4.0,True,1,True,19.0,29.4,34.1,70.0,False,1.0,96.606,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,47.0,2.0,SOFT,5.0,True,1,True,18.0,29.5,33.6,70.0,False,0.9,98.313,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,48.0,2.0,SOFT,6.0,True,1,True,19.0,29.5,34.0,70.0,False,1.2,99.502,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,49.0,2.0,SOFT,7.0,True,1,True,18.0,29.5,33.4,73.0,False,0.7,98.154,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,50.0,2.0,SOFT,8.0,True,1,True,18.0,29.4,33.6,73.0,False,0.9,100.751,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,51.0,2.0,SOFT,9.0,True,1,True,17.0,29.4,33.3,73.0,False,0.9,98.346,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,52.0,2.0,SOFT,10.0,True,1,True,16.0,29.4,33.3,72.0,False,0.6,96.648,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,53.0,2.0,SOFT,11.0,True,1,True,15.0,29.3,33.6,74.0,False,1.1,95.882,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,54.0,2.0,SOFT,12.0,True,1,True,15.0,29.4,33.2,74.0,False,0.9,96.848,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,55.0,2.0,SOFT,13.0,True,1,True,15.0,29.5,33.1,72.0,False,1.1,98.183,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,56.0,2.0,SOFT,14.0,True,1,True,15.0,29.5,33.3,73.0,False,0.3,96.706,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,57.0,2.0,SOFT,15.0,True,1,True,15.0,29.5,33.5,72.0,False,1.5,97.719,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,58.0,2.0,SOFT,16.0,True,1,True,14.0,29.5,33.5,72.0,False,1.2,96.822,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,59.0,2.0,SOFT,17.0,True,1,True,14.0,29.4,33.4,71.0,False,1.6,95.792,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,60.0,2.0,SOFT,18.0,True,1,True,14.0,29.4,33.3,72.0,False,1.7,95.648,False,62,2025,18,Singapore Grand Prix,2025_18
+ALB,Williams,61.0,2.0,SOFT,19.0,True,1,True,14.0,29.4,33.6,72.0,False,1.4,95.893,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,1.0,1.0,MEDIUM,1.0,True,1,False,12.0,28.7,33.6,80.0,False,0.4,111.941,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,2.0,1.0,MEDIUM,2.0,True,1,True,12.0,28.9,34.2,80.0,False,0.6,101.671,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,3.0,1.0,MEDIUM,3.0,True,1,True,12.0,28.9,33.3,81.0,False,0.5,99.832,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,4.0,1.0,MEDIUM,4.0,True,1,True,12.0,29.1,34.5,80.0,False,0.8,99.536,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,5.0,1.0,MEDIUM,5.0,True,1,True,12.0,29.1,34.1,78.0,False,1.0,98.772,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,6.0,1.0,MEDIUM,6.0,True,1,True,12.0,29.0,33.8,78.0,False,1.0,98.838,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,7.0,1.0,MEDIUM,7.0,True,12,True,12.0,29.1,33.8,78.0,False,1.4,98.827,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,8.0,1.0,MEDIUM,8.0,True,1,True,12.0,29.1,33.9,77.0,False,1.2,98.966,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,9.0,1.0,MEDIUM,9.0,True,1,True,12.0,29.1,34.1,77.0,False,1.4,98.559,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,29.1,34.0,76.0,False,1.8,98.379,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,29.1,34.3,74.0,False,1.7,98.614,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,29.0,34.3,74.0,False,1.9,99.222,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,29.0,33.9,74.0,False,2.2,98.886,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,14.0,1.0,MEDIUM,14.0,True,1,True,12.0,29.1,33.9,71.0,False,2.0,98.787,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,29.1,34.3,72.0,False,1.6,99.272,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,29.1,34.0,71.0,False,2.0,98.943,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,29.2,33.8,72.0,False,2.1,98.696,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,29.2,34.1,72.0,False,1.9,98.548,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,29.2,33.8,72.0,False,1.5,98.38,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,29.2,33.8,73.0,False,0.9,98.5,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,21.0,1.0,MEDIUM,21.0,True,1,True,11.0,29.2,34.0,72.0,False,1.2,98.554,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,22.0,1.0,MEDIUM,22.0,True,1,True,11.0,29.2,33.7,72.0,False,1.5,98.842,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,23.0,1.0,MEDIUM,23.0,True,1,True,11.0,29.2,33.8,72.0,False,1.1,98.724,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,24.0,1.0,MEDIUM,24.0,True,1,True,10.0,29.3,33.7,72.0,False,1.3,98.386,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,25.0,1.0,MEDIUM,25.0,True,1,True,9.0,29.3,33.7,71.0,False,1.4,99.052,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,29.3,33.7,72.0,False,1.5,98.362,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,27.0,1.0,MEDIUM,27.0,True,1,True,9.0,29.2,33.7,72.0,False,1.2,98.546,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,28.0,1.0,MEDIUM,28.0,True,1,True,8.0,29.2,33.7,73.0,False,1.1,98.103,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,29.0,1.0,MEDIUM,29.0,True,1,True,8.0,29.2,33.9,73.0,False,1.1,98.48,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,30.0,1.0,MEDIUM,30.0,True,1,True,8.0,29.3,33.7,72.0,False,1.1,98.341,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,31.0,1.0,MEDIUM,31.0,True,1,True,8.0,29.2,33.8,72.0,False,1.1,98.312,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,32.0,1.0,MEDIUM,32.0,True,1,True,8.0,29.2,34.0,72.0,False,1.1,98.337,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,33.0,1.0,MEDIUM,33.0,True,1,True,8.0,29.2,33.9,72.0,False,1.3,98.26,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,34.0,1.0,MEDIUM,34.0,True,1,True,8.0,29.2,33.7,71.0,False,1.2,98.362,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,35.0,1.0,MEDIUM,35.0,True,1,True,8.0,29.1,34.1,72.0,False,1.0,98.486,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,36.0,1.0,MEDIUM,36.0,True,1,True,8.0,29.2,33.9,71.0,False,1.4,98.678,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,37.0,1.0,MEDIUM,37.0,True,1,True,8.0,29.2,34.0,71.0,False,1.1,98.795,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,38.0,1.0,MEDIUM,38.0,True,1,True,8.0,29.2,34.0,72.0,False,0.8,99.014,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,39.0,1.0,MEDIUM,39.0,True,1,True,8.0,29.2,33.9,72.0,False,0.8,98.83,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,40.0,1.0,MEDIUM,40.0,True,1,True,8.0,29.2,34.3,72.0,False,0.8,99.313,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,41.0,1.0,MEDIUM,41.0,True,1,True,8.0,29.3,34.1,71.0,False,0.8,99.005,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,42.0,1.0,MEDIUM,42.0,True,1,True,8.0,29.4,34.1,71.0,False,0.9,98.818,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,43.0,1.0,MEDIUM,43.0,True,1,True,8.0,29.4,33.9,71.0,False,1.0,99.18,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,44.0,1.0,MEDIUM,44.0,True,12,True,8.0,29.4,33.9,71.0,False,0.7,99.498,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,45.0,1.0,MEDIUM,45.0,True,1,True,8.0,29.4,33.6,71.0,False,0.0,99.003,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,46.0,1.0,MEDIUM,46.0,True,1,True,8.0,29.4,34.1,71.0,False,0.5,99.352,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,47.0,1.0,MEDIUM,47.0,True,1,True,9.0,29.5,33.6,70.0,False,0.9,100.79,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,48.0,1.0,MEDIUM,48.0,True,1,False,13.0,29.5,34.0,70.0,False,0.8,106.869,True,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,49.0,2.0,SOFT,1.0,True,1,False,19.0,29.5,33.5,72.0,False,0.7,115.656,True,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,50.0,2.0,SOFT,2.0,True,1,True,19.0,29.4,33.6,73.0,False,0.9,101.289,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,51.0,2.0,SOFT,3.0,True,1,True,18.0,29.4,33.3,73.0,False,0.9,98.14,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,52.0,2.0,SOFT,4.0,True,1,True,17.0,29.3,33.3,73.0,False,0.6,97.829,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,53.0,2.0,SOFT,5.0,True,1,True,17.0,29.3,33.6,74.0,False,1.1,95.96,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,54.0,2.0,SOFT,6.0,True,1,True,16.0,29.4,33.2,74.0,False,0.9,97.325,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,55.0,2.0,SOFT,7.0,True,1,True,16.0,29.5,33.1,72.0,False,1.1,96.199,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,56.0,2.0,SOFT,8.0,True,1,True,16.0,29.5,33.3,73.0,False,0.3,96.874,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,57.0,2.0,SOFT,9.0,True,1,True,16.0,29.5,33.5,72.0,False,1.5,97.322,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,58.0,2.0,SOFT,10.0,True,1,True,15.0,29.5,33.5,72.0,False,1.2,97.891,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,59.0,2.0,SOFT,11.0,True,1,True,15.0,29.4,33.4,71.0,False,1.6,96.065,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,60.0,2.0,SOFT,12.0,True,1,True,15.0,29.4,33.3,72.0,False,1.7,95.86,False,62,2025,18,Singapore Grand Prix,2025_18
+LAW,Racing Bulls,61.0,2.0,SOFT,13.0,True,1,True,15.0,29.4,33.6,72.0,False,1.4,95.641,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,1.0,1.0,SOFT,1.0,True,1,False,13.0,28.7,33.6,80.0,False,0.4,112.427,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,2.0,1.0,SOFT,2.0,True,1,True,13.0,28.9,34.2,80.0,False,0.6,101.923,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,3.0,1.0,SOFT,3.0,True,1,True,13.0,28.9,33.3,81.0,False,0.5,99.789,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,4.0,1.0,SOFT,4.0,True,1,True,13.0,29.1,34.5,80.0,False,0.8,99.604,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,5.0,1.0,SOFT,5.0,True,1,True,13.0,29.1,34.1,78.0,False,1.0,98.907,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,6.0,1.0,SOFT,6.0,True,1,True,13.0,29.0,33.8,78.0,False,1.0,99.039,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,7.0,1.0,SOFT,7.0,True,12,True,13.0,29.1,33.8,78.0,False,1.4,98.844,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,8.0,1.0,SOFT,8.0,True,1,True,13.0,29.1,33.9,77.0,False,1.2,98.72,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,9.0,1.0,SOFT,9.0,True,1,True,13.0,29.1,34.1,77.0,False,1.4,98.76,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,10.0,1.0,SOFT,10.0,True,1,True,13.0,29.1,34.0,76.0,False,1.8,98.649,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,11.0,1.0,SOFT,11.0,True,1,True,13.0,29.1,34.3,74.0,False,1.7,98.67,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,12.0,1.0,SOFT,12.0,True,1,True,13.0,29.0,34.3,74.0,False,1.9,98.988,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,13.0,1.0,SOFT,13.0,True,1,True,13.0,29.0,33.9,74.0,False,2.2,98.869,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,14.0,1.0,SOFT,14.0,True,1,False,15.0,29.1,33.9,71.0,False,2.0,104.453,True,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,15.0,2.0,MEDIUM,1.0,True,1,False,18.0,29.1,34.3,72.0,False,1.6,114.316,True,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,16.0,2.0,MEDIUM,2.0,True,1,True,18.0,29.1,34.0,71.0,False,2.0,97.557,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,17.0,2.0,MEDIUM,3.0,True,1,True,18.0,29.2,33.8,72.0,False,1.8,97.182,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,18.0,2.0,MEDIUM,4.0,True,1,True,18.0,29.2,34.1,72.0,False,1.9,97.646,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,19.0,2.0,MEDIUM,5.0,True,1,True,18.0,29.2,33.8,72.0,False,1.5,97.816,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,20.0,2.0,MEDIUM,6.0,True,1,True,18.0,29.2,33.8,73.0,False,1.0,97.364,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,21.0,2.0,MEDIUM,7.0,True,1,True,18.0,29.2,34.0,72.0,False,1.2,100.941,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,22.0,2.0,MEDIUM,8.0,True,1,True,18.0,29.2,33.7,72.0,False,1.5,98.645,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,23.0,2.0,MEDIUM,9.0,True,1,True,18.0,29.2,33.7,72.0,False,1.3,97.924,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,24.0,2.0,MEDIUM,10.0,True,1,True,18.0,29.3,33.7,72.0,False,1.3,97.939,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,25.0,2.0,MEDIUM,11.0,True,1,True,17.0,29.3,33.7,71.0,False,1.4,98.213,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,26.0,2.0,MEDIUM,12.0,True,1,True,16.0,29.2,33.7,72.0,False,1.4,98.418,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,27.0,2.0,MEDIUM,13.0,True,1,True,16.0,29.2,33.7,72.0,False,1.2,98.338,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,28.0,2.0,MEDIUM,14.0,True,1,True,16.0,29.2,33.7,73.0,False,1.1,99.169,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,29.0,2.0,MEDIUM,15.0,True,1,True,16.0,29.2,33.9,73.0,False,1.1,98.514,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,30.0,2.0,MEDIUM,16.0,True,1,True,16.0,29.3,33.7,72.0,False,1.1,98.572,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,31.0,2.0,MEDIUM,17.0,True,1,True,15.0,29.2,33.8,72.0,False,1.3,98.428,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,32.0,2.0,MEDIUM,18.0,True,1,True,15.0,29.2,34.0,72.0,False,1.1,98.617,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,33.0,2.0,MEDIUM,19.0,True,1,True,15.0,29.2,33.9,72.0,False,1.3,98.204,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,34.0,2.0,MEDIUM,20.0,True,1,True,15.0,29.1,34.0,72.0,False,1.3,98.272,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,35.0,2.0,MEDIUM,21.0,True,1,True,15.0,29.1,34.1,72.0,False,1.0,97.703,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,36.0,2.0,MEDIUM,22.0,True,1,True,15.0,29.2,33.9,71.0,False,1.4,98.313,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,37.0,2.0,MEDIUM,23.0,True,1,True,15.0,29.2,34.0,71.0,False,1.0,99.485,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,38.0,2.0,MEDIUM,24.0,True,1,True,15.0,29.2,34.0,72.0,False,0.8,98.899,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,39.0,2.0,MEDIUM,25.0,True,1,True,14.0,29.2,33.9,72.0,False,0.8,98.524,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,40.0,2.0,MEDIUM,26.0,True,1,True,14.0,29.3,34.3,71.0,False,1.5,98.069,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,41.0,2.0,MEDIUM,27.0,True,1,True,14.0,29.3,34.1,71.0,False,0.8,100.27,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,42.0,2.0,MEDIUM,28.0,True,1,True,15.0,29.4,34.1,71.0,False,0.9,101.546,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,43.0,2.0,MEDIUM,29.0,True,1,True,14.0,29.3,33.5,71.0,False,0.6,98.505,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,44.0,2.0,MEDIUM,30.0,True,12,True,14.0,29.4,33.9,71.0,False,0.7,98.957,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,45.0,2.0,MEDIUM,31.0,True,1,True,14.0,29.4,33.9,71.0,False,0.6,98.142,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,46.0,2.0,MEDIUM,32.0,True,1,True,14.0,29.4,34.1,71.0,False,0.5,100.817,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,47.0,2.0,MEDIUM,33.0,True,1,True,14.0,29.5,33.6,70.0,False,0.9,98.596,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,48.0,2.0,MEDIUM,34.0,True,1,True,14.0,29.5,34.0,70.0,False,1.2,101.028,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,49.0,2.0,MEDIUM,35.0,True,1,True,13.0,29.5,33.5,72.0,False,0.7,98.679,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,50.0,2.0,MEDIUM,36.0,True,1,True,13.0,29.4,33.6,73.0,False,0.9,99.523,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,51.0,2.0,MEDIUM,37.0,True,1,True,12.0,29.4,33.3,73.0,False,0.9,97.834,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,52.0,2.0,MEDIUM,38.0,True,1,True,12.0,29.4,33.3,72.0,False,0.6,98.053,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,53.0,2.0,MEDIUM,39.0,True,1,True,13.0,29.3,33.6,74.0,False,1.1,98.354,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,54.0,2.0,MEDIUM,40.0,True,1,True,13.0,29.4,33.2,74.0,False,0.9,97.935,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,55.0,2.0,MEDIUM,41.0,True,1,True,13.0,29.5,33.1,72.0,False,1.1,98.084,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,56.0,2.0,MEDIUM,42.0,True,1,True,13.0,29.5,33.3,73.0,False,0.3,97.433,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,57.0,2.0,MEDIUM,43.0,True,1,True,14.0,29.5,33.5,72.0,False,1.5,98.731,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,58.0,2.0,MEDIUM,44.0,True,1,True,16.0,29.5,33.5,72.0,False,1.2,103.401,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,59.0,2.0,MEDIUM,45.0,True,1,True,16.0,29.4,33.4,71.0,False,1.6,99.656,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,60.0,2.0,MEDIUM,46.0,True,1,True,16.0,29.4,33.4,71.0,False,1.6,100.213,False,62,2025,18,Singapore Grand Prix,2025_18
+COL,Alpine,61.0,2.0,MEDIUM,47.0,True,1,True,16.0,29.4,33.6,72.0,False,1.4,98.79,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,28.7,33.6,80.0,False,0.4,114.057,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,28.9,34.2,80.0,False,0.6,101.226,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,28.9,33.3,81.0,False,0.5,100.081,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,29.1,34.5,80.0,False,0.8,99.677,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,29.1,34.1,78.0,False,1.0,99.452,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,29.0,33.8,78.0,False,1.0,99.657,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,12,True,15.0,29.1,33.8,78.0,False,1.4,99.072,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,29.1,33.9,77.0,False,1.2,98.776,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,29.1,34.1,77.0,False,1.4,99.153,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,29.1,34.0,76.0,False,1.8,98.835,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,29.1,34.3,74.0,False,1.7,98.816,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,15.0,29.0,34.3,74.0,False,1.9,98.922,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,False,17.0,29.0,33.9,74.0,False,2.2,104.393,True,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,14.0,2.0,HARD,1.0,True,1,False,20.0,29.1,33.9,71.0,False,2.0,123.963,True,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,15.0,2.0,HARD,2.0,True,1,True,20.0,29.1,34.0,72.0,False,2.1,97.152,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,16.0,2.0,HARD,3.0,True,1,True,20.0,29.1,34.0,71.0,False,2.0,97.126,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,17.0,2.0,HARD,4.0,True,1,True,20.0,29.2,33.8,72.0,False,1.8,97.34,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,18.0,2.0,HARD,5.0,True,1,True,20.0,29.3,34.1,72.0,False,1.1,97.377,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,19.0,2.0,HARD,6.0,True,1,True,20.0,29.2,33.8,72.0,False,1.5,97.288,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,20.0,2.0,HARD,7.0,True,1,True,20.0,29.2,33.8,73.0,False,1.0,97.191,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,21.0,2.0,HARD,8.0,True,1,True,20.0,29.2,34.0,72.0,False,1.2,97.237,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,22.0,2.0,HARD,9.0,True,1,True,20.0,29.2,33.7,72.0,False,1.5,97.531,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,23.0,2.0,HARD,10.0,True,1,True,20.0,29.2,33.7,72.0,False,1.3,97.622,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,24.0,2.0,HARD,11.0,True,1,True,20.0,29.3,33.7,72.0,False,1.3,97.646,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,25.0,2.0,HARD,12.0,True,1,True,19.0,29.3,33.7,71.0,False,1.4,97.815,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,26.0,2.0,HARD,13.0,True,1,True,19.0,29.2,33.7,72.0,False,1.4,98.328,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,27.0,2.0,HARD,14.0,True,1,True,19.0,29.2,33.7,72.0,False,1.2,98.171,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,28.0,2.0,HARD,15.0,True,1,True,19.0,29.2,33.7,73.0,False,1.1,98.596,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,29.0,2.0,HARD,16.0,True,1,True,19.0,29.2,33.9,72.0,False,1.3,98.638,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,30.0,2.0,HARD,17.0,True,1,True,19.0,29.3,33.7,72.0,False,1.1,98.529,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,31.0,2.0,HARD,18.0,True,1,True,18.0,29.2,33.8,72.0,False,1.3,98.324,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,32.0,2.0,HARD,19.0,True,1,True,18.0,29.2,34.0,72.0,False,1.1,98.218,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,33.0,2.0,HARD,20.0,True,1,True,18.0,29.2,33.9,72.0,False,1.3,98.513,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,34.0,2.0,HARD,21.0,True,1,True,18.0,29.1,34.0,72.0,False,1.3,98.124,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,35.0,2.0,HARD,22.0,True,1,True,18.0,29.1,34.1,72.0,False,1.0,98.841,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,36.0,2.0,HARD,23.0,True,1,True,18.0,29.2,33.9,71.0,False,1.4,98.581,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,37.0,2.0,HARD,24.0,True,1,True,18.0,29.2,34.0,71.0,False,1.0,98.427,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,38.0,2.0,HARD,25.0,True,1,True,18.0,29.2,34.0,72.0,False,0.8,98.612,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,39.0,2.0,HARD,26.0,True,1,True,17.0,29.2,33.9,72.0,False,0.8,98.432,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,40.0,2.0,HARD,27.0,True,1,True,17.0,29.3,34.3,71.0,False,1.5,98.004,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,41.0,2.0,HARD,28.0,True,1,True,17.0,29.3,34.1,71.0,False,0.8,98.849,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,42.0,2.0,HARD,29.0,True,1,True,17.0,29.4,34.1,71.0,False,0.9,101.827,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,43.0,2.0,HARD,30.0,True,1,True,16.0,29.3,33.5,71.0,False,0.6,98.793,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,44.0,2.0,HARD,31.0,True,12,True,15.0,29.4,33.9,71.0,False,0.7,98.449,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,45.0,2.0,HARD,32.0,True,1,True,15.0,29.4,33.9,71.0,False,0.6,99.682,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,46.0,2.0,HARD,33.0,True,1,True,15.0,29.4,34.1,71.0,False,0.5,98.65,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,47.0,2.0,HARD,34.0,True,1,True,15.0,29.5,33.6,70.0,False,0.9,100.22,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,48.0,2.0,HARD,35.0,True,1,True,15.0,29.5,34.0,70.0,False,1.2,99.047,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,49.0,2.0,HARD,36.0,True,1,True,14.0,29.5,33.5,72.0,False,0.7,99.69,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,50.0,2.0,HARD,37.0,True,1,True,14.0,29.4,33.6,73.0,False,0.9,98.946,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,51.0,2.0,HARD,38.0,True,1,True,13.0,29.4,33.3,73.0,False,0.9,98.211,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,52.0,2.0,HARD,39.0,True,1,True,14.0,29.4,33.3,72.0,False,0.6,98.99,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,53.0,2.0,HARD,40.0,True,1,True,16.0,29.3,33.6,74.0,False,1.1,100.052,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,54.0,2.0,HARD,41.0,True,1,True,17.0,29.4,33.2,74.0,False,0.9,99.959,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,55.0,2.0,HARD,42.0,True,1,True,17.0,29.5,33.1,72.0,False,1.1,101.702,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,56.0,2.0,HARD,43.0,True,1,True,17.0,29.5,33.3,73.0,False,0.3,100.096,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,57.0,2.0,HARD,44.0,True,1,True,17.0,29.5,33.5,72.0,False,1.5,98.065,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,58.0,2.0,HARD,45.0,True,1,True,17.0,29.5,33.5,72.0,False,1.2,97.901,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,59.0,2.0,HARD,46.0,True,1,True,17.0,29.4,33.4,71.0,False,1.6,98.112,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,60.0,2.0,HARD,47.0,True,1,True,17.0,29.4,33.4,71.0,False,1.6,99.189,False,62,2025,18,Singapore Grand Prix,2025_18
+BOR,Kick Sauber,61.0,2.0,HARD,48.0,True,1,True,17.0,29.4,33.6,72.0,False,1.4,98.947,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,28.7,33.6,80.0,False,0.4,115.463,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,28.9,34.2,80.0,False,0.6,101.132,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,28.9,33.3,81.0,False,0.5,100.342,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,29.1,34.5,80.0,False,0.8,99.425,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,29.1,34.1,78.0,False,1.0,99.209,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,16.0,29.0,33.8,78.0,False,1.0,99.324,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,12,True,16.0,29.1,33.8,78.0,False,1.4,99.153,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,29.1,33.9,77.0,False,1.2,98.887,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,29.1,34.1,77.0,False,1.4,99.115,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,16.0,29.1,34.0,76.0,False,1.8,99.079,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,16.0,29.1,34.3,74.0,False,1.7,98.945,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,16.0,29.0,34.3,74.0,False,1.9,98.889,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,15.0,29.0,33.9,74.0,False,2.2,98.772,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,True,14.0,29.1,33.9,71.0,False,2.0,98.885,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,29.1,34.3,72.0,False,1.6,98.332,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,29.1,34.0,71.0,False,2.0,98.699,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,17.0,1.0,MEDIUM,17.0,True,1,True,14.0,29.2,33.8,72.0,False,1.8,98.425,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,18.0,1.0,MEDIUM,18.0,True,1,True,14.0,29.2,34.1,72.0,False,1.9,98.484,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,19.0,1.0,MEDIUM,19.0,True,1,True,14.0,29.2,33.8,72.0,False,1.5,98.363,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,20.0,1.0,MEDIUM,20.0,True,1,True,14.0,29.2,33.8,73.0,False,0.9,98.274,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,21.0,1.0,MEDIUM,21.0,True,1,True,13.0,29.2,34.0,72.0,False,1.2,98.511,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,22.0,1.0,MEDIUM,22.0,True,1,True,13.0,29.2,33.7,72.0,False,1.5,98.526,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,23.0,1.0,MEDIUM,23.0,True,1,True,13.0,29.2,33.8,72.0,False,1.1,98.493,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,24.0,1.0,MEDIUM,24.0,True,1,True,12.0,29.3,33.7,72.0,False,1.3,98.344,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,25.0,1.0,MEDIUM,25.0,True,1,True,12.0,29.3,33.7,71.0,False,1.4,98.512,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,26.0,1.0,MEDIUM,26.0,True,1,True,11.0,29.3,33.7,72.0,False,1.5,98.632,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,27.0,1.0,MEDIUM,27.0,True,1,True,11.0,29.2,33.7,72.0,False,1.2,98.565,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,28.0,1.0,MEDIUM,28.0,True,1,True,10.0,29.2,33.7,73.0,False,1.1,98.579,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,29.0,1.0,MEDIUM,29.0,True,1,True,10.0,29.2,33.9,73.0,False,1.1,98.448,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,30.0,1.0,MEDIUM,30.0,True,1,False,12.0,29.3,33.7,72.0,False,1.1,104.299,True,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,31.0,2.0,HARD,1.0,True,1,False,20.0,29.2,33.8,72.0,False,1.3,115.197,True,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,32.0,2.0,HARD,2.0,True,1,True,20.0,29.2,33.9,71.0,False,1.3,96.646,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,33.0,2.0,HARD,3.0,True,1,True,20.0,29.2,33.9,72.0,False,1.3,97.017,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,34.0,2.0,HARD,4.0,True,1,True,20.0,29.1,34.0,72.0,False,1.3,97.416,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,35.0,2.0,HARD,5.0,True,1,True,20.0,29.1,34.1,72.0,False,1.0,98.609,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,36.0,2.0,HARD,6.0,True,1,True,20.0,29.2,33.9,71.0,False,1.4,98.472,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,37.0,2.0,HARD,7.0,True,1,True,20.0,29.2,34.0,71.0,False,1.0,98.617,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,38.0,2.0,HARD,8.0,True,1,True,20.0,29.2,34.0,72.0,False,0.8,98.53,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,39.0,2.0,HARD,9.0,True,1,True,19.0,29.2,33.9,72.0,False,0.8,98.148,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,40.0,2.0,HARD,10.0,True,1,True,19.0,29.3,34.3,71.0,False,1.5,98.437,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,41.0,2.0,HARD,11.0,True,1,True,19.0,29.3,34.1,71.0,False,0.8,98.411,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,42.0,2.0,HARD,12.0,True,1,True,19.0,29.4,34.1,71.0,False,0.9,101.821,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,43.0,2.0,HARD,13.0,True,1,True,18.0,29.3,33.5,71.0,False,0.6,100.519,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,44.0,2.0,HARD,14.0,True,12,True,17.0,29.4,33.9,71.0,False,0.7,97.957,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,45.0,2.0,HARD,15.0,True,1,True,17.0,29.4,33.9,71.0,False,0.6,98.767,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,46.0,2.0,HARD,16.0,True,1,True,17.0,29.4,34.1,70.0,False,1.0,101.375,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,47.0,2.0,HARD,17.0,True,1,True,17.0,29.5,33.6,70.0,False,0.9,97.55,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,48.0,2.0,HARD,18.0,True,1,True,17.0,29.5,34.0,70.0,False,1.2,99.787,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,49.0,2.0,HARD,19.0,True,1,True,16.0,29.5,33.5,72.0,False,0.7,98.536,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,50.0,2.0,HARD,20.0,True,1,True,16.0,29.4,33.6,73.0,False,0.9,100.651,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,51.0,2.0,HARD,21.0,True,1,True,16.0,29.4,33.3,73.0,False,0.9,100.34,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,52.0,2.0,HARD,22.0,True,1,True,18.0,29.4,33.3,72.0,False,0.6,100.037,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,53.0,2.0,HARD,23.0,True,1,True,18.0,29.3,33.6,74.0,False,1.1,97.643,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,54.0,2.0,HARD,24.0,True,1,True,18.0,29.4,33.2,74.0,False,0.9,102.034,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,55.0,2.0,HARD,25.0,True,1,True,18.0,29.5,33.1,72.0,False,1.1,97.873,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,56.0,2.0,HARD,26.0,True,1,True,18.0,29.5,33.3,73.0,False,0.3,98.859,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,57.0,2.0,HARD,27.0,True,1,True,18.0,29.5,33.5,72.0,False,1.5,98.062,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,58.0,2.0,HARD,28.0,True,1,True,18.0,29.5,33.5,72.0,False,1.2,97.972,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,59.0,2.0,HARD,29.0,True,1,True,18.0,29.4,33.4,71.0,False,1.6,98.154,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,60.0,2.0,HARD,30.0,True,1,True,18.0,29.4,33.4,71.0,False,1.6,99.143,False,62,2025,18,Singapore Grand Prix,2025_18
+OCO,Haas F1 Team,61.0,2.0,HARD,31.0,True,1,True,18.0,29.4,33.6,72.0,False,1.4,98.814,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,19.0,28.7,33.6,80.0,False,0.4,116.341,True,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,19.0,28.9,34.2,80.0,False,0.6,102.454,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,19.0,28.9,33.3,81.0,False,0.5,100.018,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,29.1,34.5,80.0,False,0.8,99.753,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,19.0,29.1,34.1,78.0,False,1.0,99.548,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,19.0,29.0,33.8,78.0,False,1.0,99.87,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,12,True,19.0,29.1,33.8,78.0,False,1.4,99.25,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,19.0,29.1,33.9,77.0,False,1.2,99.485,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,19.0,29.1,34.1,77.0,False,1.4,99.255,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,19.0,29.1,34.0,76.0,False,1.8,99.733,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,19.0,29.1,34.3,74.0,False,1.7,98.727,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,19.0,29.0,34.3,74.0,False,1.9,98.848,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,18.0,29.0,33.9,74.0,False,2.2,99.338,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,17.0,29.1,33.9,71.0,False,2.0,99.017,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,16.0,29.1,34.3,72.0,False,1.6,98.846,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,16.0,29.1,34.0,71.0,False,2.0,98.713,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,16.0,29.2,33.8,72.0,False,1.8,98.907,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,16.0,29.2,34.1,72.0,False,1.9,98.552,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,16.0,29.2,33.8,72.0,False,1.5,98.623,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,16.0,29.2,33.8,73.0,False,1.0,98.894,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,15.0,29.2,34.0,72.0,False,1.2,98.826,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,15.0,29.2,33.7,72.0,False,1.5,98.586,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,15.0,29.2,33.7,72.0,False,1.3,98.472,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,24.0,1.0,MEDIUM,24.0,True,1,False,17.0,29.3,33.7,72.0,False,1.3,104.096,True,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,25.0,2.0,HARD,1.0,True,1,False,20.0,29.3,33.7,71.0,False,1.4,115.177,True,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,26.0,2.0,HARD,2.0,True,1,True,20.0,29.2,33.7,72.0,False,1.4,96.211,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,27.0,2.0,HARD,3.0,True,1,True,20.0,29.2,33.7,72.0,False,1.2,96.918,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,28.0,2.0,HARD,4.0,True,1,True,20.0,29.2,33.7,73.0,False,1.1,96.878,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,29.0,2.0,HARD,5.0,True,1,True,20.0,29.2,33.9,72.0,False,1.3,97.158,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,30.0,2.0,HARD,6.0,True,1,True,20.0,29.3,33.7,72.0,False,1.1,96.992,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,31.0,2.0,HARD,7.0,True,1,True,19.0,29.2,33.8,72.0,False,1.3,97.391,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,32.0,2.0,HARD,8.0,True,1,True,19.0,29.2,34.0,72.0,False,1.1,97.318,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,33.0,2.0,HARD,9.0,True,1,True,19.0,29.2,33.9,72.0,False,1.3,97.821,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,34.0,2.0,HARD,10.0,True,1,True,19.0,29.1,34.0,72.0,False,1.3,97.813,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,35.0,2.0,HARD,11.0,True,1,True,19.0,29.1,34.1,72.0,False,1.0,98.854,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,36.0,2.0,HARD,12.0,True,1,True,19.0,29.2,33.9,71.0,False,1.4,98.263,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,37.0,2.0,HARD,13.0,True,1,True,19.0,29.2,34.0,71.0,False,1.0,98.521,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,38.0,2.0,HARD,14.0,True,1,True,19.0,29.2,34.0,72.0,False,0.8,98.586,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,39.0,2.0,HARD,15.0,True,1,True,18.0,29.2,33.9,72.0,False,0.8,98.372,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,40.0,2.0,HARD,16.0,True,1,True,18.0,29.3,34.3,71.0,False,1.5,98.305,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,41.0,2.0,HARD,17.0,True,1,True,18.0,29.3,34.1,71.0,False,0.8,98.39,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,42.0,2.0,HARD,18.0,True,1,True,18.0,29.4,34.1,71.0,False,0.9,101.921,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,43.0,2.0,HARD,19.0,True,1,True,17.0,29.3,33.5,71.0,False,0.6,98.72,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,44.0,2.0,HARD,20.0,True,12,True,16.0,29.4,33.9,71.0,False,0.7,99.673,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,45.0,2.0,HARD,21.0,True,1,True,16.0,29.4,33.9,71.0,False,0.6,98.66,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,46.0,2.0,HARD,22.0,True,1,True,16.0,29.4,34.1,70.0,False,1.0,98.536,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,47.0,2.0,HARD,23.0,True,1,True,16.0,29.5,33.6,70.0,False,0.9,100.314,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,48.0,2.0,HARD,24.0,True,1,True,16.0,29.5,34.0,70.0,False,1.2,98.951,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,49.0,2.0,HARD,25.0,True,1,True,15.0,29.5,33.5,72.0,False,0.7,99.614,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,50.0,2.0,HARD,26.0,True,1,True,17.0,29.4,33.6,73.0,False,0.9,101.305,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,51.0,2.0,HARD,27.0,True,1,False,19.0,29.4,33.3,73.0,False,0.9,107.482,True,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,52.0,3.0,SOFT,1.0,True,1,False,20.0,29.3,33.3,73.0,False,0.6,113.049,True,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,53.0,3.0,SOFT,2.0,True,1,True,20.0,29.3,33.6,74.0,False,1.1,94.573,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,54.0,3.0,SOFT,3.0,True,1,True,20.0,29.4,33.2,74.0,False,0.9,94.648,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,55.0,3.0,SOFT,4.0,True,1,True,20.0,29.5,33.1,73.0,False,0.9,95.313,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,56.0,3.0,SOFT,5.0,True,1,True,20.0,29.5,33.3,73.0,False,0.3,95.016,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,57.0,3.0,SOFT,6.0,True,1,True,20.0,29.5,33.5,72.0,False,1.5,95.905,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,58.0,3.0,SOFT,7.0,True,1,True,20.0,29.5,33.5,72.0,False,1.2,97.47,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,59.0,3.0,SOFT,8.0,True,1,True,20.0,29.4,33.4,71.0,False,1.6,98.099,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,60.0,3.0,SOFT,9.0,True,1,True,20.0,29.4,33.4,71.0,False,1.6,99.313,False,62,2025,18,Singapore Grand Prix,2025_18
+GAS,Alpine,61.0,3.0,SOFT,10.0,True,1,True,19.0,29.4,33.6,72.0,False,1.4,98.146,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,28.7,33.6,80.0,False,0.4,111.473,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,28.9,34.2,80.0,False,0.6,101.36,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,28.9,33.3,81.0,False,0.5,99.741,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,29.1,34.5,80.0,False,0.8,99.542,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,29.1,34.1,78.0,False,1.0,98.855,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,29.0,33.8,78.0,False,1.0,99.136,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,12,True,11.0,29.1,33.8,78.0,False,1.4,98.437,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,29.1,33.9,77.0,False,1.2,99.127,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,29.1,34.1,77.0,False,1.4,98.354,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,11.0,29.1,34.0,76.0,False,1.8,98.304,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,11.0,29.1,34.3,74.0,False,1.7,98.24,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,11.0,29.0,34.3,74.0,False,1.9,98.408,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,11.0,29.0,33.9,74.0,False,2.2,98.453,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,11.0,29.0,34.0,73.0,False,1.6,98.774,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,29.1,34.3,72.0,False,1.6,98.634,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,11.0,29.1,34.0,71.0,False,2.0,98.641,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,11.0,29.2,33.8,72.0,False,2.1,99.106,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,True,11.0,29.2,34.1,72.0,False,1.9,98.407,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,19.0,1.0,MEDIUM,19.0,True,1,True,11.0,29.2,33.8,72.0,False,1.5,98.655,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,20.0,1.0,MEDIUM,20.0,True,1,True,10.0,29.2,33.8,73.0,False,0.9,98.598,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,21.0,1.0,MEDIUM,21.0,True,1,True,10.0,29.2,34.0,72.0,False,1.2,98.214,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,22.0,1.0,MEDIUM,22.0,True,1,True,10.0,29.2,33.7,72.0,False,1.5,100.183,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,23.0,1.0,MEDIUM,23.0,True,1,True,9.0,29.2,33.8,72.0,False,1.1,98.42,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,24.0,1.0,MEDIUM,24.0,True,1,True,9.0,29.3,33.7,72.0,False,1.3,97.935,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,25.0,1.0,MEDIUM,25.0,True,1,False,11.0,29.3,33.7,71.0,False,1.4,103.809,True,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,26.0,2.0,HARD,1.0,True,1,False,18.0,29.3,33.7,72.0,False,1.5,114.972,True,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,27.0,2.0,HARD,2.0,True,1,True,18.0,29.2,33.7,72.0,False,1.2,97.859,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,28.0,2.0,HARD,3.0,True,1,True,18.0,29.2,33.7,73.0,False,1.1,99.489,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,29.0,2.0,HARD,4.0,True,1,True,18.0,29.2,33.9,73.0,False,1.1,98.522,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,30.0,2.0,HARD,5.0,True,1,True,18.0,29.3,33.7,72.0,False,1.1,98.855,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,31.0,2.0,HARD,6.0,True,1,True,17.0,29.2,33.8,72.0,False,1.3,98.065,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,32.0,2.0,HARD,7.0,True,1,True,17.0,29.2,34.0,72.0,False,1.1,98.287,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,33.0,2.0,HARD,8.0,True,1,True,17.0,29.2,33.9,72.0,False,1.3,98.049,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,34.0,2.0,HARD,9.0,True,1,True,17.0,29.1,34.0,72.0,False,1.3,98.771,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,35.0,2.0,HARD,10.0,True,1,True,17.0,29.1,34.1,72.0,False,1.0,98.737,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,36.0,2.0,HARD,11.0,True,1,True,17.0,29.2,33.9,71.0,False,1.4,98.023,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,37.0,2.0,HARD,12.0,True,1,True,17.0,29.2,34.0,71.0,False,1.0,98.811,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,38.0,2.0,HARD,13.0,True,1,True,17.0,29.2,34.0,72.0,False,0.8,98.401,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,39.0,2.0,HARD,14.0,True,1,True,16.0,29.2,33.9,72.0,False,0.8,98.53,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,40.0,2.0,HARD,15.0,True,1,True,16.0,29.3,34.3,71.0,False,1.5,98.19,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,41.0,2.0,HARD,16.0,True,1,True,16.0,29.3,34.1,71.0,False,0.8,99.375,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,42.0,2.0,HARD,17.0,True,1,True,16.0,29.4,34.1,71.0,False,0.9,101.286,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,43.0,2.0,HARD,18.0,True,1,True,15.0,29.3,33.5,71.0,False,0.6,98.404,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,44.0,2.0,HARD,19.0,True,12,False,20.0,29.4,33.9,71.0,False,0.7,122.923,True,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,45.0,3.0,SOFT,1.0,True,1,False,20.0,29.4,33.9,71.0,False,0.6,121.491,True,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,46.0,3.0,SOFT,2.0,True,1,True,20.0,29.4,34.1,70.0,False,1.0,98.192,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,47.0,3.0,SOFT,3.0,True,1,True,20.0,29.5,34.0,70.0,False,0.8,95.404,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,48.0,3.0,SOFT,4.0,True,1,True,20.0,29.5,34.0,70.0,False,1.2,95.544,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,49.0,3.0,SOFT,5.0,True,1,True,20.0,29.5,33.4,73.0,False,0.7,95.53,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,50.0,3.0,SOFT,6.0,True,1,True,20.0,29.4,34.0,73.0,False,0.6,95.536,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,51.0,3.0,SOFT,7.0,True,1,True,20.0,29.4,33.3,73.0,False,0.9,95.575,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,52.0,3.0,SOFT,8.0,True,1,True,19.0,29.3,33.3,73.0,False,0.6,95.521,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,53.0,3.0,SOFT,9.0,True,1,True,19.0,29.3,33.6,74.0,False,1.1,95.457,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,54.0,3.0,SOFT,10.0,True,1,True,19.0,29.4,33.2,74.0,False,0.9,95.505,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,55.0,3.0,SOFT,11.0,True,1,True,19.0,29.5,33.1,73.0,False,0.9,95.461,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,56.0,3.0,SOFT,12.0,True,1,True,19.0,29.5,33.3,73.0,False,0.3,95.727,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,57.0,3.0,SOFT,13.0,True,1,True,19.0,29.5,33.5,72.0,False,1.5,96.544,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,58.0,3.0,SOFT,14.0,True,1,True,19.0,29.5,33.5,72.0,False,1.2,98.014,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,59.0,3.0,SOFT,15.0,True,1,True,19.0,29.4,33.4,71.0,False,1.6,98.177,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,60.0,3.0,SOFT,16.0,True,1,True,19.0,29.4,33.4,71.0,False,1.6,99.179,False,62,2025,18,Singapore Grand Prix,2025_18
+HUL,Kick Sauber,61.0,3.0,SOFT,17.0,True,1,True,20.0,29.4,33.6,72.0,False,1.4,100.195,False,62,2025,18,Singapore Grand Prix,2025_18

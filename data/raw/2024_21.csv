@@ -1,0 +1,1135 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,11.0,22.5,25.1,78.0,True,0.9,99.161,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,1,True,10.0,22.4,24.6,78.0,True,0.7,87.134,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,1,True,10.0,22.4,24.6,78.0,True,1.2,86.24,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,12,True,10.0,22.2,24.4,77.0,True,1.1,86.702,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,1,True,9.0,22.2,24.6,78.0,True,0.7,85.394,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,1,True,8.0,22.2,24.8,79.0,True,0.7,84.311,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,1,True,8.0,22.1,24.9,77.0,True,0.7,84.342,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,8.0,22.1,24.9,78.0,True,0.7,84.657,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,8.0,22.1,25.0,77.0,True,0.9,84.778,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,7.0,22.1,25.0,77.0,True,1.1,84.015,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,12,True,6.0,22.1,24.9,76.0,True,1.1,84.156,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,12.0,1.0,INTERMEDIATE,12.0,True,21,True,6.0,22.2,24.8,75.0,True,0.7,83.43,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,13.0,1.0,INTERMEDIATE,13.0,True,1,True,6.0,22.2,25.0,76.0,True,0.6,84.512,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,14.0,1.0,INTERMEDIATE,14.0,True,1,True,6.0,22.3,25.3,76.0,True,0.5,84.791,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,15.0,1.0,INTERMEDIATE,15.0,True,1,True,6.0,22.3,25.4,75.0,True,0.6,84.669,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,16.0,1.0,INTERMEDIATE,16.0,True,1,True,6.0,22.2,25.3,76.0,True,0.7,85.131,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,17.0,1.0,INTERMEDIATE,17.0,True,1,True,6.0,22.1,25.3,75.0,True,0.8,84.328,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,18.0,1.0,INTERMEDIATE,18.0,True,1,True,6.0,22.1,25.1,76.0,True,0.5,84.248,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,19.0,1.0,INTERMEDIATE,19.0,True,1,True,6.0,22.0,25.1,77.0,True,0.6,84.493,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,20.0,1.0,INTERMEDIATE,20.0,True,1,True,6.0,22.0,24.9,77.0,True,0.4,83.915,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,21.0,1.0,INTERMEDIATE,21.0,True,1,True,6.0,22.0,24.9,81.0,True,1.1,84.269,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,22.0,1.0,INTERMEDIATE,22.0,True,1,True,6.0,22.0,24.9,81.0,True,1.0,85.055,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,23.0,1.0,INTERMEDIATE,23.0,True,1,True,6.0,22.0,24.9,82.0,True,0.4,84.267,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,24.0,1.0,INTERMEDIATE,24.0,True,1,True,5.0,22.0,25.0,83.0,True,0.4,84.53,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,25.0,1.0,INTERMEDIATE,25.0,True,1,True,5.0,21.9,24.9,85.0,True,0.7,84.156,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,26.0,1.0,INTERMEDIATE,26.0,True,12,True,5.0,21.9,24.7,85.0,True,0.4,85.252,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,27.0,1.0,INTERMEDIATE,27.0,True,126,False,5.0,21.8,24.6,86.0,True,0.7,88.393,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,28.0,1.0,INTERMEDIATE,28.0,True,671,False,4.0,21.7,24.4,86.0,True,1.4,111.717,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,29.0,1.0,INTERMEDIATE,29.0,True,1,True,2.0,21.5,24.1,87.0,True,1.0,105.014,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,30.0,1.0,INTERMEDIATE,30.0,True,14,False,2.0,21.3,24.0,88.0,True,0.7,119.319,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,31.0,1.0,INTERMEDIATE,31.0,True,4,False,2.0,21.0,23.5,88.0,True,0.9,124.967,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,32.0,1.0,INTERMEDIATE,32.0,True,45,False,2.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,33.0,2.0,INTERMEDIATE,1.0,True,12,False,2.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,34.0,2.0,INTERMEDIATE,2.0,True,21,True,2.0,20.6,25.1,90.0,True,0.7,90.36,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,35.0,2.0,INTERMEDIATE,3.0,True,1,True,2.0,20.6,25.1,90.0,True,0.8,88.006,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,36.0,2.0,INTERMEDIATE,4.0,True,12,True,2.0,20.6,24.7,90.0,True,0.4,86.509,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,37.0,2.0,INTERMEDIATE,5.0,True,1,True,2.0,20.6,24.6,91.0,True,0.7,85.286,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,38.0,2.0,INTERMEDIATE,6.0,True,12,True,2.0,20.5,24.3,91.0,True,0.3,84.391,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,39.0,2.0,INTERMEDIATE,7.0,True,124,False,2.0,20.5,24.2,92.0,True,0.6,85.296,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,40.0,2.0,INTERMEDIATE,8.0,True,4,False,2.0,20.5,24.3,91.0,True,0.4,129.449,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,41.0,2.0,INTERMEDIATE,9.0,True,4,False,2.0,20.5,24.5,90.0,False,1.2,125.095,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,42.0,2.0,INTERMEDIATE,10.0,True,41,False,2.0,20.5,24.7,91.0,False,0.4,142.964,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,43.0,2.0,INTERMEDIATE,11.0,True,12,True,1.0,20.4,24.7,90.0,True,0.6,85.676,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,44.0,2.0,INTERMEDIATE,12.0,True,21,True,1.0,20.5,24.8,91.0,False,1.0,83.884,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,45.0,2.0,INTERMEDIATE,13.0,True,1,True,1.0,20.5,24.8,90.0,True,0.8,82.876,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,46.0,2.0,INTERMEDIATE,14.0,True,1,True,1.0,20.5,24.8,91.0,True,0.7,83.106,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,47.0,2.0,INTERMEDIATE,15.0,True,1,True,1.0,20.5,25.3,90.0,True,1.0,82.453,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,48.0,2.0,INTERMEDIATE,16.0,True,1,True,1.0,20.6,25.3,90.0,True,0.7,82.29,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,49.0,2.0,INTERMEDIATE,17.0,True,1,True,1.0,20.6,25.6,90.0,True,1.1,82.241,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,50.0,2.0,INTERMEDIATE,18.0,True,1,True,1.0,20.6,25.3,90.0,True,0.6,82.043,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,51.0,2.0,INTERMEDIATE,19.0,True,1,True,1.0,20.6,25.1,90.0,True,0.9,82.306,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,52.0,2.0,INTERMEDIATE,20.0,True,12,True,1.0,20.7,24.9,90.0,False,1.0,82.38,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,53.0,2.0,INTERMEDIATE,21.0,True,1,True,1.0,20.7,24.6,89.0,False,1.4,82.251,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,54.0,2.0,INTERMEDIATE,22.0,True,1,True,1.0,20.7,24.6,90.0,False,1.3,82.246,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,55.0,2.0,INTERMEDIATE,23.0,True,1,True,1.0,20.5,24.6,90.0,False,0.8,82.291,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,56.0,2.0,INTERMEDIATE,24.0,True,1,True,1.0,20.5,24.6,90.0,False,0.4,82.005,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,57.0,2.0,INTERMEDIATE,25.0,True,1,True,1.0,20.4,24.6,89.0,False,0.9,81.862,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,58.0,2.0,INTERMEDIATE,26.0,True,1,True,1.0,20.4,24.5,90.0,False,0.8,81.782,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,59.0,2.0,INTERMEDIATE,27.0,True,1,True,1.0,20.5,24.4,89.0,False,1.6,81.551,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,60.0,2.0,INTERMEDIATE,28.0,True,1,True,1.0,20.5,24.4,89.0,False,0.9,81.331,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,61.0,2.0,INTERMEDIATE,29.0,True,1,True,1.0,20.4,24.5,90.0,False,0.7,81.336,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,62.0,2.0,INTERMEDIATE,30.0,True,1,True,1.0,20.4,24.5,90.0,False,0.0,81.069,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,63.0,2.0,INTERMEDIATE,31.0,True,1,True,1.0,20.4,24.7,90.0,False,0.7,81.232,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,64.0,2.0,INTERMEDIATE,32.0,True,1,True,1.0,20.5,24.6,90.0,False,0.9,81.029,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,65.0,2.0,INTERMEDIATE,33.0,True,1,True,1.0,20.5,24.5,89.0,False,0.6,80.99,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,66.0,2.0,INTERMEDIATE,34.0,True,1,True,1.0,20.5,24.5,89.0,False,0.6,81.111,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,67.0,2.0,INTERMEDIATE,35.0,True,1,True,1.0,20.5,24.5,89.0,False,0.7,80.472,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,68.0,2.0,INTERMEDIATE,36.0,True,1,True,1.0,20.5,24.2,89.0,False,0.0,81.554,False,69,2024,21,São Paulo Grand Prix,2024_21
+VER,Red Bull Racing,69.0,2.0,INTERMEDIATE,37.0,True,1,True,1.0,20.5,24.0,89.0,False,1.8,81.322,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,1.0,1.0,INTERMEDIATE,1.0,True,12,False,9.0,22.5,25.1,78.0,True,0.9,98.052,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,2.0,1.0,INTERMEDIATE,2.0,True,1,True,9.0,22.4,24.6,78.0,True,0.7,87.33,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,3.0,1.0,INTERMEDIATE,3.0,True,1,True,9.0,22.4,24.6,78.0,True,1.2,86.668,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,4.0,1.0,INTERMEDIATE,4.0,True,12,True,9.0,22.2,24.4,77.0,True,1.1,86.864,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,5.0,1.0,INTERMEDIATE,5.0,True,1,True,10.0,22.2,24.6,78.0,True,0.7,86.804,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,6.0,1.0,INTERMEDIATE,6.0,True,1,True,10.0,22.2,24.8,79.0,True,0.7,85.604,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,7.0,1.0,INTERMEDIATE,7.0,True,1,True,10.0,22.1,24.9,77.0,True,0.7,85.323,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,8.0,1.0,INTERMEDIATE,8.0,True,1,True,10.0,22.1,24.9,78.0,True,0.7,85.227,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,9.0,1.0,INTERMEDIATE,9.0,True,1,True,10.0,22.1,25.0,77.0,True,0.9,85.105,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,10.0,1.0,INTERMEDIATE,10.0,True,1,True,10.0,22.1,25.0,77.0,True,1.1,85.021,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,11.0,1.0,INTERMEDIATE,11.0,True,12,True,10.0,22.1,24.8,75.0,True,1.0,84.829,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,12.0,1.0,INTERMEDIATE,12.0,True,1,True,10.0,22.2,24.8,75.0,True,0.7,86.151,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,13.0,1.0,INTERMEDIATE,13.0,True,1,True,10.0,22.2,25.0,76.0,True,0.6,84.937,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,14.0,1.0,INTERMEDIATE,14.0,True,1,True,10.0,22.3,25.3,76.0,True,0.5,84.798,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,15.0,1.0,INTERMEDIATE,15.0,True,1,True,10.0,22.3,25.4,75.0,True,0.6,84.66,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,16.0,1.0,INTERMEDIATE,16.0,True,1,True,9.0,22.2,25.3,76.0,True,0.7,84.351,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,17.0,1.0,INTERMEDIATE,17.0,True,1,True,9.0,22.1,25.3,75.0,True,0.8,84.237,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,18.0,1.0,INTERMEDIATE,18.0,True,1,True,9.0,22.1,25.1,76.0,True,0.5,84.199,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,19.0,1.0,INTERMEDIATE,19.0,True,1,True,9.0,22.0,25.1,77.0,True,0.6,84.214,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,20.0,1.0,INTERMEDIATE,20.0,True,1,True,9.0,22.0,24.9,77.0,True,0.4,84.381,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,21.0,1.0,INTERMEDIATE,21.0,True,1,True,9.0,22.0,24.9,81.0,True,1.1,83.92,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,22.0,1.0,INTERMEDIATE,22.0,True,1,True,9.0,22.0,24.9,81.0,True,1.0,83.996,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,23.0,1.0,INTERMEDIATE,23.0,True,1,True,9.0,22.0,24.9,82.0,True,0.4,84.744,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,24.0,1.0,INTERMEDIATE,24.0,True,1,True,9.0,22.0,25.0,83.0,True,0.4,84.399,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,25.0,1.0,INTERMEDIATE,25.0,True,1,True,8.0,21.9,24.9,85.0,True,0.7,84.41,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,26.0,1.0,INTERMEDIATE,26.0,True,12,True,6.0,21.9,24.7,85.0,True,0.4,85.245,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,27.0,1.0,INTERMEDIATE,27.0,True,126,False,6.0,21.8,24.6,86.0,True,0.7,89.666,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,28.0,1.0,INTERMEDIATE,28.0,True,671,False,6.0,21.6,24.2,86.0,True,1.0,109.087,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,29.0,1.0,INTERMEDIATE,29.0,True,1,True,3.0,21.5,24.1,87.0,True,1.0,102.264,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,30.0,1.0,INTERMEDIATE,30.0,True,14,False,3.0,21.3,24.0,88.0,True,0.7,118.4,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,31.0,1.0,INTERMEDIATE,31.0,True,4,False,3.0,21.0,23.5,88.0,True,0.9,126.773,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,32.0,1.0,INTERMEDIATE,32.0,True,45,False,3.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,33.0,2.0,INTERMEDIATE,1.0,True,12,False,3.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,34.0,2.0,INTERMEDIATE,2.0,True,21,True,3.0,20.6,25.1,90.0,True,0.7,93.504,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,35.0,2.0,INTERMEDIATE,3.0,True,1,True,3.0,20.6,25.1,90.0,True,0.8,88.741,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,36.0,2.0,INTERMEDIATE,4.0,True,12,True,3.0,20.6,24.7,90.0,True,0.4,86.658,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,37.0,2.0,INTERMEDIATE,5.0,True,1,True,3.0,20.6,24.6,91.0,True,0.7,85.284,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,38.0,2.0,INTERMEDIATE,6.0,True,12,True,3.0,20.5,24.3,91.0,True,0.3,85.236,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,39.0,2.0,INTERMEDIATE,7.0,True,124,False,3.0,20.5,24.2,92.0,True,0.6,90.233,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,40.0,2.0,INTERMEDIATE,8.0,True,4,False,3.0,20.5,24.3,91.0,True,0.0,120.75,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,41.0,2.0,INTERMEDIATE,9.0,True,4,False,3.0,20.5,24.5,90.0,False,1.2,125.971,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,42.0,2.0,INTERMEDIATE,10.0,True,41,False,3.0,20.5,24.7,91.0,False,0.4,140.928,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,43.0,2.0,INTERMEDIATE,11.0,True,12,True,3.0,20.4,24.7,90.0,True,0.6,87.53,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,44.0,2.0,INTERMEDIATE,12.0,True,21,True,3.0,20.5,24.8,91.0,False,1.0,84.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,45.0,2.0,INTERMEDIATE,13.0,True,1,True,3.0,20.5,24.8,90.0,True,0.8,84.087,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,46.0,2.0,INTERMEDIATE,14.0,True,1,True,3.0,20.5,24.8,91.0,True,0.7,83.511,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,47.0,2.0,INTERMEDIATE,15.0,True,1,True,3.0,20.5,25.3,90.0,True,1.0,83.498,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,48.0,2.0,INTERMEDIATE,16.0,True,1,True,3.0,20.6,25.3,90.0,True,0.7,83.53,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,49.0,2.0,INTERMEDIATE,17.0,True,1,True,3.0,20.6,25.6,90.0,True,1.1,83.183,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,50.0,2.0,INTERMEDIATE,18.0,True,1,True,3.0,20.6,25.3,90.0,True,0.6,83.033,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,51.0,2.0,INTERMEDIATE,19.0,True,12,True,3.0,20.6,25.1,90.0,True,0.9,83.001,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,52.0,2.0,INTERMEDIATE,20.0,True,21,True,3.0,20.8,24.9,90.0,False,0.9,82.912,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,53.0,2.0,INTERMEDIATE,21.0,True,1,True,3.0,20.7,24.6,89.0,False,1.4,82.512,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,54.0,2.0,INTERMEDIATE,22.0,True,1,True,3.0,20.7,24.6,90.0,False,1.3,82.739,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,55.0,2.0,INTERMEDIATE,23.0,True,1,True,3.0,20.5,24.6,90.0,False,0.8,82.75,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,56.0,2.0,INTERMEDIATE,24.0,True,1,True,3.0,20.5,24.6,90.0,False,0.4,82.747,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,57.0,2.0,INTERMEDIATE,25.0,True,1,True,3.0,20.4,24.7,90.0,False,1.0,82.468,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,58.0,2.0,INTERMEDIATE,26.0,True,1,True,3.0,20.4,24.5,90.0,False,0.8,82.385,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,59.0,2.0,INTERMEDIATE,27.0,True,1,True,3.0,20.5,24.4,89.0,False,1.6,82.408,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,60.0,2.0,INTERMEDIATE,28.0,True,1,True,3.0,20.5,24.4,89.0,False,1.2,82.093,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,61.0,2.0,INTERMEDIATE,29.0,True,1,True,3.0,20.4,24.5,90.0,False,0.7,82.22,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,62.0,2.0,INTERMEDIATE,30.0,True,1,True,3.0,20.4,24.5,90.0,False,0.0,82.097,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,63.0,2.0,INTERMEDIATE,31.0,True,1,True,3.0,20.4,24.7,90.0,False,1.0,81.828,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,64.0,2.0,INTERMEDIATE,32.0,True,1,True,3.0,20.5,24.6,90.0,False,0.9,81.707,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,65.0,2.0,INTERMEDIATE,33.0,True,1,True,3.0,20.5,24.5,89.0,False,0.6,81.824,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,66.0,2.0,INTERMEDIATE,34.0,True,1,True,3.0,20.5,24.5,89.0,False,0.6,81.645,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,67.0,2.0,INTERMEDIATE,35.0,True,1,True,3.0,20.5,24.5,89.0,False,0.7,81.783,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,68.0,2.0,INTERMEDIATE,36.0,True,1,True,3.0,20.5,24.1,89.0,False,1.1,81.877,False,69,2024,21,São Paulo Grand Prix,2024_21
+GAS,Alpine,69.0,2.0,INTERMEDIATE,37.0,True,1,True,3.0,20.5,24.0,89.0,False,1.8,82.436,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,18.0,22.5,25.1,78.0,True,0.9,109.387,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,1,True,18.0,22.4,24.6,78.0,True,0.7,87.047,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,1,True,18.0,22.4,24.6,78.0,True,1.2,85.891,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,12,True,18.0,22.2,24.4,77.0,True,1.1,86.274,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,1,True,17.0,22.2,24.6,78.0,True,0.7,86.062,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,1,True,17.0,22.2,24.9,78.0,True,1.1,86.304,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,1,True,17.0,22.1,24.9,77.0,True,0.7,85.83,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,17.0,22.1,24.9,78.0,True,0.7,85.102,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,17.0,22.1,25.0,77.0,True,0.9,85.253,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,17.0,22.1,25.0,77.0,True,1.1,84.911,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,12,True,17.0,22.1,24.8,75.0,True,1.0,86.025,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,12.0,1.0,INTERMEDIATE,12.0,True,1,True,16.0,22.2,24.8,75.0,True,0.7,85.993,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,13.0,1.0,INTERMEDIATE,13.0,True,1,True,16.0,22.3,25.2,76.0,True,0.8,85.641,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,14.0,1.0,INTERMEDIATE,14.0,True,1,True,16.0,22.3,25.3,76.0,True,0.5,85.755,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,15.0,1.0,INTERMEDIATE,15.0,True,1,True,16.0,22.3,25.4,75.0,True,0.6,85.279,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,16.0,1.0,INTERMEDIATE,16.0,True,1,True,16.0,22.2,25.3,76.0,True,0.7,84.469,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,17.0,1.0,INTERMEDIATE,17.0,True,1,True,16.0,22.1,25.3,75.0,True,0.8,84.395,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,18.0,1.0,INTERMEDIATE,18.0,True,1,True,16.0,22.0,25.1,76.0,True,0.5,85.85,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,19.0,1.0,INTERMEDIATE,19.0,True,1,True,16.0,22.0,25.1,77.0,True,0.6,84.414,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,20.0,1.0,INTERMEDIATE,20.0,True,1,True,16.0,22.0,24.9,79.0,True,0.4,84.522,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,21.0,1.0,INTERMEDIATE,21.0,True,1,True,16.0,22.0,24.9,81.0,True,1.1,84.408,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,22.0,1.0,INTERMEDIATE,22.0,True,1,True,16.0,22.0,24.9,81.0,True,1.0,85.382,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,23.0,1.0,INTERMEDIATE,23.0,True,1,True,16.0,22.0,24.9,83.0,True,0.7,85.158,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,24.0,1.0,INTERMEDIATE,24.0,True,1,True,16.0,22.0,25.0,83.0,True,0.4,85.871,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,25.0,1.0,INTERMEDIATE,25.0,True,12,True,16.0,21.9,24.9,85.0,True,0.5,86.257,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,26.0,1.0,INTERMEDIATE,26.0,True,1,True,14.0,21.9,24.7,85.0,True,0.4,86.572,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,27.0,1.0,INTERMEDIATE,27.0,True,126,False,14.0,21.8,24.6,86.0,True,0.7,102.155,True,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,28.0,2.0,WET,6.0,False,671,False,15.0,21.6,24.2,86.0,True,1.0,120.667,True,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,29.0,2.0,WET,7.0,False,1,True,14.0,21.4,24.0,87.0,True,0.7,101.662,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,30.0,2.0,WET,8.0,False,14,False,14.0,21.1,23.8,88.0,True,0.8,128.473,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,31.0,2.0,WET,9.0,False,4,False,14.0,20.9,23.3,89.0,True,0.8,111.015,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,32.0,2.0,WET,10.0,False,45,False,14.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,33.0,3.0,INTERMEDIATE,1.0,True,12,False,13.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,34.0,3.0,INTERMEDIATE,2.0,True,1,True,12.0,20.6,25.1,90.0,True,0.7,97.821,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,35.0,3.0,INTERMEDIATE,3.0,True,1,True,12.0,20.6,25.1,90.0,True,0.8,92.534,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,36.0,3.0,INTERMEDIATE,4.0,True,12,True,12.0,20.6,24.7,90.0,True,0.4,89.093,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,37.0,3.0,INTERMEDIATE,5.0,True,1,True,12.0,20.5,24.3,91.0,True,0.6,87.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,38.0,3.0,INTERMEDIATE,6.0,True,12,True,12.0,20.5,24.3,91.0,True,0.3,87.244,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,39.0,3.0,INTERMEDIATE,7.0,True,124,False,12.0,20.5,24.2,92.0,True,0.6,101.208,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,40.0,3.0,INTERMEDIATE,8.0,True,4,False,12.0,20.5,24.3,91.0,True,0.0,108.85,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,41.0,3.0,INTERMEDIATE,9.0,True,4,False,12.0,20.5,24.5,90.0,False,1.2,125.017,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,42.0,3.0,INTERMEDIATE,10.0,True,41,False,12.0,20.5,24.7,91.0,False,0.4,124.054,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,43.0,3.0,INTERMEDIATE,11.0,True,12,True,10.0,20.4,24.7,90.0,True,0.6,92.206,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,44.0,3.0,INTERMEDIATE,12.0,True,21,True,10.0,20.5,24.8,90.0,True,0.7,85.233,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,45.0,3.0,INTERMEDIATE,13.0,True,1,True,10.0,20.5,24.8,90.0,True,0.8,85.156,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,46.0,3.0,INTERMEDIATE,14.0,True,1,True,10.0,20.5,24.8,91.0,True,0.7,84.858,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,47.0,3.0,INTERMEDIATE,15.0,True,1,True,10.0,20.5,25.3,90.0,True,1.0,84.656,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,48.0,3.0,INTERMEDIATE,16.0,True,1,True,10.0,20.6,25.3,90.0,True,0.7,83.911,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,49.0,3.0,INTERMEDIATE,17.0,True,1,True,10.0,20.6,25.3,90.0,True,0.4,84.142,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,50.0,3.0,INTERMEDIATE,18.0,True,1,True,10.0,20.6,25.3,90.0,True,0.6,83.686,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,51.0,3.0,INTERMEDIATE,19.0,True,12,True,10.0,20.6,25.1,90.0,True,0.9,84.085,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,52.0,3.0,INTERMEDIATE,20.0,True,1,True,10.0,20.8,24.9,90.0,False,0.9,84.086,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,53.0,3.0,INTERMEDIATE,21.0,True,1,True,10.0,20.7,24.6,89.0,False,1.4,84.023,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,54.0,3.0,INTERMEDIATE,22.0,True,1,True,10.0,20.5,24.7,90.0,False,1.2,83.744,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,55.0,3.0,INTERMEDIATE,23.0,True,1,True,11.0,20.5,24.6,90.0,False,0.8,85.533,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,56.0,3.0,INTERMEDIATE,24.0,True,1,True,11.0,20.5,24.6,90.0,False,0.4,82.757,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,57.0,3.0,INTERMEDIATE,25.0,True,1,True,11.0,20.4,24.7,90.0,False,1.0,82.777,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,58.0,3.0,INTERMEDIATE,26.0,True,1,True,11.0,20.4,24.5,90.0,False,0.8,83.714,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,59.0,3.0,INTERMEDIATE,27.0,True,1,True,11.0,20.5,24.4,89.0,False,0.9,83.086,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,60.0,3.0,INTERMEDIATE,28.0,True,1,True,11.0,20.5,24.4,89.0,False,1.2,83.112,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,61.0,3.0,INTERMEDIATE,29.0,True,1,True,11.0,20.4,24.5,90.0,False,0.7,82.715,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,62.0,3.0,INTERMEDIATE,30.0,True,1,True,11.0,20.4,24.7,90.0,False,0.7,82.892,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,63.0,3.0,INTERMEDIATE,31.0,True,1,True,11.0,20.4,24.7,90.0,False,1.0,82.373,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,64.0,3.0,INTERMEDIATE,32.0,True,1,True,11.0,20.5,24.5,89.0,False,0.6,82.322,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,65.0,3.0,INTERMEDIATE,33.0,True,1,True,11.0,20.5,24.5,90.0,False,0.5,82.22,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,66.0,3.0,INTERMEDIATE,34.0,True,1,True,11.0,20.5,24.5,89.0,False,0.6,82.978,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,67.0,3.0,INTERMEDIATE,35.0,True,1,True,11.0,20.5,24.2,89.0,False,0.0,82.143,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,68.0,3.0,INTERMEDIATE,36.0,True,1,True,11.0,20.5,24.1,89.0,False,1.1,82.263,False,69,2024,21,São Paulo Grand Prix,2024_21
+PER,Red Bull Racing,69.0,3.0,INTERMEDIATE,37.0,True,1,True,11.0,20.5,24.0,89.0,False,1.8,82.222,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,1.0,1.0,INTERMEDIATE,1.0,True,12,False,8.0,22.5,25.1,78.0,True,0.9,97.318,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,2.0,1.0,INTERMEDIATE,2.0,True,1,True,8.0,22.4,24.6,78.0,True,0.7,87.116,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,True,1,True,8.0,22.4,24.6,78.0,True,1.2,86.966,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,4.0,1.0,INTERMEDIATE,4.0,True,12,True,8.0,22.2,24.4,77.0,True,1.1,86.72,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,5.0,1.0,INTERMEDIATE,5.0,True,1,True,8.0,22.2,24.6,78.0,True,0.7,86.044,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,6.0,1.0,INTERMEDIATE,6.0,True,1,True,9.0,22.2,24.8,79.0,True,0.7,86.445,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,7.0,1.0,INTERMEDIATE,7.0,True,1,True,9.0,22.1,24.9,77.0,True,0.7,85.264,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,8.0,1.0,INTERMEDIATE,8.0,True,1,True,9.0,22.1,24.9,78.0,True,0.7,84.707,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,9.0,1.0,INTERMEDIATE,9.0,True,1,True,9.0,22.1,25.0,77.0,True,0.9,84.702,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,10.0,1.0,INTERMEDIATE,10.0,True,1,True,9.0,22.1,25.0,77.0,True,1.1,85.472,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,11.0,1.0,INTERMEDIATE,11.0,True,12,True,9.0,22.1,24.8,75.0,True,1.0,84.692,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,12.0,1.0,INTERMEDIATE,12.0,True,1,True,9.0,22.2,24.8,75.0,True,0.7,84.657,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,13.0,1.0,INTERMEDIATE,13.0,True,1,True,9.0,22.2,25.0,76.0,True,0.6,84.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,14.0,1.0,INTERMEDIATE,14.0,True,1,True,9.0,22.3,25.3,76.0,True,0.5,84.793,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,15.0,1.0,INTERMEDIATE,15.0,True,1,True,9.0,22.3,25.4,75.0,True,0.6,84.579,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,16.0,1.0,INTERMEDIATE,16.0,True,1,True,10.0,22.2,25.3,76.0,True,0.7,88.626,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,17.0,1.0,INTERMEDIATE,17.0,True,1,True,10.0,22.1,25.3,75.0,True,0.8,84.51,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,18.0,1.0,INTERMEDIATE,18.0,True,1,True,10.0,22.1,25.1,76.0,True,0.5,84.035,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,19.0,1.0,INTERMEDIATE,19.0,True,1,True,10.0,22.0,25.1,77.0,True,0.6,84.787,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,20.0,1.0,INTERMEDIATE,20.0,True,1,True,10.0,22.0,24.9,77.0,True,0.4,83.949,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,21.0,1.0,INTERMEDIATE,21.0,True,1,True,10.0,22.0,24.9,81.0,True,1.1,84.09,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,22.0,1.0,INTERMEDIATE,22.0,True,1,True,10.0,22.0,24.9,81.0,True,1.0,84.384,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,23.0,1.0,INTERMEDIATE,23.0,True,1,True,10.0,22.0,24.9,83.0,True,0.7,84.204,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,24.0,1.0,INTERMEDIATE,24.0,True,1,True,10.0,22.0,25.0,83.0,True,0.4,84.27,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,25.0,1.0,INTERMEDIATE,25.0,True,1,True,9.0,21.9,24.9,85.0,True,0.7,84.443,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,26.0,1.0,INTERMEDIATE,26.0,True,12,True,8.0,21.9,24.7,85.0,True,0.4,86.96,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,27.0,1.0,INTERMEDIATE,27.0,True,126,False,8.0,21.8,24.6,86.0,True,0.7,98.089,True,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,28.0,2.0,INTERMEDIATE,4.0,False,671,False,10.0,21.6,24.2,86.0,True,1.0,120.925,True,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,29.0,2.0,INTERMEDIATE,5.0,False,1,True,9.0,21.4,24.0,87.0,True,0.7,105.422,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,30.0,2.0,INTERMEDIATE,6.0,False,14,False,9.0,21.1,23.8,88.0,True,0.8,119.045,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,31.0,2.0,INTERMEDIATE,7.0,False,4,False,9.0,20.9,23.3,89.0,True,0.8,116.643,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,32.0,2.0,INTERMEDIATE,8.0,False,45,False,9.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,33.0,3.0,INTERMEDIATE,1.0,True,12,False,9.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,34.0,3.0,INTERMEDIATE,2.0,True,1,True,10.0,20.6,25.1,90.0,True,0.7,99.529,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,35.0,3.0,INTERMEDIATE,3.0,True,1,True,10.0,20.6,25.1,90.0,True,0.8,92.61,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,36.0,3.0,INTERMEDIATE,4.0,True,12,True,10.0,20.6,24.7,90.0,True,0.4,88.918,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,37.0,3.0,INTERMEDIATE,5.0,True,1,True,10.0,20.6,24.6,91.0,True,0.7,88.143,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,38.0,3.0,INTERMEDIATE,6.0,True,12,True,10.0,20.5,24.3,91.0,True,0.3,86.561,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,39.0,3.0,INTERMEDIATE,7.0,True,124,False,10.0,20.5,24.2,92.0,True,0.6,98.579,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,40.0,3.0,INTERMEDIATE,8.0,True,4,False,10.0,20.5,24.3,91.0,True,0.0,110.941,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,41.0,3.0,INTERMEDIATE,9.0,True,4,False,10.0,20.5,24.5,90.0,False,1.2,123.546,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,42.0,3.0,INTERMEDIATE,10.0,True,41,False,10.0,20.5,24.7,91.0,False,0.4,127.072,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,43.0,3.0,INTERMEDIATE,11.0,True,12,True,15.0,20.4,24.7,90.0,True,0.6,113.466,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,44.0,3.0,INTERMEDIATE,12.0,True,1,True,15.0,20.5,24.8,90.0,True,0.7,85.846,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,45.0,3.0,INTERMEDIATE,13.0,True,1,True,15.0,20.5,24.8,90.0,True,0.8,83.861,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,46.0,3.0,INTERMEDIATE,14.0,True,1,True,15.0,20.5,25.1,90.0,True,0.7,85.094,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,47.0,3.0,INTERMEDIATE,15.0,True,1,True,15.0,20.5,25.3,90.0,True,1.0,83.697,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,48.0,3.0,INTERMEDIATE,16.0,True,1,True,15.0,20.6,25.6,90.0,True,1.1,83.379,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,49.0,3.0,INTERMEDIATE,17.0,True,1,True,15.0,20.6,25.3,90.0,True,0.4,83.573,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,50.0,3.0,INTERMEDIATE,18.0,True,1,True,15.0,20.6,25.3,90.0,True,0.6,83.712,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,51.0,3.0,INTERMEDIATE,19.0,True,12,True,15.0,20.7,24.9,90.0,False,1.0,83.484,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,52.0,3.0,INTERMEDIATE,20.0,True,1,True,15.0,20.8,24.9,90.0,False,0.9,83.078,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,53.0,3.0,INTERMEDIATE,21.0,True,1,True,15.0,20.7,24.6,90.0,False,1.3,83.265,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,54.0,3.0,INTERMEDIATE,22.0,True,1,True,15.0,20.5,24.7,90.0,False,1.2,82.791,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,55.0,3.0,INTERMEDIATE,23.0,True,1,True,15.0,20.5,24.6,90.0,False,0.8,83.683,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,56.0,3.0,INTERMEDIATE,24.0,True,1,True,15.0,20.4,24.6,89.0,False,0.9,84.72,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,57.0,3.0,INTERMEDIATE,25.0,True,1,True,15.0,20.4,24.7,90.0,False,1.0,84.175,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,58.0,3.0,INTERMEDIATE,26.0,True,1,True,14.0,20.5,24.4,89.0,False,1.6,82.968,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,59.0,3.0,INTERMEDIATE,27.0,True,1,True,14.0,20.5,24.4,89.0,False,0.9,82.293,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,60.0,3.0,INTERMEDIATE,28.0,True,1,True,14.0,20.5,24.4,89.0,False,1.2,84.826,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,61.0,3.0,INTERMEDIATE,29.0,True,1,True,14.0,20.4,24.5,90.0,False,0.0,82.71,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,62.0,3.0,INTERMEDIATE,30.0,True,1,True,14.0,20.4,24.7,90.0,False,0.7,83.387,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,63.0,3.0,INTERMEDIATE,31.0,True,1,True,14.0,20.4,24.7,90.0,False,1.0,83.931,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,64.0,3.0,INTERMEDIATE,32.0,True,1,True,14.0,20.5,24.5,89.0,False,0.6,83.313,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,65.0,3.0,INTERMEDIATE,33.0,True,1,True,14.0,20.5,24.5,90.0,False,0.5,83.676,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,66.0,3.0,INTERMEDIATE,34.0,True,1,True,14.0,20.5,24.5,89.0,False,0.7,83.619,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,67.0,3.0,INTERMEDIATE,35.0,True,1,True,14.0,20.5,24.2,89.0,False,0.0,84.475,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,68.0,3.0,INTERMEDIATE,36.0,True,1,True,14.0,20.5,24.1,89.0,False,1.1,83.717,False,69,2024,21,São Paulo Grand Prix,2024_21
+ALO,Aston Martin,69.0,3.0,INTERMEDIATE,37.0,True,1,True,14.0,20.5,24.0,89.0,False,0.7,83.919,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,1.0,1.0,INTERMEDIATE,3.0,False,12,False,5.0,22.5,25.1,78.0,True,0.9,94.968,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,2.0,1.0,INTERMEDIATE,4.0,False,1,True,5.0,22.4,24.6,78.0,True,0.7,86.521,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,3.0,1.0,INTERMEDIATE,5.0,False,1,True,5.0,22.4,24.6,78.0,True,1.2,86.205,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,4.0,1.0,INTERMEDIATE,6.0,False,12,True,5.0,22.3,24.5,78.0,True,0.9,86.165,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,5.0,1.0,INTERMEDIATE,7.0,False,1,True,5.0,22.2,24.6,78.0,True,0.7,85.018,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,6.0,1.0,INTERMEDIATE,8.0,False,1,True,5.0,22.2,24.8,79.0,True,0.7,85.087,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,7.0,1.0,INTERMEDIATE,9.0,False,1,True,5.0,22.1,24.9,77.0,True,0.7,85.353,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,8.0,1.0,INTERMEDIATE,10.0,False,1,True,5.0,22.1,24.9,78.0,True,0.7,85.076,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,9.0,1.0,INTERMEDIATE,11.0,False,1,True,5.0,22.1,25.0,77.0,True,0.9,84.674,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,10.0,1.0,INTERMEDIATE,12.0,False,1,True,5.0,22.1,25.0,77.0,True,1.1,84.672,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,11.0,1.0,INTERMEDIATE,13.0,False,12,True,5.0,22.1,24.9,76.0,True,1.1,84.432,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,12.0,1.0,INTERMEDIATE,14.0,False,21,True,5.0,22.2,24.8,75.0,True,0.7,84.755,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,13.0,1.0,INTERMEDIATE,15.0,False,1,True,5.0,22.2,25.0,76.0,True,0.6,84.943,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,14.0,1.0,INTERMEDIATE,16.0,False,1,True,5.0,22.3,25.3,76.0,True,0.5,84.948,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,15.0,1.0,INTERMEDIATE,17.0,False,1,True,5.0,22.3,25.4,75.0,True,0.6,84.652,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,16.0,1.0,INTERMEDIATE,18.0,False,1,True,5.0,22.3,25.3,75.0,True,1.1,85.249,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,17.0,1.0,INTERMEDIATE,19.0,False,1,True,5.0,22.1,25.3,75.0,True,0.8,84.271,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,18.0,1.0,INTERMEDIATE,20.0,False,1,True,5.0,22.1,25.1,76.0,True,0.5,84.351,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,19.0,1.0,INTERMEDIATE,21.0,False,1,True,5.0,22.0,25.1,77.0,True,0.6,84.243,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,20.0,1.0,INTERMEDIATE,22.0,False,1,True,5.0,22.0,24.9,77.0,True,0.4,84.231,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,21.0,1.0,INTERMEDIATE,23.0,False,1,True,5.0,22.0,24.9,81.0,True,1.1,84.802,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,22.0,1.0,INTERMEDIATE,24.0,False,1,True,5.0,22.0,24.9,81.0,True,1.0,84.309,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,23.0,1.0,INTERMEDIATE,25.0,False,1,True,5.0,22.0,24.9,82.0,True,0.4,84.137,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,24.0,1.0,INTERMEDIATE,26.0,False,1,False,6.0,22.0,25.0,83.0,True,0.4,88.997,True,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,25.0,2.0,INTERMEDIATE,4.0,False,12,False,13.0,21.9,24.9,85.0,True,0.7,105.082,True,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,26.0,2.0,INTERMEDIATE,5.0,False,1,True,12.0,21.9,24.7,85.0,True,0.4,84.479,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,27.0,2.0,INTERMEDIATE,6.0,False,126,False,10.0,21.8,24.6,86.0,True,0.7,95.274,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,28.0,2.0,INTERMEDIATE,7.0,False,671,False,8.0,21.6,24.2,86.0,True,1.0,106.521,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,29.0,2.0,INTERMEDIATE,8.0,False,1,True,7.0,21.4,24.0,87.0,True,0.7,99.37,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,30.0,2.0,INTERMEDIATE,9.0,False,14,False,7.0,21.3,24.0,88.0,True,0.7,116.007,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,31.0,2.0,INTERMEDIATE,10.0,False,4,False,7.0,21.0,23.5,88.0,True,0.9,120.957,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,32.0,2.0,INTERMEDIATE,11.0,False,45,False,7.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,33.0,3.0,INTERMEDIATE,4.0,False,12,False,7.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,34.0,3.0,INTERMEDIATE,5.0,False,1,True,6.0,20.6,25.1,90.0,True,0.7,97.098,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,35.0,3.0,INTERMEDIATE,6.0,False,1,True,6.0,20.6,25.1,90.0,True,0.8,89.146,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,36.0,3.0,INTERMEDIATE,7.0,False,12,True,6.0,20.6,24.7,90.0,True,0.4,87.467,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,37.0,3.0,INTERMEDIATE,8.0,False,1,True,6.0,20.6,24.6,91.0,True,0.7,86.055,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,38.0,3.0,INTERMEDIATE,9.0,False,12,True,6.0,20.5,24.3,91.0,True,0.3,84.88,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,39.0,3.0,INTERMEDIATE,10.0,False,124,False,6.0,20.5,24.2,92.0,True,0.6,95.846,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,40.0,3.0,INTERMEDIATE,11.0,False,4,False,6.0,20.5,24.3,91.0,True,0.0,115.628,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,41.0,3.0,INTERMEDIATE,12.0,False,4,False,6.0,20.5,24.5,90.0,False,1.2,125.604,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,42.0,3.0,INTERMEDIATE,13.0,False,41,False,6.0,20.5,24.7,91.0,False,0.4,134.283,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,43.0,3.0,INTERMEDIATE,14.0,False,12,True,4.0,20.4,24.7,90.0,True,0.6,88.797,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,44.0,3.0,INTERMEDIATE,15.0,False,21,True,4.0,20.5,24.8,90.0,True,0.7,85.195,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,45.0,3.0,INTERMEDIATE,16.0,False,1,True,4.0,20.5,24.8,90.0,True,0.8,84.39,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,46.0,3.0,INTERMEDIATE,17.0,False,1,True,5.0,20.5,24.8,91.0,True,0.7,87.032,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,47.0,3.0,INTERMEDIATE,18.0,False,1,True,5.0,20.5,25.3,90.0,True,1.0,84.145,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,48.0,3.0,INTERMEDIATE,19.0,False,1,True,5.0,20.6,25.3,90.0,True,0.7,83.536,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,49.0,3.0,INTERMEDIATE,20.0,False,1,True,5.0,20.6,25.3,90.0,True,0.4,83.324,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,50.0,3.0,INTERMEDIATE,21.0,False,1,True,5.0,20.6,25.3,90.0,True,0.6,83.72,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,51.0,3.0,INTERMEDIATE,22.0,False,12,True,5.0,20.6,25.1,90.0,True,0.9,83.5,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,52.0,3.0,INTERMEDIATE,23.0,False,1,True,5.0,20.8,24.9,90.0,False,0.9,83.142,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,53.0,3.0,INTERMEDIATE,24.0,False,1,True,5.0,20.7,24.6,89.0,False,1.4,83.118,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,54.0,3.0,INTERMEDIATE,25.0,False,1,True,5.0,20.5,24.7,90.0,False,1.2,82.957,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,55.0,3.0,INTERMEDIATE,26.0,False,1,True,5.0,20.5,24.6,90.0,False,0.8,82.707,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,56.0,3.0,INTERMEDIATE,27.0,False,1,True,5.0,20.5,24.6,90.0,False,0.4,82.728,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,57.0,3.0,INTERMEDIATE,28.0,False,1,True,5.0,20.4,24.7,90.0,False,1.0,82.512,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,58.0,3.0,INTERMEDIATE,29.0,False,1,True,5.0,20.4,24.5,90.0,False,0.8,82.017,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,59.0,3.0,INTERMEDIATE,30.0,False,1,True,5.0,20.5,24.4,89.0,False,1.6,81.893,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,60.0,3.0,INTERMEDIATE,31.0,False,1,True,5.0,20.5,24.4,89.0,False,1.2,81.631,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,61.0,3.0,INTERMEDIATE,32.0,False,1,True,5.0,20.4,24.5,90.0,False,0.7,81.91,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,62.0,3.0,INTERMEDIATE,33.0,False,1,True,5.0,20.4,24.7,90.0,False,0.7,81.789,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,63.0,3.0,INTERMEDIATE,34.0,False,1,True,5.0,20.4,24.7,90.0,False,1.0,81.675,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,64.0,3.0,INTERMEDIATE,35.0,False,1,True,5.0,20.5,24.6,90.0,False,0.9,81.682,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,65.0,3.0,INTERMEDIATE,36.0,False,1,True,5.0,20.5,24.5,90.0,False,0.5,81.752,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,66.0,3.0,INTERMEDIATE,37.0,False,1,True,5.0,20.5,24.5,89.0,False,0.6,82.131,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,67.0,3.0,INTERMEDIATE,38.0,False,1,True,5.0,20.5,24.5,89.0,False,0.7,81.973,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,68.0,3.0,INTERMEDIATE,39.0,False,1,True,5.0,20.5,24.1,89.0,False,1.1,81.664,False,69,2024,21,São Paulo Grand Prix,2024_21
+LEC,Ferrari,69.0,3.0,INTERMEDIATE,40.0,False,1,True,5.0,20.5,24.0,89.0,False,1.8,82.994,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,1.0,1.0,INTERMEDIATE,4.0,False,12,False,3.0,22.5,25.1,78.0,True,0.9,93.749,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,2.0,1.0,INTERMEDIATE,5.0,False,1,True,3.0,22.4,24.6,78.0,True,0.7,86.351,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,3.0,1.0,INTERMEDIATE,6.0,False,1,True,3.0,22.4,24.6,78.0,True,1.2,86.018,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,4.0,1.0,INTERMEDIATE,7.0,False,12,True,3.0,22.3,24.5,78.0,True,0.9,85.425,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,5.0,1.0,INTERMEDIATE,8.0,False,1,True,3.0,22.2,24.6,78.0,True,0.7,85.429,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,6.0,1.0,INTERMEDIATE,9.0,False,1,True,3.0,22.2,24.8,79.0,True,0.7,84.903,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,7.0,1.0,INTERMEDIATE,10.0,False,1,True,3.0,22.1,24.9,77.0,True,0.7,85.024,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,8.0,1.0,INTERMEDIATE,11.0,False,1,True,3.0,22.1,24.9,78.0,True,0.7,85.28,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,9.0,1.0,INTERMEDIATE,12.0,False,1,True,3.0,22.1,25.0,77.0,True,0.9,84.832,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,10.0,1.0,INTERMEDIATE,13.0,False,1,True,3.0,22.1,25.0,77.0,True,1.1,84.592,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,11.0,1.0,INTERMEDIATE,14.0,False,12,True,3.0,22.1,24.9,76.0,True,1.1,84.953,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,12.0,1.0,INTERMEDIATE,15.0,False,21,True,3.0,22.2,24.8,75.0,True,0.7,84.877,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,13.0,1.0,INTERMEDIATE,16.0,False,1,True,3.0,22.2,25.0,76.0,True,0.6,85.172,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,14.0,1.0,INTERMEDIATE,17.0,False,1,True,3.0,22.3,25.3,76.0,True,0.5,84.827,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,15.0,1.0,INTERMEDIATE,18.0,False,1,True,3.0,22.3,25.4,75.0,True,0.6,84.635,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,16.0,1.0,INTERMEDIATE,19.0,False,1,True,3.0,22.3,25.3,75.0,True,1.1,84.762,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,17.0,1.0,INTERMEDIATE,20.0,False,1,True,3.0,22.1,25.3,75.0,True,0.8,84.724,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,18.0,1.0,INTERMEDIATE,21.0,False,1,True,3.0,22.1,25.1,76.0,True,0.5,84.547,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,19.0,1.0,INTERMEDIATE,22.0,False,1,True,3.0,22.0,25.1,77.0,True,0.6,84.275,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,20.0,1.0,INTERMEDIATE,23.0,False,1,True,3.0,22.0,24.9,77.0,True,0.4,84.163,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,21.0,1.0,INTERMEDIATE,24.0,False,1,True,3.0,22.0,24.9,81.0,True,1.1,84.179,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,22.0,1.0,INTERMEDIATE,25.0,False,1,True,3.0,22.0,24.9,81.0,True,1.0,84.39,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,23.0,1.0,INTERMEDIATE,26.0,False,1,True,3.0,22.0,24.9,82.0,True,0.4,84.543,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,24.0,1.0,INTERMEDIATE,27.0,False,1,True,3.0,22.0,25.0,83.0,True,0.4,84.617,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,25.0,1.0,INTERMEDIATE,28.0,False,1,True,3.0,21.9,24.9,85.0,True,0.7,84.91,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,26.0,1.0,INTERMEDIATE,29.0,False,12,True,3.0,21.9,24.7,85.0,True,0.4,85.424,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,27.0,1.0,INTERMEDIATE,30.0,False,126,False,4.0,21.8,24.6,86.0,True,0.7,88.833,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,28.0,1.0,INTERMEDIATE,31.0,False,671,False,5.0,21.7,24.4,86.0,True,1.4,117.034,True,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,29.0,2.0,WET,1.0,True,1,False,6.0,21.5,24.1,87.0,True,1.0,115.413,True,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,30.0,2.0,WET,2.0,True,14,False,6.0,21.3,24.0,88.0,True,0.7,114.797,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,31.0,2.0,WET,3.0,True,4,False,6.0,21.0,23.5,88.0,True,0.9,125.198,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,32.0,2.0,WET,4.0,True,45,False,6.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,33.0,3.0,INTERMEDIATE,4.0,False,12,False,6.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,34.0,3.0,INTERMEDIATE,5.0,False,1,True,8.0,20.6,25.1,90.0,True,0.7,99.418,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,35.0,3.0,INTERMEDIATE,6.0,False,1,True,8.0,20.6,25.1,90.0,True,0.8,91.883,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,36.0,3.0,INTERMEDIATE,7.0,False,12,True,8.0,20.6,24.7,90.0,True,0.4,89.062,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,37.0,3.0,INTERMEDIATE,8.0,False,1,True,8.0,20.6,24.6,91.0,True,0.7,86.916,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,38.0,3.0,INTERMEDIATE,9.0,False,12,True,8.0,20.5,24.3,91.0,True,0.3,85.788,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,39.0,3.0,INTERMEDIATE,10.0,False,124,False,8.0,20.5,24.2,92.0,True,0.6,97.004,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,40.0,3.0,INTERMEDIATE,11.0,False,4,False,8.0,20.5,24.3,91.0,True,0.0,111.544,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,41.0,3.0,INTERMEDIATE,12.0,False,4,False,8.0,20.5,24.5,90.0,False,1.2,125.331,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,42.0,3.0,INTERMEDIATE,13.0,False,41,False,8.0,20.5,24.7,91.0,False,0.4,129.387,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,43.0,3.0,INTERMEDIATE,14.0,False,12,True,8.0,20.4,24.7,90.0,True,0.6,91.609,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,44.0,3.0,INTERMEDIATE,15.0,False,21,True,8.0,20.5,24.8,90.0,True,0.7,86.547,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,45.0,3.0,INTERMEDIATE,16.0,False,1,True,8.0,20.5,24.8,90.0,True,0.8,84.985,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,46.0,3.0,INTERMEDIATE,17.0,False,1,True,8.0,20.5,24.8,91.0,True,0.7,84.787,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,47.0,3.0,INTERMEDIATE,18.0,False,1,True,8.0,20.5,25.3,90.0,True,1.0,84.402,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,48.0,3.0,INTERMEDIATE,19.0,False,1,True,8.0,20.6,25.3,90.0,True,0.7,84.293,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,49.0,3.0,INTERMEDIATE,20.0,False,1,True,8.0,20.6,25.3,90.0,True,0.4,83.943,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,50.0,3.0,INTERMEDIATE,21.0,False,1,True,8.0,20.6,25.3,90.0,True,0.6,83.596,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,51.0,3.0,INTERMEDIATE,22.0,False,12,True,8.0,20.6,25.1,90.0,True,0.9,83.717,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,52.0,3.0,INTERMEDIATE,23.0,False,1,True,8.0,20.8,24.9,90.0,False,0.9,84.536,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,53.0,3.0,INTERMEDIATE,24.0,False,1,True,8.0,20.7,24.6,89.0,False,1.4,83.545,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,54.0,3.0,INTERMEDIATE,25.0,False,1,True,8.0,20.5,24.7,90.0,False,1.2,83.512,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,55.0,3.0,INTERMEDIATE,26.0,False,1,True,8.0,20.5,24.6,90.0,False,0.8,83.118,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,56.0,3.0,INTERMEDIATE,27.0,False,1,True,8.0,20.5,24.6,90.0,False,0.4,83.061,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,57.0,3.0,INTERMEDIATE,28.0,False,1,True,8.0,20.4,24.7,90.0,False,1.0,82.766,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,58.0,3.0,INTERMEDIATE,29.0,False,1,True,8.0,20.4,24.5,90.0,False,0.8,83.0,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,59.0,3.0,INTERMEDIATE,30.0,False,1,True,8.0,20.5,24.4,89.0,False,0.9,82.872,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,60.0,3.0,INTERMEDIATE,31.0,False,1,True,8.0,20.5,24.4,89.0,False,1.2,82.664,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,61.0,3.0,INTERMEDIATE,32.0,False,1,True,8.0,20.4,24.5,90.0,False,0.7,82.405,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,62.0,3.0,INTERMEDIATE,33.0,False,1,True,8.0,20.4,24.7,90.0,False,0.7,82.236,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,63.0,3.0,INTERMEDIATE,34.0,False,1,True,8.0,20.4,24.7,90.0,False,1.0,82.047,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,64.0,3.0,INTERMEDIATE,35.0,False,1,True,8.0,20.5,24.6,90.0,False,0.9,82.035,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,65.0,3.0,INTERMEDIATE,36.0,False,1,True,8.0,20.5,24.5,90.0,False,0.5,81.955,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,66.0,3.0,INTERMEDIATE,37.0,False,1,True,8.0,20.5,24.5,89.0,False,0.6,82.159,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,67.0,3.0,INTERMEDIATE,38.0,False,1,True,8.0,20.5,24.2,89.0,False,0.0,81.894,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,68.0,3.0,INTERMEDIATE,39.0,False,1,True,8.0,20.5,24.1,89.0,False,1.1,81.979,False,69,2024,21,São Paulo Grand Prix,2024_21
+TSU,RB,69.0,3.0,INTERMEDIATE,40.0,False,1,True,8.0,20.5,24.0,89.0,False,1.8,81.828,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,1.0,1.0,INTERMEDIATE,1.0,True,12,False,16.0,22.5,25.1,78.0,True,0.9,102.75,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,2.0,1.0,INTERMEDIATE,2.0,True,1,True,16.0,22.4,24.6,78.0,True,0.7,89.022,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,3.0,1.0,INTERMEDIATE,3.0,True,1,True,16.0,22.4,24.6,78.0,True,1.2,87.514,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,4.0,1.0,INTERMEDIATE,4.0,True,12,True,16.0,22.2,24.4,77.0,True,1.1,88.172,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,5.0,1.0,INTERMEDIATE,5.0,True,1,True,18.0,22.2,24.6,78.0,True,0.7,89.677,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,6.0,1.0,INTERMEDIATE,6.0,True,1,True,18.0,22.2,24.9,78.0,True,1.1,86.557,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,7.0,1.0,INTERMEDIATE,7.0,True,1,True,18.0,22.1,24.9,77.0,True,0.7,86.941,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,8.0,1.0,INTERMEDIATE,8.0,True,1,True,18.0,22.2,25.0,78.0,True,1.0,86.164,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,9.0,1.0,INTERMEDIATE,9.0,True,1,True,18.0,22.1,25.0,77.0,True,0.9,85.915,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,10.0,1.0,INTERMEDIATE,10.0,True,1,True,18.0,22.1,25.0,77.0,True,1.1,85.712,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,11.0,1.0,INTERMEDIATE,11.0,True,12,True,18.0,22.1,24.8,75.0,True,1.0,85.544,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,12.0,1.0,INTERMEDIATE,12.0,True,1,True,18.0,22.2,24.8,75.0,True,0.7,86.543,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,13.0,1.0,INTERMEDIATE,13.0,True,1,True,18.0,22.3,25.2,76.0,True,0.8,87.829,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,14.0,1.0,INTERMEDIATE,14.0,True,1,True,18.0,22.3,25.3,76.0,True,0.5,87.146,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,15.0,1.0,INTERMEDIATE,15.0,True,1,True,18.0,22.3,25.3,75.0,True,1.1,86.38,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,16.0,1.0,INTERMEDIATE,16.0,True,1,True,18.0,22.2,25.3,76.0,True,0.7,86.125,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,17.0,1.0,INTERMEDIATE,17.0,True,1,True,18.0,22.1,25.3,75.0,True,0.8,85.855,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,18.0,1.0,INTERMEDIATE,18.0,True,1,True,18.0,22.0,25.1,76.0,True,0.5,85.579,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,19.0,1.0,INTERMEDIATE,19.0,True,1,True,18.0,22.0,25.1,77.0,True,0.6,85.376,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,20.0,1.0,INTERMEDIATE,20.0,True,1,True,18.0,22.0,24.9,79.0,True,0.4,85.053,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,21.0,1.0,INTERMEDIATE,21.0,True,1,True,18.0,22.0,24.9,81.0,True,1.1,86.01,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,22.0,1.0,INTERMEDIATE,22.0,True,1,True,18.0,22.0,24.9,82.0,True,0.4,85.637,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,23.0,1.0,INTERMEDIATE,23.0,True,1,True,18.0,22.0,24.9,83.0,True,0.7,86.438,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,24.0,1.0,INTERMEDIATE,24.0,True,1,True,18.0,22.0,25.0,83.0,True,0.4,86.086,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,25.0,1.0,INTERMEDIATE,25.0,True,12,True,18.0,21.9,24.9,85.0,True,0.5,87.336,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,26.0,1.0,INTERMEDIATE,26.0,True,12,True,18.0,21.9,24.7,85.0,True,0.4,88.22,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,27.0,1.0,INTERMEDIATE,27.0,True,26,False,17.0,21.7,24.4,86.0,True,1.4,108.354,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,28.0,2.0,INTERMEDIATE,1.0,True,671,False,17.0,21.5,24.1,87.0,True,1.0,126.376,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,29.0,3.0,WET,8.0,False,14,False,17.0,21.3,24.0,88.0,True,0.7,138.727,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,30.0,3.0,WET,9.0,False,4,False,17.0,21.0,23.5,88.0,True,0.9,125.363,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,31.0,3.0,WET,10.0,False,45,False,16.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,32.0,4.0,INTERMEDIATE,1.0,True,51,False,16.0,20.6,24.0,89.0,True,0.9,,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,33.0,5.0,INTERMEDIATE,2.0,False,12,False,15.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,34.0,5.0,INTERMEDIATE,3.0,False,1,True,16.0,20.6,25.1,90.0,True,0.7,98.583,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,35.0,5.0,INTERMEDIATE,4.0,False,1,True,16.0,20.6,25.1,91.0,True,0.5,95.014,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,36.0,5.0,INTERMEDIATE,5.0,False,12,True,15.0,20.6,24.7,90.0,True,0.4,93.356,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,37.0,5.0,INTERMEDIATE,6.0,False,12,True,15.0,20.5,24.3,91.0,True,0.6,89.472,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,38.0,5.0,INTERMEDIATE,7.0,False,1,True,15.0,20.5,24.3,91.0,True,0.3,87.983,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,39.0,5.0,INTERMEDIATE,8.0,False,124,False,14.0,20.5,24.3,91.0,True,0.4,102.318,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,40.0,5.0,INTERMEDIATE,9.0,False,4,False,14.0,20.5,24.3,91.0,True,0.0,110.597,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,41.0,5.0,INTERMEDIATE,10.0,False,4,False,14.0,20.5,24.5,90.0,False,1.2,110.526,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,42.0,5.0,INTERMEDIATE,11.0,False,41,False,14.0,20.5,24.7,91.0,False,0.4,120.988,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,43.0,5.0,INTERMEDIATE,12.0,False,12,True,14.0,20.4,24.7,90.0,True,0.6,94.48,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,44.0,5.0,INTERMEDIATE,13.0,False,21,True,14.0,20.5,24.8,90.0,True,0.7,87.953,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,45.0,5.0,INTERMEDIATE,14.0,False,1,True,14.0,20.5,24.8,90.0,True,0.8,86.202,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,46.0,5.0,INTERMEDIATE,15.0,False,1,True,14.0,20.5,25.1,90.0,True,0.7,85.396,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,47.0,5.0,INTERMEDIATE,16.0,False,1,True,14.0,20.5,25.3,90.0,True,1.0,85.031,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,48.0,5.0,INTERMEDIATE,17.0,False,1,True,14.0,20.6,25.3,90.0,True,0.7,84.728,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,49.0,5.0,INTERMEDIATE,18.0,False,1,True,14.0,20.6,25.3,90.0,True,0.4,84.415,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,50.0,5.0,INTERMEDIATE,19.0,False,1,True,14.0,20.6,25.3,90.0,True,0.6,84.37,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,51.0,5.0,INTERMEDIATE,20.0,False,12,True,14.0,20.7,24.9,90.0,False,1.0,84.812,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,52.0,5.0,INTERMEDIATE,21.0,False,1,True,14.0,20.8,24.9,90.0,False,0.9,84.69,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,53.0,5.0,INTERMEDIATE,22.0,False,1,True,14.0,20.7,24.6,89.0,False,1.4,84.727,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,54.0,5.0,INTERMEDIATE,23.0,False,1,True,14.0,20.5,24.7,90.0,False,1.2,84.925,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,55.0,5.0,INTERMEDIATE,24.0,False,1,True,14.0,20.5,24.6,90.0,False,0.8,84.899,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,56.0,5.0,INTERMEDIATE,25.0,False,1,True,14.0,20.4,24.6,89.0,False,0.9,84.658,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,57.0,5.0,INTERMEDIATE,26.0,False,1,True,14.0,20.4,24.7,90.0,False,1.0,84.302,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,58.0,5.0,INTERMEDIATE,27.0,False,1,True,15.0,20.5,24.4,89.0,False,1.6,86.018,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,59.0,5.0,INTERMEDIATE,28.0,False,1,True,15.0,20.5,24.4,89.0,False,0.9,83.806,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,60.0,5.0,INTERMEDIATE,29.0,False,1,True,15.0,20.5,24.4,89.0,False,1.2,83.471,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,61.0,5.0,INTERMEDIATE,30.0,False,1,True,15.0,20.4,24.5,90.0,False,0.0,83.473,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,62.0,5.0,INTERMEDIATE,31.0,False,1,True,15.0,20.4,24.7,90.0,False,0.7,83.712,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,63.0,5.0,INTERMEDIATE,32.0,False,1,True,15.0,20.5,24.6,90.0,False,0.9,83.453,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,64.0,5.0,INTERMEDIATE,33.0,False,1,True,15.0,20.5,24.5,89.0,False,0.6,83.515,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,65.0,5.0,INTERMEDIATE,34.0,False,1,True,15.0,20.5,24.5,90.0,False,0.5,83.058,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,66.0,5.0,INTERMEDIATE,35.0,False,1,True,15.0,20.5,24.5,89.0,False,0.7,83.126,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,67.0,5.0,INTERMEDIATE,36.0,False,1,True,15.0,20.5,24.2,89.0,False,0.0,83.991,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,68.0,5.0,INTERMEDIATE,37.0,False,1,True,15.0,20.5,24.1,89.0,False,1.1,83.33,False,69,2024,21,São Paulo Grand Prix,2024_21
+ZHO,Kick Sauber,69.0,5.0,INTERMEDIATE,38.0,False,1,True,15.0,20.5,24.0,89.0,False,0.7,83.701,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,True,12,False,14.0,22.5,25.1,78.0,True,0.9,101.582,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,2.0,1.0,INTERMEDIATE,2.0,True,1,True,14.0,22.4,24.6,78.0,True,0.7,87.576,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,3.0,1.0,INTERMEDIATE,3.0,True,1,True,14.0,22.4,24.6,78.0,True,1.2,87.18,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,4.0,1.0,INTERMEDIATE,4.0,True,12,True,13.0,22.2,24.4,77.0,True,1.1,87.959,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,5.0,1.0,INTERMEDIATE,5.0,True,1,True,13.0,22.2,24.6,78.0,True,0.7,85.532,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,6.0,1.0,INTERMEDIATE,6.0,True,1,True,12.0,22.2,24.9,78.0,True,1.1,85.155,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,7.0,1.0,INTERMEDIATE,7.0,True,1,True,12.0,22.1,24.9,77.0,True,0.7,85.526,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,8.0,1.0,INTERMEDIATE,8.0,True,1,True,12.0,22.1,24.9,78.0,True,0.7,84.701,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,9.0,1.0,INTERMEDIATE,9.0,True,1,True,12.0,22.1,25.0,77.0,True,0.9,84.425,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,10.0,1.0,INTERMEDIATE,10.0,True,1,True,12.0,22.1,25.0,77.0,True,1.1,85.084,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,11.0,1.0,INTERMEDIATE,11.0,True,12,True,11.0,22.1,24.8,75.0,True,1.0,85.005,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,12.0,1.0,INTERMEDIATE,12.0,True,1,True,11.0,22.2,24.8,75.0,True,0.7,84.372,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,13.0,1.0,INTERMEDIATE,13.0,True,1,True,11.0,22.2,25.0,76.0,True,0.6,84.796,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,14.0,1.0,INTERMEDIATE,14.0,True,1,True,11.0,22.3,25.3,76.0,True,0.5,84.91,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,15.0,1.0,INTERMEDIATE,15.0,True,1,True,11.0,22.3,25.4,75.0,True,0.6,84.845,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,16.0,1.0,INTERMEDIATE,16.0,True,1,True,11.0,22.2,25.3,76.0,True,0.7,85.646,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,17.0,1.0,INTERMEDIATE,17.0,True,1,True,11.0,22.1,25.3,75.0,True,0.8,84.397,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,18.0,1.0,INTERMEDIATE,18.0,True,1,True,11.0,22.0,25.1,76.0,True,0.5,85.094,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,19.0,1.0,INTERMEDIATE,19.0,True,1,True,11.0,22.0,25.1,77.0,True,0.6,84.415,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,20.0,1.0,INTERMEDIATE,20.0,True,1,True,11.0,22.0,24.9,77.0,True,0.4,84.354,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,21.0,1.0,INTERMEDIATE,21.0,True,1,True,11.0,22.0,24.9,81.0,True,1.1,83.764,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,22.0,1.0,INTERMEDIATE,22.0,True,1,True,11.0,22.0,24.9,81.0,True,1.0,84.062,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,23.0,1.0,INTERMEDIATE,23.0,True,1,True,11.0,22.0,24.9,83.0,True,0.7,84.583,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,24.0,1.0,INTERMEDIATE,24.0,True,1,True,11.0,22.0,25.0,83.0,True,0.4,84.756,False,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,25.0,1.0,INTERMEDIATE,25.0,True,1,False,10.0,21.9,24.9,85.0,True,0.7,90.41,True,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,26.0,2.0,INTERMEDIATE,1.0,True,12,False,17.0,21.9,24.7,85.0,True,0.4,106.643,True,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,27.0,2.0,INTERMEDIATE,2.0,True,1267,False,18.0,21.7,24.4,86.0,True,1.4,,True,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,28.0,3.0,WET,1.0,True,14,False,18.0,21.4,24.0,87.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,29.0,3.0,WET,2.0,True,4,False,18.0,21.0,23.5,88.0,True,0.9,127.542,True,69,2024,21,São Paulo Grand Prix,2024_21
+HUL,Haas F1 Team,30.0,4.0,INTERMEDIATE,1.0,True,45,False,18.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,1.0,1.0,INTERMEDIATE,4.0,False,12,False,6.0,22.5,25.1,78.0,True,0.9,95.992,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,2.0,1.0,INTERMEDIATE,5.0,False,1,True,6.0,22.4,24.6,78.0,True,0.7,86.807,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,3.0,1.0,INTERMEDIATE,6.0,False,1,True,6.0,22.4,24.6,78.0,True,1.2,86.348,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,4.0,1.0,INTERMEDIATE,7.0,False,12,True,6.0,22.2,24.4,77.0,True,1.1,86.217,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,5.0,1.0,INTERMEDIATE,8.0,False,1,True,6.0,22.2,24.6,78.0,True,0.7,85.366,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,6.0,1.0,INTERMEDIATE,9.0,False,1,True,6.0,22.2,24.8,79.0,True,0.7,85.072,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,7.0,1.0,INTERMEDIATE,10.0,False,1,True,6.0,22.1,24.9,77.0,True,0.7,85.411,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,8.0,1.0,INTERMEDIATE,11.0,False,1,True,6.0,22.1,24.9,78.0,True,0.7,85.237,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,9.0,1.0,INTERMEDIATE,12.0,False,1,True,6.0,22.1,25.0,77.0,True,0.9,84.682,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,10.0,1.0,INTERMEDIATE,13.0,False,1,True,6.0,22.1,25.0,77.0,True,1.1,84.976,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,11.0,1.0,INTERMEDIATE,14.0,False,12,True,7.0,22.1,24.9,76.0,True,1.1,86.02,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,12.0,1.0,INTERMEDIATE,15.0,False,21,True,7.0,22.2,24.8,75.0,True,0.7,84.834,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,13.0,1.0,INTERMEDIATE,16.0,False,1,True,7.0,22.2,25.0,76.0,True,0.6,85.21,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,14.0,1.0,INTERMEDIATE,17.0,False,1,True,7.0,22.3,25.3,76.0,True,0.5,84.813,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,15.0,1.0,INTERMEDIATE,18.0,False,1,True,7.0,22.3,25.4,75.0,True,0.6,85.154,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,16.0,1.0,INTERMEDIATE,19.0,False,1,True,7.0,22.2,25.3,76.0,True,0.7,84.984,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,17.0,1.0,INTERMEDIATE,20.0,False,1,True,7.0,22.1,25.3,75.0,True,0.8,84.525,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,18.0,1.0,INTERMEDIATE,21.0,False,1,True,7.0,22.1,25.1,76.0,True,0.5,84.682,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,19.0,1.0,INTERMEDIATE,22.0,False,1,True,7.0,22.0,25.1,77.0,True,0.6,84.607,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,20.0,1.0,INTERMEDIATE,23.0,False,1,True,7.0,22.0,24.9,77.0,True,0.4,84.034,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,21.0,1.0,INTERMEDIATE,24.0,False,1,True,7.0,22.0,24.9,81.0,True,1.1,84.17,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,22.0,1.0,INTERMEDIATE,25.0,False,1,True,7.0,22.0,24.9,81.0,True,1.0,84.365,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,23.0,1.0,INTERMEDIATE,26.0,False,1,True,7.0,22.0,24.9,82.0,True,0.4,85.0,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,24.0,1.0,INTERMEDIATE,27.0,False,1,True,7.0,22.0,25.0,83.0,True,0.4,84.757,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,25.0,1.0,INTERMEDIATE,28.0,False,1,True,6.0,21.9,24.9,85.0,True,0.7,84.915,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,26.0,1.0,INTERMEDIATE,29.0,False,12,True,9.0,21.9,24.7,85.0,True,0.4,92.246,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,27.0,1.0,INTERMEDIATE,30.0,False,126,False,9.0,21.8,24.6,86.0,True,0.7,97.664,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,28.0,1.0,INTERMEDIATE,31.0,False,671,False,7.0,21.6,24.2,86.0,True,1.0,113.045,True,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,29.0,2.0,WET,16.0,False,1,False,11.0,21.4,24.0,87.0,True,0.7,125.322,True,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,30.0,2.0,WET,17.0,False,14,False,10.0,21.1,23.8,88.0,True,0.8,114.922,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,31.0,2.0,WET,18.0,False,4,False,10.0,20.9,23.3,89.0,True,0.8,112.061,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,32.0,2.0,WET,19.0,False,45,False,10.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,33.0,3.0,INTERMEDIATE,4.0,False,12,False,10.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,34.0,3.0,INTERMEDIATE,5.0,False,1,True,11.0,20.6,25.1,90.0,True,0.7,99.368,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,35.0,3.0,INTERMEDIATE,6.0,False,1,True,11.0,20.6,25.1,90.0,True,0.8,92.634,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,36.0,3.0,INTERMEDIATE,7.0,False,12,True,11.0,20.6,24.7,90.0,True,0.4,89.301,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,37.0,3.0,INTERMEDIATE,8.0,False,1,True,11.0,20.6,24.6,91.0,True,0.7,88.046,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,38.0,3.0,INTERMEDIATE,9.0,False,12,True,11.0,20.5,24.3,91.0,True,0.3,86.873,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,39.0,3.0,INTERMEDIATE,10.0,False,124,False,11.0,20.5,24.2,92.0,True,0.6,99.603,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,40.0,3.0,INTERMEDIATE,11.0,False,4,False,11.0,20.5,24.3,91.0,True,0.0,110.352,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,41.0,3.0,INTERMEDIATE,12.0,False,4,False,11.0,20.5,24.5,90.0,False,1.2,124.355,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,42.0,3.0,INTERMEDIATE,13.0,False,41,False,11.0,20.5,24.7,91.0,False,0.4,125.853,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,43.0,3.0,INTERMEDIATE,14.0,False,12,True,9.0,20.4,24.7,90.0,True,0.6,90.558,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,44.0,3.0,INTERMEDIATE,15.0,False,21,True,9.0,20.5,24.8,90.0,True,0.7,86.375,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,45.0,3.0,INTERMEDIATE,16.0,False,1,True,9.0,20.5,24.8,90.0,True,0.8,85.12,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,46.0,3.0,INTERMEDIATE,17.0,False,1,True,9.0,20.5,24.8,91.0,True,0.7,84.814,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,47.0,3.0,INTERMEDIATE,18.0,False,1,True,9.0,20.5,25.3,90.0,True,1.0,84.404,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,48.0,3.0,INTERMEDIATE,19.0,False,1,True,9.0,20.6,25.3,90.0,True,0.7,84.324,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,49.0,3.0,INTERMEDIATE,20.0,False,1,True,9.0,20.6,25.3,90.0,True,0.4,84.049,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,50.0,3.0,INTERMEDIATE,21.0,False,1,True,9.0,20.6,25.3,90.0,True,0.6,83.687,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,51.0,3.0,INTERMEDIATE,22.0,False,12,True,9.0,20.6,25.1,90.0,True,0.9,84.09,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,52.0,3.0,INTERMEDIATE,23.0,False,1,True,9.0,20.8,24.9,90.0,False,0.9,84.199,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,53.0,3.0,INTERMEDIATE,24.0,False,1,True,9.0,20.7,24.6,89.0,False,1.4,84.048,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,54.0,3.0,INTERMEDIATE,25.0,False,1,True,9.0,20.5,24.7,90.0,False,1.2,83.942,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,55.0,3.0,INTERMEDIATE,26.0,False,1,True,9.0,20.5,24.6,90.0,False,0.8,83.697,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,56.0,3.0,INTERMEDIATE,27.0,False,1,True,9.0,20.5,24.6,90.0,False,0.4,83.385,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,57.0,3.0,INTERMEDIATE,28.0,False,1,True,9.0,20.4,24.7,90.0,False,1.0,82.953,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,58.0,3.0,INTERMEDIATE,29.0,False,1,True,9.0,20.4,24.5,90.0,False,0.8,83.769,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,59.0,3.0,INTERMEDIATE,30.0,False,1,True,9.0,20.5,24.4,89.0,False,0.9,83.152,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,60.0,3.0,INTERMEDIATE,31.0,False,1,True,9.0,20.5,24.4,89.0,False,1.2,83.1,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,61.0,3.0,INTERMEDIATE,32.0,False,1,True,9.0,20.4,24.5,90.0,False,0.7,82.653,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,62.0,3.0,INTERMEDIATE,33.0,False,1,True,9.0,20.4,24.7,90.0,False,0.7,82.729,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,63.0,3.0,INTERMEDIATE,34.0,False,1,True,9.0,20.4,24.7,90.0,False,1.0,82.292,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,64.0,3.0,INTERMEDIATE,35.0,False,1,True,9.0,20.5,24.5,89.0,False,0.6,82.427,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,65.0,3.0,INTERMEDIATE,36.0,False,1,True,9.0,20.5,24.5,90.0,False,0.5,82.515,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,66.0,3.0,INTERMEDIATE,37.0,False,1,True,9.0,20.5,24.5,89.0,False,0.6,82.652,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,67.0,3.0,INTERMEDIATE,38.0,False,1,True,9.0,20.5,24.2,89.0,False,0.0,82.123,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,68.0,3.0,INTERMEDIATE,39.0,False,1,True,9.0,20.5,24.1,89.0,False,1.1,82.291,False,69,2024,21,São Paulo Grand Prix,2024_21
+LAW,RB,69.0,3.0,INTERMEDIATE,40.0,False,1,True,9.0,20.5,24.0,89.0,False,1.8,82.533,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,1.0,1.0,INTERMEDIATE,3.0,False,12,False,4.0,22.5,25.1,78.0,True,0.9,94.467,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,2.0,1.0,INTERMEDIATE,4.0,False,1,True,4.0,22.4,24.6,78.0,True,0.7,86.376,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,3.0,1.0,INTERMEDIATE,5.0,False,1,True,4.0,22.4,24.6,78.0,True,1.2,86.338,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,4.0,1.0,INTERMEDIATE,6.0,False,12,True,4.0,22.3,24.5,78.0,True,0.9,85.703,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,5.0,1.0,INTERMEDIATE,7.0,False,1,True,4.0,22.2,24.6,78.0,True,0.7,85.417,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,6.0,1.0,INTERMEDIATE,8.0,False,1,True,4.0,22.2,24.8,79.0,True,0.7,85.011,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,7.0,1.0,INTERMEDIATE,9.0,False,1,True,4.0,22.1,24.9,77.0,True,0.7,85.38,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,8.0,1.0,INTERMEDIATE,10.0,False,1,True,4.0,22.1,24.9,78.0,True,0.7,84.954,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,9.0,1.0,INTERMEDIATE,11.0,False,1,True,4.0,22.1,25.0,77.0,True,0.9,84.654,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,10.0,1.0,INTERMEDIATE,12.0,False,1,True,4.0,22.1,25.0,77.0,True,1.1,84.493,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,11.0,1.0,INTERMEDIATE,13.0,False,12,True,4.0,22.1,24.9,76.0,True,1.1,84.782,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,12.0,1.0,INTERMEDIATE,14.0,False,21,True,4.0,22.2,24.8,75.0,True,0.7,84.641,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,13.0,1.0,INTERMEDIATE,15.0,False,1,True,4.0,22.2,25.0,76.0,True,0.6,84.926,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,14.0,1.0,INTERMEDIATE,16.0,False,1,True,4.0,22.3,25.3,76.0,True,0.5,85.044,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,15.0,1.0,INTERMEDIATE,17.0,False,1,True,4.0,22.3,25.4,75.0,True,0.6,84.896,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,16.0,1.0,INTERMEDIATE,18.0,False,1,True,4.0,22.3,25.3,75.0,True,1.1,85.045,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,17.0,1.0,INTERMEDIATE,19.0,False,1,True,4.0,22.1,25.3,75.0,True,0.8,84.243,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,18.0,1.0,INTERMEDIATE,20.0,False,1,True,4.0,22.1,25.1,76.0,True,0.5,84.423,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,19.0,1.0,INTERMEDIATE,21.0,False,1,True,4.0,22.0,25.1,77.0,True,0.6,84.222,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,20.0,1.0,INTERMEDIATE,22.0,False,1,True,4.0,22.0,24.9,77.0,True,0.4,84.282,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,21.0,1.0,INTERMEDIATE,23.0,False,1,True,4.0,22.0,24.9,81.0,True,1.1,84.037,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,22.0,1.0,INTERMEDIATE,24.0,False,1,True,4.0,22.0,24.9,81.0,True,1.0,84.37,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,23.0,1.0,INTERMEDIATE,25.0,False,1,True,4.0,22.0,24.9,82.0,True,0.4,84.606,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,24.0,1.0,INTERMEDIATE,26.0,False,1,True,4.0,22.0,25.0,83.0,True,0.4,84.516,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,25.0,1.0,INTERMEDIATE,27.0,False,1,True,4.0,21.9,24.9,85.0,True,0.7,85.061,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,26.0,1.0,INTERMEDIATE,28.0,False,12,True,4.0,21.9,24.7,85.0,True,0.4,85.47,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,27.0,1.0,INTERMEDIATE,29.0,False,126,False,3.0,21.8,24.6,86.0,True,0.7,86.62,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,28.0,1.0,INTERMEDIATE,30.0,False,671,False,3.0,21.7,24.4,86.0,True,1.4,110.714,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,29.0,1.0,INTERMEDIATE,31.0,False,1,True,1.0,21.5,24.1,87.0,True,1.0,100.823,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,30.0,1.0,INTERMEDIATE,32.0,False,14,False,1.0,21.3,24.0,88.0,True,0.7,118.147,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,31.0,1.0,INTERMEDIATE,33.0,False,4,False,1.0,21.0,23.5,88.0,True,0.9,132.11,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,32.0,1.0,INTERMEDIATE,34.0,False,45,False,1.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,33.0,2.0,INTERMEDIATE,3.0,False,12,False,1.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,34.0,2.0,INTERMEDIATE,4.0,False,21,True,1.0,20.6,25.1,90.0,True,0.7,89.391,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,35.0,2.0,INTERMEDIATE,5.0,False,1,True,1.0,20.6,25.1,90.0,True,0.8,86.913,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,36.0,2.0,INTERMEDIATE,6.0,False,12,True,1.0,20.6,24.7,90.0,True,0.4,85.773,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,37.0,2.0,INTERMEDIATE,7.0,False,1,True,1.0,20.6,24.6,91.0,True,0.7,85.271,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,38.0,2.0,INTERMEDIATE,8.0,False,12,True,1.0,20.5,24.3,91.0,True,0.3,84.602,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,39.0,2.0,INTERMEDIATE,9.0,False,124,False,1.0,20.5,24.2,92.0,True,0.6,84.42,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,40.0,2.0,INTERMEDIATE,10.0,False,4,False,1.0,20.5,24.3,91.0,True,0.4,132.164,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,41.0,2.0,INTERMEDIATE,11.0,False,4,False,1.0,20.5,24.5,90.0,False,1.2,125.513,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,42.0,2.0,INTERMEDIATE,12.0,False,41,False,1.0,20.5,24.7,91.0,False,0.4,143.552,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,43.0,2.0,INTERMEDIATE,13.0,False,12,True,2.0,20.4,24.7,90.0,True,0.6,87.354,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,44.0,2.0,INTERMEDIATE,14.0,False,21,True,2.0,20.5,24.8,91.0,False,1.0,84.504,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,45.0,2.0,INTERMEDIATE,15.0,False,1,True,2.0,20.5,24.8,90.0,True,0.8,83.771,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,46.0,2.0,INTERMEDIATE,16.0,False,1,True,2.0,20.5,24.8,91.0,True,0.7,83.395,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,47.0,2.0,INTERMEDIATE,17.0,False,1,True,2.0,20.5,25.3,90.0,True,1.0,82.946,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,48.0,2.0,INTERMEDIATE,18.0,False,1,True,2.0,20.6,25.3,90.0,True,0.7,82.93,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,49.0,2.0,INTERMEDIATE,19.0,False,1,True,2.0,20.6,25.6,90.0,True,1.1,82.998,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,50.0,2.0,INTERMEDIATE,20.0,False,1,True,2.0,20.6,25.3,90.0,True,0.6,82.688,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,51.0,2.0,INTERMEDIATE,21.0,False,12,True,2.0,20.6,25.1,90.0,True,0.9,83.167,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,52.0,2.0,INTERMEDIATE,22.0,False,21,True,2.0,20.8,24.9,90.0,False,0.9,82.569,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,53.0,2.0,INTERMEDIATE,23.0,False,1,True,2.0,20.7,24.6,89.0,False,1.4,82.559,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,54.0,2.0,INTERMEDIATE,24.0,False,1,True,2.0,20.7,24.6,90.0,False,1.3,82.815,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,55.0,2.0,INTERMEDIATE,25.0,False,1,True,2.0,20.5,24.6,90.0,False,0.8,82.67,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,56.0,2.0,INTERMEDIATE,26.0,False,1,True,2.0,20.5,24.6,90.0,False,0.4,82.804,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,57.0,2.0,INTERMEDIATE,27.0,False,1,True,2.0,20.4,24.6,89.0,False,0.9,82.462,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,58.0,2.0,INTERMEDIATE,28.0,False,1,True,2.0,20.4,24.5,90.0,False,0.8,82.393,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,59.0,2.0,INTERMEDIATE,29.0,False,1,True,2.0,20.5,24.4,89.0,False,1.6,82.16,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,60.0,2.0,INTERMEDIATE,30.0,False,1,True,2.0,20.5,24.4,89.0,False,1.2,82.111,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,61.0,2.0,INTERMEDIATE,31.0,False,1,True,2.0,20.4,24.5,90.0,False,0.7,82.285,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,62.0,2.0,INTERMEDIATE,32.0,False,1,True,2.0,20.4,24.5,90.0,False,0.0,82.036,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,63.0,2.0,INTERMEDIATE,33.0,False,1,True,2.0,20.4,24.7,90.0,False,1.0,82.02,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,64.0,2.0,INTERMEDIATE,34.0,False,1,True,2.0,20.5,24.6,90.0,False,0.9,81.771,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,65.0,2.0,INTERMEDIATE,35.0,False,1,True,2.0,20.5,24.5,89.0,False,0.6,81.825,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,66.0,2.0,INTERMEDIATE,36.0,False,1,True,2.0,20.5,24.5,89.0,False,0.6,81.914,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,67.0,2.0,INTERMEDIATE,37.0,False,1,True,2.0,20.5,24.5,89.0,False,0.7,82.108,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,68.0,2.0,INTERMEDIATE,38.0,False,1,True,2.0,20.5,24.1,89.0,False,1.1,81.964,False,69,2024,21,São Paulo Grand Prix,2024_21
+OCO,Alpine,69.0,2.0,INTERMEDIATE,39.0,False,1,True,2.0,20.5,24.0,89.0,False,1.8,82.264,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,1.0,1.0,INTERMEDIATE,4.0,False,12,False,2.0,22.5,25.1,78.0,True,0.9,91.803,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,2.0,1.0,INTERMEDIATE,5.0,False,1,True,2.0,22.4,24.6,78.0,True,0.7,86.207,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,3.0,1.0,INTERMEDIATE,6.0,False,1,True,2.0,22.4,24.6,78.0,True,1.2,85.402,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,4.0,1.0,INTERMEDIATE,7.0,False,12,True,2.0,22.3,24.5,78.0,True,0.9,85.165,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,5.0,1.0,INTERMEDIATE,8.0,False,1,True,2.0,22.2,24.6,78.0,True,0.7,85.012,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,6.0,1.0,INTERMEDIATE,9.0,False,1,True,2.0,22.2,24.8,79.0,True,0.7,84.922,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,7.0,1.0,INTERMEDIATE,10.0,False,1,True,2.0,22.1,24.9,77.0,True,0.7,85.001,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,8.0,1.0,INTERMEDIATE,11.0,False,1,True,2.0,22.1,24.9,78.0,True,0.7,84.454,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,9.0,1.0,INTERMEDIATE,12.0,False,1,True,2.0,22.2,25.0,78.0,True,1.0,84.382,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,10.0,1.0,INTERMEDIATE,13.0,False,1,True,2.0,22.1,25.0,77.0,True,1.1,84.088,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,11.0,1.0,INTERMEDIATE,14.0,False,1,True,2.0,22.1,24.9,76.0,True,1.1,84.11,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,12.0,1.0,INTERMEDIATE,15.0,False,12,True,2.0,22.2,24.8,75.0,True,0.7,84.072,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,13.0,1.0,INTERMEDIATE,16.0,False,1,True,2.0,22.2,25.0,76.0,True,0.6,84.725,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,14.0,1.0,INTERMEDIATE,17.0,False,1,True,2.0,22.3,25.3,76.0,True,0.5,84.437,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,15.0,1.0,INTERMEDIATE,18.0,False,1,True,2.0,22.3,25.4,75.0,True,0.6,84.461,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,16.0,1.0,INTERMEDIATE,19.0,False,1,True,2.0,22.3,25.3,75.0,True,1.1,84.484,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,17.0,1.0,INTERMEDIATE,20.0,False,1,True,2.0,22.1,25.3,75.0,True,0.8,83.973,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,18.0,1.0,INTERMEDIATE,21.0,False,1,True,2.0,22.1,25.1,76.0,True,0.5,84.505,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,19.0,1.0,INTERMEDIATE,22.0,False,1,True,2.0,22.0,25.1,77.0,True,0.6,84.465,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,20.0,1.0,INTERMEDIATE,23.0,False,1,True,2.0,22.0,24.9,77.0,True,0.4,84.197,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,21.0,1.0,INTERMEDIATE,24.0,False,1,True,2.0,22.0,24.9,79.0,True,0.4,83.777,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,22.0,1.0,INTERMEDIATE,25.0,False,1,True,2.0,22.0,24.9,81.0,True,1.0,83.592,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,23.0,1.0,INTERMEDIATE,26.0,False,1,True,2.0,22.0,24.9,82.0,True,0.4,83.732,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,24.0,1.0,INTERMEDIATE,27.0,False,1,True,2.0,22.0,25.0,83.0,True,0.4,83.982,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,25.0,1.0,INTERMEDIATE,28.0,False,1,True,2.0,21.9,24.9,85.0,True,0.7,84.877,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,26.0,1.0,INTERMEDIATE,29.0,False,12,True,2.0,21.9,24.9,85.0,True,0.5,85.114,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,27.0,1.0,INTERMEDIATE,30.0,False,12,True,2.0,21.8,24.6,86.0,True,0.7,86.879,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,28.0,1.0,INTERMEDIATE,31.0,False,2671,False,2.0,21.7,24.4,86.0,True,1.4,115.212,True,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,29.0,2.0,INTERMEDIATE,5.0,False,1,False,5.0,21.5,24.1,87.0,True,1.0,122.458,True,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,30.0,2.0,INTERMEDIATE,6.0,False,14,False,4.0,21.3,24.0,88.0,True,0.7,117.236,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,31.0,2.0,INTERMEDIATE,7.0,False,4,False,4.0,21.0,23.5,88.0,True,0.9,126.964,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,32.0,2.0,INTERMEDIATE,8.0,False,45,False,4.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,33.0,3.0,INTERMEDIATE,5.0,False,12,False,4.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,34.0,3.0,INTERMEDIATE,6.0,False,1,True,5.0,20.6,25.1,90.0,True,0.7,96.887,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,35.0,3.0,INTERMEDIATE,7.0,False,1,True,5.0,20.6,25.1,90.0,True,0.8,89.337,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,36.0,3.0,INTERMEDIATE,8.0,False,12,True,5.0,20.6,24.7,90.0,True,0.4,87.235,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,37.0,3.0,INTERMEDIATE,9.0,False,1,True,5.0,20.6,24.6,91.0,True,0.7,85.337,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,38.0,3.0,INTERMEDIATE,10.0,False,12,True,5.0,20.5,24.3,91.0,True,0.3,85.282,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,39.0,3.0,INTERMEDIATE,11.0,False,124,False,5.0,20.5,24.2,92.0,True,0.6,93.718,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,40.0,3.0,INTERMEDIATE,12.0,False,4,False,5.0,20.5,24.3,91.0,True,0.0,116.606,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,41.0,3.0,INTERMEDIATE,13.0,False,4,False,5.0,20.5,24.5,90.0,False,1.2,125.139,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,42.0,3.0,INTERMEDIATE,14.0,False,41,False,5.0,20.5,24.7,91.0,False,0.4,137.692,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,43.0,3.0,INTERMEDIATE,15.0,False,12,True,7.0,20.4,24.7,90.0,True,0.6,91.039,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,44.0,3.0,INTERMEDIATE,16.0,False,21,True,7.0,20.5,24.8,90.0,True,0.7,85.605,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,45.0,3.0,INTERMEDIATE,17.0,False,1,True,7.0,20.5,24.8,90.0,True,0.8,84.446,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,46.0,3.0,INTERMEDIATE,18.0,False,1,True,6.0,20.5,24.8,91.0,True,0.7,84.879,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,47.0,3.0,INTERMEDIATE,19.0,False,1,True,6.0,20.5,25.3,90.0,True,1.0,84.475,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,48.0,3.0,INTERMEDIATE,20.0,False,1,True,6.0,20.6,25.3,90.0,True,0.7,83.99,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,49.0,3.0,INTERMEDIATE,21.0,False,1,True,6.0,20.6,25.3,90.0,True,0.4,83.272,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,50.0,3.0,INTERMEDIATE,22.0,False,1,True,6.0,20.6,25.3,90.0,True,0.6,83.373,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,51.0,3.0,INTERMEDIATE,23.0,False,12,True,6.0,20.6,25.1,90.0,True,0.9,83.443,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,52.0,3.0,INTERMEDIATE,24.0,False,1,True,6.0,20.8,24.9,90.0,False,0.9,83.349,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,53.0,3.0,INTERMEDIATE,25.0,False,1,True,6.0,20.7,24.6,89.0,False,1.4,83.615,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,54.0,3.0,INTERMEDIATE,26.0,False,1,True,6.0,20.5,24.7,90.0,False,1.2,82.817,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,55.0,3.0,INTERMEDIATE,27.0,False,1,True,6.0,20.5,24.6,90.0,False,0.8,82.71,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,56.0,3.0,INTERMEDIATE,28.0,False,1,True,6.0,20.5,24.6,90.0,False,0.4,82.985,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,57.0,3.0,INTERMEDIATE,29.0,False,1,True,6.0,20.4,24.7,90.0,False,1.0,82.411,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,58.0,3.0,INTERMEDIATE,30.0,False,1,True,6.0,20.4,24.5,90.0,False,0.8,82.42,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,59.0,3.0,INTERMEDIATE,31.0,False,1,True,6.0,20.5,24.4,89.0,False,1.6,82.137,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,60.0,3.0,INTERMEDIATE,32.0,False,1,True,6.0,20.5,24.4,89.0,False,1.2,81.759,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,61.0,3.0,INTERMEDIATE,33.0,False,1,True,6.0,20.4,24.5,90.0,False,0.7,81.756,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,62.0,3.0,INTERMEDIATE,34.0,False,1,True,6.0,20.4,24.7,90.0,False,0.7,82.541,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,63.0,3.0,INTERMEDIATE,35.0,False,1,True,6.0,20.4,24.7,90.0,False,1.0,81.791,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,64.0,3.0,INTERMEDIATE,36.0,False,1,True,6.0,20.5,24.6,90.0,False,0.9,81.538,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,65.0,3.0,INTERMEDIATE,37.0,False,1,True,6.0,20.5,24.5,90.0,False,0.5,81.64,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,66.0,3.0,INTERMEDIATE,38.0,False,1,True,6.0,20.5,24.5,89.0,False,0.6,82.018,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,67.0,3.0,INTERMEDIATE,39.0,False,1,True,6.0,20.5,24.5,89.0,False,0.7,81.517,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,68.0,3.0,INTERMEDIATE,40.0,False,1,True,6.0,20.5,24.1,89.0,False,1.1,81.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+NOR,McLaren,69.0,3.0,INTERMEDIATE,41.0,False,1,True,6.0,20.5,24.0,89.0,False,1.8,81.819,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,1.0,1.0,INTERMEDIATE,1.0,True,12,False,12.0,22.5,25.1,78.0,True,0.9,99.943,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,2.0,1.0,INTERMEDIATE,2.0,True,1,True,12.0,22.4,24.6,78.0,True,0.7,87.983,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,3.0,1.0,INTERMEDIATE,3.0,True,1,True,12.0,22.4,24.6,78.0,True,1.2,87.14,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,4.0,1.0,INTERMEDIATE,4.0,True,12,True,12.0,22.2,24.4,77.0,True,1.1,87.685,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,5.0,1.0,INTERMEDIATE,5.0,True,1,True,12.0,22.2,24.6,78.0,True,0.7,86.684,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,6.0,1.0,INTERMEDIATE,6.0,True,1,True,13.0,22.2,24.9,78.0,True,1.1,87.143,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,7.0,1.0,INTERMEDIATE,7.0,True,1,True,13.0,22.1,24.9,77.0,True,0.7,85.837,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,8.0,1.0,INTERMEDIATE,8.0,True,1,True,13.0,22.1,24.9,78.0,True,0.7,85.762,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,9.0,1.0,INTERMEDIATE,9.0,True,1,True,13.0,22.1,25.0,77.0,True,0.9,85.048,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,10.0,1.0,INTERMEDIATE,10.0,True,1,True,13.0,22.1,25.0,77.0,True,1.1,85.975,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,11.0,1.0,INTERMEDIATE,11.0,True,12,True,13.0,22.1,24.8,75.0,True,1.0,85.549,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,12.0,1.0,INTERMEDIATE,12.0,True,1,True,12.0,22.2,24.8,75.0,True,0.7,85.418,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,13.0,1.0,INTERMEDIATE,13.0,True,1,True,12.0,22.3,25.2,76.0,True,0.8,84.565,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,14.0,1.0,INTERMEDIATE,14.0,True,1,True,12.0,22.3,25.3,76.0,True,0.5,84.75,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,15.0,1.0,INTERMEDIATE,15.0,True,1,True,12.0,22.3,25.4,75.0,True,0.6,85.655,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,16.0,1.0,INTERMEDIATE,16.0,True,1,True,12.0,22.2,25.3,76.0,True,0.7,85.338,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,17.0,1.0,INTERMEDIATE,17.0,True,1,True,12.0,22.1,25.3,75.0,True,0.8,84.967,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,18.0,1.0,INTERMEDIATE,18.0,True,1,True,12.0,22.0,25.1,76.0,True,0.5,84.836,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,19.0,1.0,INTERMEDIATE,19.0,True,1,True,12.0,22.0,25.1,77.0,True,0.6,85.028,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,20.0,1.0,INTERMEDIATE,20.0,True,1,True,12.0,22.0,24.9,77.0,True,0.4,85.366,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,21.0,1.0,INTERMEDIATE,21.0,True,1,True,12.0,22.0,24.9,81.0,True,1.1,84.296,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,22.0,1.0,INTERMEDIATE,22.0,True,1,True,12.0,22.0,24.9,81.0,True,1.0,84.878,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,23.0,1.0,INTERMEDIATE,23.0,True,1,True,14.0,22.0,24.9,83.0,True,0.7,88.291,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,24.0,1.0,INTERMEDIATE,24.0,True,1,True,14.0,22.0,25.0,83.0,True,0.4,85.116,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,25.0,1.0,INTERMEDIATE,25.0,True,12,True,14.0,21.9,24.9,85.0,True,0.5,85.835,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,26.0,1.0,INTERMEDIATE,26.0,True,1,False,15.0,21.9,24.7,85.0,True,0.4,89.885,True,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,27.0,2.0,INTERMEDIATE,1.0,True,126,False,16.0,21.7,24.4,86.0,True,1.4,122.141,True,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,28.0,2.0,INTERMEDIATE,2.0,True,671,False,16.0,21.5,24.1,87.0,True,1.0,102.804,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,29.0,2.0,INTERMEDIATE,3.0,True,14,False,16.0,21.4,24.0,87.0,True,0.7,103.469,False,69,2024,21,São Paulo Grand Prix,2024_21
+COL,Williams,30.0,2.0,INTERMEDIATE,4.0,True,4,False,16.0,21.1,23.8,88.0,True,0.8,130.874,True,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,1.0,1.0,INTERMEDIATE,1.0,True,12,False,10.0,22.5,25.1,78.0,True,0.9,98.874,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,2.0,1.0,INTERMEDIATE,2.0,True,1,True,11.0,22.4,24.6,78.0,True,0.7,87.832,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,3.0,1.0,INTERMEDIATE,3.0,True,1,True,11.0,22.4,24.6,78.0,True,1.2,86.853,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,4.0,1.0,INTERMEDIATE,4.0,True,12,True,11.0,22.2,24.4,77.0,True,1.1,86.659,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,5.0,1.0,INTERMEDIATE,5.0,True,1,True,11.0,22.2,24.6,78.0,True,0.7,85.992,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,6.0,1.0,INTERMEDIATE,6.0,True,1,True,11.0,22.2,24.8,79.0,True,0.7,86.101,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,7.0,1.0,INTERMEDIATE,7.0,True,1,True,11.0,22.1,24.9,77.0,True,0.7,85.254,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,8.0,1.0,INTERMEDIATE,8.0,True,1,True,11.0,22.1,24.9,78.0,True,0.7,85.153,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,9.0,1.0,INTERMEDIATE,9.0,True,1,True,11.0,22.1,25.0,77.0,True,0.9,84.646,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,10.0,1.0,INTERMEDIATE,10.0,True,1,True,11.0,22.1,25.0,77.0,True,1.1,85.33,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,11.0,1.0,INTERMEDIATE,11.0,True,12,True,12.0,22.1,24.8,75.0,True,1.0,91.858,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,12.0,1.0,INTERMEDIATE,12.0,True,1,True,13.0,22.2,24.8,75.0,True,0.7,86.433,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,13.0,1.0,INTERMEDIATE,13.0,True,1,True,13.0,22.3,25.2,76.0,True,0.8,84.559,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,14.0,1.0,INTERMEDIATE,14.0,True,1,True,13.0,22.3,25.3,76.0,True,0.5,84.51,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,15.0,1.0,INTERMEDIATE,15.0,True,1,True,13.0,22.3,25.4,75.0,True,0.6,85.793,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,16.0,1.0,INTERMEDIATE,16.0,True,1,True,13.0,22.2,25.3,76.0,True,0.7,85.448,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,17.0,1.0,INTERMEDIATE,17.0,True,1,True,13.0,22.1,25.3,75.0,True,0.8,84.732,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,18.0,1.0,INTERMEDIATE,18.0,True,1,True,14.0,22.0,25.1,76.0,True,0.5,86.035,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,19.0,1.0,INTERMEDIATE,19.0,True,1,True,15.0,22.0,25.1,77.0,True,0.6,86.872,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,20.0,1.0,INTERMEDIATE,20.0,True,1,True,15.0,22.0,24.9,79.0,True,0.4,84.315,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,21.0,1.0,INTERMEDIATE,21.0,True,1,True,15.0,22.0,24.9,81.0,True,1.1,84.385,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,22.0,1.0,INTERMEDIATE,22.0,True,1,True,14.0,22.0,24.9,81.0,True,1.0,84.506,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,23.0,1.0,INTERMEDIATE,23.0,True,1,True,13.0,22.0,24.9,83.0,True,0.7,84.555,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,24.0,1.0,INTERMEDIATE,24.0,True,1,True,13.0,22.0,25.0,83.0,True,0.4,83.973,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,25.0,1.0,INTERMEDIATE,25.0,True,12,True,12.0,21.9,24.9,85.0,True,0.5,85.165,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,26.0,1.0,INTERMEDIATE,26.0,True,1,True,11.0,21.9,24.7,85.0,True,0.4,84.983,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,27.0,1.0,INTERMEDIATE,27.0,True,126,False,12.0,21.8,24.6,86.0,True,0.7,100.067,True,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,28.0,2.0,INTERMEDIATE,1.0,True,671,False,12.0,21.6,24.2,86.0,True,1.0,119.838,True,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,29.0,2.0,INTERMEDIATE,2.0,True,1,True,10.0,21.4,24.0,87.0,True,0.7,105.316,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,30.0,2.0,INTERMEDIATE,3.0,True,14,False,11.0,21.1,23.8,88.0,True,0.8,116.004,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,31.0,2.0,INTERMEDIATE,4.0,True,4,False,11.0,20.9,23.3,89.0,True,0.8,112.031,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,32.0,2.0,INTERMEDIATE,5.0,True,45,False,11.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,33.0,3.0,INTERMEDIATE,1.0,True,12,False,11.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,34.0,3.0,INTERMEDIATE,2.0,True,1,True,9.0,20.6,25.1,90.0,True,0.7,97.691,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,35.0,3.0,INTERMEDIATE,3.0,True,1,True,9.0,20.6,25.1,90.0,True,0.8,91.457,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,36.0,3.0,INTERMEDIATE,4.0,True,12,True,9.0,20.6,24.7,90.0,True,0.4,88.763,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,37.0,3.0,INTERMEDIATE,5.0,True,1,True,9.0,20.6,24.6,91.0,True,0.7,87.526,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,38.0,3.0,INTERMEDIATE,6.0,True,12,True,9.0,20.5,24.3,91.0,True,0.3,86.37,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,39.0,3.0,INTERMEDIATE,7.0,True,124,False,9.0,20.5,24.2,92.0,True,0.6,98.741,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,40.0,3.0,INTERMEDIATE,8.0,True,4,False,9.0,20.5,24.3,91.0,True,0.0,109.874,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,41.0,3.0,INTERMEDIATE,9.0,True,4,False,9.0,20.5,24.5,90.0,False,1.2,125.297,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,42.0,3.0,INTERMEDIATE,10.0,True,41,False,9.0,20.5,24.7,91.0,False,0.4,128.111,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,43.0,3.0,INTERMEDIATE,11.0,True,12,True,11.0,20.4,24.7,90.0,True,0.6,94.637,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,44.0,3.0,INTERMEDIATE,12.0,True,21,True,11.0,20.5,24.8,90.0,True,0.7,85.777,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,45.0,3.0,INTERMEDIATE,13.0,True,1,True,11.0,20.5,24.8,90.0,True,0.8,84.825,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,46.0,3.0,INTERMEDIATE,14.0,True,1,True,11.0,20.5,24.8,91.0,True,0.7,84.622,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,47.0,3.0,INTERMEDIATE,15.0,True,1,True,11.0,20.5,25.3,90.0,True,1.0,84.794,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,48.0,3.0,INTERMEDIATE,16.0,True,1,True,11.0,20.6,25.3,90.0,True,0.7,84.246,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,49.0,3.0,INTERMEDIATE,17.0,True,1,True,11.0,20.6,25.3,90.0,True,0.4,84.02,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,50.0,3.0,INTERMEDIATE,18.0,True,1,True,11.0,20.6,25.3,90.0,True,0.6,83.698,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,51.0,3.0,INTERMEDIATE,19.0,True,12,True,11.0,20.6,25.1,90.0,True,0.9,83.963,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,52.0,3.0,INTERMEDIATE,20.0,True,1,True,11.0,20.8,24.9,90.0,False,0.9,84.276,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,53.0,3.0,INTERMEDIATE,21.0,True,1,True,11.0,20.7,24.6,89.0,False,1.4,83.84,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,54.0,3.0,INTERMEDIATE,22.0,True,1,True,11.0,20.5,24.7,90.0,False,1.2,83.528,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,55.0,3.0,INTERMEDIATE,23.0,True,1,True,10.0,20.5,24.6,90.0,False,0.8,83.659,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,56.0,3.0,INTERMEDIATE,24.0,True,1,True,10.0,20.5,24.6,90.0,False,0.4,82.945,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,57.0,3.0,INTERMEDIATE,25.0,True,1,True,10.0,20.4,24.7,90.0,False,1.0,82.901,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,58.0,3.0,INTERMEDIATE,26.0,True,1,True,10.0,20.4,24.5,90.0,False,0.8,83.888,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,59.0,3.0,INTERMEDIATE,27.0,True,1,True,10.0,20.5,24.4,89.0,False,0.9,83.028,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,60.0,3.0,INTERMEDIATE,28.0,True,1,True,10.0,20.5,24.4,89.0,False,1.2,83.122,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,61.0,3.0,INTERMEDIATE,29.0,True,1,True,10.0,20.4,24.5,90.0,False,0.7,82.747,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,62.0,3.0,INTERMEDIATE,30.0,True,1,True,10.0,20.4,24.7,90.0,False,0.7,82.583,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,63.0,3.0,INTERMEDIATE,31.0,True,1,True,10.0,20.4,24.7,90.0,False,1.0,82.611,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,64.0,3.0,INTERMEDIATE,32.0,True,1,True,10.0,20.5,24.5,89.0,False,0.6,82.197,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,65.0,3.0,INTERMEDIATE,33.0,True,1,True,10.0,20.5,24.5,90.0,False,0.5,82.422,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,66.0,3.0,INTERMEDIATE,34.0,True,1,True,10.0,20.5,24.5,89.0,False,0.6,82.731,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,67.0,3.0,INTERMEDIATE,35.0,True,1,True,10.0,20.5,24.2,89.0,False,0.0,82.614,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,68.0,3.0,INTERMEDIATE,36.0,True,1,True,10.0,20.5,24.1,89.0,False,1.1,82.104,False,69,2024,21,São Paulo Grand Prix,2024_21
+HAM,Mercedes,69.0,3.0,INTERMEDIATE,37.0,True,1,True,10.0,20.5,24.0,89.0,False,1.8,82.041,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,1.0,1.0,INTERMEDIATE,1.0,True,12,False,13.0,22.5,25.1,78.0,True,0.9,100.491,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,2.0,1.0,INTERMEDIATE,2.0,True,1,True,13.0,22.4,24.6,78.0,True,0.7,88.376,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,3.0,1.0,INTERMEDIATE,3.0,True,1,True,13.0,22.4,24.6,78.0,True,1.2,86.798,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,4.0,1.0,INTERMEDIATE,4.0,True,12,True,17.0,22.2,24.4,77.0,True,1.1,92.155,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,5.0,1.0,INTERMEDIATE,5.0,True,1,True,16.0,22.2,24.6,78.0,True,0.7,86.485,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,6.0,1.0,INTERMEDIATE,6.0,True,1,True,16.0,22.2,24.9,78.0,True,1.1,85.728,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,7.0,1.0,INTERMEDIATE,7.0,True,1,True,16.0,22.1,24.9,77.0,True,0.7,85.412,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,8.0,1.0,INTERMEDIATE,8.0,True,1,True,16.0,22.1,24.9,78.0,True,0.7,85.421,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,9.0,1.0,INTERMEDIATE,9.0,True,1,True,16.0,22.1,25.0,77.0,True,0.9,85.164,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,10.0,1.0,INTERMEDIATE,10.0,True,1,True,16.0,22.1,25.0,77.0,True,1.1,85.115,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,11.0,1.0,INTERMEDIATE,11.0,True,12,True,16.0,22.1,24.8,75.0,True,1.0,86.216,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,12.0,1.0,INTERMEDIATE,12.0,True,1,True,15.0,22.2,24.8,75.0,True,0.7,85.992,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,13.0,1.0,INTERMEDIATE,13.0,True,1,True,15.0,22.3,25.2,76.0,True,0.8,85.215,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,14.0,1.0,INTERMEDIATE,14.0,True,1,True,15.0,22.3,25.3,76.0,True,0.5,84.365,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,15.0,1.0,INTERMEDIATE,15.0,True,1,True,15.0,22.3,25.4,75.0,True,0.6,84.73,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,16.0,1.0,INTERMEDIATE,16.0,True,1,True,15.0,22.2,25.3,76.0,True,0.7,85.055,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,17.0,1.0,INTERMEDIATE,17.0,True,1,True,15.0,22.1,25.3,75.0,True,0.8,84.941,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,18.0,1.0,INTERMEDIATE,18.0,True,1,True,15.0,22.0,25.1,76.0,True,0.5,84.883,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,19.0,1.0,INTERMEDIATE,19.0,True,1,True,14.0,22.0,25.1,77.0,True,0.6,85.601,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,20.0,1.0,INTERMEDIATE,20.0,True,1,True,14.0,22.0,24.9,77.0,True,0.4,84.414,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,21.0,1.0,INTERMEDIATE,21.0,True,1,True,14.0,22.0,24.9,81.0,True,1.1,84.482,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,22.0,1.0,INTERMEDIATE,22.0,True,1,True,13.0,22.0,24.9,81.0,True,1.0,84.517,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,23.0,1.0,INTERMEDIATE,23.0,True,1,True,12.0,22.0,24.9,83.0,True,0.7,84.306,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,24.0,1.0,INTERMEDIATE,24.0,True,1,True,12.0,22.0,25.0,83.0,True,0.4,84.429,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,25.0,1.0,INTERMEDIATE,25.0,True,12,True,11.0,21.9,24.9,85.0,True,0.5,84.737,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,26.0,1.0,INTERMEDIATE,26.0,True,1,True,10.0,21.9,24.7,85.0,True,0.4,85.027,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,27.0,1.0,INTERMEDIATE,27.0,True,126,False,11.0,21.8,24.6,86.0,True,0.7,98.431,True,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,28.0,2.0,INTERMEDIATE,1.0,True,671,False,14.0,21.6,24.2,86.0,True,1.0,131.553,True,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,29.0,2.0,INTERMEDIATE,2.0,True,1,True,15.0,21.4,24.0,87.0,True,0.7,103.986,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,30.0,2.0,INTERMEDIATE,3.0,True,14,False,15.0,21.1,23.8,88.0,True,0.8,128.143,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,31.0,2.0,INTERMEDIATE,4.0,True,4,False,15.0,20.9,23.3,89.0,True,0.8,112.001,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,32.0,2.0,INTERMEDIATE,5.0,True,45,False,15.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,33.0,3.0,INTERMEDIATE,1.0,True,12,False,16.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,34.0,3.0,INTERMEDIATE,2.0,True,1,True,15.0,20.6,25.1,90.0,True,0.7,92.73,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,35.0,3.0,INTERMEDIATE,3.0,True,1,True,14.0,20.6,25.1,91.0,True,0.5,91.578,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,36.0,3.0,INTERMEDIATE,4.0,True,12,True,16.0,20.6,24.7,90.0,True,0.4,107.937,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,37.0,3.0,INTERMEDIATE,5.0,True,12,True,16.0,20.5,24.3,91.0,True,0.6,91.737,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,38.0,3.0,INTERMEDIATE,6.0,True,1,True,16.0,20.5,24.3,91.0,True,0.3,87.141,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,39.0,3.0,INTERMEDIATE,7.0,True,124,False,15.0,20.5,24.3,91.0,True,0.4,104.52,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,40.0,3.0,INTERMEDIATE,8.0,True,4,False,15.0,20.5,24.6,91.0,True,1.0,112.287,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,41.0,3.0,INTERMEDIATE,9.0,True,4,False,15.0,20.5,24.5,90.0,False,1.2,98.426,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,42.0,3.0,INTERMEDIATE,10.0,True,41,False,15.0,20.5,24.7,91.0,False,0.4,119.934,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,43.0,3.0,INTERMEDIATE,11.0,True,12,True,12.0,20.4,24.7,90.0,True,0.6,92.19,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,44.0,3.0,INTERMEDIATE,12.0,True,21,True,12.0,20.5,24.8,90.0,True,0.7,87.016,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,45.0,3.0,INTERMEDIATE,13.0,True,1,True,12.0,20.5,24.8,90.0,True,0.8,85.307,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,46.0,3.0,INTERMEDIATE,14.0,True,1,True,12.0,20.5,25.1,90.0,True,0.7,84.578,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,47.0,3.0,INTERMEDIATE,15.0,True,1,True,12.0,20.5,25.3,90.0,True,1.0,84.616,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,48.0,3.0,INTERMEDIATE,16.0,True,1,True,12.0,20.6,25.3,90.0,True,0.7,83.945,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,49.0,3.0,INTERMEDIATE,17.0,True,1,True,12.0,20.6,25.3,90.0,True,0.4,84.035,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,50.0,3.0,INTERMEDIATE,18.0,True,1,True,12.0,20.6,25.3,90.0,True,0.6,84.172,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,51.0,3.0,INTERMEDIATE,19.0,True,12,True,12.0,20.7,24.9,90.0,False,1.0,85.085,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,52.0,3.0,INTERMEDIATE,20.0,True,1,True,12.0,20.8,24.9,90.0,False,0.9,83.909,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,53.0,3.0,INTERMEDIATE,21.0,True,1,True,12.0,20.7,24.6,89.0,False,1.4,83.969,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,54.0,3.0,INTERMEDIATE,22.0,True,1,True,12.0,20.5,24.7,90.0,False,1.2,83.601,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,55.0,3.0,INTERMEDIATE,23.0,True,1,True,12.0,20.5,24.6,90.0,False,0.8,83.815,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,56.0,3.0,INTERMEDIATE,24.0,True,1,True,12.0,20.4,24.6,89.0,False,0.9,83.14,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,57.0,3.0,INTERMEDIATE,25.0,True,1,True,12.0,20.4,24.7,90.0,False,1.0,83.395,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,58.0,3.0,INTERMEDIATE,26.0,True,1,True,12.0,20.4,24.5,90.0,False,0.8,82.992,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,59.0,3.0,INTERMEDIATE,27.0,True,1,True,12.0,20.5,24.4,89.0,False,0.9,82.897,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,60.0,3.0,INTERMEDIATE,28.0,True,1,True,12.0,20.5,24.4,89.0,False,1.2,82.944,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,61.0,3.0,INTERMEDIATE,29.0,True,1,True,12.0,20.4,24.5,90.0,False,0.7,84.192,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,62.0,3.0,INTERMEDIATE,30.0,True,1,True,12.0,20.4,24.7,90.0,False,0.7,82.816,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,63.0,3.0,INTERMEDIATE,31.0,True,1,True,12.0,20.4,24.7,90.0,False,1.0,82.837,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,64.0,3.0,INTERMEDIATE,32.0,True,1,True,12.0,20.5,24.5,89.0,False,0.6,82.494,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,65.0,3.0,INTERMEDIATE,33.0,True,1,True,12.0,20.5,24.5,90.0,False,0.5,82.981,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,66.0,3.0,INTERMEDIATE,34.0,True,1,True,12.0,20.5,24.5,89.0,False,0.6,82.51,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,67.0,3.0,INTERMEDIATE,35.0,True,1,True,12.0,20.5,24.2,89.0,False,0.0,82.533,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,68.0,3.0,INTERMEDIATE,36.0,True,1,True,12.0,20.5,24.1,89.0,False,1.1,82.67,False,69,2024,21,São Paulo Grand Prix,2024_21
+BEA,Haas F1 Team,69.0,3.0,INTERMEDIATE,37.0,True,1,True,12.0,20.5,24.0,89.0,False,0.7,82.839,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,1.0,1.0,INTERMEDIATE,1.0,True,12,False,17.0,22.5,25.1,78.0,True,0.9,103.434,True,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,2.0,1.0,INTERMEDIATE,2.0,True,1,True,17.0,22.4,24.6,78.0,True,0.7,89.021,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,3.0,1.0,INTERMEDIATE,3.0,True,1,True,17.0,22.4,24.6,78.0,True,1.2,86.884,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,4.0,1.0,INTERMEDIATE,4.0,True,12,True,15.0,22.2,24.4,77.0,True,1.1,86.54,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,5.0,1.0,INTERMEDIATE,5.0,True,1,True,15.0,22.2,24.6,78.0,True,0.7,86.185,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,6.0,1.0,INTERMEDIATE,6.0,True,1,True,15.0,22.2,24.9,78.0,True,1.1,86.915,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,7.0,1.0,INTERMEDIATE,7.0,True,1,True,15.0,22.1,24.9,77.0,True,0.7,85.419,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,8.0,1.0,INTERMEDIATE,8.0,True,1,True,15.0,22.1,24.9,78.0,True,0.7,85.454,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,9.0,1.0,INTERMEDIATE,9.0,True,1,True,15.0,22.1,25.0,77.0,True,0.9,85.191,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,10.0,1.0,INTERMEDIATE,10.0,True,1,True,15.0,22.1,25.0,77.0,True,1.1,85.406,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,11.0,1.0,INTERMEDIATE,11.0,True,12,True,15.0,22.1,24.8,75.0,True,1.0,86.203,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,12.0,1.0,INTERMEDIATE,12.0,True,1,True,14.0,22.2,24.8,75.0,True,0.7,85.633,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,13.0,1.0,INTERMEDIATE,13.0,True,1,True,14.0,22.3,25.2,76.0,True,0.8,84.293,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,14.0,1.0,INTERMEDIATE,14.0,True,1,True,14.0,22.3,25.3,76.0,True,0.5,84.312,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,15.0,1.0,INTERMEDIATE,15.0,True,1,True,14.0,22.3,25.4,75.0,True,0.6,85.434,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,16.0,1.0,INTERMEDIATE,16.0,True,1,True,14.0,22.2,25.3,76.0,True,0.7,85.792,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,17.0,1.0,INTERMEDIATE,17.0,True,1,True,14.0,22.1,25.3,75.0,True,0.8,84.667,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,18.0,1.0,INTERMEDIATE,18.0,True,1,True,13.0,22.0,25.1,76.0,True,0.5,84.874,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,19.0,1.0,INTERMEDIATE,19.0,True,1,True,13.0,22.0,25.1,77.0,True,0.6,84.201,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,20.0,1.0,INTERMEDIATE,20.0,True,1,True,13.0,22.0,24.9,77.0,True,0.4,85.301,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,21.0,1.0,INTERMEDIATE,21.0,True,1,True,13.0,22.0,24.9,81.0,True,1.1,84.631,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,22.0,1.0,INTERMEDIATE,22.0,True,1,True,15.0,22.0,24.9,81.0,True,1.0,87.774,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,23.0,1.0,INTERMEDIATE,23.0,True,1,True,15.0,22.0,24.9,83.0,True,0.7,85.187,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,24.0,1.0,INTERMEDIATE,24.0,True,1,True,15.0,22.0,25.0,83.0,True,0.4,85.684,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,25.0,1.0,INTERMEDIATE,25.0,True,12,True,15.0,21.9,24.9,85.0,True,0.5,85.396,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,26.0,1.0,INTERMEDIATE,26.0,True,1,True,13.0,21.9,24.7,85.0,True,0.4,86.167,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,27.0,1.0,INTERMEDIATE,27.0,True,126,False,13.0,21.8,24.6,86.0,True,0.7,101.195,True,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,28.0,2.0,INTERMEDIATE,1.0,True,671,False,13.0,21.6,24.2,86.0,True,1.0,122.82,True,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,29.0,2.0,INTERMEDIATE,2.0,True,1,True,13.0,21.4,24.0,87.0,True,0.7,102.131,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,30.0,2.0,INTERMEDIATE,3.0,True,14,False,13.0,21.1,23.8,88.0,True,0.8,127.308,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,31.0,2.0,INTERMEDIATE,4.0,True,4,False,13.0,20.9,23.3,89.0,True,0.8,111.416,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,32.0,2.0,INTERMEDIATE,5.0,True,45,False,13.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,33.0,3.0,INTERMEDIATE,1.0,False,12,False,14.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,34.0,3.0,INTERMEDIATE,2.0,False,1,True,14.0,20.6,25.1,90.0,True,0.7,100.313,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,35.0,3.0,INTERMEDIATE,3.0,False,1,True,13.0,20.6,25.1,91.0,True,0.5,91.779,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,36.0,3.0,INTERMEDIATE,4.0,False,12,True,13.0,20.6,24.7,90.0,True,0.4,88.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,37.0,3.0,INTERMEDIATE,5.0,False,1,True,13.0,20.5,24.3,91.0,True,0.6,87.101,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,38.0,3.0,INTERMEDIATE,6.0,False,12,True,13.0,20.5,24.3,91.0,True,0.3,86.771,False,69,2024,21,São Paulo Grand Prix,2024_21
+SAI,Ferrari,39.0,3.0,INTERMEDIATE,7.0,False,124,False,,20.5,24.2,92.0,True,0.6,,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,1.0,1.0,INTERMEDIATE,4.0,False,12,False,1.0,22.5,25.1,78.0,True,0.9,90.516,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,2.0,1.0,INTERMEDIATE,5.0,False,1,True,1.0,22.4,24.6,78.0,True,0.7,85.804,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,3.0,1.0,INTERMEDIATE,6.0,False,1,True,1.0,22.4,24.6,78.0,True,1.2,85.598,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,4.0,1.0,INTERMEDIATE,7.0,False,12,True,1.0,22.3,24.5,78.0,True,0.9,85.642,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,5.0,1.0,INTERMEDIATE,8.0,False,1,True,1.0,22.2,24.6,78.0,True,0.7,85.317,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,6.0,1.0,INTERMEDIATE,9.0,False,1,True,1.0,22.2,24.8,79.0,True,0.7,84.675,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,7.0,1.0,INTERMEDIATE,10.0,False,1,True,1.0,22.1,24.9,77.0,True,0.7,84.854,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,8.0,1.0,INTERMEDIATE,11.0,False,1,True,1.0,22.1,24.9,78.0,True,0.7,84.588,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,9.0,1.0,INTERMEDIATE,12.0,False,1,True,1.0,22.2,25.0,78.0,True,1.0,84.238,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,10.0,1.0,INTERMEDIATE,13.0,False,1,True,1.0,22.1,25.0,77.0,True,1.1,84.295,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,11.0,1.0,INTERMEDIATE,14.0,False,1,True,1.0,22.1,24.9,76.0,True,1.1,83.928,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,12.0,1.0,INTERMEDIATE,15.0,False,12,True,1.0,22.2,24.8,75.0,True,0.7,84.216,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,13.0,1.0,INTERMEDIATE,16.0,False,1,True,1.0,22.2,25.0,76.0,True,0.6,84.672,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,14.0,1.0,INTERMEDIATE,17.0,False,1,True,1.0,22.3,25.3,76.0,True,0.5,84.462,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,15.0,1.0,INTERMEDIATE,18.0,False,1,True,1.0,22.3,25.4,75.0,True,0.6,84.383,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,16.0,1.0,INTERMEDIATE,19.0,False,1,True,1.0,22.3,25.3,75.0,True,1.1,83.984,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,17.0,1.0,INTERMEDIATE,20.0,False,1,True,1.0,22.1,25.3,75.0,True,0.8,84.71,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,18.0,1.0,INTERMEDIATE,21.0,False,1,True,1.0,22.1,25.1,76.0,True,0.5,84.423,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,19.0,1.0,INTERMEDIATE,22.0,False,1,True,1.0,22.0,25.1,77.0,True,0.6,84.338,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,20.0,1.0,INTERMEDIATE,23.0,False,1,True,1.0,22.0,24.9,77.0,True,0.4,83.751,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,21.0,1.0,INTERMEDIATE,24.0,False,1,True,1.0,22.0,24.9,79.0,True,0.4,83.517,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,22.0,1.0,INTERMEDIATE,25.0,False,1,True,1.0,22.0,24.9,81.0,True,1.0,83.883,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,23.0,1.0,INTERMEDIATE,26.0,False,1,True,1.0,22.0,24.9,82.0,True,0.4,84.127,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,24.0,1.0,INTERMEDIATE,27.0,False,1,True,1.0,22.0,25.0,83.0,True,0.4,84.407,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,25.0,1.0,INTERMEDIATE,28.0,False,1,True,1.0,21.9,24.9,85.0,True,0.7,84.47,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,26.0,1.0,INTERMEDIATE,29.0,False,12,True,1.0,21.9,24.9,85.0,True,0.5,85.404,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,27.0,1.0,INTERMEDIATE,30.0,False,12,True,1.0,21.8,24.6,86.0,True,0.7,86.877,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,28.0,1.0,INTERMEDIATE,31.0,False,267,False,1.0,21.7,24.4,86.0,True,1.4,114.428,True,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,29.0,2.0,INTERMEDIATE,4.0,False,71,False,4.0,21.5,24.1,87.0,True,1.0,122.979,True,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,30.0,2.0,INTERMEDIATE,5.0,False,14,False,5.0,21.3,24.0,88.0,True,0.7,122.081,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,31.0,2.0,INTERMEDIATE,6.0,False,4,False,5.0,21.0,23.5,88.0,True,0.9,125.485,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,32.0,2.0,INTERMEDIATE,7.0,False,45,False,5.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,33.0,3.0,INTERMEDIATE,4.0,False,12,False,5.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,34.0,3.0,INTERMEDIATE,5.0,False,1,True,4.0,20.6,25.1,90.0,True,0.7,95.067,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,35.0,3.0,INTERMEDIATE,6.0,False,1,True,4.0,20.6,25.1,90.0,True,0.8,88.677,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,36.0,3.0,INTERMEDIATE,7.0,False,12,True,4.0,20.6,24.7,90.0,True,0.4,86.885,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,37.0,3.0,INTERMEDIATE,8.0,False,1,True,4.0,20.6,24.6,91.0,True,0.7,85.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,38.0,3.0,INTERMEDIATE,9.0,False,12,True,4.0,20.5,24.3,91.0,True,0.3,84.89,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,39.0,3.0,INTERMEDIATE,10.0,False,124,False,4.0,20.5,24.2,92.0,True,0.6,93.033,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,40.0,3.0,INTERMEDIATE,11.0,False,4,False,4.0,20.5,24.3,91.0,True,0.0,117.269,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,41.0,3.0,INTERMEDIATE,12.0,False,4,False,4.0,20.5,24.5,90.0,False,1.2,125.823,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,42.0,3.0,INTERMEDIATE,13.0,False,41,False,4.0,20.5,24.7,91.0,False,0.4,139.051,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,43.0,3.0,INTERMEDIATE,14.0,False,12,True,5.0,20.4,24.7,90.0,True,0.6,89.684,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,44.0,3.0,INTERMEDIATE,15.0,False,21,True,5.0,20.5,24.8,90.0,True,0.7,85.346,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,45.0,3.0,INTERMEDIATE,16.0,False,1,True,5.0,20.5,24.8,90.0,True,0.8,84.451,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,46.0,3.0,INTERMEDIATE,17.0,False,1,True,4.0,20.5,24.8,91.0,True,0.7,84.385,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,47.0,3.0,INTERMEDIATE,18.0,False,1,True,4.0,20.5,25.3,90.0,True,1.0,82.843,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,48.0,3.0,INTERMEDIATE,19.0,False,1,True,4.0,20.6,25.3,90.0,True,0.7,82.744,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,49.0,3.0,INTERMEDIATE,20.0,False,1,True,4.0,20.6,25.3,90.0,True,0.4,82.552,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,50.0,3.0,INTERMEDIATE,21.0,False,1,True,4.0,20.6,25.3,90.0,True,0.6,82.698,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,51.0,3.0,INTERMEDIATE,22.0,False,12,True,4.0,20.6,25.1,90.0,True,0.9,82.661,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,52.0,3.0,INTERMEDIATE,23.0,False,1,True,4.0,20.8,24.9,90.0,False,0.9,82.953,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,53.0,3.0,INTERMEDIATE,24.0,False,1,True,4.0,20.7,24.6,89.0,False,1.4,82.427,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,54.0,3.0,INTERMEDIATE,25.0,False,1,True,4.0,20.7,24.6,90.0,False,1.3,82.777,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,55.0,3.0,INTERMEDIATE,26.0,False,1,True,4.0,20.5,24.6,90.0,False,0.8,82.527,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,56.0,3.0,INTERMEDIATE,27.0,False,1,True,4.0,20.5,24.6,90.0,False,0.4,82.496,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,57.0,3.0,INTERMEDIATE,28.0,False,1,True,4.0,20.4,24.7,90.0,False,1.0,82.815,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,58.0,3.0,INTERMEDIATE,29.0,False,1,True,4.0,20.4,24.5,90.0,False,0.8,82.43,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,59.0,3.0,INTERMEDIATE,30.0,False,1,True,4.0,20.5,24.4,89.0,False,1.6,82.163,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,60.0,3.0,INTERMEDIATE,31.0,False,1,True,4.0,20.5,24.4,89.0,False,1.2,82.057,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,61.0,3.0,INTERMEDIATE,32.0,False,1,True,4.0,20.4,24.5,90.0,False,0.7,82.161,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,62.0,3.0,INTERMEDIATE,33.0,False,1,True,4.0,20.4,24.5,90.0,False,0.0,82.139,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,63.0,3.0,INTERMEDIATE,34.0,False,1,True,4.0,20.4,24.7,90.0,False,1.0,81.908,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,64.0,3.0,INTERMEDIATE,35.0,False,1,True,4.0,20.5,24.6,90.0,False,0.9,81.78,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,65.0,3.0,INTERMEDIATE,36.0,False,1,True,4.0,20.5,24.5,89.0,False,0.6,81.851,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,66.0,3.0,INTERMEDIATE,37.0,False,1,True,4.0,20.5,24.5,89.0,False,0.6,81.645,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,67.0,3.0,INTERMEDIATE,38.0,False,1,True,4.0,20.5,24.5,89.0,False,0.7,81.886,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,68.0,3.0,INTERMEDIATE,39.0,False,1,True,4.0,20.5,24.1,89.0,False,1.1,81.803,False,69,2024,21,São Paulo Grand Prix,2024_21
+RUS,Mercedes,69.0,3.0,INTERMEDIATE,40.0,False,1,True,4.0,20.5,24.0,89.0,False,1.8,82.189,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,1.0,1.0,INTERMEDIATE,1.0,True,12,False,15.0,22.5,25.1,78.0,True,0.9,101.65,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,2.0,1.0,INTERMEDIATE,2.0,True,1,True,15.0,22.4,24.6,78.0,True,0.7,88.923,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,3.0,1.0,INTERMEDIATE,3.0,True,1,True,15.0,22.4,24.6,78.0,True,1.2,87.735,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,4.0,1.0,INTERMEDIATE,4.0,True,12,True,14.0,22.2,24.4,77.0,True,1.1,87.071,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,5.0,1.0,INTERMEDIATE,5.0,True,1,True,14.0,22.2,24.6,78.0,True,0.7,86.53,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,6.0,1.0,INTERMEDIATE,6.0,True,1,True,14.0,22.2,24.9,78.0,True,1.1,86.143,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,7.0,1.0,INTERMEDIATE,7.0,True,1,True,14.0,22.1,24.9,77.0,True,0.7,85.823,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,8.0,1.0,INTERMEDIATE,8.0,True,1,True,14.0,22.1,24.9,78.0,True,0.7,85.484,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,9.0,1.0,INTERMEDIATE,9.0,True,1,True,14.0,22.1,25.0,77.0,True,0.9,84.851,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,10.0,1.0,INTERMEDIATE,10.0,True,1,True,14.0,22.1,25.0,77.0,True,1.1,85.851,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,11.0,1.0,INTERMEDIATE,11.0,True,12,True,14.0,22.1,24.8,75.0,True,1.0,86.246,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,12.0,1.0,INTERMEDIATE,12.0,True,1,True,17.0,22.2,24.8,75.0,True,0.7,89.257,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,13.0,1.0,INTERMEDIATE,13.0,True,1,True,17.0,22.3,25.2,76.0,True,0.8,86.638,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,14.0,1.0,INTERMEDIATE,14.0,True,1,True,17.0,22.3,25.3,76.0,True,0.5,85.315,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,15.0,1.0,INTERMEDIATE,15.0,True,1,True,17.0,22.3,25.4,75.0,True,0.6,85.431,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,16.0,1.0,INTERMEDIATE,16.0,True,1,True,17.0,22.2,25.3,76.0,True,0.7,84.896,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,17.0,1.0,INTERMEDIATE,17.0,True,1,True,17.0,22.1,25.3,75.0,True,0.8,84.927,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,18.0,1.0,INTERMEDIATE,18.0,True,1,True,17.0,22.0,25.1,76.0,True,0.5,85.189,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,19.0,1.0,INTERMEDIATE,19.0,True,1,True,17.0,22.0,25.1,77.0,True,0.6,85.089,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,20.0,1.0,INTERMEDIATE,20.0,True,1,True,17.0,22.0,24.9,79.0,True,0.4,84.984,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,21.0,1.0,INTERMEDIATE,21.0,True,1,True,17.0,22.0,24.9,81.0,True,1.1,84.726,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,22.0,1.0,INTERMEDIATE,22.0,True,1,True,17.0,22.0,24.9,81.0,True,1.0,85.144,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,23.0,1.0,INTERMEDIATE,23.0,True,1,True,17.0,22.0,24.9,83.0,True,0.7,84.966,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,24.0,1.0,INTERMEDIATE,24.0,True,1,True,17.0,22.0,25.0,83.0,True,0.4,85.203,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,25.0,1.0,INTERMEDIATE,25.0,True,12,True,17.0,21.9,24.9,85.0,True,0.5,85.525,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,26.0,1.0,INTERMEDIATE,26.0,True,1,True,16.0,21.9,24.7,85.0,True,0.4,87.132,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,27.0,1.0,INTERMEDIATE,27.0,True,126,False,15.0,21.7,24.4,86.0,True,1.4,100.966,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,28.0,1.0,INTERMEDIATE,28.0,True,671,False,11.0,21.6,24.2,86.0,True,1.0,106.762,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,29.0,1.0,INTERMEDIATE,29.0,True,1,True,12.0,21.4,24.0,87.0,True,0.7,110.114,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,30.0,1.0,INTERMEDIATE,30.0,True,14,False,12.0,21.1,23.8,88.0,True,0.8,128.365,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,31.0,1.0,INTERMEDIATE,31.0,True,4,False,12.0,20.9,23.3,89.0,True,0.8,112.258,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,32.0,1.0,INTERMEDIATE,32.0,True,45,False,12.0,20.8,23.3,89.0,True,0.7,,True,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,33.0,2.0,INTERMEDIATE,1.0,True,12,False,12.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,34.0,2.0,INTERMEDIATE,2.0,True,1,True,13.0,20.6,25.1,90.0,True,0.7,100.982,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,35.0,2.0,INTERMEDIATE,3.0,True,1,True,15.0,20.6,25.1,91.0,True,0.5,95.37,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,36.0,2.0,INTERMEDIATE,4.0,True,12,True,14.0,20.6,24.7,90.0,True,0.4,92.055,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,37.0,2.0,INTERMEDIATE,5.0,True,12,True,14.0,20.5,24.3,91.0,True,0.6,88.061,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,38.0,2.0,INTERMEDIATE,6.0,True,21,True,14.0,20.5,24.3,91.0,True,0.3,87.343,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,39.0,2.0,INTERMEDIATE,7.0,True,124,False,13.0,20.5,24.3,91.0,True,0.4,99.942,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,40.0,2.0,INTERMEDIATE,8.0,True,4,False,13.0,20.5,24.3,91.0,True,0.0,111.569,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,41.0,2.0,INTERMEDIATE,9.0,True,4,False,13.0,20.5,24.5,90.0,False,1.2,117.089,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,42.0,2.0,INTERMEDIATE,10.0,True,41,False,13.0,20.5,24.7,91.0,False,0.4,122.559,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,43.0,2.0,INTERMEDIATE,11.0,True,12,True,13.0,20.4,24.7,90.0,True,0.6,93.797,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,44.0,2.0,INTERMEDIATE,12.0,True,21,True,13.0,20.5,24.8,90.0,True,0.7,87.017,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,45.0,2.0,INTERMEDIATE,13.0,True,1,True,13.0,20.5,24.8,90.0,True,0.8,86.05,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,46.0,2.0,INTERMEDIATE,14.0,True,1,True,13.0,20.5,25.1,90.0,True,0.7,84.963,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,47.0,2.0,INTERMEDIATE,15.0,True,1,True,13.0,20.5,25.3,90.0,True,1.0,84.722,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,48.0,2.0,INTERMEDIATE,16.0,True,1,True,13.0,20.6,25.3,90.0,True,0.7,84.284,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,49.0,2.0,INTERMEDIATE,17.0,True,1,True,13.0,20.6,25.3,90.0,True,0.4,84.112,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,50.0,2.0,INTERMEDIATE,18.0,True,1,True,13.0,20.6,25.3,90.0,True,0.6,83.925,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,51.0,2.0,INTERMEDIATE,19.0,True,12,True,13.0,20.7,24.9,90.0,False,1.0,84.507,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,52.0,2.0,INTERMEDIATE,20.0,True,1,True,13.0,20.8,24.9,90.0,False,0.9,84.36,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,53.0,2.0,INTERMEDIATE,21.0,True,1,True,13.0,20.7,24.6,89.0,False,1.4,84.36,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,54.0,2.0,INTERMEDIATE,22.0,True,1,True,13.0,20.5,24.7,90.0,False,1.2,84.444,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,55.0,2.0,INTERMEDIATE,23.0,True,1,True,13.0,20.5,24.6,90.0,False,0.8,83.957,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,56.0,2.0,INTERMEDIATE,24.0,True,1,True,13.0,20.4,24.6,89.0,False,0.9,83.508,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,57.0,2.0,INTERMEDIATE,25.0,True,1,True,13.0,20.4,24.7,90.0,False,1.0,83.451,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,58.0,2.0,INTERMEDIATE,26.0,True,1,True,13.0,20.4,24.5,90.0,False,0.8,83.185,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,59.0,2.0,INTERMEDIATE,27.0,True,1,True,13.0,20.5,24.4,89.0,False,0.9,83.418,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,60.0,2.0,INTERMEDIATE,28.0,True,1,True,13.0,20.5,24.4,89.0,False,1.2,82.911,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,61.0,2.0,INTERMEDIATE,29.0,True,1,True,13.0,20.4,24.5,90.0,False,0.0,83.177,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,62.0,2.0,INTERMEDIATE,30.0,True,1,True,13.0,20.4,24.7,90.0,False,0.7,83.241,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,63.0,2.0,INTERMEDIATE,31.0,True,1,True,13.0,20.4,24.7,90.0,False,1.0,83.015,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,64.0,2.0,INTERMEDIATE,32.0,True,1,True,13.0,20.5,24.5,89.0,False,0.6,82.996,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,65.0,2.0,INTERMEDIATE,33.0,True,1,True,13.0,20.5,24.5,90.0,False,0.5,82.903,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,66.0,2.0,INTERMEDIATE,34.0,True,1,True,13.0,20.5,24.5,89.0,False,0.6,83.335,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,67.0,2.0,INTERMEDIATE,35.0,True,1,True,13.0,20.5,24.2,89.0,False,0.0,82.877,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,68.0,2.0,INTERMEDIATE,36.0,True,1,True,13.0,20.5,24.1,89.0,False,1.1,83.034,False,69,2024,21,São Paulo Grand Prix,2024_21
+BOT,Kick Sauber,69.0,2.0,INTERMEDIATE,37.0,True,1,True,13.0,20.5,24.0,89.0,False,0.7,83.003,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,1.0,1.0,INTERMEDIATE,4.0,False,12,False,7.0,22.5,25.1,78.0,True,0.9,96.644,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,2.0,1.0,INTERMEDIATE,5.0,False,1,True,7.0,22.4,24.6,78.0,True,0.7,87.194,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,3.0,1.0,INTERMEDIATE,6.0,False,1,True,7.0,22.4,24.6,78.0,True,1.2,86.233,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,4.0,1.0,INTERMEDIATE,7.0,False,12,True,7.0,22.2,24.4,77.0,True,1.1,85.913,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,5.0,1.0,INTERMEDIATE,8.0,False,1,True,7.0,22.2,24.6,78.0,True,0.7,85.547,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,6.0,1.0,INTERMEDIATE,9.0,False,1,True,7.0,22.2,24.8,79.0,True,0.7,85.2,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,7.0,1.0,INTERMEDIATE,10.0,False,1,True,7.0,22.1,24.9,77.0,True,0.7,85.367,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,8.0,1.0,INTERMEDIATE,11.0,False,1,True,7.0,22.1,24.9,78.0,True,0.7,85.322,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,9.0,1.0,INTERMEDIATE,12.0,False,1,True,7.0,22.1,25.0,77.0,True,0.9,84.869,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,10.0,1.0,INTERMEDIATE,13.0,False,1,True,8.0,22.1,25.0,77.0,True,1.1,85.762,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,11.0,1.0,INTERMEDIATE,14.0,False,12,True,8.0,22.1,24.9,76.0,True,1.1,84.792,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,12.0,1.0,INTERMEDIATE,15.0,False,21,True,8.0,22.2,24.8,75.0,True,0.7,84.83,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,13.0,1.0,INTERMEDIATE,16.0,False,1,True,8.0,22.2,25.0,76.0,True,0.6,85.187,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,14.0,1.0,INTERMEDIATE,17.0,False,1,True,8.0,22.3,25.3,76.0,True,0.5,85.307,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,15.0,1.0,INTERMEDIATE,18.0,False,1,True,8.0,22.3,25.4,75.0,True,0.6,84.924,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,16.0,1.0,INTERMEDIATE,19.0,False,1,True,8.0,22.2,25.3,76.0,True,0.7,84.896,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,17.0,1.0,INTERMEDIATE,20.0,False,1,True,8.0,22.1,25.3,75.0,True,0.8,84.555,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,18.0,1.0,INTERMEDIATE,21.0,False,1,True,8.0,22.1,25.1,76.0,True,0.5,84.526,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,19.0,1.0,INTERMEDIATE,22.0,False,1,True,8.0,22.0,25.1,77.0,True,0.6,84.563,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,20.0,1.0,INTERMEDIATE,23.0,False,1,True,8.0,22.0,24.9,77.0,True,0.4,84.278,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,21.0,1.0,INTERMEDIATE,24.0,False,1,True,8.0,22.0,24.9,81.0,True,1.1,84.098,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,22.0,1.0,INTERMEDIATE,25.0,False,1,True,8.0,22.0,24.9,81.0,True,1.0,84.225,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,23.0,1.0,INTERMEDIATE,26.0,False,1,True,8.0,22.0,24.9,82.0,True,0.4,84.774,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,24.0,1.0,INTERMEDIATE,27.0,False,1,True,8.0,22.0,25.0,83.0,True,0.4,84.789,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,25.0,1.0,INTERMEDIATE,28.0,False,1,True,7.0,21.9,24.9,85.0,True,0.7,84.918,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,26.0,1.0,INTERMEDIATE,29.0,False,12,True,7.0,21.9,24.7,85.0,True,0.4,88.032,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,27.0,1.0,INTERMEDIATE,30.0,False,126,False,7.0,21.8,24.6,86.0,True,0.7,96.487,True,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,28.0,2.0,INTERMEDIATE,5.0,False,671,False,9.0,21.6,24.2,86.0,True,1.0,121.36,True,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,29.0,2.0,INTERMEDIATE,6.0,False,1,True,8.0,21.4,24.0,87.0,True,0.7,101.078,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,30.0,2.0,INTERMEDIATE,7.0,False,14,False,8.0,21.3,24.0,88.0,True,0.7,117.584,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,31.0,2.0,INTERMEDIATE,8.0,False,4,False,8.0,21.0,23.5,88.0,True,0.9,119.357,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,32.0,2.0,INTERMEDIATE,9.0,False,45,False,8.0,20.8,23.2,89.0,True,0.6,,True,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,33.0,3.0,INTERMEDIATE,3.0,False,12,False,8.0,20.6,25.2,90.0,True,0.3,,True,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,34.0,3.0,INTERMEDIATE,4.0,False,1,True,7.0,20.6,25.1,90.0,True,0.7,98.248,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,35.0,3.0,INTERMEDIATE,5.0,False,1,True,7.0,20.6,25.1,90.0,True,0.8,89.882,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,36.0,3.0,INTERMEDIATE,6.0,False,12,True,7.0,20.6,24.7,90.0,True,0.4,87.878,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,37.0,3.0,INTERMEDIATE,7.0,False,1,True,7.0,20.6,24.6,91.0,True,0.7,86.052,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,38.0,3.0,INTERMEDIATE,8.0,False,12,True,7.0,20.5,24.3,91.0,True,0.3,85.182,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,39.0,3.0,INTERMEDIATE,9.0,False,124,False,7.0,20.5,24.2,92.0,True,0.6,96.338,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,40.0,3.0,INTERMEDIATE,10.0,False,4,False,7.0,20.5,24.3,91.0,True,0.0,113.528,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,41.0,3.0,INTERMEDIATE,11.0,False,4,False,7.0,20.5,24.5,90.0,False,1.2,125.903,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,42.0,3.0,INTERMEDIATE,12.0,False,41,False,7.0,20.5,24.7,91.0,False,0.4,132.899,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,43.0,3.0,INTERMEDIATE,13.0,False,12,True,6.0,20.4,24.7,90.0,True,0.6,89.836,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,44.0,3.0,INTERMEDIATE,14.0,False,21,True,6.0,20.5,24.8,90.0,True,0.7,85.697,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,45.0,3.0,INTERMEDIATE,15.0,False,1,True,6.0,20.5,24.8,90.0,True,0.8,84.29,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,46.0,3.0,INTERMEDIATE,16.0,False,1,True,7.0,20.5,24.8,91.0,True,0.7,86.611,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,47.0,3.0,INTERMEDIATE,17.0,False,1,True,7.0,20.5,25.3,90.0,True,1.0,84.618,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,48.0,3.0,INTERMEDIATE,18.0,False,1,True,7.0,20.6,25.3,90.0,True,0.7,84.174,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,49.0,3.0,INTERMEDIATE,19.0,False,1,True,7.0,20.6,25.3,90.0,True,0.4,83.036,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,50.0,3.0,INTERMEDIATE,20.0,False,1,True,7.0,20.6,25.3,90.0,True,0.6,83.473,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,51.0,3.0,INTERMEDIATE,21.0,False,12,True,7.0,20.6,25.1,90.0,True,0.9,86.267,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,52.0,3.0,INTERMEDIATE,22.0,False,1,True,7.0,20.8,24.9,90.0,False,0.9,82.933,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,53.0,3.0,INTERMEDIATE,23.0,False,1,True,7.0,20.7,24.6,89.0,False,1.4,82.73,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,54.0,3.0,INTERMEDIATE,24.0,False,1,True,7.0,20.5,24.7,90.0,False,1.2,82.908,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,55.0,3.0,INTERMEDIATE,25.0,False,1,True,7.0,20.5,24.6,90.0,False,0.8,82.521,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,56.0,3.0,INTERMEDIATE,26.0,False,1,True,7.0,20.5,24.6,90.0,False,0.4,82.644,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,57.0,3.0,INTERMEDIATE,27.0,False,1,True,7.0,20.4,24.7,90.0,False,1.0,82.524,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,58.0,3.0,INTERMEDIATE,28.0,False,1,True,7.0,20.4,24.5,90.0,False,0.8,82.32,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,59.0,3.0,INTERMEDIATE,29.0,False,1,True,7.0,20.5,24.4,89.0,False,1.6,82.18,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,60.0,3.0,INTERMEDIATE,30.0,False,1,True,7.0,20.5,24.4,89.0,False,1.2,82.106,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,61.0,3.0,INTERMEDIATE,31.0,False,1,True,7.0,20.4,24.5,90.0,False,0.7,82.125,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,62.0,3.0,INTERMEDIATE,32.0,False,1,True,7.0,20.4,24.7,90.0,False,0.7,82.222,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,63.0,3.0,INTERMEDIATE,33.0,False,1,True,7.0,20.4,24.7,90.0,False,1.0,82.216,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,64.0,3.0,INTERMEDIATE,34.0,False,1,True,7.0,20.5,24.6,90.0,False,0.9,81.838,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,65.0,3.0,INTERMEDIATE,35.0,False,1,True,7.0,20.5,24.5,90.0,False,0.5,81.84,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,66.0,3.0,INTERMEDIATE,36.0,False,1,True,7.0,20.5,24.5,89.0,False,0.6,81.884,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,67.0,3.0,INTERMEDIATE,37.0,False,1,True,7.0,20.5,24.5,89.0,False,0.7,82.286,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,68.0,3.0,INTERMEDIATE,38.0,False,1,True,7.0,20.5,24.1,89.0,False,1.1,81.719,False,69,2024,21,São Paulo Grand Prix,2024_21
+PIA,McLaren,69.0,3.0,INTERMEDIATE,39.0,False,1,True,7.0,20.5,24.0,89.0,False,1.8,81.532,False,69,2024,21,São Paulo Grand Prix,2024_21

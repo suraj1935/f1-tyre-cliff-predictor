@@ -1,0 +1,1238 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1254,False,1.0,21.6,48.4,66.0,False,0.6,2456.33,True,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,2.0,2.0,HARD,1.0,True,14,False,1.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,3.0,2.0,HARD,2.0,True,1,True,1.0,21.6,49.2,65.0,False,0.6,84.624,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,4.0,2.0,HARD,3.0,True,1,True,1.0,21.7,49.2,63.0,False,0.6,82.625,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,5.0,2.0,HARD,4.0,True,1,True,1.0,21.7,48.8,63.0,False,0.6,81.795,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,6.0,2.0,HARD,5.0,True,1,True,1.0,21.6,48.2,63.0,False,1.0,81.145,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,7.0,2.0,HARD,6.0,True,1,True,1.0,21.8,48.7,64.0,False,0.4,80.98,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,8.0,2.0,HARD,7.0,True,1,True,1.0,21.8,48.0,64.0,False,1.4,81.03,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,9.0,2.0,HARD,8.0,True,1,True,1.0,22.0,47.9,64.0,False,1.1,80.114,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,10.0,2.0,HARD,9.0,True,1,True,1.0,22.1,47.4,65.0,False,0.7,80.775,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,11.0,2.0,HARD,10.0,True,1,True,1.0,22.1,47.9,63.0,False,0.9,81.046,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,12.0,2.0,HARD,11.0,True,1,True,1.0,22.3,47.3,63.0,False,0.6,80.252,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,13.0,2.0,HARD,12.0,True,1,True,1.0,22.1,47.2,64.0,False,1.2,79.017,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,14.0,2.0,HARD,13.0,True,1,True,1.0,22.0,47.1,62.0,False,1.2,79.913,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,15.0,2.0,HARD,14.0,True,1,True,1.0,22.0,47.1,62.0,False,1.1,79.838,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,16.0,2.0,HARD,15.0,True,1,True,1.0,22.0,46.0,64.0,False,0.5,80.156,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,17.0,2.0,HARD,16.0,True,1,True,1.0,21.8,46.1,64.0,False,1.3,80.279,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,18.0,2.0,HARD,17.0,True,1,True,1.0,21.7,47.2,63.0,False,0.8,79.58,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,19.0,2.0,HARD,18.0,True,1,True,1.0,21.8,46.7,61.0,False,0.7,78.842,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,20.0,2.0,HARD,19.0,True,1,True,1.0,21.9,46.6,61.0,False,1.3,78.724,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,21.0,2.0,HARD,20.0,True,1,True,1.0,21.9,45.8,64.0,False,1.3,78.472,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,22.0,2.0,HARD,21.0,True,1,True,1.0,21.8,45.9,65.0,False,1.6,78.62,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,23.0,2.0,HARD,22.0,True,1,True,1.0,21.8,45.9,65.0,False,0.5,78.458,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,24.0,2.0,HARD,23.0,True,1,True,1.0,21.8,46.3,64.0,False,1.4,78.725,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,25.0,2.0,HARD,24.0,True,1,True,1.0,21.7,45.7,63.0,False,0.9,78.973,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,26.0,2.0,HARD,25.0,True,1,True,1.0,21.7,45.7,62.0,False,1.3,78.445,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,27.0,2.0,HARD,26.0,True,1,True,1.0,21.9,46.0,63.0,False,0.6,78.351,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,28.0,2.0,HARD,27.0,True,1,True,1.0,21.9,46.0,62.0,False,1.0,78.71,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,29.0,2.0,HARD,28.0,True,1,True,1.0,22.0,45.6,63.0,False,1.7,79.053,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,30.0,2.0,HARD,29.0,True,1,True,1.0,22.0,46.4,61.0,False,0.6,79.935,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,31.0,2.0,HARD,30.0,True,1,True,1.0,22.1,45.5,61.0,False,0.4,78.393,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,32.0,2.0,HARD,31.0,True,1,True,1.0,22.0,45.5,61.0,False,0.9,79.125,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,33.0,2.0,HARD,32.0,True,1,True,1.0,21.9,45.9,62.0,False,0.9,78.494,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,34.0,2.0,HARD,33.0,True,1,True,1.0,22.0,45.9,61.0,False,1.0,79.319,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,35.0,2.0,HARD,34.0,True,1,True,1.0,22.0,45.1,62.0,False,0.9,78.53,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,36.0,2.0,HARD,35.0,True,1,True,1.0,21.9,44.5,65.0,False,0.6,78.689,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,37.0,2.0,HARD,36.0,True,1,True,1.0,21.7,44.4,63.0,False,1.5,78.925,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,38.0,2.0,HARD,37.0,True,1,True,1.0,21.8,44.5,63.0,False,1.0,78.528,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,39.0,2.0,HARD,38.0,True,1,True,1.0,21.8,44.8,62.0,False,0.7,78.181,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,40.0,2.0,HARD,39.0,True,1,True,1.0,21.9,44.4,61.0,False,0.8,78.733,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,41.0,2.0,HARD,40.0,True,1,True,1.0,22.0,44.4,60.0,False,0.8,78.694,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,42.0,2.0,HARD,41.0,True,1,True,1.0,22.0,44.4,62.0,False,0.5,79.277,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,43.0,2.0,HARD,42.0,True,1,True,1.0,21.9,44.8,59.0,False,0.9,77.865,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,44.0,2.0,HARD,43.0,True,1,True,1.0,21.9,44.8,59.0,False,1.0,78.276,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,45.0,2.0,HARD,44.0,True,1,True,1.0,22.0,44.5,58.0,False,0.5,78.541,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,46.0,2.0,HARD,45.0,True,1,True,1.0,21.9,44.5,57.0,False,1.8,78.567,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,47.0,2.0,HARD,46.0,True,1,True,1.0,22.0,44.5,58.0,False,1.8,79.185,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,48.0,2.0,HARD,47.0,True,1,True,1.0,22.0,43.8,57.0,False,0.7,77.941,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,49.0,2.0,HARD,48.0,True,1,True,1.0,22.0,43.8,58.0,False,1.1,78.506,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,50.0,2.0,HARD,49.0,True,1,True,1.0,21.9,43.7,58.0,False,1.0,78.185,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,51.0,2.0,HARD,50.0,True,1,True,1.0,21.9,43.7,58.0,False,1.1,77.79,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,52.0,2.0,HARD,51.0,True,1,True,1.0,21.8,43.0,58.0,False,0.7,78.311,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,53.0,2.0,HARD,52.0,True,12,True,1.0,21.9,43.2,58.0,False,0.8,77.748,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,54.0,2.0,HARD,53.0,True,1,True,1.0,21.9,43.0,59.0,False,1.1,77.357,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,55.0,2.0,HARD,54.0,True,1,True,1.0,21.9,42.8,59.0,False,1.4,77.444,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,56.0,2.0,HARD,55.0,True,1,True,1.0,21.7,42.4,60.0,False,0.9,77.266,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,57.0,2.0,HARD,56.0,True,1,True,1.0,21.6,42.2,60.0,False,0.8,77.64,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,58.0,2.0,HARD,57.0,True,1,True,1.0,21.7,42.4,59.0,False,0.6,77.028,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,59.0,2.0,HARD,58.0,True,1,True,1.0,21.8,42.2,60.0,False,1.2,77.034,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,60.0,2.0,HARD,59.0,True,1,True,1.0,21.5,42.3,61.0,False,0.5,76.414,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,61.0,2.0,HARD,60.0,True,1,True,1.0,21.6,42.3,60.0,False,0.6,76.863,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,62.0,2.0,HARD,61.0,True,1,True,1.0,21.6,42.0,60.0,False,0.9,77.454,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,63.0,2.0,HARD,62.0,True,1,True,1.0,22.0,42.0,60.0,False,0.8,76.971,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,64.0,2.0,HARD,63.0,True,1,True,1.0,21.9,41.2,60.0,False,0.8,76.56,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,65.0,2.0,HARD,64.0,True,1,True,1.0,21.9,42.0,60.0,False,0.9,76.607,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,66.0,2.0,HARD,65.0,True,1,True,1.0,21.9,41.7,59.0,False,1.2,76.489,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,67.0,2.0,HARD,66.0,True,1,True,1.0,22.0,41.6,60.0,False,1.0,75.941,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,68.0,2.0,HARD,67.0,True,1,True,1.0,21.8,40.9,60.0,False,0.7,76.082,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,69.0,2.0,HARD,68.0,True,1,True,1.0,21.7,41.1,61.0,False,0.8,76.373,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,70.0,2.0,HARD,69.0,True,1,True,1.0,21.8,41.6,60.0,False,0.8,75.767,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,71.0,2.0,HARD,70.0,True,1,True,1.0,21.7,41.1,60.0,False,0.4,75.162,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,72.0,2.0,HARD,71.0,True,1,True,1.0,21.6,41.0,61.0,False,0.7,75.547,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,73.0,2.0,HARD,72.0,True,1,True,1.0,21.6,40.5,62.0,False,0.9,76.219,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,74.0,2.0,HARD,73.0,True,1,True,1.0,21.7,40.8,61.0,False,1.1,76.105,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,75.0,2.0,HARD,74.0,True,1,True,1.0,21.7,40.8,61.0,False,0.7,76.387,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,76.0,2.0,HARD,75.0,True,1,True,1.0,21.7,40.6,61.0,False,0.6,76.808,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,77.0,2.0,HARD,76.0,True,1,True,1.0,21.7,40.6,61.0,False,0.9,76.933,False,78,2024,8,Monaco Grand Prix,2024_08
+LEC,Ferrari,78.0,2.0,HARD,77.0,True,1,True,1.0,21.8,40.9,61.0,False,0.8,78.636,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,1.0,1.0,MEDIUM,2.0,False,1254,False,2.0,21.6,48.4,66.0,False,0.6,2458.744,True,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,2.0,2.0,HARD,2.0,False,14,False,2.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,3.0,2.0,HARD,3.0,False,1,True,2.0,21.6,49.2,65.0,False,0.6,84.953,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,4.0,2.0,HARD,4.0,False,1,True,2.0,21.7,49.2,63.0,False,0.6,82.314,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,5.0,2.0,HARD,5.0,False,1,True,2.0,21.7,48.8,63.0,False,0.6,82.019,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,6.0,2.0,HARD,6.0,False,1,True,2.0,21.6,48.2,63.0,False,1.0,81.354,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,7.0,2.0,HARD,7.0,False,1,True,2.0,21.8,48.7,64.0,False,0.4,80.808,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,8.0,2.0,HARD,8.0,False,1,True,2.0,21.8,48.0,64.0,False,1.4,81.058,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,9.0,2.0,HARD,9.0,False,1,True,2.0,22.0,47.9,64.0,False,1.1,79.906,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,10.0,2.0,HARD,10.0,False,1,True,2.0,22.1,47.4,65.0,False,0.7,80.89,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,11.0,2.0,HARD,11.0,False,1,True,2.0,22.1,47.9,63.0,False,0.9,80.898,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,12.0,2.0,HARD,12.0,False,1,True,2.0,22.3,47.3,63.0,False,0.6,80.135,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,13.0,2.0,HARD,13.0,False,1,True,2.0,22.1,47.2,64.0,False,1.2,78.745,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,14.0,2.0,HARD,14.0,False,1,True,2.0,22.0,47.1,62.0,False,1.2,80.014,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,15.0,2.0,HARD,15.0,False,1,True,2.0,22.0,47.1,62.0,False,1.1,80.264,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,16.0,2.0,HARD,16.0,False,1,True,2.0,22.0,46.0,64.0,False,0.5,79.829,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,17.0,2.0,HARD,17.0,False,1,True,2.0,21.8,46.1,64.0,False,1.3,80.028,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,18.0,2.0,HARD,18.0,False,1,True,2.0,21.7,47.2,63.0,False,0.8,79.832,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,19.0,2.0,HARD,19.0,False,1,True,2.0,21.8,46.7,61.0,False,0.7,79.179,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,20.0,2.0,HARD,20.0,False,1,True,2.0,21.9,46.6,61.0,False,1.3,79.055,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,21.0,2.0,HARD,21.0,False,1,True,2.0,21.9,45.8,64.0,False,1.3,78.601,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,22.0,2.0,HARD,22.0,False,1,True,2.0,21.8,45.9,65.0,False,1.6,78.585,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,23.0,2.0,HARD,23.0,False,1,True,2.0,21.8,45.9,65.0,False,0.5,78.658,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,24.0,2.0,HARD,24.0,False,1,True,2.0,21.8,46.3,64.0,False,1.4,78.636,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,25.0,2.0,HARD,25.0,False,1,True,2.0,21.7,45.7,63.0,False,0.9,78.784,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,26.0,2.0,HARD,26.0,False,1,True,2.0,21.7,45.7,62.0,False,1.3,78.44,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,27.0,2.0,HARD,27.0,False,1,True,2.0,21.9,46.0,63.0,False,0.6,78.523,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,28.0,2.0,HARD,28.0,False,1,True,2.0,21.9,46.0,62.0,False,1.0,78.791,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,29.0,2.0,HARD,29.0,False,1,True,2.0,22.0,45.6,63.0,False,1.7,79.01,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,30.0,2.0,HARD,30.0,False,1,True,2.0,22.0,46.4,61.0,False,0.6,79.396,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,31.0,2.0,HARD,31.0,False,1,True,2.0,22.1,45.5,61.0,False,0.4,78.449,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,32.0,2.0,HARD,32.0,False,1,True,2.0,22.0,45.5,61.0,False,0.9,78.969,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,33.0,2.0,HARD,33.0,False,1,True,2.0,21.9,45.9,62.0,False,0.9,79.06,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,34.0,2.0,HARD,34.0,False,1,True,2.0,22.0,45.9,61.0,False,1.0,78.978,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,35.0,2.0,HARD,35.0,False,1,True,2.0,22.0,45.1,62.0,False,0.9,78.605,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,36.0,2.0,HARD,36.0,False,1,True,2.0,21.9,44.5,65.0,False,0.6,78.882,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,37.0,2.0,HARD,37.0,False,1,True,2.0,21.7,44.4,63.0,False,1.5,78.612,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,38.0,2.0,HARD,38.0,False,1,True,2.0,21.8,44.5,63.0,False,1.0,78.731,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,39.0,2.0,HARD,39.0,False,1,True,2.0,21.8,44.8,62.0,False,0.7,78.362,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,40.0,2.0,HARD,40.0,False,1,True,2.0,21.9,44.4,61.0,False,0.8,78.951,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,41.0,2.0,HARD,41.0,False,1,True,2.0,22.0,44.4,60.0,False,0.8,78.846,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,42.0,2.0,HARD,42.0,False,1,True,2.0,22.0,44.4,62.0,False,0.5,79.795,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,43.0,2.0,HARD,43.0,False,1,True,2.0,21.9,44.8,59.0,False,0.9,78.198,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,44.0,2.0,HARD,44.0,False,1,True,2.0,21.9,44.8,59.0,False,1.0,78.277,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,45.0,2.0,HARD,45.0,False,1,True,2.0,22.0,44.5,58.0,False,0.5,78.082,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,46.0,2.0,HARD,46.0,False,1,True,2.0,21.9,44.5,57.0,False,1.8,78.623,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,47.0,2.0,HARD,47.0,False,1,True,2.0,22.0,44.5,58.0,False,1.8,78.399,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,48.0,2.0,HARD,48.0,False,1,True,2.0,22.0,43.8,57.0,False,0.7,78.395,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,49.0,2.0,HARD,49.0,False,1,True,2.0,22.0,43.7,57.0,False,1.7,78.136,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,50.0,2.0,HARD,50.0,False,1,True,2.0,21.9,43.7,58.0,False,1.0,78.35,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,51.0,2.0,HARD,51.0,False,1,True,2.0,21.9,43.7,58.0,False,1.1,77.909,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,52.0,2.0,HARD,52.0,False,1,True,2.0,21.8,43.0,58.0,False,0.7,78.214,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,53.0,2.0,HARD,53.0,False,12,True,2.0,21.9,43.2,58.0,False,0.8,77.609,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,54.0,2.0,HARD,54.0,False,1,True,2.0,21.9,43.0,59.0,False,1.1,77.362,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,55.0,2.0,HARD,55.0,False,1,True,2.0,21.9,42.8,59.0,False,1.4,77.445,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,56.0,2.0,HARD,56.0,False,1,True,2.0,21.7,42.4,60.0,False,0.9,77.456,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,57.0,2.0,HARD,57.0,False,1,True,2.0,21.6,42.2,60.0,False,0.8,77.3,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,58.0,2.0,HARD,58.0,False,1,True,2.0,21.7,42.4,59.0,False,0.6,77.344,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,59.0,2.0,HARD,59.0,False,1,True,2.0,21.8,42.2,60.0,False,1.2,77.042,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,60.0,2.0,HARD,60.0,False,1,True,2.0,21.5,42.3,61.0,False,0.5,76.617,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,61.0,2.0,HARD,61.0,False,1,True,2.0,21.6,42.3,60.0,False,0.6,76.771,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,62.0,2.0,HARD,62.0,False,1,True,2.0,21.6,42.0,60.0,False,0.9,77.095,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,63.0,2.0,HARD,63.0,False,1,True,2.0,22.0,42.0,60.0,False,0.8,76.921,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,64.0,2.0,HARD,64.0,False,1,True,2.0,21.9,41.2,60.0,False,0.8,76.909,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,65.0,2.0,HARD,65.0,False,1,True,2.0,21.9,42.0,60.0,False,0.9,76.391,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,66.0,2.0,HARD,66.0,False,1,True,2.0,21.9,41.7,59.0,False,1.2,76.64,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,67.0,2.0,HARD,67.0,False,1,True,2.0,22.0,41.6,60.0,False,1.0,76.596,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,68.0,2.0,HARD,68.0,False,1,True,2.0,21.8,40.9,60.0,False,0.7,76.601,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,69.0,2.0,HARD,69.0,False,1,True,2.0,21.7,41.1,61.0,False,0.8,77.371,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,70.0,2.0,HARD,70.0,False,1,True,2.0,21.8,41.6,60.0,False,1.0,77.27,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,71.0,2.0,HARD,71.0,False,1,True,2.0,21.7,41.1,60.0,False,0.4,77.184,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,72.0,2.0,HARD,72.0,False,1,True,2.0,21.6,41.0,61.0,False,0.7,76.652,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,73.0,2.0,HARD,73.0,False,1,True,2.0,21.6,40.5,62.0,False,0.9,76.281,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,74.0,2.0,HARD,74.0,False,1,True,2.0,21.7,40.8,61.0,False,1.1,76.356,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,75.0,2.0,HARD,75.0,False,1,True,2.0,21.7,40.8,61.0,False,0.7,76.644,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,76.0,2.0,HARD,76.0,False,1,True,2.0,21.7,40.6,61.0,False,0.6,76.59,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,77.0,2.0,HARD,77.0,False,1,True,2.0,21.7,40.6,61.0,False,0.9,76.734,False,78,2024,8,Monaco Grand Prix,2024_08
+PIA,McLaren,78.0,2.0,HARD,78.0,False,1,True,2.0,21.8,40.9,61.0,False,0.8,77.126,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1254,False,3.0,21.6,48.4,66.0,False,0.6,2462.721,True,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,2.0,2.0,HARD,1.0,True,14,False,3.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,3.0,2.0,HARD,2.0,True,1,True,3.0,21.6,49.2,65.0,False,0.6,85.012,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,4.0,2.0,HARD,3.0,True,1,True,3.0,21.7,49.2,63.0,False,0.6,82.358,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,5.0,2.0,HARD,4.0,True,1,True,3.0,21.7,48.8,63.0,False,0.6,81.978,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,6.0,2.0,HARD,5.0,True,1,True,3.0,21.6,48.2,63.0,False,1.0,81.163,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,7.0,2.0,HARD,6.0,True,1,True,3.0,21.8,48.7,64.0,False,0.4,81.466,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,8.0,2.0,HARD,7.0,True,1,True,3.0,21.8,48.0,64.0,False,1.4,80.272,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,9.0,2.0,HARD,8.0,True,1,True,3.0,22.0,47.9,64.0,False,1.1,80.525,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,10.0,2.0,HARD,9.0,True,1,True,3.0,22.1,47.4,65.0,False,0.7,81.259,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,11.0,2.0,HARD,10.0,True,1,True,3.0,22.2,47.9,61.0,False,1.3,80.246,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,12.0,2.0,HARD,11.0,True,1,True,3.0,22.3,47.3,63.0,False,0.6,79.974,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,13.0,2.0,HARD,12.0,True,1,True,3.0,22.1,47.2,64.0,False,1.2,80.017,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,14.0,2.0,HARD,13.0,True,1,True,3.0,22.0,47.1,63.0,False,0.5,79.48,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,15.0,2.0,HARD,14.0,True,1,True,3.0,22.0,47.1,62.0,False,1.1,79.543,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,16.0,2.0,HARD,15.0,True,1,True,3.0,22.0,46.0,64.0,False,0.5,80.579,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,17.0,2.0,HARD,16.0,True,1,True,3.0,21.6,46.7,64.0,False,1.1,80.076,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,18.0,2.0,HARD,17.0,True,1,True,3.0,21.7,47.2,63.0,False,0.8,79.177,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,19.0,2.0,HARD,18.0,True,1,True,3.0,21.8,46.7,61.0,False,0.7,79.445,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,20.0,2.0,HARD,19.0,True,1,True,3.0,21.9,46.6,61.0,False,1.3,79.403,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,21.0,2.0,HARD,20.0,True,1,True,3.0,21.9,45.8,64.0,False,1.3,78.917,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,22.0,2.0,HARD,21.0,True,1,True,3.0,21.8,45.9,65.0,False,1.6,78.889,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,23.0,2.0,HARD,22.0,True,1,True,3.0,21.8,45.9,65.0,False,0.5,78.993,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,24.0,2.0,HARD,23.0,True,1,True,3.0,21.8,46.3,64.0,False,1.4,78.568,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,25.0,2.0,HARD,24.0,True,1,True,3.0,21.7,45.7,63.0,False,0.9,78.537,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,26.0,2.0,HARD,25.0,True,1,True,3.0,21.7,45.7,62.0,False,1.3,78.088,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,27.0,2.0,HARD,26.0,True,1,True,3.0,21.9,46.0,63.0,False,0.6,79.49,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,28.0,2.0,HARD,27.0,True,1,True,3.0,21.9,46.0,62.0,False,1.0,79.281,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,29.0,2.0,HARD,28.0,True,1,True,3.0,22.0,45.6,63.0,False,1.7,78.697,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,30.0,2.0,HARD,29.0,True,1,True,3.0,22.0,46.4,61.0,False,0.6,77.326,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,31.0,2.0,HARD,30.0,True,1,True,3.0,22.1,45.5,61.0,False,0.4,79.784,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,32.0,2.0,HARD,31.0,True,1,True,3.0,22.0,45.5,61.0,False,0.9,80.136,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,33.0,2.0,HARD,32.0,True,1,True,3.0,21.9,45.9,62.0,False,0.9,78.778,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,34.0,2.0,HARD,33.0,True,1,True,3.0,22.0,45.9,61.0,False,1.0,79.013,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,35.0,2.0,HARD,34.0,True,1,True,3.0,22.0,45.1,62.0,False,0.9,78.465,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,36.0,2.0,HARD,35.0,True,1,True,3.0,21.8,44.4,64.0,False,1.2,79.275,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,37.0,2.0,HARD,36.0,True,1,True,3.0,21.7,44.4,63.0,False,1.5,77.577,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,38.0,2.0,HARD,37.0,True,1,True,3.0,21.8,44.5,63.0,False,1.0,78.412,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,39.0,2.0,HARD,38.0,True,1,True,3.0,21.8,44.8,62.0,False,0.7,78.31,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,40.0,2.0,HARD,39.0,True,1,True,3.0,21.9,44.4,61.0,False,0.8,78.653,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,41.0,2.0,HARD,40.0,True,1,True,3.0,22.0,44.4,60.0,False,0.8,78.714,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,42.0,2.0,HARD,41.0,True,1,True,3.0,22.0,44.4,62.0,False,0.5,79.171,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,43.0,2.0,HARD,42.0,True,1,True,3.0,21.9,44.8,59.0,False,0.9,79.594,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,44.0,2.0,HARD,43.0,True,1,True,3.0,21.9,44.8,59.0,False,1.0,78.762,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,45.0,2.0,HARD,44.0,True,1,True,3.0,22.0,44.5,58.0,False,0.5,77.885,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,46.0,2.0,HARD,45.0,True,1,True,3.0,21.9,44.5,57.0,False,1.8,78.731,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,47.0,2.0,HARD,46.0,True,1,True,3.0,22.0,44.5,58.0,False,1.8,78.141,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,48.0,2.0,HARD,47.0,True,1,True,3.0,22.0,43.8,57.0,False,0.7,77.894,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,49.0,2.0,HARD,48.0,True,1,True,3.0,22.0,43.7,57.0,False,1.7,78.259,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,50.0,2.0,HARD,49.0,True,1,True,3.0,21.9,43.7,58.0,False,1.0,78.545,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,51.0,2.0,HARD,50.0,True,1,True,3.0,21.9,43.7,58.0,False,1.1,77.528,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,52.0,2.0,HARD,51.0,True,1,True,3.0,21.8,43.0,58.0,False,0.7,78.094,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,53.0,2.0,HARD,52.0,True,12,True,3.0,21.9,43.2,58.0,False,0.8,77.759,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,54.0,2.0,HARD,53.0,True,1,True,3.0,21.9,43.0,59.0,False,1.1,77.742,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,55.0,2.0,HARD,54.0,True,1,True,3.0,21.9,42.8,59.0,False,1.4,78.661,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,56.0,2.0,HARD,55.0,True,1,True,3.0,21.7,42.4,60.0,False,0.9,78.119,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,57.0,2.0,HARD,56.0,True,1,True,3.0,21.6,42.2,60.0,False,0.8,77.599,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,58.0,2.0,HARD,57.0,True,1,True,3.0,21.7,42.4,59.0,False,0.6,77.501,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,59.0,2.0,HARD,58.0,True,1,True,3.0,21.6,41.9,61.0,False,1.1,77.134,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,60.0,2.0,HARD,59.0,True,1,True,3.0,21.5,42.3,61.0,False,0.5,75.159,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,61.0,2.0,HARD,60.0,True,1,True,3.0,21.6,42.3,60.0,False,0.6,79.046,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,62.0,2.0,HARD,61.0,True,1,True,3.0,21.6,42.0,60.0,False,0.9,74.726,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,63.0,2.0,HARD,62.0,True,1,True,3.0,22.0,42.0,60.0,False,0.8,78.207,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,64.0,2.0,HARD,63.0,True,1,True,3.0,21.9,41.2,60.0,False,0.8,74.813,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,65.0,2.0,HARD,64.0,True,1,True,3.0,21.9,42.0,60.0,False,0.9,78.137,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,66.0,2.0,HARD,65.0,True,1,True,3.0,21.9,41.7,59.0,False,1.2,75.409,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,67.0,2.0,HARD,66.0,True,1,True,3.0,22.0,41.6,60.0,False,1.0,76.847,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,68.0,2.0,HARD,67.0,True,1,True,3.0,21.8,40.9,60.0,False,0.7,75.595,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,69.0,2.0,HARD,68.0,True,1,True,3.0,21.7,41.1,61.0,False,0.8,76.218,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,70.0,2.0,HARD,69.0,True,1,True,3.0,21.8,41.6,60.0,False,1.0,77.117,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,71.0,2.0,HARD,70.0,True,1,True,3.0,21.7,41.1,60.0,False,0.4,77.214,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,72.0,2.0,HARD,71.0,True,1,True,3.0,21.6,41.0,61.0,False,0.7,76.785,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,73.0,2.0,HARD,72.0,True,1,True,3.0,21.6,40.5,62.0,False,0.9,76.417,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,74.0,2.0,HARD,73.0,True,1,True,3.0,21.7,40.8,61.0,False,1.1,76.063,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,75.0,2.0,HARD,74.0,True,1,True,3.0,21.7,40.8,61.0,False,0.7,76.905,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,76.0,2.0,HARD,75.0,True,1,True,3.0,21.7,40.6,61.0,False,0.6,76.328,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,77.0,2.0,HARD,76.0,True,1,True,3.0,21.8,40.9,61.0,False,1.2,76.701,False,78,2024,8,Monaco Grand Prix,2024_08
+SAI,Ferrari,78.0,2.0,HARD,77.0,True,1,True,3.0,21.8,40.9,61.0,False,0.8,77.072,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,1.0,1.0,MEDIUM,2.0,False,1254,False,4.0,21.6,48.4,66.0,False,0.6,2468.042,True,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,2.0,2.0,HARD,2.0,False,14,False,4.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,3.0,2.0,HARD,3.0,False,1,True,4.0,21.6,49.2,65.0,False,0.6,85.283,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,4.0,2.0,HARD,4.0,False,1,True,4.0,21.7,49.2,63.0,False,0.6,82.782,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,5.0,2.0,HARD,5.0,False,1,True,4.0,21.7,48.8,63.0,False,0.6,82.147,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,6.0,2.0,HARD,6.0,False,1,True,4.0,21.6,48.2,63.0,False,1.0,81.804,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,7.0,2.0,HARD,7.0,False,1,True,4.0,21.8,48.7,64.0,False,0.4,80.828,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,8.0,2.0,HARD,8.0,False,1,True,4.0,21.8,48.0,64.0,False,1.4,80.82,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,9.0,2.0,HARD,9.0,False,1,True,4.0,22.0,47.9,64.0,False,1.1,80.397,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,10.0,2.0,HARD,10.0,False,1,True,4.0,22.1,47.4,65.0,False,0.7,80.972,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,11.0,2.0,HARD,11.0,False,1,True,4.0,22.2,47.9,61.0,False,1.3,80.87,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,12.0,2.0,HARD,12.0,False,1,True,4.0,22.3,47.3,63.0,False,0.6,79.933,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,13.0,2.0,HARD,13.0,False,1,True,4.0,22.1,47.2,64.0,False,1.2,79.82,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,14.0,2.0,HARD,14.0,False,1,True,4.0,22.0,47.1,63.0,False,0.5,79.385,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,15.0,2.0,HARD,15.0,False,1,True,4.0,22.0,47.1,62.0,False,1.1,79.775,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,16.0,2.0,HARD,16.0,False,1,True,4.0,22.0,46.0,64.0,False,0.5,79.637,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,17.0,2.0,HARD,17.0,False,1,True,4.0,21.6,46.7,64.0,False,1.1,80.337,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,18.0,2.0,HARD,18.0,False,1,True,4.0,21.7,47.2,63.0,False,0.8,79.398,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,19.0,2.0,HARD,19.0,False,1,True,4.0,21.8,46.7,61.0,False,0.7,79.28,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,20.0,2.0,HARD,20.0,False,1,True,4.0,21.9,45.8,62.0,False,0.9,79.043,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,21.0,2.0,HARD,21.0,False,1,True,4.0,21.9,45.8,64.0,False,1.3,78.983,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,22.0,2.0,HARD,22.0,False,1,True,4.0,21.8,45.9,65.0,False,1.6,78.981,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,23.0,2.0,HARD,23.0,False,1,True,4.0,21.8,45.9,65.0,False,0.5,79.194,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,24.0,2.0,HARD,24.0,False,1,True,4.0,21.8,46.3,64.0,False,1.4,78.699,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,25.0,2.0,HARD,25.0,False,1,True,4.0,21.7,45.7,63.0,False,0.9,78.64,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,26.0,2.0,HARD,26.0,False,1,True,4.0,21.7,45.7,62.0,False,1.3,78.396,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,27.0,2.0,HARD,27.0,False,1,True,4.0,21.9,46.0,63.0,False,0.6,78.72,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,28.0,2.0,HARD,28.0,False,1,True,4.0,21.9,46.0,62.0,False,1.0,79.238,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,29.0,2.0,HARD,29.0,False,1,True,4.0,22.0,45.6,63.0,False,1.7,78.766,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,30.0,2.0,HARD,30.0,False,1,True,4.0,22.0,46.4,61.0,False,0.6,78.403,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,31.0,2.0,HARD,31.0,False,1,True,4.0,22.1,45.5,61.0,False,0.4,78.78,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,32.0,2.0,HARD,32.0,False,1,True,4.0,22.0,45.5,61.0,False,0.9,79.538,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,33.0,2.0,HARD,33.0,False,1,True,4.0,21.9,45.9,62.0,False,0.9,79.233,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,34.0,2.0,HARD,34.0,False,1,True,4.0,22.0,45.9,61.0,False,1.0,79.243,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,35.0,2.0,HARD,35.0,False,1,True,4.0,22.0,45.1,62.0,False,0.9,78.714,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,36.0,2.0,HARD,36.0,False,1,True,4.0,21.8,44.4,64.0,False,1.2,78.582,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,37.0,2.0,HARD,37.0,False,1,True,4.0,21.7,44.4,63.0,False,1.5,77.958,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,38.0,2.0,HARD,38.0,False,1,True,4.0,21.8,44.5,63.0,False,1.0,77.994,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,39.0,2.0,HARD,39.0,False,1,True,4.0,21.8,44.8,62.0,False,0.7,78.303,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,40.0,2.0,HARD,40.0,False,1,True,4.0,21.9,44.4,61.0,False,0.8,78.824,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,41.0,2.0,HARD,41.0,False,1,True,4.0,22.0,44.4,60.0,False,0.8,78.519,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,42.0,2.0,HARD,42.0,False,1,True,4.0,22.0,44.4,62.0,False,0.5,79.436,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,43.0,2.0,HARD,43.0,False,1,True,4.0,21.9,44.8,59.0,False,0.9,79.796,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,44.0,2.0,HARD,44.0,False,1,True,4.0,21.9,44.8,59.0,False,1.0,78.906,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,45.0,2.0,HARD,45.0,False,1,True,4.0,22.0,44.5,58.0,False,0.5,77.897,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,46.0,2.0,HARD,46.0,False,1,True,4.0,21.9,44.5,57.0,False,1.8,78.215,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,47.0,2.0,HARD,47.0,False,1,True,4.0,22.0,44.5,58.0,False,1.8,78.141,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,48.0,2.0,HARD,48.0,False,1,True,4.0,22.0,43.8,57.0,False,0.7,77.975,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,49.0,2.0,HARD,49.0,False,1,True,4.0,22.0,43.7,57.0,False,1.7,78.177,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,50.0,2.0,HARD,50.0,False,1,True,4.0,21.9,43.7,58.0,False,1.0,78.218,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,51.0,2.0,HARD,51.0,False,1,True,4.0,21.9,43.7,58.0,False,1.1,77.772,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,52.0,2.0,HARD,52.0,False,1,True,4.0,21.8,43.0,58.0,False,0.7,78.223,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,53.0,2.0,HARD,53.0,False,12,True,4.0,21.9,43.2,58.0,False,0.8,77.57,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,54.0,2.0,HARD,54.0,False,1,True,4.0,21.9,43.0,59.0,False,1.1,77.838,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,55.0,2.0,HARD,55.0,False,1,True,4.0,21.9,42.8,59.0,False,1.4,78.382,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,56.0,2.0,HARD,56.0,False,1,True,4.0,21.7,42.4,60.0,False,0.9,78.155,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,57.0,2.0,HARD,57.0,False,1,True,4.0,21.6,42.2,60.0,False,0.8,77.815,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,58.0,2.0,HARD,58.0,False,1,True,4.0,21.7,42.4,59.0,False,0.6,77.395,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,59.0,2.0,HARD,59.0,False,1,True,4.0,21.6,41.9,61.0,False,1.1,77.122,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,60.0,2.0,HARD,60.0,False,1,True,4.0,21.5,42.3,61.0,False,0.5,76.695,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,61.0,2.0,HARD,61.0,False,1,True,4.0,21.6,42.3,60.0,False,0.6,77.614,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,62.0,2.0,HARD,62.0,False,1,True,4.0,21.6,42.0,60.0,False,0.9,76.026,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,63.0,2.0,HARD,63.0,False,1,True,4.0,22.0,42.0,60.0,False,0.8,76.876,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,64.0,2.0,HARD,64.0,False,1,True,4.0,21.9,41.2,60.0,False,0.8,75.742,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,65.0,2.0,HARD,65.0,False,1,True,4.0,21.9,42.0,60.0,False,0.9,77.143,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,66.0,2.0,HARD,66.0,False,1,True,4.0,22.0,41.7,59.0,False,1.7,76.214,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,67.0,2.0,HARD,67.0,False,1,True,4.0,22.0,41.6,60.0,False,1.0,76.115,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,68.0,2.0,HARD,68.0,False,1,True,4.0,21.8,40.9,60.0,False,0.7,76.172,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,69.0,2.0,HARD,69.0,False,1,True,4.0,21.7,41.1,61.0,False,0.8,76.314,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,70.0,2.0,HARD,70.0,False,1,True,4.0,21.8,41.6,60.0,False,1.0,77.213,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,71.0,2.0,HARD,71.0,False,1,True,4.0,21.7,41.1,60.0,False,0.4,76.609,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,72.0,2.0,HARD,72.0,False,1,True,4.0,21.6,41.0,61.0,False,0.7,76.801,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,73.0,2.0,HARD,73.0,False,1,True,4.0,21.6,40.5,62.0,False,0.9,76.285,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,74.0,2.0,HARD,74.0,False,1,True,4.0,21.7,40.8,61.0,False,1.1,76.429,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,75.0,2.0,HARD,75.0,False,1,True,4.0,21.7,40.8,61.0,False,0.7,76.517,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,76.0,2.0,HARD,76.0,False,1,True,4.0,21.7,40.6,61.0,False,0.6,76.671,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,77.0,2.0,HARD,77.0,False,1,True,4.0,21.8,40.9,61.0,False,1.2,76.512,False,78,2024,8,Monaco Grand Prix,2024_08
+NOR,McLaren,78.0,2.0,HARD,78.0,False,1,True,4.0,21.8,40.9,61.0,False,0.8,77.296,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,1.0,1.0,HARD,1.0,True,1254,False,5.0,21.6,48.4,66.0,False,0.6,2473.884,True,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,2.0,2.0,MEDIUM,1.0,True,14,False,5.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,3.0,2.0,MEDIUM,2.0,True,1,True,5.0,21.6,49.2,65.0,False,0.6,85.319,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,4.0,2.0,MEDIUM,3.0,True,1,True,5.0,21.7,49.2,63.0,False,0.6,82.868,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,5.0,2.0,MEDIUM,4.0,True,1,True,5.0,21.7,48.8,63.0,False,0.6,83.045,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,6.0,2.0,MEDIUM,5.0,True,1,True,5.0,21.6,48.2,63.0,False,1.0,83.012,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,7.0,2.0,MEDIUM,6.0,True,1,True,5.0,21.8,48.7,64.0,False,0.4,81.415,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,8.0,2.0,MEDIUM,7.0,True,1,True,5.0,21.9,47.9,63.0,False,0.9,81.612,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,9.0,2.0,MEDIUM,8.0,True,1,True,5.0,22.0,47.9,64.0,False,1.1,81.433,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,10.0,2.0,MEDIUM,9.0,True,1,True,5.0,22.1,47.4,65.0,False,0.7,81.531,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,11.0,2.0,MEDIUM,10.0,True,1,True,5.0,22.2,47.9,61.0,False,1.3,81.452,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,12.0,2.0,MEDIUM,11.0,True,1,True,5.0,22.3,47.3,63.0,False,0.6,80.316,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,13.0,2.0,MEDIUM,12.0,True,1,True,5.0,22.1,47.2,64.0,False,1.2,80.525,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,14.0,2.0,MEDIUM,13.0,True,1,True,5.0,22.0,47.1,63.0,False,0.5,80.272,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,15.0,2.0,MEDIUM,14.0,True,1,True,5.0,22.0,47.1,62.0,False,1.1,80.202,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,16.0,2.0,MEDIUM,15.0,True,1,True,5.0,22.0,46.0,64.0,False,0.5,79.913,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,17.0,2.0,MEDIUM,16.0,True,1,True,5.0,21.6,46.7,64.0,False,1.1,80.15,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,18.0,2.0,MEDIUM,17.0,True,1,True,5.0,21.7,47.2,63.0,False,0.8,79.438,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,19.0,2.0,MEDIUM,18.0,True,1,True,5.0,21.8,46.7,61.0,False,0.7,80.157,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,20.0,2.0,MEDIUM,19.0,True,1,True,5.0,21.9,45.8,62.0,False,0.9,80.053,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,21.0,2.0,MEDIUM,20.0,True,1,True,5.0,21.9,45.8,64.0,False,1.3,79.788,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,22.0,2.0,MEDIUM,21.0,True,1,True,5.0,21.8,45.9,65.0,False,1.6,79.691,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,23.0,2.0,MEDIUM,22.0,True,1,True,5.0,21.7,46.1,63.0,False,1.1,79.397,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,24.0,2.0,MEDIUM,23.0,True,1,True,5.0,21.8,46.3,64.0,False,1.4,79.484,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,25.0,2.0,MEDIUM,24.0,True,1,True,5.0,21.7,45.7,63.0,False,0.9,78.651,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,26.0,2.0,MEDIUM,25.0,True,1,True,5.0,21.8,46.0,64.0,False,0.7,79.006,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,27.0,2.0,MEDIUM,26.0,True,1,True,5.0,21.9,46.0,63.0,False,0.6,78.927,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,28.0,2.0,MEDIUM,27.0,True,1,True,5.0,21.9,46.0,62.0,False,1.0,78.679,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,29.0,2.0,MEDIUM,28.0,True,1,True,5.0,22.0,45.9,62.0,False,0.9,78.624,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,30.0,2.0,MEDIUM,29.0,True,1,True,5.0,22.0,46.4,61.0,False,0.6,78.811,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,31.0,2.0,MEDIUM,30.0,True,1,True,5.0,22.1,45.5,61.0,False,0.4,79.101,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,32.0,2.0,MEDIUM,31.0,True,1,True,5.0,21.9,45.6,62.0,False,1.0,79.122,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,33.0,2.0,MEDIUM,32.0,True,1,True,5.0,21.9,45.9,62.0,False,0.9,78.91,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,34.0,2.0,MEDIUM,33.0,True,1,True,5.0,22.0,45.9,61.0,False,1.0,79.379,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,35.0,2.0,MEDIUM,34.0,True,1,True,5.0,22.0,45.1,62.0,False,0.9,80.448,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,36.0,2.0,MEDIUM,35.0,True,1,True,5.0,21.8,44.4,64.0,False,1.2,79.728,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,37.0,2.0,MEDIUM,36.0,True,1,True,5.0,21.7,44.4,63.0,False,1.5,78.757,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,38.0,2.0,MEDIUM,37.0,True,1,True,5.0,21.8,44.5,63.0,False,1.0,78.446,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,39.0,2.0,MEDIUM,38.0,True,1,True,5.0,21.8,44.7,62.0,False,0.5,78.45,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,40.0,2.0,MEDIUM,39.0,True,1,True,5.0,21.9,44.4,61.0,False,0.8,78.139,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,41.0,2.0,MEDIUM,40.0,True,1,True,5.0,22.0,44.4,60.0,False,0.8,78.308,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,42.0,2.0,MEDIUM,41.0,True,1,True,5.0,21.9,44.7,61.0,False,0.5,78.204,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,43.0,2.0,MEDIUM,42.0,True,1,True,5.0,21.9,44.8,59.0,False,0.9,78.684,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,44.0,2.0,MEDIUM,43.0,True,1,True,5.0,21.9,44.8,59.0,False,1.0,78.177,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,45.0,2.0,MEDIUM,44.0,True,1,True,5.0,22.0,44.2,58.0,False,0.8,78.449,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,46.0,2.0,MEDIUM,45.0,True,1,True,5.0,21.9,44.5,57.0,False,1.8,78.387,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,47.0,2.0,MEDIUM,46.0,True,1,True,5.0,22.0,44.5,58.0,False,1.8,78.314,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,48.0,2.0,MEDIUM,47.0,True,1,True,5.0,22.0,43.8,58.0,False,1.1,78.702,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,49.0,2.0,MEDIUM,48.0,True,1,True,5.0,22.0,43.7,57.0,False,1.7,78.985,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,50.0,2.0,MEDIUM,49.0,True,1,True,5.0,21.9,43.7,58.0,False,1.0,78.447,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,51.0,2.0,MEDIUM,50.0,True,1,True,5.0,21.9,43.7,58.0,False,1.1,78.049,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,52.0,2.0,MEDIUM,51.0,True,12,True,5.0,21.8,43.2,57.0,False,1.0,78.602,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,53.0,2.0,MEDIUM,52.0,True,21,True,5.0,21.9,43.2,58.0,False,0.8,80.891,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,54.0,2.0,MEDIUM,53.0,True,1,True,5.0,21.9,43.0,59.0,False,1.1,78.201,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,55.0,2.0,MEDIUM,54.0,True,1,True,5.0,21.7,42.5,59.0,False,1.1,77.305,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,56.0,2.0,MEDIUM,55.0,True,1,True,5.0,21.7,42.4,60.0,False,0.9,77.071,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,57.0,2.0,MEDIUM,56.0,True,1,True,5.0,21.6,42.2,60.0,False,0.8,76.91,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,58.0,2.0,MEDIUM,57.0,True,1,True,5.0,21.8,42.2,60.0,False,1.2,77.142,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,59.0,2.0,MEDIUM,58.0,True,1,True,5.0,21.6,41.9,61.0,False,1.1,76.842,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,60.0,2.0,MEDIUM,59.0,True,1,True,5.0,21.5,42.3,61.0,False,0.5,76.604,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,61.0,2.0,MEDIUM,60.0,True,1,True,5.0,21.6,42.3,60.0,False,0.6,76.697,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,62.0,2.0,MEDIUM,61.0,True,1,True,5.0,21.8,42.0,59.0,False,1.2,76.787,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,63.0,2.0,MEDIUM,62.0,True,1,True,5.0,22.0,42.0,60.0,False,0.8,76.581,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,64.0,2.0,MEDIUM,63.0,True,1,True,5.0,21.9,41.2,60.0,False,0.8,76.133,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,65.0,2.0,MEDIUM,64.0,True,1,True,5.0,21.9,42.0,60.0,False,0.9,75.651,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,66.0,2.0,MEDIUM,65.0,True,1,True,5.0,22.0,41.7,59.0,False,1.7,75.848,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,67.0,2.0,MEDIUM,66.0,True,1,True,5.0,22.0,41.6,60.0,False,1.0,76.157,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,68.0,2.0,MEDIUM,67.0,True,1,True,5.0,21.8,40.9,60.0,False,0.7,75.931,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,69.0,2.0,MEDIUM,68.0,True,1,True,5.0,21.8,41.6,60.0,False,0.8,75.869,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,70.0,2.0,MEDIUM,69.0,True,1,True,5.0,21.8,41.6,60.0,False,1.0,75.251,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,71.0,2.0,MEDIUM,70.0,True,1,True,5.0,21.7,41.1,60.0,False,0.4,75.827,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,72.0,2.0,MEDIUM,71.0,True,1,True,5.0,21.6,41.0,61.0,False,0.7,75.839,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,73.0,2.0,MEDIUM,72.0,True,1,True,5.0,21.6,40.5,61.0,False,0.5,75.228,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,74.0,2.0,MEDIUM,73.0,True,1,True,5.0,21.7,40.8,61.0,False,1.1,75.376,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,75.0,2.0,MEDIUM,74.0,True,1,True,5.0,21.7,40.8,61.0,False,0.7,75.525,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,76.0,2.0,MEDIUM,75.0,True,1,True,5.0,21.7,40.6,61.0,False,0.6,75.753,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,77.0,2.0,MEDIUM,76.0,True,1,True,5.0,21.8,40.9,61.0,False,1.2,75.532,False,78,2024,8,Monaco Grand Prix,2024_08
+RUS,Mercedes,78.0,2.0,MEDIUM,77.0,True,1,True,5.0,21.8,40.9,61.0,False,0.8,76.303,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1254,False,6.0,21.6,48.4,66.0,False,0.6,2478.944,True,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,2.0,2.0,MEDIUM,1.0,True,14,False,6.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,3.0,2.0,MEDIUM,2.0,True,1,True,6.0,21.6,49.2,65.0,False,0.6,85.744,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,4.0,2.0,MEDIUM,3.0,True,1,True,6.0,21.7,49.2,63.0,False,0.6,83.275,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,5.0,2.0,MEDIUM,4.0,True,1,True,6.0,21.7,48.8,63.0,False,0.6,83.4,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,6.0,2.0,MEDIUM,5.0,True,1,True,6.0,21.6,48.2,63.0,False,1.0,83.787,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,7.0,2.0,MEDIUM,6.0,True,1,True,6.0,21.8,48.7,64.0,False,0.4,81.283,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,8.0,2.0,MEDIUM,7.0,True,1,True,6.0,21.9,47.9,63.0,False,0.9,81.657,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,9.0,2.0,MEDIUM,8.0,True,1,True,6.0,22.0,47.9,64.0,False,1.1,81.74,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,10.0,2.0,MEDIUM,9.0,True,1,True,6.0,22.1,47.4,65.0,False,0.7,81.244,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,11.0,2.0,MEDIUM,10.0,True,1,True,6.0,22.2,47.9,61.0,False,1.3,81.492,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,12.0,2.0,MEDIUM,11.0,True,1,True,6.0,22.3,47.3,63.0,False,0.6,80.659,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,13.0,2.0,MEDIUM,12.0,True,1,True,6.0,22.1,47.2,64.0,False,1.2,79.904,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,14.0,2.0,MEDIUM,13.0,True,1,True,6.0,22.0,47.1,63.0,False,0.5,79.723,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,15.0,2.0,MEDIUM,14.0,True,1,True,6.0,22.0,47.1,62.0,False,1.1,80.37,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,16.0,2.0,MEDIUM,15.0,True,1,True,6.0,22.0,46.0,64.0,False,0.5,80.287,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,17.0,2.0,MEDIUM,16.0,True,1,True,6.0,21.6,46.7,64.0,False,1.1,79.898,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,18.0,2.0,MEDIUM,17.0,True,1,True,6.0,21.7,47.2,63.0,False,0.8,79.58,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,19.0,2.0,MEDIUM,18.0,True,1,True,6.0,21.8,46.7,61.0,False,0.7,80.171,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,20.0,2.0,MEDIUM,19.0,True,1,True,6.0,21.9,45.8,62.0,False,0.9,79.886,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,21.0,2.0,MEDIUM,20.0,True,1,True,6.0,21.9,45.8,64.0,False,1.3,80.255,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,22.0,2.0,MEDIUM,21.0,True,1,True,6.0,21.8,45.9,65.0,False,1.6,79.813,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,23.0,2.0,MEDIUM,22.0,True,1,True,6.0,21.7,46.1,63.0,False,1.1,78.979,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,24.0,2.0,MEDIUM,23.0,True,1,True,6.0,21.8,46.3,64.0,False,1.4,79.364,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,25.0,2.0,MEDIUM,24.0,True,1,True,6.0,21.7,45.7,63.0,False,0.9,79.38,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,26.0,2.0,MEDIUM,25.0,True,1,True,6.0,21.8,46.0,64.0,False,0.7,78.818,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,27.0,2.0,MEDIUM,26.0,True,1,True,6.0,21.9,46.0,63.0,False,0.6,78.797,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,28.0,2.0,MEDIUM,27.0,True,1,True,6.0,21.9,46.0,62.0,False,1.0,78.682,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,29.0,2.0,MEDIUM,28.0,True,1,True,6.0,22.0,45.9,62.0,False,0.9,78.795,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,30.0,2.0,MEDIUM,29.0,True,1,True,6.0,22.0,46.4,61.0,False,0.6,78.574,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,31.0,2.0,MEDIUM,30.0,True,1,True,6.0,22.1,45.5,61.0,False,0.4,78.564,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,32.0,2.0,MEDIUM,31.0,True,1,True,6.0,21.9,45.6,62.0,False,1.0,78.983,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,33.0,2.0,MEDIUM,32.0,True,1,True,6.0,21.9,45.9,62.0,False,0.9,79.005,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,34.0,2.0,MEDIUM,33.0,True,1,True,6.0,22.0,45.9,61.0,False,1.0,79.594,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,35.0,2.0,MEDIUM,34.0,True,1,True,6.0,22.0,45.1,62.0,False,0.9,80.207,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,36.0,2.0,MEDIUM,35.0,True,1,True,6.0,21.8,44.4,64.0,False,1.2,79.634,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,37.0,2.0,MEDIUM,36.0,True,1,True,6.0,21.7,44.4,63.0,False,1.5,79.429,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,38.0,2.0,MEDIUM,37.0,True,1,True,6.0,21.8,44.5,63.0,False,1.0,78.844,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,39.0,2.0,MEDIUM,38.0,True,1,True,6.0,21.8,44.7,62.0,False,0.5,78.326,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,40.0,2.0,MEDIUM,39.0,True,1,True,6.0,21.9,44.4,61.0,False,0.8,78.409,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,41.0,2.0,MEDIUM,40.0,True,1,True,6.0,22.0,44.4,60.0,False,0.8,78.083,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,42.0,2.0,MEDIUM,41.0,True,1,True,6.0,21.9,44.7,61.0,False,0.5,78.074,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,43.0,2.0,MEDIUM,42.0,True,1,True,6.0,21.9,44.8,59.0,False,0.9,78.358,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,44.0,2.0,MEDIUM,43.0,True,1,True,6.0,21.9,44.8,59.0,False,1.0,78.405,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,45.0,2.0,MEDIUM,44.0,True,1,True,6.0,22.0,44.2,58.0,False,0.8,78.313,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,46.0,2.0,MEDIUM,45.0,True,1,True,6.0,21.9,44.5,57.0,False,1.8,78.203,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,47.0,2.0,MEDIUM,46.0,True,1,True,6.0,22.0,44.5,58.0,False,1.8,78.537,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,48.0,2.0,MEDIUM,47.0,True,1,True,6.0,22.0,43.8,58.0,False,1.1,78.337,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,49.0,2.0,MEDIUM,48.0,True,1,True,6.0,22.0,43.7,57.0,False,1.7,78.477,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,50.0,2.0,MEDIUM,49.0,True,1,True,6.0,21.9,43.7,58.0,False,1.0,78.88,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,51.0,2.0,MEDIUM,50.0,True,1,True,6.0,21.9,43.7,58.0,False,1.1,78.142,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,52.0,2.0,MEDIUM,51.0,True,12,False,6.0,21.8,43.2,57.0,False,1.0,93.905,True,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,53.0,3.0,HARD,2.0,False,1,False,6.0,21.9,43.2,58.0,False,0.8,78.724,True,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,54.0,3.0,HARD,3.0,False,1,True,6.0,21.9,42.8,59.0,False,1.4,75.815,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,55.0,3.0,HARD,4.0,False,1,True,6.0,21.7,42.5,59.0,False,1.1,75.398,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,56.0,3.0,HARD,5.0,False,1,True,6.0,21.7,42.4,60.0,False,0.9,75.466,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,57.0,3.0,HARD,6.0,False,1,True,6.0,21.6,42.2,60.0,False,0.8,76.181,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,58.0,3.0,HARD,7.0,False,1,True,6.0,21.8,42.2,60.0,False,1.2,74.569,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,59.0,3.0,HARD,8.0,False,1,True,6.0,21.6,41.9,61.0,False,1.1,74.748,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,60.0,3.0,HARD,9.0,False,1,True,6.0,21.5,42.3,61.0,False,0.5,75.238,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,61.0,3.0,HARD,10.0,False,1,True,6.0,21.6,42.3,60.0,False,0.6,75.121,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,62.0,3.0,HARD,11.0,False,1,True,6.0,21.8,42.0,59.0,False,1.2,76.561,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,63.0,3.0,HARD,12.0,False,1,True,6.0,22.0,42.0,60.0,False,0.8,76.547,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,64.0,3.0,HARD,13.0,False,1,True,6.0,21.9,41.2,60.0,False,0.8,76.619,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,65.0,3.0,HARD,14.0,False,1,True,6.0,21.9,41.7,59.0,False,1.2,75.468,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,66.0,3.0,HARD,15.0,False,1,True,6.0,22.0,41.7,59.0,False,1.7,76.121,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,67.0,3.0,HARD,16.0,False,1,True,6.0,22.0,41.6,60.0,False,1.0,76.276,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,68.0,3.0,HARD,17.0,False,1,True,6.0,21.8,40.9,60.0,False,0.7,75.954,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,69.0,3.0,HARD,18.0,False,1,True,6.0,21.8,41.6,60.0,False,0.8,75.463,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,70.0,3.0,HARD,19.0,False,1,True,6.0,21.8,41.6,60.0,False,1.0,75.449,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,71.0,3.0,HARD,20.0,False,1,True,6.0,21.7,41.1,60.0,False,0.4,75.659,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,72.0,3.0,HARD,21.0,False,1,True,6.0,21.6,41.0,61.0,False,0.7,75.733,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,73.0,3.0,HARD,22.0,False,1,True,6.0,21.6,40.5,61.0,False,0.5,75.436,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,74.0,3.0,HARD,23.0,False,1,True,6.0,21.7,40.8,61.0,False,1.1,75.38,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,75.0,3.0,HARD,24.0,False,1,True,6.0,21.7,40.8,61.0,False,0.7,75.396,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,76.0,3.0,HARD,25.0,False,1,True,6.0,21.7,40.6,61.0,False,0.6,75.641,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,77.0,3.0,HARD,26.0,False,1,True,6.0,21.8,40.9,61.0,False,1.2,75.543,False,78,2024,8,Monaco Grand Prix,2024_08
+VER,Red Bull Racing,78.0,3.0,HARD,27.0,False,1,True,6.0,21.8,40.9,61.0,False,0.8,76.248,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,1.0,1.0,HARD,1.0,True,1254,False,7.0,21.6,48.4,66.0,False,0.6,2483.804,True,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,2.0,2.0,MEDIUM,1.0,True,14,False,7.0,21.5,48.1,65.0,False,0.8,,True,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,3.0,2.0,MEDIUM,2.0,True,1,True,7.0,21.6,49.2,65.0,False,0.6,87.058,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,4.0,2.0,MEDIUM,3.0,True,1,True,7.0,21.7,49.2,63.0,False,0.6,83.376,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,5.0,2.0,MEDIUM,4.0,True,1,True,7.0,21.7,48.8,63.0,False,0.6,83.64,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,6.0,2.0,MEDIUM,5.0,True,1,True,7.0,21.6,48.2,63.0,False,1.0,83.369,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,7.0,2.0,MEDIUM,6.0,True,1,True,7.0,21.8,48.7,64.0,False,0.4,81.463,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,8.0,2.0,MEDIUM,7.0,True,1,True,7.0,21.9,47.9,63.0,False,0.9,81.612,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,9.0,2.0,MEDIUM,8.0,True,1,True,7.0,22.0,47.9,64.0,False,1.1,81.851,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,10.0,2.0,MEDIUM,9.0,True,1,True,7.0,22.1,47.4,65.0,False,0.7,81.437,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,11.0,2.0,MEDIUM,10.0,True,1,True,7.0,22.2,47.9,61.0,False,1.3,81.325,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,12.0,2.0,MEDIUM,11.0,True,1,True,7.0,22.3,47.3,63.0,False,0.6,81.164,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,13.0,2.0,MEDIUM,12.0,True,1,True,7.0,22.1,47.2,64.0,False,1.2,80.171,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,14.0,2.0,MEDIUM,13.0,True,1,True,7.0,22.0,47.1,63.0,False,0.5,80.126,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,15.0,2.0,MEDIUM,14.0,True,1,True,7.0,22.0,47.1,62.0,False,1.1,79.971,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,16.0,2.0,MEDIUM,15.0,True,1,True,7.0,22.0,46.0,64.0,False,0.5,80.384,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,17.0,2.0,MEDIUM,16.0,True,1,True,7.0,21.6,46.7,64.0,False,1.1,79.738,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,18.0,2.0,MEDIUM,17.0,True,1,True,7.0,21.7,47.2,63.0,False,0.8,80.037,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,19.0,2.0,MEDIUM,18.0,True,1,True,7.0,21.8,46.7,61.0,False,0.7,79.874,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,20.0,2.0,MEDIUM,19.0,True,1,True,7.0,21.9,45.8,62.0,False,0.9,80.504,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,21.0,2.0,MEDIUM,20.0,True,1,True,7.0,21.9,45.8,64.0,False,1.3,79.76,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,22.0,2.0,MEDIUM,21.0,True,1,True,7.0,21.8,45.9,65.0,False,1.6,80.59,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,23.0,2.0,MEDIUM,22.0,True,1,True,7.0,21.7,46.1,63.0,False,1.1,79.089,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,24.0,2.0,MEDIUM,23.0,True,1,True,7.0,21.8,46.3,64.0,False,1.4,78.785,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,25.0,2.0,MEDIUM,24.0,True,1,True,7.0,21.7,45.7,63.0,False,0.9,79.342,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,26.0,2.0,MEDIUM,25.0,True,1,True,7.0,21.8,46.0,64.0,False,0.7,79.862,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,27.0,2.0,MEDIUM,26.0,True,1,True,7.0,21.9,46.0,63.0,False,0.6,78.549,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,28.0,2.0,MEDIUM,27.0,True,1,True,7.0,21.9,46.0,62.0,False,1.0,78.587,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,29.0,2.0,MEDIUM,28.0,True,1,True,7.0,22.0,45.9,62.0,False,0.9,78.94,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,30.0,2.0,MEDIUM,29.0,True,1,True,7.0,22.0,46.4,61.0,False,0.6,78.371,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,31.0,2.0,MEDIUM,30.0,True,1,True,7.0,22.1,45.5,61.0,False,0.4,78.471,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,32.0,2.0,MEDIUM,31.0,True,1,True,7.0,21.9,45.6,62.0,False,1.0,78.618,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,33.0,2.0,MEDIUM,32.0,True,1,True,7.0,21.9,45.9,62.0,False,0.9,78.746,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,34.0,2.0,MEDIUM,33.0,True,1,True,7.0,22.0,45.9,61.0,False,1.0,78.86,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,35.0,2.0,MEDIUM,34.0,True,1,True,7.0,21.9,44.5,65.0,False,0.6,79.518,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,36.0,2.0,MEDIUM,35.0,True,1,True,7.0,21.8,44.4,64.0,False,1.2,80.648,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,37.0,2.0,MEDIUM,36.0,True,1,True,7.0,21.7,44.4,63.0,False,1.5,78.605,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,38.0,2.0,MEDIUM,37.0,True,1,True,7.0,21.8,44.8,62.0,False,0.7,80.514,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,39.0,2.0,MEDIUM,38.0,True,1,True,7.0,21.8,44.7,62.0,False,0.5,78.943,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,40.0,2.0,MEDIUM,39.0,True,1,True,7.0,21.9,44.4,61.0,False,0.8,78.673,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,41.0,2.0,MEDIUM,40.0,True,1,True,7.0,22.0,44.4,60.0,False,0.8,78.946,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,42.0,2.0,MEDIUM,41.0,True,1,True,7.0,21.9,44.7,61.0,False,0.5,77.542,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,43.0,2.0,MEDIUM,42.0,True,1,True,7.0,21.9,44.8,59.0,False,0.9,77.867,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,44.0,2.0,MEDIUM,43.0,True,1,True,7.0,21.9,44.8,59.0,False,1.0,78.225,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,45.0,2.0,MEDIUM,44.0,True,1,True,7.0,22.0,44.2,58.0,False,0.8,78.156,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,46.0,2.0,MEDIUM,45.0,True,1,True,7.0,21.9,44.5,57.0,False,1.8,78.104,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,47.0,2.0,MEDIUM,46.0,True,1,True,7.0,22.0,44.5,58.0,False,1.8,78.331,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,48.0,2.0,MEDIUM,47.0,True,1,True,7.0,22.0,43.8,58.0,False,1.1,77.831,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,49.0,2.0,MEDIUM,48.0,True,1,True,7.0,22.0,43.7,57.0,False,1.7,77.398,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,50.0,2.0,MEDIUM,49.0,True,1,True,7.0,21.9,43.7,58.0,False,1.0,78.461,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,51.0,2.0,MEDIUM,50.0,True,1,False,7.0,21.9,43.7,58.0,False,1.1,95.209,True,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,52.0,3.0,HARD,2.0,False,12,False,7.0,21.8,43.2,57.0,False,1.0,79.702,True,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,53.0,3.0,HARD,3.0,False,1,True,7.0,21.9,43.2,58.0,False,0.8,76.458,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,54.0,3.0,HARD,4.0,False,1,True,7.0,21.9,42.8,59.0,False,1.4,76.388,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,55.0,3.0,HARD,5.0,False,1,True,7.0,21.7,42.5,59.0,False,1.1,76.492,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,56.0,3.0,HARD,6.0,False,1,True,7.0,21.7,42.4,60.0,False,0.9,74.423,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,57.0,3.0,HARD,7.0,False,1,True,7.0,21.6,42.2,60.0,False,0.8,77.857,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,58.0,3.0,HARD,8.0,False,1,True,7.0,21.8,42.2,60.0,False,1.2,76.855,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,59.0,3.0,HARD,9.0,False,1,True,7.0,21.6,41.9,61.0,False,1.1,74.204,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,60.0,3.0,HARD,10.0,False,1,True,7.0,21.5,42.3,61.0,False,0.5,75.848,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,61.0,3.0,HARD,11.0,False,1,True,7.0,21.6,42.0,60.0,False,0.9,75.274,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,62.0,3.0,HARD,12.0,False,1,True,7.0,21.8,42.0,59.0,False,1.2,75.414,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,63.0,3.0,HARD,13.0,False,1,True,7.0,22.0,42.0,60.0,False,0.8,74.165,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,64.0,3.0,HARD,14.0,False,1,True,7.0,21.9,41.2,60.0,False,0.8,76.164,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,65.0,3.0,HARD,15.0,False,1,True,7.0,21.9,41.7,59.0,False,1.2,75.19,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,66.0,3.0,HARD,16.0,False,1,True,7.0,22.0,41.7,59.0,False,1.7,75.342,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,67.0,3.0,HARD,17.0,False,1,True,7.0,22.0,41.6,60.0,False,1.0,76.117,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,68.0,3.0,HARD,18.0,False,1,True,7.0,21.8,40.9,60.0,False,0.7,75.836,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,69.0,3.0,HARD,19.0,False,1,True,7.0,21.8,41.6,60.0,False,0.8,75.648,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,70.0,3.0,HARD,20.0,False,1,True,7.0,21.8,41.6,60.0,False,1.0,75.638,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,71.0,3.0,HARD,21.0,False,1,True,7.0,21.7,41.1,60.0,False,0.4,75.643,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,72.0,3.0,HARD,22.0,False,1,True,7.0,21.6,41.0,61.0,False,0.7,75.468,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,73.0,3.0,HARD,23.0,False,1,True,7.0,21.6,40.5,61.0,False,0.5,75.134,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,74.0,3.0,HARD,24.0,False,1,True,7.0,21.7,40.8,61.0,False,1.1,75.324,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,75.0,3.0,HARD,25.0,False,1,True,7.0,21.7,40.8,61.0,False,0.7,75.324,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,76.0,3.0,HARD,26.0,False,1,True,7.0,21.7,40.6,61.0,False,0.6,75.245,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,77.0,3.0,HARD,27.0,False,1,True,7.0,21.8,40.9,61.0,False,1.2,75.697,False,78,2024,8,Monaco Grand Prix,2024_08
+HAM,Mercedes,78.0,3.0,HARD,28.0,False,1,True,7.0,21.8,40.9,61.0,False,0.8,76.355,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,1.0,1.0,MEDIUM,1.0,True,1254,False,8.0,21.6,48.4,66.0,False,0.6,2488.609,True,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,2.0,2.0,HARD,2.0,False,41,False,8.0,21.5,48.1,65.0,False,0.8,148.277,True,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,3.0,2.0,HARD,3.0,False,1,True,8.0,21.6,49.2,65.0,False,0.6,87.563,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,4.0,2.0,HARD,4.0,False,1,True,8.0,21.7,49.2,63.0,False,0.6,83.327,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,5.0,2.0,HARD,5.0,False,1,True,8.0,21.7,48.8,63.0,False,0.6,83.493,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,6.0,2.0,HARD,6.0,False,1,True,8.0,21.6,48.2,63.0,False,1.0,83.224,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,7.0,2.0,HARD,7.0,False,1,True,8.0,21.8,48.7,64.0,False,0.4,81.826,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,8.0,2.0,HARD,8.0,False,1,True,8.0,21.9,47.9,63.0,False,0.9,81.651,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,9.0,2.0,HARD,9.0,False,1,True,8.0,22.0,47.9,64.0,False,1.1,81.896,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,10.0,2.0,HARD,10.0,False,1,True,8.0,22.1,47.4,65.0,False,0.7,81.591,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,11.0,2.0,HARD,11.0,False,1,True,8.0,22.2,47.9,61.0,False,1.3,81.289,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,12.0,2.0,HARD,12.0,False,1,True,8.0,22.3,47.3,63.0,False,0.6,81.089,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,13.0,2.0,HARD,13.0,False,1,True,8.0,22.1,47.2,64.0,False,1.2,80.682,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,14.0,2.0,HARD,14.0,False,1,True,8.0,22.0,47.1,63.0,False,0.5,81.249,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,15.0,2.0,HARD,15.0,False,1,True,8.0,22.0,47.1,62.0,False,1.1,80.099,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,16.0,2.0,HARD,16.0,False,1,True,8.0,22.0,46.0,64.0,False,0.5,80.847,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,17.0,2.0,HARD,17.0,False,1,True,8.0,21.6,46.7,64.0,False,1.1,80.335,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,18.0,2.0,HARD,18.0,False,1,True,8.0,21.7,47.2,63.0,False,0.8,80.612,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,19.0,2.0,HARD,19.0,False,1,True,8.0,21.8,46.7,61.0,False,0.7,80.77,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,20.0,2.0,HARD,20.0,False,1,True,8.0,21.9,45.8,62.0,False,0.9,79.991,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,21.0,2.0,HARD,21.0,False,1,True,8.0,21.9,45.8,64.0,False,1.3,80.557,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,22.0,2.0,HARD,22.0,False,1,True,8.0,21.8,45.9,65.0,False,0.5,80.875,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,23.0,2.0,HARD,23.0,False,1,True,8.0,21.7,46.1,63.0,False,1.1,80.45,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,24.0,2.0,HARD,24.0,False,1,True,8.0,21.8,46.3,64.0,False,1.4,80.386,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,25.0,2.0,HARD,25.0,False,1,True,8.0,21.7,45.7,62.0,False,1.3,80.329,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,26.0,2.0,HARD,26.0,False,1,True,8.0,21.8,46.0,64.0,False,0.7,80.448,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,27.0,2.0,HARD,27.0,False,1,True,8.0,21.9,46.0,63.0,False,0.6,80.286,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,28.0,2.0,HARD,28.0,False,1,True,8.0,22.0,45.6,63.0,False,1.7,80.184,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,29.0,2.0,HARD,29.0,False,1,True,8.0,22.0,45.9,62.0,False,0.9,79.837,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,30.0,2.0,HARD,30.0,False,1,True,8.0,22.0,46.4,61.0,False,0.6,80.495,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,31.0,2.0,HARD,31.0,False,1,True,8.0,22.0,45.5,61.0,False,0.9,80.19,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,32.0,2.0,HARD,32.0,False,1,True,8.0,21.9,45.6,62.0,False,1.0,81.023,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,33.0,2.0,HARD,33.0,False,1,True,8.0,21.9,45.9,62.0,False,0.9,80.749,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,34.0,2.0,HARD,34.0,False,1,True,8.0,22.0,45.1,62.0,False,0.9,79.153,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,35.0,2.0,HARD,35.0,False,1,True,8.0,21.9,44.5,65.0,False,0.6,78.973,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,36.0,2.0,HARD,36.0,False,1,True,8.0,21.8,44.4,64.0,False,1.2,79.472,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,37.0,2.0,HARD,37.0,False,1,True,8.0,21.8,44.5,63.0,False,1.0,80.071,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,38.0,2.0,HARD,38.0,False,1,True,8.0,21.8,44.8,62.0,False,0.7,80.117,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,39.0,2.0,HARD,39.0,False,1,True,8.0,21.8,44.7,62.0,False,0.5,79.855,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,40.0,2.0,HARD,40.0,False,1,True,8.0,22.0,44.4,60.0,False,0.8,79.745,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,41.0,2.0,HARD,41.0,False,1,True,8.0,22.0,44.4,62.0,False,0.5,80.772,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,42.0,2.0,HARD,42.0,False,1,True,8.0,21.9,44.7,61.0,False,0.5,80.32,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,43.0,2.0,HARD,43.0,False,1,True,8.0,21.9,44.8,59.0,False,1.0,80.135,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,44.0,2.0,HARD,44.0,False,1,True,8.0,22.0,44.5,58.0,False,0.5,80.394,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,45.0,2.0,HARD,45.0,False,1,True,8.0,22.0,44.2,58.0,False,0.8,80.144,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,46.0,2.0,HARD,46.0,False,1,True,8.0,22.0,44.5,58.0,False,1.8,80.294,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,47.0,2.0,HARD,47.0,False,1,True,8.0,22.0,43.8,57.0,False,0.7,80.426,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,48.0,2.0,HARD,48.0,False,1,True,8.0,22.0,43.8,58.0,False,1.1,80.543,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,49.0,2.0,HARD,49.0,False,1,True,8.0,21.9,43.7,58.0,False,1.0,80.109,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,50.0,2.0,HARD,50.0,False,1,True,8.0,21.9,43.7,58.0,False,1.1,79.553,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,51.0,2.0,HARD,51.0,False,1,True,8.0,21.8,43.0,58.0,False,0.7,78.64,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,52.0,2.0,HARD,52.0,False,12,True,8.0,21.9,43.2,58.0,False,0.8,80.114,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,53.0,2.0,HARD,53.0,False,1,True,8.0,21.9,43.0,59.0,False,1.1,79.854,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,54.0,2.0,HARD,54.0,False,1,True,8.0,21.9,42.8,59.0,False,1.4,85.77,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,55.0,2.0,HARD,55.0,False,1,True,8.0,21.7,42.4,60.0,False,0.9,79.781,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,56.0,2.0,HARD,56.0,False,1,True,8.0,21.6,42.2,60.0,False,0.8,78.502,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,57.0,2.0,HARD,57.0,False,1,True,8.0,21.7,42.4,59.0,False,0.6,78.499,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,58.0,2.0,HARD,58.0,False,1,True,8.0,21.6,41.9,61.0,False,1.1,78.737,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,59.0,2.0,HARD,59.0,False,1,True,8.0,21.5,42.3,61.0,False,0.5,78.035,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,60.0,2.0,HARD,60.0,False,1,True,8.0,21.6,42.3,60.0,False,0.6,79.659,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,61.0,2.0,HARD,61.0,False,1,True,8.0,21.8,42.0,59.0,False,1.2,80.298,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,62.0,2.0,HARD,62.0,False,1,True,8.0,22.0,42.0,60.0,False,0.8,79.375,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,63.0,2.0,HARD,63.0,False,1,True,8.0,21.9,41.2,60.0,False,0.8,83.218,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,64.0,2.0,HARD,64.0,False,1,True,8.0,21.9,41.7,59.0,False,1.2,77.631,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,65.0,2.0,HARD,65.0,False,1,True,8.0,22.0,41.7,59.0,False,1.7,77.019,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,66.0,2.0,HARD,66.0,False,1,True,8.0,22.0,41.6,60.0,False,1.0,78.197,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,67.0,2.0,HARD,67.0,False,1,True,8.0,21.8,40.9,60.0,False,0.7,78.148,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,68.0,2.0,HARD,68.0,False,1,True,8.0,21.8,41.6,60.0,False,0.8,78.209,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,69.0,2.0,HARD,69.0,False,1,True,8.0,21.8,41.6,60.0,False,1.0,80.032,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,70.0,2.0,HARD,70.0,False,1,True,8.0,21.7,41.1,60.0,False,0.4,79.347,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,71.0,2.0,HARD,71.0,False,1,True,8.0,21.6,40.5,62.0,False,0.9,78.258,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,72.0,2.0,HARD,72.0,False,1,True,8.0,21.6,40.5,61.0,False,0.5,77.079,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,73.0,2.0,HARD,73.0,False,1,True,8.0,21.7,40.8,61.0,False,1.1,75.955,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,74.0,2.0,HARD,74.0,False,1,True,8.0,21.7,40.6,61.0,False,0.6,75.462,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,75.0,2.0,HARD,75.0,False,1,True,8.0,21.7,40.6,61.0,False,0.9,74.992,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,76.0,2.0,HARD,76.0,False,1,True,8.0,21.8,40.9,61.0,False,1.2,75.205,False,78,2024,8,Monaco Grand Prix,2024_08
+TSU,RB,77.0,2.0,HARD,77.0,False,1,True,8.0,21.8,40.9,61.0,False,0.8,74.72,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1254,False,9.0,21.6,48.4,66.0,False,0.6,2494.817,True,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,2.0,2.0,HARD,1.0,True,41,False,9.0,21.5,48.1,65.0,False,0.8,142.255,True,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,3.0,2.0,HARD,2.0,True,1,True,9.0,21.6,49.2,65.0,False,0.6,87.834,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,4.0,2.0,HARD,3.0,True,1,True,9.0,21.7,49.2,63.0,False,0.6,83.286,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,5.0,2.0,HARD,4.0,True,1,True,9.0,21.7,48.8,63.0,False,0.6,83.369,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,6.0,2.0,HARD,5.0,True,1,True,9.0,21.6,48.2,63.0,False,1.0,83.416,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,7.0,2.0,HARD,6.0,True,1,True,9.0,21.8,48.7,64.0,False,0.4,81.913,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,8.0,2.0,HARD,7.0,True,1,True,9.0,21.9,47.9,63.0,False,0.9,81.536,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,9.0,2.0,HARD,8.0,True,1,True,9.0,22.0,47.9,64.0,False,1.1,82.004,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,10.0,2.0,HARD,9.0,True,1,True,9.0,22.1,47.4,65.0,False,0.7,81.562,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,11.0,2.0,HARD,10.0,True,1,True,9.0,22.2,47.9,61.0,False,1.3,81.514,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,12.0,2.0,HARD,11.0,True,1,True,9.0,22.3,47.3,63.0,False,0.6,80.821,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,13.0,2.0,HARD,12.0,True,1,True,9.0,22.1,47.2,64.0,False,1.2,81.42,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,14.0,2.0,HARD,13.0,True,1,True,9.0,22.0,47.1,63.0,False,0.5,80.591,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,15.0,2.0,HARD,14.0,True,1,True,9.0,22.0,47.1,62.0,False,1.1,80.591,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,16.0,2.0,HARD,15.0,True,1,True,9.0,22.0,46.0,64.0,False,0.5,80.793,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,17.0,2.0,HARD,16.0,True,1,True,9.0,21.6,46.7,64.0,False,1.1,81.137,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,18.0,2.0,HARD,17.0,True,1,True,9.0,21.7,47.2,63.0,False,0.8,80.042,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,19.0,2.0,HARD,18.0,True,1,True,9.0,21.9,46.6,61.0,False,1.3,80.245,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,20.0,2.0,HARD,19.0,True,1,True,9.0,21.9,45.8,62.0,False,0.9,80.36,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,21.0,2.0,HARD,20.0,True,1,True,9.0,21.9,45.8,64.0,False,1.3,80.937,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,22.0,2.0,HARD,21.0,True,1,True,9.0,21.8,45.9,65.0,False,0.5,80.542,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,23.0,2.0,HARD,22.0,True,1,True,9.0,21.7,46.1,63.0,False,1.1,80.143,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,24.0,2.0,HARD,23.0,True,1,True,9.0,21.8,46.3,64.0,False,1.4,80.517,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,25.0,2.0,HARD,24.0,True,1,True,9.0,21.7,45.7,62.0,False,1.3,80.323,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,26.0,2.0,HARD,25.0,True,1,True,9.0,21.8,46.0,64.0,False,0.7,80.463,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,27.0,2.0,HARD,26.0,True,1,True,9.0,21.9,46.0,63.0,False,0.6,80.509,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,28.0,2.0,HARD,27.0,True,1,True,9.0,22.0,45.6,63.0,False,1.7,79.51,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,29.0,2.0,HARD,28.0,True,1,True,9.0,22.0,45.9,62.0,False,0.9,80.271,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,30.0,2.0,HARD,29.0,True,1,True,9.0,22.0,46.4,61.0,False,0.6,81.439,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,31.0,2.0,HARD,30.0,True,1,True,9.0,22.0,45.5,61.0,False,0.9,80.941,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,32.0,2.0,HARD,31.0,True,1,True,9.0,21.9,45.6,62.0,False,1.0,80.148,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,33.0,2.0,HARD,32.0,True,1,True,9.0,21.9,45.9,62.0,False,0.9,79.491,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,34.0,2.0,HARD,33.0,True,1,True,9.0,22.0,45.1,62.0,False,0.9,79.134,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,35.0,2.0,HARD,34.0,True,1,True,9.0,21.9,44.5,65.0,False,0.6,78.816,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,36.0,2.0,HARD,35.0,True,1,True,9.0,21.8,44.4,64.0,False,1.2,81.628,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,37.0,2.0,HARD,36.0,True,1,True,9.0,21.8,44.5,63.0,False,1.0,80.775,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,38.0,2.0,HARD,37.0,True,1,True,9.0,21.8,44.8,62.0,False,0.7,80.314,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,39.0,2.0,HARD,38.0,True,1,True,9.0,21.8,44.7,62.0,False,0.5,80.389,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,40.0,2.0,HARD,39.0,True,1,True,9.0,22.0,44.4,60.0,False,0.8,79.812,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,41.0,2.0,HARD,40.0,True,1,True,9.0,22.0,44.4,62.0,False,0.5,79.329,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,42.0,2.0,HARD,41.0,True,1,True,9.0,21.9,44.7,61.0,False,0.5,80.084,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,43.0,2.0,HARD,42.0,True,1,True,9.0,21.9,44.8,59.0,False,1.0,79.496,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,44.0,2.0,HARD,43.0,True,1,True,9.0,22.0,44.5,58.0,False,0.5,79.683,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,45.0,2.0,HARD,44.0,True,1,True,9.0,22.0,44.2,58.0,False,0.8,81.748,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,46.0,2.0,HARD,45.0,True,1,True,9.0,22.0,44.5,58.0,False,1.8,80.594,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,47.0,2.0,HARD,46.0,True,1,True,9.0,22.0,43.8,57.0,False,0.7,80.462,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,48.0,2.0,HARD,47.0,True,1,True,9.0,22.0,43.8,58.0,False,1.1,79.321,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,49.0,2.0,HARD,48.0,True,1,True,9.0,21.9,43.7,58.0,False,1.0,79.378,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,50.0,2.0,HARD,49.0,True,1,True,9.0,21.9,43.7,58.0,False,1.1,79.268,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,51.0,2.0,HARD,50.0,True,1,True,9.0,21.8,43.0,58.0,False,0.7,78.863,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,52.0,2.0,HARD,51.0,True,12,True,9.0,21.9,43.2,58.0,False,0.8,81.554,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,53.0,2.0,HARD,52.0,True,1,True,9.0,21.9,43.0,59.0,False,1.1,80.7,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,54.0,2.0,HARD,53.0,True,1,True,9.0,21.9,42.8,59.0,False,1.4,83.647,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,55.0,2.0,HARD,54.0,True,1,True,9.0,21.7,42.4,60.0,False,0.9,79.085,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,56.0,2.0,HARD,55.0,True,1,True,9.0,21.6,42.2,60.0,False,0.8,78.796,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,57.0,2.0,HARD,56.0,True,1,True,9.0,21.7,42.4,59.0,False,0.6,78.271,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,58.0,2.0,HARD,57.0,True,1,True,9.0,21.6,41.9,61.0,False,1.1,78.69,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,59.0,2.0,HARD,58.0,True,1,True,9.0,21.5,42.3,61.0,False,0.5,78.201,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,60.0,2.0,HARD,59.0,True,1,True,9.0,21.6,42.3,60.0,False,0.6,79.533,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,61.0,2.0,HARD,60.0,True,1,True,9.0,21.8,42.0,59.0,False,1.2,80.222,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,62.0,2.0,HARD,61.0,True,1,True,9.0,22.0,42.0,60.0,False,0.8,79.506,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,63.0,2.0,HARD,62.0,True,1,True,9.0,21.9,41.2,60.0,False,0.8,83.085,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,64.0,2.0,HARD,63.0,True,1,True,9.0,21.9,41.7,59.0,False,1.2,77.911,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,65.0,2.0,HARD,64.0,True,1,True,9.0,22.0,41.7,59.0,False,1.7,77.261,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,66.0,2.0,HARD,65.0,True,1,True,9.0,22.0,41.6,60.0,False,1.0,78.003,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,67.0,2.0,HARD,66.0,True,1,True,9.0,21.8,40.9,60.0,False,0.7,77.874,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,68.0,2.0,HARD,67.0,True,1,True,9.0,21.8,41.6,60.0,False,0.8,78.385,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,69.0,2.0,HARD,68.0,True,1,True,9.0,21.8,41.6,60.0,False,1.0,79.921,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,70.0,2.0,HARD,69.0,True,1,True,9.0,21.7,41.1,60.0,False,0.4,79.37,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,71.0,2.0,HARD,70.0,True,1,True,9.0,21.6,40.5,62.0,False,0.9,78.957,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,72.0,2.0,HARD,71.0,True,1,True,9.0,21.6,40.5,61.0,False,0.5,78.165,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,73.0,2.0,HARD,72.0,True,1,True,9.0,21.7,40.8,61.0,False,1.1,78.432,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,74.0,2.0,HARD,73.0,True,1,True,9.0,21.7,40.6,61.0,False,0.6,78.014,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,75.0,2.0,HARD,74.0,True,1,True,9.0,21.7,40.6,61.0,False,0.9,77.85,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,76.0,2.0,HARD,75.0,True,1,True,9.0,21.8,40.9,61.0,False,1.2,77.279,False,78,2024,8,Monaco Grand Prix,2024_08
+ALB,Williams,77.0,2.0,HARD,76.0,True,1,True,9.0,21.8,40.2,62.0,False,0.8,77.06,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,1.0,1.0,HARD,1.0,True,1254,False,10.0,21.6,48.4,66.0,False,0.6,2497.695,True,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,2.0,2.0,MEDIUM,1.0,True,41,False,10.0,21.5,48.1,65.0,False,0.8,139.618,True,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,3.0,2.0,MEDIUM,2.0,True,1,True,10.0,21.6,49.2,65.0,False,0.6,88.269,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,4.0,2.0,MEDIUM,3.0,True,1,True,10.0,21.7,49.2,63.0,False,0.6,83.269,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,5.0,2.0,MEDIUM,4.0,True,1,True,10.0,21.6,48.2,64.0,False,2.0,83.428,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,6.0,2.0,MEDIUM,5.0,True,1,True,10.0,21.6,48.2,63.0,False,1.0,83.106,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,7.0,2.0,MEDIUM,6.0,True,1,True,10.0,21.8,48.7,64.0,False,0.4,82.233,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,8.0,2.0,MEDIUM,7.0,True,1,True,10.0,21.9,47.9,63.0,False,0.9,81.6,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,9.0,2.0,MEDIUM,8.0,True,1,True,10.0,22.0,47.9,64.0,False,1.1,82.071,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,10.0,2.0,MEDIUM,9.0,True,1,True,10.0,22.1,47.4,65.0,False,0.7,81.394,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,11.0,2.0,MEDIUM,10.0,True,1,True,10.0,22.2,47.9,61.0,False,1.3,81.298,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,12.0,2.0,MEDIUM,11.0,True,1,True,10.0,22.3,47.3,63.0,False,0.6,81.289,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,13.0,2.0,MEDIUM,12.0,True,1,True,10.0,22.1,47.2,64.0,False,1.2,81.53,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,14.0,2.0,MEDIUM,13.0,True,1,True,10.0,22.0,47.1,63.0,False,0.5,79.92,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,15.0,2.0,MEDIUM,14.0,True,1,True,10.0,22.0,47.1,62.0,False,1.1,81.066,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,16.0,2.0,MEDIUM,15.0,True,1,True,10.0,22.0,46.0,64.0,False,0.5,81.054,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,17.0,2.0,MEDIUM,16.0,True,1,True,10.0,21.6,46.7,64.0,False,1.1,81.961,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,18.0,2.0,MEDIUM,17.0,True,1,True,10.0,21.7,47.2,63.0,False,0.8,80.797,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,19.0,2.0,MEDIUM,18.0,True,1,True,10.0,21.9,46.6,61.0,False,1.3,79.904,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,20.0,2.0,MEDIUM,19.0,True,1,True,10.0,21.9,45.8,62.0,False,0.9,80.255,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,21.0,2.0,MEDIUM,20.0,True,1,True,10.0,21.9,45.8,64.0,False,1.3,79.876,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,22.0,2.0,MEDIUM,21.0,True,1,True,10.0,21.8,45.9,65.0,False,0.5,80.554,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,23.0,2.0,MEDIUM,22.0,True,1,True,10.0,21.7,46.1,63.0,False,1.1,81.306,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,24.0,2.0,MEDIUM,23.0,True,1,True,10.0,21.8,46.3,64.0,False,1.4,80.949,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,25.0,2.0,MEDIUM,24.0,True,1,True,10.0,21.7,45.7,62.0,False,1.3,80.372,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,26.0,2.0,MEDIUM,25.0,True,1,True,10.0,21.8,46.0,64.0,False,0.7,80.593,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,27.0,2.0,MEDIUM,26.0,True,1,True,10.0,21.9,46.0,63.0,False,0.6,80.521,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,28.0,2.0,MEDIUM,27.0,True,1,True,10.0,22.0,45.6,63.0,False,1.7,80.229,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,29.0,2.0,MEDIUM,28.0,True,1,True,10.0,22.0,45.9,62.0,False,0.9,79.376,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,30.0,2.0,MEDIUM,29.0,True,1,True,10.0,22.0,46.4,61.0,False,0.6,81.764,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,31.0,2.0,MEDIUM,30.0,True,1,True,10.0,22.0,45.5,61.0,False,0.9,81.427,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,32.0,2.0,MEDIUM,31.0,True,1,True,10.0,21.9,45.6,62.0,False,1.0,81.121,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,33.0,2.0,MEDIUM,32.0,True,1,True,10.0,21.9,45.9,62.0,False,0.9,80.965,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,34.0,2.0,MEDIUM,33.0,True,1,True,10.0,22.0,45.1,62.0,False,0.9,80.751,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,35.0,2.0,MEDIUM,34.0,True,1,True,10.0,21.9,44.5,65.0,False,0.6,79.361,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,36.0,2.0,MEDIUM,35.0,True,1,True,10.0,21.8,44.4,64.0,False,1.2,79.576,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,37.0,2.0,MEDIUM,36.0,True,1,True,10.0,21.8,44.5,63.0,False,1.0,79.975,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,38.0,2.0,MEDIUM,37.0,True,1,True,10.0,21.8,44.8,62.0,False,0.7,79.428,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,39.0,2.0,MEDIUM,38.0,True,1,True,10.0,21.8,44.7,62.0,False,0.5,80.32,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,40.0,2.0,MEDIUM,39.0,True,1,True,10.0,22.0,44.4,60.0,False,0.8,80.384,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,41.0,2.0,MEDIUM,40.0,True,1,True,10.0,22.0,44.4,62.0,False,0.5,80.2,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,42.0,2.0,MEDIUM,41.0,True,1,True,10.0,21.9,44.7,61.0,False,0.5,79.977,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,43.0,2.0,MEDIUM,42.0,True,1,True,10.0,21.9,44.8,59.0,False,1.0,81.048,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,44.0,2.0,MEDIUM,43.0,True,1,True,10.0,22.0,44.5,58.0,False,0.5,80.621,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,45.0,2.0,MEDIUM,44.0,True,1,True,10.0,22.0,44.2,58.0,False,0.8,79.382,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,46.0,2.0,MEDIUM,45.0,True,1,True,10.0,22.0,44.5,58.0,False,1.8,79.97,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,47.0,2.0,MEDIUM,46.0,True,1,True,10.0,22.0,43.8,57.0,False,0.7,79.435,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,48.0,2.0,MEDIUM,47.0,True,1,True,10.0,22.0,43.8,58.0,False,1.1,79.865,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,49.0,2.0,MEDIUM,48.0,True,1,True,10.0,21.9,43.7,58.0,False,1.0,80.534,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,50.0,2.0,MEDIUM,49.0,True,1,True,10.0,21.9,43.7,58.0,False,1.1,81.023,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,51.0,2.0,MEDIUM,50.0,True,1,True,10.0,21.8,43.0,58.0,False,0.7,84.473,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,52.0,2.0,MEDIUM,51.0,True,12,True,10.0,21.9,43.2,58.0,False,0.8,79.743,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,53.0,2.0,MEDIUM,52.0,True,1,True,10.0,21.9,43.0,59.0,False,1.1,79.917,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,54.0,2.0,MEDIUM,53.0,True,1,True,10.0,21.9,42.8,59.0,False,1.4,79.091,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,55.0,2.0,MEDIUM,54.0,True,1,True,10.0,21.7,42.4,60.0,False,0.9,79.407,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,56.0,2.0,MEDIUM,55.0,True,1,True,10.0,21.6,42.2,60.0,False,0.8,79.704,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,57.0,2.0,MEDIUM,56.0,True,1,True,10.0,21.7,42.4,59.0,False,0.6,79.448,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,58.0,2.0,MEDIUM,57.0,True,1,True,10.0,21.6,41.9,61.0,False,1.1,79.097,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,59.0,2.0,MEDIUM,58.0,True,1,True,10.0,21.5,42.3,61.0,False,0.5,81.378,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,60.0,2.0,MEDIUM,59.0,True,1,True,10.0,21.6,42.3,60.0,False,0.6,80.237,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,61.0,2.0,MEDIUM,60.0,True,1,True,10.0,21.8,42.0,59.0,False,1.2,80.407,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,62.0,2.0,MEDIUM,61.0,True,1,True,10.0,22.0,42.0,60.0,False,0.8,78.469,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,63.0,2.0,MEDIUM,62.0,True,1,True,10.0,21.9,41.2,60.0,False,0.8,79.155,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,64.0,2.0,MEDIUM,63.0,True,1,True,10.0,21.9,41.7,59.0,False,1.2,78.868,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,65.0,2.0,MEDIUM,64.0,True,1,True,10.0,22.0,41.7,59.0,False,1.7,79.22,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,66.0,2.0,MEDIUM,65.0,True,1,True,10.0,22.0,41.6,60.0,False,1.0,78.726,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,67.0,2.0,MEDIUM,66.0,True,1,True,10.0,21.7,41.1,61.0,False,0.8,78.624,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,68.0,2.0,MEDIUM,67.0,True,1,True,10.0,21.8,41.6,60.0,False,0.8,78.545,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,69.0,2.0,MEDIUM,68.0,True,1,True,10.0,21.8,41.6,60.0,False,1.0,78.363,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,70.0,2.0,MEDIUM,69.0,True,1,True,10.0,21.6,41.0,61.0,False,0.7,77.799,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,71.0,2.0,MEDIUM,70.0,True,1,True,10.0,21.6,40.5,62.0,False,0.9,78.14,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,72.0,2.0,MEDIUM,71.0,True,1,True,10.0,21.6,40.5,61.0,False,0.5,78.382,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,73.0,2.0,MEDIUM,72.0,True,1,True,10.0,21.7,40.8,61.0,False,0.7,77.992,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,74.0,2.0,MEDIUM,73.0,True,1,True,10.0,21.7,40.6,61.0,False,0.6,76.689,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,75.0,2.0,MEDIUM,74.0,True,1,True,10.0,21.7,40.6,61.0,False,0.9,78.12,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,76.0,2.0,MEDIUM,75.0,True,1,True,10.0,21.8,40.9,61.0,False,1.2,77.516,False,78,2024,8,Monaco Grand Prix,2024_08
+GAS,Alpine,77.0,2.0,MEDIUM,76.0,True,1,True,10.0,21.8,40.2,62.0,False,0.8,75.625,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,1.0,1.0,HARD,2.0,False,1254,False,13.0,21.6,48.4,66.0,False,0.6,2513.184,True,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,2.0,2.0,MEDIUM,2.0,False,41,False,13.0,21.5,48.1,66.0,False,0.7,124.571,True,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,3.0,2.0,MEDIUM,3.0,False,1,True,12.0,21.6,49.2,65.0,False,0.6,89.188,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,4.0,2.0,MEDIUM,4.0,False,1,True,12.0,21.7,49.2,63.0,False,0.6,83.736,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,5.0,2.0,MEDIUM,5.0,False,1,True,12.0,21.6,48.2,64.0,False,2.0,83.575,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,6.0,2.0,MEDIUM,6.0,False,1,True,12.0,21.6,48.2,63.0,False,1.0,82.711,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,7.0,2.0,MEDIUM,7.0,False,1,True,12.0,21.8,48.7,64.0,False,0.4,82.866,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,8.0,2.0,MEDIUM,8.0,False,1,True,12.0,21.9,47.9,63.0,False,0.9,82.284,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,9.0,2.0,MEDIUM,9.0,False,1,True,12.0,22.0,47.9,64.0,False,1.1,81.65,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,10.0,2.0,MEDIUM,10.0,False,1,True,12.0,22.1,47.4,65.0,False,0.7,81.864,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,11.0,2.0,MEDIUM,11.0,False,1,True,12.0,22.2,47.9,61.0,False,1.3,81.418,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,12.0,2.0,MEDIUM,12.0,False,1,True,12.0,22.3,47.3,63.0,False,0.6,81.366,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,13.0,2.0,MEDIUM,13.0,False,1,True,12.0,22.1,47.2,64.0,False,1.2,81.428,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,14.0,2.0,MEDIUM,14.0,False,1,True,12.0,22.0,47.1,63.0,False,0.5,81.392,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,15.0,2.0,MEDIUM,15.0,False,1,True,12.0,22.0,47.1,62.0,False,1.1,81.061,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,16.0,2.0,MEDIUM,16.0,False,1,True,12.0,21.8,46.1,64.0,False,1.3,81.318,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,17.0,2.0,MEDIUM,17.0,False,1,True,12.0,21.6,46.7,64.0,False,1.1,80.799,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,18.0,2.0,MEDIUM,18.0,False,1,True,12.0,21.7,47.2,63.0,False,0.8,81.075,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,19.0,2.0,MEDIUM,19.0,False,1,True,12.0,21.9,46.6,61.0,False,1.3,80.605,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,20.0,2.0,MEDIUM,20.0,False,1,True,12.0,21.9,45.8,62.0,False,0.9,81.11,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,21.0,2.0,MEDIUM,21.0,False,1,True,12.0,21.9,45.8,64.0,False,1.3,80.317,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,22.0,2.0,MEDIUM,22.0,False,1,True,12.0,21.8,45.9,65.0,False,0.5,81.037,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,23.0,2.0,MEDIUM,23.0,False,1,True,12.0,21.7,46.1,63.0,False,1.1,80.246,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,24.0,2.0,MEDIUM,24.0,False,1,True,12.0,21.8,46.3,64.0,False,1.4,81.413,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,25.0,2.0,MEDIUM,25.0,False,1,True,12.0,21.7,45.7,62.0,False,1.3,81.091,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,26.0,2.0,MEDIUM,26.0,False,1,True,12.0,21.8,46.0,64.0,False,0.7,80.858,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,27.0,2.0,MEDIUM,27.0,False,1,True,12.0,21.9,46.0,63.0,False,0.6,81.303,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,28.0,2.0,MEDIUM,28.0,False,1,True,12.0,22.0,45.6,63.0,False,1.7,81.544,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,29.0,2.0,MEDIUM,29.0,False,1,True,12.0,22.0,45.9,62.0,False,0.9,81.205,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,30.0,2.0,MEDIUM,30.0,False,1,True,12.0,22.0,46.4,61.0,False,0.6,81.034,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,31.0,2.0,MEDIUM,31.0,False,1,True,12.0,22.0,45.5,61.0,False,0.9,80.642,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,32.0,2.0,MEDIUM,32.0,False,1,True,12.0,21.9,45.6,62.0,False,1.0,81.01,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,33.0,2.0,MEDIUM,33.0,False,1,True,12.0,22.0,45.9,61.0,False,1.0,80.35,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,34.0,2.0,MEDIUM,34.0,False,1,True,12.0,22.0,45.1,62.0,False,0.9,80.877,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,35.0,2.0,MEDIUM,35.0,False,1,True,12.0,21.9,44.5,65.0,False,0.6,80.432,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,36.0,2.0,MEDIUM,36.0,False,1,True,12.0,21.7,44.4,63.0,False,1.5,81.128,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,37.0,2.0,MEDIUM,37.0,False,1,True,12.0,21.8,44.5,63.0,False,1.0,81.512,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,38.0,2.0,MEDIUM,38.0,False,1,True,12.0,21.8,44.8,62.0,False,0.7,81.082,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,39.0,2.0,MEDIUM,39.0,False,1,True,12.0,21.9,44.4,61.0,False,0.8,81.265,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,40.0,2.0,MEDIUM,40.0,False,1,True,12.0,22.0,44.4,60.0,False,0.8,80.755,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,41.0,2.0,MEDIUM,41.0,False,1,True,12.0,22.0,44.4,62.0,False,0.5,83.446,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,42.0,2.0,MEDIUM,42.0,False,1,True,12.0,21.9,44.8,59.0,False,0.9,83.332,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,43.0,2.0,MEDIUM,43.0,False,1,True,12.0,21.9,44.8,59.0,False,1.0,80.286,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,44.0,2.0,MEDIUM,44.0,False,1,True,12.0,22.0,44.5,58.0,False,0.5,78.852,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,45.0,2.0,MEDIUM,45.0,False,1,True,12.0,21.9,44.5,57.0,False,1.8,79.956,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,46.0,2.0,MEDIUM,46.0,False,1,True,12.0,22.0,44.5,58.0,False,1.8,78.928,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,47.0,2.0,MEDIUM,47.0,False,1,True,12.0,22.0,43.8,57.0,False,0.7,79.109,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,48.0,2.0,MEDIUM,48.0,False,1,True,11.0,22.0,43.7,57.0,False,1.7,80.315,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,49.0,2.0,MEDIUM,49.0,False,1,True,11.0,21.9,43.7,58.0,False,1.0,79.837,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,50.0,2.0,MEDIUM,50.0,False,1,True,11.0,21.9,43.7,58.0,False,1.1,79.334,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,51.0,2.0,MEDIUM,51.0,False,1,True,11.0,21.8,43.2,57.0,False,1.0,80.636,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,52.0,2.0,MEDIUM,52.0,False,12,True,11.0,21.9,43.2,58.0,False,0.8,83.377,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,53.0,2.0,MEDIUM,53.0,False,1,True,11.0,21.9,43.0,59.0,False,1.1,79.992,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,54.0,2.0,MEDIUM,54.0,False,1,True,11.0,21.7,42.5,59.0,False,1.1,79.191,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,55.0,2.0,MEDIUM,55.0,False,1,True,11.0,21.7,42.4,60.0,False,0.9,79.411,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,56.0,2.0,MEDIUM,56.0,False,1,True,11.0,21.6,42.2,60.0,False,0.8,80.739,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,57.0,2.0,MEDIUM,57.0,False,1,True,11.0,21.8,42.2,60.0,False,1.2,80.6,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,58.0,2.0,MEDIUM,58.0,False,1,True,11.0,21.6,41.9,61.0,False,1.1,79.229,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,59.0,2.0,MEDIUM,59.0,False,1,True,11.0,21.5,42.3,61.0,False,0.5,79.219,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,60.0,2.0,MEDIUM,60.0,False,1,True,11.0,21.6,42.0,60.0,False,0.9,79.166,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,61.0,2.0,MEDIUM,61.0,False,1,True,11.0,21.8,42.0,59.0,False,1.2,78.752,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,62.0,2.0,MEDIUM,62.0,False,1,True,11.0,22.0,42.0,60.0,False,0.8,78.816,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,63.0,2.0,MEDIUM,63.0,False,1,True,11.0,21.9,42.0,60.0,False,0.9,78.556,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,64.0,2.0,MEDIUM,64.0,False,1,True,11.0,21.9,41.7,59.0,False,1.2,78.736,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,65.0,2.0,MEDIUM,65.0,False,1,True,11.0,22.0,41.7,59.0,False,1.7,78.633,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,66.0,2.0,MEDIUM,66.0,False,1,True,11.0,21.8,40.9,60.0,False,0.7,78.637,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,67.0,2.0,MEDIUM,67.0,False,1,True,11.0,21.7,41.1,61.0,False,0.8,78.126,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,68.0,2.0,MEDIUM,68.0,False,1,True,11.0,21.8,41.6,60.0,False,0.8,77.939,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,69.0,2.0,MEDIUM,69.0,False,1,True,11.0,21.7,41.1,60.0,False,0.4,78.713,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,70.0,2.0,MEDIUM,70.0,False,1,True,11.0,21.6,41.0,61.0,False,0.7,78.473,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,71.0,2.0,MEDIUM,71.0,False,1,True,11.0,21.6,40.5,62.0,False,0.9,78.133,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,72.0,2.0,MEDIUM,72.0,False,1,True,11.0,21.6,40.5,61.0,False,0.5,78.081,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,73.0,2.0,MEDIUM,73.0,False,1,True,11.0,21.7,40.8,61.0,False,0.7,78.504,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,74.0,2.0,MEDIUM,74.0,False,1,True,11.0,21.7,40.6,61.0,False,0.6,80.336,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,75.0,2.0,MEDIUM,75.0,False,1,True,11.0,21.7,40.6,61.0,False,0.9,78.663,False,78,2024,8,Monaco Grand Prix,2024_08
+ALO,Aston Martin,76.0,2.0,MEDIUM,76.0,False,1,True,11.0,21.8,40.9,61.0,False,0.8,79.053,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,1.0,1.0,MEDIUM,1.0,True,1254,False,12.0,21.6,48.4,66.0,False,0.6,2507.607,True,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,2.0,2.0,HARD,2.0,False,41,False,12.0,21.5,48.1,65.0,False,0.8,130.108,True,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,3.0,2.0,HARD,3.0,False,1,True,13.0,21.6,49.2,65.0,False,0.6,89.656,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,4.0,2.0,HARD,4.0,False,1,True,13.0,21.7,49.2,63.0,False,0.6,83.524,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,5.0,2.0,HARD,5.0,False,1,True,13.0,21.6,48.2,64.0,False,2.0,83.744,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,6.0,2.0,HARD,6.0,False,1,True,13.0,21.6,48.2,63.0,False,1.0,82.748,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,7.0,2.0,HARD,7.0,False,1,True,13.0,21.8,48.7,64.0,False,0.4,82.747,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,8.0,2.0,HARD,8.0,False,1,True,13.0,21.9,47.9,63.0,False,0.9,82.433,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,9.0,2.0,HARD,9.0,False,1,True,13.0,22.0,47.9,64.0,False,1.1,81.528,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,10.0,2.0,HARD,10.0,False,1,True,13.0,22.1,47.4,65.0,False,0.7,81.976,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,11.0,2.0,HARD,11.0,False,1,True,13.0,22.2,47.9,61.0,False,1.3,81.53,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,12.0,2.0,HARD,12.0,False,1,True,13.0,22.3,47.3,63.0,False,0.6,81.277,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,13.0,2.0,HARD,13.0,False,1,True,13.0,22.0,47.1,62.0,False,1.2,81.416,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,14.0,2.0,HARD,14.0,False,1,True,13.0,22.0,47.1,63.0,False,0.5,81.391,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,15.0,2.0,HARD,15.0,False,1,True,13.0,22.0,47.1,62.0,False,1.1,81.177,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,16.0,2.0,HARD,16.0,False,1,True,13.0,21.8,46.1,64.0,False,1.3,81.125,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,17.0,2.0,HARD,17.0,False,1,True,13.0,21.6,46.7,64.0,False,1.1,80.862,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,18.0,2.0,HARD,18.0,False,1,True,13.0,21.7,47.2,63.0,False,0.8,81.108,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,19.0,2.0,HARD,19.0,False,1,True,13.0,21.9,46.6,61.0,False,1.3,81.31,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,20.0,2.0,HARD,20.0,False,1,True,13.0,21.9,45.8,62.0,False,0.9,80.942,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,21.0,2.0,HARD,21.0,False,1,True,13.0,21.9,45.8,64.0,False,1.3,80.817,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,22.0,2.0,HARD,22.0,False,1,True,13.0,21.8,45.9,65.0,False,0.5,80.849,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,23.0,2.0,HARD,23.0,False,1,True,13.0,21.7,46.1,63.0,False,1.1,80.662,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,24.0,2.0,HARD,24.0,False,1,True,13.0,21.8,46.3,64.0,False,1.4,80.348,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,25.0,2.0,HARD,25.0,False,1,True,13.0,21.7,45.7,62.0,False,1.3,81.029,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,26.0,2.0,HARD,26.0,False,1,True,13.0,21.8,46.0,64.0,False,0.7,80.691,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,27.0,2.0,HARD,27.0,False,1,True,13.0,21.9,46.0,63.0,False,0.6,81.365,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,28.0,2.0,HARD,28.0,False,1,True,13.0,22.0,45.6,63.0,False,1.7,81.566,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,29.0,2.0,HARD,29.0,False,1,True,13.0,22.0,45.9,62.0,False,0.9,81.265,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,30.0,2.0,HARD,30.0,False,1,True,13.0,22.0,46.4,61.0,False,0.6,80.9,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,31.0,2.0,HARD,31.0,False,1,True,13.0,22.0,45.5,61.0,False,0.9,80.703,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,32.0,2.0,HARD,32.0,False,1,True,13.0,21.9,45.6,62.0,False,1.0,80.94,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,33.0,2.0,HARD,33.0,False,1,True,13.0,22.0,45.9,61.0,False,1.0,80.395,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,34.0,2.0,HARD,34.0,False,1,True,13.0,22.0,45.1,62.0,False,0.9,80.84,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,35.0,2.0,HARD,35.0,False,1,True,13.0,21.9,44.5,65.0,False,0.6,80.54,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,36.0,2.0,HARD,36.0,False,1,True,13.0,21.7,44.4,63.0,False,1.5,81.126,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,37.0,2.0,HARD,37.0,False,1,True,13.0,21.8,44.5,63.0,False,1.0,81.358,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,38.0,2.0,HARD,38.0,False,1,True,13.0,21.8,44.8,62.0,False,0.7,81.099,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,39.0,2.0,HARD,39.0,False,1,True,13.0,21.9,44.4,61.0,False,0.8,81.255,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,40.0,2.0,HARD,40.0,False,1,True,13.0,22.0,44.4,60.0,False,0.8,80.87,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,41.0,2.0,HARD,41.0,False,1,True,13.0,22.0,44.4,62.0,False,0.5,85.218,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,42.0,2.0,HARD,42.0,False,1,True,13.0,21.9,44.8,59.0,False,0.9,81.527,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,43.0,2.0,HARD,43.0,False,1,True,13.0,21.9,44.8,59.0,False,1.0,81.053,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,44.0,2.0,HARD,44.0,False,1,True,13.0,22.0,44.5,58.0,False,0.5,78.003,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,45.0,2.0,HARD,45.0,False,1,True,13.0,21.9,44.5,57.0,False,1.8,81.761,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,46.0,2.0,HARD,46.0,False,1,True,13.0,22.0,44.5,58.0,False,1.8,77.172,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,47.0,2.0,HARD,47.0,False,1,True,13.0,22.0,43.8,57.0,False,0.7,81.071,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,48.0,2.0,HARD,48.0,False,1,True,12.0,22.0,43.7,57.0,False,1.7,78.282,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,49.0,2.0,HARD,49.0,False,1,True,12.0,21.9,43.7,58.0,False,1.0,79.837,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,50.0,2.0,HARD,50.0,False,1,True,12.0,21.9,43.7,58.0,False,1.1,79.796,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,51.0,2.0,HARD,51.0,False,12,True,12.0,21.8,43.2,57.0,False,1.0,82.683,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,52.0,2.0,HARD,52.0,False,21,True,12.0,21.9,43.2,58.0,False,0.8,80.696,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,53.0,2.0,HARD,53.0,False,1,True,12.0,21.9,43.0,59.0,False,1.1,80.079,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,54.0,2.0,HARD,54.0,False,1,True,12.0,21.7,42.5,59.0,False,1.1,79.176,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,55.0,2.0,HARD,55.0,False,1,True,12.0,21.7,42.4,60.0,False,0.9,79.457,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,56.0,2.0,HARD,56.0,False,1,True,12.0,21.6,42.2,60.0,False,0.8,82.007,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,57.0,2.0,HARD,57.0,False,1,True,12.0,21.8,42.2,60.0,False,1.2,79.672,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,58.0,2.0,HARD,58.0,False,1,True,12.0,21.6,41.9,61.0,False,1.1,79.119,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,59.0,2.0,HARD,59.0,False,1,True,12.0,21.5,42.3,61.0,False,0.5,78.936,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,60.0,2.0,HARD,60.0,False,1,True,12.0,21.6,42.0,60.0,False,0.9,79.23,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,61.0,2.0,HARD,61.0,False,1,True,12.0,21.8,42.0,59.0,False,1.2,78.771,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,62.0,2.0,HARD,62.0,False,1,True,12.0,22.0,42.0,60.0,False,0.8,78.977,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,63.0,2.0,HARD,63.0,False,1,True,12.0,21.9,42.0,60.0,False,0.9,78.805,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,64.0,2.0,HARD,64.0,False,1,True,12.0,21.9,41.7,59.0,False,1.2,78.637,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,65.0,2.0,HARD,65.0,False,1,True,12.0,22.0,41.7,59.0,False,1.7,78.73,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,66.0,2.0,HARD,66.0,False,1,True,12.0,21.8,40.9,60.0,False,0.7,78.248,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,67.0,2.0,HARD,67.0,False,1,True,12.0,21.7,41.1,61.0,False,0.8,78.219,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,68.0,2.0,HARD,68.0,False,1,True,12.0,21.8,41.6,60.0,False,0.8,78.116,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,69.0,2.0,HARD,69.0,False,1,True,12.0,21.7,41.1,60.0,False,0.4,78.386,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,70.0,2.0,HARD,70.0,False,1,True,12.0,21.6,41.0,61.0,False,0.7,78.706,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,71.0,2.0,HARD,71.0,False,1,True,12.0,21.6,40.5,62.0,False,0.9,78.108,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,72.0,2.0,HARD,72.0,False,1,True,12.0,21.6,40.5,61.0,False,0.5,78.068,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,73.0,2.0,HARD,73.0,False,1,True,12.0,21.7,40.8,61.0,False,0.7,78.512,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,74.0,2.0,HARD,74.0,False,1,True,12.0,21.7,40.6,61.0,False,0.6,80.358,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,75.0,2.0,HARD,75.0,False,1,True,12.0,21.7,40.6,61.0,False,0.9,78.645,False,78,2024,8,Monaco Grand Prix,2024_08
+RIC,RB,76.0,2.0,HARD,76.0,False,1,True,12.0,21.8,40.9,61.0,False,0.8,78.93,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,1.0,1.0,HARD,1.0,True,1254,False,15.0,21.6,48.4,66.0,False,0.6,2521.748,True,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,2.0,2.0,MEDIUM,1.0,True,41,False,15.0,21.5,48.1,66.0,False,0.7,116.358,True,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,3.0,2.0,MEDIUM,2.0,True,1,True,14.0,21.6,49.2,65.0,False,0.6,89.743,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,4.0,2.0,MEDIUM,3.0,True,1,True,14.0,21.7,49.2,63.0,False,0.6,83.386,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,5.0,2.0,MEDIUM,4.0,True,1,True,14.0,21.6,48.2,64.0,False,2.0,83.636,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,6.0,2.0,MEDIUM,5.0,True,1,True,14.0,21.6,48.2,63.0,False,1.0,82.868,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,7.0,2.0,MEDIUM,6.0,True,1,True,14.0,21.8,48.7,64.0,False,0.4,82.832,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,8.0,2.0,MEDIUM,7.0,True,1,True,14.0,21.9,47.9,63.0,False,0.9,82.249,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,9.0,2.0,MEDIUM,8.0,True,1,True,14.0,22.0,47.9,64.0,False,1.1,81.715,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,10.0,2.0,MEDIUM,9.0,True,1,True,14.0,22.1,47.4,65.0,False,0.7,81.947,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,11.0,2.0,MEDIUM,10.0,True,1,True,14.0,22.2,47.9,61.0,False,1.3,81.547,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,12.0,2.0,MEDIUM,11.0,True,1,True,14.0,22.3,47.3,63.0,False,0.6,81.328,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,13.0,2.0,MEDIUM,12.0,True,1,True,14.0,22.0,47.1,62.0,False,1.2,81.54,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,14.0,2.0,MEDIUM,13.0,True,1,True,14.0,22.0,47.1,63.0,False,0.5,81.221,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,15.0,2.0,MEDIUM,14.0,True,1,False,16.0,22.0,47.1,62.0,False,1.1,97.899,True,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,16.0,3.0,HARD,2.0,False,1,False,16.0,21.8,46.1,64.0,False,1.3,80.012,True,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,17.0,3.0,HARD,3.0,False,1,True,16.0,21.6,46.7,64.0,False,1.1,76.561,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,18.0,3.0,HARD,4.0,False,1,True,16.0,21.7,47.2,63.0,False,0.8,76.567,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,19.0,3.0,HARD,5.0,False,1,True,16.0,21.9,46.6,61.0,False,1.3,77.829,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,20.0,3.0,HARD,6.0,False,1,True,16.0,21.9,45.8,62.0,False,0.9,79.124,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,21.0,3.0,HARD,7.0,False,1,True,16.0,21.9,45.8,64.0,False,1.3,80.462,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,22.0,3.0,HARD,8.0,False,1,True,16.0,21.8,45.9,65.0,False,0.5,81.022,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,23.0,3.0,HARD,9.0,False,1,True,16.0,21.7,46.1,63.0,False,1.1,80.75,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,24.0,3.0,HARD,10.0,False,1,True,16.0,21.8,46.3,64.0,False,1.4,80.564,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,25.0,3.0,HARD,11.0,False,1,True,16.0,21.7,45.7,62.0,False,1.3,80.783,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,26.0,3.0,HARD,12.0,False,1,True,16.0,21.8,46.0,64.0,False,0.7,80.851,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,27.0,3.0,HARD,13.0,False,1,True,16.0,21.9,46.0,63.0,False,0.6,81.37,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,28.0,3.0,HARD,14.0,False,1,True,16.0,22.0,45.6,63.0,False,1.7,81.765,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,29.0,3.0,HARD,15.0,False,1,True,16.0,22.0,45.9,62.0,False,0.9,80.857,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,30.0,3.0,HARD,16.0,False,1,True,16.0,22.0,46.4,61.0,False,0.6,81.47,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,31.0,3.0,HARD,17.0,False,1,True,16.0,22.0,45.5,61.0,False,0.9,80.752,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,32.0,3.0,HARD,18.0,False,1,True,16.0,21.9,45.6,62.0,False,1.0,80.658,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,33.0,3.0,HARD,19.0,False,1,True,16.0,22.0,45.9,61.0,False,1.0,80.525,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,34.0,3.0,HARD,20.0,False,1,True,16.0,22.0,45.1,62.0,False,0.9,80.903,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,35.0,3.0,HARD,21.0,False,1,True,16.0,21.9,44.5,65.0,False,0.6,80.254,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,36.0,3.0,HARD,22.0,False,1,True,16.0,21.7,44.4,63.0,False,1.5,81.196,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,37.0,3.0,HARD,23.0,False,1,True,16.0,21.8,44.5,63.0,False,1.0,81.386,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,38.0,3.0,HARD,24.0,False,1,True,16.0,21.8,44.8,62.0,False,0.7,80.948,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,39.0,3.0,HARD,25.0,False,1,True,16.0,21.9,44.4,61.0,False,0.8,83.172,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,40.0,3.0,HARD,26.0,False,1,True,16.0,22.0,44.4,60.0,False,0.8,83.591,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,41.0,3.0,HARD,27.0,False,1,True,16.0,22.0,44.4,62.0,False,0.5,80.23,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,42.0,3.0,HARD,28.0,False,1,True,16.0,21.9,44.8,59.0,False,0.9,82.109,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,43.0,3.0,HARD,29.0,False,1,True,16.0,21.9,44.8,59.0,False,1.0,80.912,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,44.0,3.0,HARD,30.0,False,1,True,16.0,22.0,44.5,58.0,False,0.5,79.772,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,45.0,3.0,HARD,31.0,False,1,True,16.0,21.9,44.5,57.0,False,1.8,80.043,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,46.0,3.0,HARD,32.0,False,1,True,16.0,22.0,44.5,58.0,False,1.8,80.417,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,47.0,3.0,HARD,33.0,False,1,True,16.0,22.0,43.8,57.0,False,0.7,82.969,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,48.0,3.0,HARD,34.0,False,1,True,15.0,22.0,43.7,57.0,False,1.7,80.562,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,49.0,3.0,HARD,35.0,False,1,True,15.0,21.9,43.7,58.0,False,1.0,80.818,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,50.0,3.0,HARD,36.0,False,1,True,14.0,21.8,43.0,58.0,False,0.7,80.239,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,51.0,3.0,HARD,37.0,False,12,True,13.0,21.8,43.2,57.0,False,1.0,77.205,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,52.0,3.0,HARD,38.0,False,1,True,13.0,21.9,43.2,58.0,False,0.8,77.202,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,53.0,3.0,HARD,39.0,False,1,True,13.0,21.9,43.0,59.0,False,1.1,78.456,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,54.0,3.0,HARD,40.0,False,1,True,13.0,21.7,42.5,59.0,False,1.1,79.403,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,55.0,3.0,HARD,41.0,False,1,True,13.0,21.7,42.4,60.0,False,0.9,80.375,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,56.0,3.0,HARD,42.0,False,1,True,13.0,21.6,42.2,60.0,False,0.8,81.657,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,57.0,3.0,HARD,43.0,False,1,True,13.0,21.8,42.2,60.0,False,1.2,78.994,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,58.0,3.0,HARD,44.0,False,1,True,13.0,21.6,41.9,61.0,False,1.1,79.28,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,59.0,3.0,HARD,45.0,False,1,True,13.0,21.5,42.3,61.0,False,0.5,78.999,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,60.0,3.0,HARD,46.0,False,1,True,13.0,21.6,42.0,60.0,False,0.9,79.069,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,61.0,3.0,HARD,47.0,False,1,True,13.0,21.8,42.0,59.0,False,1.2,78.623,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,62.0,3.0,HARD,48.0,False,1,True,13.0,22.0,42.0,60.0,False,0.8,78.964,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,63.0,3.0,HARD,49.0,False,1,True,13.0,21.9,42.0,60.0,False,0.9,79.024,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,64.0,3.0,HARD,50.0,False,1,True,13.0,21.9,41.7,59.0,False,1.2,78.531,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,65.0,3.0,HARD,51.0,False,1,True,13.0,22.0,41.7,59.0,False,1.7,78.642,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,66.0,3.0,HARD,52.0,False,1,True,13.0,21.8,40.9,60.0,False,0.7,78.383,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,67.0,3.0,HARD,53.0,False,1,True,13.0,21.7,41.1,61.0,False,0.8,78.467,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,68.0,3.0,HARD,54.0,False,1,True,13.0,21.8,41.6,60.0,False,0.8,78.052,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,69.0,3.0,HARD,55.0,False,1,True,13.0,21.7,41.1,60.0,False,0.4,78.088,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,70.0,3.0,HARD,56.0,False,1,True,13.0,21.6,41.0,61.0,False,0.7,78.778,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,71.0,3.0,HARD,57.0,False,1,True,13.0,21.6,40.5,62.0,False,0.9,78.104,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,72.0,3.0,HARD,58.0,False,1,True,13.0,21.6,40.5,61.0,False,0.5,78.347,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,73.0,3.0,HARD,59.0,False,1,True,13.0,21.7,40.8,61.0,False,0.7,80.068,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,74.0,3.0,HARD,60.0,False,1,True,13.0,21.7,40.6,61.0,False,0.6,78.318,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,75.0,3.0,HARD,61.0,False,1,True,13.0,21.7,40.6,61.0,False,0.9,78.779,False,78,2024,8,Monaco Grand Prix,2024_08
+BOT,Kick Sauber,76.0,3.0,HARD,62.0,False,1,True,13.0,21.8,40.9,61.0,False,0.8,78.774,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,1.0,1.0,HARD,2.0,False,1254,False,11.0,21.6,48.4,66.0,False,0.6,2502.648,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,2.0,2.0,MEDIUM,2.0,False,41,False,11.0,21.5,48.1,65.0,False,0.8,134.844,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,3.0,2.0,MEDIUM,3.0,False,1,True,11.0,21.6,49.2,65.0,False,0.6,88.303,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,4.0,2.0,MEDIUM,4.0,False,1,True,11.0,21.7,49.2,63.0,False,0.6,83.354,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,5.0,2.0,MEDIUM,5.0,False,1,True,11.0,21.6,48.2,64.0,False,2.0,83.731,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,6.0,2.0,MEDIUM,6.0,False,1,True,11.0,21.6,48.2,63.0,False,1.0,82.977,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,7.0,2.0,MEDIUM,7.0,False,1,True,11.0,21.8,48.7,64.0,False,0.4,82.634,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,8.0,2.0,MEDIUM,8.0,False,1,True,11.0,21.9,47.9,63.0,False,0.9,81.653,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,9.0,2.0,MEDIUM,9.0,False,1,True,11.0,22.0,47.9,64.0,False,1.1,82.09,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,10.0,2.0,MEDIUM,10.0,False,1,True,11.0,22.1,47.4,65.0,False,0.7,81.725,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,11.0,2.0,MEDIUM,11.0,False,1,True,11.0,22.2,47.9,61.0,False,1.3,81.517,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,12.0,2.0,MEDIUM,12.0,False,1,True,11.0,22.3,47.3,63.0,False,0.6,81.471,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,13.0,2.0,MEDIUM,13.0,False,1,True,11.0,22.1,47.2,64.0,False,1.2,81.314,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,14.0,2.0,MEDIUM,14.0,False,1,True,11.0,22.0,47.1,63.0,False,0.5,80.427,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,15.0,2.0,MEDIUM,15.0,False,1,True,11.0,22.0,47.1,62.0,False,1.1,80.781,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,16.0,2.0,MEDIUM,16.0,False,1,True,11.0,21.8,46.1,64.0,False,1.3,81.189,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,17.0,2.0,MEDIUM,17.0,False,1,True,11.0,21.6,46.7,64.0,False,1.1,81.97,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,18.0,2.0,MEDIUM,18.0,False,1,True,11.0,21.7,47.2,63.0,False,0.8,80.698,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,19.0,2.0,MEDIUM,19.0,False,1,True,11.0,21.9,46.6,61.0,False,1.3,80.353,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,20.0,2.0,MEDIUM,20.0,False,1,True,11.0,21.9,45.8,62.0,False,0.9,79.398,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,21.0,2.0,MEDIUM,21.0,False,1,True,11.0,21.9,45.8,64.0,False,1.3,79.016,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,22.0,2.0,MEDIUM,22.0,False,1,True,11.0,21.8,45.9,65.0,False,0.5,81.307,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,23.0,2.0,MEDIUM,23.0,False,1,True,11.0,21.7,46.1,63.0,False,1.1,81.188,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,24.0,2.0,MEDIUM,24.0,False,1,True,11.0,21.8,46.3,64.0,False,1.4,81.621,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,25.0,2.0,MEDIUM,25.0,False,1,True,11.0,21.7,45.7,62.0,False,1.3,80.506,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,26.0,2.0,MEDIUM,26.0,False,1,True,11.0,21.8,46.0,64.0,False,0.7,80.589,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,27.0,2.0,MEDIUM,27.0,False,1,True,11.0,21.9,46.0,63.0,False,0.6,80.307,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,28.0,2.0,MEDIUM,28.0,False,1,True,11.0,22.0,45.6,63.0,False,1.7,80.131,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,29.0,2.0,MEDIUM,29.0,False,1,True,11.0,22.0,45.9,62.0,False,0.9,79.464,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,30.0,2.0,MEDIUM,30.0,False,1,True,11.0,22.0,46.4,61.0,False,0.6,81.422,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,31.0,2.0,MEDIUM,31.0,False,1,True,11.0,22.0,45.5,61.0,False,0.9,82.535,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,32.0,2.0,MEDIUM,32.0,False,1,True,11.0,21.9,45.6,62.0,False,1.0,81.252,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,33.0,2.0,MEDIUM,33.0,False,1,True,11.0,21.9,45.9,62.0,False,0.9,80.536,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,34.0,2.0,MEDIUM,34.0,False,1,True,11.0,22.0,45.1,62.0,False,0.9,79.789,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,35.0,2.0,MEDIUM,35.0,False,1,True,11.0,21.9,44.5,65.0,False,0.6,79.497,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,36.0,2.0,MEDIUM,36.0,False,1,True,11.0,21.8,44.4,64.0,False,1.2,79.297,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,37.0,2.0,MEDIUM,37.0,False,1,True,11.0,21.8,44.5,63.0,False,1.0,79.638,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,38.0,2.0,MEDIUM,38.0,False,1,True,11.0,21.8,44.8,62.0,False,0.7,79.706,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,39.0,2.0,MEDIUM,39.0,False,1,True,11.0,21.8,44.7,62.0,False,0.5,79.867,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,40.0,2.0,MEDIUM,40.0,False,1,True,11.0,22.0,44.4,60.0,False,0.8,80.45,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,41.0,2.0,MEDIUM,41.0,False,1,True,11.0,22.0,44.4,62.0,False,0.5,80.2,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,42.0,2.0,MEDIUM,42.0,False,1,False,11.0,21.9,44.7,61.0,False,0.5,97.062,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,43.0,3.0,HARD,3.0,False,1,False,11.0,21.9,44.8,59.0,False,1.0,82.775,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,44.0,3.0,HARD,4.0,False,1,True,11.0,22.0,44.5,58.0,False,0.5,78.551,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,45.0,3.0,HARD,5.0,False,1,True,11.0,21.9,44.5,57.0,False,1.8,78.806,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,46.0,3.0,HARD,6.0,False,1,True,11.0,22.0,44.5,58.0,False,1.8,78.296,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,47.0,3.0,HARD,7.0,False,1,True,11.0,22.0,43.8,57.0,False,0.7,78.062,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,48.0,3.0,HARD,8.0,False,1,False,16.0,22.0,43.7,57.0,False,1.7,109.132,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,49.0,4.0,SOFT,1.0,True,1,False,16.0,21.9,43.7,58.0,False,1.0,79.089,True,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,50.0,4.0,SOFT,2.0,True,1,True,16.0,21.8,43.0,58.0,False,0.7,77.788,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,51.0,4.0,SOFT,3.0,True,12,True,16.0,21.8,43.2,57.0,False,1.0,76.982,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,52.0,4.0,SOFT,4.0,True,1,True,16.0,21.9,43.2,58.0,False,0.8,77.35,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,53.0,4.0,SOFT,5.0,True,1,True,16.0,21.9,42.8,59.0,False,1.4,81.547,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,54.0,4.0,SOFT,6.0,True,1,True,16.0,21.7,42.5,59.0,False,1.1,80.571,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,55.0,4.0,SOFT,7.0,True,1,True,15.0,21.7,42.4,60.0,False,0.9,79.963,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,56.0,4.0,SOFT,8.0,True,1,True,14.0,21.7,42.4,59.0,False,0.6,77.279,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,57.0,4.0,SOFT,9.0,True,1,True,14.0,21.8,42.2,60.0,False,1.2,76.914,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,58.0,4.0,SOFT,10.0,True,1,True,14.0,21.6,41.9,61.0,False,1.1,77.156,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,59.0,4.0,SOFT,11.0,True,1,True,14.0,21.5,42.3,61.0,False,0.5,76.71,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,60.0,4.0,SOFT,12.0,True,1,True,14.0,21.6,42.0,60.0,False,0.9,77.326,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,61.0,4.0,SOFT,13.0,True,1,True,14.0,21.8,42.0,59.0,False,1.2,78.298,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,62.0,4.0,SOFT,14.0,True,1,True,14.0,22.0,42.0,60.0,False,0.8,79.07,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,63.0,4.0,SOFT,15.0,True,1,True,14.0,21.9,42.0,60.0,False,0.9,79.1,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,64.0,4.0,SOFT,16.0,True,1,True,14.0,21.9,41.7,59.0,False,1.2,78.425,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,65.0,4.0,SOFT,17.0,True,1,True,14.0,22.0,41.7,59.0,False,1.7,78.732,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,66.0,4.0,SOFT,18.0,True,1,True,14.0,21.8,40.9,60.0,False,0.7,78.748,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,67.0,4.0,SOFT,19.0,True,1,True,14.0,21.7,41.1,61.0,False,0.8,78.636,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,68.0,4.0,SOFT,20.0,True,1,True,14.0,21.8,41.6,60.0,False,0.8,78.057,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,69.0,4.0,SOFT,21.0,True,1,True,14.0,21.7,41.1,60.0,False,0.4,78.275,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,70.0,4.0,SOFT,22.0,True,1,True,14.0,21.6,41.0,61.0,False,0.7,78.557,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,71.0,4.0,SOFT,23.0,True,1,True,14.0,21.6,40.5,62.0,False,0.9,78.464,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,72.0,4.0,SOFT,24.0,True,1,True,14.0,21.6,40.5,61.0,False,0.5,78.332,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,73.0,4.0,SOFT,25.0,True,1,True,14.0,21.7,40.8,61.0,False,0.7,80.709,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,74.0,4.0,SOFT,26.0,True,1,True,14.0,21.7,40.6,61.0,False,0.6,78.23,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,75.0,4.0,SOFT,27.0,True,1,True,14.0,21.7,40.6,61.0,False,0.9,78.511,False,78,2024,8,Monaco Grand Prix,2024_08
+STR,Aston Martin,76.0,4.0,SOFT,28.0,True,1,True,14.0,21.8,40.9,61.0,False,0.8,78.623,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,1.0,1.0,HARD,1.0,True,1254,False,14.0,21.6,48.4,66.0,False,0.6,2516.858,True,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,2.0,2.0,HARD,2.0,False,41,False,14.0,21.5,48.1,66.0,False,0.7,121.235,True,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,3.0,2.0,HARD,3.0,False,1,True,15.0,21.6,49.2,65.0,False,0.6,90.077,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,4.0,2.0,HARD,4.0,False,1,True,15.0,21.7,49.2,63.0,False,0.6,83.682,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,5.0,2.0,HARD,5.0,False,1,True,15.0,21.6,48.2,64.0,False,2.0,83.674,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,6.0,2.0,HARD,6.0,False,1,True,15.0,21.6,48.2,63.0,False,1.0,82.739,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,7.0,2.0,HARD,7.0,False,1,True,15.0,21.8,48.7,64.0,False,0.4,82.899,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,8.0,2.0,HARD,8.0,False,1,True,15.0,21.9,47.9,63.0,False,0.9,82.221,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,9.0,2.0,HARD,9.0,False,1,True,15.0,22.0,47.9,64.0,False,1.1,81.679,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,10.0,2.0,HARD,10.0,False,1,True,15.0,22.1,47.4,65.0,False,0.7,81.944,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,11.0,2.0,HARD,11.0,False,1,True,15.0,22.2,47.9,61.0,False,1.3,81.492,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,12.0,2.0,HARD,12.0,False,1,True,15.0,22.3,47.3,63.0,False,0.6,81.404,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,13.0,2.0,HARD,13.0,False,1,True,15.0,22.0,47.1,62.0,False,1.2,81.499,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,14.0,2.0,HARD,14.0,False,1,True,15.0,22.0,47.1,63.0,False,0.5,81.219,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,15.0,2.0,HARD,15.0,False,1,True,14.0,22.0,47.1,62.0,False,1.1,81.34,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,16.0,2.0,HARD,16.0,False,1,True,14.0,21.8,46.1,64.0,False,1.3,80.646,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,17.0,2.0,HARD,17.0,False,1,True,14.0,21.6,46.7,64.0,False,1.1,81.016,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,18.0,2.0,HARD,18.0,False,1,True,14.0,21.7,47.2,63.0,False,0.8,81.031,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,19.0,2.0,HARD,19.0,False,1,True,14.0,21.9,46.6,61.0,False,1.3,81.221,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,20.0,2.0,HARD,20.0,False,1,True,14.0,21.9,45.8,62.0,False,0.9,80.853,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,21.0,2.0,HARD,21.0,False,1,True,14.0,21.9,45.8,64.0,False,1.3,80.849,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,22.0,2.0,HARD,22.0,False,1,True,14.0,21.8,45.9,65.0,False,0.5,80.897,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,23.0,2.0,HARD,23.0,False,1,True,14.0,21.7,46.1,63.0,False,1.1,80.593,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,24.0,2.0,HARD,24.0,False,1,True,14.0,21.8,46.3,64.0,False,1.4,80.395,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,25.0,2.0,HARD,25.0,False,1,True,14.0,21.7,45.7,62.0,False,1.3,80.903,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,26.0,2.0,HARD,26.0,False,1,True,14.0,21.8,46.0,64.0,False,0.7,80.929,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,27.0,2.0,HARD,27.0,False,1,True,14.0,21.9,46.0,63.0,False,0.6,81.231,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,28.0,2.0,HARD,28.0,False,1,True,14.0,22.0,45.6,63.0,False,1.7,81.604,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,29.0,2.0,HARD,29.0,False,1,True,14.0,22.0,45.9,62.0,False,0.9,81.334,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,30.0,2.0,HARD,30.0,False,1,True,14.0,22.0,46.4,61.0,False,0.6,80.84,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,31.0,2.0,HARD,31.0,False,1,True,14.0,22.0,45.5,61.0,False,0.9,80.775,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,32.0,2.0,HARD,32.0,False,1,True,14.0,21.9,45.6,62.0,False,1.0,80.797,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,33.0,2.0,HARD,33.0,False,1,True,14.0,22.0,45.9,61.0,False,1.0,80.53,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,34.0,2.0,HARD,34.0,False,1,True,14.0,22.0,45.1,62.0,False,0.9,80.738,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,35.0,2.0,HARD,35.0,False,1,True,14.0,21.9,44.5,65.0,False,0.6,80.584,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,36.0,2.0,HARD,36.0,False,1,True,14.0,21.7,44.4,63.0,False,1.5,81.134,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,37.0,2.0,HARD,37.0,False,1,True,14.0,21.8,44.5,63.0,False,1.0,81.404,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,38.0,2.0,HARD,38.0,False,1,True,14.0,21.8,44.8,62.0,False,0.7,81.131,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,39.0,2.0,HARD,39.0,False,1,True,14.0,21.9,44.4,61.0,False,0.8,81.273,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,40.0,2.0,HARD,40.0,False,1,True,14.0,22.0,44.4,60.0,False,0.8,81.78,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,41.0,2.0,HARD,41.0,False,1,True,14.0,22.0,44.4,62.0,False,0.5,84.378,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,42.0,2.0,HARD,42.0,False,1,True,14.0,21.9,44.8,59.0,False,0.9,81.87,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,43.0,2.0,HARD,43.0,False,1,True,14.0,21.9,44.8,59.0,False,1.0,80.552,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,44.0,2.0,HARD,44.0,False,1,True,14.0,22.0,44.5,58.0,False,0.5,79.511,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,45.0,2.0,HARD,45.0,False,1,True,14.0,21.9,44.5,57.0,False,1.8,80.72,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,46.0,2.0,HARD,46.0,False,1,True,14.0,22.0,44.5,58.0,False,1.8,80.124,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,47.0,2.0,HARD,47.0,False,1,True,14.0,22.0,43.8,57.0,False,0.7,79.888,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,48.0,2.0,HARD,48.0,False,1,True,13.0,22.0,43.7,57.0,False,1.7,80.97,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,49.0,2.0,HARD,49.0,False,1,True,13.0,21.9,43.7,58.0,False,1.0,83.966,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,50.0,2.0,HARD,50.0,False,1,True,13.0,21.8,43.0,58.0,False,0.7,80.292,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,51.0,2.0,HARD,51.0,False,12,True,14.0,21.8,43.2,57.0,False,1.0,81.817,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,52.0,2.0,HARD,52.0,False,1,True,14.0,21.9,43.2,58.0,False,0.8,80.78,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,53.0,2.0,HARD,53.0,False,1,True,14.0,21.9,42.8,59.0,False,1.4,81.318,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,54.0,2.0,HARD,54.0,False,1,True,14.0,21.7,42.5,59.0,False,1.1,82.289,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,55.0,2.0,HARD,55.0,False,1,True,14.0,21.7,42.4,60.0,False,0.9,80.342,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,56.0,2.0,HARD,56.0,False,1,True,15.0,21.7,42.4,59.0,False,0.6,81.474,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,57.0,2.0,HARD,57.0,False,1,False,16.0,21.8,42.2,60.0,False,1.2,97.746,True,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,58.0,3.0,MEDIUM,1.0,True,1,False,16.0,21.5,42.3,61.0,False,0.5,79.809,True,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,59.0,3.0,MEDIUM,2.0,True,1,True,16.0,21.6,42.3,60.0,False,0.6,75.594,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,60.0,3.0,MEDIUM,3.0,True,1,True,16.0,21.6,42.0,60.0,False,0.9,75.58,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,61.0,3.0,MEDIUM,4.0,True,1,True,16.0,21.8,42.0,59.0,False,1.2,75.558,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,62.0,3.0,MEDIUM,5.0,True,1,True,16.0,21.9,41.2,60.0,False,0.8,75.525,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,63.0,3.0,MEDIUM,6.0,True,1,True,16.0,21.9,42.0,60.0,False,0.9,75.688,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,64.0,3.0,MEDIUM,7.0,True,1,True,16.0,21.9,41.7,59.0,False,1.2,76.895,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,65.0,3.0,MEDIUM,8.0,True,1,True,16.0,22.0,41.6,60.0,False,1.0,79.869,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,66.0,3.0,MEDIUM,9.0,True,1,True,16.0,21.8,40.9,60.0,False,0.7,80.799,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,67.0,3.0,MEDIUM,10.0,True,1,True,16.0,21.7,41.1,61.0,False,0.8,80.347,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,68.0,3.0,MEDIUM,11.0,True,1,True,15.0,21.8,41.6,60.0,False,1.0,80.004,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,69.0,3.0,MEDIUM,12.0,True,1,True,15.0,21.7,41.1,60.0,False,0.4,76.077,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,70.0,3.0,MEDIUM,13.0,True,1,True,15.0,21.6,41.0,61.0,False,0.7,76.866,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,71.0,3.0,MEDIUM,14.0,True,1,True,15.0,21.6,40.5,62.0,False,0.9,76.326,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,72.0,3.0,MEDIUM,15.0,True,1,True,15.0,21.7,40.8,61.0,False,1.1,76.402,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,73.0,3.0,MEDIUM,16.0,True,1,True,15.0,21.7,40.8,61.0,False,0.7,76.37,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,74.0,3.0,MEDIUM,17.0,True,1,True,15.0,21.7,40.6,61.0,False,0.6,76.863,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,75.0,3.0,MEDIUM,18.0,True,1,True,15.0,21.8,40.9,61.0,False,1.2,76.324,False,78,2024,8,Monaco Grand Prix,2024_08
+SAR,Williams,76.0,3.0,MEDIUM,19.0,True,1,True,15.0,21.8,40.9,61.0,False,0.8,77.197,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1254,False,16.0,21.6,48.4,66.0,False,0.6,2526.253,True,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,2.0,2.0,HARD,1.0,True,41,False,16.0,21.5,48.1,66.0,False,0.7,112.131,True,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,3.0,2.0,HARD,2.0,True,1,True,16.0,21.6,49.2,65.0,False,0.6,90.396,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,4.0,2.0,HARD,3.0,True,1,True,16.0,21.7,49.2,63.0,False,0.6,83.698,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,5.0,2.0,HARD,4.0,True,1,True,16.0,21.6,48.2,64.0,False,2.0,83.494,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,6.0,2.0,HARD,5.0,True,1,True,16.0,21.6,48.2,63.0,False,1.0,82.649,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,7.0,2.0,HARD,6.0,True,1,True,16.0,21.8,48.7,64.0,False,0.4,82.934,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,8.0,2.0,HARD,7.0,True,1,True,16.0,21.9,47.9,63.0,False,0.9,82.182,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,9.0,2.0,HARD,8.0,True,1,True,16.0,22.0,47.9,64.0,False,1.1,81.81,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,10.0,2.0,HARD,9.0,True,1,True,16.0,22.1,47.4,65.0,False,0.7,81.944,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,11.0,2.0,HARD,10.0,True,1,True,16.0,22.2,47.9,61.0,False,1.3,81.563,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,12.0,2.0,HARD,11.0,True,1,True,16.0,22.3,47.3,63.0,False,0.6,81.193,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,13.0,2.0,HARD,12.0,True,1,True,16.0,22.0,47.1,62.0,False,1.2,81.529,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,14.0,2.0,HARD,13.0,True,1,True,16.0,22.0,47.1,63.0,False,0.5,81.264,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,15.0,2.0,HARD,14.0,True,1,True,15.0,22.0,47.1,62.0,False,1.1,81.447,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,16.0,2.0,HARD,15.0,True,1,True,15.0,21.8,46.1,64.0,False,1.3,80.481,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,17.0,2.0,HARD,16.0,True,1,True,15.0,21.6,46.7,64.0,False,1.1,80.979,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,18.0,2.0,HARD,17.0,True,1,True,15.0,21.7,47.2,63.0,False,0.8,80.911,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,19.0,2.0,HARD,18.0,True,1,True,15.0,21.9,46.6,61.0,False,1.3,81.42,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,20.0,2.0,HARD,19.0,True,1,True,15.0,21.9,45.8,62.0,False,0.9,80.904,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,21.0,2.0,HARD,20.0,True,1,True,15.0,21.9,45.8,64.0,False,1.3,80.669,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,22.0,2.0,HARD,21.0,True,1,True,15.0,21.8,45.9,65.0,False,0.5,81.083,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,23.0,2.0,HARD,22.0,True,1,True,15.0,21.7,46.1,63.0,False,1.1,80.792,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,24.0,2.0,HARD,23.0,True,1,True,15.0,21.8,46.3,64.0,False,1.4,80.347,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,25.0,2.0,HARD,24.0,True,1,True,15.0,21.7,45.7,62.0,False,1.3,80.763,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,26.0,2.0,HARD,25.0,True,1,True,15.0,21.8,46.0,64.0,False,0.7,80.869,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,27.0,2.0,HARD,26.0,True,1,True,15.0,21.9,46.0,63.0,False,0.6,81.293,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,28.0,2.0,HARD,27.0,True,1,True,15.0,22.0,45.6,63.0,False,1.7,81.516,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,29.0,2.0,HARD,28.0,True,1,True,15.0,22.0,45.9,62.0,False,0.9,81.338,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,30.0,2.0,HARD,29.0,True,1,True,15.0,22.0,46.4,61.0,False,0.6,81.044,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,31.0,2.0,HARD,30.0,True,1,True,15.0,22.0,45.5,61.0,False,0.9,80.806,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,32.0,2.0,HARD,31.0,True,1,True,15.0,21.9,45.6,62.0,False,1.0,80.782,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,33.0,2.0,HARD,32.0,True,1,True,15.0,22.0,45.9,61.0,False,1.0,80.677,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,34.0,2.0,HARD,33.0,True,1,True,15.0,22.0,45.1,62.0,False,0.9,80.736,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,35.0,2.0,HARD,34.0,True,1,True,15.0,21.9,44.5,65.0,False,0.6,80.372,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,36.0,2.0,HARD,35.0,True,1,True,15.0,21.7,44.4,63.0,False,1.5,80.986,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,37.0,2.0,HARD,36.0,True,1,True,15.0,21.8,44.5,63.0,False,1.0,81.449,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,38.0,2.0,HARD,37.0,True,1,True,15.0,21.8,44.8,62.0,False,0.7,81.09,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,39.0,2.0,HARD,38.0,True,1,True,15.0,21.9,44.4,61.0,False,0.8,81.233,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,40.0,2.0,HARD,39.0,True,1,True,15.0,22.0,44.4,60.0,False,0.8,84.969,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,41.0,2.0,HARD,40.0,True,1,True,15.0,22.0,44.4,62.0,False,0.5,81.127,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,42.0,2.0,HARD,41.0,True,1,True,15.0,21.9,44.8,59.0,False,0.9,81.957,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,43.0,2.0,HARD,42.0,True,1,True,15.0,21.9,44.8,59.0,False,1.0,80.578,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,44.0,2.0,HARD,43.0,True,1,True,15.0,22.0,44.5,58.0,False,0.5,79.61,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,45.0,2.0,HARD,44.0,True,1,True,15.0,21.9,44.5,57.0,False,1.8,80.686,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,46.0,2.0,HARD,45.0,True,1,True,15.0,22.0,44.5,58.0,False,1.8,80.146,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,47.0,2.0,HARD,46.0,True,1,True,15.0,22.0,43.8,57.0,False,0.7,80.075,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,48.0,2.0,HARD,47.0,True,1,True,14.0,22.0,43.7,57.0,False,1.7,82.481,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,49.0,2.0,HARD,48.0,True,1,True,14.0,21.9,43.7,58.0,False,1.0,82.134,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,50.0,2.0,HARD,49.0,True,1,True,15.0,21.8,43.0,58.0,False,0.7,80.946,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,51.0,2.0,HARD,50.0,True,12,True,15.0,21.8,43.2,57.0,False,1.0,80.962,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,52.0,2.0,HARD,51.0,True,1,True,15.0,21.9,43.2,58.0,False,0.8,80.97,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,53.0,2.0,HARD,52.0,True,1,True,15.0,21.9,42.8,59.0,False,1.4,81.375,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,54.0,2.0,HARD,53.0,True,1,True,15.0,21.7,42.5,59.0,False,1.1,82.153,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,55.0,2.0,HARD,54.0,True,1,True,16.0,21.7,42.4,60.0,False,0.9,81.399,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,56.0,2.0,HARD,55.0,True,1,True,16.0,21.7,42.4,59.0,False,0.6,80.315,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,57.0,2.0,HARD,56.0,True,1,True,15.0,21.8,42.2,60.0,False,1.2,81.119,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,58.0,2.0,HARD,57.0,True,1,True,15.0,21.6,41.9,61.0,False,1.1,78.795,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,59.0,2.0,HARD,58.0,True,1,True,15.0,21.6,42.3,60.0,False,0.6,77.936,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,60.0,2.0,HARD,59.0,True,1,True,15.0,21.6,42.0,60.0,False,0.9,78.545,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,61.0,2.0,HARD,60.0,True,1,True,15.0,21.8,42.0,59.0,False,1.2,78.707,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,62.0,2.0,HARD,61.0,True,1,True,15.0,21.9,41.2,60.0,False,0.8,78.817,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,63.0,2.0,HARD,62.0,True,1,True,15.0,21.9,42.0,60.0,False,0.9,78.789,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,64.0,2.0,HARD,63.0,True,1,True,15.0,21.9,41.7,59.0,False,1.2,79.295,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,65.0,2.0,HARD,64.0,True,1,True,15.0,22.0,41.6,60.0,False,1.0,79.719,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,66.0,2.0,HARD,65.0,True,1,True,15.0,21.8,40.9,60.0,False,0.7,79.749,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,67.0,2.0,HARD,66.0,True,1,True,15.0,21.7,41.1,61.0,False,0.8,80.357,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,68.0,2.0,HARD,67.0,True,1,True,16.0,21.8,41.6,60.0,False,1.0,85.217,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,69.0,2.0,HARD,68.0,True,1,True,16.0,21.7,41.1,60.0,False,0.4,80.484,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,70.0,2.0,HARD,69.0,True,1,False,16.0,21.6,41.0,61.0,False,0.7,100.898,True,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,71.0,3.0,SOFT,1.0,True,1,False,16.0,21.6,40.5,61.0,False,0.5,85.295,True,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,72.0,3.0,SOFT,2.0,True,1,True,16.0,21.7,40.8,61.0,False,1.1,80.585,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,73.0,3.0,SOFT,3.0,True,1,True,16.0,21.7,40.6,61.0,False,0.6,75.233,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,74.0,3.0,SOFT,4.0,True,1,True,16.0,21.7,40.6,61.0,False,0.9,80.473,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,75.0,3.0,SOFT,5.0,True,1,True,16.0,21.8,40.9,61.0,False,1.2,74.718,False,78,2024,8,Monaco Grand Prix,2024_08
+ZHO,Kick Sauber,76.0,3.0,SOFT,6.0,True,1,True,16.0,21.8,40.2,62.0,False,0.8,77.173,False,78,2024,8,Monaco Grand Prix,2024_08
+OCO,Alpine,1.0,1.0,HARD,1.0,True,1254,False,,21.6,48.4,66.0,False,0.6,,False,78,2024,8,Monaco Grand Prix,2024_08
+PER,Red Bull Racing,1.0,1.0,HARD,1.0,True,1254,False,,21.6,48.4,66.0,False,0.6,,False,78,2024,8,Monaco Grand Prix,2024_08
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1254,False,,21.6,48.4,66.0,False,0.6,,False,78,2024,8,Monaco Grand Prix,2024_08
+MAG,Haas F1 Team,1.0,1.0,HARD,1.0,True,1254,False,,21.6,48.4,66.0,False,0.6,,False,78,2024,8,Monaco Grand Prix,2024_08

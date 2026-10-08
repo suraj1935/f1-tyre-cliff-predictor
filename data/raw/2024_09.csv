@@ -1,0 +1,1273 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,2.0,16.3,20.7,77.0,True,1.4,104.993,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,1,True,2.0,16.3,20.7,76.0,True,1.5,97.672,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,1,True,2.0,16.2,20.4,74.0,True,1.4,96.443,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,1,True,2.0,16.2,20.0,75.0,True,0.7,95.105,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,1,True,2.0,16.0,19.9,78.0,True,0.9,93.859,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,12,True,2.0,16.0,20.0,78.0,True,1.7,92.634,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,1,True,2.0,16.0,20.1,79.0,True,0.5,91.258,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,2.0,16.0,20.5,80.0,True,1.3,90.766,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,2.0,16.1,23.0,78.0,True,0.7,90.159,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,2.0,16.5,24.5,78.0,False,1.2,89.295,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,1,True,2.0,16.8,24.8,76.0,False,1.2,89.7,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,12.0,1.0,INTERMEDIATE,12.0,True,1,True,2.0,17.3,25.7,78.0,False,0.5,88.991,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,13.0,1.0,INTERMEDIATE,13.0,True,1,True,2.0,17.4,25.8,74.0,False,0.6,88.532,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,14.0,1.0,INTERMEDIATE,14.0,True,1,True,2.0,17.5,25.9,74.0,False,1.4,88.527,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,15.0,1.0,INTERMEDIATE,15.0,True,1,True,2.0,17.5,26.1,72.0,False,1.5,88.637,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,16.0,1.0,INTERMEDIATE,16.0,True,1,True,2.0,17.7,26.3,72.0,False,1.9,88.138,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,17.0,1.0,INTERMEDIATE,17.0,True,1,True,2.0,17.9,26.3,73.0,False,1.2,89.256,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,18.0,1.0,INTERMEDIATE,18.0,True,1,True,2.0,17.9,26.7,70.0,False,0.8,86.436,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,19.0,1.0,INTERMEDIATE,19.0,True,1,True,2.0,18.0,26.7,71.0,False,1.1,86.001,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,20.0,1.0,INTERMEDIATE,20.0,True,1,True,3.0,18.0,26.6,72.0,False,1.6,86.265,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,21.0,1.0,INTERMEDIATE,21.0,True,1,True,2.0,18.2,27.0,72.0,False,0.7,86.578,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,22.0,1.0,INTERMEDIATE,22.0,True,1,True,2.0,18.2,27.0,71.0,False,0.9,86.59,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,23.0,1.0,INTERMEDIATE,23.0,True,1,True,2.0,18.3,27.3,71.0,False,1.2,86.591,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,24.0,1.0,INTERMEDIATE,24.0,True,1,True,2.0,18.3,27.3,71.0,False,1.2,87.034,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,25.0,1.0,INTERMEDIATE,25.0,True,124,False,2.0,18.4,26.1,71.0,False,1.1,113.896,True,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,26.0,2.0,INTERMEDIATE,1.0,True,4,False,1.0,18.3,24.5,71.0,False,1.1,109.849,True,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,27.0,2.0,INTERMEDIATE,2.0,True,4,False,1.0,18.2,24.4,71.0,False,0.7,130.108,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,28.0,2.0,INTERMEDIATE,3.0,True,4,False,1.0,18.1,23.7,72.0,False,0.6,128.316,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,29.0,2.0,INTERMEDIATE,4.0,True,412,False,1.0,18.0,22.8,70.0,True,1.8,133.946,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,30.0,2.0,INTERMEDIATE,5.0,True,1,True,1.0,18.0,22.8,72.0,False,1.1,86.187,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,31.0,2.0,INTERMEDIATE,6.0,True,1,True,1.0,17.9,22.5,72.0,True,0.7,89.219,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,32.0,2.0,INTERMEDIATE,7.0,True,1,True,1.0,17.7,22.3,73.0,True,0.8,90.715,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,33.0,2.0,INTERMEDIATE,8.0,True,1,True,1.0,17.6,22.0,74.0,True,1.1,89.528,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,34.0,2.0,INTERMEDIATE,9.0,True,1,True,1.0,17.4,21.5,76.0,True,0.7,87.754,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,35.0,2.0,INTERMEDIATE,10.0,True,1,True,1.0,17.4,21.5,76.0,True,0.8,86.792,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,36.0,2.0,INTERMEDIATE,11.0,True,1,True,1.0,17.2,21.3,76.0,True,0.8,86.269,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,37.0,2.0,INTERMEDIATE,12.0,True,1,True,1.0,17.1,21.2,76.0,False,0.4,85.748,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,38.0,2.0,INTERMEDIATE,13.0,True,1,True,1.0,17.0,21.3,76.0,False,0.8,85.386,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,39.0,2.0,INTERMEDIATE,14.0,True,1,True,1.0,17.1,21.2,76.0,False,0.7,84.859,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,40.0,2.0,INTERMEDIATE,15.0,True,1,True,1.0,17.1,21.2,76.0,False,1.5,84.711,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,41.0,2.0,INTERMEDIATE,16.0,True,12,True,1.0,17.2,21.3,76.0,False,0.8,84.159,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,42.0,2.0,INTERMEDIATE,17.0,True,1,True,1.0,17.2,22.3,77.0,False,0.6,84.079,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,43.0,2.0,INTERMEDIATE,18.0,True,1,True,1.0,17.5,23.9,77.0,False,0.5,84.292,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,44.0,2.0,INTERMEDIATE,19.0,True,1,True,1.0,17.7,24.9,77.0,False,0.8,84.381,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,45.0,2.0,INTERMEDIATE,20.0,True,1,False,2.0,17.9,25.7,75.0,False,0.5,100.612,True,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,46.0,3.0,MEDIUM,1.0,True,1,False,2.0,18.4,26.1,74.0,False,0.8,90.823,True,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,47.0,3.0,MEDIUM,2.0,True,1,True,2.0,18.5,26.9,75.0,False,1.2,82.905,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,48.0,3.0,MEDIUM,3.0,True,1,True,1.0,18.7,27.0,73.0,False,0.9,80.47,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,49.0,3.0,MEDIUM,4.0,True,12,True,1.0,18.7,26.7,73.0,False,0.7,79.401,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,50.0,3.0,MEDIUM,5.0,True,1,True,1.0,18.9,26.4,74.0,False,0.8,78.596,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,51.0,3.0,MEDIUM,6.0,True,1,True,1.0,18.8,27.0,76.0,False,0.5,78.109,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,52.0,3.0,MEDIUM,7.0,True,12,True,1.0,18.9,27.0,74.0,False,0.9,77.905,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,53.0,3.0,MEDIUM,8.0,True,12,True,1.0,19.0,26.9,72.0,False,1.1,77.251,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,54.0,3.0,MEDIUM,9.0,True,24,False,1.0,19.0,27.1,72.0,False,1.6,99.889,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,55.0,3.0,MEDIUM,10.0,True,4,False,1.0,18.9,27.0,70.0,False,1.0,130.789,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,56.0,3.0,MEDIUM,11.0,True,4,False,1.0,18.8,26.9,71.0,False,1.3,123.992,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,57.0,3.0,MEDIUM,12.0,True,4,False,1.0,18.7,26.9,71.0,False,0.6,116.657,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,58.0,3.0,MEDIUM,13.0,True,41,False,1.0,18.8,26.1,70.0,False,1.4,135.564,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,59.0,3.0,MEDIUM,14.0,True,1,True,1.0,18.8,25.8,72.0,False,1.5,78.361,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,60.0,3.0,MEDIUM,15.0,True,1,True,1.0,18.8,25.7,71.0,False,1.9,77.472,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,61.0,3.0,MEDIUM,16.0,True,1,True,1.0,18.9,26.9,72.0,False,1.1,76.625,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,62.0,3.0,MEDIUM,17.0,True,1,True,1.0,19.0,26.9,72.0,False,1.3,76.318,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,63.0,3.0,MEDIUM,18.0,True,1,True,1.0,19.1,26.8,70.0,False,2.4,75.983,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,64.0,3.0,MEDIUM,19.0,True,1,True,1.0,19.1,26.7,70.0,False,2.8,75.83,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,65.0,3.0,MEDIUM,20.0,True,1,True,1.0,18.9,27.8,70.0,False,1.7,75.882,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,66.0,3.0,MEDIUM,21.0,True,12,True,1.0,18.7,28.0,68.0,False,3.1,75.823,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,67.0,3.0,MEDIUM,22.0,True,21,True,1.0,18.6,28.0,68.0,False,2.6,75.77,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,68.0,3.0,MEDIUM,23.0,True,1,True,1.0,18.6,28.2,68.0,False,2.2,75.742,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,69.0,3.0,MEDIUM,24.0,True,1,True,1.0,18.5,27.8,69.0,False,1.1,75.935,False,70,2024,9,Canadian Grand Prix,2024_09
+VER,Red Bull Racing,70.0,3.0,MEDIUM,25.0,True,1,True,1.0,18.4,27.0,69.0,False,2.1,75.569,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,1.0,1.0,INTERMEDIATE,1.0,True,12,False,18.0,16.3,20.7,77.0,True,1.4,120.661,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,2.0,1.0,INTERMEDIATE,2.0,True,1,True,18.0,16.3,20.7,76.0,True,1.5,103.105,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,3.0,1.0,INTERMEDIATE,3.0,True,1,True,18.0,16.2,20.4,74.0,True,1.4,100.496,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,4.0,1.0,INTERMEDIATE,4.0,True,1,True,18.0,16.0,19.9,76.0,True,1.3,98.907,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,5.0,1.0,INTERMEDIATE,5.0,True,1,True,18.0,15.9,19.9,78.0,True,0.8,98.846,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,6.0,1.0,INTERMEDIATE,6.0,True,12,True,17.0,16.0,20.0,78.0,True,1.7,96.574,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,7.0,1.0,INTERMEDIATE,7.0,True,1,True,17.0,15.9,20.3,77.0,True,1.4,95.344,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,8.0,1.0,INTERMEDIATE,8.0,True,1,True,17.0,16.0,20.5,80.0,True,1.3,92.862,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,9.0,1.0,INTERMEDIATE,9.0,True,1,True,17.0,16.5,23.8,78.0,True,1.1,91.76,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,10.0,1.0,INTERMEDIATE,10.0,True,1,True,17.0,16.5,24.5,78.0,False,1.2,91.486,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,11.0,1.0,INTERMEDIATE,11.0,True,1,True,17.0,17.0,25.3,79.0,False,0.7,93.319,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,12.0,1.0,INTERMEDIATE,12.0,True,1,True,16.0,17.4,25.8,74.0,False,0.6,89.961,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,13.0,1.0,INTERMEDIATE,13.0,True,1,True,16.0,17.5,25.8,72.0,False,1.1,90.82,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,14.0,1.0,INTERMEDIATE,14.0,True,1,True,16.0,17.5,26.1,72.0,False,1.5,90.358,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,15.0,1.0,INTERMEDIATE,15.0,True,1,True,16.0,17.6,26.3,73.0,False,1.5,89.896,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,16.0,1.0,INTERMEDIATE,16.0,True,1,True,16.0,17.9,26.3,73.0,False,1.2,88.456,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,17.0,1.0,INTERMEDIATE,17.0,True,1,True,16.0,17.9,26.5,72.0,False,1.0,87.982,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,18.0,1.0,INTERMEDIATE,18.0,True,1,True,16.0,17.9,26.7,70.0,False,0.8,88.933,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,19.0,1.0,INTERMEDIATE,19.0,True,1,True,16.0,18.0,26.6,72.0,False,1.6,87.412,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,20.0,1.0,INTERMEDIATE,20.0,True,1,True,16.0,18.1,26.7,71.0,False,0.9,86.818,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,21.0,1.0,INTERMEDIATE,21.0,True,1,True,15.0,18.2,27.0,71.0,False,0.9,87.756,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,22.0,1.0,INTERMEDIATE,22.0,True,1,True,15.0,18.2,26.9,72.0,False,0.6,85.165,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,23.0,1.0,INTERMEDIATE,23.0,True,1,True,15.0,18.3,27.3,71.0,False,1.2,85.084,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,24.0,1.0,INTERMEDIATE,24.0,True,12,True,15.0,18.4,27.2,71.0,False,0.8,87.539,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,25.0,1.0,INTERMEDIATE,25.0,True,24,False,16.0,18.5,25.2,70.0,False,1.0,128.873,True,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,26.0,2.0,INTERMEDIATE,1.0,True,4,False,16.0,18.2,24.4,71.0,False,0.7,113.4,True,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,27.0,2.0,INTERMEDIATE,2.0,True,4,False,16.0,18.2,23.8,72.0,False,0.0,103.122,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,28.0,2.0,INTERMEDIATE,3.0,True,4,False,15.0,18.1,23.7,72.0,False,0.6,101.97,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,29.0,2.0,INTERMEDIATE,4.0,True,412,False,15.0,18.0,22.8,70.0,True,1.8,116.579,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,30.0,2.0,INTERMEDIATE,5.0,True,1,True,15.0,18.0,22.8,72.0,False,1.1,89.531,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,31.0,2.0,INTERMEDIATE,6.0,True,1,True,14.0,17.7,22.4,73.0,True,0.5,92.523,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,32.0,2.0,INTERMEDIATE,7.0,True,1,True,14.0,17.7,22.3,73.0,True,0.8,91.747,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,33.0,2.0,INTERMEDIATE,8.0,True,1,True,14.0,17.5,21.7,75.0,True,0.5,90.925,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,34.0,2.0,INTERMEDIATE,9.0,True,1,True,14.0,17.4,21.5,76.0,True,0.7,88.934,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,35.0,2.0,INTERMEDIATE,10.0,True,1,True,14.0,17.3,21.5,77.0,True,1.0,88.432,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,36.0,2.0,INTERMEDIATE,11.0,True,1,True,14.0,17.2,21.3,76.0,True,0.8,87.6,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,37.0,2.0,INTERMEDIATE,12.0,True,1,True,14.0,17.0,21.3,75.0,False,1.5,87.643,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,38.0,2.0,INTERMEDIATE,13.0,True,1,True,14.0,17.0,21.3,76.0,False,0.8,86.753,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,39.0,2.0,INTERMEDIATE,14.0,True,1,True,14.0,17.1,21.2,76.0,False,0.7,87.411,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,40.0,2.0,INTERMEDIATE,15.0,True,1,False,18.0,17.1,21.2,76.0,False,1.2,102.267,True,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,41.0,3.0,HARD,1.0,True,12,False,18.0,17.2,22.3,77.0,False,0.6,100.549,True,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,42.0,3.0,HARD,2.0,True,1,True,18.0,17.3,22.9,75.0,False,1.2,87.188,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,43.0,3.0,HARD,3.0,True,1,True,17.0,17.7,24.9,77.0,False,0.8,83.906,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,44.0,3.0,HARD,4.0,True,1,True,16.0,17.9,25.7,75.0,False,0.5,84.981,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,45.0,3.0,HARD,5.0,True,1,True,15.0,18.4,26.1,74.0,False,0.8,83.452,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,46.0,3.0,HARD,6.0,True,1,True,15.0,18.5,26.3,77.0,False,0.7,82.775,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,47.0,3.0,HARD,7.0,True,1,True,14.0,18.5,26.9,75.0,False,1.2,80.553,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,48.0,3.0,HARD,8.0,True,1,True,14.0,18.7,26.7,73.0,False,0.7,81.407,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,49.0,3.0,HARD,9.0,True,12,True,14.0,18.9,26.4,74.0,False,1.8,80.718,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,50.0,3.0,HARD,10.0,True,1,True,14.0,18.9,26.4,74.0,False,0.8,79.854,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,51.0,3.0,HARD,11.0,True,1,True,14.0,18.9,27.0,74.0,False,0.9,78.939,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,52.0,3.0,HARD,12.0,True,12,True,13.0,18.9,27.0,74.0,False,1.6,80.105,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,53.0,3.0,HARD,13.0,True,124,False,11.0,19.0,26.9,72.0,False,1.1,94.81,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,54.0,3.0,HARD,14.0,True,4,False,11.0,18.9,27.0,72.0,False,1.1,101.711,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,55.0,3.0,HARD,15.0,True,4,False,11.0,19.0,26.8,69.0,False,2.0,93.813,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,56.0,3.0,HARD,16.0,True,4,False,11.0,18.8,26.9,71.0,False,1.3,115.801,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,57.0,3.0,HARD,17.0,True,4,False,11.0,18.7,26.9,71.0,False,0.6,112.791,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,58.0,3.0,HARD,18.0,True,41,False,11.0,18.8,26.1,70.0,False,1.4,128.079,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,59.0,3.0,HARD,19.0,True,1,True,11.0,18.8,25.8,72.0,False,1.5,81.432,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,60.0,3.0,HARD,20.0,True,1,True,11.0,18.8,25.7,71.0,False,1.9,78.567,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,61.0,3.0,HARD,21.0,True,1,True,11.0,18.9,26.9,72.0,False,1.1,78.857,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,62.0,3.0,HARD,22.0,True,1,True,11.0,19.0,26.9,72.0,False,1.3,78.734,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,63.0,3.0,HARD,23.0,True,1,True,11.0,19.1,26.8,70.0,False,2.4,77.997,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,64.0,3.0,HARD,24.0,True,1,True,11.0,19.0,27.7,70.0,False,2.5,77.606,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,65.0,3.0,HARD,25.0,True,1,True,11.0,18.9,27.8,70.0,False,1.7,77.619,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,66.0,3.0,HARD,26.0,True,12,True,10.0,18.7,28.0,68.0,False,3.1,78.114,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,67.0,3.0,HARD,27.0,True,1,True,10.0,18.6,28.2,68.0,False,2.2,77.964,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,68.0,3.0,HARD,28.0,True,1,True,10.0,18.5,28.5,69.0,False,1.8,77.742,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,69.0,3.0,HARD,29.0,True,1,True,9.0,18.5,27.8,69.0,False,1.1,77.621,False,70,2024,9,Canadian Grand Prix,2024_09
+GAS,Alpine,70.0,3.0,HARD,30.0,True,1,True,9.0,18.4,27.0,69.0,False,2.1,77.013,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,1.0,1.0,INTERMEDIATE,1.0,True,12,False,17.0,16.3,20.7,77.0,True,1.4,120.06,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,2.0,1.0,INTERMEDIATE,2.0,True,1,True,17.0,16.3,20.7,76.0,True,1.5,102.78,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,3.0,1.0,INTERMEDIATE,3.0,True,1,True,17.0,16.2,20.4,74.0,True,1.4,100.055,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,4.0,1.0,INTERMEDIATE,4.0,True,1,True,17.0,16.0,19.9,76.0,True,1.3,99.37,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,5.0,1.0,INTERMEDIATE,5.0,True,1,True,17.0,15.9,19.9,78.0,True,0.8,98.58,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,6.0,1.0,INTERMEDIATE,6.0,True,12,True,16.0,16.0,20.0,78.0,True,1.7,96.377,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,7.0,1.0,INTERMEDIATE,7.0,True,1,True,16.0,15.9,20.3,77.0,True,1.4,94.071,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,8.0,1.0,INTERMEDIATE,8.0,True,1,True,16.0,16.0,20.5,80.0,True,1.3,93.132,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,9.0,1.0,INTERMEDIATE,9.0,True,1,True,16.0,16.5,23.8,78.0,True,1.1,93.168,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,10.0,1.0,INTERMEDIATE,10.0,True,1,True,16.0,16.5,24.5,78.0,False,1.2,91.205,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,11.0,1.0,INTERMEDIATE,11.0,True,1,True,16.0,17.0,25.3,79.0,False,0.7,92.334,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,12.0,1.0,INTERMEDIATE,12.0,True,1,True,15.0,17.4,25.8,74.0,False,0.6,91.058,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,13.0,1.0,INTERMEDIATE,13.0,True,1,True,15.0,17.5,25.8,72.0,False,1.1,90.802,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,14.0,1.0,INTERMEDIATE,14.0,True,1,True,15.0,17.5,26.1,72.0,False,1.5,90.583,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,15.0,1.0,INTERMEDIATE,15.0,True,1,True,15.0,17.6,26.3,73.0,False,1.5,89.598,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,16.0,1.0,INTERMEDIATE,16.0,True,1,True,15.0,17.9,26.3,73.0,False,1.2,88.452,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,17.0,1.0,INTERMEDIATE,17.0,True,1,True,15.0,17.9,26.5,72.0,False,1.0,88.718,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,18.0,1.0,INTERMEDIATE,18.0,True,1,True,15.0,17.9,26.7,70.0,False,0.8,87.644,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,19.0,1.0,INTERMEDIATE,19.0,True,1,True,15.0,18.0,26.6,72.0,False,1.6,87.001,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,20.0,1.0,INTERMEDIATE,20.0,True,1,True,15.0,18.1,26.7,71.0,False,0.9,88.03,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,21.0,1.0,INTERMEDIATE,21.0,True,1,True,16.0,18.2,27.0,71.0,False,0.9,91.463,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,22.0,1.0,INTERMEDIATE,22.0,True,1,True,16.0,18.2,26.9,72.0,False,0.6,86.184,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,23.0,1.0,INTERMEDIATE,23.0,True,1,True,16.0,18.3,27.3,71.0,False,1.2,86.418,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,24.0,1.0,INTERMEDIATE,24.0,True,12,True,16.0,18.4,27.2,71.0,False,0.8,86.62,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,25.0,1.0,INTERMEDIATE,25.0,True,24,False,17.0,18.5,25.2,70.0,False,1.0,136.416,True,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,26.0,2.0,INTERMEDIATE,1.0,True,4,False,17.0,18.2,24.4,71.0,False,0.7,112.077,True,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,27.0,2.0,INTERMEDIATE,2.0,True,4,False,17.0,18.2,23.8,72.0,False,0.0,94.59,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,28.0,2.0,INTERMEDIATE,3.0,True,4,False,16.0,18.1,23.7,72.0,False,0.6,101.588,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,29.0,2.0,INTERMEDIATE,4.0,True,412,False,16.0,18.0,22.8,70.0,True,1.8,115.686,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,30.0,2.0,INTERMEDIATE,5.0,True,1,True,16.0,18.0,22.8,72.0,False,1.1,89.333,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,31.0,2.0,INTERMEDIATE,6.0,True,1,True,16.0,17.7,22.4,73.0,True,0.5,93.782,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,32.0,2.0,INTERMEDIATE,7.0,True,1,True,16.0,17.7,22.3,73.0,True,0.8,92.347,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,33.0,2.0,INTERMEDIATE,8.0,True,1,True,16.0,17.5,21.7,75.0,True,0.5,90.413,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,34.0,2.0,INTERMEDIATE,9.0,True,1,True,16.0,17.4,21.5,76.0,True,0.7,88.604,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,35.0,2.0,INTERMEDIATE,10.0,True,1,True,16.0,17.3,21.5,77.0,True,1.0,88.705,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,36.0,2.0,INTERMEDIATE,11.0,True,1,True,16.0,17.2,21.3,76.0,True,0.8,87.346,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,37.0,2.0,INTERMEDIATE,12.0,True,1,True,15.0,17.0,21.3,75.0,False,1.5,87.478,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,38.0,2.0,INTERMEDIATE,13.0,True,1,True,15.0,17.0,21.3,76.0,False,0.8,86.96,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,39.0,2.0,INTERMEDIATE,14.0,True,1,True,15.0,17.1,21.2,76.0,False,0.7,86.56,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,40.0,2.0,INTERMEDIATE,15.0,True,1,True,14.0,17.1,21.2,76.0,False,1.2,85.83,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,41.0,2.0,INTERMEDIATE,16.0,True,12,True,14.0,17.2,21.3,76.0,False,0.8,85.233,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,42.0,2.0,INTERMEDIATE,17.0,True,1,True,13.0,17.3,22.9,75.0,False,1.2,85.681,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,43.0,2.0,INTERMEDIATE,18.0,True,1,False,15.0,17.5,23.9,77.0,False,0.5,102.006,True,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,44.0,3.0,MEDIUM,1.0,True,1,False,14.0,17.9,25.7,75.0,False,0.5,94.08,True,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,45.0,3.0,MEDIUM,2.0,True,1,True,13.0,18.2,25.9,76.0,False,0.6,86.788,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,46.0,3.0,MEDIUM,3.0,True,1,True,13.0,18.5,26.3,77.0,False,0.7,83.303,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,47.0,3.0,MEDIUM,4.0,True,1,True,13.0,18.5,26.9,75.0,False,1.2,81.015,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,48.0,3.0,MEDIUM,5.0,True,1,True,13.0,18.7,26.7,73.0,False,0.7,81.565,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,49.0,3.0,MEDIUM,6.0,True,12,True,13.0,18.9,26.4,74.0,False,1.8,81.075,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,50.0,3.0,MEDIUM,7.0,True,1,True,13.0,18.9,26.4,74.0,False,0.8,79.785,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,51.0,3.0,MEDIUM,8.0,True,1,True,13.0,18.9,27.0,74.0,False,0.9,78.819,False,70,2024,9,Canadian Grand Prix,2024_09
+PER,Red Bull Racing,52.0,3.0,MEDIUM,9.0,True,12,False,17.0,18.9,27.0,74.0,False,1.6,,True,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,1.0,1.0,INTERMEDIATE,1.0,True,12,False,5.0,16.3,20.7,77.0,True,1.4,109.289,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,2.0,1.0,INTERMEDIATE,2.0,True,1,True,6.0,16.3,20.7,76.0,True,1.5,100.628,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,True,1,True,6.0,16.2,20.4,74.0,True,1.4,98.216,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,4.0,1.0,INTERMEDIATE,4.0,True,1,True,6.0,16.0,19.9,76.0,True,1.3,96.643,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,5.0,1.0,INTERMEDIATE,5.0,True,1,True,6.0,16.0,19.9,78.0,True,0.9,96.345,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,6.0,1.0,INTERMEDIATE,6.0,True,12,True,6.0,16.0,20.0,78.0,True,1.7,96.32,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,7.0,1.0,INTERMEDIATE,7.0,True,1,True,5.0,16.0,20.1,79.0,True,0.5,95.131,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,8.0,1.0,INTERMEDIATE,8.0,True,1,True,5.0,16.0,20.5,80.0,True,1.3,92.566,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,9.0,1.0,INTERMEDIATE,9.0,True,1,True,5.0,16.5,23.8,78.0,True,1.1,90.866,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,10.0,1.0,INTERMEDIATE,10.0,True,1,True,5.0,16.5,24.5,78.0,False,1.2,90.025,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,11.0,1.0,INTERMEDIATE,11.0,True,1,True,5.0,17.0,25.3,79.0,False,0.7,89.371,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,12.0,1.0,INTERMEDIATE,12.0,True,1,True,5.0,17.3,25.7,78.0,False,0.5,89.269,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,13.0,1.0,INTERMEDIATE,13.0,True,1,True,5.0,17.5,25.8,72.0,False,1.1,88.661,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,14.0,1.0,INTERMEDIATE,14.0,True,1,True,5.0,17.5,25.9,74.0,False,1.4,88.314,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,15.0,1.0,INTERMEDIATE,15.0,True,1,True,5.0,17.6,26.3,73.0,False,1.5,87.99,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,16.0,1.0,INTERMEDIATE,16.0,True,1,True,5.0,17.7,26.3,72.0,False,1.9,86.877,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,17.0,1.0,INTERMEDIATE,17.0,True,1,True,5.0,17.9,26.3,73.0,False,1.2,88.248,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,18.0,1.0,INTERMEDIATE,18.0,True,1,True,5.0,17.9,26.7,70.0,False,0.8,86.318,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,19.0,1.0,INTERMEDIATE,19.0,True,1,True,5.0,18.0,26.7,71.0,False,1.1,86.192,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,20.0,1.0,INTERMEDIATE,20.0,True,1,True,5.0,18.1,26.7,71.0,False,0.9,85.488,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,21.0,1.0,INTERMEDIATE,21.0,True,1,True,5.0,18.2,27.0,72.0,False,0.7,86.07,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,22.0,1.0,INTERMEDIATE,22.0,True,1,True,5.0,18.2,26.9,72.0,False,0.6,85.451,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,23.0,1.0,INTERMEDIATE,23.0,True,1,True,5.0,18.3,27.3,71.0,False,1.2,85.977,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,24.0,1.0,INTERMEDIATE,24.0,True,1,True,5.0,18.3,27.3,71.0,False,1.2,86.664,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,25.0,1.0,INTERMEDIATE,25.0,True,124,False,6.0,18.4,26.1,71.0,False,1.1,118.83,True,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,26.0,2.0,INTERMEDIATE,1.0,True,4,False,6.0,18.3,24.5,71.0,False,1.1,119.494,True,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,27.0,2.0,INTERMEDIATE,2.0,True,4,False,6.0,18.2,24.3,71.0,False,0.7,112.214,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,28.0,2.0,INTERMEDIATE,3.0,True,4,False,6.0,18.1,23.7,72.0,False,0.6,119.563,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,29.0,2.0,INTERMEDIATE,4.0,True,412,False,6.0,18.0,22.8,70.0,True,1.8,131.176,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,30.0,2.0,INTERMEDIATE,5.0,True,1,True,6.0,18.0,22.8,72.0,False,1.1,88.464,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,31.0,2.0,INTERMEDIATE,6.0,True,1,True,6.0,17.9,22.5,72.0,True,0.7,90.492,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,32.0,2.0,INTERMEDIATE,7.0,True,1,True,6.0,17.7,22.3,73.0,True,0.8,91.726,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,33.0,2.0,INTERMEDIATE,8.0,True,1,True,6.0,17.6,22.0,74.0,True,1.1,90.703,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,34.0,2.0,INTERMEDIATE,9.0,True,1,True,6.0,17.4,21.5,76.0,True,0.7,88.854,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,35.0,2.0,INTERMEDIATE,10.0,True,1,True,6.0,17.4,21.5,76.0,True,0.8,87.872,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,36.0,2.0,INTERMEDIATE,11.0,True,1,True,6.0,17.2,21.3,76.0,True,0.8,87.681,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,37.0,2.0,INTERMEDIATE,12.0,True,1,True,6.0,17.1,21.2,76.0,False,0.4,87.337,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,38.0,2.0,INTERMEDIATE,13.0,True,1,True,6.0,17.0,21.3,76.0,False,0.8,87.139,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,39.0,2.0,INTERMEDIATE,14.0,True,1,True,6.0,17.1,21.2,76.0,False,0.7,86.045,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,40.0,2.0,INTERMEDIATE,15.0,True,1,True,6.0,17.1,21.2,76.0,False,1.2,85.596,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,41.0,2.0,INTERMEDIATE,16.0,True,12,True,6.0,17.2,21.3,76.0,False,0.8,85.218,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,42.0,2.0,INTERMEDIATE,17.0,True,1,True,6.0,17.3,22.9,75.0,False,1.2,84.768,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,43.0,2.0,INTERMEDIATE,18.0,True,1,True,5.0,17.5,23.9,77.0,False,0.5,84.453,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,44.0,2.0,INTERMEDIATE,19.0,True,1,False,6.0,17.7,24.9,77.0,False,0.8,100.506,True,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,45.0,3.0,HARD,1.0,True,1,False,6.0,18.2,25.9,76.0,False,0.6,93.457,True,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,46.0,3.0,HARD,2.0,True,1,True,6.0,18.5,26.3,77.0,False,0.7,86.09,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,47.0,3.0,HARD,3.0,True,1,True,6.0,18.5,26.9,75.0,False,1.2,84.861,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,48.0,3.0,HARD,4.0,True,1,True,6.0,18.7,27.0,73.0,False,0.9,83.117,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,49.0,3.0,HARD,5.0,True,12,True,6.0,18.9,26.4,74.0,False,1.8,81.938,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,50.0,3.0,HARD,6.0,True,1,True,6.0,18.9,26.4,74.0,False,0.8,79.783,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,51.0,3.0,HARD,7.0,True,1,True,6.0,18.9,27.0,74.0,False,0.9,79.455,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,52.0,3.0,HARD,8.0,True,12,True,6.0,18.9,27.0,74.0,False,1.6,78.88,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,53.0,3.0,HARD,9.0,True,124,False,6.0,19.0,26.9,72.0,False,1.1,86.279,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,54.0,3.0,HARD,10.0,True,4,False,6.0,18.9,27.0,72.0,False,1.1,101.363,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,55.0,3.0,HARD,11.0,True,4,False,6.0,18.9,27.0,70.0,False,1.0,100.877,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,56.0,3.0,HARD,12.0,True,4,False,6.0,18.8,26.9,71.0,False,1.3,118.627,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,57.0,3.0,HARD,13.0,True,4,False,6.0,18.7,26.9,71.0,False,0.6,113.122,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,58.0,3.0,HARD,14.0,True,41,False,6.0,18.8,26.1,70.0,False,1.4,132.536,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,59.0,3.0,HARD,15.0,True,1,True,6.0,18.8,25.8,72.0,False,1.5,80.627,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,60.0,3.0,HARD,16.0,True,1,True,6.0,18.8,25.7,71.0,False,1.9,78.612,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,61.0,3.0,HARD,17.0,True,1,True,6.0,18.9,26.9,72.0,False,1.1,77.675,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,62.0,3.0,HARD,18.0,True,1,True,6.0,19.0,26.9,72.0,False,1.3,77.68,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,63.0,3.0,HARD,19.0,True,1,True,6.0,19.1,26.8,70.0,False,2.4,77.153,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,64.0,3.0,HARD,20.0,True,1,True,6.0,19.0,27.7,70.0,False,2.5,77.182,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,65.0,3.0,HARD,21.0,True,1,True,6.0,18.9,27.8,70.0,False,1.7,77.398,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,66.0,3.0,HARD,22.0,True,12,True,6.0,18.7,28.0,68.0,False,3.1,77.178,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,67.0,3.0,HARD,23.0,True,1,True,6.0,18.6,28.0,68.0,False,2.6,77.116,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,68.0,3.0,HARD,24.0,True,1,True,6.0,18.5,28.5,69.0,False,1.8,76.691,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,69.0,3.0,HARD,25.0,True,1,True,6.0,18.5,27.8,69.0,False,1.1,76.387,False,70,2024,9,Canadian Grand Prix,2024_09
+ALO,Aston Martin,70.0,3.0,HARD,26.0,True,1,True,6.0,18.4,27.0,69.0,False,2.1,76.303,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,1.0,1.0,INTERMEDIATE,1.0,True,12,False,10.0,16.3,20.7,77.0,True,1.4,114.412,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,2.0,1.0,INTERMEDIATE,2.0,True,1,True,11.0,16.3,20.7,76.0,True,1.5,102.116,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,3.0,1.0,INTERMEDIATE,3.0,True,1,True,11.0,16.2,20.4,74.0,True,1.4,99.247,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,4.0,1.0,INTERMEDIATE,4.0,True,1,True,11.0,16.0,19.9,76.0,True,1.3,97.813,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,5.0,1.0,INTERMEDIATE,5.0,True,1,True,11.0,16.0,19.9,78.0,True,0.9,96.358,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,6.0,1.0,INTERMEDIATE,6.0,True,12,True,11.0,16.0,20.0,78.0,True,1.7,96.3,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,7.0,1.0,INTERMEDIATE,7.0,True,1,True,10.0,15.9,20.3,77.0,True,1.4,94.541,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,8.0,1.0,INTERMEDIATE,8.0,True,1,True,10.0,16.0,20.5,80.0,True,1.3,93.768,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,9.0,1.0,INTERMEDIATE,9.0,True,1,True,10.0,16.5,23.8,78.0,True,1.1,92.791,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,10.0,1.0,INTERMEDIATE,10.0,True,1,True,10.0,16.5,24.5,78.0,False,1.2,92.094,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,11.0,1.0,INTERMEDIATE,11.0,True,1,True,10.0,17.0,25.3,79.0,False,0.7,94.16,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,12.0,1.0,INTERMEDIATE,12.0,True,1,True,9.0,17.3,25.7,78.0,False,0.5,93.158,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,13.0,1.0,INTERMEDIATE,13.0,True,1,True,9.0,17.5,25.8,72.0,False,1.1,90.52,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,14.0,1.0,INTERMEDIATE,14.0,True,1,True,9.0,17.5,25.9,74.0,False,1.4,89.171,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,15.0,1.0,INTERMEDIATE,15.0,True,1,True,9.0,17.6,26.3,73.0,False,1.5,88.868,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,16.0,1.0,INTERMEDIATE,16.0,True,1,True,9.0,17.7,26.3,72.0,False,1.9,88.679,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,17.0,1.0,INTERMEDIATE,17.0,True,1,True,9.0,17.9,26.5,72.0,False,1.0,88.325,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,18.0,1.0,INTERMEDIATE,18.0,True,1,True,9.0,17.9,26.7,70.0,False,0.8,87.279,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,19.0,1.0,INTERMEDIATE,19.0,True,1,True,9.0,18.0,26.6,72.0,False,1.6,87.107,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,20.0,1.0,INTERMEDIATE,20.0,True,1,True,10.0,18.1,26.7,71.0,False,0.9,88.214,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,21.0,1.0,INTERMEDIATE,21.0,True,1,True,11.0,18.2,27.0,71.0,False,0.9,88.317,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,22.0,1.0,INTERMEDIATE,22.0,True,1,True,11.0,18.2,26.9,72.0,False,0.6,87.253,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,23.0,1.0,INTERMEDIATE,23.0,True,1,True,11.0,18.3,27.3,71.0,False,1.2,86.623,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,24.0,1.0,INTERMEDIATE,24.0,True,12,True,11.0,18.4,27.2,71.0,False,0.8,87.641,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,25.0,1.0,INTERMEDIATE,25.0,True,24,False,12.0,18.5,25.2,70.0,False,1.0,124.957,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,26.0,2.0,INTERMEDIATE,1.0,True,4,False,12.0,18.2,24.4,71.0,False,0.7,111.591,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,27.0,2.0,INTERMEDIATE,2.0,True,4,False,12.0,18.2,23.8,72.0,False,0.0,105.291,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,28.0,2.0,INTERMEDIATE,3.0,True,4,False,19.0,18.1,23.7,72.0,False,0.6,138.75,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,29.0,3.0,HARD,1.0,True,412,False,19.0,18.0,22.8,74.0,True,0.9,99.909,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,30.0,3.0,HARD,2.0,True,1,True,19.0,18.0,22.8,72.0,False,1.1,104.706,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,31.0,3.0,HARD,3.0,True,1,False,19.0,17.7,22.4,73.0,True,0.5,133.657,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,32.0,4.0,INTERMEDIATE,1.0,True,1,False,19.0,17.6,22.0,74.0,True,1.1,94.347,True,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,33.0,4.0,INTERMEDIATE,2.0,True,1,True,19.0,17.4,21.5,76.0,True,0.7,88.269,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,34.0,4.0,INTERMEDIATE,3.0,True,1,True,19.0,17.4,21.5,76.0,True,0.8,88.054,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,35.0,4.0,INTERMEDIATE,4.0,True,1,True,19.0,17.2,21.3,76.0,True,0.8,90.236,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,36.0,4.0,INTERMEDIATE,5.0,True,1,True,19.0,17.1,21.2,76.0,False,0.4,91.95,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,37.0,4.0,INTERMEDIATE,6.0,True,1,True,19.0,17.0,21.3,76.0,False,0.8,87.015,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,38.0,4.0,INTERMEDIATE,7.0,True,1,True,19.0,17.1,21.2,76.0,False,0.7,87.575,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,39.0,4.0,INTERMEDIATE,8.0,True,1,True,19.0,17.1,21.2,76.0,False,1.2,86.012,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,40.0,4.0,INTERMEDIATE,9.0,True,12,True,19.0,17.2,21.3,76.0,False,0.8,86.234,False,70,2024,9,Canadian Grand Prix,2024_09
+LEC,Ferrari,41.0,4.0,INTERMEDIATE,10.0,True,1,False,19.0,17.3,22.9,75.0,False,1.2,,True,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,1.0,1.0,INTERMEDIATE,1.0,True,12,False,9.0,16.3,20.7,77.0,True,1.4,113.082,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,2.0,1.0,INTERMEDIATE,2.0,True,1,True,9.0,16.3,20.7,76.0,True,1.5,100.966,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,3.0,1.0,INTERMEDIATE,3.0,True,1,True,10.0,16.2,20.4,74.0,True,1.4,100.688,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,4.0,1.0,INTERMEDIATE,4.0,True,1,True,10.0,16.0,19.9,76.0,True,1.3,97.302,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,5.0,1.0,INTERMEDIATE,5.0,True,1,True,10.0,16.0,19.9,78.0,True,0.9,97.044,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,6.0,1.0,INTERMEDIATE,6.0,True,12,True,10.0,16.0,20.0,78.0,True,1.7,96.655,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,7.0,1.0,INTERMEDIATE,7.0,True,1,True,9.0,15.9,20.3,77.0,True,1.4,93.695,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,8.0,1.0,INTERMEDIATE,8.0,True,1,True,9.0,16.0,20.5,80.0,True,1.3,93.549,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,9.0,1.0,INTERMEDIATE,9.0,True,1,True,9.0,16.5,23.8,78.0,True,1.1,92.85,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,10.0,1.0,INTERMEDIATE,10.0,True,1,True,9.0,16.5,24.5,78.0,False,1.2,92.786,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,11.0,1.0,INTERMEDIATE,11.0,True,1,True,9.0,17.0,25.3,79.0,False,0.7,94.245,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,12.0,1.0,INTERMEDIATE,12.0,True,1,True,8.0,17.3,25.7,78.0,False,0.5,91.2,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,13.0,1.0,INTERMEDIATE,13.0,True,1,True,8.0,17.5,25.8,72.0,False,1.1,90.255,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,14.0,1.0,INTERMEDIATE,14.0,True,1,True,8.0,17.5,25.9,74.0,False,1.4,89.446,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,15.0,1.0,INTERMEDIATE,15.0,True,1,True,8.0,17.6,26.3,73.0,False,1.5,89.017,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,16.0,1.0,INTERMEDIATE,16.0,True,1,True,8.0,17.7,26.3,72.0,False,1.9,87.764,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,17.0,1.0,INTERMEDIATE,17.0,True,1,True,8.0,17.9,26.5,72.0,False,1.0,87.365,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,18.0,1.0,INTERMEDIATE,18.0,True,1,True,8.0,17.9,26.7,70.0,False,0.8,87.136,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,19.0,1.0,INTERMEDIATE,19.0,True,1,True,8.0,18.0,26.6,72.0,False,1.6,86.88,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,20.0,1.0,INTERMEDIATE,20.0,True,1,True,8.0,18.1,26.7,71.0,False,0.9,86.894,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,21.0,1.0,INTERMEDIATE,21.0,True,1,True,8.0,18.2,27.0,71.0,False,0.9,86.728,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,22.0,1.0,INTERMEDIATE,22.0,True,1,True,8.0,18.2,26.9,72.0,False,0.6,86.423,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,23.0,1.0,INTERMEDIATE,23.0,True,1,True,8.0,18.3,27.3,71.0,False,1.2,87.166,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,24.0,1.0,INTERMEDIATE,24.0,True,12,True,8.0,18.4,27.2,71.0,False,0.8,86.27,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,25.0,1.0,INTERMEDIATE,25.0,True,24,False,9.0,18.4,26.1,71.0,False,1.1,123.142,True,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,26.0,2.0,INTERMEDIATE,1.0,True,4,False,8.0,18.3,24.5,71.0,False,1.1,112.79,True,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,27.0,2.0,INTERMEDIATE,2.0,True,4,False,8.0,18.2,24.3,71.0,False,0.7,97.744,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,28.0,2.0,INTERMEDIATE,3.0,True,4,False,8.0,18.1,23.7,72.0,False,0.6,112.79,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,29.0,2.0,INTERMEDIATE,4.0,True,412,False,8.0,18.0,22.8,70.0,True,1.8,128.442,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,30.0,2.0,INTERMEDIATE,5.0,True,1,True,8.0,18.0,22.8,72.0,False,1.1,88.168,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,31.0,2.0,INTERMEDIATE,6.0,True,1,True,8.0,17.9,22.5,72.0,True,0.7,90.97,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,32.0,2.0,INTERMEDIATE,7.0,True,1,True,8.0,17.7,22.3,73.0,True,0.8,90.959,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,33.0,2.0,INTERMEDIATE,8.0,True,1,True,8.0,17.6,22.0,74.0,True,1.1,90.845,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,34.0,2.0,INTERMEDIATE,9.0,True,1,True,8.0,17.4,21.5,76.0,True,0.7,89.836,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,35.0,2.0,INTERMEDIATE,10.0,True,1,True,8.0,17.3,21.5,77.0,True,1.0,88.065,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,36.0,2.0,INTERMEDIATE,11.0,True,1,True,8.0,17.2,21.3,76.0,True,0.8,87.698,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,37.0,2.0,INTERMEDIATE,12.0,True,1,True,8.0,17.1,21.2,76.0,False,0.4,87.579,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,38.0,2.0,INTERMEDIATE,13.0,True,1,True,8.0,17.0,21.3,76.0,False,0.8,87.075,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,39.0,2.0,INTERMEDIATE,14.0,True,1,True,8.0,17.1,21.2,76.0,False,0.7,86.61,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,40.0,2.0,INTERMEDIATE,15.0,True,1,True,8.0,17.1,21.2,76.0,False,1.2,85.379,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,41.0,2.0,INTERMEDIATE,16.0,True,12,True,8.0,17.2,21.3,76.0,False,0.8,86.097,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,42.0,2.0,INTERMEDIATE,17.0,True,1,True,8.0,17.3,22.9,75.0,False,1.2,85.264,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,43.0,2.0,INTERMEDIATE,18.0,True,1,True,8.0,17.5,23.9,77.0,False,0.5,85.612,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,44.0,2.0,INTERMEDIATE,19.0,True,1,False,8.0,17.7,24.9,77.0,False,0.8,101.732,True,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,45.0,3.0,HARD,2.0,False,1,False,8.0,18.2,25.9,76.0,False,0.6,92.774,True,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,46.0,3.0,HARD,3.0,False,1,True,8.0,18.5,26.3,77.0,False,0.7,84.92,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,47.0,3.0,HARD,4.0,False,1,True,8.0,18.5,26.9,75.0,False,1.2,83.728,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,48.0,3.0,HARD,5.0,False,1,True,8.0,18.7,26.7,73.0,False,0.7,82.265,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,49.0,3.0,HARD,6.0,False,12,True,8.0,18.9,26.4,74.0,False,1.8,80.776,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,50.0,3.0,HARD,7.0,False,1,True,8.0,18.9,26.4,74.0,False,0.8,79.565,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,51.0,3.0,HARD,8.0,False,1,True,8.0,18.9,27.0,74.0,False,0.9,79.392,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,52.0,3.0,HARD,9.0,False,12,True,7.0,18.9,27.0,74.0,False,1.6,81.251,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,53.0,3.0,HARD,10.0,False,124,False,7.0,19.0,26.9,72.0,False,1.1,85.278,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,54.0,3.0,HARD,11.0,False,4,False,7.0,18.9,27.0,72.0,False,1.1,103.36,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,55.0,3.0,HARD,12.0,False,4,False,7.0,18.9,27.0,70.0,False,1.0,97.349,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,56.0,3.0,HARD,13.0,False,4,False,7.0,18.8,26.9,71.0,False,1.3,118.802,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,57.0,3.0,HARD,14.0,False,4,False,7.0,18.7,26.9,71.0,False,0.6,113.17,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,58.0,3.0,HARD,15.0,False,41,False,7.0,18.8,26.1,70.0,False,1.4,131.641,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,59.0,3.0,HARD,16.0,False,1,True,7.0,18.8,25.8,72.0,False,1.5,80.939,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,60.0,3.0,HARD,17.0,False,1,True,7.0,18.8,25.7,71.0,False,1.9,78.504,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,61.0,3.0,HARD,18.0,False,1,True,7.0,18.9,26.9,72.0,False,1.1,78.497,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,62.0,3.0,HARD,19.0,False,1,True,7.0,19.0,26.9,72.0,False,1.3,78.443,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,63.0,3.0,HARD,20.0,False,1,True,7.0,19.1,26.8,70.0,False,2.4,77.612,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,64.0,3.0,HARD,21.0,False,1,True,7.0,19.0,27.7,70.0,False,2.5,77.609,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,65.0,3.0,HARD,22.0,False,1,True,7.0,18.9,27.8,70.0,False,1.7,77.302,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,66.0,3.0,HARD,23.0,False,12,True,7.0,18.7,28.0,68.0,False,3.1,77.716,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,67.0,3.0,HARD,24.0,False,1,True,7.0,18.6,28.2,68.0,False,2.2,77.661,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,68.0,3.0,HARD,25.0,False,1,True,7.0,18.5,28.5,69.0,False,1.8,77.16,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,69.0,3.0,HARD,26.0,False,1,True,7.0,18.5,27.8,69.0,False,1.1,76.873,False,70,2024,9,Canadian Grand Prix,2024_09
+STR,Aston Martin,70.0,3.0,HARD,27.0,False,1,True,7.0,18.4,27.0,69.0,False,2.1,76.762,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,1.0,1.0,INTERMEDIATE,1.0,True,12,False,15.0,16.3,20.7,77.0,True,1.4,117.685,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,2.0,1.0,INTERMEDIATE,2.0,True,1,True,14.0,16.3,20.7,76.0,True,1.5,101.547,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,3.0,1.0,INTERMEDIATE,3.0,True,1,True,15.0,16.2,20.4,74.0,True,1.4,101.749,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,4.0,1.0,INTERMEDIATE,4.0,True,1,True,15.0,16.0,19.9,76.0,True,1.3,98.521,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,5.0,1.0,INTERMEDIATE,5.0,True,1,True,15.0,16.0,19.9,78.0,True,0.9,98.36,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,6.0,1.0,INTERMEDIATE,6.0,True,12,True,20.0,16.0,20.0,78.0,True,1.7,118.326,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,7.0,1.0,INTERMEDIATE,7.0,True,1,True,20.0,15.9,20.3,77.0,True,1.4,94.031,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,8.0,1.0,INTERMEDIATE,8.0,True,1,True,20.0,16.1,23.0,78.0,True,0.7,94.161,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,9.0,1.0,INTERMEDIATE,9.0,True,1,True,20.0,16.5,23.8,78.0,True,1.1,91.967,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,10.0,1.0,INTERMEDIATE,10.0,True,1,True,20.0,16.8,24.8,76.0,False,1.2,91.06,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,11.0,1.0,INTERMEDIATE,11.0,True,1,True,20.0,17.0,25.3,79.0,False,0.7,90.075,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,12.0,1.0,INTERMEDIATE,12.0,True,1,True,20.0,17.4,25.8,74.0,False,0.6,89.528,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,13.0,1.0,INTERMEDIATE,13.0,True,1,True,20.0,17.5,25.8,72.0,False,1.1,92.818,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,14.0,1.0,INTERMEDIATE,14.0,True,1,True,20.0,17.5,26.1,72.0,False,1.5,89.949,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,15.0,1.0,INTERMEDIATE,15.0,True,1,True,20.0,17.6,26.3,73.0,False,1.5,89.181,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,16.0,1.0,INTERMEDIATE,16.0,True,1,True,20.0,17.9,26.3,73.0,False,1.2,89.478,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,17.0,1.0,INTERMEDIATE,17.0,True,1,True,20.0,17.9,26.5,72.0,False,1.0,87.936,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,18.0,1.0,INTERMEDIATE,18.0,True,1,True,20.0,18.0,26.7,71.0,False,1.1,87.42,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,19.0,1.0,INTERMEDIATE,19.0,True,1,True,20.0,18.0,26.6,72.0,False,1.6,86.484,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,20.0,1.0,INTERMEDIATE,20.0,True,1,True,20.0,18.2,27.0,72.0,False,0.7,89.257,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,21.0,1.0,INTERMEDIATE,21.0,True,1,True,20.0,18.2,27.0,71.0,False,0.9,89.286,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,22.0,1.0,INTERMEDIATE,22.0,True,1,True,20.0,18.3,27.3,71.0,False,1.2,86.731,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,23.0,1.0,INTERMEDIATE,23.0,True,1,True,20.0,18.3,27.3,71.0,False,1.2,88.969,False,70,2024,9,Canadian Grand Prix,2024_09
+SAR,Williams,24.0,1.0,INTERMEDIATE,24.0,True,124,False,,18.4,26.1,71.0,False,1.1,,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,1.0,1.0,WET,1.0,True,12,False,8.0,16.3,20.7,77.0,True,1.4,111.827,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,2.0,1.0,WET,2.0,True,1,True,5.0,16.3,20.7,76.0,True,1.5,96.793,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,3.0,1.0,WET,3.0,True,1,True,4.0,16.2,20.4,74.0,True,1.4,96.134,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,4.0,1.0,WET,4.0,True,1,True,4.0,16.0,19.9,76.0,True,1.3,93.993,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,5.0,1.0,WET,5.0,True,1,True,4.0,16.0,19.9,78.0,True,0.9,94.529,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,6.0,1.0,WET,6.0,True,12,True,4.0,16.0,20.0,78.0,True,1.7,94.673,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,7.0,1.0,WET,7.0,True,1,False,12.0,16.0,20.1,79.0,True,0.5,115.419,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,8.0,2.0,INTERMEDIATE,1.0,True,1,False,14.0,16.0,20.5,80.0,True,1.3,97.984,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,9.0,2.0,INTERMEDIATE,2.0,True,1,True,14.0,16.5,23.8,78.0,True,1.1,93.695,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,10.0,2.0,INTERMEDIATE,3.0,True,1,True,14.0,16.5,24.5,78.0,False,1.2,91.129,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,11.0,2.0,INTERMEDIATE,4.0,True,1,True,14.0,17.0,25.3,79.0,False,0.7,90.747,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,12.0,2.0,INTERMEDIATE,5.0,True,1,True,13.0,17.3,25.7,78.0,False,0.5,92.839,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,13.0,2.0,INTERMEDIATE,6.0,True,1,True,13.0,17.5,25.8,72.0,False,1.1,91.095,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,14.0,2.0,INTERMEDIATE,7.0,True,1,True,13.0,17.5,26.1,72.0,False,1.5,90.139,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,15.0,2.0,INTERMEDIATE,8.0,True,1,True,13.0,17.6,26.3,73.0,False,1.5,89.011,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,16.0,2.0,INTERMEDIATE,9.0,True,1,True,13.0,17.7,26.3,72.0,False,1.9,88.188,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,17.0,2.0,INTERMEDIATE,10.0,True,1,True,13.0,17.9,26.5,72.0,False,1.0,87.837,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,18.0,2.0,INTERMEDIATE,11.0,True,1,True,13.0,17.9,26.7,70.0,False,0.8,87.433,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,19.0,2.0,INTERMEDIATE,12.0,True,1,True,13.0,18.0,26.6,72.0,False,1.6,87.825,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,20.0,2.0,INTERMEDIATE,13.0,True,1,True,13.0,18.1,26.7,71.0,False,0.9,87.614,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,21.0,2.0,INTERMEDIATE,14.0,True,1,True,13.0,18.2,27.0,71.0,False,0.9,87.411,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,22.0,2.0,INTERMEDIATE,15.0,True,1,True,13.0,18.2,26.9,72.0,False,0.6,87.144,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,23.0,2.0,INTERMEDIATE,16.0,True,1,True,13.0,18.3,27.3,71.0,False,1.2,87.198,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,24.0,2.0,INTERMEDIATE,17.0,True,12,True,13.0,18.4,27.2,71.0,False,0.8,87.563,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,25.0,2.0,INTERMEDIATE,18.0,True,24,False,15.0,18.5,25.2,70.0,False,1.0,129.198,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,26.0,3.0,INTERMEDIATE,1.0,True,4,False,15.0,18.2,24.4,71.0,False,0.7,113.293,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,27.0,3.0,INTERMEDIATE,2.0,True,4,False,15.0,18.2,23.8,72.0,False,0.0,101.625,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,28.0,3.0,INTERMEDIATE,3.0,True,4,False,14.0,18.1,23.7,72.0,False,0.6,103.209,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,29.0,3.0,INTERMEDIATE,4.0,True,412,False,14.0,18.0,22.8,70.0,True,1.8,117.543,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,30.0,3.0,INTERMEDIATE,5.0,True,1,True,14.0,18.0,22.8,72.0,False,1.1,89.741,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,31.0,3.0,INTERMEDIATE,6.0,True,1,True,15.0,17.7,22.4,73.0,True,0.5,93.596,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,32.0,3.0,INTERMEDIATE,7.0,True,1,True,15.0,17.7,22.3,73.0,True,0.8,92.202,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,33.0,3.0,INTERMEDIATE,8.0,True,1,True,15.0,17.5,21.7,75.0,True,0.5,90.285,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,34.0,3.0,INTERMEDIATE,9.0,True,1,True,15.0,17.4,21.5,76.0,True,0.7,89.007,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,35.0,3.0,INTERMEDIATE,10.0,True,1,True,15.0,17.3,21.5,77.0,True,1.0,88.5,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,36.0,3.0,INTERMEDIATE,11.0,True,1,True,15.0,17.2,21.3,76.0,True,0.8,87.577,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,37.0,3.0,INTERMEDIATE,12.0,True,1,True,16.0,17.0,21.3,75.0,False,1.5,88.283,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,38.0,3.0,INTERMEDIATE,13.0,True,1,True,16.0,17.0,21.3,76.0,False,0.8,87.86,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,39.0,3.0,INTERMEDIATE,14.0,True,1,True,16.0,17.1,21.2,76.0,False,0.7,86.726,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,40.0,3.0,INTERMEDIATE,15.0,True,1,True,15.0,17.1,21.2,76.0,False,1.2,86.231,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,41.0,3.0,INTERMEDIATE,16.0,True,12,False,17.0,17.2,21.3,76.0,False,0.8,102.982,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,42.0,4.0,MEDIUM,1.0,True,1,False,17.0,17.3,22.9,75.0,False,1.2,95.449,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,43.0,4.0,MEDIUM,2.0,True,1,True,18.0,17.7,24.9,77.0,False,0.8,88.313,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,44.0,4.0,MEDIUM,3.0,True,1,True,17.0,17.9,25.7,75.0,False,0.5,84.812,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,45.0,4.0,MEDIUM,4.0,True,1,True,17.0,18.4,26.1,74.0,False,0.8,84.688,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,46.0,4.0,MEDIUM,5.0,True,1,True,17.0,18.5,26.3,77.0,False,0.7,82.937,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,47.0,4.0,MEDIUM,6.0,True,1,True,17.0,18.5,26.9,75.0,False,1.2,81.988,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,48.0,4.0,MEDIUM,7.0,True,12,True,17.0,18.7,26.7,73.0,False,0.7,84.303,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,49.0,4.0,MEDIUM,8.0,True,1,True,17.0,18.9,26.4,74.0,False,1.8,80.83,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,50.0,4.0,MEDIUM,9.0,True,1,True,17.0,18.9,26.4,74.0,False,0.8,80.587,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,51.0,4.0,MEDIUM,10.0,True,1,True,17.0,18.9,27.0,74.0,False,0.9,79.511,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,52.0,4.0,MEDIUM,11.0,True,12,True,16.0,18.9,27.0,74.0,False,1.6,83.445,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,53.0,4.0,MEDIUM,12.0,True,124,False,14.0,19.0,27.1,72.0,False,1.6,93.799,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,54.0,4.0,MEDIUM,13.0,True,4,False,14.0,18.9,27.0,72.0,False,1.1,122.225,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,55.0,5.0,MEDIUM,1.0,True,4,False,14.0,19.0,26.8,69.0,False,2.0,99.525,True,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,56.0,5.0,MEDIUM,2.0,True,4,False,14.0,18.7,26.9,73.0,False,0.4,86.229,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,57.0,5.0,MEDIUM,3.0,True,4,False,14.0,18.7,26.9,71.0,False,0.6,110.577,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,58.0,5.0,MEDIUM,4.0,True,41,False,14.0,18.8,26.1,70.0,False,1.4,125.254,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,59.0,5.0,MEDIUM,5.0,True,1,True,14.0,18.8,25.8,72.0,False,1.5,82.613,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,60.0,5.0,MEDIUM,6.0,True,1,True,14.0,18.8,26.1,72.0,False,1.9,81.673,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,61.0,5.0,MEDIUM,7.0,True,1,True,14.0,18.9,26.9,72.0,False,1.1,78.685,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,62.0,5.0,MEDIUM,8.0,True,1,True,14.0,19.0,26.9,72.0,False,1.3,77.915,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,63.0,5.0,MEDIUM,9.0,True,1,True,14.0,19.1,26.7,70.0,False,2.8,77.617,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,64.0,5.0,MEDIUM,10.0,True,1,True,14.0,19.0,27.7,70.0,False,2.5,77.324,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,65.0,5.0,MEDIUM,11.0,True,1,True,14.0,18.9,27.8,70.0,False,1.7,77.235,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,66.0,5.0,MEDIUM,12.0,True,12,True,12.0,18.7,28.0,68.0,False,3.1,78.154,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,67.0,5.0,MEDIUM,13.0,True,1,True,12.0,18.6,28.2,68.0,False,2.2,77.152,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,68.0,5.0,MEDIUM,14.0,True,1,True,12.0,18.5,28.5,69.0,False,1.8,76.499,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,69.0,5.0,MEDIUM,15.0,True,1,True,12.0,18.5,27.8,69.0,False,1.1,76.653,False,70,2024,9,Canadian Grand Prix,2024_09
+MAG,Haas F1 Team,70.0,5.0,MEDIUM,16.0,True,1,True,12.0,18.3,26.5,68.0,False,1.3,77.11,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,1.0,1.0,INTERMEDIATE,1.0,True,12,False,11.0,16.3,20.7,77.0,True,1.4,114.705,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,2.0,1.0,INTERMEDIATE,2.0,True,1,True,12.0,16.3,20.7,76.0,True,1.5,102.925,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,3.0,1.0,INTERMEDIATE,3.0,True,1,True,12.0,16.2,20.4,74.0,True,1.4,99.935,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,4.0,1.0,INTERMEDIATE,4.0,True,1,True,12.0,16.0,19.9,76.0,True,1.3,97.475,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,5.0,1.0,INTERMEDIATE,5.0,True,1,True,12.0,16.0,19.9,78.0,True,0.9,95.882,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,6.0,1.0,INTERMEDIATE,6.0,True,12,True,12.0,16.0,20.0,78.0,True,1.7,96.646,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,7.0,1.0,INTERMEDIATE,7.0,True,1,True,11.0,15.9,20.3,77.0,True,1.4,94.176,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,8.0,1.0,INTERMEDIATE,8.0,True,1,True,11.0,16.0,20.5,80.0,True,1.3,93.491,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,9.0,1.0,INTERMEDIATE,9.0,True,1,True,11.0,16.5,23.8,78.0,True,1.1,92.88,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,10.0,1.0,INTERMEDIATE,10.0,True,1,True,11.0,16.5,24.5,78.0,False,1.2,92.028,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,11.0,1.0,INTERMEDIATE,11.0,True,1,True,11.0,17.0,25.3,79.0,False,0.7,94.0,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,12.0,1.0,INTERMEDIATE,12.0,True,1,True,10.0,17.3,25.7,78.0,False,0.5,93.494,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,13.0,1.0,INTERMEDIATE,13.0,True,1,True,10.0,17.5,25.8,72.0,False,1.1,90.362,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,14.0,1.0,INTERMEDIATE,14.0,True,1,True,10.0,17.5,25.9,74.0,False,1.4,89.622,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,15.0,1.0,INTERMEDIATE,15.0,True,1,True,10.0,17.6,26.3,73.0,False,1.5,89.266,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,16.0,1.0,INTERMEDIATE,16.0,True,1,True,10.0,17.7,26.3,72.0,False,1.9,88.527,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,17.0,1.0,INTERMEDIATE,17.0,True,1,True,10.0,17.9,26.5,72.0,False,1.0,88.126,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,18.0,1.0,INTERMEDIATE,18.0,True,1,True,10.0,17.9,26.7,70.0,False,0.8,87.732,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,19.0,1.0,INTERMEDIATE,19.0,True,1,True,11.0,18.0,26.6,72.0,False,1.6,86.668,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,20.0,1.0,INTERMEDIATE,20.0,True,1,True,11.0,18.1,26.7,71.0,False,0.9,87.795,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,21.0,1.0,INTERMEDIATE,21.0,True,1,True,10.0,18.2,27.0,71.0,False,0.9,86.941,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,22.0,1.0,INTERMEDIATE,22.0,True,1,True,10.0,18.2,26.9,72.0,False,0.6,86.823,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,23.0,1.0,INTERMEDIATE,23.0,True,1,True,10.0,18.3,27.3,71.0,False,1.2,86.583,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,24.0,1.0,INTERMEDIATE,24.0,True,12,True,10.0,18.4,27.2,71.0,False,0.8,86.986,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,25.0,1.0,INTERMEDIATE,25.0,True,24,False,8.0,18.5,25.2,70.0,False,1.0,110.699,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,26.0,1.0,INTERMEDIATE,26.0,True,4,False,7.0,18.3,24.5,71.0,False,1.1,111.973,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,27.0,1.0,INTERMEDIATE,27.0,True,4,False,7.0,18.2,24.3,71.0,False,0.7,98.952,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,28.0,1.0,INTERMEDIATE,28.0,True,4,False,7.0,18.1,23.7,72.0,False,0.6,115.483,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,29.0,1.0,INTERMEDIATE,29.0,True,412,False,7.0,18.0,22.8,70.0,True,1.8,129.023,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,30.0,1.0,INTERMEDIATE,30.0,True,1,True,7.0,18.0,22.8,72.0,False,1.1,88.487,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,31.0,1.0,INTERMEDIATE,31.0,True,1,True,7.0,17.9,22.5,72.0,True,0.7,91.035,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,32.0,1.0,INTERMEDIATE,32.0,True,1,True,7.0,17.7,22.3,73.0,True,0.8,91.251,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,33.0,1.0,INTERMEDIATE,33.0,True,1,True,7.0,17.6,22.0,74.0,True,1.1,90.814,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,34.0,1.0,INTERMEDIATE,34.0,True,1,True,7.0,17.4,21.5,76.0,True,0.7,89.198,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,35.0,1.0,INTERMEDIATE,35.0,True,1,True,7.0,17.4,21.5,76.0,True,0.8,88.531,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,36.0,1.0,INTERMEDIATE,36.0,True,1,True,7.0,17.2,21.3,76.0,True,0.8,87.766,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,37.0,1.0,INTERMEDIATE,37.0,True,1,True,7.0,17.1,21.2,76.0,False,0.4,86.869,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,38.0,1.0,INTERMEDIATE,38.0,True,1,True,7.0,17.0,21.3,76.0,False,0.8,87.137,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,39.0,1.0,INTERMEDIATE,39.0,True,1,True,7.0,17.1,21.2,76.0,False,0.7,86.152,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,40.0,1.0,INTERMEDIATE,40.0,True,1,True,7.0,17.1,21.2,76.0,False,1.2,85.706,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,41.0,1.0,INTERMEDIATE,41.0,True,12,True,7.0,17.2,21.3,76.0,False,0.8,85.333,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,42.0,1.0,INTERMEDIATE,42.0,True,1,True,7.0,17.3,22.9,75.0,False,1.2,84.661,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,43.0,1.0,INTERMEDIATE,43.0,True,1,True,6.0,17.5,23.9,77.0,False,0.5,84.662,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,44.0,1.0,INTERMEDIATE,44.0,True,1,False,7.0,17.7,24.9,77.0,False,0.8,102.357,True,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,45.0,2.0,MEDIUM,1.0,True,1,False,7.0,18.2,25.9,76.0,False,0.6,92.947,True,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,46.0,2.0,MEDIUM,2.0,True,1,True,7.0,18.5,26.3,77.0,False,0.7,85.271,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,47.0,2.0,MEDIUM,3.0,True,1,True,7.0,18.5,26.9,75.0,False,1.2,84.457,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,48.0,2.0,MEDIUM,4.0,True,1,True,7.0,18.7,26.7,73.0,False,0.7,82.657,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,49.0,2.0,MEDIUM,5.0,True,12,True,7.0,18.9,26.4,74.0,False,1.8,81.323,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,50.0,2.0,MEDIUM,6.0,True,1,True,7.0,18.9,26.4,74.0,False,0.8,79.986,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,51.0,2.0,MEDIUM,7.0,True,1,True,7.0,18.9,27.0,74.0,False,0.9,79.266,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,52.0,2.0,MEDIUM,8.0,True,12,True,8.0,18.9,27.0,74.0,False,1.6,82.492,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,53.0,2.0,MEDIUM,9.0,True,124,False,8.0,19.0,26.9,72.0,False,1.1,89.846,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,54.0,2.0,MEDIUM,10.0,True,4,False,8.0,18.9,27.0,72.0,False,1.1,101.514,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,55.0,2.0,MEDIUM,11.0,True,4,False,8.0,18.9,27.0,70.0,False,1.0,96.346,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,56.0,2.0,MEDIUM,12.0,True,4,False,8.0,18.8,26.9,71.0,False,1.3,117.555,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,57.0,2.0,MEDIUM,13.0,True,4,False,8.0,18.7,26.9,71.0,False,0.6,113.912,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,58.0,2.0,MEDIUM,14.0,True,41,False,8.0,18.8,26.1,70.0,False,1.4,130.588,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,59.0,2.0,MEDIUM,15.0,True,1,True,8.0,18.8,25.8,72.0,False,1.5,80.714,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,60.0,2.0,MEDIUM,16.0,True,1,True,8.0,18.8,25.7,71.0,False,1.9,78.976,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,61.0,2.0,MEDIUM,17.0,True,1,True,9.0,18.9,26.9,72.0,False,1.1,80.193,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,62.0,2.0,MEDIUM,18.0,True,1,True,9.0,19.0,26.9,72.0,False,1.3,78.186,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,63.0,2.0,MEDIUM,19.0,True,1,True,9.0,19.1,26.8,70.0,False,2.4,78.027,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,64.0,2.0,MEDIUM,20.0,True,1,True,9.0,19.0,27.7,70.0,False,2.5,77.622,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,65.0,2.0,MEDIUM,21.0,True,1,True,9.0,18.9,27.8,70.0,False,1.7,77.956,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,66.0,2.0,MEDIUM,22.0,True,12,True,14.0,18.7,28.0,68.0,False,3.1,98.894,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,67.0,2.0,MEDIUM,23.0,True,1,True,14.0,18.6,28.2,68.0,False,2.2,78.847,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,68.0,2.0,MEDIUM,24.0,True,1,True,14.0,18.5,28.5,69.0,False,1.8,78.764,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,69.0,2.0,MEDIUM,25.0,True,1,True,14.0,18.4,27.0,69.0,False,2.1,77.816,False,70,2024,9,Canadian Grand Prix,2024_09
+TSU,RB,70.0,2.0,MEDIUM,26.0,True,1,True,14.0,18.3,26.5,68.0,False,1.3,77.309,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,1.0,1.0,INTERMEDIATE,1.0,True,12,False,12.0,16.3,20.7,77.0,True,1.4,115.787,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,2.0,1.0,INTERMEDIATE,2.0,True,1,True,13.0,16.3,20.7,76.0,True,1.5,102.91,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,3.0,1.0,INTERMEDIATE,3.0,True,1,True,13.0,16.2,20.4,74.0,True,1.4,99.947,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,4.0,1.0,INTERMEDIATE,4.0,True,1,True,13.0,16.0,19.9,76.0,True,1.3,97.922,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,5.0,1.0,INTERMEDIATE,5.0,True,1,True,13.0,16.0,19.9,78.0,True,0.9,98.077,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,6.0,1.0,INTERMEDIATE,6.0,True,12,True,13.0,16.0,20.0,78.0,True,1.7,95.917,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,7.0,1.0,INTERMEDIATE,7.0,True,1,True,13.0,15.9,20.3,77.0,True,1.4,93.969,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,8.0,1.0,INTERMEDIATE,8.0,True,1,True,12.0,16.0,20.5,80.0,True,1.3,92.963,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,9.0,1.0,INTERMEDIATE,9.0,True,1,True,12.0,16.5,23.8,78.0,True,1.1,92.225,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,10.0,1.0,INTERMEDIATE,10.0,True,1,True,12.0,16.5,24.5,78.0,False,1.2,91.606,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,11.0,1.0,INTERMEDIATE,11.0,True,1,True,12.0,17.0,25.3,79.0,False,0.7,93.286,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,12.0,1.0,INTERMEDIATE,12.0,True,1,True,11.0,17.3,25.7,78.0,False,0.5,93.609,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,13.0,1.0,INTERMEDIATE,13.0,True,1,True,11.0,17.5,25.8,72.0,False,1.1,90.275,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,14.0,1.0,INTERMEDIATE,14.0,True,1,True,11.0,17.5,25.9,74.0,False,1.4,89.832,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,15.0,1.0,INTERMEDIATE,15.0,True,1,True,11.0,17.6,26.3,73.0,False,1.5,89.027,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,16.0,1.0,INTERMEDIATE,16.0,True,1,True,11.0,17.7,26.3,72.0,False,1.9,88.664,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,17.0,1.0,INTERMEDIATE,17.0,True,1,True,11.0,17.9,26.5,72.0,False,1.0,88.734,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,18.0,1.0,INTERMEDIATE,18.0,True,1,True,11.0,17.9,26.7,70.0,False,0.8,86.754,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,19.0,1.0,INTERMEDIATE,19.0,True,1,True,10.0,18.0,26.6,72.0,False,1.6,85.842,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,20.0,1.0,INTERMEDIATE,20.0,True,1,True,9.0,18.1,26.7,71.0,False,0.9,86.838,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,21.0,1.0,INTERMEDIATE,21.0,True,1,True,9.0,18.2,27.0,71.0,False,0.9,87.129,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,22.0,1.0,INTERMEDIATE,22.0,True,1,True,9.0,18.2,26.9,72.0,False,0.6,86.207,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,23.0,1.0,INTERMEDIATE,23.0,True,1,True,9.0,18.3,27.3,71.0,False,1.2,86.766,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,24.0,1.0,INTERMEDIATE,24.0,True,12,True,9.0,18.4,27.2,71.0,False,0.8,86.715,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,25.0,1.0,INTERMEDIATE,25.0,True,24,False,11.0,18.5,25.2,70.0,False,1.0,125.52,True,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,26.0,2.0,INTERMEDIATE,1.0,True,4,False,11.0,18.2,24.4,71.0,False,0.7,111.701,True,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,27.0,2.0,INTERMEDIATE,2.0,True,4,False,11.0,18.2,24.3,71.0,False,0.7,103.92,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,28.0,2.0,INTERMEDIATE,3.0,True,4,False,11.0,18.1,23.7,72.0,False,0.6,104.477,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,29.0,2.0,INTERMEDIATE,4.0,True,412,False,11.0,18.0,22.8,70.0,True,1.8,125.011,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,30.0,2.0,INTERMEDIATE,5.0,True,1,True,9.0,18.0,22.8,72.0,False,1.1,89.23,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,31.0,2.0,INTERMEDIATE,6.0,True,1,True,9.0,17.9,22.5,72.0,True,0.7,90.375,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,32.0,2.0,INTERMEDIATE,7.0,True,1,True,9.0,17.7,22.3,73.0,True,0.8,91.152,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,33.0,2.0,INTERMEDIATE,8.0,True,1,True,9.0,17.5,21.7,75.0,True,0.5,90.349,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,34.0,2.0,INTERMEDIATE,9.0,True,1,True,9.0,17.4,21.5,76.0,True,0.7,89.966,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,35.0,2.0,INTERMEDIATE,10.0,True,1,True,9.0,17.3,21.5,77.0,True,1.0,88.754,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,36.0,2.0,INTERMEDIATE,11.0,True,1,True,9.0,17.2,21.3,76.0,True,0.8,88.014,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,37.0,2.0,INTERMEDIATE,12.0,True,1,True,9.0,17.1,21.2,76.0,False,0.4,87.411,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,38.0,2.0,INTERMEDIATE,13.0,True,1,True,9.0,17.0,21.3,76.0,False,0.8,86.977,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,39.0,2.0,INTERMEDIATE,14.0,True,1,True,9.0,17.1,21.2,76.0,False,0.7,86.457,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,40.0,2.0,INTERMEDIATE,15.0,True,1,True,9.0,17.1,21.2,76.0,False,1.2,85.607,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,41.0,2.0,INTERMEDIATE,16.0,True,12,True,9.0,17.2,21.3,76.0,False,0.8,85.222,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,42.0,2.0,INTERMEDIATE,17.0,True,1,True,9.0,17.3,22.9,75.0,False,1.2,85.693,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,43.0,2.0,INTERMEDIATE,18.0,True,1,True,10.0,17.5,23.9,77.0,False,0.5,86.284,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,44.0,2.0,INTERMEDIATE,19.0,True,1,False,10.0,17.9,25.7,75.0,False,0.5,103.196,True,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,45.0,3.0,MEDIUM,1.0,True,1,False,10.0,18.2,25.9,76.0,False,0.6,91.836,True,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,46.0,3.0,MEDIUM,2.0,True,1,True,10.0,18.5,26.3,77.0,False,0.7,84.215,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,47.0,3.0,MEDIUM,3.0,True,1,True,10.0,18.5,26.9,75.0,False,1.2,83.231,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,48.0,3.0,MEDIUM,4.0,True,1,True,10.0,18.7,26.7,73.0,False,0.7,81.247,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,49.0,3.0,MEDIUM,5.0,True,12,True,10.0,18.9,26.4,74.0,False,1.8,80.712,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,50.0,3.0,MEDIUM,6.0,True,1,True,10.0,18.9,26.4,74.0,False,0.8,79.939,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,51.0,3.0,MEDIUM,7.0,True,1,True,10.0,18.9,27.0,74.0,False,0.9,79.359,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,52.0,3.0,MEDIUM,8.0,True,12,True,11.0,18.9,27.0,74.0,False,1.6,82.184,False,70,2024,9,Canadian Grand Prix,2024_09
+ALB,Williams,53.0,3.0,MEDIUM,9.0,True,124,False,,19.0,26.9,72.0,False,1.1,,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,1.0,1.0,INTERMEDIATE,1.0,True,12,False,20.0,16.3,20.7,77.0,True,1.4,123.563,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,2.0,1.0,INTERMEDIATE,2.0,True,1,True,20.0,16.3,20.6,75.0,True,1.1,103.668,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,3.0,1.0,INTERMEDIATE,3.0,True,1,True,20.0,16.2,20.4,74.0,True,1.4,101.41,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,4.0,1.0,INTERMEDIATE,4.0,True,1,True,20.0,16.0,19.9,76.0,True,1.3,99.785,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,5.0,1.0,INTERMEDIATE,5.0,True,1,True,20.0,15.9,19.9,78.0,True,0.8,98.327,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,6.0,1.0,INTERMEDIATE,6.0,True,12,True,19.0,16.0,20.0,78.0,True,1.7,97.528,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,7.0,1.0,INTERMEDIATE,7.0,True,1,True,19.0,15.9,20.3,77.0,True,1.4,95.318,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,8.0,1.0,INTERMEDIATE,8.0,True,1,True,19.0,16.0,20.5,80.0,True,1.3,93.889,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,9.0,1.0,INTERMEDIATE,9.0,True,1,True,19.0,16.5,23.8,78.0,True,1.1,93.064,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,10.0,1.0,INTERMEDIATE,10.0,True,1,True,19.0,16.8,24.8,76.0,False,1.2,92.906,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,11.0,1.0,INTERMEDIATE,11.0,True,1,True,19.0,17.0,25.3,79.0,False,0.7,91.991,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,12.0,1.0,INTERMEDIATE,12.0,True,1,True,18.0,17.4,25.8,74.0,False,0.6,90.817,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,13.0,1.0,INTERMEDIATE,13.0,True,1,True,18.0,17.5,25.8,72.0,False,1.1,91.764,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,14.0,1.0,INTERMEDIATE,14.0,True,1,True,18.0,17.5,26.1,72.0,False,1.5,90.422,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,15.0,1.0,INTERMEDIATE,15.0,True,1,True,18.0,17.6,26.3,73.0,False,1.5,90.551,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,16.0,1.0,INTERMEDIATE,16.0,True,1,True,18.0,17.9,26.3,73.0,False,1.2,89.69,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,17.0,1.0,INTERMEDIATE,17.0,True,1,True,18.0,17.9,26.5,72.0,False,1.0,88.591,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,18.0,1.0,INTERMEDIATE,18.0,True,1,True,18.0,18.0,26.7,71.0,False,1.1,87.715,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,19.0,1.0,INTERMEDIATE,19.0,True,1,True,18.0,18.0,26.6,72.0,False,1.6,88.23,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,20.0,1.0,INTERMEDIATE,20.0,True,1,True,19.0,18.2,27.0,72.0,False,0.7,89.249,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,21.0,1.0,INTERMEDIATE,21.0,True,1,True,19.0,18.2,27.0,71.0,False,0.9,88.014,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,22.0,1.0,INTERMEDIATE,22.0,True,1,True,19.0,18.3,27.3,71.0,False,1.2,88.028,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,23.0,1.0,INTERMEDIATE,23.0,True,1,True,19.0,18.3,27.3,71.0,False,1.2,89.086,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,24.0,1.0,INTERMEDIATE,24.0,True,124,False,19.0,18.4,26.1,71.0,False,1.1,111.792,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,25.0,2.0,INTERMEDIATE,1.0,True,4,False,19.0,18.5,25.2,70.0,False,1.0,113.347,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,26.0,2.0,INTERMEDIATE,2.0,True,4,False,19.0,18.2,24.4,71.0,False,0.7,103.444,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,27.0,2.0,INTERMEDIATE,3.0,True,4,False,19.0,18.2,23.8,72.0,False,0.0,98.459,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,28.0,2.0,INTERMEDIATE,4.0,True,4,False,18.0,18.0,23.4,71.0,True,0.8,97.486,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,29.0,2.0,INTERMEDIATE,5.0,True,412,False,18.0,18.0,22.8,70.0,True,1.8,107.471,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,30.0,2.0,INTERMEDIATE,6.0,True,1,True,18.0,18.0,22.8,72.0,False,1.1,89.176,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,31.0,2.0,INTERMEDIATE,7.0,True,1,True,17.0,17.7,22.4,73.0,True,0.5,93.635,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,32.0,2.0,INTERMEDIATE,8.0,True,1,True,17.0,17.7,22.3,73.0,True,0.8,91.705,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,33.0,2.0,INTERMEDIATE,9.0,True,1,True,17.0,17.5,21.7,75.0,True,0.5,91.437,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,34.0,2.0,INTERMEDIATE,10.0,True,1,True,17.0,17.4,21.5,76.0,True,0.7,89.049,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,35.0,2.0,INTERMEDIATE,11.0,True,1,True,17.0,17.3,21.5,77.0,True,1.0,89.16,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,36.0,2.0,INTERMEDIATE,12.0,True,1,True,17.0,17.2,21.3,76.0,True,0.8,87.649,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,37.0,2.0,INTERMEDIATE,13.0,True,1,True,18.0,17.0,21.3,75.0,False,1.5,88.11,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,38.0,2.0,INTERMEDIATE,14.0,True,1,True,18.0,17.0,21.3,76.0,False,0.8,87.928,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,39.0,2.0,INTERMEDIATE,15.0,True,1,True,18.0,17.1,21.2,76.0,False,1.5,87.877,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,40.0,2.0,INTERMEDIATE,16.0,True,1,True,17.0,17.1,21.2,76.0,False,1.2,87.729,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,41.0,2.0,INTERMEDIATE,17.0,True,12,True,16.0,17.2,21.3,76.0,False,0.8,87.373,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,42.0,2.0,INTERMEDIATE,18.0,True,1,True,15.0,17.3,22.9,75.0,False,1.2,87.01,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,43.0,2.0,INTERMEDIATE,19.0,True,1,True,12.0,17.5,23.9,77.0,False,0.5,87.246,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,44.0,2.0,INTERMEDIATE,20.0,True,1,False,18.0,17.9,25.7,75.0,False,0.5,145.739,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,45.0,3.0,MEDIUM,1.0,True,1,False,18.0,18.4,26.1,74.0,False,0.8,105.189,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,46.0,3.0,MEDIUM,2.0,True,1,True,18.0,18.5,26.9,75.0,False,1.2,96.767,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,47.0,3.0,MEDIUM,3.0,True,12,True,18.0,18.7,26.7,73.0,False,0.7,92.588,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,48.0,3.0,MEDIUM,4.0,True,1,True,18.0,18.9,26.4,74.0,False,1.8,86.473,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,49.0,3.0,MEDIUM,5.0,True,1,True,18.0,18.8,27.0,76.0,False,0.5,84.909,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,50.0,3.0,MEDIUM,6.0,True,1,True,18.0,18.9,27.0,74.0,False,0.9,82.924,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,51.0,3.0,MEDIUM,7.0,True,12,True,18.0,18.9,27.0,74.0,False,1.6,82.032,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,52.0,3.0,MEDIUM,8.0,True,124,False,18.0,19.0,27.1,72.0,False,1.6,120.698,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,53.0,4.0,MEDIUM,1.0,True,4,False,16.0,18.9,27.0,70.0,False,1.0,121.804,True,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,54.0,4.0,MEDIUM,2.0,True,4,False,15.0,18.8,26.9,71.0,False,1.3,125.152,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,55.0,4.0,MEDIUM,3.0,True,4,False,15.0,18.7,26.9,71.0,False,0.6,96.313,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,56.0,4.0,MEDIUM,4.0,True,4,False,15.0,18.8,26.1,70.0,False,1.4,87.004,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,57.0,4.0,MEDIUM,5.0,True,41,False,15.0,18.8,26.0,71.0,False,2.1,83.316,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,58.0,4.0,MEDIUM,6.0,True,1,True,15.0,18.8,25.8,72.0,False,1.5,80.998,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,59.0,4.0,MEDIUM,7.0,True,1,True,15.0,18.8,26.1,72.0,False,1.9,80.26,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,60.0,4.0,MEDIUM,8.0,True,1,True,15.0,18.9,26.9,72.0,False,1.1,79.699,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,61.0,4.0,MEDIUM,9.0,True,1,True,15.0,19.0,26.9,72.0,False,1.3,79.574,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,62.0,4.0,MEDIUM,10.0,True,1,True,15.0,19.1,26.7,70.0,False,2.8,79.003,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,63.0,4.0,MEDIUM,11.0,True,1,True,15.0,19.0,27.7,70.0,False,2.5,78.754,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,64.0,4.0,MEDIUM,12.0,True,1,True,15.0,18.9,27.8,70.0,False,1.7,78.734,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,65.0,4.0,MEDIUM,13.0,True,12,True,15.0,18.6,28.0,68.0,False,2.6,80.871,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,66.0,4.0,MEDIUM,14.0,True,1,True,15.0,18.6,28.2,68.0,False,2.2,78.762,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,67.0,4.0,MEDIUM,15.0,True,1,True,15.0,18.5,28.5,69.0,False,1.8,78.258,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,68.0,4.0,MEDIUM,16.0,True,1,True,15.0,18.4,27.0,69.0,False,2.1,77.325,False,70,2024,9,Canadian Grand Prix,2024_09
+ZHO,Kick Sauber,69.0,4.0,MEDIUM,17.0,True,1,True,15.0,18.3,26.5,68.0,False,1.3,77.62,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,1.0,1.0,WET,1.0,True,12,False,13.0,16.3,20.7,77.0,True,1.4,116.135,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,2.0,1.0,WET,2.0,True,1,True,10.0,16.3,20.7,76.0,True,1.5,98.64,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,3.0,1.0,WET,3.0,True,1,True,8.0,16.2,20.4,74.0,True,1.4,96.651,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,4.0,1.0,WET,4.0,True,1,True,8.0,16.0,19.9,76.0,True,1.3,95.053,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,5.0,1.0,WET,5.0,True,1,True,8.0,16.0,19.9,78.0,True,0.9,96.104,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,6.0,1.0,WET,6.0,True,12,True,8.0,16.0,20.0,78.0,True,1.7,96.178,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,7.0,1.0,WET,7.0,True,1,True,7.0,16.0,20.1,79.0,True,0.5,96.158,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,8.0,1.0,WET,8.0,True,1,True,7.0,16.0,20.5,80.0,True,1.3,94.17,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,9.0,1.0,WET,9.0,True,1,True,7.0,16.5,23.8,78.0,True,1.1,94.267,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,10.0,1.0,WET,10.0,True,1,True,7.0,16.5,24.5,78.0,False,1.2,94.671,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,11.0,1.0,WET,11.0,True,1,True,8.0,17.0,25.3,79.0,False,0.7,94.672,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,12.0,1.0,WET,12.0,True,1,False,19.0,17.3,25.7,78.0,False,0.5,112.143,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,13.0,2.0,INTERMEDIATE,1.0,True,1,False,19.0,17.5,25.8,72.0,False,1.1,94.271,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,14.0,2.0,INTERMEDIATE,2.0,True,1,True,19.0,17.5,26.1,72.0,False,1.5,88.912,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,15.0,2.0,INTERMEDIATE,3.0,True,1,True,19.0,17.6,26.3,73.0,False,1.5,89.244,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,16.0,2.0,INTERMEDIATE,4.0,True,1,True,19.0,17.9,26.3,73.0,False,1.2,89.141,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,17.0,2.0,INTERMEDIATE,5.0,True,1,True,19.0,17.9,26.5,72.0,False,1.0,88.49,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,18.0,2.0,INTERMEDIATE,6.0,True,1,True,19.0,18.0,26.7,71.0,False,1.1,87.342,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,19.0,2.0,INTERMEDIATE,7.0,True,1,True,19.0,18.0,26.6,72.0,False,1.6,87.468,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,20.0,2.0,INTERMEDIATE,8.0,True,1,True,18.0,18.2,27.0,72.0,False,0.7,87.628,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,21.0,2.0,INTERMEDIATE,9.0,True,1,True,18.0,18.2,27.0,71.0,False,0.9,87.075,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,22.0,2.0,INTERMEDIATE,10.0,True,1,True,18.0,18.3,27.3,71.0,False,1.2,86.395,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,23.0,2.0,INTERMEDIATE,11.0,True,1,True,18.0,18.3,27.3,71.0,False,1.2,86.137,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,24.0,2.0,INTERMEDIATE,12.0,True,124,False,18.0,18.4,27.2,71.0,False,0.8,92.444,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,25.0,2.0,INTERMEDIATE,13.0,True,4,False,18.0,18.5,25.2,70.0,False,1.0,123.974,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,26.0,3.0,INTERMEDIATE,1.0,True,4,False,18.0,18.2,24.4,71.0,False,0.7,110.657,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,27.0,3.0,INTERMEDIATE,2.0,True,4,False,18.0,18.2,23.8,72.0,False,0.0,96.646,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,28.0,3.0,INTERMEDIATE,3.0,True,4,False,17.0,18.1,23.7,72.0,False,0.6,99.723,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,29.0,3.0,INTERMEDIATE,4.0,True,412,False,17.0,18.0,22.8,70.0,True,1.8,114.67,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,30.0,3.0,INTERMEDIATE,5.0,True,1,True,17.0,18.0,22.8,72.0,False,1.1,88.818,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,31.0,3.0,INTERMEDIATE,6.0,True,1,True,18.0,17.7,22.4,73.0,True,0.5,95.98,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,32.0,3.0,INTERMEDIATE,7.0,True,1,True,18.0,17.7,22.3,73.0,True,0.8,91.076,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,33.0,3.0,INTERMEDIATE,8.0,True,1,True,18.0,17.5,21.7,75.0,True,0.5,91.331,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,34.0,3.0,INTERMEDIATE,9.0,True,1,True,18.0,17.4,21.5,76.0,True,0.7,89.317,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,35.0,3.0,INTERMEDIATE,10.0,True,1,True,18.0,17.3,21.5,77.0,True,1.0,88.716,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,36.0,3.0,INTERMEDIATE,11.0,True,1,True,18.0,17.2,21.3,76.0,True,0.8,87.583,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,37.0,3.0,INTERMEDIATE,12.0,True,1,True,17.0,17.0,21.3,75.0,False,1.5,86.971,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,38.0,3.0,INTERMEDIATE,13.0,True,1,True,17.0,17.0,21.3,76.0,False,0.8,86.001,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,39.0,3.0,INTERMEDIATE,14.0,True,1,True,17.0,17.1,21.2,76.0,False,0.7,86.349,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,40.0,3.0,INTERMEDIATE,15.0,True,1,True,16.0,17.1,21.2,76.0,False,1.2,87.576,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,41.0,3.0,INTERMEDIATE,16.0,True,12,True,15.0,17.2,21.3,76.0,False,0.8,85.789,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,42.0,3.0,INTERMEDIATE,17.0,True,1,True,14.0,17.3,22.9,75.0,False,1.2,85.838,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,43.0,3.0,INTERMEDIATE,18.0,True,1,True,11.0,17.5,23.9,77.0,False,0.5,86.465,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,44.0,3.0,INTERMEDIATE,19.0,True,1,False,12.0,17.9,25.7,75.0,False,0.5,102.199,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,45.0,4.0,MEDIUM,1.0,True,1,False,14.0,18.2,25.9,76.0,False,0.6,91.09,True,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,46.0,4.0,MEDIUM,2.0,True,1,True,14.0,18.5,26.3,77.0,False,0.7,83.459,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,47.0,4.0,MEDIUM,3.0,True,1,True,15.0,18.5,26.9,75.0,False,1.2,81.928,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,48.0,4.0,MEDIUM,4.0,True,1,True,15.0,18.7,26.7,73.0,False,0.7,80.989,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,49.0,4.0,MEDIUM,5.0,True,12,True,15.0,18.9,26.4,74.0,False,1.8,80.943,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,50.0,4.0,MEDIUM,6.0,True,1,True,15.0,18.9,26.4,74.0,False,0.8,79.892,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,51.0,4.0,MEDIUM,7.0,True,1,True,15.0,18.9,27.0,74.0,False,0.9,79.655,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,52.0,4.0,MEDIUM,8.0,True,12,True,14.0,18.9,27.0,74.0,False,1.6,80.63,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,53.0,4.0,MEDIUM,9.0,True,124,False,12.0,19.0,26.9,72.0,False,1.1,93.269,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,54.0,4.0,MEDIUM,10.0,True,4,False,12.0,18.9,27.0,72.0,False,1.1,102.03,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,55.0,4.0,MEDIUM,11.0,True,4,False,12.0,19.0,26.8,69.0,False,2.0,94.557,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,56.0,4.0,MEDIUM,12.0,True,4,False,12.0,18.8,26.9,71.0,False,1.3,114.698,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,57.0,4.0,MEDIUM,13.0,True,4,False,12.0,18.7,26.9,71.0,False,0.6,113.609,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,58.0,4.0,MEDIUM,14.0,True,41,False,12.0,18.8,26.1,70.0,False,1.4,127.632,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,59.0,4.0,MEDIUM,15.0,True,1,True,12.0,18.8,25.8,72.0,False,1.5,81.788,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,60.0,4.0,MEDIUM,16.0,True,1,True,12.0,18.8,26.1,72.0,False,1.9,78.283,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,61.0,4.0,MEDIUM,17.0,True,1,True,12.0,18.9,26.9,72.0,False,1.1,78.547,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,62.0,4.0,MEDIUM,18.0,True,1,True,12.0,19.0,26.9,72.0,False,1.3,78.779,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,63.0,4.0,MEDIUM,19.0,True,1,True,12.0,19.1,26.8,70.0,False,2.4,78.039,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,64.0,4.0,MEDIUM,20.0,True,1,True,12.0,19.0,27.7,70.0,False,2.5,77.484,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,65.0,4.0,MEDIUM,21.0,True,1,True,12.0,18.9,27.8,70.0,False,1.7,77.78,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,66.0,4.0,MEDIUM,22.0,True,12,True,11.0,18.7,28.0,68.0,False,3.1,80.926,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,67.0,4.0,MEDIUM,23.0,True,1,True,11.0,18.6,28.2,68.0,False,2.2,76.683,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,68.0,4.0,MEDIUM,24.0,True,1,True,11.0,18.5,28.5,69.0,False,1.8,77.028,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,69.0,4.0,MEDIUM,25.0,True,1,True,11.0,18.5,27.8,69.0,False,1.1,76.789,False,70,2024,9,Canadian Grand Prix,2024_09
+HUL,Haas F1 Team,70.0,4.0,MEDIUM,26.0,True,1,True,11.0,18.3,26.5,68.0,False,1.3,77.176,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,1.0,1.0,INTERMEDIATE,1.0,True,12,False,7.0,16.3,20.7,77.0,True,1.4,111.305,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,2.0,1.0,INTERMEDIATE,2.0,True,1,True,8.0,16.3,20.7,76.0,True,1.5,101.606,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,3.0,1.0,INTERMEDIATE,3.0,True,1,True,9.0,16.2,20.4,74.0,True,1.4,100.559,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,4.0,1.0,INTERMEDIATE,4.0,True,1,True,9.0,16.0,19.9,76.0,True,1.3,97.504,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,5.0,1.0,INTERMEDIATE,5.0,True,1,True,9.0,16.0,19.9,78.0,True,0.9,97.388,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,6.0,1.0,INTERMEDIATE,6.0,True,12,True,9.0,16.0,20.0,78.0,True,1.7,96.684,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,7.0,1.0,INTERMEDIATE,7.0,True,1,True,8.0,15.9,20.3,77.0,True,1.4,93.997,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,8.0,1.0,INTERMEDIATE,8.0,True,1,True,8.0,16.0,20.5,80.0,True,1.3,93.341,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,9.0,1.0,INTERMEDIATE,9.0,True,1,True,8.0,16.5,23.8,78.0,True,1.1,92.518,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,10.0,1.0,INTERMEDIATE,10.0,True,1,True,8.0,16.5,24.5,78.0,False,1.2,93.382,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,11.0,1.0,INTERMEDIATE,11.0,True,1,True,7.0,17.0,25.3,79.0,False,0.7,93.504,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,12.0,1.0,INTERMEDIATE,12.0,True,1,True,7.0,17.3,25.7,78.0,False,0.5,90.514,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,13.0,1.0,INTERMEDIATE,13.0,True,1,True,7.0,17.5,25.8,72.0,False,1.1,90.251,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,14.0,1.0,INTERMEDIATE,14.0,True,1,True,7.0,17.5,25.9,74.0,False,1.4,88.964,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,15.0,1.0,INTERMEDIATE,15.0,True,1,True,7.0,17.6,26.3,73.0,False,1.5,88.743,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,16.0,1.0,INTERMEDIATE,16.0,True,1,True,7.0,17.7,26.3,72.0,False,1.9,87.883,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,17.0,1.0,INTERMEDIATE,17.0,True,1,True,7.0,17.9,26.5,72.0,False,1.0,87.787,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,18.0,1.0,INTERMEDIATE,18.0,True,1,True,7.0,17.9,26.7,70.0,False,0.8,86.959,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,19.0,1.0,INTERMEDIATE,19.0,True,1,True,7.0,18.0,26.6,72.0,False,1.6,86.679,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,20.0,1.0,INTERMEDIATE,20.0,True,1,True,7.0,18.1,26.7,71.0,False,0.9,86.554,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,21.0,1.0,INTERMEDIATE,21.0,True,1,True,7.0,18.2,27.0,71.0,False,0.9,86.135,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,22.0,1.0,INTERMEDIATE,22.0,True,1,True,7.0,18.2,26.9,72.0,False,0.6,85.962,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,23.0,1.0,INTERMEDIATE,23.0,True,1,True,7.0,18.3,27.3,71.0,False,1.2,86.684,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,24.0,1.0,INTERMEDIATE,24.0,True,12,True,7.0,18.4,27.2,71.0,False,0.8,86.226,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,25.0,1.0,INTERMEDIATE,25.0,True,24,False,7.0,18.4,26.1,71.0,False,1.1,110.163,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,26.0,1.0,INTERMEDIATE,26.0,True,4,False,10.0,18.3,24.5,71.0,False,1.1,133.16,True,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,27.0,2.0,INTERMEDIATE,1.0,True,4,False,10.0,18.2,24.3,71.0,False,0.7,104.716,True,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,28.0,2.0,INTERMEDIATE,2.0,True,4,False,10.0,18.1,23.7,72.0,False,0.6,106.151,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,29.0,2.0,INTERMEDIATE,3.0,True,412,False,10.0,18.0,22.8,70.0,True,1.8,126.18,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,30.0,2.0,INTERMEDIATE,4.0,True,1,True,11.0,18.0,22.8,72.0,False,1.1,90.655,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,31.0,2.0,INTERMEDIATE,5.0,True,1,True,11.0,17.7,22.4,73.0,True,0.5,92.15,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,32.0,2.0,INTERMEDIATE,6.0,True,1,True,11.0,17.7,22.3,73.0,True,0.8,91.669,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,33.0,2.0,INTERMEDIATE,7.0,True,1,True,11.0,17.5,21.7,75.0,True,0.5,89.874,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,34.0,2.0,INTERMEDIATE,8.0,True,1,True,11.0,17.4,21.5,76.0,True,0.7,89.15,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,35.0,2.0,INTERMEDIATE,9.0,True,1,True,11.0,17.3,21.5,77.0,True,1.0,88.634,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,36.0,2.0,INTERMEDIATE,10.0,True,1,True,11.0,17.2,21.3,76.0,True,0.8,88.337,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,37.0,2.0,INTERMEDIATE,11.0,True,1,True,11.0,17.0,21.3,75.0,False,1.5,86.916,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,38.0,2.0,INTERMEDIATE,12.0,True,1,True,11.0,17.0,21.3,76.0,False,0.8,86.647,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,39.0,2.0,INTERMEDIATE,13.0,True,1,True,11.0,17.1,21.2,76.0,False,0.7,86.446,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,40.0,2.0,INTERMEDIATE,14.0,True,1,True,11.0,17.1,21.2,76.0,False,1.2,86.329,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,41.0,2.0,INTERMEDIATE,15.0,True,12,True,11.0,17.2,21.3,76.0,False,0.8,85.782,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,42.0,2.0,INTERMEDIATE,16.0,True,1,True,11.0,17.3,22.9,75.0,False,1.2,85.748,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,43.0,2.0,INTERMEDIATE,17.0,True,1,False,13.0,17.5,23.9,77.0,False,0.5,101.557,True,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,44.0,3.0,MEDIUM,2.0,False,1,False,11.0,17.9,25.7,75.0,False,0.5,93.366,True,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,45.0,3.0,MEDIUM,3.0,False,1,True,11.0,18.2,25.9,76.0,False,0.6,84.267,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,46.0,3.0,MEDIUM,4.0,False,1,True,11.0,18.5,26.3,77.0,False,0.7,83.788,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,47.0,3.0,MEDIUM,5.0,False,1,True,12.0,18.5,26.9,75.0,False,1.2,83.86,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,48.0,3.0,MEDIUM,6.0,False,1,True,12.0,18.7,26.7,73.0,False,0.7,84.303,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,49.0,3.0,MEDIUM,7.0,False,12,True,12.0,18.9,26.4,74.0,False,1.8,81.04,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,50.0,3.0,MEDIUM,8.0,False,1,True,12.0,18.9,26.4,74.0,False,0.8,79.638,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,51.0,3.0,MEDIUM,9.0,False,1,True,12.0,18.9,27.0,74.0,False,0.9,79.014,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,52.0,3.0,MEDIUM,10.0,False,12,True,12.0,18.9,27.0,74.0,False,1.6,78.829,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,53.0,3.0,MEDIUM,11.0,False,124,False,10.0,19.0,26.9,72.0,False,1.1,95.907,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,54.0,3.0,MEDIUM,12.0,False,4,False,10.0,18.9,27.0,72.0,False,1.1,101.111,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,55.0,3.0,MEDIUM,13.0,False,4,False,10.0,19.0,26.8,69.0,False,2.0,93.794,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,56.0,3.0,MEDIUM,14.0,False,4,False,10.0,18.8,26.9,71.0,False,1.3,115.239,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,57.0,3.0,MEDIUM,15.0,False,4,False,10.0,18.7,26.9,71.0,False,0.6,113.596,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,58.0,3.0,MEDIUM,16.0,False,41,False,10.0,18.8,26.1,70.0,False,1.4,129.092,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,59.0,3.0,MEDIUM,17.0,False,1,True,10.0,18.8,25.8,72.0,False,1.5,81.225,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,60.0,3.0,MEDIUM,18.0,False,1,True,10.0,18.8,25.7,71.0,False,1.9,78.796,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,61.0,3.0,MEDIUM,19.0,False,1,True,10.0,18.9,26.9,72.0,False,1.1,79.187,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,62.0,3.0,MEDIUM,20.0,False,1,True,10.0,19.0,26.9,72.0,False,1.3,78.351,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,63.0,3.0,MEDIUM,21.0,False,1,True,10.0,19.1,26.8,70.0,False,2.4,77.877,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,64.0,3.0,MEDIUM,22.0,False,1,True,10.0,19.0,27.7,70.0,False,2.5,77.868,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,65.0,3.0,MEDIUM,23.0,False,1,True,10.0,18.9,27.8,70.0,False,1.7,77.791,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,66.0,3.0,MEDIUM,24.0,False,12,True,9.0,18.7,28.0,68.0,False,3.1,78.056,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,67.0,3.0,MEDIUM,25.0,False,1,True,8.0,18.6,28.2,68.0,False,2.2,77.192,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,68.0,3.0,MEDIUM,26.0,False,1,True,8.0,18.5,28.5,69.0,False,1.8,77.076,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,69.0,3.0,MEDIUM,27.0,False,1,True,8.0,18.5,27.8,69.0,False,1.1,77.234,False,70,2024,9,Canadian Grand Prix,2024_09
+RIC,RB,70.0,3.0,MEDIUM,28.0,False,1,True,8.0,18.4,27.0,69.0,False,2.1,77.709,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,1.0,1.0,INTERMEDIATE,1.0,True,12,False,16.0,16.3,20.7,77.0,True,1.4,118.926,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,2.0,1.0,INTERMEDIATE,2.0,True,1,True,16.0,16.3,20.7,76.0,True,1.5,102.937,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,3.0,1.0,INTERMEDIATE,3.0,True,1,True,16.0,16.2,20.4,74.0,True,1.4,100.159,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,4.0,1.0,INTERMEDIATE,4.0,True,1,True,16.0,16.0,19.9,76.0,True,1.3,99.746,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,5.0,1.0,INTERMEDIATE,5.0,True,1,True,16.0,15.9,19.9,78.0,True,0.8,98.507,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,6.0,1.0,INTERMEDIATE,6.0,True,12,True,15.0,16.0,20.0,78.0,True,1.7,96.501,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,7.0,1.0,INTERMEDIATE,7.0,True,1,True,15.0,15.9,20.3,77.0,True,1.4,93.72,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,8.0,1.0,INTERMEDIATE,8.0,True,1,True,15.0,16.0,20.5,80.0,True,1.3,93.301,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,9.0,1.0,INTERMEDIATE,9.0,True,1,True,15.0,16.5,23.8,78.0,True,1.1,92.887,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,10.0,1.0,INTERMEDIATE,10.0,True,1,True,15.0,16.5,24.5,78.0,False,1.2,91.432,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,11.0,1.0,INTERMEDIATE,11.0,True,1,True,15.0,17.0,25.3,79.0,False,0.7,90.896,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,12.0,1.0,INTERMEDIATE,12.0,True,1,True,14.0,17.3,25.7,78.0,False,0.5,92.115,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,13.0,1.0,INTERMEDIATE,13.0,True,1,True,14.0,17.5,25.8,72.0,False,1.1,91.244,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,14.0,1.0,INTERMEDIATE,14.0,True,1,True,14.0,17.5,26.1,72.0,False,1.5,90.081,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,15.0,1.0,INTERMEDIATE,15.0,True,1,True,14.0,17.6,26.3,73.0,False,1.5,89.52,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,16.0,1.0,INTERMEDIATE,16.0,True,1,True,14.0,17.9,26.3,73.0,False,1.2,88.212,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,17.0,1.0,INTERMEDIATE,17.0,True,1,True,14.0,17.9,26.5,72.0,False,1.0,88.208,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,18.0,1.0,INTERMEDIATE,18.0,True,1,True,14.0,17.9,26.7,70.0,False,0.8,87.402,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,19.0,1.0,INTERMEDIATE,19.0,True,1,True,14.0,18.0,26.6,72.0,False,1.6,87.561,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,20.0,1.0,INTERMEDIATE,20.0,True,1,True,14.0,18.1,26.7,71.0,False,0.9,87.138,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,21.0,1.0,INTERMEDIATE,21.0,True,1,True,14.0,18.2,27.0,71.0,False,0.9,87.829,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,22.0,1.0,INTERMEDIATE,22.0,True,1,True,14.0,18.2,26.9,72.0,False,0.6,86.654,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,23.0,1.0,INTERMEDIATE,23.0,True,1,True,14.0,18.3,27.3,71.0,False,1.2,86.736,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,24.0,1.0,INTERMEDIATE,24.0,True,12,True,14.0,18.4,27.2,71.0,False,0.8,87.201,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,25.0,1.0,INTERMEDIATE,25.0,True,24,False,10.0,18.5,25.2,70.0,False,1.0,112.693,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,26.0,1.0,INTERMEDIATE,26.0,True,4,False,9.0,18.2,24.4,71.0,False,0.7,111.937,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,27.0,1.0,INTERMEDIATE,27.0,True,4,False,9.0,18.2,24.3,71.0,False,0.7,98.353,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,28.0,1.0,INTERMEDIATE,28.0,True,4,False,9.0,18.1,23.7,72.0,False,0.6,111.378,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,29.0,1.0,INTERMEDIATE,29.0,True,412,False,9.0,18.0,22.8,70.0,True,1.8,127.566,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,30.0,1.0,INTERMEDIATE,30.0,True,1,True,10.0,18.0,22.8,72.0,False,1.1,91.187,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,31.0,1.0,INTERMEDIATE,31.0,True,1,True,10.0,17.7,22.4,73.0,True,0.5,91.377,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,32.0,1.0,INTERMEDIATE,32.0,True,1,True,10.0,17.7,22.3,73.0,True,0.8,91.386,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,33.0,1.0,INTERMEDIATE,33.0,True,1,True,10.0,17.5,21.7,75.0,True,0.5,90.147,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,34.0,1.0,INTERMEDIATE,34.0,True,1,True,10.0,17.4,21.5,76.0,True,0.7,88.896,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,35.0,1.0,INTERMEDIATE,35.0,True,1,True,10.0,17.3,21.5,77.0,True,1.0,88.819,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,36.0,1.0,INTERMEDIATE,36.0,True,1,True,10.0,17.2,21.3,76.0,True,0.8,87.907,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,37.0,1.0,INTERMEDIATE,37.0,True,1,True,10.0,17.1,21.2,76.0,False,0.4,87.67,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,38.0,1.0,INTERMEDIATE,38.0,True,1,True,10.0,17.0,21.3,76.0,False,0.8,86.721,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,39.0,1.0,INTERMEDIATE,39.0,True,1,True,10.0,17.1,21.2,76.0,False,0.7,86.213,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,40.0,1.0,INTERMEDIATE,40.0,True,1,True,10.0,17.1,21.2,76.0,False,1.2,85.435,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,41.0,1.0,INTERMEDIATE,41.0,True,12,True,10.0,17.2,21.3,76.0,False,0.8,85.547,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,42.0,1.0,INTERMEDIATE,42.0,True,1,True,10.0,17.3,22.9,75.0,False,1.2,85.187,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,43.0,1.0,INTERMEDIATE,43.0,True,1,True,9.0,17.5,23.9,77.0,False,0.5,84.927,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,44.0,1.0,INTERMEDIATE,44.0,True,1,False,9.0,17.9,25.7,75.0,False,0.5,101.451,True,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,45.0,2.0,MEDIUM,1.0,True,1,False,9.0,18.2,25.9,76.0,False,0.6,93.259,True,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,46.0,2.0,MEDIUM,2.0,True,1,True,9.0,18.5,26.3,77.0,False,0.7,85.047,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,47.0,2.0,MEDIUM,3.0,True,1,True,9.0,18.5,26.9,75.0,False,1.2,82.874,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,48.0,2.0,MEDIUM,4.0,True,1,True,9.0,18.7,26.7,73.0,False,0.7,81.453,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,49.0,2.0,MEDIUM,5.0,True,12,True,9.0,18.9,26.4,74.0,False,1.8,80.768,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,50.0,2.0,MEDIUM,6.0,True,1,True,9.0,18.9,26.4,74.0,False,0.8,79.789,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,51.0,2.0,MEDIUM,7.0,True,1,True,9.0,18.9,27.0,74.0,False,0.9,79.399,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,52.0,2.0,MEDIUM,8.0,True,12,True,9.0,18.9,27.0,74.0,False,1.6,81.816,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,53.0,2.0,MEDIUM,9.0,True,124,False,9.0,19.0,26.9,72.0,False,1.1,91.331,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,54.0,2.0,MEDIUM,10.0,True,4,False,9.0,18.9,27.0,72.0,False,1.1,102.299,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,55.0,2.0,MEDIUM,11.0,True,4,False,9.0,19.0,26.8,69.0,False,2.0,95.307,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,56.0,2.0,MEDIUM,12.0,True,4,False,9.0,18.8,26.9,71.0,False,1.3,116.628,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,57.0,2.0,MEDIUM,13.0,True,4,False,9.0,18.7,26.9,71.0,False,0.6,114.304,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,58.0,2.0,MEDIUM,14.0,True,41,False,9.0,18.8,26.1,70.0,False,1.4,129.772,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,59.0,2.0,MEDIUM,15.0,True,1,True,9.0,18.8,25.8,72.0,False,1.5,81.087,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,60.0,2.0,MEDIUM,16.0,True,1,True,9.0,18.8,25.7,71.0,False,1.9,78.608,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,61.0,2.0,MEDIUM,17.0,True,1,True,8.0,18.9,26.9,72.0,False,1.1,79.077,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,62.0,2.0,MEDIUM,18.0,True,1,True,8.0,19.0,26.9,72.0,False,1.3,78.377,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,63.0,2.0,MEDIUM,19.0,True,1,True,8.0,19.1,26.8,70.0,False,2.4,77.902,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,64.0,2.0,MEDIUM,20.0,True,1,True,8.0,19.0,27.7,70.0,False,2.5,77.857,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,65.0,2.0,MEDIUM,21.0,True,1,True,8.0,18.9,27.8,70.0,False,1.7,77.865,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,66.0,2.0,MEDIUM,22.0,True,12,True,8.0,18.7,28.0,68.0,False,3.1,78.377,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,67.0,2.0,MEDIUM,23.0,True,1,True,9.0,18.6,28.2,68.0,False,2.2,78.275,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,68.0,2.0,MEDIUM,24.0,True,1,True,9.0,18.5,28.5,69.0,False,1.8,77.754,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,69.0,2.0,MEDIUM,25.0,True,1,True,10.0,18.5,27.8,69.0,False,1.1,78.293,False,70,2024,9,Canadian Grand Prix,2024_09
+OCO,Alpine,70.0,2.0,MEDIUM,26.0,True,1,True,10.0,18.3,26.5,68.0,False,1.3,77.012,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,1.0,1.0,INTERMEDIATE,1.0,True,12,False,3.0,16.3,20.7,77.0,True,1.4,106.722,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,2.0,1.0,INTERMEDIATE,2.0,True,1,True,3.0,16.3,20.7,76.0,True,1.5,98.203,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,3.0,1.0,INTERMEDIATE,3.0,True,1,True,3.0,16.2,20.4,74.0,True,1.4,96.569,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,4.0,1.0,INTERMEDIATE,4.0,True,1,True,3.0,16.0,19.9,76.0,True,1.3,95.138,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,5.0,1.0,INTERMEDIATE,5.0,True,1,True,3.0,16.0,19.9,78.0,True,0.9,94.885,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,6.0,1.0,INTERMEDIATE,6.0,True,12,True,3.0,16.0,20.0,78.0,True,1.7,95.037,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,7.0,1.0,INTERMEDIATE,7.0,True,1,True,3.0,16.0,20.1,79.0,True,0.5,92.547,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,8.0,1.0,INTERMEDIATE,8.0,True,1,True,3.0,16.0,20.5,80.0,True,1.3,91.299,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,9.0,1.0,INTERMEDIATE,9.0,True,1,True,3.0,16.1,23.0,78.0,True,0.7,89.86,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,10.0,1.0,INTERMEDIATE,10.0,True,1,True,3.0,16.5,24.5,78.0,False,1.2,90.86,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,11.0,1.0,INTERMEDIATE,11.0,True,1,True,3.0,16.8,24.8,76.0,False,1.2,88.032,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,12.0,1.0,INTERMEDIATE,12.0,True,1,True,3.0,17.3,25.7,78.0,False,0.5,88.568,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,13.0,1.0,INTERMEDIATE,13.0,True,1,True,3.0,17.4,25.8,74.0,False,0.6,88.181,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,14.0,1.0,INTERMEDIATE,14.0,True,1,True,3.0,17.5,25.9,74.0,False,1.4,86.857,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,15.0,1.0,INTERMEDIATE,15.0,True,1,True,3.0,17.5,26.1,72.0,False,1.5,87.634,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,16.0,1.0,INTERMEDIATE,16.0,True,1,True,3.0,17.7,26.3,72.0,False,1.9,86.553,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,17.0,1.0,INTERMEDIATE,17.0,True,1,True,3.0,17.9,26.3,73.0,False,1.2,87.702,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,18.0,1.0,INTERMEDIATE,18.0,True,1,True,3.0,17.9,26.7,70.0,False,0.8,86.232,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,19.0,1.0,INTERMEDIATE,19.0,True,1,True,3.0,18.0,26.7,71.0,False,1.1,85.777,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,20.0,1.0,INTERMEDIATE,20.0,True,1,True,2.0,18.0,26.6,72.0,False,1.6,85.473,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,21.0,1.0,INTERMEDIATE,21.0,True,1,True,1.0,18.2,27.0,72.0,False,0.7,85.192,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,22.0,1.0,INTERMEDIATE,22.0,True,1,True,1.0,18.2,27.0,71.0,False,0.9,84.429,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,23.0,1.0,INTERMEDIATE,23.0,True,1,True,1.0,18.3,27.3,71.0,False,1.2,85.246,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,24.0,1.0,INTERMEDIATE,24.0,True,1,True,1.0,18.3,27.3,71.0,False,1.2,84.743,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,25.0,1.0,INTERMEDIATE,25.0,True,124,False,1.0,18.4,26.1,71.0,False,1.1,91.4,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,26.0,1.0,INTERMEDIATE,26.0,True,4,False,2.0,18.5,25.2,70.0,False,1.0,141.631,True,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,27.0,2.0,INTERMEDIATE,1.0,True,4,False,3.0,18.2,24.4,71.0,False,0.7,131.601,True,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,28.0,2.0,INTERMEDIATE,2.0,True,4,False,3.0,18.1,23.7,72.0,False,0.6,127.807,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,29.0,2.0,INTERMEDIATE,3.0,True,412,False,3.0,18.0,22.8,70.0,True,1.8,132.459,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,30.0,2.0,INTERMEDIATE,4.0,True,1,True,3.0,18.0,22.8,72.0,False,1.1,87.062,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,31.0,2.0,INTERMEDIATE,5.0,True,1,True,3.0,17.9,22.5,72.0,True,0.7,90.169,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,32.0,2.0,INTERMEDIATE,6.0,True,1,True,3.0,17.7,22.3,73.0,True,0.8,90.563,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,33.0,2.0,INTERMEDIATE,7.0,True,1,True,3.0,17.6,22.0,74.0,True,1.1,89.003,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,34.0,2.0,INTERMEDIATE,8.0,True,1,True,3.0,17.4,21.5,76.0,True,0.7,88.097,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,35.0,2.0,INTERMEDIATE,9.0,True,1,True,3.0,17.4,21.5,76.0,True,0.8,87.307,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,36.0,2.0,INTERMEDIATE,10.0,True,1,True,3.0,17.2,21.3,76.0,True,0.8,86.37,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,37.0,2.0,INTERMEDIATE,11.0,True,1,True,3.0,17.1,21.2,76.0,False,0.4,86.174,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,38.0,2.0,INTERMEDIATE,12.0,True,1,True,3.0,17.0,21.3,76.0,False,0.8,85.708,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,39.0,2.0,INTERMEDIATE,13.0,True,1,True,3.0,17.1,21.2,76.0,False,0.7,85.412,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,40.0,2.0,INTERMEDIATE,14.0,True,1,True,3.0,17.1,21.2,76.0,False,1.2,84.203,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,41.0,2.0,INTERMEDIATE,15.0,True,12,True,3.0,17.2,21.3,76.0,False,0.8,83.927,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,42.0,2.0,INTERMEDIATE,16.0,True,1,True,3.0,17.2,22.3,77.0,False,0.6,84.928,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,43.0,2.0,INTERMEDIATE,17.0,True,1,True,3.0,17.5,23.9,77.0,False,0.5,83.671,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,44.0,2.0,INTERMEDIATE,18.0,True,1,True,3.0,17.7,24.9,77.0,False,0.8,84.247,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,45.0,2.0,INTERMEDIATE,19.0,True,1,True,1.0,18.2,25.9,76.0,False,0.6,83.569,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,46.0,2.0,INTERMEDIATE,20.0,True,1,True,1.0,18.4,26.1,74.0,False,0.8,83.272,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,47.0,2.0,INTERMEDIATE,21.0,True,1,False,1.0,18.5,26.3,77.0,False,0.7,99.824,True,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,48.0,3.0,MEDIUM,1.0,True,1,False,2.0,18.7,27.0,73.0,False,0.9,88.096,True,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,49.0,3.0,MEDIUM,2.0,True,12,True,3.0,18.7,26.7,73.0,False,0.7,80.65,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,50.0,3.0,MEDIUM,3.0,True,1,True,3.0,18.9,26.4,74.0,False,0.8,78.193,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,51.0,3.0,MEDIUM,4.0,True,1,True,2.0,18.8,27.0,76.0,False,0.5,79.049,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,52.0,3.0,MEDIUM,5.0,True,12,True,2.0,18.9,27.0,74.0,False,0.9,77.631,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,53.0,3.0,MEDIUM,6.0,True,12,True,2.0,19.0,26.9,72.0,False,1.1,77.491,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,54.0,3.0,MEDIUM,7.0,True,24,False,2.0,19.0,27.1,72.0,False,1.6,101.021,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,55.0,3.0,MEDIUM,8.0,True,4,False,2.0,18.9,27.0,70.0,False,1.0,124.823,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,56.0,3.0,MEDIUM,9.0,True,4,False,2.0,18.8,26.9,71.0,False,1.3,124.066,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,57.0,3.0,MEDIUM,10.0,True,4,False,2.0,18.7,26.9,71.0,False,0.6,116.997,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,58.0,3.0,MEDIUM,11.0,True,41,False,2.0,18.8,26.1,70.0,False,1.4,135.27,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,59.0,3.0,MEDIUM,12.0,True,1,True,2.0,18.8,25.8,72.0,False,1.5,79.368,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,60.0,3.0,MEDIUM,13.0,True,1,True,2.0,18.8,25.7,71.0,False,1.9,77.236,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,61.0,3.0,MEDIUM,14.0,True,1,True,2.0,18.9,26.9,72.0,False,1.1,76.92,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,62.0,3.0,MEDIUM,15.0,True,1,True,2.0,19.0,26.9,72.0,False,1.3,76.524,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,63.0,3.0,MEDIUM,16.0,True,1,True,2.0,19.1,26.8,70.0,False,2.4,76.38,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,64.0,3.0,MEDIUM,17.0,True,1,True,2.0,19.1,26.7,70.0,False,2.8,76.256,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,65.0,3.0,MEDIUM,18.0,True,1,True,2.0,18.9,27.8,70.0,False,1.7,76.173,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,66.0,3.0,MEDIUM,19.0,True,12,True,2.0,18.7,28.0,68.0,False,3.1,75.764,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,67.0,3.0,MEDIUM,20.0,True,21,True,2.0,18.6,28.0,68.0,False,2.6,75.558,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,68.0,3.0,MEDIUM,21.0,True,1,True,2.0,18.5,28.5,69.0,False,1.8,75.932,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,69.0,3.0,MEDIUM,22.0,True,1,True,2.0,18.5,27.8,69.0,False,1.1,76.075,False,70,2024,9,Canadian Grand Prix,2024_09
+NOR,McLaren,70.0,3.0,MEDIUM,23.0,True,1,True,2.0,18.4,27.0,69.0,False,2.1,76.19,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,1.0,1.0,INTERMEDIATE,1.0,True,12,False,6.0,16.3,20.7,77.0,True,1.4,110.16,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,2.0,1.0,INTERMEDIATE,2.0,True,1,True,7.0,16.3,20.7,76.0,True,1.5,100.379,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,3.0,1.0,INTERMEDIATE,3.0,True,1,True,7.0,16.2,20.4,74.0,True,1.4,98.714,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,4.0,1.0,INTERMEDIATE,4.0,True,1,True,7.0,16.0,19.9,76.0,True,1.3,96.666,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,5.0,1.0,INTERMEDIATE,5.0,True,1,True,7.0,16.0,19.9,78.0,True,0.9,95.905,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,6.0,1.0,INTERMEDIATE,6.0,True,12,True,7.0,16.0,20.0,78.0,True,1.7,95.664,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,7.0,1.0,INTERMEDIATE,7.0,True,1,True,6.0,16.0,20.1,79.0,True,0.5,95.866,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,8.0,1.0,INTERMEDIATE,8.0,True,1,True,6.0,16.0,20.5,80.0,True,1.3,92.524,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,9.0,1.0,INTERMEDIATE,9.0,True,1,True,6.0,16.5,23.8,78.0,True,1.1,91.01,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,10.0,1.0,INTERMEDIATE,10.0,True,1,True,6.0,16.5,24.5,78.0,False,1.2,90.417,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,11.0,1.0,INTERMEDIATE,11.0,True,1,True,6.0,17.0,25.3,79.0,False,0.7,88.956,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,12.0,1.0,INTERMEDIATE,12.0,True,1,True,6.0,17.3,25.7,78.0,False,0.5,88.896,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,13.0,1.0,INTERMEDIATE,13.0,True,1,True,6.0,17.5,25.8,72.0,False,1.1,88.683,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,14.0,1.0,INTERMEDIATE,14.0,True,1,True,6.0,17.5,25.9,74.0,False,1.4,89.493,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,15.0,1.0,INTERMEDIATE,15.0,True,1,True,6.0,17.6,26.3,73.0,False,1.5,87.823,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,16.0,1.0,INTERMEDIATE,16.0,True,1,True,6.0,17.7,26.3,72.0,False,1.9,86.732,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,17.0,1.0,INTERMEDIATE,17.0,True,1,True,6.0,17.9,26.3,73.0,False,1.2,87.426,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,18.0,1.0,INTERMEDIATE,18.0,True,1,True,6.0,17.9,26.7,70.0,False,0.8,86.013,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,19.0,1.0,INTERMEDIATE,19.0,True,1,True,6.0,18.0,26.7,71.0,False,1.1,86.817,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,20.0,1.0,INTERMEDIATE,20.0,True,1,True,6.0,18.1,26.7,71.0,False,0.9,85.298,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,21.0,1.0,INTERMEDIATE,21.0,True,1,True,6.0,18.2,27.0,72.0,False,0.7,85.593,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,22.0,1.0,INTERMEDIATE,22.0,True,1,True,6.0,18.2,26.9,72.0,False,0.6,85.438,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,23.0,1.0,INTERMEDIATE,23.0,True,1,True,6.0,18.3,27.3,71.0,False,1.2,86.533,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,24.0,1.0,INTERMEDIATE,24.0,True,1,True,6.0,18.4,27.2,71.0,False,0.8,86.331,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,25.0,1.0,INTERMEDIATE,25.0,True,124,False,5.0,18.4,26.1,71.0,False,1.1,117.109,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,26.0,2.0,INTERMEDIATE,1.0,True,4,False,5.0,18.3,24.5,71.0,False,1.1,114.962,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,27.0,2.0,INTERMEDIATE,2.0,True,4,False,5.0,18.2,24.3,71.0,False,0.7,109.202,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,28.0,2.0,INTERMEDIATE,3.0,True,4,False,5.0,18.1,23.7,72.0,False,0.6,127.651,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,29.0,2.0,INTERMEDIATE,4.0,True,412,False,5.0,18.0,22.8,70.0,True,1.8,131.309,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,30.0,2.0,INTERMEDIATE,5.0,True,1,True,5.0,18.0,22.8,72.0,False,1.1,87.745,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,31.0,2.0,INTERMEDIATE,6.0,True,1,True,5.0,17.9,22.5,72.0,True,0.7,90.533,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,32.0,2.0,INTERMEDIATE,7.0,True,1,True,5.0,17.7,22.3,73.0,True,0.8,91.549,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,33.0,2.0,INTERMEDIATE,8.0,True,1,True,5.0,17.6,22.0,74.0,True,1.1,88.936,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,34.0,2.0,INTERMEDIATE,9.0,True,1,True,5.0,17.4,21.5,76.0,True,0.7,87.36,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,35.0,2.0,INTERMEDIATE,10.0,True,1,True,5.0,17.4,21.5,76.0,True,0.8,86.93,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,36.0,2.0,INTERMEDIATE,11.0,True,1,True,5.0,17.2,21.3,76.0,True,0.8,86.369,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,37.0,2.0,INTERMEDIATE,12.0,True,1,True,5.0,17.1,21.2,76.0,False,0.4,86.863,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,38.0,2.0,INTERMEDIATE,13.0,True,1,True,5.0,17.0,21.3,76.0,False,0.8,85.419,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,39.0,2.0,INTERMEDIATE,14.0,True,1,True,5.0,17.1,21.2,76.0,False,0.7,84.911,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,40.0,2.0,INTERMEDIATE,15.0,True,1,True,5.0,17.1,21.2,76.0,False,1.2,83.88,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,41.0,2.0,INTERMEDIATE,16.0,True,12,True,5.0,17.2,21.3,76.0,False,0.8,84.372,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,42.0,2.0,INTERMEDIATE,17.0,True,1,True,5.0,17.2,22.3,77.0,False,0.6,84.413,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,43.0,2.0,INTERMEDIATE,18.0,True,1,False,7.0,17.5,23.9,77.0,False,0.5,101.297,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,44.0,3.0,MEDIUM,1.0,True,1,False,5.0,17.7,24.9,77.0,False,0.8,93.415,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,45.0,3.0,MEDIUM,2.0,True,1,True,5.0,18.2,25.9,76.0,False,0.6,83.763,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,46.0,3.0,MEDIUM,3.0,True,1,True,5.0,18.4,26.1,74.0,False,0.8,87.257,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,47.0,3.0,MEDIUM,4.0,True,1,True,5.0,18.5,26.9,75.0,False,1.2,81.327,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,48.0,3.0,MEDIUM,5.0,True,1,True,5.0,18.7,27.0,73.0,False,0.9,79.502,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,49.0,3.0,MEDIUM,6.0,True,12,True,5.0,18.9,26.4,74.0,False,1.8,83.219,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,50.0,3.0,MEDIUM,7.0,True,1,True,5.0,18.9,26.4,74.0,False,0.8,78.414,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,51.0,3.0,MEDIUM,8.0,True,1,True,5.0,18.8,27.0,76.0,False,0.5,78.018,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,52.0,3.0,MEDIUM,9.0,True,12,True,5.0,18.9,27.0,74.0,False,1.6,77.75,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,53.0,3.0,MEDIUM,10.0,True,12,True,5.0,19.0,26.9,72.0,False,1.1,77.435,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,54.0,3.0,MEDIUM,11.0,True,24,False,5.0,19.0,27.1,72.0,False,1.6,122.455,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,55.0,4.0,HARD,1.0,True,4,False,5.0,18.9,27.0,70.0,False,1.0,106.626,True,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,56.0,4.0,HARD,2.0,True,4,False,5.0,18.8,26.9,71.0,False,1.3,121.618,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,57.0,4.0,HARD,3.0,True,4,False,5.0,18.7,26.9,71.0,False,0.6,112.216,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,58.0,4.0,HARD,4.0,True,41,False,5.0,18.8,26.1,70.0,False,1.4,133.716,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,59.0,4.0,HARD,5.0,True,1,True,5.0,18.8,25.8,72.0,False,1.5,80.267,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,60.0,4.0,HARD,6.0,True,1,True,5.0,18.8,25.7,71.0,False,1.9,77.666,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,61.0,4.0,HARD,7.0,True,1,True,5.0,18.9,26.9,72.0,False,1.1,76.96,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,62.0,4.0,HARD,8.0,True,1,True,5.0,19.0,26.9,72.0,False,1.3,76.448,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,63.0,4.0,HARD,9.0,True,1,True,4.0,19.1,26.8,70.0,False,2.4,76.657,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,64.0,4.0,HARD,10.0,True,1,True,4.0,19.0,27.7,70.0,False,2.5,76.196,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,65.0,4.0,HARD,11.0,True,1,True,3.0,18.9,27.8,70.0,False,1.7,75.074,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,66.0,4.0,HARD,12.0,True,12,True,3.0,18.7,28.0,68.0,False,3.1,75.89,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,67.0,4.0,HARD,13.0,True,21,True,3.0,18.6,28.0,68.0,False,2.6,75.922,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,68.0,4.0,HARD,14.0,True,1,True,4.0,18.5,28.5,69.0,False,1.8,75.963,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,69.0,4.0,HARD,15.0,True,1,True,4.0,18.5,27.8,69.0,False,1.1,76.065,False,70,2024,9,Canadian Grand Prix,2024_09
+HAM,Mercedes,70.0,4.0,HARD,16.0,True,1,True,4.0,18.4,27.0,69.0,False,2.1,74.856,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,1.0,1.0,INTERMEDIATE,1.0,True,12,False,14.0,16.3,20.7,77.0,True,1.4,117.663,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,2.0,1.0,INTERMEDIATE,2.0,True,1,True,15.0,16.3,20.7,76.0,True,1.5,102.579,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,3.0,1.0,INTERMEDIATE,3.0,True,1,True,14.0,16.2,20.4,74.0,True,1.4,100.477,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,4.0,1.0,INTERMEDIATE,4.0,True,1,True,14.0,16.0,19.9,76.0,True,1.3,97.631,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,5.0,1.0,INTERMEDIATE,5.0,True,1,True,14.0,16.0,19.9,78.0,True,0.9,97.379,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,6.0,1.0,INTERMEDIATE,6.0,True,12,True,14.0,16.0,20.0,78.0,True,1.7,95.749,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,7.0,1.0,INTERMEDIATE,7.0,True,1,True,14.0,15.9,20.3,77.0,True,1.4,93.725,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,8.0,1.0,INTERMEDIATE,8.0,True,1,True,13.0,16.0,20.5,80.0,True,1.3,93.103,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,9.0,1.0,INTERMEDIATE,9.0,True,1,True,13.0,16.5,23.8,78.0,True,1.1,92.154,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,10.0,1.0,INTERMEDIATE,10.0,True,1,True,13.0,16.5,24.5,78.0,False,1.2,91.554,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,11.0,1.0,INTERMEDIATE,11.0,True,1,True,13.0,17.0,25.3,79.0,False,0.7,93.036,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,12.0,1.0,INTERMEDIATE,12.0,True,1,True,12.0,17.3,25.7,78.0,False,0.5,93.73,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,13.0,1.0,INTERMEDIATE,13.0,True,1,True,12.0,17.5,25.8,72.0,False,1.1,90.677,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,14.0,1.0,INTERMEDIATE,14.0,True,1,True,12.0,17.5,25.9,74.0,False,1.4,89.892,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,15.0,1.0,INTERMEDIATE,15.0,True,1,True,12.0,17.6,26.3,73.0,False,1.5,89.088,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,16.0,1.0,INTERMEDIATE,16.0,True,1,True,12.0,17.7,26.3,72.0,False,1.9,88.98,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,17.0,1.0,INTERMEDIATE,17.0,True,1,True,12.0,17.9,26.5,72.0,False,1.0,87.583,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,18.0,1.0,INTERMEDIATE,18.0,True,1,True,12.0,17.9,26.7,70.0,False,0.8,87.479,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,19.0,1.0,INTERMEDIATE,19.0,True,1,True,12.0,18.0,26.6,72.0,False,1.6,86.898,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,20.0,1.0,INTERMEDIATE,20.0,True,1,True,12.0,18.1,26.7,71.0,False,0.9,87.228,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,21.0,1.0,INTERMEDIATE,21.0,True,1,True,12.0,18.2,27.0,71.0,False,0.9,88.099,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,22.0,1.0,INTERMEDIATE,22.0,True,1,True,12.0,18.2,26.9,72.0,False,0.6,86.895,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,23.0,1.0,INTERMEDIATE,23.0,True,1,True,12.0,18.3,27.3,71.0,False,1.2,86.839,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,24.0,1.0,INTERMEDIATE,24.0,True,12,True,12.0,18.4,27.2,71.0,False,0.8,86.527,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,25.0,1.0,INTERMEDIATE,25.0,True,24,False,14.0,18.5,25.2,70.0,False,1.0,131.649,True,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,26.0,2.0,INTERMEDIATE,1.0,True,4,False,14.0,18.2,24.4,71.0,False,0.7,110.841,True,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,27.0,2.0,INTERMEDIATE,2.0,True,4,False,14.0,18.2,23.8,72.0,False,0.0,102.962,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,28.0,2.0,INTERMEDIATE,3.0,True,4,False,13.0,18.1,23.7,72.0,False,0.6,103.654,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,29.0,2.0,INTERMEDIATE,4.0,True,412,False,13.0,18.0,22.8,70.0,True,1.8,118.457,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,30.0,2.0,INTERMEDIATE,5.0,True,1,True,13.0,18.0,22.8,72.0,False,1.1,90.223,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,31.0,2.0,INTERMEDIATE,6.0,True,1,True,13.0,17.7,22.4,73.0,True,0.5,92.345,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,32.0,2.0,INTERMEDIATE,7.0,True,1,True,13.0,17.7,22.3,73.0,True,0.8,91.832,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,33.0,2.0,INTERMEDIATE,8.0,True,1,True,13.0,17.5,21.7,75.0,True,0.5,90.702,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,34.0,2.0,INTERMEDIATE,9.0,True,1,True,13.0,17.4,21.5,76.0,True,0.7,88.45,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,35.0,2.0,INTERMEDIATE,10.0,True,1,True,13.0,17.3,21.5,77.0,True,1.0,88.699,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,36.0,2.0,INTERMEDIATE,11.0,True,1,True,13.0,17.2,21.3,76.0,True,0.8,87.905,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,37.0,2.0,INTERMEDIATE,12.0,True,1,True,13.0,17.0,21.3,75.0,False,1.5,87.295,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,38.0,2.0,INTERMEDIATE,13.0,True,1,True,13.0,17.0,21.3,76.0,False,0.8,86.824,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,39.0,2.0,INTERMEDIATE,14.0,True,1,True,13.0,17.1,21.2,76.0,False,0.7,87.238,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,40.0,2.0,INTERMEDIATE,15.0,True,1,True,13.0,17.1,21.2,76.0,False,1.2,86.208,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,41.0,2.0,INTERMEDIATE,16.0,True,12,True,13.0,17.2,21.3,76.0,False,0.8,85.875,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,42.0,2.0,INTERMEDIATE,17.0,True,1,True,12.0,17.3,22.9,75.0,False,1.2,85.861,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,43.0,2.0,INTERMEDIATE,18.0,True,1,False,14.0,17.5,23.9,77.0,False,0.5,101.456,True,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,44.0,3.0,MEDIUM,1.0,True,1,False,13.0,17.9,25.7,75.0,False,0.5,93.472,True,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,45.0,3.0,MEDIUM,2.0,True,1,True,12.0,18.2,25.9,76.0,False,0.6,84.895,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,46.0,3.0,MEDIUM,3.0,True,1,True,12.0,18.5,26.3,77.0,False,0.7,82.795,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,47.0,3.0,MEDIUM,4.0,True,1,True,11.0,18.5,26.9,75.0,False,1.2,81.38,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,48.0,3.0,MEDIUM,5.0,True,1,True,11.0,18.7,26.7,73.0,False,0.7,81.875,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,49.0,3.0,MEDIUM,6.0,True,12,True,11.0,18.9,26.4,74.0,False,1.8,80.062,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,50.0,3.0,MEDIUM,7.0,True,1,True,11.0,18.9,26.4,74.0,False,0.8,80.352,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,51.0,3.0,MEDIUM,8.0,True,1,True,11.0,18.9,27.0,74.0,False,0.9,78.957,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,52.0,3.0,MEDIUM,9.0,True,12,True,10.0,18.9,27.0,74.0,False,1.6,81.243,False,70,2024,9,Canadian Grand Prix,2024_09
+SAI,Ferrari,53.0,3.0,MEDIUM,10.0,True,124,False,15.0,19.0,26.9,72.0,False,1.1,,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,1.0,1.0,INTERMEDIATE,1.0,True,12,False,1.0,16.3,20.7,77.0,True,1.4,103.723,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,2.0,1.0,INTERMEDIATE,2.0,True,1,True,1.0,16.3,20.7,76.0,True,1.5,96.556,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,3.0,1.0,INTERMEDIATE,3.0,True,1,True,1.0,16.2,20.4,74.0,True,1.4,96.396,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,4.0,1.0,INTERMEDIATE,4.0,True,1,True,1.0,16.2,20.0,75.0,True,0.7,94.585,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,5.0,1.0,INTERMEDIATE,5.0,True,1,True,1.0,16.0,19.9,78.0,True,0.9,94.094,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,6.0,1.0,INTERMEDIATE,6.0,True,12,True,1.0,16.0,20.0,78.0,True,1.7,92.899,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,7.0,1.0,INTERMEDIATE,7.0,True,1,True,1.0,16.0,20.1,79.0,True,0.5,90.974,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,8.0,1.0,INTERMEDIATE,8.0,True,1,True,1.0,16.0,20.5,80.0,True,1.3,91.467,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,9.0,1.0,INTERMEDIATE,9.0,True,1,True,1.0,16.1,23.0,78.0,True,0.7,90.401,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,10.0,1.0,INTERMEDIATE,10.0,True,1,True,1.0,16.5,24.5,78.0,False,1.2,89.79,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,11.0,1.0,INTERMEDIATE,11.0,True,1,True,1.0,16.8,24.8,76.0,False,1.2,89.741,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,12.0,1.0,INTERMEDIATE,12.0,True,1,True,1.0,17.3,25.7,78.0,False,0.5,89.445,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,13.0,1.0,INTERMEDIATE,13.0,True,1,True,1.0,17.4,25.8,74.0,False,0.6,88.582,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,14.0,1.0,INTERMEDIATE,14.0,True,1,True,1.0,17.5,25.9,74.0,False,1.4,88.778,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,15.0,1.0,INTERMEDIATE,15.0,True,1,True,1.0,17.5,26.1,72.0,False,1.5,88.705,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,16.0,1.0,INTERMEDIATE,16.0,True,1,True,1.0,17.7,26.3,72.0,False,1.9,87.491,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,17.0,1.0,INTERMEDIATE,17.0,True,1,True,1.0,17.9,26.3,73.0,False,1.2,87.601,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,18.0,1.0,INTERMEDIATE,18.0,True,1,True,1.0,17.9,26.7,70.0,False,0.8,87.357,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,19.0,1.0,INTERMEDIATE,19.0,True,1,True,1.0,18.0,26.7,71.0,False,1.1,86.526,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,20.0,1.0,INTERMEDIATE,20.0,True,1,True,1.0,18.0,26.6,72.0,False,1.6,86.014,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,21.0,1.0,INTERMEDIATE,21.0,True,1,True,3.0,18.2,27.0,72.0,False,0.7,88.455,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,22.0,1.0,INTERMEDIATE,22.0,True,1,True,3.0,18.2,27.0,71.0,False,0.9,87.579,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,23.0,1.0,INTERMEDIATE,23.0,True,1,True,3.0,18.3,27.3,71.0,False,1.2,86.894,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,24.0,1.0,INTERMEDIATE,24.0,True,1,True,3.0,18.3,27.3,71.0,False,1.2,86.76,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,25.0,1.0,INTERMEDIATE,25.0,True,124,False,3.0,18.4,26.1,71.0,False,1.1,112.822,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,26.0,2.0,INTERMEDIATE,1.0,True,4,False,3.0,18.3,24.5,71.0,False,1.1,111.667,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,27.0,2.0,INTERMEDIATE,2.0,True,4,False,2.0,18.2,24.4,71.0,False,0.7,129.015,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,28.0,2.0,INTERMEDIATE,3.0,True,4,False,2.0,18.1,23.7,72.0,False,0.6,129.034,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,29.0,2.0,INTERMEDIATE,4.0,True,412,False,2.0,18.0,22.8,70.0,True,1.8,132.67,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,30.0,2.0,INTERMEDIATE,5.0,True,1,True,2.0,18.0,22.8,72.0,False,1.1,86.524,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,31.0,2.0,INTERMEDIATE,6.0,True,1,True,2.0,17.9,22.5,72.0,True,0.7,89.841,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,32.0,2.0,INTERMEDIATE,7.0,True,1,True,2.0,17.7,22.3,73.0,True,0.8,90.484,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,33.0,2.0,INTERMEDIATE,8.0,True,1,True,2.0,17.6,22.0,74.0,True,1.1,89.317,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,34.0,2.0,INTERMEDIATE,9.0,True,1,True,2.0,17.4,21.5,76.0,True,0.7,87.683,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,35.0,2.0,INTERMEDIATE,10.0,True,1,True,2.0,17.4,21.5,76.0,True,0.8,87.325,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,36.0,2.0,INTERMEDIATE,11.0,True,1,True,2.0,17.2,21.3,76.0,True,0.8,86.649,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,37.0,2.0,INTERMEDIATE,12.0,True,1,True,2.0,17.1,21.2,76.0,False,0.4,86.242,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,38.0,2.0,INTERMEDIATE,13.0,True,1,True,2.0,17.0,21.3,76.0,False,0.8,85.494,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,39.0,2.0,INTERMEDIATE,14.0,True,1,True,2.0,17.1,21.2,76.0,False,0.7,85.417,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,40.0,2.0,INTERMEDIATE,15.0,True,1,True,2.0,17.1,21.2,76.0,False,1.5,84.556,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,41.0,2.0,INTERMEDIATE,16.0,True,12,True,2.0,17.2,21.3,76.0,False,0.8,83.783,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,42.0,2.0,INTERMEDIATE,17.0,True,1,True,2.0,17.2,22.3,77.0,False,0.6,85.692,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,43.0,2.0,INTERMEDIATE,18.0,True,1,True,2.0,17.5,23.9,77.0,False,0.5,83.694,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,44.0,2.0,INTERMEDIATE,19.0,True,1,True,2.0,17.7,24.9,77.0,False,0.8,84.325,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,45.0,2.0,INTERMEDIATE,20.0,True,1,False,3.0,18.2,25.9,76.0,False,0.6,101.273,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,46.0,3.0,HARD,1.0,True,1,False,3.0,18.4,26.1,74.0,False,0.8,90.477,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,47.0,3.0,HARD,2.0,True,1,True,3.0,18.5,26.9,75.0,False,1.2,82.977,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,48.0,3.0,HARD,3.0,True,1,True,3.0,18.7,27.0,73.0,False,0.9,81.029,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,49.0,3.0,HARD,4.0,True,12,True,2.0,18.7,26.7,73.0,False,0.7,79.359,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,50.0,3.0,HARD,5.0,True,1,True,2.0,18.9,26.4,74.0,False,0.8,78.145,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,51.0,3.0,HARD,6.0,True,1,True,3.0,18.8,27.0,76.0,False,0.5,80.258,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,52.0,3.0,HARD,7.0,True,12,True,3.0,18.9,27.0,74.0,False,0.9,78.456,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,53.0,3.0,HARD,8.0,True,12,True,3.0,19.0,26.9,72.0,False,1.1,78.191,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,54.0,3.0,HARD,9.0,True,24,False,4.0,19.0,27.1,72.0,False,1.6,121.423,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,55.0,4.0,MEDIUM,1.0,True,4,False,4.0,18.9,27.0,70.0,False,1.0,108.566,True,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,56.0,4.0,MEDIUM,2.0,True,4,False,4.0,18.8,26.9,71.0,False,1.3,123.083,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,57.0,4.0,MEDIUM,3.0,True,4,False,4.0,18.7,26.9,71.0,False,0.6,114.47,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,58.0,4.0,MEDIUM,4.0,True,41,False,4.0,18.8,26.1,70.0,False,1.4,133.486,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,59.0,4.0,MEDIUM,5.0,True,1,True,4.0,18.8,25.8,72.0,False,1.5,79.943,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,60.0,4.0,MEDIUM,6.0,True,1,True,4.0,18.8,25.7,71.0,False,1.9,77.103,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,61.0,4.0,MEDIUM,7.0,True,1,True,4.0,18.9,26.9,72.0,False,1.1,76.786,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,62.0,4.0,MEDIUM,8.0,True,1,True,4.0,19.0,26.9,72.0,False,1.3,76.782,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,63.0,4.0,MEDIUM,9.0,True,1,True,5.0,19.1,26.8,70.0,False,2.4,78.447,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,64.0,4.0,MEDIUM,10.0,True,1,True,5.0,19.0,27.7,70.0,False,2.5,76.234,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,65.0,4.0,MEDIUM,11.0,True,1,True,5.0,18.9,27.8,70.0,False,1.7,75.63,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,66.0,4.0,MEDIUM,12.0,True,12,True,4.0,18.7,28.0,68.0,False,3.1,75.903,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,67.0,4.0,MEDIUM,13.0,True,21,True,4.0,18.6,28.0,68.0,False,2.6,75.363,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,68.0,4.0,MEDIUM,14.0,True,1,True,3.0,18.5,28.5,69.0,False,1.8,75.439,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,69.0,4.0,MEDIUM,15.0,True,1,True,3.0,18.5,27.8,69.0,False,1.1,75.479,False,70,2024,9,Canadian Grand Prix,2024_09
+RUS,Mercedes,70.0,4.0,MEDIUM,16.0,True,1,True,3.0,18.4,27.0,69.0,False,2.1,74.895,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,1.0,1.0,INTERMEDIATE,1.0,True,12,False,19.0,16.3,20.7,77.0,True,1.4,121.807,True,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,2.0,1.0,INTERMEDIATE,2.0,True,1,True,19.0,16.3,20.6,75.0,True,1.1,103.023,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,3.0,1.0,INTERMEDIATE,3.0,True,1,True,19.0,16.2,20.4,74.0,True,1.4,100.755,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,4.0,1.0,INTERMEDIATE,4.0,True,1,True,19.0,16.0,19.9,76.0,True,1.3,98.608,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,5.0,1.0,INTERMEDIATE,5.0,True,1,True,19.0,15.9,19.9,78.0,True,0.8,98.637,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,6.0,1.0,INTERMEDIATE,6.0,True,12,True,18.0,16.0,20.0,78.0,True,1.7,97.036,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,7.0,1.0,INTERMEDIATE,7.0,True,1,True,18.0,15.9,20.3,77.0,True,1.4,95.655,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,8.0,1.0,INTERMEDIATE,8.0,True,1,True,18.0,16.0,20.5,80.0,True,1.3,93.68,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,9.0,1.0,INTERMEDIATE,9.0,True,1,True,18.0,16.5,23.8,78.0,True,1.1,92.461,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,10.0,1.0,INTERMEDIATE,10.0,True,1,True,18.0,16.8,24.8,76.0,False,1.2,91.422,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,11.0,1.0,INTERMEDIATE,11.0,True,1,True,18.0,17.0,25.3,79.0,False,0.7,91.668,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,12.0,1.0,INTERMEDIATE,12.0,True,1,True,17.0,17.4,25.8,74.0,False,0.6,91.085,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,13.0,1.0,INTERMEDIATE,13.0,True,1,True,17.0,17.5,25.8,72.0,False,1.1,90.036,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,14.0,1.0,INTERMEDIATE,14.0,True,1,True,17.0,17.5,26.1,72.0,False,1.5,90.06,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,15.0,1.0,INTERMEDIATE,15.0,True,1,True,17.0,17.6,26.3,73.0,False,1.5,90.489,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,16.0,1.0,INTERMEDIATE,16.0,True,1,True,17.0,17.9,26.3,73.0,False,1.2,89.739,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,17.0,1.0,INTERMEDIATE,17.0,True,1,True,17.0,17.9,26.5,72.0,False,1.0,88.836,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,18.0,1.0,INTERMEDIATE,18.0,True,1,True,17.0,18.0,26.7,71.0,False,1.1,87.339,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,19.0,1.0,INTERMEDIATE,19.0,True,1,True,17.0,18.0,26.6,72.0,False,1.6,88.149,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,20.0,1.0,INTERMEDIATE,20.0,True,1,True,17.0,18.1,26.7,71.0,False,0.9,86.765,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,21.0,1.0,INTERMEDIATE,21.0,True,1,True,17.0,18.2,27.0,71.0,False,0.9,88.049,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,22.0,1.0,INTERMEDIATE,22.0,True,1,True,17.0,18.2,26.9,72.0,False,0.6,87.936,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,23.0,1.0,INTERMEDIATE,23.0,True,1,True,17.0,18.3,27.3,71.0,False,1.2,87.74,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,24.0,1.0,INTERMEDIATE,24.0,True,124,False,17.0,18.4,27.2,71.0,False,0.8,89.076,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,25.0,1.0,INTERMEDIATE,25.0,True,4,False,13.0,18.5,25.2,70.0,False,1.0,114.448,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,26.0,1.0,INTERMEDIATE,26.0,True,4,False,13.0,18.2,24.4,71.0,False,0.7,112.839,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,27.0,1.0,INTERMEDIATE,27.0,True,4,False,13.0,18.2,23.8,72.0,False,0.0,101.808,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,28.0,1.0,INTERMEDIATE,28.0,True,4,False,12.0,18.1,23.7,72.0,False,0.6,101.859,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,29.0,1.0,INTERMEDIATE,29.0,True,412,False,12.0,18.0,22.8,70.0,True,1.8,121.1,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,30.0,1.0,INTERMEDIATE,30.0,True,1,True,12.0,18.0,22.8,72.0,False,1.1,90.489,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,31.0,1.0,INTERMEDIATE,31.0,True,1,True,12.0,17.7,22.4,73.0,True,0.5,91.954,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,32.0,1.0,INTERMEDIATE,32.0,True,1,True,12.0,17.7,22.3,73.0,True,0.8,92.149,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,33.0,1.0,INTERMEDIATE,33.0,True,1,True,12.0,17.5,21.7,75.0,True,0.5,90.281,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,34.0,1.0,INTERMEDIATE,34.0,True,1,True,12.0,17.4,21.5,76.0,True,0.7,88.766,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,35.0,1.0,INTERMEDIATE,35.0,True,1,True,12.0,17.3,21.5,77.0,True,1.0,88.408,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,36.0,1.0,INTERMEDIATE,36.0,True,1,True,12.0,17.2,21.3,76.0,True,0.8,88.177,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,37.0,1.0,INTERMEDIATE,37.0,True,1,True,12.0,17.0,21.3,75.0,False,1.5,87.123,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,38.0,1.0,INTERMEDIATE,38.0,True,1,True,12.0,17.0,21.3,76.0,False,0.8,86.822,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,39.0,1.0,INTERMEDIATE,39.0,True,1,True,12.0,17.1,21.2,76.0,False,0.7,86.502,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,40.0,1.0,INTERMEDIATE,40.0,True,1,True,12.0,17.1,21.2,76.0,False,1.2,86.024,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,41.0,1.0,INTERMEDIATE,41.0,True,12,True,12.0,17.2,21.3,76.0,False,0.8,85.784,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,42.0,1.0,INTERMEDIATE,42.0,True,1,False,16.0,17.3,22.9,75.0,False,1.2,102.791,True,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,43.0,2.0,MEDIUM,1.0,True,1,False,16.0,17.5,23.9,77.0,False,0.5,98.817,True,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,44.0,2.0,MEDIUM,2.0,True,1,True,15.0,17.9,25.7,75.0,False,0.5,86.97,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,45.0,2.0,MEDIUM,3.0,True,1,True,16.0,18.4,26.1,74.0,False,0.8,85.276,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,46.0,2.0,MEDIUM,4.0,True,1,True,16.0,18.5,26.3,77.0,False,0.7,83.564,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,47.0,2.0,MEDIUM,5.0,True,1,True,16.0,18.5,26.9,75.0,False,1.2,81.91,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,48.0,2.0,MEDIUM,6.0,True,12,True,16.0,18.7,26.7,73.0,False,0.7,82.121,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,49.0,2.0,MEDIUM,7.0,True,21,True,16.0,18.9,26.4,74.0,False,1.8,81.035,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,50.0,2.0,MEDIUM,8.0,True,1,True,16.0,18.9,26.4,74.0,False,0.8,80.688,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,51.0,2.0,MEDIUM,9.0,True,1,True,16.0,18.9,27.0,74.0,False,0.9,80.138,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,52.0,2.0,MEDIUM,10.0,True,12,True,15.0,18.9,27.0,74.0,False,1.6,83.366,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,53.0,2.0,MEDIUM,11.0,True,124,False,13.0,19.0,27.1,72.0,False,1.6,93.691,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,54.0,2.0,MEDIUM,12.0,True,4,False,13.0,18.9,27.0,72.0,False,1.1,104.894,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,55.0,2.0,MEDIUM,13.0,True,4,False,13.0,19.0,26.8,69.0,False,2.0,94.094,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,56.0,2.0,MEDIUM,14.0,True,4,False,13.0,18.8,26.9,71.0,False,1.3,105.978,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,57.0,2.0,MEDIUM,15.0,True,4,False,13.0,18.7,26.9,71.0,False,0.6,114.231,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,58.0,2.0,MEDIUM,16.0,True,41,False,13.0,18.8,26.1,70.0,False,1.4,125.666,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,59.0,2.0,MEDIUM,17.0,True,1,True,13.0,18.8,25.8,72.0,False,1.5,82.168,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,60.0,2.0,MEDIUM,18.0,True,1,True,13.0,18.8,26.1,72.0,False,1.9,78.927,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,61.0,2.0,MEDIUM,19.0,True,1,True,13.0,18.9,26.9,72.0,False,1.1,78.356,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,62.0,2.0,MEDIUM,20.0,True,1,True,13.0,19.0,26.9,72.0,False,1.3,78.472,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,63.0,2.0,MEDIUM,21.0,True,1,True,13.0,19.1,26.8,70.0,False,2.4,77.768,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,64.0,2.0,MEDIUM,22.0,True,1,True,13.0,19.0,27.7,70.0,False,2.5,79.259,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,65.0,2.0,MEDIUM,23.0,True,1,True,13.0,18.9,27.8,70.0,False,1.7,77.25,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,66.0,2.0,MEDIUM,24.0,True,12,True,13.0,18.7,28.0,68.0,False,3.1,80.374,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,67.0,2.0,MEDIUM,25.0,True,1,True,13.0,18.6,28.2,68.0,False,2.2,80.026,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,68.0,2.0,MEDIUM,26.0,True,1,True,13.0,18.5,28.5,69.0,False,1.8,78.613,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,69.0,2.0,MEDIUM,27.0,True,1,True,13.0,18.5,27.8,69.0,False,1.1,78.345,False,70,2024,9,Canadian Grand Prix,2024_09
+BOT,Kick Sauber,70.0,2.0,MEDIUM,28.0,True,1,True,13.0,18.3,26.5,68.0,False,1.3,79.042,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,1.0,1.0,INTERMEDIATE,1.0,True,12,False,4.0,16.3,20.7,77.0,True,1.4,108.458,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,2.0,1.0,INTERMEDIATE,2.0,True,1,True,4.0,16.3,20.7,76.0,True,1.5,98.591,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,3.0,1.0,INTERMEDIATE,3.0,True,1,True,5.0,16.2,20.4,74.0,True,1.4,98.416,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,4.0,1.0,INTERMEDIATE,4.0,True,1,True,5.0,16.0,19.9,76.0,True,1.3,97.594,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,5.0,1.0,INTERMEDIATE,5.0,True,1,True,5.0,16.0,19.9,78.0,True,0.9,96.59,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,6.0,1.0,INTERMEDIATE,6.0,True,12,True,5.0,16.0,20.0,78.0,True,1.7,93.06,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,7.0,1.0,INTERMEDIATE,7.0,True,1,True,4.0,16.0,20.1,79.0,True,0.5,91.954,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,8.0,1.0,INTERMEDIATE,8.0,True,1,True,4.0,16.0,20.5,80.0,True,1.3,91.133,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,9.0,1.0,INTERMEDIATE,9.0,True,1,True,4.0,16.1,23.0,78.0,True,0.7,91.043,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,10.0,1.0,INTERMEDIATE,10.0,True,1,True,4.0,16.5,24.5,78.0,False,1.2,89.459,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,11.0,1.0,INTERMEDIATE,11.0,True,1,True,4.0,16.8,24.8,76.0,False,1.2,89.005,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,12.0,1.0,INTERMEDIATE,12.0,True,1,True,4.0,17.3,25.7,78.0,False,0.5,88.661,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,13.0,1.0,INTERMEDIATE,13.0,True,1,True,4.0,17.4,25.8,74.0,False,0.6,88.857,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,14.0,1.0,INTERMEDIATE,14.0,True,1,True,4.0,17.5,25.9,74.0,False,1.4,87.573,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,15.0,1.0,INTERMEDIATE,15.0,True,1,True,4.0,17.5,26.1,72.0,False,1.5,87.904,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,16.0,1.0,INTERMEDIATE,16.0,True,1,True,4.0,17.7,26.3,72.0,False,1.9,86.764,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,17.0,1.0,INTERMEDIATE,17.0,True,1,True,4.0,17.9,26.3,73.0,False,1.2,86.412,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,18.0,1.0,INTERMEDIATE,18.0,True,1,True,4.0,17.9,26.7,70.0,False,0.8,85.976,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,19.0,1.0,INTERMEDIATE,19.0,True,1,True,4.0,18.0,26.7,71.0,False,1.1,85.529,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,20.0,1.0,INTERMEDIATE,20.0,True,1,True,4.0,18.1,26.7,71.0,False,0.9,85.391,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,21.0,1.0,INTERMEDIATE,21.0,True,1,True,4.0,18.2,27.0,72.0,False,0.7,85.351,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,22.0,1.0,INTERMEDIATE,22.0,True,1,True,4.0,18.2,27.0,71.0,False,0.9,85.361,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,23.0,1.0,INTERMEDIATE,23.0,True,1,True,4.0,18.3,27.3,71.0,False,1.2,85.85,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,24.0,1.0,INTERMEDIATE,24.0,True,1,True,4.0,18.3,27.3,71.0,False,1.2,86.273,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,25.0,1.0,INTERMEDIATE,25.0,True,124,False,4.0,18.4,26.1,71.0,False,1.1,113.473,True,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,26.0,2.0,INTERMEDIATE,1.0,True,4,False,4.0,18.3,24.5,71.0,False,1.1,111.896,True,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,27.0,2.0,INTERMEDIATE,2.0,True,4,False,4.0,18.2,24.4,71.0,False,0.7,131.174,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,28.0,2.0,INTERMEDIATE,3.0,True,4,False,4.0,18.1,23.7,72.0,False,0.6,127.524,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,29.0,2.0,INTERMEDIATE,4.0,True,412,False,4.0,18.0,22.8,70.0,True,1.8,131.717,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,30.0,2.0,INTERMEDIATE,5.0,True,1,True,4.0,18.0,22.8,72.0,False,1.1,87.424,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,31.0,2.0,INTERMEDIATE,6.0,True,1,True,4.0,17.9,22.5,72.0,True,0.7,90.562,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,32.0,2.0,INTERMEDIATE,7.0,True,1,True,4.0,17.7,22.3,73.0,True,0.8,90.225,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,33.0,2.0,INTERMEDIATE,8.0,True,1,True,4.0,17.6,22.0,74.0,True,1.1,89.655,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,34.0,2.0,INTERMEDIATE,9.0,True,1,True,4.0,17.4,21.5,76.0,True,0.7,87.454,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,35.0,2.0,INTERMEDIATE,10.0,True,1,True,4.0,17.4,21.5,76.0,True,0.8,87.187,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,36.0,2.0,INTERMEDIATE,11.0,True,1,True,4.0,17.2,21.3,76.0,True,0.8,87.062,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,37.0,2.0,INTERMEDIATE,12.0,True,1,True,4.0,17.1,21.2,76.0,False,0.4,85.769,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,38.0,2.0,INTERMEDIATE,13.0,True,1,True,4.0,17.0,21.3,76.0,False,0.8,85.804,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,39.0,2.0,INTERMEDIATE,14.0,True,1,True,4.0,17.1,21.2,76.0,False,0.7,85.154,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,40.0,2.0,INTERMEDIATE,15.0,True,1,True,4.0,17.1,21.2,76.0,False,1.2,84.439,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,41.0,2.0,INTERMEDIATE,16.0,True,12,True,4.0,17.2,21.3,76.0,False,0.8,83.938,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,42.0,2.0,INTERMEDIATE,17.0,True,1,True,4.0,17.2,22.3,77.0,False,0.6,84.547,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,43.0,2.0,INTERMEDIATE,18.0,True,1,True,4.0,17.5,23.9,77.0,False,0.5,84.465,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,44.0,2.0,INTERMEDIATE,19.0,True,1,False,4.0,17.7,24.9,77.0,False,0.8,99.843,True,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,45.0,3.0,MEDIUM,1.0,True,1,False,4.0,18.2,25.9,76.0,False,0.6,92.249,True,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,46.0,3.0,MEDIUM,2.0,True,1,True,4.0,18.4,26.1,74.0,False,0.8,83.49,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,47.0,3.0,MEDIUM,3.0,True,1,True,4.0,18.5,26.9,75.0,False,1.2,81.898,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,48.0,3.0,MEDIUM,4.0,True,1,True,4.0,18.7,27.0,73.0,False,0.9,81.014,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,49.0,3.0,MEDIUM,5.0,True,12,True,4.0,18.7,26.7,73.0,False,0.7,79.959,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,50.0,3.0,MEDIUM,6.0,True,1,True,4.0,18.9,26.4,74.0,False,0.8,79.98,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,51.0,3.0,MEDIUM,7.0,True,1,True,4.0,18.8,27.0,76.0,False,0.5,78.633,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,52.0,3.0,MEDIUM,8.0,True,12,True,4.0,18.9,27.0,74.0,False,0.9,77.815,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,53.0,3.0,MEDIUM,9.0,True,12,True,4.0,19.0,26.9,72.0,False,1.1,78.063,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,54.0,3.0,MEDIUM,10.0,True,24,False,3.0,19.0,27.1,72.0,False,1.6,103.216,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,55.0,3.0,MEDIUM,11.0,True,4,False,3.0,18.9,27.0,70.0,False,1.0,121.632,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,56.0,3.0,MEDIUM,12.0,True,4,False,3.0,18.8,26.9,71.0,False,1.3,125.192,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,57.0,3.0,MEDIUM,13.0,True,4,False,3.0,18.7,26.9,71.0,False,0.6,115.379,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,58.0,3.0,MEDIUM,14.0,True,41,False,3.0,18.8,26.1,70.0,False,1.4,134.735,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,59.0,3.0,MEDIUM,15.0,True,1,True,3.0,18.8,25.8,72.0,False,1.5,79.586,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,60.0,3.0,MEDIUM,16.0,True,1,True,3.0,18.8,25.7,71.0,False,1.9,77.239,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,61.0,3.0,MEDIUM,17.0,True,1,True,3.0,18.9,26.9,72.0,False,1.1,76.853,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,62.0,3.0,MEDIUM,18.0,True,1,True,3.0,19.0,26.9,72.0,False,1.3,76.967,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,63.0,3.0,MEDIUM,19.0,True,1,True,3.0,19.1,26.8,70.0,False,2.4,77.279,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,64.0,3.0,MEDIUM,20.0,True,1,True,3.0,19.0,27.7,70.0,False,2.5,76.83,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,65.0,3.0,MEDIUM,21.0,True,1,True,4.0,18.9,27.8,70.0,False,1.7,76.247,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,66.0,3.0,MEDIUM,22.0,True,12,True,5.0,18.7,28.0,68.0,False,3.1,76.934,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,67.0,3.0,MEDIUM,23.0,True,21,True,5.0,18.6,28.0,68.0,False,2.6,77.162,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,68.0,3.0,MEDIUM,24.0,True,1,True,5.0,18.5,28.5,69.0,False,1.8,76.344,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,69.0,3.0,MEDIUM,25.0,True,1,True,5.0,18.5,27.8,69.0,False,1.1,76.66,False,70,2024,9,Canadian Grand Prix,2024_09
+PIA,McLaren,70.0,3.0,MEDIUM,26.0,True,1,True,5.0,18.4,27.0,69.0,False,2.1,76.253,False,70,2024,9,Canadian Grand Prix,2024_09

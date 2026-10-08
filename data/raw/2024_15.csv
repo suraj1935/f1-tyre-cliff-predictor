@@ -1,0 +1,1427 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,2.0,18.7,29.1,63.0,False,3.2,80.878,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,2.0,18.6,28.5,62.0,False,3.7,76.134,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,2.0,18.6,28.5,63.0,False,3.7,76.496,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,2.0,18.6,29.7,62.0,False,4.2,76.304,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,2.0,19.0,30.4,62.0,False,3.9,76.271,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,2.0,19.0,30.9,60.0,False,5.8,76.225,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,2.0,19.2,30.5,59.0,False,4.4,76.395,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,2.0,19.3,30.9,58.0,False,4.7,76.169,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,2.0,19.3,31.2,57.0,False,4.5,76.477,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,2.0,19.3,31.3,57.0,False,4.9,76.292,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,2.0,19.3,31.3,59.0,False,5.2,76.303,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,2.0,19.2,31.4,57.0,False,5.7,76.2,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,2.0,19.1,31.3,58.0,False,6.0,76.242,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,2.0,19.1,30.8,60.0,False,4.5,76.47,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,2.0,19.1,30.2,60.0,False,4.5,76.227,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,2.0,19.0,30.4,61.0,False,3.9,75.689,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,2.0,19.0,30.6,62.0,False,3.9,76.085,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,1.0,19.0,30.7,62.0,False,4.0,76.066,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,1.0,19.0,31.2,60.0,False,4.6,75.899,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,1.0,19.2,31.5,61.0,False,4.1,76.043,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,1.0,19.1,31.7,61.0,False,4.5,75.729,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,1.0,19.3,31.6,60.0,False,4.6,75.796,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,1.0,19.4,31.6,59.0,False,4.5,75.784,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,1.0,19.4,31.5,58.0,False,6.2,75.692,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,1.0,19.4,31.3,60.0,False,5.5,75.709,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,1.0,19.4,31.6,59.0,False,5.5,75.873,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,1.0,19.4,31.6,59.0,False,4.5,75.744,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,28.0,1.0,MEDIUM,28.0,True,1,False,1.0,19.4,32.0,60.0,False,4.4,79.241,True,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,29.0,2.0,HARD,1.0,True,1,False,4.0,19.4,32.1,59.0,False,4.4,95.15,True,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,30.0,2.0,HARD,2.0,True,1,True,2.0,19.3,32.0,60.0,False,4.2,74.571,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,31.0,2.0,HARD,3.0,True,1,True,2.0,19.3,31.8,61.0,False,4.7,74.391,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,32.0,2.0,HARD,4.0,True,1,True,2.0,19.3,31.9,60.0,False,5.9,74.476,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,33.0,2.0,HARD,5.0,True,1,True,1.0,19.4,32.0,60.0,False,4.8,74.489,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,34.0,2.0,HARD,6.0,True,1,True,1.0,19.5,32.0,59.0,False,6.0,74.491,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,35.0,2.0,HARD,7.0,True,1,True,1.0,19.5,32.0,59.0,False,5.2,74.474,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,36.0,2.0,HARD,8.0,True,1,True,1.0,19.4,32.0,58.0,False,5.6,74.312,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,37.0,2.0,HARD,9.0,True,1,True,1.0,19.3,32.1,58.0,False,5.4,74.724,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,38.0,2.0,HARD,10.0,True,1,True,1.0,19.4,31.9,57.0,False,4.4,74.557,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,39.0,2.0,HARD,11.0,True,1,True,1.0,19.4,31.9,57.0,False,4.8,74.707,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,40.0,2.0,HARD,12.0,True,1,True,1.0,19.4,32.1,58.0,False,4.5,74.639,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,41.0,2.0,HARD,13.0,True,1,True,1.0,19.5,32.1,59.0,False,4.2,75.01,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,42.0,2.0,HARD,14.0,True,1,True,1.0,19.5,31.6,58.0,False,4.6,75.205,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,43.0,2.0,HARD,15.0,True,1,True,1.0,19.4,31.6,57.0,False,4.4,74.791,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,44.0,2.0,HARD,16.0,True,1,True,1.0,19.3,31.7,58.0,False,3.8,74.577,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,45.0,2.0,HARD,17.0,True,1,True,1.0,19.3,31.8,57.0,False,4.9,74.831,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,46.0,2.0,HARD,18.0,True,1,True,1.0,19.3,32.1,56.0,False,4.4,74.603,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,47.0,2.0,HARD,19.0,True,1,True,1.0,19.3,32.1,56.0,False,4.7,74.892,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,48.0,2.0,HARD,20.0,True,1,True,1.0,19.3,32.0,57.0,False,4.1,74.776,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,49.0,2.0,HARD,21.0,True,1,True,1.0,19.2,32.3,57.0,False,3.8,74.911,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,50.0,2.0,HARD,22.0,True,1,True,1.0,19.2,32.1,59.0,False,4.6,74.575,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,51.0,2.0,HARD,23.0,True,1,True,1.0,19.3,32.3,56.0,False,4.5,74.832,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,52.0,2.0,HARD,24.0,True,1,True,1.0,19.3,32.3,55.0,False,5.2,74.687,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,53.0,2.0,HARD,25.0,True,1,True,1.0,19.3,32.3,56.0,False,4.9,74.738,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,54.0,2.0,HARD,26.0,True,1,True,1.0,19.3,32.4,56.0,False,4.6,74.468,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,55.0,2.0,HARD,27.0,True,1,True,1.0,19.3,32.1,57.0,False,4.7,74.599,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,56.0,2.0,HARD,28.0,True,1,True,1.0,19.3,31.9,58.0,False,4.4,74.816,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,57.0,2.0,HARD,29.0,True,1,True,1.0,19.4,31.9,57.0,False,5.8,74.867,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,58.0,2.0,HARD,30.0,True,1,True,1.0,19.4,32.1,59.0,False,4.4,75.098,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,59.0,2.0,HARD,31.0,True,1,True,1.0,19.4,32.1,57.0,False,4.2,74.979,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,60.0,2.0,HARD,32.0,True,1,True,1.0,19.4,32.1,58.0,False,5.3,74.518,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,61.0,2.0,HARD,33.0,True,1,True,1.0,19.5,32.1,57.0,False,5.2,75.046,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,62.0,2.0,HARD,34.0,True,1,True,1.0,19.5,32.3,56.0,False,4.7,75.008,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,63.0,2.0,HARD,35.0,True,1,True,1.0,19.6,32.0,58.0,False,5.3,74.31,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,64.0,2.0,HARD,36.0,True,1,True,1.0,19.7,32.3,57.0,False,4.8,74.858,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,65.0,2.0,HARD,37.0,True,1,True,1.0,19.6,32.1,56.0,False,5.2,74.786,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,66.0,2.0,HARD,38.0,True,1,True,1.0,19.6,31.8,55.0,False,3.9,74.624,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,67.0,2.0,HARD,39.0,True,1,True,1.0,19.4,31.7,56.0,False,4.0,74.688,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,68.0,2.0,HARD,40.0,True,1,True,1.0,19.3,31.8,57.0,False,4.1,74.66,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,69.0,2.0,HARD,41.0,True,1,True,1.0,19.3,31.8,55.0,False,4.7,74.657,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,70.0,2.0,HARD,42.0,True,1,True,1.0,19.3,31.8,57.0,False,4.3,74.871,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,71.0,2.0,HARD,43.0,True,1,True,1.0,19.3,31.8,57.0,False,4.3,75.007,False,72,2024,15,Dutch Grand Prix,2024_15
+NOR,McLaren,72.0,2.0,HARD,44.0,True,1,True,1.0,19.3,31.8,57.0,False,4.3,73.817,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,1.0,18.7,29.1,63.0,False,3.2,79.915,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,1.0,18.6,28.5,62.0,False,3.7,76.106,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,1.0,18.6,28.5,63.0,False,3.7,76.131,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,1.0,18.6,29.7,62.0,False,4.2,76.432,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,1.0,19.0,30.4,62.0,False,3.9,76.181,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,1.0,19.0,30.9,60.0,False,5.8,76.155,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,1.0,19.2,30.5,59.0,False,4.4,76.281,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,1.0,19.3,30.9,58.0,False,4.7,76.347,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,1.0,19.3,31.2,57.0,False,4.5,76.252,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,1.0,19.3,31.3,57.0,False,4.9,76.455,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,1.0,19.3,31.3,59.0,False,5.2,76.36,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,1.0,19.2,31.4,57.0,False,5.7,76.538,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,1.0,19.1,31.3,58.0,False,6.0,76.338,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,1.0,19.1,30.8,60.0,False,4.5,76.466,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,1.0,19.1,30.2,60.0,False,4.5,76.222,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,1.0,19.0,30.4,61.0,False,3.9,76.235,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,1.0,19.0,30.6,62.0,False,3.9,76.304,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,2.0,19.0,30.7,62.0,False,4.0,76.901,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,2.0,19.0,31.2,60.0,False,4.6,75.946,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,2.0,19.2,31.5,61.0,False,4.1,76.625,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,2.0,19.1,31.7,61.0,False,4.5,76.416,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,2.0,19.3,31.6,60.0,False,4.6,76.411,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,2.0,19.4,31.6,59.0,False,4.5,76.586,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,2.0,19.4,31.5,58.0,False,6.2,76.33,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,2.0,19.4,31.3,60.0,False,5.5,76.652,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,True,2.0,19.4,31.6,59.0,False,5.5,76.517,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,False,2.0,19.4,31.9,60.0,False,3.8,79.89,True,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,28.0,2.0,HARD,1.0,True,1,False,5.0,19.4,32.0,60.0,False,4.4,94.574,True,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,29.0,2.0,HARD,2.0,True,1,True,5.0,19.4,32.1,59.0,False,4.4,75.041,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,30.0,2.0,HARD,3.0,True,1,True,4.0,19.3,32.0,60.0,False,4.2,74.752,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,31.0,2.0,HARD,4.0,True,1,True,3.0,19.3,31.8,61.0,False,4.7,75.15,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,32.0,2.0,HARD,5.0,True,1,True,3.0,19.3,31.9,60.0,False,5.9,74.888,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,33.0,2.0,HARD,6.0,True,1,True,3.0,19.4,32.0,60.0,False,4.8,74.937,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,34.0,2.0,HARD,7.0,True,1,True,2.0,19.5,32.0,59.0,False,6.0,75.099,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,35.0,2.0,HARD,8.0,True,1,True,2.0,19.5,32.0,59.0,False,5.2,74.909,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,36.0,2.0,HARD,9.0,True,1,True,2.0,19.4,32.0,58.0,False,5.6,75.131,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,37.0,2.0,HARD,10.0,True,1,True,2.0,19.3,32.1,58.0,False,5.4,75.065,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,38.0,2.0,HARD,11.0,True,1,True,2.0,19.4,31.9,57.0,False,4.4,75.045,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,39.0,2.0,HARD,12.0,True,1,True,2.0,19.4,31.9,57.0,False,4.8,75.138,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,40.0,2.0,HARD,13.0,True,1,True,2.0,19.4,32.1,58.0,False,4.5,75.095,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,41.0,2.0,HARD,14.0,True,1,True,2.0,19.5,32.1,59.0,False,4.2,75.016,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,42.0,2.0,HARD,15.0,True,1,True,2.0,19.5,31.6,58.0,False,4.6,75.095,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,43.0,2.0,HARD,16.0,True,1,True,2.0,19.4,31.6,57.0,False,4.4,75.299,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,44.0,2.0,HARD,17.0,True,1,True,2.0,19.3,31.7,58.0,False,3.8,75.333,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,45.0,2.0,HARD,18.0,True,1,True,2.0,19.3,31.8,57.0,False,4.9,75.099,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,46.0,2.0,HARD,19.0,True,1,True,2.0,19.3,32.1,56.0,False,4.4,75.155,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,47.0,2.0,HARD,20.0,True,1,True,2.0,19.3,32.1,56.0,False,4.7,75.32,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,48.0,2.0,HARD,21.0,True,1,True,2.0,19.3,32.0,57.0,False,4.1,74.981,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,49.0,2.0,HARD,22.0,True,1,True,2.0,19.2,32.3,58.0,False,4.6,75.129,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,50.0,2.0,HARD,23.0,True,1,True,2.0,19.2,32.1,59.0,False,4.6,75.023,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,51.0,2.0,HARD,24.0,True,1,True,2.0,19.3,32.3,56.0,False,4.5,75.139,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,52.0,2.0,HARD,25.0,True,1,True,2.0,19.3,32.3,55.0,False,5.2,75.232,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,53.0,2.0,HARD,26.0,True,1,True,2.0,19.3,32.4,57.0,False,5.1,74.822,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,54.0,2.0,HARD,27.0,True,1,True,2.0,19.3,32.4,56.0,False,4.6,75.018,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,55.0,2.0,HARD,28.0,True,1,True,2.0,19.3,32.1,57.0,False,4.7,74.758,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,56.0,2.0,HARD,29.0,True,1,True,2.0,19.3,31.9,58.0,False,4.4,75.065,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,57.0,2.0,HARD,30.0,True,1,True,2.0,19.4,32.1,59.0,False,4.4,75.013,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,58.0,2.0,HARD,31.0,True,1,True,2.0,19.4,32.1,57.0,False,4.2,75.355,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,59.0,2.0,HARD,32.0,True,1,True,2.0,19.4,32.1,57.0,False,4.2,75.132,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,60.0,2.0,HARD,33.0,True,1,True,2.0,19.4,32.1,58.0,False,5.3,75.0,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,61.0,2.0,HARD,34.0,True,1,True,2.0,19.5,32.3,56.0,False,4.7,75.394,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,62.0,2.0,HARD,35.0,True,1,True,2.0,19.5,32.2,58.0,False,5.1,74.941,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,63.0,2.0,HARD,36.0,True,1,True,2.0,19.6,32.0,58.0,False,5.3,75.088,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,64.0,2.0,HARD,37.0,True,1,True,2.0,19.7,32.3,57.0,False,4.8,75.287,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,65.0,2.0,HARD,38.0,True,1,True,2.0,19.6,31.8,55.0,False,3.9,74.992,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,66.0,2.0,HARD,39.0,True,1,True,2.0,19.5,31.7,56.0,False,4.2,75.052,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,67.0,2.0,HARD,40.0,True,1,True,2.0,19.4,31.7,56.0,False,4.0,75.251,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,68.0,2.0,HARD,41.0,True,1,True,2.0,19.3,31.8,57.0,False,4.1,75.052,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,69.0,2.0,HARD,42.0,True,1,True,2.0,19.3,31.8,57.0,False,4.3,74.972,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,70.0,2.0,HARD,43.0,True,1,True,2.0,19.3,31.8,57.0,False,4.3,75.153,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,71.0,2.0,HARD,44.0,True,1,True,2.0,19.3,31.8,57.0,False,4.3,75.544,False,72,2024,15,Dutch Grand Prix,2024_15
+VER,Red Bull Racing,72.0,2.0,HARD,45.0,True,1,True,2.0,19.3,31.8,57.0,False,4.3,75.889,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,5.0,18.7,29.1,63.0,False,3.2,83.322,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,5.0,18.6,28.5,62.0,False,3.7,76.695,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,5.0,18.6,28.5,63.0,False,3.7,76.475,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,5.0,18.6,29.7,62.0,False,4.2,76.131,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,5.0,19.0,30.4,62.0,False,3.9,76.806,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,5.0,19.0,30.9,60.0,False,5.8,76.565,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,5.0,19.2,30.5,59.0,False,4.4,76.637,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,5.0,19.3,30.9,58.0,False,4.7,76.541,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,5.0,19.3,31.2,57.0,False,4.5,76.73,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,5.0,19.3,31.3,57.0,False,4.9,76.614,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,5.0,19.3,31.3,59.0,False,5.2,76.513,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,5.0,19.1,31.4,56.0,False,5.6,76.512,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,5.0,19.1,31.3,58.0,False,6.0,76.631,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,5.0,19.1,30.8,60.0,False,4.5,76.358,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,5.0,19.1,30.2,60.0,False,4.5,76.37,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,5.0,19.0,30.4,61.0,False,3.9,76.491,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,5.0,19.0,30.6,62.0,False,3.9,76.369,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,5.0,19.0,30.7,62.0,False,4.0,76.417,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,5.0,19.0,31.2,60.0,False,4.6,76.518,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,5.0,19.2,31.5,61.0,False,4.1,76.391,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,19.1,31.7,61.0,False,4.5,76.283,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,19.3,31.6,60.0,False,4.6,76.75,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,5.0,19.4,31.7,58.0,False,4.1,76.728,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,False,5.0,19.4,31.5,58.0,False,6.2,79.947,True,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,25.0,2.0,HARD,1.0,True,1,False,8.0,19.4,31.3,60.0,False,5.5,93.239,True,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,26.0,2.0,HARD,2.0,True,1,True,7.0,19.4,31.6,59.0,False,4.5,75.756,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,27.0,2.0,HARD,3.0,True,1,True,7.0,19.4,31.9,60.0,False,3.8,75.023,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,28.0,2.0,HARD,4.0,True,1,True,6.0,19.4,32.0,60.0,False,4.4,75.852,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,29.0,2.0,HARD,5.0,True,1,True,6.0,19.3,32.0,59.0,False,4.3,75.562,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,30.0,2.0,HARD,6.0,True,1,True,5.0,19.3,32.0,60.0,False,4.2,75.248,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,31.0,2.0,HARD,7.0,True,1,True,4.0,19.3,31.8,61.0,False,4.7,75.277,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,32.0,2.0,HARD,8.0,True,1,True,4.0,19.3,31.9,60.0,False,5.9,75.542,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,33.0,2.0,HARD,9.0,True,1,True,4.0,19.4,32.0,60.0,False,4.6,75.033,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,34.0,2.0,HARD,10.0,True,1,True,3.0,19.5,32.0,59.0,False,6.0,75.132,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,35.0,2.0,HARD,11.0,True,1,True,3.0,19.5,32.0,59.0,False,5.2,74.926,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,36.0,2.0,HARD,12.0,True,1,True,3.0,19.4,32.0,58.0,False,5.6,75.268,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,37.0,2.0,HARD,13.0,True,1,True,3.0,19.3,31.9,56.0,False,4.6,76.059,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,38.0,2.0,HARD,14.0,True,1,True,3.0,19.4,31.9,57.0,False,4.4,74.796,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,39.0,2.0,HARD,15.0,True,1,True,3.0,19.4,31.9,57.0,False,4.8,75.237,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,40.0,2.0,HARD,16.0,True,1,True,3.0,19.4,32.1,58.0,False,4.5,75.379,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,41.0,2.0,HARD,17.0,True,1,True,3.0,19.5,31.8,58.0,False,3.7,75.091,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,42.0,2.0,HARD,18.0,True,1,True,3.0,19.5,31.6,58.0,False,4.6,75.213,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,43.0,2.0,HARD,19.0,True,1,True,3.0,19.4,31.6,57.0,False,4.4,75.376,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,44.0,2.0,HARD,20.0,True,1,True,3.0,19.3,31.7,58.0,False,3.8,74.837,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,45.0,2.0,HARD,21.0,True,1,True,3.0,19.4,31.8,57.0,False,4.6,75.11,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,46.0,2.0,HARD,22.0,True,1,True,3.0,19.3,32.1,56.0,False,4.4,74.871,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,47.0,2.0,HARD,23.0,True,1,True,3.0,19.3,32.1,56.0,False,4.7,75.296,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,48.0,2.0,HARD,24.0,True,1,True,3.0,19.3,32.0,57.0,False,4.1,75.08,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,49.0,2.0,HARD,25.0,True,1,True,3.0,19.2,32.3,58.0,False,4.6,75.287,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,50.0,2.0,HARD,26.0,True,1,True,3.0,19.2,32.1,59.0,False,4.6,75.411,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,51.0,2.0,HARD,27.0,True,1,True,3.0,19.3,32.3,56.0,False,4.5,75.017,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,52.0,2.0,HARD,28.0,True,1,True,3.0,19.3,32.3,55.0,False,5.2,74.646,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,53.0,2.0,HARD,29.0,True,1,True,3.0,19.3,32.4,57.0,False,5.1,74.974,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,54.0,2.0,HARD,30.0,True,1,True,3.0,19.3,32.4,56.0,False,4.6,75.075,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,55.0,2.0,HARD,31.0,True,1,True,3.0,19.3,32.1,57.0,False,4.7,75.615,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,56.0,2.0,HARD,32.0,True,1,True,3.0,19.3,31.9,58.0,False,4.4,75.077,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,57.0,2.0,HARD,33.0,True,1,True,3.0,19.4,32.1,59.0,False,4.4,74.974,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,58.0,2.0,HARD,34.0,True,1,True,3.0,19.4,32.1,57.0,False,4.2,75.48,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,59.0,2.0,HARD,35.0,True,1,True,3.0,19.4,32.1,57.0,False,4.2,74.89,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,60.0,2.0,HARD,36.0,True,1,True,3.0,19.4,32.1,58.0,False,5.3,74.915,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,61.0,2.0,HARD,37.0,True,1,True,3.0,19.5,32.3,56.0,False,4.7,75.003,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,62.0,2.0,HARD,38.0,True,1,True,3.0,19.5,32.2,58.0,False,5.1,74.585,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,63.0,2.0,HARD,39.0,True,1,True,3.0,19.6,32.0,58.0,False,5.3,75.153,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,64.0,2.0,HARD,40.0,True,1,True,3.0,19.7,32.3,57.0,False,4.8,74.974,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,65.0,2.0,HARD,41.0,True,1,True,3.0,19.6,31.8,55.0,False,3.9,74.881,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,66.0,2.0,HARD,42.0,True,1,True,3.0,19.5,31.7,56.0,False,4.2,74.882,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,67.0,2.0,HARD,43.0,True,1,True,3.0,19.4,31.7,56.0,False,4.0,74.771,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,68.0,2.0,HARD,44.0,True,1,True,3.0,19.3,31.8,57.0,False,4.1,74.833,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,69.0,2.0,HARD,45.0,True,1,True,3.0,19.3,31.8,57.0,False,4.3,75.013,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,70.0,2.0,HARD,46.0,True,1,True,3.0,19.3,31.8,57.0,False,4.3,74.765,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,71.0,2.0,HARD,47.0,True,1,True,3.0,19.3,31.8,57.0,False,4.3,74.975,False,72,2024,15,Dutch Grand Prix,2024_15
+LEC,Ferrari,72.0,2.0,HARD,48.0,True,1,True,3.0,19.3,31.8,57.0,False,4.3,74.765,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,1,False,4.0,18.7,29.1,63.0,False,3.2,82.638,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,2.0,1.0,MEDIUM,2.0,True,1,True,4.0,18.6,28.5,62.0,False,3.7,76.24,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,3.0,1.0,MEDIUM,3.0,True,1,True,4.0,18.6,28.5,63.0,False,3.7,76.264,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,4.0,1.0,MEDIUM,4.0,True,1,True,4.0,18.6,29.7,62.0,False,4.2,76.678,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,4.0,19.0,30.4,62.0,False,3.9,76.76,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,4.0,19.0,30.9,60.0,False,5.8,76.528,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,7.0,1.0,MEDIUM,7.0,True,1,True,4.0,19.2,30.5,59.0,False,4.4,76.954,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,4.0,19.3,30.9,58.0,False,4.7,76.659,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,4.0,19.3,31.2,57.0,False,4.5,76.817,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,4.0,19.3,31.3,57.0,False,4.9,76.512,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,4.0,19.3,31.3,59.0,False,5.2,76.52,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,4.0,19.1,31.4,56.0,False,5.6,76.463,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,4.0,19.1,31.3,58.0,False,6.0,76.514,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,4.0,19.1,30.8,60.0,False,4.5,76.471,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,4.0,19.1,30.2,60.0,False,4.5,76.382,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,4.0,19.0,30.4,61.0,False,3.9,76.384,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,17.0,1.0,MEDIUM,17.0,True,1,True,4.0,19.0,30.6,62.0,False,3.9,76.348,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,18.0,1.0,MEDIUM,18.0,True,1,True,4.0,19.0,30.7,62.0,False,4.0,76.493,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,4.0,19.0,31.2,60.0,False,4.6,76.515,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,4.0,19.2,31.5,61.0,False,4.1,76.331,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,4.0,19.1,31.7,61.0,False,4.5,76.534,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,4.0,19.3,31.6,60.0,False,4.6,76.847,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,4.0,19.4,31.7,58.0,False,4.1,76.723,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,4.0,19.4,31.5,58.0,False,6.2,76.798,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,3.0,19.4,31.3,60.0,False,5.5,76.408,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,3.0,19.4,31.6,59.0,False,5.5,76.062,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,3.0,19.4,31.9,60.0,False,3.8,75.937,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,2.0,19.4,32.0,60.0,False,4.4,75.932,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,29.0,1.0,MEDIUM,29.0,True,1,True,1.0,19.4,32.1,59.0,False,4.4,76.067,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,30.0,1.0,MEDIUM,30.0,True,1,True,1.0,19.3,32.0,59.0,False,4.3,76.089,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,31.0,1.0,MEDIUM,31.0,True,1,True,1.0,19.3,31.8,61.0,False,4.7,76.582,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,32.0,1.0,MEDIUM,32.0,True,1,True,1.0,19.3,31.9,60.0,False,5.9,76.214,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,33.0,1.0,MEDIUM,33.0,True,1,False,2.0,19.4,32.0,60.0,False,4.8,79.492,True,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,34.0,2.0,HARD,1.0,True,1,False,5.0,19.5,32.0,59.0,False,6.0,94.573,True,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,35.0,2.0,HARD,2.0,True,1,True,5.0,19.5,32.0,59.0,False,5.2,74.937,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,36.0,2.0,HARD,3.0,True,1,True,5.0,19.4,32.0,58.0,False,5.6,74.237,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,37.0,2.0,HARD,4.0,True,1,True,5.0,19.3,31.9,56.0,False,4.6,74.308,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,38.0,2.0,HARD,5.0,True,1,True,5.0,19.4,31.9,57.0,False,4.4,74.491,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,39.0,2.0,HARD,6.0,True,1,True,5.0,19.4,31.9,57.0,False,4.8,74.43,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,40.0,2.0,HARD,7.0,True,1,True,4.0,19.4,32.1,58.0,False,4.5,74.613,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,41.0,2.0,HARD,8.0,True,1,True,4.0,19.5,31.8,58.0,False,3.7,74.536,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,42.0,2.0,HARD,9.0,True,1,True,4.0,19.5,31.6,58.0,False,4.6,74.44,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,43.0,2.0,HARD,10.0,True,1,True,4.0,19.4,31.6,57.0,False,4.4,74.677,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,44.0,2.0,HARD,11.0,True,1,True,4.0,19.3,31.7,58.0,False,3.8,74.564,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,45.0,2.0,HARD,12.0,True,1,True,4.0,19.4,31.8,57.0,False,4.6,74.574,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,46.0,2.0,HARD,13.0,True,1,True,4.0,19.3,32.1,56.0,False,4.4,74.597,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,47.0,2.0,HARD,14.0,True,1,True,4.0,19.3,32.1,56.0,False,4.7,75.257,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,48.0,2.0,HARD,15.0,True,1,True,4.0,19.3,32.0,57.0,False,4.1,75.154,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,49.0,2.0,HARD,16.0,True,1,True,4.0,19.2,32.3,58.0,False,4.6,75.414,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,50.0,2.0,HARD,17.0,True,1,True,4.0,19.2,32.1,59.0,False,4.6,75.325,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,51.0,2.0,HARD,18.0,True,1,True,4.0,19.3,32.3,56.0,False,4.5,75.165,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,52.0,2.0,HARD,19.0,True,1,True,4.0,19.3,32.3,55.0,False,5.2,75.116,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,53.0,2.0,HARD,20.0,True,1,True,4.0,19.3,32.4,57.0,False,5.1,75.34,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,54.0,2.0,HARD,21.0,True,1,True,4.0,19.3,32.4,56.0,False,4.6,75.002,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,55.0,2.0,HARD,22.0,True,1,True,4.0,19.3,32.1,57.0,False,4.7,75.305,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,56.0,2.0,HARD,23.0,True,1,True,4.0,19.3,31.9,58.0,False,4.4,75.079,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,57.0,2.0,HARD,24.0,True,1,True,4.0,19.4,32.1,59.0,False,4.4,75.088,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,58.0,2.0,HARD,25.0,True,1,True,4.0,19.4,32.1,57.0,False,4.2,75.072,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,59.0,2.0,HARD,26.0,True,1,True,4.0,19.4,32.1,57.0,False,4.2,75.052,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,60.0,2.0,HARD,27.0,True,1,True,4.0,19.4,32.1,58.0,False,5.3,74.991,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,61.0,2.0,HARD,28.0,True,1,True,4.0,19.5,32.3,56.0,False,4.7,75.012,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,62.0,2.0,HARD,29.0,True,1,True,4.0,19.5,32.2,58.0,False,5.1,74.832,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,63.0,2.0,HARD,30.0,True,1,True,4.0,19.6,32.0,58.0,False,5.3,74.965,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,64.0,2.0,HARD,31.0,True,1,True,4.0,19.7,32.3,57.0,False,4.8,74.932,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,65.0,2.0,HARD,32.0,True,1,True,4.0,19.6,31.8,55.0,False,3.9,75.052,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,66.0,2.0,HARD,33.0,True,1,True,4.0,19.5,31.7,56.0,False,4.2,74.639,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,67.0,2.0,HARD,34.0,True,1,True,4.0,19.4,31.7,56.0,False,4.0,74.975,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,68.0,2.0,HARD,35.0,True,1,True,4.0,19.3,31.8,57.0,False,4.1,74.777,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,69.0,2.0,HARD,36.0,True,1,True,4.0,19.3,31.8,57.0,False,4.3,75.083,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,70.0,2.0,HARD,37.0,True,1,True,4.0,19.3,31.8,57.0,False,4.3,75.014,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,71.0,2.0,HARD,38.0,True,1,True,4.0,19.3,31.8,57.0,False,4.3,74.99,False,72,2024,15,Dutch Grand Prix,2024_15
+PIA,McLaren,72.0,2.0,HARD,39.0,True,1,True,4.0,19.3,31.8,57.0,False,4.3,75.092,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,1.0,1.0,MEDIUM,1.0,True,1,False,9.0,18.7,29.1,63.0,False,3.2,85.474,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,2.0,1.0,MEDIUM,2.0,True,1,True,9.0,18.6,28.5,62.0,False,3.7,77.277,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,3.0,1.0,MEDIUM,3.0,True,1,True,9.0,18.6,28.5,63.0,False,3.7,76.875,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,4.0,1.0,MEDIUM,4.0,True,1,True,9.0,18.6,29.7,62.0,False,4.2,76.823,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,19.0,30.4,62.0,False,3.9,76.962,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,6.0,1.0,MEDIUM,6.0,True,1,True,9.0,19.0,30.9,60.0,False,5.8,76.576,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,7.0,1.0,MEDIUM,7.0,True,1,True,9.0,19.2,30.5,59.0,False,4.4,76.848,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,19.3,31.2,59.0,False,4.4,76.204,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,19.3,31.2,57.0,False,4.5,76.836,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,19.3,31.3,57.0,False,4.9,76.836,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,11.0,1.0,MEDIUM,11.0,True,1,True,7.0,19.3,31.3,59.0,False,5.2,77.855,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,12.0,1.0,MEDIUM,12.0,True,1,True,7.0,19.1,31.4,56.0,False,5.6,76.58,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,13.0,1.0,MEDIUM,13.0,True,1,True,7.0,19.1,31.3,58.0,False,6.0,76.524,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,14.0,1.0,MEDIUM,14.0,True,1,True,7.0,19.1,30.8,60.0,False,4.5,76.651,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,15.0,1.0,MEDIUM,15.0,True,1,True,7.0,19.1,30.2,60.0,False,4.5,76.347,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,16.0,1.0,MEDIUM,16.0,True,1,True,7.0,19.0,30.4,61.0,False,3.9,76.476,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,17.0,1.0,MEDIUM,17.0,True,1,True,7.0,19.0,30.6,62.0,False,3.9,76.38,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,18.0,1.0,MEDIUM,18.0,True,1,True,7.0,19.0,30.7,62.0,False,4.0,76.174,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,19.0,1.0,MEDIUM,19.0,True,1,True,7.0,19.2,31.3,60.0,False,4.8,76.647,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,20.0,1.0,MEDIUM,20.0,True,1,True,7.0,19.2,31.5,61.0,False,4.1,76.645,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,21.0,1.0,MEDIUM,21.0,True,1,True,7.0,19.1,31.7,61.0,False,4.5,76.283,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,22.0,1.0,MEDIUM,22.0,True,1,True,7.0,19.3,31.6,60.0,False,4.6,76.56,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,23.0,1.0,MEDIUM,23.0,True,1,True,7.0,19.4,31.7,58.0,False,4.1,76.667,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,24.0,1.0,MEDIUM,24.0,True,1,True,7.0,19.4,31.5,58.0,False,6.2,76.734,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,25.0,1.0,MEDIUM,25.0,True,1,True,6.0,19.4,31.3,60.0,False,5.5,76.49,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,26.0,1.0,MEDIUM,26.0,True,1,True,5.0,19.4,31.6,59.0,False,4.5,76.32,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,27.0,1.0,MEDIUM,27.0,True,1,True,5.0,19.4,31.9,60.0,False,3.8,76.594,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,28.0,1.0,MEDIUM,28.0,True,1,True,4.0,19.4,32.0,60.0,False,4.4,76.386,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,29.0,1.0,MEDIUM,29.0,True,1,True,2.0,19.4,32.1,59.0,False,4.4,76.566,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,30.0,1.0,MEDIUM,30.0,True,1,False,3.0,19.3,32.0,60.0,False,4.2,79.673,True,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,31.0,2.0,HARD,1.0,True,1,False,8.0,19.3,31.8,61.0,False,4.7,94.918,True,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,32.0,2.0,HARD,2.0,True,1,True,8.0,19.4,32.0,60.0,False,4.8,75.843,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,33.0,2.0,HARD,3.0,True,1,True,7.0,19.4,32.0,60.0,False,4.6,75.228,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,34.0,2.0,HARD,4.0,True,1,True,7.0,19.5,32.0,59.0,False,6.0,74.872,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,35.0,2.0,HARD,5.0,True,1,True,7.0,19.5,32.0,59.0,False,5.2,74.807,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,36.0,2.0,HARD,6.0,True,1,True,7.0,19.3,32.1,58.0,False,5.4,74.739,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,37.0,2.0,HARD,7.0,True,1,True,7.0,19.3,31.9,56.0,False,4.6,74.701,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,38.0,2.0,HARD,8.0,True,1,True,7.0,19.4,31.9,57.0,False,4.4,74.719,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,39.0,2.0,HARD,9.0,True,1,True,7.0,19.4,31.9,57.0,False,4.8,74.943,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,40.0,2.0,HARD,10.0,True,1,True,7.0,19.5,32.1,59.0,False,4.2,74.117,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,41.0,2.0,HARD,11.0,True,1,True,7.0,19.5,31.8,58.0,False,3.7,74.768,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,42.0,2.0,HARD,12.0,True,1,True,7.0,19.5,31.6,58.0,False,4.6,74.985,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,43.0,2.0,HARD,13.0,True,1,True,7.0,19.4,31.6,57.0,False,4.4,74.671,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,44.0,2.0,HARD,14.0,True,1,True,7.0,19.3,31.7,58.0,False,3.8,74.952,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,45.0,2.0,HARD,15.0,True,1,True,7.0,19.4,31.8,57.0,False,4.6,75.143,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,46.0,2.0,HARD,16.0,True,1,True,7.0,19.3,32.1,56.0,False,4.4,75.06,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,47.0,2.0,HARD,17.0,True,1,True,6.0,19.3,32.1,56.0,False,4.7,75.105,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,48.0,2.0,HARD,18.0,True,1,True,6.0,19.3,32.0,57.0,False,4.1,75.431,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,49.0,2.0,HARD,19.0,True,1,True,6.0,19.2,32.3,58.0,False,4.6,75.023,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,50.0,2.0,HARD,20.0,True,1,True,6.0,19.2,32.1,59.0,False,4.6,74.962,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,51.0,2.0,HARD,21.0,True,1,True,6.0,19.3,32.3,56.0,False,4.5,74.972,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,52.0,2.0,HARD,22.0,True,1,True,6.0,19.3,32.3,56.0,False,4.9,74.831,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,53.0,2.0,HARD,23.0,True,1,True,6.0,19.3,32.4,57.0,False,5.1,74.848,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,54.0,2.0,HARD,24.0,True,1,True,5.0,19.3,32.4,56.0,False,4.6,75.149,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,55.0,2.0,HARD,25.0,True,1,True,5.0,19.3,32.1,57.0,False,4.7,75.343,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,56.0,2.0,HARD,26.0,True,1,True,5.0,19.4,31.9,57.0,False,5.8,75.132,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,57.0,2.0,HARD,27.0,True,1,True,5.0,19.4,32.1,59.0,False,4.4,74.652,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,58.0,2.0,HARD,28.0,True,1,True,5.0,19.4,32.1,57.0,False,4.2,74.507,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,59.0,2.0,HARD,29.0,True,1,True,5.0,19.4,32.1,57.0,False,4.2,74.488,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,60.0,2.0,HARD,30.0,True,1,True,5.0,19.4,32.1,58.0,False,5.3,74.865,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,61.0,2.0,HARD,31.0,True,1,True,5.0,19.5,32.3,56.0,False,4.7,75.244,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,62.0,2.0,HARD,32.0,True,1,True,5.0,19.5,32.2,58.0,False,5.1,75.078,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,63.0,2.0,HARD,33.0,True,1,True,5.0,19.6,32.0,58.0,False,5.3,74.817,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,64.0,2.0,HARD,34.0,True,1,True,5.0,19.7,32.3,57.0,False,4.8,74.605,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,65.0,2.0,HARD,35.0,True,1,True,5.0,19.6,31.8,55.0,False,3.9,74.672,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,66.0,2.0,HARD,36.0,True,1,True,5.0,19.5,31.7,56.0,False,4.2,74.75,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,67.0,2.0,HARD,37.0,True,1,True,5.0,19.4,31.7,56.0,False,4.0,75.098,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,68.0,2.0,HARD,38.0,True,1,True,5.0,19.3,31.8,57.0,False,4.1,75.051,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,69.0,2.0,HARD,39.0,True,1,True,5.0,19.3,31.8,57.0,False,4.3,75.13,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,70.0,2.0,HARD,40.0,True,1,True,5.0,19.3,31.8,57.0,False,4.3,75.101,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,71.0,2.0,HARD,41.0,True,1,True,5.0,19.3,31.8,57.0,False,4.3,74.442,False,72,2024,15,Dutch Grand Prix,2024_15
+SAI,Ferrari,72.0,2.0,HARD,42.0,True,1,True,5.0,19.3,31.8,57.0,False,4.3,74.631,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,1.0,1.0,MEDIUM,1.0,True,1,False,6.0,18.7,29.1,63.0,False,3.2,83.931,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,2.0,1.0,MEDIUM,2.0,True,1,True,6.0,18.6,28.5,62.0,False,3.7,76.479,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,3.0,1.0,MEDIUM,3.0,True,1,True,6.0,18.6,28.5,63.0,False,3.7,76.421,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,4.0,1.0,MEDIUM,4.0,True,1,True,6.0,18.6,29.7,62.0,False,4.2,76.566,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,5.0,1.0,MEDIUM,5.0,True,1,True,6.0,19.0,30.4,62.0,False,3.9,76.747,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,6.0,1.0,MEDIUM,6.0,True,1,True,6.0,19.0,30.9,60.0,False,5.8,76.386,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,7.0,1.0,MEDIUM,7.0,True,1,True,6.0,19.2,30.5,59.0,False,4.4,76.862,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,8.0,1.0,MEDIUM,8.0,True,1,True,6.0,19.3,30.9,58.0,False,4.7,77.107,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,9.0,1.0,MEDIUM,9.0,True,1,True,6.0,19.3,31.2,57.0,False,4.5,76.898,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,10.0,1.0,MEDIUM,10.0,True,1,True,6.0,19.3,31.3,57.0,False,4.9,76.708,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,11.0,1.0,MEDIUM,11.0,True,1,True,6.0,19.3,31.3,59.0,False,5.2,76.403,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,12.0,1.0,MEDIUM,12.0,True,1,True,6.0,19.1,31.4,56.0,False,5.6,76.387,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,13.0,1.0,MEDIUM,13.0,True,1,True,6.0,19.1,31.3,58.0,False,6.0,76.599,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,14.0,1.0,MEDIUM,14.0,True,1,True,6.0,19.1,30.8,60.0,False,4.5,76.708,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,15.0,1.0,MEDIUM,15.0,True,1,True,6.0,19.1,30.2,60.0,False,4.5,76.581,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,16.0,1.0,MEDIUM,16.0,True,1,True,6.0,19.0,30.4,61.0,False,3.9,76.572,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,17.0,1.0,MEDIUM,17.0,True,1,True,6.0,19.0,30.6,62.0,False,3.9,76.467,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,18.0,1.0,MEDIUM,18.0,True,1,True,6.0,19.0,30.7,62.0,False,4.0,76.731,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,19.2,31.3,60.0,False,4.8,76.623,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,19.2,31.5,61.0,False,4.1,76.529,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,21.0,1.0,MEDIUM,21.0,True,1,True,6.0,19.1,31.7,61.0,False,4.5,76.529,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,22.0,1.0,MEDIUM,22.0,True,1,True,6.0,19.3,31.6,60.0,False,4.6,76.684,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,23.0,1.0,MEDIUM,23.0,True,1,True,6.0,19.4,31.7,58.0,False,4.1,77.003,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,24.0,1.0,MEDIUM,24.0,True,1,True,6.0,19.4,31.5,58.0,False,6.2,77.07,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,25.0,1.0,MEDIUM,25.0,True,1,True,5.0,19.4,31.3,60.0,False,5.5,76.432,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,26.0,1.0,MEDIUM,26.0,True,1,True,4.0,19.4,31.6,59.0,False,5.5,76.505,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,27.0,1.0,MEDIUM,27.0,True,1,True,4.0,19.4,31.9,60.0,False,3.8,76.361,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,28.0,1.0,MEDIUM,28.0,True,1,True,3.0,19.4,32.0,60.0,False,4.4,76.57,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,29.0,1.0,MEDIUM,29.0,True,1,False,3.0,19.4,32.1,59.0,False,4.4,80.183,True,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,30.0,2.0,HARD,1.0,True,1,False,9.0,19.3,32.0,60.0,False,4.2,96.537,True,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,31.0,2.0,HARD,2.0,True,1,True,7.0,19.3,31.8,61.0,False,4.7,75.296,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,32.0,2.0,HARD,3.0,True,1,True,6.0,19.4,32.0,60.0,False,4.8,75.031,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,33.0,2.0,HARD,4.0,True,1,True,6.0,19.4,32.0,60.0,False,4.6,74.673,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,34.0,2.0,HARD,5.0,True,1,True,6.0,19.5,32.0,59.0,False,6.0,74.966,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,35.0,2.0,HARD,6.0,True,1,True,6.0,19.5,32.0,59.0,False,5.2,75.106,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,36.0,2.0,HARD,7.0,True,1,True,6.0,19.4,32.0,58.0,False,5.6,74.846,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,37.0,2.0,HARD,8.0,True,1,True,6.0,19.3,31.9,56.0,False,4.6,75.121,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,38.0,2.0,HARD,9.0,True,1,True,6.0,19.4,31.9,57.0,False,4.4,75.102,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,39.0,2.0,HARD,10.0,True,1,True,6.0,19.4,31.9,57.0,False,4.8,74.949,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,40.0,2.0,HARD,11.0,True,1,True,6.0,19.4,32.1,58.0,False,4.5,74.792,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,41.0,2.0,HARD,12.0,True,1,True,6.0,19.5,31.8,58.0,False,3.7,74.879,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,42.0,2.0,HARD,13.0,True,1,True,6.0,19.5,31.6,58.0,False,4.6,74.828,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,43.0,2.0,HARD,14.0,True,1,True,6.0,19.4,31.6,57.0,False,4.4,74.93,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,44.0,2.0,HARD,15.0,True,1,True,6.0,19.3,31.7,58.0,False,3.8,75.143,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,45.0,2.0,HARD,16.0,True,1,True,6.0,19.4,31.8,57.0,False,4.6,75.138,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,46.0,2.0,HARD,17.0,True,1,True,6.0,19.3,32.1,56.0,False,4.4,75.103,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,47.0,2.0,HARD,18.0,True,1,True,7.0,19.3,32.1,56.0,False,4.7,76.486,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,48.0,2.0,HARD,19.0,True,1,True,7.0,19.2,32.3,57.0,False,3.8,75.601,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,49.0,2.0,HARD,20.0,True,1,True,7.0,19.2,32.3,58.0,False,4.6,75.492,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,50.0,2.0,HARD,21.0,True,1,True,7.0,19.2,32.1,59.0,False,4.6,75.314,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,51.0,2.0,HARD,22.0,True,1,True,7.0,19.3,32.3,56.0,False,4.5,75.12,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,52.0,2.0,HARD,23.0,True,1,True,7.0,19.3,32.3,56.0,False,4.9,75.046,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,53.0,2.0,HARD,24.0,True,1,True,7.0,19.3,32.4,57.0,False,5.1,75.266,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,54.0,2.0,HARD,25.0,True,1,True,7.0,19.3,32.4,56.0,False,4.6,75.169,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,55.0,2.0,HARD,26.0,True,1,True,6.0,19.3,32.1,57.0,False,4.7,75.45,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,56.0,2.0,HARD,27.0,True,1,True,6.0,19.4,31.9,57.0,False,5.8,75.521,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,57.0,2.0,HARD,28.0,True,1,True,6.0,19.4,32.1,59.0,False,4.4,75.714,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,58.0,2.0,HARD,29.0,True,1,True,6.0,19.4,32.1,57.0,False,4.2,76.198,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,59.0,2.0,HARD,30.0,True,1,True,6.0,19.4,32.1,57.0,False,4.2,75.287,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,60.0,2.0,HARD,31.0,True,1,True,6.0,19.5,32.1,57.0,False,5.2,75.197,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,61.0,2.0,HARD,32.0,True,1,True,6.0,19.5,32.3,56.0,False,4.7,75.063,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,62.0,2.0,HARD,33.0,True,1,True,6.0,19.5,32.2,58.0,False,5.1,75.034,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,63.0,2.0,HARD,34.0,True,1,True,6.0,19.6,32.0,58.0,False,5.3,75.081,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,64.0,2.0,HARD,35.0,True,1,True,6.0,19.6,32.1,56.0,False,5.2,74.699,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,65.0,2.0,HARD,36.0,True,1,True,6.0,19.6,31.8,55.0,False,3.9,74.932,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,66.0,2.0,HARD,37.0,True,1,True,6.0,19.5,31.7,56.0,False,4.2,74.61,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,67.0,2.0,HARD,38.0,True,1,True,6.0,19.4,31.7,56.0,False,4.0,74.849,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,68.0,2.0,HARD,39.0,True,1,True,6.0,19.3,31.8,55.0,False,4.7,75.132,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,69.0,2.0,HARD,40.0,True,1,True,6.0,19.3,31.8,57.0,False,4.3,74.587,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,70.0,2.0,HARD,41.0,True,1,True,6.0,19.3,31.8,57.0,False,4.3,74.851,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,71.0,2.0,HARD,42.0,True,1,True,6.0,19.3,31.8,57.0,False,4.3,74.924,False,72,2024,15,Dutch Grand Prix,2024_15
+PER,Red Bull Racing,72.0,2.0,HARD,43.0,True,1,True,6.0,19.3,31.8,57.0,False,4.3,74.956,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,1.0,1.0,MEDIUM,1.0,True,1,False,3.0,18.7,29.1,63.0,False,3.2,81.729,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,2.0,1.0,MEDIUM,2.0,True,1,True,3.0,18.6,28.5,62.0,False,3.7,76.389,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,3.0,1.0,MEDIUM,3.0,True,1,True,3.0,18.6,28.5,63.0,False,3.7,76.532,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,4.0,1.0,MEDIUM,4.0,True,1,True,3.0,18.6,29.7,62.0,False,4.2,76.633,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,5.0,1.0,MEDIUM,5.0,True,1,True,3.0,19.0,30.4,62.0,False,3.9,76.562,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,6.0,1.0,MEDIUM,6.0,True,1,True,3.0,19.0,30.9,60.0,False,5.8,76.448,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,7.0,1.0,MEDIUM,7.0,True,1,True,3.0,19.2,30.5,59.0,False,4.4,76.596,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,8.0,1.0,MEDIUM,8.0,True,1,True,3.0,19.3,30.9,58.0,False,4.7,76.62,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,9.0,1.0,MEDIUM,9.0,True,1,True,3.0,19.3,31.2,57.0,False,4.5,76.62,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,10.0,1.0,MEDIUM,10.0,True,1,True,3.0,19.3,31.3,57.0,False,4.9,76.725,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,11.0,1.0,MEDIUM,11.0,True,1,True,3.0,19.3,31.3,59.0,False,5.2,76.366,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,12.0,1.0,MEDIUM,12.0,True,1,True,3.0,19.1,31.4,56.0,False,5.6,76.383,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,13.0,1.0,MEDIUM,13.0,True,1,True,3.0,19.1,31.3,58.0,False,6.0,76.646,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,14.0,1.0,MEDIUM,14.0,True,1,True,3.0,19.1,30.8,60.0,False,4.5,76.312,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,15.0,1.0,MEDIUM,15.0,True,1,True,3.0,19.1,30.2,60.0,False,4.5,76.336,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,16.0,1.0,MEDIUM,16.0,True,1,True,3.0,19.0,30.4,61.0,False,3.9,76.257,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,17.0,1.0,MEDIUM,17.0,True,1,True,3.0,19.0,30.6,62.0,False,3.9,76.265,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,18.0,1.0,MEDIUM,18.0,True,1,True,3.0,19.0,30.7,62.0,False,4.0,76.582,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,19.0,1.0,MEDIUM,19.0,True,1,True,3.0,19.0,31.2,60.0,False,4.6,76.572,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,20.0,1.0,MEDIUM,20.0,True,1,True,3.0,19.2,31.5,61.0,False,4.1,76.631,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,21.0,1.0,MEDIUM,21.0,True,1,True,3.0,19.1,31.7,61.0,False,4.5,76.641,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,22.0,1.0,MEDIUM,22.0,True,1,True,3.0,19.3,31.6,60.0,False,4.6,76.733,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,23.0,1.0,MEDIUM,23.0,True,1,True,3.0,19.4,31.7,58.0,False,4.1,76.755,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,24.0,1.0,MEDIUM,24.0,True,1,True,3.0,19.4,31.5,58.0,False,6.2,76.961,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,25.0,1.0,MEDIUM,25.0,True,1,False,4.0,19.4,31.3,60.0,False,5.5,79.178,True,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,26.0,2.0,HARD,1.0,True,1,False,8.0,19.4,31.6,59.0,False,5.5,95.811,True,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,27.0,2.0,HARD,2.0,True,1,True,8.0,19.4,31.9,60.0,False,3.8,74.532,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,28.0,2.0,HARD,3.0,True,1,True,8.0,19.4,32.0,60.0,False,4.4,75.748,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,29.0,2.0,HARD,4.0,True,1,True,7.0,19.3,32.0,59.0,False,4.3,77.452,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,30.0,2.0,HARD,5.0,True,1,True,6.0,19.3,32.0,60.0,False,4.2,75.663,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,31.0,2.0,HARD,6.0,True,1,True,5.0,19.3,31.8,61.0,False,4.7,75.833,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,32.0,2.0,HARD,7.0,True,1,True,5.0,19.3,31.9,60.0,False,5.9,75.625,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,33.0,2.0,HARD,8.0,True,1,True,5.0,19.4,32.0,60.0,False,4.6,75.566,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,34.0,2.0,HARD,9.0,True,1,True,4.0,19.5,32.0,59.0,False,6.0,75.039,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,35.0,2.0,HARD,10.0,True,1,True,4.0,19.5,32.0,59.0,False,5.2,74.906,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,36.0,2.0,HARD,11.0,True,1,True,4.0,19.4,32.0,58.0,False,5.6,75.125,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,37.0,2.0,HARD,12.0,True,1,True,4.0,19.3,31.9,56.0,False,4.6,75.258,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,38.0,2.0,HARD,13.0,True,1,True,4.0,19.4,31.9,57.0,False,4.4,75.548,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,39.0,2.0,HARD,14.0,True,1,True,4.0,19.4,31.9,57.0,False,4.8,75.294,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,40.0,2.0,HARD,15.0,True,1,True,5.0,19.4,32.1,58.0,False,4.5,76.372,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,41.0,2.0,HARD,16.0,True,1,True,5.0,19.5,31.8,58.0,False,3.7,75.537,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,42.0,2.0,HARD,17.0,True,1,True,5.0,19.5,31.6,58.0,False,4.6,75.454,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,43.0,2.0,HARD,18.0,True,1,True,5.0,19.4,31.6,57.0,False,4.4,75.603,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,44.0,2.0,HARD,19.0,True,1,True,5.0,19.3,31.7,58.0,False,3.8,75.305,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,45.0,2.0,HARD,20.0,True,1,True,5.0,19.4,31.8,57.0,False,4.6,74.91,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,46.0,2.0,HARD,21.0,True,1,True,5.0,19.3,32.1,56.0,False,4.4,74.846,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,47.0,2.0,HARD,22.0,True,1,True,5.0,19.3,32.1,56.0,False,4.7,75.064,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,48.0,2.0,HARD,23.0,True,1,True,5.0,19.3,32.0,57.0,False,4.1,75.361,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,49.0,2.0,HARD,24.0,True,1,True,5.0,19.2,32.3,58.0,False,4.6,75.096,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,50.0,2.0,HARD,25.0,True,1,True,5.0,19.2,32.1,59.0,False,4.6,75.161,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,51.0,2.0,HARD,26.0,True,1,True,5.0,19.3,32.3,56.0,False,4.5,75.263,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,52.0,2.0,HARD,27.0,True,1,True,5.0,19.3,32.3,55.0,False,5.2,75.344,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,53.0,2.0,HARD,28.0,True,1,True,5.0,19.3,32.4,57.0,False,5.1,75.441,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,54.0,2.0,HARD,29.0,True,1,False,6.0,19.3,32.4,56.0,False,4.6,79.082,True,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,55.0,3.0,SOFT,4.0,False,1,False,7.0,19.3,32.1,57.0,False,4.7,93.228,True,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,56.0,3.0,SOFT,5.0,False,1,True,7.0,19.4,31.9,57.0,False,5.8,73.972,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,57.0,3.0,SOFT,6.0,False,1,True,7.0,19.4,32.1,59.0,False,4.4,73.927,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,58.0,3.0,SOFT,7.0,False,1,True,7.0,19.4,32.1,57.0,False,4.2,74.129,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,59.0,3.0,SOFT,8.0,False,1,True,7.0,19.4,32.1,58.0,False,5.3,74.072,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,60.0,3.0,SOFT,9.0,False,1,True,7.0,19.5,32.1,57.0,False,5.2,74.09,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,61.0,3.0,SOFT,10.0,False,1,True,7.0,19.5,32.3,56.0,False,4.7,74.286,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,62.0,3.0,SOFT,11.0,False,1,True,7.0,19.5,32.2,58.0,False,5.1,74.717,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,63.0,3.0,SOFT,12.0,False,1,True,7.0,19.7,32.3,57.0,False,4.8,75.431,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,64.0,3.0,SOFT,13.0,False,1,True,7.0,19.6,32.1,56.0,False,5.2,74.769,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,65.0,3.0,SOFT,14.0,False,1,True,7.0,19.6,31.8,55.0,False,3.9,74.347,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,66.0,3.0,SOFT,15.0,False,1,True,7.0,19.5,31.7,56.0,False,4.2,74.401,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,67.0,3.0,SOFT,16.0,False,1,True,7.0,19.4,31.7,56.0,False,4.0,74.287,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,68.0,3.0,SOFT,17.0,False,1,True,7.0,19.3,31.8,55.0,False,4.7,74.203,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,69.0,3.0,SOFT,18.0,False,1,True,7.0,19.3,31.8,57.0,False,4.3,74.078,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,70.0,3.0,SOFT,19.0,False,1,True,7.0,19.3,31.8,57.0,False,4.3,74.207,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,71.0,3.0,SOFT,20.0,False,1,True,7.0,19.3,31.8,57.0,False,4.3,74.822,False,72,2024,15,Dutch Grand Prix,2024_15
+RUS,Mercedes,72.0,3.0,SOFT,21.0,False,1,True,7.0,19.3,31.8,57.0,False,4.3,74.459,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,1.0,1.0,SOFT,1.0,True,1,False,13.0,18.7,29.1,63.0,False,3.2,87.28,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,2.0,1.0,SOFT,2.0,True,1,True,12.0,18.6,28.5,62.0,False,3.7,77.761,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,3.0,1.0,SOFT,3.0,True,1,True,12.0,18.6,28.5,63.0,False,3.7,76.489,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,4.0,1.0,SOFT,4.0,True,1,True,12.0,18.6,29.7,62.0,False,4.2,76.974,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,5.0,1.0,SOFT,5.0,True,1,True,12.0,19.0,30.4,62.0,False,3.9,76.854,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,6.0,1.0,SOFT,6.0,True,1,True,12.0,19.0,30.9,60.0,False,5.8,76.594,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,7.0,1.0,SOFT,7.0,True,1,True,12.0,19.2,30.5,59.0,False,4.4,77.063,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,8.0,1.0,SOFT,8.0,True,1,True,12.0,19.3,31.2,59.0,False,4.4,77.471,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,9.0,1.0,SOFT,9.0,True,1,True,12.0,19.3,31.2,57.0,False,4.5,77.148,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,10.0,1.0,SOFT,10.0,True,1,True,11.0,19.3,31.3,57.0,False,4.9,76.906,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,11.0,1.0,SOFT,11.0,True,1,True,11.0,19.3,31.3,59.0,False,5.2,77.617,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,12.0,1.0,SOFT,12.0,True,1,True,11.0,19.1,31.4,56.0,False,5.6,77.85,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,13.0,1.0,SOFT,13.0,True,1,True,11.0,19.1,31.3,58.0,False,6.0,77.382,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,14.0,1.0,SOFT,14.0,True,1,True,10.0,19.1,30.8,60.0,False,4.5,76.619,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,15.0,1.0,SOFT,15.0,True,1,True,10.0,19.0,30.2,61.0,False,4.2,76.686,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,16.0,1.0,SOFT,16.0,True,1,True,9.0,19.0,30.4,61.0,False,3.9,76.692,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,17.0,1.0,SOFT,17.0,True,1,True,9.0,19.0,30.6,62.0,False,3.9,76.851,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,18.0,1.0,SOFT,18.0,True,1,True,9.0,19.0,30.7,62.0,False,4.0,76.621,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,19.0,1.0,SOFT,19.0,True,1,True,9.0,19.2,31.3,60.0,False,4.8,76.743,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,20.0,1.0,SOFT,20.0,True,1,True,9.0,19.2,31.5,61.0,False,4.1,76.686,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,21.0,1.0,SOFT,21.0,True,1,True,9.0,19.1,31.7,61.0,False,4.5,77.126,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,22.0,1.0,SOFT,22.0,True,1,True,9.0,19.4,31.6,59.0,False,4.5,77.871,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,23.0,1.0,SOFT,23.0,True,1,False,9.0,19.4,31.7,58.0,False,4.1,80.674,True,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,24.0,2.0,HARD,1.0,True,1,False,16.0,19.4,31.5,58.0,False,6.2,94.272,True,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,25.0,2.0,HARD,2.0,True,1,True,15.0,19.4,31.6,59.0,False,5.5,75.725,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,26.0,2.0,HARD,3.0,True,1,True,15.0,19.4,31.6,59.0,False,4.5,76.433,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,27.0,2.0,HARD,4.0,True,1,True,14.0,19.4,31.9,60.0,False,3.8,75.75,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,28.0,2.0,HARD,5.0,True,1,True,14.0,19.4,32.1,59.0,False,4.4,75.958,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,29.0,2.0,HARD,6.0,True,1,True,12.0,19.3,32.0,59.0,False,4.3,75.457,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,30.0,2.0,HARD,7.0,True,1,True,10.0,19.3,32.0,60.0,False,4.2,75.435,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,31.0,2.0,HARD,8.0,True,1,True,10.0,19.3,31.8,61.0,False,4.7,75.278,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,32.0,2.0,HARD,9.0,True,1,True,9.0,19.4,32.0,60.0,False,4.8,75.262,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,33.0,2.0,HARD,10.0,True,1,True,8.0,19.4,32.0,60.0,False,4.6,75.053,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,34.0,2.0,HARD,11.0,True,1,True,8.0,19.5,32.0,59.0,False,6.0,75.111,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,35.0,2.0,HARD,12.0,True,1,True,8.0,19.5,32.0,59.0,False,5.2,74.805,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,36.0,2.0,HARD,13.0,True,1,True,8.0,19.3,32.1,58.0,False,5.4,75.098,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,37.0,2.0,HARD,14.0,True,1,True,8.0,19.3,31.9,56.0,False,4.6,74.893,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,38.0,2.0,HARD,15.0,True,1,True,8.0,19.4,31.9,57.0,False,4.4,74.895,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,39.0,2.0,HARD,16.0,True,1,True,8.0,19.4,31.9,57.0,False,4.8,75.096,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,40.0,2.0,HARD,17.0,True,1,True,8.0,19.5,32.1,59.0,False,4.2,75.002,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,41.0,2.0,HARD,18.0,True,1,True,8.0,19.5,31.8,58.0,False,3.7,74.767,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,42.0,2.0,HARD,19.0,True,1,True,8.0,19.5,31.6,58.0,False,4.6,74.709,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,43.0,2.0,HARD,20.0,True,1,True,8.0,19.4,31.6,57.0,False,4.4,74.723,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,44.0,2.0,HARD,21.0,True,1,True,8.0,19.3,31.8,57.0,False,4.9,74.904,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,45.0,2.0,HARD,22.0,True,1,True,8.0,19.4,31.8,57.0,False,4.6,76.022,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,46.0,2.0,HARD,23.0,True,1,True,8.0,19.3,32.1,56.0,False,4.4,75.511,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,47.0,2.0,HARD,24.0,True,1,True,8.0,19.3,32.1,56.0,False,4.7,75.768,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,48.0,2.0,HARD,25.0,True,1,False,8.0,19.2,32.3,57.0,False,3.8,78.25,True,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,49.0,3.0,SOFT,1.0,True,1,False,8.0,19.2,32.3,58.0,False,4.6,93.612,True,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,50.0,3.0,SOFT,2.0,True,1,True,8.0,19.2,32.1,59.0,False,4.6,73.883,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,51.0,3.0,SOFT,3.0,True,1,True,8.0,19.3,32.3,55.0,False,5.2,74.047,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,52.0,3.0,SOFT,4.0,True,1,True,8.0,19.3,32.3,56.0,False,4.9,74.047,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,53.0,3.0,SOFT,5.0,True,1,True,8.0,19.3,32.4,57.0,False,5.1,74.263,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,54.0,3.0,SOFT,6.0,True,1,True,8.0,19.3,32.4,56.0,False,4.6,74.353,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,55.0,3.0,SOFT,7.0,True,1,True,8.0,19.3,31.9,58.0,False,4.4,74.444,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,56.0,3.0,SOFT,8.0,True,1,True,8.0,19.4,31.9,57.0,False,5.8,74.48,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,57.0,3.0,SOFT,9.0,True,1,True,8.0,19.4,32.1,59.0,False,4.4,74.35,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,58.0,3.0,SOFT,10.0,True,1,True,8.0,19.4,32.1,57.0,False,4.2,74.477,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,59.0,3.0,SOFT,11.0,True,1,True,8.0,19.4,32.1,58.0,False,5.3,73.968,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,60.0,3.0,SOFT,12.0,True,1,True,8.0,19.5,32.1,57.0,False,5.2,73.977,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,61.0,3.0,SOFT,13.0,True,1,True,8.0,19.5,32.3,56.0,False,4.7,74.038,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,62.0,3.0,SOFT,14.0,True,1,True,8.0,19.5,32.2,58.0,False,5.1,73.878,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,63.0,3.0,SOFT,15.0,True,1,True,8.0,19.7,32.3,57.0,False,4.8,74.422,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,64.0,3.0,SOFT,16.0,True,1,True,8.0,19.6,32.1,56.0,False,5.2,74.832,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,65.0,3.0,SOFT,17.0,True,1,True,8.0,19.6,31.8,55.0,False,3.9,74.01,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,66.0,3.0,SOFT,18.0,True,1,True,8.0,19.5,31.7,56.0,False,4.2,74.243,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,67.0,3.0,SOFT,19.0,True,1,True,8.0,19.3,31.8,57.0,False,4.1,74.406,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,68.0,3.0,SOFT,20.0,True,1,True,8.0,19.3,31.8,55.0,False,4.7,74.353,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,69.0,3.0,SOFT,21.0,True,1,True,8.0,19.3,31.8,57.0,False,4.3,74.416,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,70.0,3.0,SOFT,22.0,True,1,True,8.0,19.3,31.8,57.0,False,4.3,75.898,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,71.0,3.0,SOFT,23.0,True,1,True,8.0,19.3,31.8,57.0,False,4.3,74.898,False,72,2024,15,Dutch Grand Prix,2024_15
+HAM,Mercedes,72.0,3.0,SOFT,24.0,True,1,True,8.0,19.3,31.8,57.0,False,4.3,75.688,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,7.0,18.7,29.1,63.0,False,3.2,84.654,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,7.0,18.6,28.5,62.0,False,3.7,76.896,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,7.0,18.6,28.5,63.0,False,3.7,76.914,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,7.0,18.6,29.7,62.0,False,4.2,76.934,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,7.0,19.0,30.4,62.0,False,3.9,76.735,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,7.0,19.0,30.9,60.0,False,5.8,76.551,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,7.0,19.2,30.5,59.0,False,4.4,76.913,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,7.0,19.3,31.2,59.0,False,4.4,77.081,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,7.0,19.3,31.2,57.0,False,4.5,76.909,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,7.0,19.3,31.3,57.0,False,4.9,76.965,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,19.3,31.3,59.0,False,5.2,79.464,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,19.1,31.4,56.0,False,5.6,77.375,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,19.1,31.3,58.0,False,6.0,76.961,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,19.1,30.8,60.0,False,4.5,76.929,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,19.0,30.2,61.0,False,4.2,77.12,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,19.0,30.4,61.0,False,3.9,76.975,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,8.0,19.0,30.6,62.0,False,3.9,77.261,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,8.0,19.0,30.7,62.0,False,4.0,77.076,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,8.0,19.2,31.3,60.0,False,4.8,77.034,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,8.0,19.2,31.5,61.0,False,4.1,77.135,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,8.0,19.1,31.7,61.0,False,4.5,77.265,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,8.0,19.4,31.6,59.0,False,4.5,77.24,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,8.0,19.4,31.7,58.0,False,4.1,77.09,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,24.0,1.0,MEDIUM,24.0,True,1,True,8.0,19.4,31.5,58.0,False,6.2,76.916,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,25.0,1.0,MEDIUM,25.0,True,1,True,7.0,19.4,31.3,60.0,False,5.5,77.052,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,26.0,1.0,MEDIUM,26.0,True,1,True,6.0,19.4,31.6,59.0,False,4.5,76.972,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,27.0,1.0,MEDIUM,27.0,True,1,True,6.0,19.4,31.9,60.0,False,3.8,76.757,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,28.0,1.0,MEDIUM,28.0,True,1,True,7.0,19.4,32.0,60.0,False,4.4,77.516,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,29.0,1.0,MEDIUM,29.0,True,1,True,8.0,19.3,32.0,59.0,False,4.3,79.144,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,30.0,1.0,MEDIUM,30.0,True,1,True,7.0,19.3,32.0,60.0,False,4.2,77.752,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,31.0,1.0,MEDIUM,31.0,True,1,True,6.0,19.3,31.8,61.0,False,4.7,77.353,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,32.0,1.0,MEDIUM,32.0,True,1,False,7.0,19.3,31.9,60.0,False,5.9,80.262,True,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,33.0,2.0,HARD,1.0,True,1,False,12.0,19.4,32.0,60.0,False,4.6,97.706,True,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,34.0,2.0,HARD,2.0,True,1,True,12.0,19.5,32.0,59.0,False,6.0,75.577,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,35.0,2.0,HARD,3.0,True,1,True,12.0,19.4,32.0,58.0,False,5.6,75.264,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,36.0,2.0,HARD,4.0,True,1,True,12.0,19.3,32.1,58.0,False,5.4,76.516,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,37.0,2.0,HARD,5.0,True,1,True,12.0,19.3,31.9,56.0,False,4.6,76.055,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,38.0,2.0,HARD,6.0,True,1,True,12.0,19.4,31.9,57.0,False,4.4,75.926,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,39.0,2.0,HARD,7.0,True,1,True,11.0,19.4,32.1,58.0,False,4.5,78.161,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,40.0,2.0,HARD,8.0,True,1,True,10.0,19.5,32.1,59.0,False,4.2,76.394,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,41.0,2.0,HARD,9.0,True,1,True,10.0,19.5,31.8,58.0,False,3.7,75.858,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,42.0,2.0,HARD,10.0,True,1,True,10.0,19.4,31.6,57.0,False,4.4,76.021,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,43.0,2.0,HARD,11.0,True,1,True,10.0,19.3,31.7,58.0,False,3.8,75.978,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,44.0,2.0,HARD,12.0,True,1,True,10.0,19.3,31.8,57.0,False,4.9,75.672,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,45.0,2.0,HARD,13.0,True,1,True,10.0,19.4,31.8,57.0,False,4.6,75.621,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,46.0,2.0,HARD,14.0,True,1,True,10.0,19.3,32.1,56.0,False,4.7,75.611,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,47.0,2.0,HARD,15.0,True,1,True,10.0,19.3,32.0,57.0,False,4.1,76.002,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,48.0,2.0,HARD,16.0,True,1,True,10.0,19.2,32.3,57.0,False,3.8,75.366,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,49.0,2.0,HARD,17.0,True,1,True,10.0,19.2,32.3,58.0,False,4.6,75.606,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,50.0,2.0,HARD,18.0,True,1,True,10.0,19.3,32.3,56.0,False,4.5,75.643,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,51.0,2.0,HARD,19.0,True,1,True,10.0,19.3,32.3,55.0,False,5.2,75.483,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,52.0,2.0,HARD,20.0,True,1,True,10.0,19.3,32.3,56.0,False,4.9,75.196,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,53.0,2.0,HARD,21.0,True,1,True,10.0,19.3,32.4,57.0,False,5.1,74.987,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,54.0,2.0,HARD,22.0,True,1,True,10.0,19.3,32.1,57.0,False,4.7,74.855,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,55.0,2.0,HARD,23.0,True,1,True,10.0,19.3,31.9,58.0,False,4.4,75.256,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,56.0,2.0,HARD,24.0,True,1,True,10.0,19.4,31.9,57.0,False,5.8,75.219,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,57.0,2.0,HARD,25.0,True,1,True,10.0,19.4,32.1,59.0,False,4.4,75.147,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,58.0,2.0,HARD,26.0,True,1,True,10.0,19.4,32.1,57.0,False,4.2,75.794,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,59.0,2.0,HARD,27.0,True,1,True,10.0,19.4,32.1,58.0,False,5.3,75.583,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,60.0,2.0,HARD,28.0,True,1,True,9.0,19.5,32.1,57.0,False,5.2,76.583,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,61.0,2.0,HARD,29.0,True,1,True,9.0,19.5,32.3,56.0,False,4.7,76.371,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,62.0,2.0,HARD,30.0,True,1,True,9.0,19.6,32.0,58.0,False,5.3,75.24,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,63.0,2.0,HARD,31.0,True,1,True,9.0,19.7,32.3,57.0,False,4.8,75.351,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,64.0,2.0,HARD,32.0,True,1,True,9.0,19.6,32.1,56.0,False,5.2,75.381,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,65.0,2.0,HARD,33.0,True,1,True,9.0,19.5,31.7,56.0,False,4.2,75.494,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,66.0,2.0,HARD,34.0,True,1,True,9.0,19.4,31.7,56.0,False,4.0,75.329,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,67.0,2.0,HARD,35.0,True,1,True,9.0,19.3,31.8,57.0,False,4.1,75.067,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,68.0,2.0,HARD,36.0,True,1,True,9.0,19.3,31.8,55.0,False,4.7,75.331,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,69.0,2.0,HARD,37.0,True,1,True,9.0,19.3,31.8,57.0,False,4.3,75.281,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,70.0,2.0,HARD,38.0,True,1,True,9.0,19.3,31.8,57.0,False,4.3,75.444,False,72,2024,15,Dutch Grand Prix,2024_15
+GAS,Alpine,71.0,2.0,HARD,39.0,True,1,True,9.0,19.3,31.8,57.0,False,4.3,75.553,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,8.0,18.7,29.1,63.0,False,3.2,84.726,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,8.0,18.6,28.5,62.0,False,3.7,77.392,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,8.0,18.6,28.5,63.0,False,3.7,76.865,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,8.0,18.6,29.7,62.0,False,4.2,76.661,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,8.0,19.0,30.4,62.0,False,3.9,77.135,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,19.0,30.9,60.0,False,5.8,76.7,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,8.0,19.2,30.5,59.0,False,4.4,77.167,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,9.0,19.3,31.2,59.0,False,4.4,77.995,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,9.0,19.3,31.2,57.0,False,4.5,77.448,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,9.0,19.3,31.3,57.0,False,4.9,77.528,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,9.0,19.3,31.3,59.0,False,5.2,77.672,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,9.0,19.1,31.4,56.0,False,5.6,77.509,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,9.0,19.1,31.3,58.0,False,6.0,77.112,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,9.0,19.1,30.8,60.0,False,4.5,77.27,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,9.0,19.0,30.2,61.0,False,4.2,77.287,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,10.0,19.0,30.4,61.0,False,3.9,78.446,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,10.0,19.0,30.6,62.0,False,3.9,77.508,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,10.0,19.0,30.7,62.0,False,4.0,77.478,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,10.0,19.2,31.3,60.0,False,4.8,77.336,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,True,10.0,19.2,31.5,61.0,False,4.1,76.815,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,21.0,1.0,MEDIUM,21.0,True,1,True,10.0,19.1,31.7,61.0,False,4.5,76.963,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,22.0,1.0,MEDIUM,22.0,True,1,True,10.0,19.4,31.6,59.0,False,4.5,77.138,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,23.0,1.0,MEDIUM,23.0,True,1,True,10.0,19.4,31.7,58.0,False,4.1,77.83,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,24.0,1.0,MEDIUM,24.0,True,1,True,9.0,19.4,31.5,58.0,False,6.2,77.006,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,25.0,1.0,MEDIUM,25.0,True,1,True,9.0,19.4,31.3,60.0,False,5.5,77.156,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,26.0,1.0,MEDIUM,26.0,True,1,True,9.0,19.4,31.6,59.0,False,4.5,78.012,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,27.0,1.0,MEDIUM,27.0,True,1,True,9.0,19.4,31.9,60.0,False,3.8,77.174,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,28.0,1.0,MEDIUM,28.0,True,1,True,9.0,19.4,32.0,60.0,False,4.4,77.217,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,29.0,1.0,MEDIUM,29.0,True,1,True,9.0,19.3,32.0,59.0,False,4.3,77.457,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,30.0,1.0,MEDIUM,30.0,True,1,True,8.0,19.3,32.0,60.0,False,4.2,77.251,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,31.0,1.0,MEDIUM,31.0,True,1,False,9.0,19.3,31.8,61.0,False,4.7,81.976,True,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,32.0,2.0,HARD,1.0,True,1,False,14.0,19.4,32.0,60.0,False,4.8,95.807,True,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,33.0,2.0,HARD,2.0,True,1,True,13.0,19.4,32.0,60.0,False,4.6,75.521,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,34.0,2.0,HARD,3.0,True,1,True,13.0,19.5,32.0,59.0,False,6.0,74.758,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,35.0,2.0,HARD,4.0,True,1,True,13.0,19.4,32.0,58.0,False,5.6,75.741,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,36.0,2.0,HARD,5.0,True,1,True,13.0,19.3,32.1,58.0,False,5.4,76.762,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,37.0,2.0,HARD,6.0,True,1,True,13.0,19.3,31.9,56.0,False,4.6,76.125,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,38.0,2.0,HARD,7.0,True,1,True,13.0,19.4,31.9,57.0,False,4.4,76.138,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,39.0,2.0,HARD,8.0,True,1,True,12.0,19.4,32.1,58.0,False,4.5,76.357,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,40.0,2.0,HARD,9.0,True,1,True,12.0,19.5,32.1,59.0,False,4.2,77.345,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,41.0,2.0,HARD,10.0,True,1,True,11.0,19.5,31.8,58.0,False,3.7,76.67,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,42.0,2.0,HARD,11.0,True,1,True,11.0,19.4,31.6,57.0,False,4.4,76.349,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,43.0,2.0,HARD,12.0,True,1,True,11.0,19.3,31.7,58.0,False,3.8,75.865,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,44.0,2.0,HARD,13.0,True,1,True,11.0,19.3,31.8,57.0,False,4.9,75.823,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,45.0,2.0,HARD,14.0,True,1,True,11.0,19.4,31.8,57.0,False,4.6,75.985,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,46.0,2.0,HARD,15.0,True,1,True,11.0,19.3,32.1,56.0,False,4.7,75.831,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,47.0,2.0,HARD,16.0,True,1,True,11.0,19.3,32.0,57.0,False,4.1,75.749,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,48.0,2.0,HARD,17.0,True,1,True,11.0,19.2,32.3,57.0,False,3.8,75.481,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,49.0,2.0,HARD,18.0,True,1,True,11.0,19.2,32.3,58.0,False,4.6,75.647,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,50.0,2.0,HARD,19.0,True,1,True,11.0,19.3,32.3,56.0,False,4.5,75.268,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,51.0,2.0,HARD,20.0,True,1,True,11.0,19.3,32.3,55.0,False,5.2,75.014,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,52.0,2.0,HARD,21.0,True,1,True,11.0,19.3,32.3,56.0,False,4.9,75.151,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,53.0,2.0,HARD,22.0,True,1,True,11.0,19.3,32.4,57.0,False,5.1,75.048,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,54.0,2.0,HARD,23.0,True,1,True,11.0,19.3,32.1,57.0,False,4.7,75.039,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,55.0,2.0,HARD,24.0,True,1,True,11.0,19.3,31.9,58.0,False,4.4,75.242,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,56.0,2.0,HARD,25.0,True,1,True,11.0,19.4,31.9,57.0,False,5.8,75.193,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,57.0,2.0,HARD,26.0,True,1,True,11.0,19.4,32.1,59.0,False,4.4,76.238,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,58.0,2.0,HARD,27.0,True,1,True,11.0,19.4,32.1,57.0,False,4.2,77.097,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,59.0,2.0,HARD,28.0,True,1,True,11.0,19.4,32.1,58.0,False,5.3,75.352,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,60.0,2.0,HARD,29.0,True,1,True,11.0,19.5,32.1,57.0,False,5.2,75.621,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,61.0,2.0,HARD,30.0,True,1,True,11.0,19.5,32.2,58.0,False,5.1,75.506,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,62.0,2.0,HARD,31.0,True,1,True,11.0,19.6,32.0,58.0,False,5.3,75.984,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,63.0,2.0,HARD,32.0,True,1,True,10.0,19.7,32.3,57.0,False,4.8,75.653,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,64.0,2.0,HARD,33.0,True,1,True,10.0,19.6,32.1,56.0,False,5.2,75.297,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,65.0,2.0,HARD,34.0,True,1,True,10.0,19.5,31.7,56.0,False,4.2,75.198,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,66.0,2.0,HARD,35.0,True,1,True,10.0,19.4,31.7,56.0,False,4.0,75.285,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,67.0,2.0,HARD,36.0,True,1,True,10.0,19.3,31.8,57.0,False,4.1,75.65,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,68.0,2.0,HARD,37.0,True,1,True,10.0,19.3,31.8,55.0,False,4.7,76.027,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,69.0,2.0,HARD,38.0,True,1,True,10.0,19.3,31.8,57.0,False,4.3,76.211,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,70.0,2.0,HARD,39.0,True,1,True,10.0,19.3,31.8,57.0,False,4.3,75.822,False,72,2024,15,Dutch Grand Prix,2024_15
+ALO,Aston Martin,71.0,2.0,HARD,40.0,True,1,True,10.0,19.3,31.8,57.0,False,4.3,74.972,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,1.0,1.0,MEDIUM,1.0,True,1,False,11.0,18.7,29.1,63.0,False,3.2,86.432,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,2.0,1.0,MEDIUM,2.0,True,1,True,11.0,18.6,28.5,62.0,False,3.7,77.461,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,3.0,1.0,MEDIUM,3.0,True,1,True,11.0,18.6,28.5,63.0,False,3.7,77.247,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,4.0,1.0,MEDIUM,4.0,True,1,True,11.0,18.6,29.7,62.0,False,4.2,77.04,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,5.0,1.0,MEDIUM,5.0,True,1,True,11.0,19.0,30.4,62.0,False,3.9,76.757,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,6.0,1.0,MEDIUM,6.0,True,1,True,11.0,19.0,30.9,60.0,False,5.8,76.731,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,7.0,1.0,MEDIUM,7.0,True,1,True,11.0,19.2,30.5,59.0,False,4.4,77.039,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,8.0,1.0,MEDIUM,8.0,True,1,True,11.0,19.3,31.2,59.0,False,4.4,77.416,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,9.0,1.0,MEDIUM,9.0,True,1,True,11.0,19.3,31.2,57.0,False,4.5,77.373,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,10.0,1.0,MEDIUM,10.0,True,1,True,12.0,19.3,31.3,57.0,False,4.9,77.994,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,11.0,1.0,MEDIUM,11.0,True,1,True,12.0,19.3,31.3,59.0,False,5.2,77.714,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,12.0,1.0,MEDIUM,12.0,True,1,True,12.0,19.1,31.4,56.0,False,5.6,77.627,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,13.0,1.0,MEDIUM,13.0,True,1,True,12.0,19.1,31.3,58.0,False,6.0,77.704,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,14.0,1.0,MEDIUM,14.0,True,1,False,12.0,19.1,30.8,60.0,False,4.5,81.339,True,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,15.0,2.0,HARD,1.0,True,1,False,18.0,19.0,30.2,61.0,False,4.2,95.205,True,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,16.0,2.0,HARD,2.0,True,1,True,17.0,19.0,30.4,61.0,False,3.9,75.932,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,17.0,2.0,HARD,3.0,True,1,True,17.0,19.0,30.7,62.0,False,4.0,76.203,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,18.0,2.0,HARD,4.0,True,1,True,16.0,19.0,31.2,60.0,False,4.6,76.066,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,19.0,2.0,HARD,5.0,True,1,True,16.0,19.2,31.3,60.0,False,4.8,75.867,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,20.0,2.0,HARD,6.0,True,1,True,16.0,19.2,31.5,61.0,False,4.1,75.953,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,21.0,2.0,HARD,7.0,True,1,True,16.0,19.3,31.6,60.0,False,4.6,76.281,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,22.0,2.0,HARD,8.0,True,1,True,15.0,19.4,31.6,59.0,False,4.5,77.053,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,23.0,2.0,HARD,9.0,True,1,True,15.0,19.4,31.7,58.0,False,4.1,76.658,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,24.0,2.0,HARD,10.0,True,1,True,14.0,19.4,31.5,58.0,False,6.2,76.652,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,25.0,2.0,HARD,11.0,True,1,True,13.0,19.4,31.6,59.0,False,5.5,76.387,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,26.0,2.0,HARD,12.0,True,1,True,13.0,19.4,31.6,59.0,False,4.5,76.734,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,27.0,2.0,HARD,13.0,True,1,True,13.0,19.4,31.9,60.0,False,3.8,76.173,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,28.0,2.0,HARD,14.0,True,1,True,13.0,19.4,32.1,59.0,False,4.4,76.849,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,29.0,2.0,HARD,15.0,True,1,True,13.0,19.3,32.0,59.0,False,4.3,77.546,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,30.0,2.0,HARD,16.0,True,1,True,13.0,19.3,32.0,60.0,False,4.2,76.739,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,31.0,2.0,HARD,17.0,True,1,True,12.0,19.3,31.8,61.0,False,4.7,76.315,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,32.0,2.0,HARD,18.0,True,1,True,10.0,19.4,32.0,60.0,False,4.8,76.548,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,33.0,2.0,HARD,19.0,True,1,True,9.0,19.4,32.0,60.0,False,4.6,76.593,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,34.0,2.0,HARD,20.0,True,1,True,9.0,19.5,32.0,59.0,False,6.0,76.616,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,35.0,2.0,HARD,21.0,True,1,True,9.0,19.5,32.0,59.0,False,5.2,76.313,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,36.0,2.0,HARD,22.0,True,1,True,9.0,19.3,32.1,58.0,False,5.4,76.638,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,37.0,2.0,HARD,23.0,True,1,True,9.0,19.3,31.9,56.0,False,4.6,76.072,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,38.0,2.0,HARD,24.0,True,1,True,9.0,19.4,31.9,57.0,False,4.4,76.73,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,39.0,2.0,HARD,25.0,True,1,True,9.0,19.4,32.1,58.0,False,4.5,76.284,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,40.0,2.0,HARD,26.0,True,1,True,9.0,19.5,32.1,59.0,False,4.2,76.321,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,41.0,2.0,HARD,27.0,True,1,True,9.0,19.5,31.8,58.0,False,3.7,76.462,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,42.0,2.0,HARD,28.0,True,1,True,9.0,19.5,31.6,58.0,False,4.6,76.448,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,43.0,2.0,HARD,29.0,True,1,True,9.0,19.3,31.7,58.0,False,3.8,75.896,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,44.0,2.0,HARD,30.0,True,1,True,9.0,19.3,31.8,57.0,False,4.9,76.182,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,45.0,2.0,HARD,31.0,True,1,True,9.0,19.4,31.8,57.0,False,4.6,75.983,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,46.0,2.0,HARD,32.0,True,1,True,9.0,19.3,32.1,56.0,False,4.4,75.846,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,47.0,2.0,HARD,33.0,True,1,True,9.0,19.3,32.0,57.0,False,4.1,75.83,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,48.0,2.0,HARD,34.0,True,1,True,9.0,19.2,32.3,57.0,False,3.8,75.938,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,49.0,2.0,HARD,35.0,True,1,True,9.0,19.2,32.3,58.0,False,4.6,76.053,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,50.0,2.0,HARD,36.0,True,1,True,9.0,19.3,32.3,56.0,False,4.5,75.805,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,51.0,2.0,HARD,37.0,True,1,True,9.0,19.3,32.3,55.0,False,5.2,75.705,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,52.0,2.0,HARD,38.0,True,1,True,9.0,19.3,32.3,56.0,False,4.9,75.856,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,53.0,2.0,HARD,39.0,True,1,True,9.0,19.3,32.4,57.0,False,5.1,75.733,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,54.0,2.0,HARD,40.0,True,1,True,9.0,19.3,32.1,57.0,False,4.7,76.179,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,55.0,2.0,HARD,41.0,True,1,True,9.0,19.3,31.9,58.0,False,4.4,76.449,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,56.0,2.0,HARD,42.0,True,1,True,9.0,19.4,31.9,57.0,False,5.8,76.464,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,57.0,2.0,HARD,43.0,True,1,True,9.0,19.4,32.1,59.0,False,4.4,76.261,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,58.0,2.0,HARD,44.0,True,1,True,9.0,19.4,32.1,57.0,False,4.2,76.107,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,59.0,2.0,HARD,45.0,True,1,True,9.0,19.4,32.1,58.0,False,5.3,75.657,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,60.0,2.0,HARD,46.0,True,1,True,10.0,19.5,32.1,57.0,False,5.2,78.585,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,61.0,2.0,HARD,47.0,True,1,True,10.0,19.5,32.2,58.0,False,5.1,76.441,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,62.0,2.0,HARD,48.0,True,1,True,10.0,19.6,32.0,58.0,False,5.3,76.295,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,63.0,2.0,HARD,49.0,True,1,True,11.0,19.7,32.3,57.0,False,4.8,77.307,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,64.0,2.0,HARD,50.0,True,1,True,11.0,19.6,32.1,56.0,False,5.2,76.32,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,65.0,2.0,HARD,51.0,True,1,True,11.0,19.5,31.7,56.0,False,4.2,76.254,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,66.0,2.0,HARD,52.0,True,1,True,11.0,19.4,31.7,56.0,False,4.0,76.114,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,67.0,2.0,HARD,53.0,True,1,True,11.0,19.3,31.8,57.0,False,4.1,75.918,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,68.0,2.0,HARD,54.0,True,1,True,11.0,19.3,31.8,55.0,False,4.7,76.03,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,69.0,2.0,HARD,55.0,True,1,True,11.0,19.3,31.8,57.0,False,4.3,75.881,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,70.0,2.0,HARD,56.0,True,1,True,11.0,19.3,31.8,57.0,False,4.3,75.91,False,72,2024,15,Dutch Grand Prix,2024_15
+HUL,Haas F1 Team,71.0,2.0,HARD,57.0,True,1,True,11.0,19.3,31.8,57.0,False,4.3,76.222,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,1.0,1.0,MEDIUM,1.0,True,1,False,15.0,18.7,29.1,63.0,False,3.2,87.95,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,2.0,1.0,MEDIUM,2.0,True,1,True,15.0,18.6,28.5,62.0,False,3.7,79.111,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,3.0,1.0,MEDIUM,3.0,True,1,True,15.0,18.6,28.5,63.0,False,3.7,77.667,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,4.0,1.0,MEDIUM,4.0,True,1,True,15.0,18.9,30.0,64.0,False,4.1,77.402,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,5.0,1.0,MEDIUM,5.0,True,1,True,15.0,19.0,30.4,62.0,False,3.9,77.115,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,6.0,1.0,MEDIUM,6.0,True,1,True,15.0,19.0,30.9,60.0,False,5.8,77.076,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,7.0,1.0,MEDIUM,7.0,True,1,True,15.0,19.2,30.5,59.0,False,4.4,77.447,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,8.0,1.0,MEDIUM,8.0,True,1,True,15.0,19.3,31.2,59.0,False,4.4,77.37,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,9.0,1.0,MEDIUM,9.0,True,1,True,15.0,19.3,31.2,57.0,False,4.5,77.494,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,10.0,1.0,MEDIUM,10.0,True,1,True,15.0,19.3,31.3,57.0,False,4.9,77.645,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,11.0,1.0,MEDIUM,11.0,True,1,True,15.0,19.2,31.4,57.0,False,5.7,77.608,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,12.0,1.0,MEDIUM,12.0,True,1,True,15.0,19.1,31.4,56.0,False,5.6,77.614,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,13.0,1.0,MEDIUM,13.0,True,1,True,15.0,19.1,31.3,58.0,False,6.0,78.112,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,14.0,1.0,MEDIUM,14.0,True,1,True,15.0,19.1,30.8,60.0,False,4.5,77.699,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,15.0,1.0,MEDIUM,15.0,True,1,True,12.0,19.0,30.2,61.0,False,4.2,77.444,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,16.0,1.0,MEDIUM,16.0,True,1,True,12.0,19.0,30.4,61.0,False,3.9,77.17,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,17.0,1.0,MEDIUM,17.0,True,1,True,12.0,19.0,30.6,62.0,False,3.9,77.489,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,18.0,1.0,MEDIUM,18.0,True,1,True,12.0,19.0,31.2,60.0,False,4.6,77.301,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,19.0,1.0,MEDIUM,19.0,True,1,True,12.0,19.2,31.3,60.0,False,4.8,77.117,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,20.0,1.0,MEDIUM,20.0,True,1,True,12.0,19.2,31.5,61.0,False,4.1,77.318,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,21.0,1.0,MEDIUM,21.0,True,1,True,12.0,19.1,31.7,61.0,False,4.5,77.619,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,22.0,1.0,MEDIUM,22.0,True,1,True,12.0,19.4,31.6,59.0,False,4.5,77.163,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,23.0,1.0,MEDIUM,23.0,True,1,True,12.0,19.4,31.7,58.0,False,4.1,77.412,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,24.0,1.0,MEDIUM,24.0,True,1,True,11.0,19.4,31.5,58.0,False,6.2,77.229,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,25.0,1.0,MEDIUM,25.0,True,1,True,11.0,19.4,31.6,59.0,False,5.5,77.248,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,26.0,1.0,MEDIUM,26.0,True,1,True,11.0,19.4,31.6,59.0,False,4.5,77.182,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,27.0,1.0,MEDIUM,27.0,True,1,True,11.0,19.4,31.9,60.0,False,3.8,77.109,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,28.0,1.0,MEDIUM,28.0,True,1,True,11.0,19.4,32.0,60.0,False,4.4,77.9,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,29.0,1.0,MEDIUM,29.0,True,1,False,14.0,19.3,32.0,59.0,False,4.3,81.621,True,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,30.0,2.0,HARD,1.0,True,1,False,18.0,19.3,32.0,60.0,False,4.2,95.924,True,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,31.0,2.0,HARD,2.0,True,1,True,17.0,19.3,31.9,60.0,False,5.9,76.288,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,32.0,2.0,HARD,3.0,True,1,True,17.0,19.4,32.0,60.0,False,4.8,75.984,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,33.0,2.0,HARD,4.0,True,1,True,16.0,19.4,32.0,60.0,False,4.6,76.179,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,34.0,2.0,HARD,5.0,True,1,True,16.0,19.5,32.0,59.0,False,5.2,75.832,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,35.0,2.0,HARD,6.0,True,1,True,16.0,19.4,32.0,58.0,False,5.6,76.259,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,36.0,2.0,HARD,7.0,True,1,True,15.0,19.3,32.1,58.0,False,5.4,75.543,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,37.0,2.0,HARD,8.0,True,1,True,15.0,19.3,31.9,56.0,False,4.6,75.568,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,38.0,2.0,HARD,9.0,True,1,True,15.0,19.4,31.9,57.0,False,4.8,76.164,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,39.0,2.0,HARD,10.0,True,1,True,15.0,19.4,32.1,58.0,False,4.5,75.986,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,40.0,2.0,HARD,11.0,True,1,True,14.0,19.5,32.1,59.0,False,4.2,75.923,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,41.0,2.0,HARD,12.0,True,1,True,14.0,19.5,31.8,58.0,False,3.7,76.164,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,42.0,2.0,HARD,13.0,True,1,True,14.0,19.4,31.6,57.0,False,4.4,76.308,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,43.0,2.0,HARD,14.0,True,1,True,14.0,19.3,31.7,58.0,False,3.8,76.344,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,44.0,2.0,HARD,15.0,True,1,True,14.0,19.3,31.8,57.0,False,4.9,76.302,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,45.0,2.0,HARD,16.0,True,1,True,14.0,19.4,31.8,57.0,False,4.6,76.293,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,46.0,2.0,HARD,17.0,True,1,True,13.0,19.3,32.1,56.0,False,4.7,75.825,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,47.0,2.0,HARD,18.0,True,1,True,13.0,19.3,32.0,57.0,False,4.1,75.872,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,48.0,2.0,HARD,19.0,True,1,True,13.0,19.2,32.3,57.0,False,3.8,77.598,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,49.0,2.0,HARD,20.0,True,1,True,13.0,19.2,32.1,59.0,False,4.6,75.913,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,50.0,2.0,HARD,21.0,True,1,True,13.0,19.3,32.3,56.0,False,4.5,75.709,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,51.0,2.0,HARD,22.0,True,1,True,13.0,19.3,32.3,55.0,False,5.2,75.309,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,52.0,2.0,HARD,23.0,True,1,True,13.0,19.3,32.3,56.0,False,4.9,75.222,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,53.0,2.0,HARD,24.0,True,1,True,13.0,19.3,32.4,56.0,False,4.6,75.633,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,54.0,2.0,HARD,25.0,True,1,True,13.0,19.3,32.1,57.0,False,4.7,75.374,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,55.0,2.0,HARD,26.0,True,1,True,13.0,19.3,31.9,58.0,False,4.4,75.419,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,56.0,2.0,HARD,27.0,True,1,True,13.0,19.4,31.9,57.0,False,5.8,75.354,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,57.0,2.0,HARD,28.0,True,1,True,13.0,19.4,32.1,57.0,False,4.2,75.692,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,58.0,2.0,HARD,29.0,True,1,True,13.0,19.4,32.1,57.0,False,4.2,75.487,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,59.0,2.0,HARD,30.0,True,1,True,13.0,19.4,32.1,58.0,False,5.3,75.675,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,60.0,2.0,HARD,31.0,True,1,True,13.0,19.5,32.1,57.0,False,5.2,75.53,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,61.0,2.0,HARD,32.0,True,1,True,13.0,19.5,32.2,58.0,False,5.1,75.544,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,62.0,2.0,HARD,33.0,True,1,True,13.0,19.6,32.0,58.0,False,5.3,75.444,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,63.0,2.0,HARD,34.0,True,1,True,13.0,19.7,32.3,57.0,False,4.8,75.413,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,64.0,2.0,HARD,35.0,True,1,True,13.0,19.6,32.1,56.0,False,5.2,75.553,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,65.0,2.0,HARD,36.0,True,1,True,13.0,19.5,31.7,56.0,False,4.2,75.536,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,66.0,2.0,HARD,37.0,True,1,True,13.0,19.4,31.7,56.0,False,4.0,75.481,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,67.0,2.0,HARD,38.0,True,1,True,13.0,19.3,31.8,57.0,False,4.1,75.449,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,68.0,2.0,HARD,39.0,True,1,True,13.0,19.3,31.8,55.0,False,4.7,75.68,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,69.0,2.0,HARD,40.0,True,1,True,13.0,19.3,31.8,57.0,False,4.3,76.055,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,70.0,2.0,HARD,41.0,True,1,True,13.0,19.3,31.8,57.0,False,4.3,75.91,False,72,2024,15,Dutch Grand Prix,2024_15
+RIC,RB,71.0,2.0,HARD,42.0,True,1,True,13.0,19.3,31.8,57.0,False,4.3,76.216,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,1.0,1.0,MEDIUM,1.0,True,1,False,10.0,18.7,29.1,63.0,False,3.2,85.703,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,2.0,1.0,MEDIUM,2.0,True,1,True,10.0,18.6,28.5,62.0,False,3.7,77.513,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,3.0,1.0,MEDIUM,3.0,True,1,True,10.0,18.6,28.5,63.0,False,3.7,77.178,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,4.0,1.0,MEDIUM,4.0,True,1,True,10.0,18.6,29.7,62.0,False,4.2,76.778,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,5.0,1.0,MEDIUM,5.0,True,1,True,10.0,19.0,30.4,62.0,False,3.9,76.936,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,6.0,1.0,MEDIUM,6.0,True,1,True,10.0,19.0,30.9,60.0,False,5.8,76.887,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,7.0,1.0,MEDIUM,7.0,True,1,True,10.0,19.2,30.5,59.0,False,4.4,77.353,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,8.0,1.0,MEDIUM,8.0,True,1,True,10.0,19.3,31.2,59.0,False,4.4,76.923,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,9.0,1.0,MEDIUM,9.0,True,1,True,10.0,19.3,31.2,57.0,False,4.5,77.454,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,10.0,1.0,MEDIUM,10.0,True,1,True,10.0,19.3,31.3,57.0,False,4.9,77.334,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,11.0,1.0,MEDIUM,11.0,True,1,True,10.0,19.3,31.3,59.0,False,5.2,77.737,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,12.0,1.0,MEDIUM,12.0,True,1,True,10.0,19.1,31.4,56.0,False,5.6,77.677,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,13.0,1.0,MEDIUM,13.0,True,1,True,10.0,19.1,31.3,58.0,False,6.0,77.837,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,14.0,1.0,MEDIUM,14.0,True,1,True,11.0,19.1,30.8,60.0,False,4.5,78.37,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,15.0,1.0,MEDIUM,15.0,True,1,True,11.0,19.0,30.2,61.0,False,4.2,77.533,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,16.0,1.0,MEDIUM,16.0,True,1,True,11.0,19.0,30.4,61.0,False,3.9,77.847,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,17.0,1.0,MEDIUM,17.0,True,1,True,11.0,19.0,30.6,62.0,False,3.9,77.47,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,18.0,1.0,MEDIUM,18.0,True,1,True,11.0,19.0,30.7,62.0,False,4.0,77.28,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,19.0,1.0,MEDIUM,19.0,True,1,True,11.0,19.2,31.3,60.0,False,4.8,77.608,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,20.0,1.0,MEDIUM,20.0,True,1,True,11.0,19.2,31.5,61.0,False,4.1,77.379,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,21.0,1.0,MEDIUM,21.0,True,1,True,11.0,19.1,31.7,61.0,False,4.5,77.153,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,22.0,1.0,MEDIUM,22.0,True,1,True,11.0,19.4,31.6,59.0,False,4.5,77.351,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,23.0,1.0,MEDIUM,23.0,True,1,True,11.0,19.4,31.7,58.0,False,4.1,77.302,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,24.0,1.0,MEDIUM,24.0,True,1,True,10.0,19.4,31.5,58.0,False,6.2,77.479,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,25.0,1.0,MEDIUM,25.0,True,1,True,10.0,19.4,31.6,59.0,False,5.5,77.582,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,26.0,1.0,MEDIUM,26.0,True,1,True,10.0,19.4,31.6,59.0,False,4.5,77.628,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,27.0,1.0,MEDIUM,27.0,True,1,True,10.0,19.4,31.9,60.0,False,3.8,77.414,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,28.0,1.0,MEDIUM,28.0,True,1,True,10.0,19.4,32.0,60.0,False,4.4,78.003,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,29.0,1.0,MEDIUM,29.0,True,1,True,10.0,19.3,32.0,59.0,False,4.3,77.959,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,30.0,1.0,MEDIUM,30.0,True,1,False,11.0,19.3,32.0,60.0,False,4.2,80.575,True,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,31.0,2.0,HARD,1.0,True,1,False,16.0,19.3,31.8,61.0,False,4.7,95.126,True,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,32.0,2.0,HARD,2.0,True,1,True,16.0,19.4,32.0,60.0,False,4.8,75.32,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,33.0,2.0,HARD,3.0,True,1,True,14.0,19.4,32.0,60.0,False,4.6,75.905,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,34.0,2.0,HARD,4.0,True,1,True,14.0,19.5,32.0,59.0,False,6.0,75.476,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,35.0,2.0,HARD,5.0,True,1,True,14.0,19.4,32.0,58.0,False,5.6,75.719,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,36.0,2.0,HARD,6.0,True,1,True,14.0,19.3,32.1,58.0,False,5.4,75.967,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,37.0,2.0,HARD,7.0,True,1,True,14.0,19.3,31.9,56.0,False,4.6,75.506,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,38.0,2.0,HARD,8.0,True,1,True,14.0,19.4,31.9,57.0,False,4.4,76.322,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,39.0,2.0,HARD,9.0,True,1,True,14.0,19.4,32.1,58.0,False,4.5,76.245,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,40.0,2.0,HARD,10.0,True,1,True,13.0,19.5,32.1,59.0,False,4.2,77.511,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,41.0,2.0,HARD,11.0,True,1,True,13.0,19.5,31.8,58.0,False,3.7,77.001,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,42.0,2.0,HARD,12.0,True,1,True,13.0,19.4,31.6,57.0,False,4.4,76.716,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,43.0,2.0,HARD,13.0,True,1,True,12.0,19.3,31.7,58.0,False,3.8,76.479,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,44.0,2.0,HARD,14.0,True,1,True,12.0,19.3,31.8,57.0,False,4.9,75.994,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,45.0,2.0,HARD,15.0,True,1,True,12.0,19.4,31.8,57.0,False,4.6,75.781,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,46.0,2.0,HARD,16.0,True,1,True,12.0,19.3,32.1,56.0,False,4.7,75.783,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,47.0,2.0,HARD,17.0,True,1,True,12.0,19.3,32.0,57.0,False,4.1,75.741,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,48.0,2.0,HARD,18.0,True,1,True,12.0,19.2,32.3,57.0,False,3.8,75.736,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,49.0,2.0,HARD,19.0,True,1,True,12.0,19.2,32.3,58.0,False,4.6,75.644,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,50.0,2.0,HARD,20.0,True,1,True,12.0,19.3,32.3,56.0,False,4.5,75.674,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,51.0,2.0,HARD,21.0,True,1,True,12.0,19.3,32.3,55.0,False,5.2,75.255,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,52.0,2.0,HARD,22.0,True,1,True,12.0,19.3,32.3,56.0,False,4.9,77.472,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,53.0,2.0,HARD,23.0,True,1,True,12.0,19.3,32.4,56.0,False,4.6,75.44,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,54.0,2.0,HARD,24.0,True,1,True,12.0,19.3,32.1,57.0,False,4.7,75.47,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,55.0,2.0,HARD,25.0,True,1,True,12.0,19.3,31.9,58.0,False,4.4,75.371,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,56.0,2.0,HARD,26.0,True,1,True,12.0,19.4,31.9,57.0,False,5.8,75.396,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,57.0,2.0,HARD,27.0,True,1,True,12.0,19.4,32.1,57.0,False,4.2,75.931,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,58.0,2.0,HARD,28.0,True,1,True,12.0,19.4,32.1,57.0,False,4.2,75.749,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,59.0,2.0,HARD,29.0,True,1,True,12.0,19.4,32.1,58.0,False,5.3,75.509,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,60.0,2.0,HARD,30.0,True,1,True,12.0,19.5,32.1,57.0,False,5.2,75.624,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,61.0,2.0,HARD,31.0,True,1,True,12.0,19.5,32.2,58.0,False,5.1,75.448,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,62.0,2.0,HARD,32.0,True,1,True,12.0,19.6,32.0,58.0,False,5.3,75.483,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,63.0,2.0,HARD,33.0,True,1,True,12.0,19.7,32.3,57.0,False,4.8,75.692,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,64.0,2.0,HARD,34.0,True,1,True,12.0,19.6,32.1,56.0,False,5.2,75.825,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,65.0,2.0,HARD,35.0,True,1,True,12.0,19.5,31.7,56.0,False,4.2,75.711,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,66.0,2.0,HARD,36.0,True,1,True,12.0,19.4,31.7,56.0,False,4.0,75.823,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,67.0,2.0,HARD,37.0,True,1,True,12.0,19.3,31.8,57.0,False,4.1,75.934,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,68.0,2.0,HARD,38.0,True,1,True,12.0,19.3,31.8,55.0,False,4.7,75.986,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,69.0,2.0,HARD,39.0,True,1,True,12.0,19.3,31.8,57.0,False,4.3,75.945,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,70.0,2.0,HARD,40.0,True,1,True,12.0,19.3,31.8,57.0,False,4.3,76.158,False,72,2024,15,Dutch Grand Prix,2024_15
+STR,Aston Martin,71.0,2.0,HARD,41.0,True,1,True,12.0,19.3,31.8,57.0,False,4.3,76.12,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,17.0,18.7,29.1,63.0,False,3.2,88.535,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,17.0,18.6,28.5,62.0,False,3.7,79.114,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,17.0,18.6,28.5,63.0,False,3.7,78.072,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,17.0,18.9,30.0,64.0,False,4.1,77.747,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,17.0,19.0,30.4,62.0,False,3.9,77.438,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,17.0,19.0,30.9,60.0,False,5.8,76.959,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,17.0,19.2,30.5,59.0,False,4.4,77.558,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,17.0,19.3,31.2,59.0,False,4.4,77.266,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,17.0,19.3,31.2,57.0,False,4.5,77.898,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,17.0,19.3,31.3,57.0,False,4.9,77.291,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,17.0,19.2,31.4,57.0,False,5.7,77.427,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,12.0,1.0,MEDIUM,12.0,True,1,False,18.0,19.1,31.4,56.0,False,5.6,80.841,True,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,13.0,2.0,HARD,1.0,True,1,False,20.0,19.1,31.3,58.0,False,6.0,95.384,True,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,14.0,2.0,HARD,2.0,True,1,True,20.0,19.1,30.2,60.0,False,4.5,76.267,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,15.0,2.0,HARD,3.0,True,1,True,20.0,19.0,30.2,61.0,False,4.2,75.52,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,16.0,2.0,HARD,4.0,True,1,True,19.0,19.0,30.4,61.0,False,3.9,76.007,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,17.0,2.0,HARD,5.0,True,1,True,19.0,19.0,30.7,62.0,False,4.0,76.622,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,18.0,2.0,HARD,6.0,True,1,True,18.0,19.0,31.2,60.0,False,4.6,76.601,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,19.0,2.0,HARD,7.0,True,1,True,18.0,19.2,31.3,60.0,False,4.8,77.533,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,20.0,2.0,HARD,8.0,True,1,True,18.0,19.2,31.5,61.0,False,4.1,78.639,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,21.0,2.0,HARD,9.0,True,1,True,18.0,19.3,31.6,60.0,False,4.6,76.401,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,22.0,2.0,HARD,10.0,True,1,True,18.0,19.4,31.6,59.0,False,4.5,76.184,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,23.0,2.0,HARD,11.0,True,1,True,17.0,19.4,31.7,58.0,False,4.1,76.176,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,24.0,2.0,HARD,12.0,True,1,True,17.0,19.4,31.3,60.0,False,5.5,76.317,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,25.0,2.0,HARD,13.0,True,1,True,17.0,19.4,31.6,59.0,False,5.5,76.49,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,26.0,2.0,HARD,14.0,True,1,True,17.0,19.4,31.6,59.0,False,4.5,76.357,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,27.0,2.0,HARD,15.0,True,1,True,17.0,19.4,31.9,60.0,False,3.8,76.516,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,28.0,2.0,HARD,16.0,True,1,True,17.0,19.4,32.1,59.0,False,4.4,76.642,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,29.0,2.0,HARD,17.0,True,1,True,17.0,19.3,32.0,59.0,False,4.3,77.328,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,30.0,2.0,HARD,18.0,True,1,True,15.0,19.3,32.0,60.0,False,4.2,77.169,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,31.0,2.0,HARD,19.0,True,1,True,14.0,19.3,31.8,61.0,False,4.7,76.79,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,32.0,2.0,HARD,20.0,True,1,True,12.0,19.4,32.0,60.0,False,4.8,76.801,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,33.0,2.0,HARD,21.0,True,1,True,11.0,19.4,32.0,60.0,False,4.6,76.386,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,34.0,2.0,HARD,22.0,True,1,True,11.0,19.5,32.0,59.0,False,6.0,76.264,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,35.0,2.0,HARD,23.0,True,1,True,11.0,19.4,32.0,58.0,False,5.6,76.26,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,36.0,2.0,HARD,24.0,True,1,True,11.0,19.3,32.1,58.0,False,5.4,76.535,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,37.0,2.0,HARD,25.0,True,1,True,11.0,19.3,31.9,56.0,False,4.6,76.411,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,38.0,2.0,HARD,26.0,True,1,True,11.0,19.4,31.9,57.0,False,4.4,76.45,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,39.0,2.0,HARD,27.0,True,1,True,10.0,19.4,32.1,58.0,False,4.5,80.078,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,40.0,2.0,HARD,28.0,True,1,True,11.0,19.5,32.1,59.0,False,4.2,77.452,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,41.0,2.0,HARD,29.0,True,1,True,12.0,19.5,31.8,58.0,False,3.7,77.33,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,42.0,2.0,HARD,30.0,True,1,True,12.0,19.4,31.6,57.0,False,4.4,76.849,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,43.0,2.0,HARD,31.0,True,1,True,13.0,19.3,31.7,58.0,False,3.8,77.775,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,44.0,2.0,HARD,32.0,True,1,True,13.0,19.3,31.8,57.0,False,4.9,76.456,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,45.0,2.0,HARD,33.0,True,1,True,13.0,19.4,31.8,57.0,False,4.6,76.457,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,46.0,2.0,HARD,34.0,True,1,True,14.0,19.3,32.1,56.0,False,4.7,77.244,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,47.0,2.0,HARD,35.0,True,1,True,14.0,19.3,32.0,57.0,False,4.1,77.653,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,48.0,2.0,HARD,36.0,True,1,True,14.0,19.2,32.3,57.0,False,3.8,76.608,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,49.0,2.0,HARD,37.0,True,1,True,14.0,19.2,32.1,59.0,False,4.6,76.373,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,50.0,2.0,HARD,38.0,True,1,True,14.0,19.3,32.3,56.0,False,4.5,76.318,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,51.0,2.0,HARD,39.0,True,1,True,14.0,19.3,32.3,55.0,False,5.2,75.903,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,52.0,2.0,HARD,40.0,True,1,True,14.0,19.3,32.3,56.0,False,4.9,76.044,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,53.0,2.0,HARD,41.0,True,1,True,14.0,19.3,32.4,56.0,False,4.6,76.491,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,54.0,2.0,HARD,42.0,True,1,False,14.0,19.3,32.1,57.0,False,4.7,79.155,True,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,55.0,3.0,MEDIUM,1.0,True,1,False,18.0,19.3,31.9,58.0,False,4.4,94.753,True,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,56.0,3.0,MEDIUM,2.0,True,1,True,18.0,19.4,32.1,59.0,False,4.4,75.334,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,57.0,3.0,MEDIUM,3.0,True,1,True,17.0,19.4,32.1,57.0,False,4.2,75.897,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,58.0,3.0,MEDIUM,4.0,True,1,True,15.0,19.4,32.1,57.0,False,4.2,76.04,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,59.0,3.0,MEDIUM,5.0,True,1,True,15.0,19.5,32.1,57.0,False,5.2,74.787,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,60.0,3.0,MEDIUM,6.0,True,1,True,15.0,19.5,32.3,56.0,False,4.7,74.603,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,61.0,3.0,MEDIUM,7.0,True,1,True,15.0,19.5,32.2,58.0,False,5.1,75.257,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,62.0,3.0,MEDIUM,8.0,True,1,True,15.0,19.6,32.0,58.0,False,5.3,74.847,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,63.0,3.0,MEDIUM,9.0,True,1,True,15.0,19.6,32.1,56.0,False,5.2,75.283,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,64.0,3.0,MEDIUM,10.0,True,1,True,15.0,19.6,31.8,55.0,False,3.9,74.694,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,65.0,3.0,MEDIUM,11.0,True,1,True,15.0,19.5,31.7,56.0,False,4.2,75.102,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,66.0,3.0,MEDIUM,12.0,True,1,True,15.0,19.4,31.7,56.0,False,4.0,75.095,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,67.0,3.0,MEDIUM,13.0,True,1,True,15.0,19.3,31.8,55.0,False,4.7,74.999,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,68.0,3.0,MEDIUM,14.0,True,1,True,15.0,19.3,31.8,57.0,False,4.3,75.01,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,69.0,3.0,MEDIUM,15.0,True,1,True,14.0,19.3,31.8,57.0,False,4.3,74.877,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,70.0,3.0,MEDIUM,16.0,True,1,True,14.0,19.3,31.8,57.0,False,4.3,74.836,False,72,2024,15,Dutch Grand Prix,2024_15
+ALB,Williams,71.0,3.0,MEDIUM,17.0,True,1,True,14.0,19.3,31.8,57.0,False,4.3,74.434,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,1.0,1.0,MEDIUM,1.0,True,1,False,16.0,18.7,29.1,63.0,False,3.2,88.161,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,2.0,1.0,MEDIUM,2.0,True,1,True,16.0,18.6,28.5,62.0,False,3.7,79.229,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,3.0,1.0,MEDIUM,3.0,True,1,True,16.0,18.6,28.5,63.0,False,3.7,77.768,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,4.0,1.0,MEDIUM,4.0,True,1,True,16.0,18.9,30.0,64.0,False,4.1,77.671,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,16.0,19.0,30.4,62.0,False,3.9,77.327,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,16.0,19.0,30.9,60.0,False,5.8,77.467,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,7.0,1.0,MEDIUM,7.0,True,1,True,16.0,19.2,30.5,59.0,False,4.4,77.104,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,16.0,19.3,31.2,59.0,False,4.4,77.699,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,16.0,19.3,31.2,57.0,False,4.5,77.284,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,16.0,19.3,31.3,57.0,False,4.9,77.752,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,16.0,19.2,31.4,57.0,False,5.7,77.384,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,16.0,19.1,31.4,56.0,False,5.6,77.678,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,16.0,19.1,31.3,58.0,False,6.0,77.926,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,16.0,19.1,30.8,60.0,False,4.5,77.735,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,19.0,30.2,61.0,False,4.2,78.856,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,16.0,1.0,MEDIUM,16.0,True,1,True,13.0,19.0,30.4,61.0,False,3.9,77.666,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,17.0,1.0,MEDIUM,17.0,True,1,True,13.0,19.0,30.6,62.0,False,3.9,77.836,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,18.0,1.0,MEDIUM,18.0,True,1,True,13.0,19.0,31.2,60.0,False,4.6,77.648,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,19.0,1.0,MEDIUM,19.0,True,1,True,13.0,19.2,31.3,60.0,False,4.8,77.705,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,20.0,1.0,MEDIUM,20.0,True,1,True,13.0,19.2,31.5,61.0,False,4.1,77.518,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,21.0,1.0,MEDIUM,21.0,True,1,True,13.0,19.3,31.6,60.0,False,4.6,77.593,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,22.0,1.0,MEDIUM,22.0,True,1,True,14.0,19.4,31.6,59.0,False,4.5,78.405,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,23.0,1.0,MEDIUM,23.0,True,1,True,14.0,19.4,31.7,58.0,False,4.1,77.875,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,24.0,1.0,MEDIUM,24.0,True,1,True,13.0,19.4,31.5,58.0,False,6.2,77.498,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,25.0,1.0,MEDIUM,25.0,True,1,True,14.0,19.4,31.6,59.0,False,5.5,77.417,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,26.0,1.0,MEDIUM,26.0,True,1,True,14.0,19.4,31.6,59.0,False,4.5,78.166,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,27.0,1.0,MEDIUM,27.0,True,1,True,15.0,19.4,31.9,60.0,False,3.8,78.099,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,28.0,1.0,MEDIUM,28.0,True,1,True,15.0,19.4,32.1,59.0,False,4.4,77.821,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,29.0,1.0,MEDIUM,29.0,True,1,True,15.0,19.3,32.0,59.0,False,4.3,77.681,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,30.0,1.0,MEDIUM,30.0,True,1,False,16.0,19.3,32.0,60.0,False,4.2,81.104,True,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,31.0,2.0,HARD,1.0,True,1,False,19.0,19.3,31.9,60.0,False,5.9,95.661,True,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,32.0,2.0,HARD,2.0,True,1,True,19.0,19.4,32.0,60.0,False,4.8,76.26,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,33.0,2.0,HARD,3.0,True,1,True,18.0,19.4,32.0,60.0,False,4.6,76.104,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,34.0,2.0,HARD,4.0,True,1,True,18.0,19.5,32.0,59.0,False,5.2,76.034,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,35.0,2.0,HARD,5.0,True,1,True,18.0,19.4,32.0,58.0,False,5.6,75.622,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,36.0,2.0,HARD,6.0,True,1,True,18.0,19.3,32.1,58.0,False,5.4,75.609,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,37.0,2.0,HARD,7.0,True,1,True,18.0,19.3,31.9,56.0,False,4.6,75.566,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,38.0,2.0,HARD,8.0,True,1,True,18.0,19.4,31.9,57.0,False,4.8,75.902,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,39.0,2.0,HARD,9.0,True,1,True,18.0,19.4,32.1,58.0,False,4.5,75.78,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,40.0,2.0,HARD,10.0,True,1,True,18.0,19.5,32.1,59.0,False,4.2,76.027,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,41.0,2.0,HARD,11.0,True,1,True,16.0,19.5,31.6,58.0,False,4.6,77.121,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,42.0,2.0,HARD,12.0,True,1,True,16.0,19.4,31.6,57.0,False,4.4,78.371,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,43.0,2.0,HARD,13.0,True,1,True,15.0,19.3,31.7,58.0,False,3.8,76.151,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,44.0,2.0,HARD,14.0,True,1,True,15.0,19.3,31.8,57.0,False,4.9,75.85,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,45.0,2.0,HARD,15.0,True,1,True,15.0,19.3,32.1,56.0,False,4.4,75.867,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,46.0,2.0,HARD,16.0,True,1,True,15.0,19.3,32.1,56.0,False,4.7,76.141,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,47.0,2.0,HARD,17.0,True,1,True,15.0,19.3,32.0,57.0,False,4.1,75.711,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,48.0,2.0,HARD,18.0,True,1,True,15.0,19.2,32.3,57.0,False,3.8,76.079,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,49.0,2.0,HARD,19.0,True,1,True,15.0,19.2,32.1,59.0,False,4.6,76.257,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,50.0,2.0,HARD,20.0,True,1,True,15.0,19.3,32.3,56.0,False,4.5,75.39,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,51.0,2.0,HARD,21.0,True,1,True,15.0,19.3,32.3,55.0,False,5.2,77.756,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,52.0,2.0,HARD,22.0,True,1,True,15.0,19.3,32.4,57.0,False,5.1,75.907,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,53.0,2.0,HARD,23.0,True,1,True,15.0,19.3,32.4,56.0,False,4.6,75.948,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,54.0,2.0,HARD,24.0,True,1,True,15.0,19.3,32.1,57.0,False,4.7,75.862,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,55.0,2.0,HARD,25.0,True,1,True,14.0,19.3,31.9,58.0,False,4.4,75.831,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,56.0,2.0,HARD,26.0,True,1,True,14.0,19.4,32.1,59.0,False,4.4,75.952,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,57.0,2.0,HARD,27.0,True,1,True,14.0,19.4,32.1,57.0,False,4.2,79.487,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,58.0,2.0,HARD,28.0,True,1,True,14.0,19.4,32.1,57.0,False,4.2,75.936,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,59.0,2.0,HARD,29.0,True,1,True,14.0,19.4,32.1,58.0,False,5.3,75.786,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,60.0,2.0,HARD,30.0,True,1,True,14.0,19.5,32.3,56.0,False,4.7,75.629,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,61.0,2.0,HARD,31.0,True,1,True,14.0,19.5,32.2,58.0,False,5.1,77.515,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,62.0,2.0,HARD,32.0,True,1,True,14.0,19.6,32.0,58.0,False,5.3,75.998,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,63.0,2.0,HARD,33.0,True,1,True,14.0,19.6,32.1,56.0,False,5.2,75.618,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,64.0,2.0,HARD,34.0,True,1,True,14.0,19.6,31.8,55.0,False,3.9,75.753,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,65.0,2.0,HARD,35.0,True,1,True,14.0,19.5,31.7,56.0,False,4.2,75.741,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,66.0,2.0,HARD,36.0,True,1,True,14.0,19.4,31.7,56.0,False,4.0,75.771,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,67.0,2.0,HARD,37.0,True,1,True,14.0,19.3,31.8,55.0,False,4.7,77.406,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,68.0,2.0,HARD,38.0,True,1,True,14.0,19.3,31.8,57.0,False,4.3,75.41,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,69.0,2.0,HARD,39.0,True,1,True,15.0,19.3,31.8,57.0,False,4.3,77.218,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,70.0,2.0,HARD,40.0,True,1,True,15.0,19.3,31.8,57.0,False,4.3,77.351,False,72,2024,15,Dutch Grand Prix,2024_15
+OCO,Alpine,71.0,2.0,HARD,41.0,True,1,True,15.0,19.3,31.8,57.0,False,4.3,75.946,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,1.0,1.0,MEDIUM,1.0,True,1,False,18.0,18.7,29.1,63.0,False,3.2,89.09,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,2.0,1.0,MEDIUM,2.0,True,1,True,18.0,18.6,28.5,62.0,False,3.7,79.031,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,3.0,1.0,MEDIUM,3.0,True,1,True,18.0,18.6,28.5,63.0,False,3.7,78.339,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,4.0,1.0,MEDIUM,4.0,True,1,True,18.0,18.9,30.0,64.0,False,4.1,77.936,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,5.0,1.0,MEDIUM,5.0,True,1,True,18.0,19.0,30.4,62.0,False,3.9,77.487,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,6.0,1.0,MEDIUM,6.0,True,1,True,18.0,19.0,30.9,60.0,False,5.8,77.66,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,7.0,1.0,MEDIUM,7.0,True,1,True,18.0,19.2,30.5,59.0,False,4.4,77.898,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,8.0,1.0,MEDIUM,8.0,True,1,True,18.0,19.3,31.2,59.0,False,4.4,77.589,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,9.0,1.0,MEDIUM,9.0,True,1,True,18.0,19.3,31.2,57.0,False,4.5,77.929,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,10.0,1.0,MEDIUM,10.0,True,1,True,18.0,19.3,31.3,57.0,False,4.9,77.843,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,11.0,1.0,MEDIUM,11.0,True,1,True,18.0,19.2,31.4,57.0,False,5.7,77.424,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,12.0,1.0,MEDIUM,12.0,True,1,True,17.0,19.1,31.4,56.0,False,5.6,77.6,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,13.0,1.0,MEDIUM,13.0,True,1,True,17.0,19.1,31.3,58.0,False,6.0,77.448,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,14.0,1.0,MEDIUM,14.0,True,1,True,17.0,19.1,30.8,60.0,False,4.5,77.542,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,15.0,1.0,MEDIUM,15.0,True,1,True,14.0,19.0,30.2,61.0,False,4.2,77.534,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,16.0,1.0,MEDIUM,16.0,True,1,True,14.0,19.0,30.4,61.0,False,3.9,77.84,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,17.0,1.0,MEDIUM,17.0,True,1,True,15.0,19.0,30.6,62.0,False,3.9,79.184,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,18.0,1.0,MEDIUM,18.0,True,1,True,15.0,19.0,31.2,60.0,False,4.6,78.011,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,19.0,1.0,MEDIUM,19.0,True,1,True,15.0,19.2,31.3,60.0,False,4.8,78.035,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,20.0,1.0,MEDIUM,20.0,True,1,True,15.0,19.2,31.5,61.0,False,4.1,78.02,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,21.0,1.0,MEDIUM,21.0,True,1,True,15.0,19.3,31.6,60.0,False,4.6,77.713,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,22.0,1.0,MEDIUM,22.0,True,1,False,17.0,19.4,31.6,59.0,False,4.5,83.235,True,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,23.0,2.0,HARD,1.0,True,1,False,19.0,19.4,31.7,58.0,False,4.1,96.337,True,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,24.0,2.0,HARD,2.0,True,1,True,19.0,19.4,31.3,60.0,False,5.5,75.714,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,25.0,2.0,HARD,3.0,True,1,True,19.0,19.4,31.6,59.0,False,5.5,75.856,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,26.0,2.0,HARD,4.0,True,1,True,19.0,19.4,31.6,59.0,False,4.5,75.539,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,27.0,2.0,HARD,5.0,True,1,True,19.0,19.4,32.0,60.0,False,4.4,75.886,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,28.0,2.0,HARD,6.0,True,1,True,19.0,19.4,32.1,59.0,False,4.4,75.875,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,29.0,2.0,HARD,7.0,True,1,True,19.0,19.3,32.0,59.0,False,4.3,76.039,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,30.0,2.0,HARD,8.0,True,1,True,19.0,19.3,32.0,60.0,False,4.2,76.931,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,31.0,2.0,HARD,9.0,True,1,True,18.0,19.3,31.9,60.0,False,5.9,76.967,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,32.0,2.0,HARD,10.0,True,1,True,18.0,19.4,32.0,60.0,False,4.8,76.421,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,33.0,2.0,HARD,11.0,True,1,True,17.0,19.4,32.0,60.0,False,4.6,76.55,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,34.0,2.0,HARD,12.0,True,1,True,17.0,19.5,32.0,59.0,False,5.2,76.363,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,35.0,2.0,HARD,13.0,True,1,True,17.0,19.4,32.0,58.0,False,5.6,76.532,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,36.0,2.0,HARD,14.0,True,1,True,17.0,19.3,32.1,58.0,False,5.4,76.37,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,37.0,2.0,HARD,15.0,True,1,True,17.0,19.3,31.9,56.0,False,4.6,76.484,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,38.0,2.0,HARD,16.0,True,1,True,17.0,19.4,31.9,57.0,False,4.8,76.979,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,39.0,2.0,HARD,17.0,True,1,True,17.0,19.4,32.1,58.0,False,4.5,76.983,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,40.0,2.0,HARD,18.0,True,1,True,17.0,19.5,32.1,59.0,False,4.2,76.907,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,41.0,2.0,HARD,19.0,True,1,True,17.0,19.5,31.6,58.0,False,4.6,79.422,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,42.0,2.0,HARD,20.0,True,1,True,17.0,19.4,31.6,57.0,False,4.4,77.217,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,43.0,2.0,HARD,21.0,True,1,True,16.0,19.3,31.7,58.0,False,3.8,77.512,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,44.0,2.0,HARD,22.0,True,1,True,16.0,19.3,31.8,57.0,False,4.9,76.551,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,45.0,2.0,HARD,23.0,True,1,True,16.0,19.3,32.1,56.0,False,4.4,76.611,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,46.0,2.0,HARD,24.0,True,1,True,16.0,19.3,32.1,56.0,False,4.7,78.611,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,47.0,2.0,HARD,25.0,True,1,True,16.0,19.3,32.0,57.0,False,4.1,76.843,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,48.0,2.0,HARD,26.0,True,1,True,16.0,19.2,32.3,58.0,False,4.6,76.13,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,49.0,2.0,HARD,27.0,True,1,True,16.0,19.2,32.1,59.0,False,4.6,76.163,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,50.0,2.0,HARD,28.0,True,1,True,16.0,19.3,32.3,56.0,False,4.5,78.22,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,51.0,2.0,HARD,29.0,True,1,True,16.0,19.3,32.3,55.0,False,5.2,76.258,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,52.0,2.0,HARD,30.0,True,1,True,16.0,19.3,32.4,57.0,False,5.1,76.399,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,53.0,2.0,HARD,31.0,True,1,True,16.0,19.3,32.4,56.0,False,4.6,76.279,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,54.0,2.0,HARD,32.0,True,1,True,16.0,19.3,32.1,57.0,False,4.7,76.617,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,55.0,2.0,HARD,33.0,True,1,True,15.0,19.3,31.9,58.0,False,4.4,77.6,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,56.0,2.0,HARD,34.0,True,1,True,15.0,19.4,32.1,59.0,False,4.4,76.314,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,57.0,2.0,HARD,35.0,True,1,True,15.0,19.4,32.1,57.0,False,4.2,76.486,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,58.0,2.0,HARD,36.0,True,1,True,16.0,19.4,32.1,57.0,False,4.2,78.672,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,59.0,2.0,HARD,37.0,True,1,True,16.0,19.5,32.1,57.0,False,5.2,76.84,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,60.0,2.0,HARD,38.0,True,1,True,16.0,19.5,32.3,56.0,False,4.7,76.594,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,61.0,2.0,HARD,39.0,True,1,True,16.0,19.5,32.2,58.0,False,5.1,76.79,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,62.0,2.0,HARD,40.0,True,1,True,16.0,19.6,32.0,58.0,False,5.3,77.22,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,63.0,2.0,HARD,41.0,True,1,True,16.0,19.6,32.1,56.0,False,5.2,77.827,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,64.0,2.0,HARD,42.0,True,1,True,16.0,19.6,31.8,55.0,False,3.9,76.434,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,65.0,2.0,HARD,43.0,True,1,True,16.0,19.5,31.7,56.0,False,4.2,76.418,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,66.0,2.0,HARD,44.0,True,1,True,16.0,19.3,31.8,57.0,False,4.1,76.468,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,67.0,2.0,HARD,45.0,True,1,True,16.0,19.3,31.8,55.0,False,4.7,76.162,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,68.0,2.0,HARD,46.0,True,1,True,16.0,19.3,31.8,57.0,False,4.3,76.371,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,69.0,2.0,HARD,47.0,True,1,True,16.0,19.3,31.8,57.0,False,4.3,77.002,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,70.0,2.0,HARD,48.0,True,1,True,16.0,19.3,31.8,57.0,False,4.3,76.706,False,72,2024,15,Dutch Grand Prix,2024_15
+SAR,Williams,71.0,2.0,HARD,49.0,True,1,True,16.0,19.3,31.8,57.0,False,4.3,76.2,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,1.0,1.0,SOFT,1.0,True,1,False,12.0,18.7,29.1,63.0,False,3.2,86.878,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,2.0,1.0,SOFT,2.0,True,1,True,13.0,18.6,28.5,62.0,False,3.7,78.781,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,3.0,1.0,SOFT,3.0,True,1,True,13.0,18.6,28.5,63.0,False,3.7,77.209,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,4.0,1.0,SOFT,4.0,True,1,True,13.0,18.6,29.7,62.0,False,4.2,76.957,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,5.0,1.0,SOFT,5.0,True,1,True,13.0,19.0,30.4,62.0,False,3.9,76.551,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,6.0,1.0,SOFT,6.0,True,1,True,13.0,19.0,30.9,60.0,False,5.8,77.22,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,7.0,1.0,SOFT,7.0,True,1,True,13.0,19.2,30.5,59.0,False,4.4,77.267,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,8.0,1.0,SOFT,8.0,True,1,True,13.0,19.3,31.2,59.0,False,4.4,77.081,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,9.0,1.0,SOFT,9.0,True,1,True,13.0,19.3,31.2,57.0,False,4.5,77.527,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,10.0,1.0,SOFT,10.0,True,1,True,13.0,19.3,31.3,57.0,False,4.9,77.372,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,11.0,1.0,SOFT,11.0,True,1,True,13.0,19.3,31.3,59.0,False,5.2,77.321,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,12.0,1.0,SOFT,12.0,True,1,True,13.0,19.1,31.4,56.0,False,5.6,77.627,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,13.0,1.0,SOFT,13.0,True,1,True,13.0,19.1,31.3,58.0,False,6.0,77.809,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,14.0,1.0,SOFT,14.0,True,1,False,13.0,19.1,30.8,60.0,False,4.5,81.182,True,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,15.0,2.0,MEDIUM,1.0,True,1,False,19.0,19.0,30.2,61.0,False,4.2,95.861,True,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,16.0,2.0,MEDIUM,2.0,True,1,True,18.0,19.0,30.4,61.0,False,3.9,75.552,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,17.0,2.0,MEDIUM,3.0,True,1,True,18.0,19.0,30.7,62.0,False,4.0,75.73,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,18.0,2.0,MEDIUM,4.0,True,1,True,17.0,19.0,31.2,60.0,False,4.6,76.262,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,19.0,2.0,MEDIUM,5.0,True,1,True,17.0,19.2,31.3,60.0,False,4.8,76.291,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,20.0,2.0,MEDIUM,6.0,True,1,True,17.0,19.2,31.5,61.0,False,4.1,76.336,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,21.0,2.0,MEDIUM,7.0,True,1,True,17.0,19.3,31.6,60.0,False,4.6,76.407,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,22.0,2.0,MEDIUM,8.0,True,1,True,16.0,19.4,31.6,59.0,False,4.5,77.323,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,23.0,2.0,MEDIUM,9.0,True,1,True,16.0,19.4,31.7,58.0,False,4.1,76.889,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,24.0,2.0,MEDIUM,10.0,True,1,True,15.0,19.4,31.5,58.0,False,6.2,76.774,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,25.0,2.0,MEDIUM,11.0,True,1,True,16.0,19.4,31.6,59.0,False,5.5,77.878,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,26.0,2.0,MEDIUM,12.0,True,1,True,16.0,19.4,31.6,59.0,False,4.5,76.816,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,27.0,2.0,MEDIUM,13.0,True,1,True,16.0,19.4,31.9,60.0,False,3.8,77.173,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,28.0,2.0,MEDIUM,14.0,True,1,True,16.0,19.4,32.1,59.0,False,4.4,77.353,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,29.0,2.0,MEDIUM,15.0,True,1,True,16.0,19.3,32.0,59.0,False,4.3,76.856,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,30.0,2.0,MEDIUM,16.0,True,1,True,14.0,19.3,32.0,60.0,False,4.2,77.414,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,31.0,2.0,MEDIUM,17.0,True,1,True,13.0,19.3,31.8,61.0,False,4.7,76.986,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,32.0,2.0,MEDIUM,18.0,True,1,False,13.0,19.4,32.0,60.0,False,4.8,79.729,True,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,33.0,3.0,HARD,1.0,True,1,False,19.0,19.4,32.0,60.0,False,4.6,96.022,True,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,34.0,3.0,HARD,2.0,True,1,True,19.0,19.5,32.0,59.0,False,5.2,75.891,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,35.0,3.0,HARD,3.0,True,1,True,19.0,19.4,32.0,58.0,False,5.6,75.561,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,36.0,3.0,HARD,4.0,True,1,True,19.0,19.3,32.1,58.0,False,5.4,75.59,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,37.0,3.0,HARD,5.0,True,1,True,19.0,19.3,31.9,56.0,False,4.6,75.674,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,38.0,3.0,HARD,6.0,True,1,True,19.0,19.4,31.9,57.0,False,4.8,76.033,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,39.0,3.0,HARD,7.0,True,1,True,19.0,19.4,32.1,58.0,False,4.5,75.998,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,40.0,3.0,HARD,8.0,True,1,True,19.0,19.5,32.1,59.0,False,4.2,76.108,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,41.0,3.0,HARD,9.0,True,1,True,18.0,19.5,31.6,58.0,False,4.6,77.992,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,42.0,3.0,HARD,10.0,True,1,True,18.0,19.4,31.6,57.0,False,4.4,76.912,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,43.0,3.0,HARD,11.0,True,1,True,17.0,19.3,31.7,58.0,False,3.8,77.554,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,44.0,3.0,HARD,12.0,True,1,True,17.0,19.3,31.8,57.0,False,4.9,76.381,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,45.0,3.0,HARD,13.0,True,1,True,17.0,19.3,32.1,56.0,False,4.4,76.57,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,46.0,3.0,HARD,14.0,True,1,True,17.0,19.3,32.1,56.0,False,4.7,78.391,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,47.0,3.0,HARD,15.0,True,1,True,17.0,19.3,32.0,57.0,False,4.1,77.252,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,48.0,3.0,HARD,16.0,True,1,True,17.0,19.2,32.3,58.0,False,4.6,76.072,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,49.0,3.0,HARD,17.0,True,1,True,17.0,19.2,32.1,59.0,False,4.6,76.13,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,50.0,3.0,HARD,18.0,True,1,True,17.0,19.3,32.3,56.0,False,4.5,78.292,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,51.0,3.0,HARD,19.0,True,1,True,17.0,19.3,32.3,55.0,False,5.2,76.183,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,52.0,3.0,HARD,20.0,True,1,True,17.0,19.3,32.4,57.0,False,5.1,76.358,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,53.0,3.0,HARD,21.0,True,1,True,17.0,19.3,32.4,56.0,False,4.6,76.479,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,54.0,3.0,HARD,22.0,True,1,True,17.0,19.3,32.1,57.0,False,4.7,76.501,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,55.0,3.0,HARD,23.0,True,1,True,16.0,19.3,31.9,58.0,False,4.4,77.796,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,56.0,3.0,HARD,24.0,True,1,True,16.0,19.4,32.1,59.0,False,4.4,76.243,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,57.0,3.0,HARD,25.0,True,1,True,16.0,19.4,32.1,57.0,False,4.2,77.84,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,58.0,3.0,HARD,26.0,True,1,True,17.0,19.4,32.1,57.0,False,4.2,76.913,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,59.0,3.0,HARD,27.0,True,1,True,17.0,19.5,32.1,57.0,False,5.2,76.989,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,60.0,3.0,HARD,28.0,True,1,True,17.0,19.5,32.3,56.0,False,4.7,76.805,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,61.0,3.0,HARD,29.0,True,1,True,17.0,19.5,32.2,58.0,False,5.1,76.61,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,62.0,3.0,HARD,30.0,True,1,True,17.0,19.6,32.0,58.0,False,5.3,77.773,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,63.0,3.0,HARD,31.0,True,1,True,17.0,19.6,32.1,56.0,False,5.2,77.575,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,64.0,3.0,HARD,32.0,True,1,True,17.0,19.6,31.8,55.0,False,3.9,76.304,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,65.0,3.0,HARD,33.0,True,1,True,17.0,19.5,31.7,56.0,False,4.2,76.419,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,66.0,3.0,HARD,34.0,True,1,True,17.0,19.3,31.8,57.0,False,4.1,76.412,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,67.0,3.0,HARD,35.0,True,1,True,17.0,19.3,31.8,55.0,False,4.7,76.336,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,68.0,3.0,HARD,36.0,True,1,True,17.0,19.3,31.8,57.0,False,4.3,76.192,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,69.0,3.0,HARD,37.0,True,1,True,17.0,19.3,31.8,57.0,False,4.3,76.809,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,70.0,3.0,HARD,38.0,True,1,True,17.0,19.3,31.8,57.0,False,4.3,76.903,False,72,2024,15,Dutch Grand Prix,2024_15
+TSU,RB,71.0,3.0,HARD,39.0,True,1,True,17.0,19.3,31.8,57.0,False,4.3,76.39,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,1.0,1.0,HARD,1.0,True,1,False,20.0,18.7,29.1,63.0,False,3.2,90.772,True,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,2.0,1.0,HARD,2.0,True,1,True,19.0,18.6,28.5,62.0,False,3.7,77.487,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,3.0,1.0,HARD,3.0,True,1,True,20.0,18.6,28.5,63.0,False,3.7,83.466,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,4.0,1.0,HARD,4.0,True,1,True,20.0,18.9,30.0,64.0,False,4.1,76.363,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,True,20.0,19.0,30.4,62.0,False,3.9,76.869,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,True,20.0,19.0,30.9,60.0,False,5.8,76.918,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,7.0,1.0,HARD,7.0,True,1,True,20.0,19.2,30.5,59.0,False,4.4,78.058,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,True,19.0,19.3,31.2,59.0,False,4.4,77.147,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,19.0,19.3,31.2,57.0,False,4.5,77.494,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,True,19.0,19.3,31.3,57.0,False,4.9,77.554,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,True,19.0,19.2,31.4,57.0,False,5.7,77.316,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,12.0,1.0,HARD,12.0,True,1,True,19.0,19.1,31.4,56.0,False,5.6,77.659,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,True,18.0,19.1,31.3,58.0,False,6.0,76.902,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,14.0,1.0,HARD,14.0,True,1,True,18.0,19.1,30.8,60.0,False,4.5,77.22,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,15.0,1.0,HARD,15.0,True,1,True,15.0,19.0,30.2,61.0,False,4.2,77.559,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,16.0,1.0,HARD,16.0,True,1,True,15.0,19.0,30.4,61.0,False,3.9,77.588,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,17.0,1.0,HARD,17.0,True,1,True,14.0,19.0,30.6,62.0,False,3.9,77.967,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,18.0,1.0,HARD,18.0,True,1,True,14.0,19.0,31.2,60.0,False,4.6,77.549,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,19.0,1.0,HARD,19.0,True,1,True,14.0,19.2,31.3,60.0,False,4.8,77.358,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,20.0,1.0,HARD,20.0,True,1,True,14.0,19.2,31.5,61.0,False,4.1,77.272,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,21.0,1.0,HARD,21.0,True,1,True,14.0,19.3,31.6,60.0,False,4.6,76.648,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,22.0,1.0,HARD,22.0,True,1,True,13.0,19.4,31.6,59.0,False,4.5,77.458,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,23.0,1.0,HARD,23.0,True,1,True,13.0,19.4,31.7,58.0,False,4.1,76.944,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,24.0,1.0,HARD,24.0,True,1,True,12.0,19.4,31.5,58.0,False,6.2,76.991,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,25.0,1.0,HARD,25.0,True,1,True,12.0,19.4,31.6,59.0,False,5.5,76.749,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,26.0,1.0,HARD,26.0,True,1,True,12.0,19.4,31.6,59.0,False,4.5,76.882,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,27.0,1.0,HARD,27.0,True,1,True,12.0,19.4,31.9,60.0,False,3.8,76.738,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,28.0,1.0,HARD,28.0,True,1,True,12.0,19.4,32.1,59.0,False,4.4,77.082,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,29.0,1.0,HARD,29.0,True,1,True,11.0,19.3,32.0,59.0,False,4.3,77.536,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,30.0,1.0,HARD,30.0,True,1,True,12.0,19.3,32.0,60.0,False,4.2,77.662,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,31.0,1.0,HARD,31.0,True,1,True,11.0,19.3,31.8,61.0,False,4.7,77.191,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,32.0,1.0,HARD,32.0,True,1,True,11.0,19.4,32.0,60.0,False,4.8,77.873,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,33.0,1.0,HARD,33.0,True,1,True,10.0,19.4,32.0,60.0,False,4.6,77.676,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,34.0,1.0,HARD,34.0,True,1,True,10.0,19.5,32.0,59.0,False,6.0,77.281,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,35.0,1.0,HARD,35.0,True,1,True,10.0,19.4,32.0,58.0,False,5.6,76.949,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,36.0,1.0,HARD,36.0,True,1,True,10.0,19.3,32.1,58.0,False,5.4,77.085,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,37.0,1.0,HARD,37.0,True,1,True,10.0,19.3,31.9,56.0,False,4.6,77.16,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,38.0,1.0,HARD,38.0,True,1,True,10.0,19.4,31.9,57.0,False,4.4,77.434,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,39.0,1.0,HARD,39.0,True,1,True,13.0,19.4,32.1,58.0,False,4.5,80.604,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,40.0,1.0,HARD,40.0,True,1,False,15.0,19.5,32.1,59.0,False,4.2,83.97,True,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,41.0,2.0,MEDIUM,1.0,True,1,False,19.0,19.5,31.8,58.0,False,3.7,95.156,True,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,42.0,2.0,MEDIUM,2.0,True,1,True,19.0,19.4,31.6,57.0,False,4.4,74.954,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,43.0,2.0,MEDIUM,3.0,True,1,True,19.0,19.3,31.7,58.0,False,3.8,75.403,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,44.0,2.0,MEDIUM,4.0,True,1,True,18.0,19.4,31.8,57.0,False,4.6,75.504,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,45.0,2.0,MEDIUM,5.0,True,1,True,18.0,19.3,32.1,56.0,False,4.4,75.231,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,46.0,2.0,MEDIUM,6.0,True,1,True,18.0,19.3,32.1,56.0,False,4.7,75.452,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,47.0,2.0,MEDIUM,7.0,True,1,True,18.0,19.3,32.0,57.0,False,4.1,76.422,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,48.0,2.0,MEDIUM,8.0,True,1,True,18.0,19.2,32.3,58.0,False,4.6,76.252,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,49.0,2.0,MEDIUM,9.0,True,1,True,18.0,19.2,32.1,59.0,False,4.6,78.402,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,50.0,2.0,MEDIUM,10.0,True,1,True,18.0,19.3,32.3,56.0,False,4.5,75.944,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,51.0,2.0,MEDIUM,11.0,True,1,True,18.0,19.3,32.3,55.0,False,5.2,76.33,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,52.0,2.0,MEDIUM,12.0,True,1,True,18.0,19.3,32.4,57.0,False,5.1,76.419,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,53.0,2.0,MEDIUM,13.0,True,1,True,18.0,19.3,32.4,56.0,False,4.6,76.3,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,54.0,2.0,MEDIUM,14.0,True,1,True,18.0,19.3,32.1,57.0,False,4.7,77.928,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,55.0,2.0,MEDIUM,15.0,True,1,True,17.0,19.4,31.9,57.0,False,5.8,76.386,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,56.0,2.0,MEDIUM,16.0,True,1,True,17.0,19.4,32.1,59.0,False,4.4,77.754,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,57.0,2.0,MEDIUM,17.0,True,1,True,18.0,19.4,32.1,57.0,False,4.2,76.902,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,58.0,2.0,MEDIUM,18.0,True,1,True,18.0,19.4,32.1,57.0,False,4.2,76.562,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,59.0,2.0,MEDIUM,19.0,True,1,True,18.0,19.5,32.1,57.0,False,5.2,76.88,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,60.0,2.0,MEDIUM,20.0,True,1,True,18.0,19.5,32.3,56.0,False,4.7,76.605,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,61.0,2.0,MEDIUM,21.0,True,1,True,18.0,19.5,32.2,58.0,False,5.1,77.0,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,62.0,2.0,MEDIUM,22.0,True,1,True,18.0,19.6,32.0,58.0,False,5.3,78.763,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,63.0,2.0,MEDIUM,23.0,True,1,True,18.0,19.6,32.1,56.0,False,5.2,76.399,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,64.0,2.0,MEDIUM,24.0,True,1,True,18.0,19.6,31.8,55.0,False,3.9,76.365,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,65.0,2.0,MEDIUM,25.0,True,1,True,18.0,19.5,31.7,56.0,False,4.2,76.667,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,66.0,2.0,MEDIUM,26.0,True,1,True,18.0,19.3,31.8,57.0,False,4.1,76.261,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,67.0,2.0,MEDIUM,27.0,True,1,True,18.0,19.3,31.8,55.0,False,4.7,76.323,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,68.0,2.0,MEDIUM,28.0,True,1,True,18.0,19.3,31.8,57.0,False,4.3,76.05,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,69.0,2.0,MEDIUM,29.0,True,1,True,18.0,19.3,31.8,57.0,False,4.3,76.59,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,70.0,2.0,MEDIUM,30.0,True,1,True,18.0,19.3,31.8,57.0,False,4.3,77.298,False,72,2024,15,Dutch Grand Prix,2024_15
+MAG,Haas F1 Team,71.0,2.0,MEDIUM,31.0,True,1,True,18.0,19.3,31.8,57.0,False,4.3,76.293,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,1.0,1.0,SOFT,1.0,True,1,False,14.0,18.7,29.1,63.0,False,3.2,87.361,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,2.0,1.0,SOFT,2.0,True,1,True,14.0,18.6,28.5,62.0,False,3.7,78.403,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,3.0,1.0,SOFT,3.0,True,1,True,14.0,18.6,28.5,63.0,False,3.7,78.388,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,4.0,1.0,SOFT,4.0,True,1,True,14.0,18.6,29.7,62.0,False,4.2,77.218,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,5.0,1.0,SOFT,5.0,True,1,True,14.0,19.0,30.4,62.0,False,3.9,77.343,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,6.0,1.0,SOFT,6.0,True,1,True,14.0,19.0,30.9,60.0,False,5.8,76.882,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,7.0,1.0,SOFT,7.0,True,1,True,14.0,19.2,30.5,59.0,False,4.4,77.439,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,8.0,1.0,SOFT,8.0,True,1,True,14.0,19.3,31.2,59.0,False,4.4,77.204,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,9.0,1.0,SOFT,9.0,True,1,True,14.0,19.3,31.2,57.0,False,4.5,77.746,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,10.0,1.0,SOFT,10.0,True,1,True,14.0,19.3,31.3,57.0,False,4.9,77.577,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,11.0,1.0,SOFT,11.0,True,1,True,14.0,19.2,31.4,57.0,False,5.7,77.539,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,12.0,1.0,SOFT,12.0,True,1,True,14.0,19.1,31.4,56.0,False,5.6,77.841,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,13.0,1.0,SOFT,13.0,True,1,True,14.0,19.1,31.3,58.0,False,6.0,78.003,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,14.0,1.0,SOFT,14.0,True,1,True,14.0,19.1,30.8,60.0,False,4.5,78.092,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,15.0,1.0,SOFT,15.0,True,1,False,16.0,19.0,30.2,61.0,False,4.2,82.849,True,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,16.0,2.0,HARD,1.0,True,1,False,20.0,19.0,30.4,61.0,False,3.9,95.848,True,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,17.0,2.0,HARD,2.0,True,1,True,20.0,19.0,30.7,62.0,False,4.0,76.073,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,18.0,2.0,HARD,3.0,True,1,True,20.0,19.0,31.2,60.0,False,4.6,76.399,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,19.0,2.0,HARD,4.0,True,1,True,19.0,19.2,31.3,60.0,False,4.8,76.582,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,20.0,2.0,HARD,5.0,True,1,True,19.0,19.1,31.7,61.0,False,4.5,76.898,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,21.0,2.0,HARD,6.0,True,1,True,19.0,19.3,31.6,60.0,False,4.6,76.847,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,22.0,2.0,HARD,7.0,True,1,True,19.0,19.4,31.6,59.0,False,4.5,76.694,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,23.0,2.0,HARD,8.0,True,1,True,18.0,19.4,31.7,58.0,False,4.1,76.681,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,24.0,2.0,HARD,9.0,True,1,True,18.0,19.4,31.3,60.0,False,5.5,76.594,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,25.0,2.0,HARD,10.0,True,1,True,18.0,19.4,31.6,59.0,False,5.5,76.892,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,26.0,2.0,HARD,11.0,True,1,True,18.0,19.4,31.6,59.0,False,4.5,76.799,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,27.0,2.0,HARD,12.0,True,1,True,18.0,19.4,31.9,60.0,False,3.8,76.813,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,28.0,2.0,HARD,13.0,True,1,True,18.0,19.4,32.1,59.0,False,4.4,77.221,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,29.0,2.0,HARD,14.0,True,1,True,18.0,19.3,32.0,59.0,False,4.3,77.253,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,30.0,2.0,HARD,15.0,True,1,True,17.0,19.3,32.0,60.0,False,4.2,77.034,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,31.0,2.0,HARD,16.0,True,1,True,15.0,19.3,31.9,60.0,False,5.9,77.164,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,32.0,2.0,HARD,17.0,True,1,True,15.0,19.4,32.0,60.0,False,4.8,77.841,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,33.0,2.0,HARD,18.0,True,1,True,15.0,19.4,32.0,60.0,False,4.6,78.39,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,34.0,2.0,HARD,19.0,True,1,True,15.0,19.5,32.0,59.0,False,6.0,77.26,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,35.0,2.0,HARD,20.0,True,1,True,15.0,19.4,32.0,58.0,False,5.6,76.797,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,36.0,2.0,HARD,21.0,True,1,True,16.0,19.3,32.1,58.0,False,5.4,77.807,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,37.0,2.0,HARD,22.0,True,1,True,16.0,19.3,31.9,56.0,False,4.6,77.16,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,38.0,2.0,HARD,23.0,True,1,True,16.0,19.4,31.9,57.0,False,4.8,77.492,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,39.0,2.0,HARD,24.0,True,1,True,16.0,19.4,32.1,58.0,False,4.5,77.256,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,40.0,2.0,HARD,25.0,True,1,True,16.0,19.5,32.1,59.0,False,4.2,77.148,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,41.0,2.0,HARD,26.0,True,1,True,15.0,19.5,31.8,58.0,False,3.7,77.507,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,42.0,2.0,HARD,27.0,True,1,True,15.0,19.4,31.6,57.0,False,4.4,78.697,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,43.0,2.0,HARD,28.0,True,1,False,18.0,19.3,31.7,58.0,False,3.8,80.969,True,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,44.0,3.0,MEDIUM,1.0,True,1,False,19.0,19.3,31.8,57.0,False,4.9,95.854,True,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,45.0,3.0,MEDIUM,2.0,True,1,True,19.0,19.3,32.1,56.0,False,4.4,75.822,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,46.0,3.0,MEDIUM,3.0,True,1,True,19.0,19.3,32.1,56.0,False,4.7,76.152,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,47.0,3.0,MEDIUM,4.0,True,1,True,19.0,19.2,32.3,57.0,False,3.8,78.314,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,48.0,3.0,MEDIUM,5.0,True,1,True,19.0,19.2,32.3,58.0,False,4.6,76.144,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,49.0,3.0,MEDIUM,6.0,True,1,True,19.0,19.2,32.1,59.0,False,4.6,76.626,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,50.0,3.0,MEDIUM,7.0,True,1,True,19.0,19.3,32.3,56.0,False,4.5,76.348,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,51.0,3.0,MEDIUM,8.0,True,1,True,19.0,19.3,32.3,56.0,False,4.9,76.453,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,52.0,3.0,MEDIUM,9.0,True,1,True,19.0,19.3,32.4,57.0,False,5.1,76.43,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,53.0,3.0,MEDIUM,10.0,True,1,True,19.0,19.3,32.4,56.0,False,4.6,76.357,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,54.0,3.0,MEDIUM,11.0,True,1,True,19.0,19.3,31.9,58.0,False,4.4,76.066,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,55.0,3.0,MEDIUM,12.0,True,1,True,19.0,19.4,31.9,57.0,False,5.8,76.304,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,56.0,3.0,MEDIUM,13.0,True,1,True,19.0,19.4,32.1,59.0,False,4.4,77.851,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,57.0,3.0,MEDIUM,14.0,True,1,True,19.0,19.4,32.1,57.0,False,4.2,78.463,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,58.0,3.0,MEDIUM,15.0,True,1,True,19.0,19.4,32.1,58.0,False,5.3,76.069,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,59.0,3.0,MEDIUM,16.0,True,1,True,19.0,19.5,32.1,57.0,False,5.2,76.225,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,60.0,3.0,MEDIUM,17.0,True,1,True,19.0,19.5,32.3,56.0,False,4.7,76.639,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,61.0,3.0,MEDIUM,18.0,True,1,True,19.0,19.5,32.2,58.0,False,5.1,76.334,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,62.0,3.0,MEDIUM,19.0,True,1,True,19.0,19.7,32.3,57.0,False,4.8,76.595,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,63.0,3.0,MEDIUM,20.0,True,1,True,19.0,19.6,32.1,56.0,False,5.2,76.373,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,64.0,3.0,MEDIUM,21.0,True,1,True,19.0,19.6,31.8,55.0,False,3.9,76.361,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,65.0,3.0,MEDIUM,22.0,True,1,True,19.0,19.4,31.7,56.0,False,4.0,76.234,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,66.0,3.0,MEDIUM,23.0,True,1,True,19.0,19.3,31.8,57.0,False,4.1,76.479,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,67.0,3.0,MEDIUM,24.0,True,1,True,19.0,19.3,31.8,55.0,False,4.7,76.389,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,68.0,3.0,MEDIUM,25.0,True,1,True,19.0,19.3,31.8,57.0,False,4.3,76.394,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,69.0,3.0,MEDIUM,26.0,True,1,True,19.0,19.3,31.8,57.0,False,4.3,77.284,False,72,2024,15,Dutch Grand Prix,2024_15
+BOT,Kick Sauber,70.0,3.0,MEDIUM,27.0,True,1,True,19.0,19.3,31.8,57.0,False,4.3,76.206,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,1.0,1.0,MEDIUM,1.0,True,1,False,19.0,18.7,29.1,63.0,False,3.2,89.615,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,2.0,1.0,MEDIUM,2.0,True,1,True,20.0,18.6,28.5,62.0,False,3.7,79.338,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,3.0,1.0,MEDIUM,3.0,True,1,True,19.0,18.6,28.5,63.0,False,3.7,78.203,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,4.0,1.0,MEDIUM,4.0,True,1,True,19.0,18.9,30.0,64.0,False,4.1,78.108,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,5.0,1.0,MEDIUM,5.0,True,1,True,19.0,19.0,30.4,62.0,False,3.9,78.166,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,6.0,1.0,MEDIUM,6.0,True,1,True,19.0,19.0,30.9,60.0,False,5.8,77.981,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,7.0,1.0,MEDIUM,7.0,True,1,True,19.0,19.2,30.5,59.0,False,4.4,78.332,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,8.0,1.0,MEDIUM,8.0,True,1,True,20.0,19.3,31.2,59.0,False,4.4,78.564,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,9.0,1.0,MEDIUM,9.0,True,1,True,20.0,19.3,31.2,57.0,False,4.5,78.029,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,10.0,1.0,MEDIUM,10.0,True,1,True,20.0,19.3,31.3,57.0,False,4.9,78.154,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,11.0,1.0,MEDIUM,11.0,True,1,True,20.0,19.2,31.4,57.0,False,5.7,77.854,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,12.0,1.0,MEDIUM,12.0,True,1,True,20.0,19.1,31.4,56.0,False,5.6,78.114,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,13.0,1.0,MEDIUM,13.0,True,1,True,19.0,19.1,31.3,58.0,False,6.0,77.83,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,14.0,1.0,MEDIUM,14.0,True,1,True,19.0,19.1,30.2,60.0,False,4.5,78.456,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,15.0,1.0,MEDIUM,15.0,True,1,True,17.0,19.0,30.2,61.0,False,4.2,77.953,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,16.0,1.0,MEDIUM,16.0,True,1,True,16.0,19.0,30.4,61.0,False,3.9,78.234,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,17.0,1.0,MEDIUM,17.0,True,1,True,16.0,19.0,30.6,62.0,False,3.9,78.194,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,18.0,1.0,MEDIUM,18.0,True,1,False,19.0,19.0,31.2,60.0,False,4.6,81.758,True,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,19.0,2.0,HARD,1.0,True,1,False,20.0,19.2,31.3,60.0,False,4.8,97.604,True,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,20.0,2.0,HARD,2.0,True,1,True,20.0,19.1,31.7,61.0,False,4.5,76.808,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,21.0,2.0,HARD,3.0,True,1,True,20.0,19.3,31.6,60.0,False,4.6,76.715,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,22.0,2.0,HARD,4.0,True,1,True,20.0,19.4,31.6,59.0,False,4.5,76.726,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,23.0,2.0,HARD,5.0,True,1,True,20.0,19.4,31.5,58.0,False,6.2,77.295,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,24.0,2.0,HARD,6.0,True,1,True,20.0,19.4,31.3,60.0,False,5.5,76.443,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,25.0,2.0,HARD,7.0,True,1,True,20.0,19.4,31.6,59.0,False,5.5,76.777,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,26.0,2.0,HARD,8.0,True,1,True,20.0,19.4,31.6,59.0,False,4.5,76.4,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,27.0,2.0,HARD,9.0,True,1,True,20.0,19.4,32.0,60.0,False,4.4,78.19,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,28.0,2.0,HARD,10.0,True,1,True,20.0,19.4,32.1,59.0,False,4.4,76.556,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,29.0,2.0,HARD,11.0,True,1,True,20.0,19.3,32.0,59.0,False,4.3,77.148,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,30.0,2.0,HARD,12.0,True,1,True,20.0,19.3,31.8,61.0,False,4.7,76.863,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,31.0,2.0,HARD,13.0,True,1,True,20.0,19.3,31.9,60.0,False,5.9,77.968,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,32.0,2.0,HARD,14.0,True,1,True,20.0,19.4,32.0,60.0,False,4.8,77.091,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,33.0,2.0,HARD,15.0,True,1,True,20.0,19.4,32.0,60.0,False,4.6,77.091,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,34.0,2.0,HARD,16.0,True,1,True,20.0,19.5,32.0,59.0,False,5.2,77.411,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,35.0,2.0,HARD,17.0,True,1,True,20.0,19.4,32.0,58.0,False,5.6,77.221,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,36.0,2.0,HARD,18.0,True,1,True,20.0,19.3,32.1,58.0,False,5.4,78.29,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,37.0,2.0,HARD,19.0,True,1,True,20.0,19.4,31.9,57.0,False,4.4,77.573,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,38.0,2.0,HARD,20.0,True,1,True,20.0,19.4,31.9,57.0,False,4.8,77.784,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,39.0,2.0,HARD,21.0,True,1,True,20.0,19.4,32.1,58.0,False,4.5,78.968,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,40.0,2.0,HARD,22.0,True,1,True,20.0,19.5,31.8,58.0,False,3.7,77.774,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,41.0,2.0,HARD,23.0,True,1,True,20.0,19.5,31.6,58.0,False,4.6,79.115,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,42.0,2.0,HARD,24.0,True,1,True,20.0,19.4,31.6,57.0,False,4.4,78.117,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,43.0,2.0,HARD,25.0,True,1,True,20.0,19.3,31.7,58.0,False,3.8,81.195,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,44.0,2.0,HARD,26.0,True,1,True,20.0,19.4,31.8,57.0,False,4.6,78.167,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,45.0,2.0,HARD,27.0,True,1,True,20.0,19.3,32.1,56.0,False,4.4,78.973,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,46.0,2.0,HARD,28.0,True,1,True,20.0,19.3,32.1,56.0,False,4.7,77.856,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,47.0,2.0,HARD,29.0,True,1,True,20.0,19.2,32.3,57.0,False,3.8,77.537,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,48.0,2.0,HARD,30.0,True,1,True,20.0,19.2,32.3,58.0,False,4.6,77.238,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,49.0,2.0,HARD,31.0,True,1,True,20.0,19.2,32.1,59.0,False,4.6,77.065,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,50.0,2.0,HARD,32.0,True,1,True,20.0,19.3,32.3,55.0,False,5.2,77.351,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,51.0,2.0,HARD,33.0,True,1,False,20.0,19.3,32.3,56.0,False,4.9,80.809,True,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,52.0,3.0,SOFT,1.0,True,1,False,20.0,19.3,32.4,57.0,False,5.1,99.404,True,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,53.0,3.0,SOFT,2.0,True,1,True,20.0,19.3,32.1,57.0,False,4.7,75.913,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,54.0,3.0,SOFT,3.0,True,1,True,20.0,19.3,31.9,58.0,False,4.4,75.76,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,55.0,3.0,SOFT,4.0,True,1,True,20.0,19.4,31.9,57.0,False,5.8,75.803,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,56.0,3.0,SOFT,5.0,True,1,True,20.0,19.4,32.1,57.0,False,4.2,76.04,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,57.0,3.0,SOFT,6.0,True,1,True,20.0,19.4,32.1,57.0,False,4.2,76.42,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,58.0,3.0,SOFT,7.0,True,1,True,20.0,19.4,32.1,58.0,False,5.3,76.413,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,59.0,3.0,SOFT,8.0,True,1,True,20.0,19.5,32.1,57.0,False,5.2,76.359,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,60.0,3.0,SOFT,9.0,True,1,True,20.0,19.5,32.2,58.0,False,5.1,77.641,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,61.0,3.0,SOFT,10.0,True,1,True,20.0,19.6,32.0,58.0,False,5.3,76.399,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,62.0,3.0,SOFT,11.0,True,1,True,20.0,19.7,32.3,57.0,False,4.8,76.256,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,63.0,3.0,SOFT,12.0,True,1,True,20.0,19.6,31.8,55.0,False,3.9,75.871,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,64.0,3.0,SOFT,13.0,True,1,True,20.0,19.5,31.7,56.0,False,4.2,79.34,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,65.0,3.0,SOFT,14.0,True,1,True,20.0,19.4,31.7,56.0,False,4.0,76.036,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,66.0,3.0,SOFT,15.0,True,1,True,20.0,19.3,31.8,57.0,False,4.1,75.737,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,67.0,3.0,SOFT,16.0,True,1,True,20.0,19.3,31.8,57.0,False,4.3,75.724,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,68.0,3.0,SOFT,17.0,True,1,True,20.0,19.3,31.8,57.0,False,4.3,77.757,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,69.0,3.0,SOFT,18.0,True,1,True,20.0,19.3,31.8,57.0,False,4.3,75.865,False,72,2024,15,Dutch Grand Prix,2024_15
+ZHO,Kick Sauber,70.0,3.0,SOFT,19.0,True,1,True,20.0,19.3,31.8,57.0,False,4.3,75.798,False,72,2024,15,Dutch Grand Prix,2024_15

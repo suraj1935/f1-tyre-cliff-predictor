@@ -1,0 +1,969 @@
+Driver,Team,LapNumber,Stint,Compound,TyreLife,FreshTyre,TrackStatus,IsAccurate,Position,AirTemp,TrackTemp,Humidity,Rainfall,WindSpeed,LapTimeSeconds,IsPitLap,TotalLaps,Year,Round,Event,RaceId
+VER,Red Bull Racing,1.0,1.0,HARD,1.0,True,124,False,1.0,20.5,26.6,61.0,False,1.8,128.681,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,2.0,1.0,HARD,2.0,True,4,False,1.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,3.0,1.0,HARD,3.0,True,4,False,1.0,20.6,26.4,60.0,False,2.9,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,4.0,1.0,HARD,4.0,True,41,False,1.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,1.0,20.5,25.9,60.0,False,1.1,107.655,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,1.0,20.5,26.1,60.0,False,1.2,107.127,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,7.0,1.0,HARD,7.0,True,12,True,1.0,20.5,25.9,60.0,False,1.4,106.484,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,8.0,1.0,HARD,8.0,True,1,True,1.0,20.5,25.9,60.0,False,1.7,106.133,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,1.0,20.5,26.0,60.0,False,1.9,106.376,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,1.0,20.5,25.5,60.0,False,1.3,106.172,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,1.0,20.5,25.6,61.0,False,1.9,106.245,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,12.0,1.0,HARD,12.0,True,1,True,1.0,20.5,25.6,60.0,False,2.2,106.123,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,13.0,1.0,HARD,13.0,True,1,True,1.0,20.5,25.5,60.0,False,1.7,106.102,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,14.0,1.0,HARD,14.0,True,1,True,1.0,20.5,25.5,60.0,False,1.8,105.817,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,15.0,1.0,HARD,15.0,True,1,True,1.0,20.5,25.3,60.0,False,0.8,105.617,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,16.0,1.0,HARD,16.0,True,1,True,1.0,20.5,25.2,60.0,False,2.2,105.641,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,17.0,1.0,HARD,17.0,True,12,True,1.0,20.5,25.0,60.0,False,1.3,105.699,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,18.0,1.0,HARD,18.0,True,1,True,1.0,20.5,25.1,60.0,False,1.0,106.208,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,19.0,1.0,HARD,19.0,True,12,True,1.0,20.5,25.2,59.0,False,1.1,105.414,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,20.0,1.0,HARD,20.0,True,1,True,1.0,20.5,25.1,60.0,False,0.6,105.492,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,21.0,1.0,HARD,21.0,True,1,True,1.0,20.5,24.8,60.0,False,0.7,105.558,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,22.0,1.0,HARD,22.0,True,1,True,1.0,20.5,25.3,60.0,False,0.8,105.473,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,23.0,1.0,HARD,23.0,True,1,True,1.0,20.5,25.3,60.0,False,1.7,105.362,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,24.0,1.0,HARD,24.0,True,1,True,1.0,20.5,25.0,60.0,False,1.5,105.411,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,25.0,1.0,HARD,25.0,True,1,True,1.0,20.5,25.2,60.0,False,1.3,105.303,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,26.0,1.0,HARD,26.0,True,1,True,1.0,20.4,25.2,60.0,False,0.9,104.967,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,27.0,1.0,HARD,27.0,True,1,True,1.0,20.4,25.1,60.0,False,2.2,104.82,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,28.0,1.0,HARD,28.0,True,1,True,1.0,20.5,24.9,60.0,False,1.5,104.9,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,29.0,1.0,HARD,29.0,True,1,True,1.0,20.5,24.7,60.0,False,1.1,105.01,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,30.0,1.0,HARD,30.0,True,1,True,1.0,20.5,24.8,60.0,False,0.7,104.843,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,31.0,1.0,HARD,31.0,True,1,True,1.0,20.4,24.7,60.0,False,1.2,104.784,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,32.0,1.0,HARD,32.0,True,1,True,1.0,20.4,24.9,60.0,False,1.8,104.726,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,33.0,1.0,HARD,33.0,True,1,True,1.0,20.5,24.8,61.0,False,1.4,104.653,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,34.0,1.0,HARD,34.0,True,1,True,1.0,20.5,24.9,61.0,False,1.1,104.79,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,35.0,1.0,HARD,35.0,True,1,True,1.0,20.4,24.9,60.0,False,1.4,104.911,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,36.0,1.0,HARD,36.0,True,1,True,1.0,20.4,24.9,60.0,False,1.4,104.78,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,37.0,1.0,HARD,37.0,True,1,True,1.0,20.4,25.2,60.0,False,2.0,104.677,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,38.0,1.0,HARD,38.0,True,1,True,1.0,20.4,25.0,60.0,False,1.9,104.775,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,39.0,1.0,HARD,39.0,True,1,True,1.0,20.5,24.9,60.0,False,1.5,104.95,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,40.0,1.0,HARD,40.0,True,1,False,1.0,20.5,24.9,60.0,False,1.3,108.754,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,41.0,2.0,MEDIUM,5.0,False,1,False,1.0,20.5,24.9,60.0,False,2.1,121.525,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,42.0,2.0,MEDIUM,6.0,False,1,True,1.0,20.5,24.9,60.0,False,1.0,103.702,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,43.0,2.0,MEDIUM,7.0,False,1,True,1.0,20.5,25.0,60.0,False,1.3,103.755,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,44.0,2.0,MEDIUM,8.0,False,1,True,1.0,20.4,24.5,60.0,False,1.2,103.564,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,45.0,2.0,MEDIUM,9.0,False,1,True,1.0,20.5,24.8,60.0,False,1.3,103.423,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,46.0,2.0,MEDIUM,10.0,False,1,True,1.0,20.5,24.8,59.0,False,1.3,103.419,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,47.0,2.0,MEDIUM,11.0,False,1,True,1.0,20.5,24.6,59.0,False,0.8,103.579,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,48.0,2.0,MEDIUM,12.0,False,1,True,1.0,20.5,24.6,59.0,False,2.2,103.942,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,49.0,2.0,MEDIUM,13.0,False,1,True,1.0,20.5,24.5,59.0,False,2.1,105.535,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,50.0,2.0,MEDIUM,14.0,False,1,True,1.0,20.4,24.5,60.0,False,1.5,103.388,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+VER,Red Bull Racing,51.0,2.0,MEDIUM,15.0,False,1,True,1.0,20.4,24.5,60.0,False,2.1,104.556,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,1.0,1.0,HARD,1.0,True,124,False,5.0,20.5,26.6,61.0,False,1.8,134.241,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,2.0,1.0,HARD,2.0,True,4,False,5.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,3.0,1.0,HARD,3.0,True,4,False,5.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,4.0,1.0,HARD,4.0,True,41,False,5.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,5.0,1.0,HARD,5.0,True,1,True,6.0,20.5,25.9,60.0,False,1.1,111.002,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,6.0,1.0,HARD,6.0,True,1,True,6.0,20.5,26.1,60.0,False,1.2,107.174,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,7.0,1.0,HARD,7.0,True,12,True,6.0,20.5,25.9,60.0,False,1.4,107.845,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,8.0,1.0,HARD,8.0,True,1,True,6.0,20.5,25.9,60.0,False,1.7,106.544,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,9.0,1.0,HARD,9.0,True,1,True,6.0,20.5,25.6,60.0,False,2.2,107.108,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,10.0,1.0,HARD,10.0,True,1,True,5.0,20.5,25.5,60.0,False,1.3,106.895,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,11.0,1.0,HARD,11.0,True,1,True,5.0,20.5,25.6,61.0,False,1.9,106.277,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,12.0,1.0,HARD,12.0,True,1,True,5.0,20.5,25.6,60.0,False,2.2,106.108,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,13.0,1.0,HARD,13.0,True,1,True,5.0,20.5,25.5,60.0,False,1.7,106.005,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,14.0,1.0,HARD,14.0,True,1,True,5.0,20.5,25.5,60.0,False,1.8,106.336,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,15.0,1.0,HARD,15.0,True,1,True,5.0,20.5,25.3,60.0,False,0.8,106.156,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,16.0,1.0,HARD,16.0,True,1,True,5.0,20.5,25.2,60.0,False,2.2,106.631,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,17.0,1.0,HARD,17.0,True,12,True,5.0,20.5,25.0,60.0,False,1.3,106.351,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,18.0,1.0,HARD,18.0,True,12,True,4.0,20.5,25.1,60.0,False,1.0,106.439,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,19.0,1.0,HARD,19.0,True,21,True,4.0,20.5,25.2,59.0,False,1.1,105.545,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,20.0,1.0,HARD,20.0,True,1,True,3.0,20.5,25.1,60.0,False,0.6,106.027,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,21.0,1.0,HARD,21.0,True,1,True,3.0,20.5,24.8,60.0,False,0.7,105.377,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,22.0,1.0,HARD,22.0,True,1,True,3.0,20.5,25.3,60.0,False,1.6,105.397,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,23.0,1.0,HARD,23.0,True,1,True,3.0,20.5,25.3,60.0,False,1.7,105.283,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,24.0,1.0,HARD,24.0,True,1,True,3.0,20.5,25.0,60.0,False,1.5,105.379,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,25.0,1.0,HARD,25.0,True,1,True,3.0,20.5,25.2,60.0,False,1.3,105.692,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,26.0,1.0,HARD,26.0,True,1,True,3.0,20.4,25.2,60.0,False,1.1,105.449,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,27.0,1.0,HARD,27.0,True,1,True,2.0,20.4,25.1,60.0,False,2.2,105.371,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,28.0,1.0,HARD,28.0,True,1,True,2.0,20.5,24.9,60.0,False,1.5,105.277,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,29.0,1.0,HARD,29.0,True,1,True,2.0,20.5,24.7,60.0,False,1.1,105.247,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,30.0,1.0,HARD,30.0,True,1,True,2.0,20.5,24.8,60.0,False,0.9,105.046,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,31.0,1.0,HARD,31.0,True,1,True,2.0,20.4,24.7,60.0,False,1.2,104.987,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,32.0,1.0,HARD,32.0,True,1,True,2.0,20.4,24.9,60.0,False,1.8,105.092,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,33.0,1.0,HARD,33.0,True,1,True,2.0,20.5,24.8,61.0,False,1.4,104.964,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,34.0,1.0,HARD,34.0,True,1,True,2.0,20.5,24.9,61.0,False,0.9,104.887,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,35.0,1.0,HARD,35.0,True,1,True,2.0,20.4,24.9,60.0,False,1.4,104.814,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,36.0,1.0,HARD,36.0,True,1,True,2.0,20.4,24.9,60.0,False,1.4,104.825,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,37.0,1.0,HARD,37.0,True,1,True,2.0,20.4,25.2,60.0,False,2.0,104.692,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,38.0,1.0,HARD,38.0,True,1,True,2.0,20.4,24.8,60.0,False,2.4,104.829,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,39.0,1.0,HARD,39.0,True,1,False,2.0,20.5,24.9,60.0,False,1.5,108.001,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,40.0,2.0,MEDIUM,7.0,False,1,False,2.0,20.5,24.9,60.0,False,1.3,120.578,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,41.0,2.0,MEDIUM,8.0,False,1,True,2.0,20.5,24.9,60.0,False,2.1,104.35,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,42.0,2.0,MEDIUM,9.0,False,1,True,2.0,20.5,24.9,60.0,False,1.0,103.754,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,43.0,2.0,MEDIUM,10.0,False,1,True,2.0,20.5,25.0,60.0,False,1.3,104.15,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,44.0,2.0,MEDIUM,11.0,False,1,True,2.0,20.4,24.5,60.0,False,1.2,103.85,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,45.0,2.0,MEDIUM,12.0,False,1,True,2.0,20.5,24.8,60.0,False,1.3,104.292,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,46.0,2.0,MEDIUM,13.0,False,1,True,2.0,20.5,24.8,59.0,False,1.3,104.158,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,47.0,2.0,MEDIUM,14.0,False,1,True,2.0,20.5,24.6,59.0,False,1.4,103.919,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,48.0,2.0,MEDIUM,15.0,False,1,True,2.0,20.5,24.6,59.0,False,2.2,104.246,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,49.0,2.0,MEDIUM,16.0,False,1,True,2.0,20.5,24.5,59.0,False,2.1,104.216,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,50.0,2.0,MEDIUM,17.0,False,1,True,2.0,20.4,24.5,60.0,False,1.5,104.482,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+RUS,Mercedes,51.0,2.0,MEDIUM,18.0,False,1,True,2.0,20.4,24.5,60.0,False,0.5,104.627,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,1.0,1.0,MEDIUM,6.0,False,124,False,2.0,20.5,26.6,61.0,False,1.8,129.277,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,2.0,1.0,MEDIUM,7.0,False,4,False,2.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,3.0,1.0,MEDIUM,8.0,False,4,False,2.0,20.6,26.4,60.0,False,2.9,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,4.0,1.0,MEDIUM,9.0,False,41,False,2.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,5.0,1.0,MEDIUM,10.0,False,1,True,2.0,20.5,25.9,60.0,False,1.1,108.586,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,6.0,1.0,MEDIUM,11.0,False,1,True,2.0,20.5,26.1,60.0,False,1.2,107.267,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,7.0,1.0,MEDIUM,12.0,False,12,True,2.0,20.5,25.9,60.0,False,1.4,106.246,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,8.0,1.0,MEDIUM,13.0,False,1,True,2.0,20.5,25.9,60.0,False,1.7,106.434,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,9.0,1.0,MEDIUM,14.0,False,1,True,2.0,20.5,26.0,60.0,False,1.9,106.803,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,10.0,1.0,MEDIUM,15.0,False,1,True,2.0,20.5,25.5,60.0,False,1.3,106.784,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,11.0,1.0,MEDIUM,16.0,False,1,True,2.0,20.5,25.6,61.0,False,1.9,106.581,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,12.0,1.0,MEDIUM,17.0,False,1,True,2.0,20.5,25.6,60.0,False,2.2,106.543,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,13.0,1.0,MEDIUM,18.0,False,1,True,2.0,20.5,25.5,60.0,False,1.7,106.301,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,14.0,1.0,MEDIUM,19.0,False,1,True,2.0,20.5,25.5,60.0,False,1.8,106.105,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,15.0,1.0,MEDIUM,20.0,False,1,True,2.0,20.5,25.3,60.0,False,0.8,106.155,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,16.0,1.0,MEDIUM,21.0,False,1,True,2.0,20.5,25.2,60.0,False,2.2,106.149,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,17.0,1.0,MEDIUM,22.0,False,12,True,2.0,20.5,25.0,60.0,False,1.3,105.977,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,18.0,1.0,MEDIUM,23.0,False,12,True,2.0,20.5,25.1,60.0,False,1.0,105.842,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,19.0,1.0,MEDIUM,24.0,False,21,True,2.0,20.5,25.2,59.0,False,1.1,105.791,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,20.0,1.0,MEDIUM,25.0,False,1,True,2.0,20.5,25.1,60.0,False,0.6,105.85,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,21.0,1.0,MEDIUM,26.0,False,1,True,2.0,20.5,24.8,60.0,False,0.7,106.158,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,22.0,1.0,MEDIUM,27.0,False,1,True,2.0,20.5,25.3,60.0,False,0.8,106.045,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,23.0,1.0,MEDIUM,28.0,False,1,True,2.0,20.5,25.3,60.0,False,1.7,105.71,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,24.0,1.0,MEDIUM,29.0,False,1,True,2.0,20.5,25.0,60.0,False,1.5,105.817,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,25.0,1.0,MEDIUM,30.0,False,1,True,2.0,20.5,25.2,60.0,False,1.3,105.976,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,26.0,1.0,MEDIUM,31.0,False,1,True,2.0,20.4,25.2,60.0,False,1.1,105.823,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,27.0,1.0,MEDIUM,32.0,False,1,False,3.0,20.4,25.1,60.0,False,2.2,109.291,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,28.0,2.0,HARD,1.0,True,1,False,6.0,20.5,24.9,60.0,False,1.5,123.007,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,29.0,2.0,HARD,2.0,True,1,True,6.0,20.5,24.7,60.0,False,1.1,105.038,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,30.0,2.0,HARD,3.0,True,1,True,6.0,20.5,24.8,60.0,False,0.9,105.031,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,31.0,2.0,HARD,4.0,True,1,True,6.0,20.4,24.7,60.0,False,1.6,105.038,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,32.0,2.0,HARD,5.0,True,1,True,6.0,20.4,24.9,60.0,False,1.8,105.19,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,33.0,2.0,HARD,6.0,True,1,True,6.0,20.5,24.8,61.0,False,1.4,105.055,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,34.0,2.0,HARD,7.0,True,1,True,6.0,20.5,24.9,61.0,False,0.9,104.992,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,35.0,2.0,HARD,8.0,True,1,True,6.0,20.4,24.9,60.0,False,1.4,105.23,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,36.0,2.0,HARD,9.0,True,1,True,5.0,20.4,24.9,60.0,False,1.4,105.362,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,37.0,2.0,HARD,10.0,True,1,True,5.0,20.4,25.2,60.0,False,2.0,104.713,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,38.0,2.0,HARD,11.0,True,1,True,4.0,20.4,24.8,60.0,False,2.4,104.786,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,39.0,2.0,HARD,12.0,True,1,True,3.0,20.5,24.9,60.0,False,0.9,104.877,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,40.0,2.0,HARD,13.0,True,1,True,3.0,20.5,24.9,60.0,False,1.3,105.53,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,41.0,2.0,HARD,14.0,True,1,True,3.0,20.5,24.9,60.0,False,2.1,105.22,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,42.0,2.0,HARD,15.0,True,1,True,3.0,20.5,24.9,60.0,False,1.0,104.866,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,43.0,2.0,HARD,16.0,True,1,True,3.0,20.5,25.0,60.0,False,1.3,104.437,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,44.0,2.0,HARD,17.0,True,1,True,3.0,20.4,24.5,60.0,False,1.2,104.354,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,45.0,2.0,HARD,18.0,True,1,True,3.0,20.5,24.8,60.0,False,1.3,104.013,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,46.0,2.0,HARD,19.0,True,1,True,3.0,20.5,24.8,59.0,False,1.3,104.498,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,47.0,2.0,HARD,20.0,True,1,True,3.0,20.5,24.6,59.0,False,1.4,103.972,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,48.0,2.0,HARD,21.0,True,1,True,3.0,20.5,24.6,59.0,False,2.2,104.158,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,49.0,2.0,HARD,22.0,True,1,True,3.0,20.5,24.5,59.0,False,2.1,104.327,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,50.0,2.0,HARD,23.0,True,1,True,3.0,20.4,24.5,60.0,False,1.5,104.476,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+SAI,Williams,51.0,2.0,HARD,24.0,True,1,True,3.0,20.4,24.5,60.0,False,0.5,104.449,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,1.0,1.0,MEDIUM,6.0,False,124,False,4.0,20.5,26.6,61.0,False,1.8,132.418,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,2.0,1.0,MEDIUM,7.0,False,4,False,4.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,3.0,1.0,MEDIUM,8.0,False,4,False,4.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,4.0,1.0,MEDIUM,9.0,False,41,False,4.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,5.0,1.0,MEDIUM,10.0,False,1,True,4.0,20.5,25.9,60.0,False,1.1,109.666,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,6.0,1.0,MEDIUM,11.0,False,1,True,4.0,20.5,26.1,60.0,False,1.2,107.038,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,7.0,1.0,MEDIUM,12.0,False,12,True,4.0,20.5,25.9,60.0,False,1.4,106.668,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,8.0,1.0,MEDIUM,13.0,False,1,True,4.0,20.5,25.9,60.0,False,1.7,107.2,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,9.0,1.0,MEDIUM,14.0,False,1,True,4.0,20.5,25.6,60.0,False,2.2,106.885,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,10.0,1.0,MEDIUM,15.0,False,1,True,4.0,20.5,25.5,60.0,False,1.3,106.89,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,11.0,1.0,MEDIUM,16.0,False,1,True,4.0,20.5,25.6,61.0,False,1.9,106.575,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,12.0,1.0,MEDIUM,17.0,False,1,True,4.0,20.5,25.6,60.0,False,2.2,106.916,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,13.0,1.0,MEDIUM,18.0,False,1,True,4.0,20.5,25.5,60.0,False,1.7,106.569,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,14.0,1.0,MEDIUM,19.0,False,1,True,4.0,20.5,25.5,60.0,False,1.8,106.284,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,15.0,1.0,MEDIUM,20.0,False,1,True,4.0,20.5,25.3,60.0,False,0.8,106.44,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,16.0,1.0,MEDIUM,21.0,False,1,True,4.0,20.5,25.2,60.0,False,2.2,106.265,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,17.0,1.0,MEDIUM,22.0,False,12,True,4.0,20.5,25.0,60.0,False,1.3,106.243,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,18.0,1.0,MEDIUM,23.0,False,12,False,6.0,20.5,25.1,60.0,False,1.0,109.655,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,19.0,2.0,HARD,1.0,True,21,False,12.0,20.5,25.2,59.0,False,1.1,123.634,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,20.0,2.0,HARD,2.0,True,1,True,11.0,20.5,25.1,60.0,False,0.6,105.205,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,21.0,2.0,HARD,3.0,True,1,True,9.0,20.5,24.8,60.0,False,0.7,106.877,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,22.0,2.0,HARD,4.0,True,1,True,9.0,20.5,25.3,60.0,False,1.6,105.746,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,23.0,2.0,HARD,5.0,True,1,True,9.0,20.4,24.9,61.0,False,1.4,105.46,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,24.0,2.0,HARD,6.0,True,1,True,9.0,20.5,25.0,60.0,False,1.5,105.287,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,25.0,2.0,HARD,7.0,True,1,True,8.0,20.5,25.2,60.0,False,1.3,105.513,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,26.0,2.0,HARD,8.0,True,1,True,8.0,20.4,25.2,60.0,False,1.1,105.197,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,27.0,2.0,HARD,9.0,True,1,True,8.0,20.5,24.9,60.0,False,2.1,105.069,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,28.0,2.0,HARD,10.0,True,1,True,8.0,20.5,24.9,60.0,False,1.5,105.384,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,29.0,2.0,HARD,11.0,True,1,True,7.0,20.5,24.7,60.0,False,1.1,106.213,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,30.0,2.0,HARD,12.0,True,1,True,7.0,20.5,24.8,60.0,False,0.9,105.425,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,31.0,2.0,HARD,13.0,True,1,True,7.0,20.4,24.7,60.0,False,1.6,104.823,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,32.0,2.0,HARD,14.0,True,1,True,7.0,20.4,24.9,60.0,False,1.8,105.021,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,33.0,2.0,HARD,15.0,True,1,True,7.0,20.5,24.8,61.0,False,1.4,104.925,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,34.0,2.0,HARD,16.0,True,1,True,7.0,20.5,24.9,61.0,False,0.9,104.891,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,35.0,2.0,HARD,17.0,True,1,True,7.0,20.4,24.9,60.0,False,1.4,104.887,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,36.0,2.0,HARD,18.0,True,1,True,7.0,20.4,24.9,60.0,False,1.4,104.929,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,37.0,2.0,HARD,19.0,True,1,True,6.0,20.4,25.2,60.0,False,2.0,104.626,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,38.0,2.0,HARD,20.0,True,1,True,5.0,20.4,24.8,60.0,False,2.4,104.791,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,39.0,2.0,HARD,21.0,True,1,True,4.0,20.5,24.9,60.0,False,0.9,104.834,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,40.0,2.0,HARD,22.0,True,1,True,4.0,20.5,24.9,60.0,False,1.3,104.917,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,41.0,2.0,HARD,23.0,True,1,True,4.0,20.5,24.9,60.0,False,2.1,105.029,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,42.0,2.0,HARD,24.0,True,1,True,4.0,20.5,24.9,60.0,False,1.0,104.888,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,43.0,2.0,HARD,25.0,True,1,True,4.0,20.5,25.0,60.0,False,1.3,104.632,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,44.0,2.0,HARD,26.0,True,1,True,4.0,20.4,24.5,60.0,False,1.2,104.434,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,45.0,2.0,HARD,27.0,True,1,True,4.0,20.5,24.8,60.0,False,1.3,104.172,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,46.0,2.0,HARD,28.0,True,1,True,4.0,20.5,24.8,59.0,False,1.3,104.301,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,47.0,2.0,HARD,29.0,True,1,True,4.0,20.5,24.6,59.0,False,1.4,104.091,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,48.0,2.0,HARD,30.0,True,1,True,4.0,20.5,24.6,59.0,False,2.2,104.246,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,49.0,2.0,HARD,31.0,True,1,True,4.0,20.5,24.5,59.0,False,2.1,104.161,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,50.0,2.0,HARD,32.0,True,1,True,4.0,20.4,24.5,60.0,False,1.5,104.423,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ANT,Mercedes,51.0,2.0,HARD,33.0,True,1,True,4.0,20.4,24.5,60.0,False,0.5,105.532,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,1.0,1.0,MEDIUM,7.0,False,124,False,3.0,20.5,26.6,61.0,False,1.8,131.049,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,2.0,1.0,MEDIUM,8.0,False,4,False,3.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,3.0,1.0,MEDIUM,9.0,False,4,False,3.0,20.6,26.4,60.0,False,2.9,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,4.0,1.0,MEDIUM,10.0,False,41,False,3.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,5.0,1.0,MEDIUM,11.0,False,1,True,3.0,20.5,25.9,60.0,False,1.1,108.996,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,6.0,1.0,MEDIUM,12.0,False,1,True,3.0,20.5,26.1,60.0,False,1.2,107.085,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,7.0,1.0,MEDIUM,13.0,False,12,True,3.0,20.5,25.9,60.0,False,1.4,107.092,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,8.0,1.0,MEDIUM,14.0,False,1,True,3.0,20.5,25.9,60.0,False,1.7,106.951,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,9.0,1.0,MEDIUM,15.0,False,1,True,3.0,20.5,26.0,60.0,False,1.9,106.684,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,10.0,1.0,MEDIUM,16.0,False,1,True,3.0,20.5,25.5,60.0,False,1.3,106.988,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,11.0,1.0,MEDIUM,17.0,False,1,True,3.0,20.5,25.6,61.0,False,1.9,106.924,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,12.0,1.0,MEDIUM,18.0,False,1,True,3.0,20.5,25.6,60.0,False,2.2,106.688,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,13.0,1.0,MEDIUM,19.0,False,1,True,3.0,20.5,25.5,60.0,False,1.7,106.519,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,14.0,1.0,MEDIUM,20.0,False,1,True,3.0,20.5,25.5,60.0,False,1.8,106.741,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,15.0,1.0,MEDIUM,21.0,False,1,True,3.0,20.5,25.3,60.0,False,0.8,106.258,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,16.0,1.0,MEDIUM,22.0,False,1,True,3.0,20.5,25.2,60.0,False,2.2,106.362,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,17.0,1.0,MEDIUM,23.0,False,12,True,3.0,20.5,25.0,60.0,False,1.3,106.304,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,18.0,1.0,MEDIUM,24.0,False,12,True,3.0,20.5,25.1,60.0,False,1.0,106.475,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,19.0,1.0,MEDIUM,25.0,False,21,True,3.0,20.5,25.2,59.0,False,1.1,106.277,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,20.0,1.0,MEDIUM,26.0,False,1,False,5.0,20.5,25.1,60.0,False,0.6,109.664,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,21.0,2.0,HARD,2.0,False,1,False,10.0,20.5,24.8,60.0,False,0.7,123.612,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,22.0,2.0,HARD,3.0,False,1,True,10.0,20.5,25.3,60.0,False,1.6,106.719,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,23.0,2.0,HARD,4.0,False,1,True,10.0,20.4,24.9,61.0,False,1.4,105.97,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,24.0,2.0,HARD,5.0,False,1,True,10.0,20.5,25.0,60.0,False,1.5,105.797,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,25.0,2.0,HARD,6.0,False,1,True,10.0,20.5,25.2,60.0,False,1.3,105.766,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,26.0,2.0,HARD,7.0,False,1,True,9.0,20.4,25.2,60.0,False,1.1,105.483,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,27.0,2.0,HARD,8.0,False,1,True,9.0,20.5,24.9,60.0,False,2.1,105.69,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,28.0,2.0,HARD,9.0,False,1,True,9.0,20.5,24.9,60.0,False,1.5,105.748,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,29.0,2.0,HARD,10.0,False,1,True,9.0,20.5,24.7,60.0,False,1.1,105.867,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,30.0,2.0,HARD,11.0,False,1,True,8.0,20.5,24.8,60.0,False,0.9,105.72,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,31.0,2.0,HARD,12.0,False,1,True,8.0,20.4,24.7,60.0,False,1.6,105.297,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,32.0,2.0,HARD,13.0,False,1,True,8.0,20.4,24.9,60.0,False,1.9,105.533,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,33.0,2.0,HARD,14.0,False,1,True,8.0,20.5,24.8,61.0,False,1.4,105.274,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,34.0,2.0,HARD,15.0,False,1,True,8.0,20.5,24.9,61.0,False,0.9,105.607,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,35.0,2.0,HARD,16.0,False,1,True,8.0,20.4,24.9,60.0,False,1.4,105.293,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,36.0,2.0,HARD,17.0,False,1,True,8.0,20.4,25.2,60.0,False,1.9,105.181,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,37.0,2.0,HARD,18.0,False,1,True,7.0,20.4,25.2,60.0,False,2.0,105.1,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,38.0,2.0,HARD,19.0,False,1,True,6.0,20.4,24.8,60.0,False,2.4,104.796,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,39.0,2.0,HARD,20.0,False,1,True,5.0,20.5,24.9,60.0,False,0.9,105.161,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,40.0,2.0,HARD,21.0,False,1,True,5.0,20.5,25.0,60.0,False,2.2,105.297,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,41.0,2.0,HARD,22.0,False,1,True,5.0,20.5,24.9,60.0,False,2.1,105.061,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,42.0,2.0,HARD,23.0,False,1,True,5.0,20.5,24.9,60.0,False,1.0,104.933,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,43.0,2.0,HARD,24.0,False,1,True,5.0,20.5,25.0,60.0,False,1.3,105.383,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,44.0,2.0,HARD,25.0,False,1,True,5.0,20.5,24.5,60.0,False,1.2,105.143,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,45.0,2.0,HARD,26.0,False,1,True,5.0,20.5,24.8,60.0,False,1.3,104.912,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,46.0,2.0,HARD,27.0,False,1,True,5.0,20.5,24.8,59.0,False,1.3,104.887,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,47.0,2.0,HARD,28.0,False,1,True,5.0,20.5,24.6,59.0,False,1.4,104.765,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,48.0,2.0,HARD,29.0,False,1,True,5.0,20.5,24.6,59.0,False,2.2,104.763,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,49.0,2.0,HARD,30.0,False,1,True,5.0,20.5,24.5,59.0,False,2.1,104.531,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,50.0,2.0,HARD,31.0,False,1,True,5.0,20.4,24.5,60.0,False,1.5,104.557,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LAW,Racing Bulls,51.0,2.0,HARD,32.0,False,1,True,5.0,20.4,24.5,60.0,False,0.5,104.899,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,1.0,1.0,HARD,1.0,True,124,False,6.0,20.5,26.6,61.0,False,1.8,137.485,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,2.0,1.0,HARD,2.0,True,4,False,6.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,3.0,1.0,HARD,3.0,True,4,False,6.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,4.0,1.0,HARD,4.0,True,41,False,7.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,5.0,1.0,HARD,5.0,True,1,True,5.0,20.5,25.9,60.0,False,1.1,110.343,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,6.0,1.0,HARD,6.0,True,1,True,5.0,20.5,26.1,60.0,False,1.2,107.544,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,7.0,1.0,HARD,7.0,True,12,True,5.0,20.5,25.9,60.0,False,1.4,107.588,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,8.0,1.0,HARD,8.0,True,1,True,5.0,20.5,25.9,60.0,False,1.7,106.822,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,9.0,1.0,HARD,9.0,True,1,True,5.0,20.5,25.6,60.0,False,2.2,107.066,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,10.0,1.0,HARD,10.0,True,1,True,6.0,20.5,25.5,60.0,False,1.3,108.392,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,11.0,1.0,HARD,11.0,True,1,True,6.0,20.5,25.6,61.0,False,1.9,106.668,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,12.0,1.0,HARD,12.0,True,1,True,6.0,20.5,25.6,60.0,False,2.2,106.444,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,13.0,1.0,HARD,13.0,True,1,True,6.0,20.5,25.5,60.0,False,1.7,106.517,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,14.0,1.0,HARD,14.0,True,1,True,6.0,20.5,25.5,60.0,False,1.8,106.461,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,15.0,1.0,HARD,15.0,True,1,True,6.0,20.5,25.3,60.0,False,0.8,106.482,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,16.0,1.0,HARD,16.0,True,1,True,6.0,20.5,25.2,60.0,False,2.2,106.134,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,17.0,1.0,HARD,17.0,True,12,True,6.0,20.5,25.0,60.0,False,1.3,106.141,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,18.0,1.0,HARD,18.0,True,12,True,5.0,20.5,25.0,60.0,False,1.1,106.298,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,19.0,1.0,HARD,19.0,True,21,True,5.0,20.5,25.2,59.0,False,1.1,106.08,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,20.0,1.0,HARD,20.0,True,1,True,4.0,20.5,25.1,60.0,False,0.6,105.924,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,21.0,1.0,HARD,21.0,True,1,True,4.0,20.5,24.8,60.0,False,0.7,105.802,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,22.0,1.0,HARD,22.0,True,1,True,4.0,20.5,25.3,60.0,False,1.6,105.896,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,23.0,1.0,HARD,23.0,True,1,True,4.0,20.5,25.3,60.0,False,1.7,105.833,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,24.0,1.0,HARD,24.0,True,1,True,4.0,20.5,25.0,60.0,False,1.5,105.872,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,25.0,1.0,HARD,25.0,True,1,True,4.0,20.5,25.2,60.0,False,1.3,105.844,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,26.0,1.0,HARD,26.0,True,1,True,4.0,20.4,25.2,60.0,False,1.1,105.433,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,27.0,1.0,HARD,27.0,True,1,True,4.0,20.4,25.1,60.0,False,2.2,105.242,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,28.0,1.0,HARD,28.0,True,1,True,3.0,20.5,24.9,60.0,False,1.5,105.535,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,29.0,1.0,HARD,29.0,True,1,True,3.0,20.5,24.7,60.0,False,1.1,105.664,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,30.0,1.0,HARD,30.0,True,1,True,3.0,20.5,24.8,60.0,False,0.9,105.821,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,31.0,1.0,HARD,31.0,True,1,True,3.0,20.4,24.7,60.0,False,1.2,105.469,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,32.0,1.0,HARD,32.0,True,1,True,3.0,20.4,24.9,60.0,False,1.8,105.617,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,33.0,1.0,HARD,33.0,True,1,True,3.0,20.5,24.8,61.0,False,1.4,105.277,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,34.0,1.0,HARD,34.0,True,1,True,3.0,20.5,24.9,61.0,False,0.9,105.159,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,35.0,1.0,HARD,35.0,True,1,True,3.0,20.4,24.9,60.0,False,1.4,105.137,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,36.0,1.0,HARD,36.0,True,1,True,3.0,20.4,24.9,60.0,False,1.4,105.141,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,37.0,1.0,HARD,37.0,True,1,True,3.0,20.4,25.2,60.0,False,2.0,104.952,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,38.0,1.0,HARD,38.0,True,1,False,3.0,20.4,24.8,60.0,False,2.4,108.763,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,39.0,2.0,MEDIUM,7.0,False,1,False,6.0,20.5,24.9,60.0,False,0.9,123.485,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,40.0,2.0,MEDIUM,8.0,False,1,True,6.0,20.5,25.0,60.0,False,2.2,104.877,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,41.0,2.0,MEDIUM,9.0,False,1,True,6.0,20.5,24.9,60.0,False,2.1,104.434,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,42.0,2.0,MEDIUM,10.0,False,1,True,6.0,20.5,24.9,60.0,False,1.0,104.573,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,43.0,2.0,MEDIUM,11.0,False,1,True,6.0,20.5,25.0,60.0,False,1.3,105.548,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,44.0,2.0,MEDIUM,12.0,False,1,True,6.0,20.5,24.5,60.0,False,1.2,104.909,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,45.0,2.0,MEDIUM,13.0,False,1,True,6.0,20.5,24.8,60.0,False,1.3,105.119,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,46.0,2.0,MEDIUM,14.0,False,1,True,6.0,20.5,24.8,59.0,False,1.3,105.032,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,47.0,2.0,MEDIUM,15.0,False,1,True,6.0,20.5,24.6,59.0,False,1.4,104.759,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,48.0,2.0,MEDIUM,16.0,False,1,True,6.0,20.5,24.6,59.0,False,2.2,104.541,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,49.0,2.0,MEDIUM,17.0,False,1,True,6.0,20.5,24.5,59.0,False,2.1,104.695,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,50.0,2.0,MEDIUM,18.0,False,1,True,6.0,20.4,24.5,60.0,False,1.5,104.712,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+TSU,Red Bull Racing,51.0,2.0,MEDIUM,19.0,False,1,True,6.0,20.4,24.5,60.0,False,0.5,104.748,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,8.0,20.5,26.6,61.0,False,1.8,140.756,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,2.0,1.0,MEDIUM,2.0,True,4,False,8.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,3.0,1.0,MEDIUM,3.0,True,4,False,8.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,4.0,1.0,MEDIUM,4.0,True,41,False,8.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,5.0,1.0,MEDIUM,5.0,True,1,True,9.0,20.5,25.9,60.0,False,1.1,111.571,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,6.0,1.0,MEDIUM,6.0,True,1,True,8.0,20.5,26.1,60.0,False,1.2,107.873,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,7.0,1.0,MEDIUM,7.0,True,12,True,8.0,20.5,25.9,60.0,False,1.4,107.023,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,8.0,1.0,MEDIUM,8.0,True,1,True,8.0,20.5,25.9,60.0,False,1.7,107.244,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,9.0,1.0,MEDIUM,9.0,True,1,True,8.0,20.5,25.6,60.0,False,2.2,106.716,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,10.0,1.0,MEDIUM,10.0,True,1,True,8.0,20.5,25.5,60.0,False,1.3,107.382,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,11.0,1.0,MEDIUM,11.0,True,1,True,8.0,20.5,25.6,61.0,False,1.9,106.987,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,12.0,1.0,MEDIUM,12.0,True,1,True,8.0,20.5,25.6,60.0,False,2.2,106.778,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,13.0,1.0,MEDIUM,13.0,True,1,True,8.0,20.5,25.5,60.0,False,1.7,106.276,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,14.0,1.0,MEDIUM,14.0,True,1,True,8.0,20.5,25.5,60.0,False,1.8,106.27,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,15.0,1.0,MEDIUM,15.0,True,1,True,8.0,20.5,25.3,60.0,False,0.8,106.483,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,16.0,1.0,MEDIUM,16.0,True,1,True,8.0,20.5,25.2,60.0,False,2.2,106.47,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,17.0,1.0,MEDIUM,17.0,True,12,True,8.0,20.5,25.0,60.0,False,1.3,106.44,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,18.0,1.0,MEDIUM,18.0,True,12,True,8.0,20.5,25.0,60.0,False,1.1,106.387,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,19.0,1.0,MEDIUM,19.0,True,1,True,6.0,20.5,25.2,59.0,False,1.1,106.018,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,20.0,1.0,MEDIUM,20.0,True,1,True,6.0,20.5,25.1,60.0,False,0.6,105.519,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,21.0,1.0,MEDIUM,21.0,True,1,True,5.0,20.5,24.8,60.0,False,0.7,105.614,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,22.0,1.0,MEDIUM,22.0,True,1,True,5.0,20.5,25.3,60.0,False,1.6,105.89,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,23.0,1.0,MEDIUM,23.0,True,1,True,5.0,20.5,25.3,60.0,False,1.7,105.885,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,24.0,1.0,MEDIUM,24.0,True,1,True,5.0,20.5,25.0,60.0,False,1.5,106.238,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,25.0,1.0,MEDIUM,25.0,True,1,True,5.0,20.5,25.2,60.0,False,1.3,106.059,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,26.0,1.0,MEDIUM,26.0,True,1,True,5.0,20.4,25.2,60.0,False,1.1,105.459,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,27.0,1.0,MEDIUM,27.0,True,1,True,5.0,20.4,25.1,60.0,False,2.2,105.419,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,28.0,1.0,MEDIUM,28.0,True,1,True,4.0,20.5,24.9,60.0,False,1.5,105.392,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,29.0,1.0,MEDIUM,29.0,True,1,True,4.0,20.5,24.7,60.0,False,1.1,105.525,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,30.0,1.0,MEDIUM,30.0,True,1,True,4.0,20.5,24.8,60.0,False,0.9,105.416,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,31.0,1.0,MEDIUM,31.0,True,1,True,4.0,20.4,24.7,60.0,False,1.2,105.385,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,32.0,1.0,MEDIUM,32.0,True,1,True,4.0,20.4,24.9,60.0,False,1.8,105.499,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,33.0,1.0,MEDIUM,33.0,True,1,True,4.0,20.5,24.8,61.0,False,1.4,105.482,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,34.0,1.0,MEDIUM,34.0,True,1,True,4.0,20.5,24.9,61.0,False,0.9,105.24,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,35.0,1.0,MEDIUM,35.0,True,1,True,4.0,20.4,24.9,60.0,False,1.4,105.321,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,36.0,1.0,MEDIUM,36.0,True,1,True,4.0,20.4,24.9,60.0,False,1.4,105.171,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,37.0,1.0,MEDIUM,37.0,True,1,False,4.0,20.4,25.2,60.0,False,2.0,108.087,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,38.0,2.0,HARD,1.0,True,1,False,8.0,20.4,24.8,60.0,False,2.4,122.855,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,39.0,2.0,HARD,2.0,True,1,True,8.0,20.5,24.9,60.0,False,0.9,105.104,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,40.0,2.0,HARD,3.0,True,1,True,7.0,20.5,25.0,60.0,False,2.2,105.047,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,41.0,2.0,HARD,4.0,True,1,True,7.0,20.5,24.9,60.0,False,2.1,104.84,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,42.0,2.0,HARD,5.0,True,1,True,7.0,20.5,24.9,60.0,False,1.0,104.155,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,43.0,2.0,HARD,6.0,True,1,True,7.0,20.5,25.0,60.0,False,1.3,105.047,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,44.0,2.0,HARD,7.0,True,1,True,7.0,20.5,24.5,60.0,False,1.2,104.996,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,45.0,2.0,HARD,8.0,True,1,True,7.0,20.5,24.8,60.0,False,1.3,104.954,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,46.0,2.0,HARD,9.0,True,1,True,7.0,20.5,24.8,59.0,False,1.3,104.904,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,47.0,2.0,HARD,10.0,True,1,True,7.0,20.5,24.6,59.0,False,1.4,104.759,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,48.0,2.0,HARD,11.0,True,1,True,7.0,20.5,24.6,59.0,False,2.2,104.77,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,49.0,2.0,HARD,12.0,True,1,True,7.0,20.5,24.5,59.0,False,2.1,104.544,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,50.0,2.0,HARD,13.0,True,1,True,7.0,20.4,24.5,60.0,False,1.5,104.538,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+NOR,McLaren,51.0,2.0,HARD,14.0,True,1,True,7.0,20.4,24.5,60.0,False,0.5,104.971,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,1.0,1.0,HARD,1.0,True,124,False,10.0,20.5,26.6,61.0,False,1.8,144.51,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,2.0,1.0,HARD,2.0,True,4,False,10.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,3.0,1.0,HARD,3.0,True,4,False,10.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,4.0,1.0,HARD,4.0,True,41,False,10.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,5.0,1.0,HARD,5.0,True,1,True,10.0,20.5,25.9,60.0,False,1.1,111.67,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,6.0,1.0,HARD,6.0,True,1,True,10.0,20.5,26.1,60.0,False,1.2,108.843,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,7.0,1.0,HARD,7.0,True,12,True,10.0,20.5,25.9,60.0,False,1.4,107.314,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,8.0,1.0,HARD,8.0,True,1,True,9.0,20.5,25.9,60.0,False,1.7,106.923,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,9.0,1.0,HARD,9.0,True,1,True,9.0,20.5,25.6,60.0,False,2.2,106.766,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,10.0,1.0,HARD,10.0,True,1,True,9.0,20.5,25.5,60.0,False,1.3,106.815,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,11.0,1.0,HARD,11.0,True,1,True,9.0,20.5,25.6,61.0,False,1.9,107.101,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,12.0,1.0,HARD,12.0,True,1,True,9.0,20.5,25.6,60.0,False,2.2,106.628,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,13.0,1.0,HARD,13.0,True,1,True,9.0,20.5,25.5,60.0,False,1.7,107.02,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,14.0,1.0,HARD,14.0,True,1,True,9.0,20.5,25.5,60.0,False,1.8,106.602,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,15.0,1.0,HARD,15.0,True,1,True,9.0,20.5,25.3,60.0,False,0.8,107.88,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,16.0,1.0,HARD,16.0,True,1,True,9.0,20.5,25.2,60.0,False,2.2,106.524,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,17.0,1.0,HARD,17.0,True,12,True,9.0,20.5,25.0,60.0,False,1.3,106.291,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,18.0,1.0,HARD,18.0,True,12,True,9.0,20.5,25.0,60.0,False,1.1,106.105,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,19.0,1.0,HARD,19.0,True,1,True,8.0,20.5,25.2,59.0,False,1.1,106.246,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,20.0,1.0,HARD,20.0,True,1,True,7.0,20.5,25.1,60.0,False,0.6,105.965,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,21.0,1.0,HARD,21.0,True,1,True,6.0,20.5,24.8,60.0,False,0.7,105.926,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,22.0,1.0,HARD,22.0,True,1,True,6.0,20.5,25.3,60.0,False,1.6,106.095,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,23.0,1.0,HARD,23.0,True,1,True,6.0,20.5,25.3,60.0,False,1.7,106.122,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,24.0,1.0,HARD,24.0,True,1,True,6.0,20.5,25.0,60.0,False,1.5,106.378,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,25.0,1.0,HARD,25.0,True,1,True,6.0,20.5,25.2,60.0,False,1.3,106.144,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,26.0,1.0,HARD,26.0,True,1,True,6.0,20.4,25.2,60.0,False,1.1,105.856,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,27.0,1.0,HARD,27.0,True,1,True,6.0,20.5,24.9,60.0,False,2.1,105.8,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,28.0,1.0,HARD,28.0,True,1,True,5.0,20.5,24.9,60.0,False,1.5,105.808,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,29.0,1.0,HARD,29.0,True,1,True,5.0,20.5,24.7,60.0,False,1.1,105.769,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,30.0,1.0,HARD,30.0,True,1,True,5.0,20.5,24.8,60.0,False,0.9,105.495,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,31.0,1.0,HARD,31.0,True,1,True,5.0,20.4,24.7,60.0,False,1.6,105.544,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,32.0,1.0,HARD,32.0,True,1,True,5.0,20.4,24.9,60.0,False,1.8,105.885,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,33.0,1.0,HARD,33.0,True,1,True,5.0,20.5,24.8,61.0,False,1.4,105.622,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,34.0,1.0,HARD,34.0,True,1,True,5.0,20.5,24.9,61.0,False,0.9,105.213,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,35.0,1.0,HARD,35.0,True,1,True,5.0,20.4,24.9,60.0,False,1.4,106.088,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,36.0,1.0,HARD,36.0,True,1,False,6.0,20.4,24.9,60.0,False,1.4,108.55,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,37.0,2.0,MEDIUM,1.0,True,1,False,9.0,20.4,25.2,60.0,False,2.0,121.695,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,38.0,2.0,MEDIUM,2.0,True,1,True,9.0,20.4,24.8,60.0,False,2.4,104.161,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,39.0,2.0,MEDIUM,3.0,True,1,True,9.0,20.5,24.9,60.0,False,0.9,104.011,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,40.0,2.0,MEDIUM,4.0,True,1,True,9.0,20.5,25.0,60.0,False,2.2,103.977,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,41.0,2.0,MEDIUM,5.0,True,1,True,9.0,20.5,24.9,60.0,False,2.1,104.333,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,42.0,2.0,MEDIUM,6.0,True,1,True,9.0,20.5,24.9,60.0,False,1.0,104.361,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,43.0,2.0,MEDIUM,7.0,True,1,True,8.0,20.5,25.0,60.0,False,1.3,104.252,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,44.0,2.0,MEDIUM,8.0,True,1,True,8.0,20.5,24.5,60.0,False,1.2,104.329,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,45.0,2.0,MEDIUM,9.0,True,1,True,8.0,20.5,24.8,60.0,False,1.3,104.495,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,46.0,2.0,MEDIUM,10.0,True,1,True,8.0,20.5,24.8,59.0,False,1.3,104.491,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,47.0,2.0,MEDIUM,11.0,True,1,True,8.0,20.5,24.6,59.0,False,1.4,104.936,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,48.0,2.0,MEDIUM,12.0,True,1,True,8.0,20.5,24.6,59.0,False,2.2,104.714,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,49.0,2.0,MEDIUM,13.0,True,1,True,8.0,20.5,24.5,59.0,False,2.1,104.435,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,50.0,2.0,MEDIUM,14.0,True,1,True,8.0,20.4,24.5,60.0,False,1.5,104.679,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAM,Ferrari,51.0,2.0,MEDIUM,15.0,True,1,True,8.0,20.4,24.5,60.0,False,0.5,106.079,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,1.0,1.0,MEDIUM,4.0,False,124,False,9.0,20.5,26.6,61.0,False,1.8,143.109,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,2.0,1.0,MEDIUM,5.0,False,4,False,9.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,3.0,1.0,MEDIUM,6.0,False,4,False,9.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,4.0,1.0,MEDIUM,7.0,False,41,False,9.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,5.0,1.0,MEDIUM,8.0,False,1,True,7.0,20.5,25.9,60.0,False,1.1,111.174,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,6.0,1.0,MEDIUM,9.0,False,1,True,7.0,20.5,26.1,60.0,False,1.2,107.727,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,7.0,1.0,MEDIUM,10.0,False,12,True,7.0,20.5,25.9,60.0,False,1.4,107.309,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,8.0,1.0,MEDIUM,11.0,False,1,True,7.0,20.5,25.9,60.0,False,1.7,106.834,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,9.0,1.0,MEDIUM,12.0,False,1,True,7.0,20.5,25.6,60.0,False,2.2,106.773,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,10.0,1.0,MEDIUM,13.0,False,1,True,7.0,20.5,25.5,60.0,False,1.3,107.388,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,11.0,1.0,MEDIUM,14.0,False,1,True,7.0,20.5,25.6,61.0,False,1.9,106.801,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,12.0,1.0,MEDIUM,15.0,False,1,True,7.0,20.5,25.6,60.0,False,2.2,106.47,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,13.0,1.0,MEDIUM,16.0,False,1,True,7.0,20.5,25.5,60.0,False,1.7,106.442,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,14.0,1.0,MEDIUM,17.0,False,1,True,7.0,20.5,25.5,60.0,False,1.8,106.132,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,15.0,1.0,MEDIUM,18.0,False,1,True,7.0,20.5,25.3,60.0,False,0.8,106.843,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,16.0,1.0,MEDIUM,19.0,False,1,True,7.0,20.5,25.2,60.0,False,2.2,106.56,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,17.0,1.0,MEDIUM,20.0,False,12,True,7.0,20.5,25.0,60.0,False,1.3,106.016,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,18.0,1.0,MEDIUM,21.0,False,12,True,7.0,20.5,25.0,60.0,False,1.1,106.025,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,19.0,1.0,MEDIUM,22.0,False,21,False,7.0,20.5,25.2,59.0,False,1.1,109.688,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,20.0,2.0,HARD,1.0,True,1,False,12.0,20.5,25.1,60.0,False,0.6,123.091,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,21.0,2.0,HARD,2.0,True,1,True,12.0,20.5,24.8,60.0,False,0.7,105.741,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,22.0,2.0,HARD,3.0,True,1,True,11.0,20.5,25.3,60.0,False,1.6,105.355,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,23.0,2.0,HARD,4.0,True,1,True,11.0,20.4,24.9,61.0,False,1.4,105.679,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,24.0,2.0,HARD,5.0,True,1,True,11.0,20.5,25.0,60.0,False,1.5,105.411,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,25.0,2.0,HARD,6.0,True,1,True,11.0,20.5,25.2,60.0,False,1.3,105.605,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,26.0,2.0,HARD,7.0,True,1,True,10.0,20.4,25.2,60.0,False,1.1,105.699,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,27.0,2.0,HARD,8.0,True,1,True,10.0,20.5,24.9,60.0,False,2.1,105.032,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,28.0,2.0,HARD,9.0,True,1,True,10.0,20.5,24.8,60.0,False,1.8,106.303,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,29.0,2.0,HARD,10.0,True,1,True,10.0,20.5,24.7,60.0,False,1.1,105.653,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,30.0,2.0,HARD,11.0,True,1,True,9.0,20.5,24.8,60.0,False,0.9,105.465,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,31.0,2.0,HARD,12.0,True,1,True,9.0,20.4,24.7,60.0,False,1.6,105.36,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,32.0,2.0,HARD,13.0,True,1,True,9.0,20.4,24.9,60.0,False,1.9,105.498,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,33.0,2.0,HARD,14.0,True,1,True,9.0,20.5,24.8,61.0,False,1.4,105.61,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,34.0,2.0,HARD,15.0,True,1,True,9.0,20.5,24.9,61.0,False,0.9,105.343,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,35.0,2.0,HARD,16.0,True,1,True,9.0,20.4,24.9,60.0,False,1.4,105.28,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,36.0,2.0,HARD,17.0,True,1,True,9.0,20.4,25.2,60.0,False,1.9,105.438,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,37.0,2.0,HARD,18.0,True,1,True,8.0,20.4,25.2,60.0,False,2.0,104.704,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,38.0,2.0,HARD,19.0,True,1,True,7.0,20.4,24.8,60.0,False,2.4,105.177,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,39.0,2.0,HARD,20.0,True,1,True,7.0,20.5,24.9,60.0,False,0.9,106.567,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,40.0,2.0,HARD,21.0,True,1,True,8.0,20.5,25.0,60.0,False,2.2,105.426,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,41.0,2.0,HARD,22.0,True,1,True,8.0,20.5,24.9,60.0,False,2.1,106.161,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,42.0,2.0,HARD,23.0,True,1,True,8.0,20.5,24.9,60.0,False,1.0,105.0,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,43.0,2.0,HARD,24.0,True,1,True,9.0,20.5,25.0,60.0,False,1.3,106.73,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,44.0,2.0,HARD,25.0,True,1,True,9.0,20.5,24.5,60.0,False,1.2,104.8,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,45.0,2.0,HARD,26.0,True,1,True,9.0,20.5,24.8,60.0,False,1.3,104.631,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,46.0,2.0,HARD,27.0,True,1,True,9.0,20.5,24.8,59.0,False,1.3,104.732,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,47.0,2.0,HARD,28.0,True,1,True,9.0,20.5,24.6,59.0,False,1.4,104.726,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,48.0,2.0,HARD,29.0,True,1,True,9.0,20.5,24.6,59.0,False,2.2,104.453,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,49.0,2.0,HARD,30.0,True,1,True,9.0,20.5,24.5,59.0,False,2.1,104.722,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,50.0,2.0,HARD,31.0,True,1,True,9.0,20.4,24.5,60.0,False,1.5,104.274,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+LEC,Ferrari,51.0,2.0,HARD,32.0,True,1,True,9.0,20.4,24.5,60.0,False,0.5,104.676,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,1.0,1.0,MEDIUM,5.0,False,124,False,7.0,20.5,26.6,61.0,False,1.8,139.951,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,2.0,1.0,MEDIUM,6.0,False,4,False,7.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,3.0,1.0,MEDIUM,7.0,False,4,False,7.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,4.0,1.0,MEDIUM,8.0,False,41,False,6.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,5.0,1.0,MEDIUM,9.0,False,1,True,8.0,20.5,25.9,60.0,False,1.1,112.76,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,6.0,1.0,MEDIUM,10.0,False,1,True,9.0,20.5,26.1,60.0,False,1.2,108.841,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,7.0,1.0,MEDIUM,11.0,False,12,True,9.0,20.5,25.9,60.0,False,1.4,107.418,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,8.0,1.0,MEDIUM,12.0,False,1,True,10.0,20.5,25.9,60.0,False,1.7,108.335,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,9.0,1.0,MEDIUM,13.0,False,1,True,10.0,20.5,25.6,60.0,False,2.2,107.484,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,10.0,1.0,MEDIUM,14.0,False,1,True,10.0,20.5,25.5,60.0,False,1.3,106.948,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,11.0,1.0,MEDIUM,15.0,False,1,True,10.0,20.5,25.6,61.0,False,1.9,106.823,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,12.0,1.0,MEDIUM,16.0,False,1,True,10.0,20.5,25.6,60.0,False,2.2,107.212,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,13.0,1.0,MEDIUM,17.0,False,1,True,10.0,20.5,25.5,60.0,False,1.7,107.069,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,14.0,1.0,MEDIUM,18.0,False,1,True,10.0,20.5,25.4,60.0,False,1.5,107.173,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,15.0,1.0,MEDIUM,19.0,False,1,True,10.0,20.5,25.3,60.0,False,0.8,106.881,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,16.0,1.0,MEDIUM,20.0,False,1,True,10.0,20.5,25.2,60.0,False,2.2,106.858,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,17.0,1.0,MEDIUM,21.0,False,12,True,10.0,20.5,25.0,60.0,False,1.3,106.795,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,18.0,1.0,MEDIUM,22.0,False,12,True,10.0,20.5,25.0,60.0,False,1.1,106.748,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,19.0,1.0,MEDIUM,23.0,False,1,True,9.0,20.5,25.2,59.0,False,1.1,106.843,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,20.0,1.0,MEDIUM,24.0,False,1,True,8.0,20.5,25.1,60.0,False,0.6,106.312,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,21.0,1.0,MEDIUM,25.0,False,1,True,7.0,20.5,24.8,60.0,False,0.7,106.68,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,22.0,1.0,MEDIUM,26.0,False,1,True,7.0,20.5,25.3,60.0,False,1.6,106.556,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,23.0,1.0,MEDIUM,27.0,False,1,True,7.0,20.4,24.9,61.0,False,1.4,106.6,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,24.0,1.0,MEDIUM,28.0,False,1,True,7.0,20.5,25.0,60.0,False,1.5,106.42,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,25.0,1.0,MEDIUM,29.0,False,1,True,7.0,20.5,25.2,60.0,False,1.3,106.461,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,26.0,1.0,MEDIUM,30.0,False,1,True,7.0,20.4,25.2,60.0,False,1.1,106.36,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,27.0,1.0,MEDIUM,31.0,False,1,True,7.0,20.5,24.9,60.0,False,2.1,106.017,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,28.0,1.0,MEDIUM,32.0,False,1,True,7.0,20.5,24.9,60.0,False,1.5,106.639,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,29.0,1.0,MEDIUM,33.0,False,1,False,8.0,20.5,24.7,60.0,False,1.1,109.3,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,30.0,2.0,HARD,2.0,False,1,False,10.0,20.5,24.8,60.0,False,0.9,123.066,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,31.0,2.0,HARD,3.0,False,1,True,10.0,20.4,24.7,60.0,False,1.6,105.19,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,32.0,2.0,HARD,4.0,False,1,True,10.0,20.4,24.9,60.0,False,1.9,104.835,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,33.0,2.0,HARD,5.0,False,1,True,10.0,20.5,24.9,61.0,False,1.1,104.94,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,34.0,2.0,HARD,6.0,False,1,True,10.0,20.5,24.9,61.0,False,0.9,104.921,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,35.0,2.0,HARD,7.0,False,1,True,10.0,20.4,24.9,60.0,False,1.4,104.747,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,36.0,2.0,HARD,8.0,False,1,True,10.0,20.4,25.2,60.0,False,1.9,104.845,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,37.0,2.0,HARD,9.0,False,1,True,10.0,20.4,25.0,60.0,False,1.9,104.711,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,38.0,2.0,HARD,10.0,False,1,True,10.0,20.4,24.8,60.0,False,2.4,104.636,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,39.0,2.0,HARD,11.0,False,1,True,10.0,20.5,24.9,60.0,False,0.9,104.665,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,40.0,2.0,HARD,12.0,False,1,True,10.0,20.5,25.0,60.0,False,2.2,104.483,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,41.0,2.0,HARD,13.0,False,1,True,10.0,20.5,24.9,60.0,False,1.3,104.643,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,42.0,2.0,HARD,14.0,False,1,True,10.0,20.5,24.9,60.0,False,1.0,104.605,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,43.0,2.0,HARD,15.0,False,1,True,10.0,20.5,25.0,60.0,False,1.3,104.318,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,44.0,2.0,HARD,16.0,False,1,True,10.0,20.5,24.5,60.0,False,1.2,104.445,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,45.0,2.0,HARD,17.0,False,1,True,10.0,20.5,24.8,60.0,False,1.3,104.176,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,46.0,2.0,HARD,18.0,False,1,True,10.0,20.5,24.8,59.0,False,1.3,104.222,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,47.0,2.0,HARD,19.0,False,1,True,10.0,20.5,24.6,59.0,False,1.4,104.357,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,48.0,2.0,HARD,20.0,False,1,True,10.0,20.5,24.6,59.0,False,2.2,104.167,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,49.0,2.0,HARD,21.0,False,1,True,10.0,20.5,24.5,59.0,False,2.1,104.268,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,50.0,2.0,HARD,22.0,False,1,True,10.0,20.4,24.5,60.0,False,1.5,103.884,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HAD,Racing Bulls,51.0,2.0,HARD,23.0,False,1,True,10.0,20.4,24.5,60.0,False,0.5,104.246,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,1.0,1.0,HARD,1.0,True,124,False,12.0,20.5,26.6,61.0,False,1.8,146.219,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,2.0,1.0,HARD,2.0,True,4,False,12.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,3.0,1.0,HARD,3.0,True,4,False,12.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,4.0,1.0,HARD,4.0,True,41,False,12.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,5.0,1.0,HARD,5.0,True,1,True,12.0,20.5,25.9,60.0,False,1.1,112.842,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,6.0,1.0,HARD,6.0,True,1,True,12.0,20.5,26.1,60.0,False,1.2,109.672,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,7.0,1.0,HARD,7.0,True,12,True,11.0,20.5,25.9,60.0,False,1.4,108.081,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,8.0,1.0,HARD,8.0,True,1,True,11.0,20.5,25.9,60.0,False,1.7,107.444,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,9.0,1.0,HARD,9.0,True,1,True,11.0,20.5,25.6,60.0,False,2.2,107.272,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,10.0,1.0,HARD,10.0,True,1,True,11.0,20.5,25.5,60.0,False,1.3,106.951,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,11.0,1.0,HARD,11.0,True,1,True,11.0,20.5,25.6,61.0,False,1.9,106.924,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,12.0,1.0,HARD,12.0,True,1,True,11.0,20.5,25.6,60.0,False,2.2,107.242,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,13.0,1.0,HARD,13.0,True,1,True,11.0,20.5,25.5,60.0,False,1.7,106.912,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,14.0,1.0,HARD,14.0,True,1,True,11.0,20.5,25.4,60.0,False,1.5,106.953,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,15.0,1.0,HARD,15.0,True,1,True,11.0,20.5,25.3,60.0,False,0.8,106.962,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,16.0,1.0,HARD,16.0,True,1,True,11.0,20.5,25.2,60.0,False,2.2,107.079,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,17.0,1.0,HARD,17.0,True,12,True,11.0,20.5,25.0,60.0,False,1.3,106.862,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,18.0,1.0,HARD,18.0,True,12,True,11.0,20.5,25.0,60.0,False,1.1,106.512,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,19.0,1.0,HARD,19.0,True,1,True,10.0,20.5,25.2,59.0,False,1.1,107.021,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,20.0,1.0,HARD,20.0,True,1,True,9.0,20.5,25.1,60.0,False,0.6,106.515,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,21.0,1.0,HARD,21.0,True,1,True,8.0,20.5,24.8,60.0,False,0.7,106.912,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,22.0,1.0,HARD,22.0,True,1,True,8.0,20.5,25.3,60.0,False,1.6,106.791,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,23.0,1.0,HARD,23.0,True,1,True,8.0,20.4,24.9,61.0,False,1.4,106.801,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,24.0,1.0,HARD,24.0,True,1,True,8.0,20.5,25.0,60.0,False,1.5,106.684,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,25.0,1.0,HARD,25.0,True,1,True,9.0,20.5,25.2,60.0,False,1.3,106.777,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,26.0,1.0,HARD,26.0,True,1,False,11.0,20.4,25.2,60.0,False,1.1,110.598,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,27.0,2.0,MEDIUM,4.0,False,1,False,16.0,20.5,24.9,60.0,False,2.1,123.742,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,28.0,2.0,MEDIUM,5.0,False,1,True,15.0,20.5,24.8,60.0,False,1.8,106.975,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,29.0,2.0,MEDIUM,6.0,False,1,True,14.0,20.5,24.8,60.0,False,0.7,106.295,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,30.0,2.0,MEDIUM,7.0,False,1,True,14.0,20.5,24.8,60.0,False,0.9,105.726,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,31.0,2.0,MEDIUM,8.0,False,1,True,14.0,20.4,24.7,60.0,False,1.6,105.152,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,32.0,2.0,MEDIUM,9.0,False,1,True,14.0,20.4,24.9,60.0,False,1.9,105.536,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,33.0,2.0,MEDIUM,10.0,False,1,True,14.0,20.5,24.9,61.0,False,1.1,106.572,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,34.0,2.0,MEDIUM,11.0,False,1,True,13.0,20.5,24.9,61.0,False,0.9,106.729,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,35.0,2.0,MEDIUM,12.0,False,1,True,12.0,20.4,24.9,60.0,False,1.4,106.106,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,36.0,2.0,MEDIUM,13.0,False,1,True,12.0,20.4,25.2,60.0,False,1.9,105.719,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,37.0,2.0,MEDIUM,14.0,False,1,True,11.0,20.4,25.0,60.0,False,1.9,105.632,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,38.0,2.0,MEDIUM,15.0,False,1,True,11.0,20.5,24.9,60.0,False,1.5,105.959,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,39.0,2.0,MEDIUM,16.0,False,1,True,11.0,20.5,24.9,60.0,False,0.9,105.428,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,40.0,2.0,MEDIUM,17.0,False,1,True,11.0,20.5,25.0,60.0,False,2.2,105.173,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,41.0,2.0,MEDIUM,18.0,False,1,True,11.0,20.5,24.9,60.0,False,1.3,105.101,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,42.0,2.0,MEDIUM,19.0,False,1,True,11.0,20.5,25.0,60.0,False,1.3,105.139,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,43.0,2.0,MEDIUM,20.0,False,1,True,11.0,20.5,25.0,60.0,False,1.3,104.936,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,44.0,2.0,MEDIUM,21.0,False,1,True,11.0,20.5,24.5,60.0,False,1.2,105.238,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,45.0,2.0,MEDIUM,22.0,False,1,True,11.0,20.5,25.0,59.0,False,1.3,104.93,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,46.0,2.0,MEDIUM,23.0,False,1,True,11.0,20.5,24.6,59.0,False,0.8,105.123,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,47.0,2.0,MEDIUM,24.0,False,1,True,11.0,20.5,24.6,59.0,False,1.4,105.196,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,48.0,2.0,MEDIUM,25.0,False,1,True,12.0,20.5,24.6,59.0,False,2.2,107.845,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,49.0,2.0,MEDIUM,26.0,False,1,True,12.0,20.5,24.5,60.0,False,1.5,105.852,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,50.0,2.0,MEDIUM,27.0,False,1,True,12.0,20.4,24.5,60.0,False,2.1,105.509,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BOR,Kick Sauber,51.0,2.0,MEDIUM,28.0,False,1,True,12.0,20.4,24.5,60.0,False,0.5,105.38,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,1.0,1.0,HARD,1.0,True,124,False,15.0,20.5,26.6,61.0,False,1.8,149.915,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,2.0,1.0,HARD,2.0,True,4,False,15.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,3.0,1.0,HARD,3.0,True,4,False,15.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,4.0,1.0,HARD,4.0,True,41,False,15.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,5.0,1.0,HARD,5.0,True,1,True,17.0,20.5,25.9,60.0,False,1.1,114.909,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,6.0,1.0,HARD,6.0,True,1,True,17.0,20.5,26.1,60.0,False,1.2,109.686,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,7.0,1.0,HARD,7.0,True,12,True,17.0,20.5,25.9,60.0,False,1.4,108.421,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,8.0,1.0,HARD,8.0,True,1,True,17.0,20.5,25.9,60.0,False,1.7,108.835,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,9.0,1.0,HARD,9.0,True,1,True,17.0,20.5,25.6,60.0,False,2.2,107.74,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,10.0,1.0,HARD,10.0,True,1,True,17.0,20.5,25.7,61.0,False,1.4,107.143,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,11.0,1.0,HARD,11.0,True,1,True,17.0,20.5,25.6,61.0,False,1.9,108.219,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,12.0,1.0,HARD,12.0,True,1,True,17.0,20.5,25.6,60.0,False,2.2,107.878,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,13.0,1.0,HARD,13.0,True,1,True,16.0,20.5,25.5,60.0,False,1.7,107.29,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,14.0,1.0,HARD,14.0,True,1,True,16.0,20.5,25.4,60.0,False,1.5,107.481,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,15.0,1.0,HARD,15.0,True,1,True,16.0,20.5,25.3,60.0,False,0.8,108.445,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,16.0,1.0,HARD,16.0,True,1,True,15.0,20.5,25.2,60.0,False,2.2,108.143,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,17.0,1.0,HARD,17.0,True,12,True,15.0,20.5,25.0,60.0,False,1.3,107.071,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,18.0,1.0,HARD,18.0,True,12,True,15.0,20.5,25.0,60.0,False,1.1,107.264,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,19.0,1.0,HARD,19.0,True,1,True,15.0,20.5,25.2,59.0,False,1.8,107.525,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,20.0,1.0,HARD,20.0,True,1,True,15.0,20.5,25.1,60.0,False,0.6,107.316,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,21.0,1.0,HARD,21.0,True,1,True,15.0,20.5,24.8,60.0,False,0.7,106.977,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,22.0,1.0,HARD,22.0,True,1,True,14.0,20.5,25.3,60.0,False,1.6,107.107,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,23.0,1.0,HARD,23.0,True,1,True,14.0,20.4,24.9,61.0,False,1.4,107.18,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,24.0,1.0,HARD,24.0,True,1,True,14.0,20.5,25.2,61.0,False,2.1,107.045,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,25.0,1.0,HARD,25.0,True,1,True,14.0,20.5,25.2,60.0,False,1.3,107.138,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,26.0,1.0,HARD,26.0,True,1,True,14.0,20.4,25.2,60.0,False,1.1,107.454,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,27.0,1.0,HARD,27.0,True,1,True,13.0,20.5,24.9,60.0,False,2.1,106.944,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,28.0,1.0,HARD,28.0,True,1,False,14.0,20.5,24.8,60.0,False,1.8,110.592,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,29.0,2.0,MEDIUM,1.0,True,1,False,18.0,20.5,24.8,60.0,False,0.7,123.225,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,30.0,2.0,MEDIUM,2.0,True,1,True,18.0,20.4,24.7,60.0,False,1.2,104.654,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,31.0,2.0,MEDIUM,3.0,True,1,True,18.0,20.4,24.7,60.0,False,1.6,104.288,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,32.0,2.0,MEDIUM,4.0,True,1,True,18.0,20.4,24.9,60.0,False,1.9,104.834,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,33.0,2.0,MEDIUM,5.0,True,1,True,18.0,20.5,24.9,61.0,False,1.1,104.727,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,34.0,2.0,MEDIUM,6.0,True,1,True,18.0,20.4,24.9,60.0,False,1.4,105.222,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,35.0,2.0,MEDIUM,7.0,True,1,True,17.0,20.4,24.9,60.0,False,1.4,106.189,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,36.0,2.0,MEDIUM,8.0,True,1,True,16.0,20.4,25.2,60.0,False,1.9,105.663,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,37.0,2.0,MEDIUM,9.0,True,1,True,15.0,20.4,25.0,60.0,False,1.9,104.816,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,38.0,2.0,MEDIUM,10.0,True,1,True,14.0,20.5,24.9,60.0,False,1.5,104.808,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,39.0,2.0,MEDIUM,11.0,True,1,True,14.0,20.5,24.9,60.0,False,0.9,105.056,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,40.0,2.0,MEDIUM,12.0,True,1,True,14.0,20.5,25.0,60.0,False,2.2,105.121,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,41.0,2.0,MEDIUM,13.0,True,1,True,13.0,20.5,24.9,60.0,False,1.3,105.139,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,42.0,2.0,MEDIUM,14.0,True,1,True,13.0,20.5,25.0,60.0,False,1.3,105.065,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,43.0,2.0,MEDIUM,15.0,True,1,True,13.0,20.5,25.0,60.0,False,1.3,104.648,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,44.0,2.0,MEDIUM,16.0,True,1,True,13.0,20.5,24.5,60.0,False,1.2,104.612,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,45.0,2.0,MEDIUM,17.0,True,1,True,13.0,20.5,25.0,59.0,False,1.3,104.409,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,46.0,2.0,MEDIUM,18.0,True,1,True,13.0,20.5,24.6,59.0,False,0.8,104.642,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,47.0,2.0,MEDIUM,19.0,True,1,True,13.0,20.5,24.6,59.0,False,1.4,105.097,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,48.0,2.0,MEDIUM,20.0,True,1,True,13.0,20.5,24.6,59.0,False,2.2,105.479,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,49.0,2.0,MEDIUM,21.0,True,1,True,13.0,20.5,24.5,60.0,False,1.5,105.045,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,50.0,2.0,MEDIUM,22.0,True,1,True,13.0,20.4,24.5,60.0,False,2.1,105.154,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+BEA,Haas F1 Team,51.0,2.0,MEDIUM,23.0,True,1,True,13.0,20.4,24.5,60.0,False,0.5,104.877,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,1.0,1.0,MEDIUM,1.0,True,124,False,19.0,20.5,26.6,61.0,False,1.8,156.417,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,2.0,2.0,MEDIUM,1.0,True,4,False,18.0,20.6,26.5,60.0,False,2.0,,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,3.0,2.0,MEDIUM,2.0,True,4,False,18.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,4.0,2.0,MEDIUM,3.0,True,41,False,18.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,5.0,2.0,MEDIUM,4.0,True,1,True,18.0,20.5,25.9,60.0,False,1.1,114.475,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,6.0,2.0,MEDIUM,5.0,True,1,True,18.0,20.5,26.1,60.0,False,1.2,109.715,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,7.0,2.0,MEDIUM,6.0,True,12,True,18.0,20.5,25.9,60.0,False,1.4,109.081,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,8.0,2.0,MEDIUM,7.0,True,1,True,18.0,20.5,25.9,60.0,False,1.7,108.295,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,9.0,2.0,MEDIUM,8.0,True,1,True,18.0,20.5,25.6,60.0,False,2.2,107.98,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,10.0,2.0,MEDIUM,9.0,True,1,True,18.0,20.5,25.7,61.0,False,1.4,107.648,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,11.0,2.0,MEDIUM,10.0,True,1,True,18.0,20.5,25.6,61.0,False,1.9,107.833,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,12.0,2.0,MEDIUM,11.0,True,1,True,18.0,20.5,25.6,60.0,False,2.2,107.914,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,13.0,2.0,MEDIUM,12.0,True,1,True,18.0,20.5,25.5,60.0,False,1.7,108.058,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,14.0,2.0,MEDIUM,13.0,True,1,True,18.0,20.5,25.4,60.0,False,1.5,107.566,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,15.0,2.0,MEDIUM,14.0,True,1,False,19.0,20.5,25.3,60.0,False,1.3,110.919,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,16.0,3.0,HARD,1.0,True,1,False,19.0,20.5,25.2,60.0,False,2.2,122.989,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,17.0,3.0,HARD,2.0,True,12,True,18.0,20.5,25.0,60.0,False,1.3,108.449,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,18.0,3.0,HARD,3.0,True,12,True,18.0,20.5,25.0,60.0,False,1.1,106.205,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,19.0,3.0,HARD,4.0,True,1,True,18.0,20.5,25.2,59.0,False,1.8,105.861,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,20.0,3.0,HARD,5.0,True,1,True,18.0,20.5,24.8,60.0,False,2.4,105.586,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,21.0,3.0,HARD,6.0,True,1,True,18.0,20.5,25.3,60.0,False,0.8,105.372,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,22.0,3.0,HARD,7.0,True,1,True,17.0,20.5,25.3,60.0,False,1.6,107.589,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,23.0,3.0,HARD,8.0,True,1,True,17.0,20.4,24.9,61.0,False,1.4,105.8,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,24.0,3.0,HARD,9.0,True,1,True,17.0,20.5,25.2,61.0,False,2.1,105.51,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,25.0,3.0,HARD,10.0,True,1,True,17.0,20.4,25.2,60.0,False,0.9,105.422,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,26.0,3.0,HARD,11.0,True,1,True,17.0,20.4,25.2,60.0,False,1.1,105.412,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,27.0,3.0,HARD,12.0,True,1,True,17.0,20.5,24.9,60.0,False,2.1,105.885,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,28.0,3.0,HARD,13.0,True,1,True,17.0,20.5,24.8,60.0,False,1.8,106.263,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,29.0,3.0,HARD,14.0,True,1,True,15.0,20.5,24.8,60.0,False,0.7,107.472,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,30.0,3.0,HARD,15.0,True,1,True,15.0,20.5,24.8,60.0,False,0.9,105.865,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,31.0,3.0,HARD,16.0,True,1,True,15.0,20.4,24.7,60.0,False,1.6,105.255,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,32.0,3.0,HARD,17.0,True,1,True,15.0,20.4,24.9,60.0,False,1.9,105.205,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,33.0,3.0,HARD,18.0,True,1,True,15.0,20.5,24.9,61.0,False,1.1,105.523,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,34.0,3.0,HARD,19.0,True,1,True,15.0,20.5,24.9,61.0,False,0.9,106.756,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,35.0,3.0,HARD,20.0,True,1,True,14.0,20.4,24.9,60.0,False,1.4,106.426,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,36.0,3.0,HARD,21.0,True,1,True,13.0,20.4,25.2,60.0,False,1.9,106.019,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,37.0,3.0,HARD,22.0,True,1,True,12.0,20.4,25.0,60.0,False,1.9,105.724,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,38.0,3.0,HARD,23.0,True,1,True,12.0,20.5,24.9,60.0,False,1.5,105.049,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,39.0,3.0,HARD,24.0,True,1,True,12.0,20.5,24.9,60.0,False,0.9,105.264,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,40.0,3.0,HARD,25.0,True,1,True,12.0,20.5,25.0,60.0,False,2.2,105.559,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,41.0,3.0,HARD,26.0,True,1,True,12.0,20.5,24.9,60.0,False,1.3,105.05,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,42.0,3.0,HARD,27.0,True,1,True,12.0,20.5,25.0,60.0,False,1.3,105.036,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,43.0,3.0,HARD,28.0,True,1,True,12.0,20.5,25.0,60.0,False,1.3,105.098,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,44.0,3.0,HARD,29.0,True,1,True,12.0,20.5,24.5,60.0,False,1.2,105.133,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,45.0,3.0,HARD,30.0,True,1,True,12.0,20.5,25.0,59.0,False,1.3,104.758,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,46.0,3.0,HARD,31.0,True,1,True,12.0,20.5,24.6,59.0,False,0.8,105.222,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,47.0,3.0,HARD,32.0,True,1,True,12.0,20.5,24.6,59.0,False,1.4,105.173,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,48.0,3.0,HARD,33.0,True,1,True,11.0,20.5,24.6,59.0,False,2.2,105.714,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,49.0,3.0,HARD,34.0,True,1,True,11.0,20.5,24.5,60.0,False,1.5,104.6,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,50.0,3.0,HARD,35.0,True,1,True,11.0,20.4,24.5,60.0,False,2.1,104.602,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALB,Williams,51.0,3.0,HARD,36.0,True,1,True,11.0,20.4,24.5,60.0,False,0.5,104.152,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,1.0,1.0,HARD,1.0,True,124,False,18.0,20.5,26.6,61.0,False,1.8,152.985,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,2.0,2.0,MEDIUM,1.0,True,4,False,19.0,20.6,26.5,60.0,False,2.0,,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,3.0,3.0,HARD,2.0,False,4,False,19.0,20.6,26.3,60.0,False,2.0,,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,4.0,3.0,HARD,3.0,False,41,False,19.0,20.5,25.9,60.0,False,1.5,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,5.0,3.0,HARD,4.0,False,1,True,19.0,20.5,25.9,60.0,False,1.1,114.816,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,6.0,3.0,HARD,5.0,False,1,True,19.0,20.5,26.1,60.0,False,1.2,110.134,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,7.0,3.0,HARD,6.0,False,12,True,19.0,20.5,25.9,60.0,False,1.4,108.816,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,8.0,3.0,HARD,7.0,False,1,True,19.0,20.5,25.9,60.0,False,1.7,108.359,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,9.0,3.0,HARD,8.0,False,1,True,19.0,20.5,25.6,60.0,False,2.2,107.861,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,10.0,3.0,HARD,9.0,False,1,True,19.0,20.5,25.7,61.0,False,1.4,107.561,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,11.0,3.0,HARD,10.0,False,1,True,19.0,20.5,25.6,61.0,False,1.9,107.872,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,12.0,3.0,HARD,11.0,False,1,True,19.0,20.5,25.6,60.0,False,2.2,107.967,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,13.0,3.0,HARD,12.0,False,1,True,19.0,20.5,25.5,60.0,False,1.7,108.07,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,14.0,3.0,HARD,13.0,False,1,True,19.0,20.5,25.4,60.0,False,1.5,107.703,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,15.0,3.0,HARD,14.0,False,1,True,18.0,20.5,25.3,60.0,False,1.3,108.103,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,16.0,3.0,HARD,15.0,False,1,True,17.0,20.5,25.2,60.0,False,2.2,107.884,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,17.0,3.0,HARD,16.0,False,12,True,16.0,20.5,25.0,60.0,False,1.3,107.034,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,18.0,3.0,HARD,17.0,False,12,True,16.0,20.5,25.0,60.0,False,1.1,107.171,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,19.0,3.0,HARD,18.0,False,1,True,16.0,20.5,25.2,59.0,False,1.8,107.443,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,20.0,3.0,HARD,19.0,False,1,True,16.0,20.5,24.8,60.0,False,2.4,107.014,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,21.0,3.0,HARD,20.0,False,1,True,16.0,20.5,24.8,60.0,False,0.7,107.044,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,22.0,3.0,HARD,21.0,False,1,True,15.0,20.5,25.3,60.0,False,1.6,106.88,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,23.0,3.0,HARD,22.0,False,1,True,15.0,20.4,24.9,61.0,False,1.4,107.07,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,24.0,3.0,HARD,23.0,False,1,True,15.0,20.5,25.2,61.0,False,2.1,107.083,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,25.0,3.0,HARD,24.0,False,1,True,15.0,20.5,25.2,60.0,False,1.3,107.126,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,26.0,3.0,HARD,25.0,False,1,True,15.0,20.4,25.2,60.0,False,1.1,107.408,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,27.0,3.0,HARD,26.0,False,1,True,14.0,20.5,24.9,60.0,False,2.1,106.807,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,28.0,3.0,HARD,27.0,False,1,True,13.0,20.5,24.8,60.0,False,1.8,107.203,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,29.0,3.0,HARD,28.0,False,1,True,13.0,20.5,24.8,60.0,False,0.7,107.195,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,30.0,3.0,HARD,29.0,False,1,True,13.0,20.5,24.8,60.0,False,0.9,106.998,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,31.0,3.0,HARD,30.0,False,1,True,13.0,20.4,24.7,60.0,False,1.6,106.554,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,32.0,3.0,HARD,31.0,False,1,True,13.0,20.4,24.9,60.0,False,1.9,105.796,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,33.0,3.0,HARD,32.0,False,1,True,13.0,20.5,24.9,61.0,False,1.1,106.615,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,34.0,3.0,HARD,33.0,False,1,True,14.0,20.5,24.9,61.0,False,0.9,107.8,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,35.0,3.0,HARD,34.0,False,1,True,15.0,20.4,24.9,60.0,False,1.4,108.004,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,36.0,3.0,HARD,35.0,False,1,True,14.0,20.4,25.2,60.0,False,1.9,107.035,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,37.0,3.0,HARD,36.0,False,1,True,13.0,20.4,25.0,60.0,False,1.9,106.21,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,38.0,3.0,HARD,37.0,False,1,True,13.0,20.5,24.9,60.0,False,1.5,105.912,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,39.0,3.0,HARD,38.0,False,1,True,13.0,20.5,24.9,60.0,False,0.9,105.588,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,40.0,3.0,HARD,39.0,False,1,True,13.0,20.5,25.0,60.0,False,2.2,106.567,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,41.0,3.0,HARD,40.0,False,1,True,14.0,20.5,24.9,60.0,False,1.3,107.09,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,42.0,3.0,HARD,41.0,False,1,True,14.0,20.5,25.0,60.0,False,1.3,105.892,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,43.0,3.0,HARD,42.0,False,1,True,14.0,20.5,25.0,60.0,False,1.3,106.044,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,44.0,3.0,HARD,43.0,False,1,True,14.0,20.5,24.5,60.0,False,1.2,105.919,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,45.0,3.0,HARD,44.0,False,1,True,14.0,20.5,25.0,59.0,False,1.3,105.819,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,46.0,3.0,HARD,45.0,False,1,True,14.0,20.5,24.6,59.0,False,0.8,105.642,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,47.0,3.0,HARD,46.0,False,1,True,14.0,20.5,24.6,59.0,False,2.2,105.568,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,48.0,3.0,HARD,47.0,False,1,True,14.0,20.5,24.6,59.0,False,2.2,105.538,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,49.0,3.0,HARD,48.0,False,1,True,14.0,20.5,24.5,60.0,False,1.5,105.585,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,50.0,3.0,HARD,49.0,False,1,True,14.0,20.4,24.5,60.0,False,2.1,105.388,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+OCO,Haas F1 Team,51.0,3.0,HARD,50.0,False,1,True,14.0,20.4,24.1,60.0,False,1.7,105.563,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,1.0,1.0,MEDIUM,4.0,False,124,False,11.0,20.5,26.6,61.0,False,1.8,145.739,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,2.0,1.0,MEDIUM,5.0,False,4,False,11.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,3.0,1.0,MEDIUM,6.0,False,4,False,11.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,4.0,1.0,MEDIUM,7.0,False,41,False,11.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,5.0,1.0,MEDIUM,8.0,False,1,True,11.0,20.5,25.9,60.0,False,1.1,112.395,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,6.0,1.0,MEDIUM,9.0,False,1,True,11.0,20.5,26.1,60.0,False,1.2,109.79,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,7.0,1.0,MEDIUM,10.0,False,12,True,12.0,20.5,25.9,60.0,False,1.4,108.701,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,8.0,1.0,MEDIUM,11.0,False,1,True,12.0,20.5,25.9,60.0,False,1.7,107.998,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,9.0,1.0,MEDIUM,12.0,False,1,True,12.0,20.5,25.6,60.0,False,2.2,107.486,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,10.0,1.0,MEDIUM,13.0,False,1,True,12.0,20.5,25.5,60.0,False,1.3,107.055,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,11.0,1.0,MEDIUM,14.0,False,1,True,12.0,20.5,25.6,61.0,False,1.9,106.621,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,12.0,1.0,MEDIUM,15.0,False,1,True,12.0,20.5,25.6,60.0,False,2.2,107.264,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,13.0,1.0,MEDIUM,16.0,False,1,True,12.0,20.5,25.5,60.0,False,1.7,107.172,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,14.0,1.0,MEDIUM,17.0,False,1,True,12.0,20.5,25.4,60.0,False,1.5,107.035,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,15.0,1.0,MEDIUM,18.0,False,1,True,12.0,20.5,25.3,60.0,False,0.8,107.085,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,16.0,1.0,MEDIUM,19.0,False,1,True,12.0,20.5,25.2,60.0,False,2.2,107.432,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,17.0,1.0,MEDIUM,20.0,False,12,True,12.0,20.5,25.0,60.0,False,1.3,106.803,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,18.0,1.0,MEDIUM,21.0,False,12,True,12.0,20.5,25.0,60.0,False,1.1,106.794,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,19.0,1.0,MEDIUM,22.0,False,1,True,11.0,20.5,25.2,59.0,False,1.8,107.05,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,20.0,1.0,MEDIUM,23.0,False,1,True,10.0,20.5,25.1,60.0,False,0.6,106.642,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,21.0,1.0,MEDIUM,24.0,False,1,False,11.0,20.5,24.8,60.0,False,0.7,110.767,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,22.0,2.0,HARD,1.0,True,1,False,18.0,20.5,25.3,60.0,False,1.6,129.319,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,23.0,2.0,HARD,2.0,True,1,True,18.0,20.4,24.9,61.0,False,1.4,107.018,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,24.0,2.0,HARD,3.0,True,1,True,18.0,20.5,25.2,61.0,False,2.1,106.8,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,25.0,2.0,HARD,4.0,True,1,True,18.0,20.4,25.2,60.0,False,0.9,106.308,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,26.0,2.0,HARD,5.0,True,1,True,18.0,20.4,25.2,60.0,False,1.1,106.321,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,27.0,2.0,HARD,6.0,True,1,True,18.0,20.5,24.9,60.0,False,2.1,106.455,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,28.0,2.0,HARD,7.0,True,1,True,18.0,20.5,24.8,60.0,False,1.8,106.583,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,29.0,2.0,HARD,8.0,True,1,True,17.0,20.5,24.8,60.0,False,0.7,106.428,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,30.0,2.0,HARD,9.0,True,1,True,17.0,20.4,24.7,60.0,False,1.2,106.571,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,31.0,2.0,HARD,10.0,True,1,True,17.0,20.4,24.7,60.0,False,1.6,106.416,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,32.0,2.0,HARD,11.0,True,1,True,17.0,20.4,24.9,60.0,False,1.9,105.894,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,33.0,2.0,HARD,12.0,True,1,True,17.0,20.5,24.9,61.0,False,1.1,105.823,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,34.0,2.0,HARD,13.0,True,1,True,17.0,20.4,24.9,60.0,False,1.4,106.487,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,35.0,2.0,HARD,14.0,True,1,True,16.0,20.4,24.9,60.0,False,1.4,107.156,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,36.0,2.0,HARD,15.0,True,1,True,17.0,20.4,25.2,60.0,False,1.9,106.062,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,37.0,2.0,HARD,16.0,True,1,True,16.0,20.4,25.0,60.0,False,1.9,106.558,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,38.0,2.0,HARD,17.0,True,1,True,15.0,20.5,24.9,60.0,False,1.5,105.823,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,39.0,2.0,HARD,18.0,True,1,True,15.0,20.5,24.9,60.0,False,0.9,105.487,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,40.0,2.0,HARD,19.0,True,1,True,15.0,20.5,25.0,60.0,False,2.2,105.423,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,41.0,2.0,HARD,20.0,True,1,True,15.0,20.5,24.9,60.0,False,1.3,105.408,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,42.0,2.0,HARD,21.0,True,1,True,15.0,20.5,25.0,60.0,False,1.3,105.898,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,43.0,2.0,HARD,22.0,True,1,True,15.0,20.5,25.0,60.0,False,1.3,105.655,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,44.0,2.0,HARD,23.0,True,1,True,15.0,20.5,24.5,60.0,False,1.2,106.013,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,45.0,2.0,HARD,24.0,True,1,True,15.0,20.5,25.0,59.0,False,1.3,105.32,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,46.0,2.0,HARD,25.0,True,1,True,15.0,20.5,24.6,59.0,False,0.8,105.402,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,47.0,2.0,HARD,26.0,True,1,True,15.0,20.5,24.6,59.0,False,2.2,105.435,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,48.0,2.0,HARD,27.0,True,1,True,15.0,20.5,24.6,59.0,False,2.2,106.346,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,49.0,2.0,HARD,28.0,True,1,True,15.0,20.5,24.5,60.0,False,1.5,105.49,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,50.0,2.0,HARD,29.0,True,1,True,15.0,20.4,24.5,60.0,False,2.1,105.002,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+ALO,Aston Martin,51.0,2.0,HARD,30.0,True,1,True,15.0,20.4,24.1,60.0,False,1.7,105.096,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,1.0,1.0,HARD,1.0,True,124,False,17.0,20.5,26.6,61.0,False,1.8,152.918,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,2.0,1.0,HARD,2.0,True,4,False,17.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,3.0,1.0,HARD,3.0,True,4,False,17.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,4.0,1.0,HARD,4.0,True,41,False,17.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,5.0,1.0,HARD,5.0,True,1,True,15.0,20.5,25.9,60.0,False,1.1,113.352,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,6.0,1.0,HARD,6.0,True,1,True,15.0,20.5,26.1,60.0,False,1.2,109.631,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,7.0,1.0,HARD,7.0,True,12,True,15.0,20.5,25.9,60.0,False,1.4,108.669,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,8.0,1.0,HARD,8.0,True,1,True,15.0,20.5,25.9,60.0,False,1.7,108.391,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,9.0,1.0,HARD,9.0,True,1,True,15.0,20.5,25.6,60.0,False,2.2,107.795,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,10.0,1.0,HARD,10.0,True,1,True,15.0,20.5,25.7,61.0,False,1.4,107.233,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,11.0,1.0,HARD,11.0,True,1,True,15.0,20.5,25.6,61.0,False,1.9,108.288,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,12.0,1.0,HARD,12.0,True,1,True,15.0,20.5,25.6,60.0,False,2.2,107.531,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,13.0,1.0,HARD,13.0,True,1,True,15.0,20.5,25.5,60.0,False,1.7,107.904,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,14.0,1.0,HARD,14.0,True,1,True,15.0,20.5,25.4,60.0,False,1.5,107.596,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,15.0,1.0,HARD,15.0,True,1,True,15.0,20.5,25.3,60.0,False,0.8,108.394,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,16.0,1.0,HARD,16.0,True,1,True,14.0,20.5,25.2,60.0,False,2.2,108.212,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,17.0,1.0,HARD,17.0,True,12,True,14.0,20.5,25.0,60.0,False,1.3,106.998,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,18.0,1.0,HARD,18.0,True,12,True,14.0,20.5,25.0,60.0,False,1.1,107.347,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,19.0,1.0,HARD,19.0,True,1,True,14.0,20.5,25.2,59.0,False,1.8,107.351,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,20.0,1.0,HARD,20.0,True,1,True,14.0,20.5,25.1,60.0,False,0.6,107.415,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,21.0,1.0,HARD,21.0,True,1,True,14.0,20.5,24.8,60.0,False,0.7,106.965,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,22.0,1.0,HARD,22.0,True,1,True,13.0,20.5,25.3,60.0,False,1.6,107.208,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,23.0,1.0,HARD,23.0,True,1,True,13.0,20.4,24.9,61.0,False,1.4,107.218,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,24.0,1.0,HARD,24.0,True,1,True,13.0,20.5,25.2,61.0,False,2.1,107.082,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,25.0,1.0,HARD,25.0,True,1,True,13.0,20.5,25.2,60.0,False,1.3,106.801,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,26.0,1.0,HARD,26.0,True,1,True,13.0,20.4,25.2,60.0,False,1.1,107.703,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,27.0,1.0,HARD,27.0,True,1,True,12.0,20.5,24.9,60.0,False,2.1,106.777,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,28.0,1.0,HARD,28.0,True,1,True,12.0,20.5,24.8,60.0,False,1.8,107.087,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,29.0,1.0,HARD,29.0,True,1,True,12.0,20.5,24.8,60.0,False,0.7,106.891,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,30.0,1.0,HARD,30.0,True,1,True,12.0,20.5,24.8,60.0,False,0.9,107.284,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,31.0,1.0,HARD,31.0,True,1,True,12.0,20.4,24.7,60.0,False,1.6,106.943,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,32.0,1.0,HARD,32.0,True,1,True,12.0,20.4,24.9,60.0,False,1.9,106.598,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,33.0,1.0,HARD,33.0,True,1,True,12.0,20.5,24.9,61.0,False,1.1,106.173,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,34.0,1.0,HARD,34.0,True,1,True,12.0,20.5,24.9,61.0,False,0.9,108.113,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,35.0,1.0,HARD,35.0,True,1,True,13.0,20.4,24.9,60.0,False,1.4,107.369,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,36.0,1.0,HARD,36.0,True,1,False,15.0,20.4,25.2,60.0,False,1.9,111.613,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,37.0,2.0,MEDIUM,1.0,True,1,False,17.0,20.4,25.0,60.0,False,1.9,121.439,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,38.0,2.0,MEDIUM,2.0,True,1,True,16.0,20.5,24.9,60.0,False,1.5,105.312,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,39.0,2.0,MEDIUM,3.0,True,1,True,16.0,20.5,24.9,60.0,False,1.3,104.69,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,40.0,2.0,MEDIUM,4.0,True,1,True,16.0,20.5,25.0,60.0,False,2.2,104.723,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,41.0,2.0,MEDIUM,5.0,True,1,True,16.0,20.5,24.9,60.0,False,1.3,104.572,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,42.0,2.0,MEDIUM,6.0,True,1,True,16.0,20.5,25.0,60.0,False,1.3,105.049,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,43.0,2.0,MEDIUM,7.0,True,1,True,16.0,20.4,24.5,60.0,False,1.2,104.478,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,44.0,2.0,MEDIUM,8.0,True,1,True,16.0,20.5,24.5,60.0,False,1.2,104.962,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,45.0,2.0,MEDIUM,9.0,True,1,True,16.0,20.5,25.0,59.0,False,1.3,104.465,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,46.0,2.0,MEDIUM,10.0,True,1,True,16.0,20.5,24.6,59.0,False,0.8,104.647,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,47.0,2.0,MEDIUM,11.0,True,1,True,16.0,20.5,24.6,59.0,False,2.2,104.37,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,48.0,2.0,MEDIUM,12.0,True,1,True,16.0,20.5,24.6,59.0,False,2.2,105.474,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,49.0,2.0,MEDIUM,13.0,True,1,True,16.0,20.5,24.5,60.0,False,1.5,104.741,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,50.0,2.0,MEDIUM,14.0,True,1,True,16.0,20.4,24.5,60.0,False,2.1,104.582,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+HUL,Kick Sauber,51.0,2.0,MEDIUM,15.0,True,1,True,16.0,20.4,24.1,60.0,False,1.7,104.529,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,1.0,1.0,MEDIUM,4.0,False,124,False,13.0,20.5,26.6,61.0,False,1.8,147.285,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,2.0,1.0,MEDIUM,5.0,False,4,False,13.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,3.0,1.0,MEDIUM,6.0,False,4,False,13.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,4.0,1.0,MEDIUM,7.0,False,41,False,13.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,5.0,1.0,MEDIUM,8.0,False,1,True,14.0,20.5,25.9,60.0,False,1.1,113.262,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,6.0,1.0,MEDIUM,9.0,False,1,True,14.0,20.5,26.1,60.0,False,1.2,109.869,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,7.0,1.0,MEDIUM,10.0,False,12,True,14.0,20.5,25.9,60.0,False,1.4,108.75,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,8.0,1.0,MEDIUM,11.0,False,1,True,14.0,20.5,25.9,60.0,False,1.7,108.164,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,9.0,1.0,MEDIUM,12.0,False,1,True,14.0,20.5,25.6,60.0,False,2.2,107.62,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,10.0,1.0,MEDIUM,13.0,False,1,True,14.0,20.5,25.5,60.0,False,1.3,107.877,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,11.0,1.0,MEDIUM,14.0,False,1,True,14.0,20.5,25.6,61.0,False,1.9,107.579,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,12.0,1.0,MEDIUM,15.0,False,1,True,14.0,20.5,25.6,60.0,False,2.2,107.931,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,13.0,1.0,MEDIUM,16.0,False,1,True,14.0,20.5,25.5,60.0,False,1.7,107.941,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,14.0,1.0,MEDIUM,17.0,False,1,True,14.0,20.5,25.4,60.0,False,1.5,107.495,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,15.0,1.0,MEDIUM,18.0,False,1,True,14.0,20.5,25.3,60.0,False,0.8,108.587,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,16.0,1.0,MEDIUM,19.0,False,1,True,13.0,20.5,25.2,60.0,False,2.2,107.993,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,17.0,1.0,MEDIUM,20.0,False,12,True,13.0,20.5,25.0,60.0,False,1.3,107.343,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,18.0,1.0,MEDIUM,21.0,False,12,True,13.0,20.5,25.0,60.0,False,1.1,107.197,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,19.0,1.0,MEDIUM,22.0,False,1,True,13.0,20.5,25.2,59.0,False,1.8,107.334,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,20.0,1.0,MEDIUM,23.0,False,1,True,13.0,20.5,25.1,60.0,False,0.6,107.271,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,21.0,1.0,MEDIUM,24.0,False,1,True,13.0,20.5,24.8,60.0,False,0.7,106.947,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,22.0,1.0,MEDIUM,25.0,False,1,True,12.0,20.5,25.3,60.0,False,1.6,107.394,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,23.0,1.0,MEDIUM,26.0,False,1,True,12.0,20.4,24.9,61.0,False,1.4,107.235,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,24.0,1.0,MEDIUM,27.0,False,1,True,12.0,20.5,25.2,61.0,False,2.1,107.093,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,25.0,1.0,MEDIUM,28.0,False,1,True,12.0,20.5,25.2,60.0,False,1.3,107.061,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,26.0,1.0,MEDIUM,29.0,False,1,True,12.0,20.4,25.2,60.0,False,1.1,107.259,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,27.0,1.0,MEDIUM,30.0,False,1,True,11.0,20.5,24.9,60.0,False,2.1,106.821,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,28.0,1.0,MEDIUM,31.0,False,1,True,11.0,20.5,24.8,60.0,False,1.8,107.102,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,29.0,1.0,MEDIUM,32.0,False,1,True,11.0,20.5,24.8,60.0,False,0.7,107.036,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,30.0,1.0,MEDIUM,33.0,False,1,True,11.0,20.5,24.8,60.0,False,0.9,107.258,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,31.0,1.0,MEDIUM,34.0,False,1,True,11.0,20.4,24.7,60.0,False,1.6,106.909,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,32.0,1.0,MEDIUM,35.0,False,1,True,11.0,20.4,24.9,60.0,False,1.9,106.634,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,33.0,1.0,MEDIUM,36.0,False,1,True,11.0,20.5,24.9,61.0,False,1.1,106.442,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,34.0,1.0,MEDIUM,37.0,False,1,True,11.0,20.5,24.9,61.0,False,0.9,106.755,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,35.0,1.0,MEDIUM,38.0,False,1,True,11.0,20.4,24.9,60.0,False,1.4,106.75,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,36.0,1.0,MEDIUM,39.0,False,1,True,11.0,20.4,25.2,60.0,False,1.9,106.668,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,37.0,1.0,MEDIUM,40.0,False,1,False,14.0,20.4,25.0,60.0,False,1.9,110.968,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,38.0,2.0,HARD,1.0,True,1,False,17.0,20.5,24.9,60.0,False,1.5,125.487,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,39.0,2.0,HARD,2.0,True,1,True,17.0,20.5,24.9,60.0,False,1.3,105.555,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,40.0,2.0,HARD,3.0,True,1,True,17.0,20.5,25.0,60.0,False,2.2,105.745,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,41.0,2.0,HARD,4.0,True,1,True,17.0,20.5,24.9,60.0,False,1.3,105.798,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,42.0,2.0,HARD,5.0,True,1,True,17.0,20.5,25.0,60.0,False,1.3,105.789,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,43.0,2.0,HARD,6.0,True,1,True,17.0,20.4,24.5,60.0,False,1.2,105.623,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,44.0,2.0,HARD,7.0,True,1,True,17.0,20.5,24.8,60.0,False,1.3,105.651,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,45.0,2.0,HARD,8.0,True,1,True,17.0,20.5,25.0,59.0,False,1.3,105.356,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,46.0,2.0,HARD,9.0,True,1,True,17.0,20.5,24.6,59.0,False,0.8,105.453,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,47.0,2.0,HARD,10.0,True,1,True,17.0,20.5,24.6,59.0,False,2.2,105.394,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,48.0,2.0,HARD,11.0,True,1,True,17.0,20.5,24.5,59.0,False,2.1,105.5,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,49.0,2.0,HARD,12.0,True,1,True,17.0,20.5,24.5,60.0,False,1.5,105.676,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,50.0,2.0,HARD,13.0,True,1,True,17.0,20.4,24.5,60.0,False,2.1,105.083,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+STR,Aston Martin,51.0,2.0,HARD,14.0,True,1,True,17.0,20.4,24.1,60.0,False,1.7,108.204,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,1.0,1.0,HARD,1.0,True,124,False,16.0,20.5,26.6,61.0,False,1.8,151.813,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,2.0,1.0,HARD,2.0,True,4,False,16.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,3.0,1.0,HARD,3.0,True,4,False,16.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,4.0,1.0,HARD,4.0,True,41,False,16.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,5.0,1.0,HARD,5.0,True,1,True,16.0,20.5,25.9,60.0,False,1.1,114.315,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,6.0,1.0,HARD,6.0,True,1,True,16.0,20.5,26.1,60.0,False,1.2,109.686,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,7.0,1.0,HARD,7.0,True,12,True,16.0,20.5,25.9,60.0,False,1.4,108.84,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,8.0,1.0,HARD,8.0,True,1,True,16.0,20.5,25.9,60.0,False,1.7,108.481,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,9.0,1.0,HARD,9.0,True,1,True,16.0,20.5,25.6,60.0,False,2.2,107.775,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,10.0,1.0,HARD,10.0,True,1,True,16.0,20.5,25.7,61.0,False,1.4,107.381,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,11.0,1.0,HARD,11.0,True,1,True,16.0,20.5,25.6,61.0,False,1.9,107.995,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,12.0,1.0,HARD,12.0,True,1,True,16.0,20.5,25.6,60.0,False,2.2,108.068,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,13.0,1.0,HARD,13.0,True,1,True,17.0,20.5,25.5,60.0,False,1.7,108.746,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,14.0,1.0,HARD,14.0,True,1,True,17.0,20.5,25.4,60.0,False,1.5,107.832,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,15.0,1.0,HARD,15.0,True,1,True,17.0,20.5,25.3,60.0,False,1.3,108.928,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,16.0,1.0,HARD,16.0,True,1,True,18.0,20.5,25.2,60.0,False,2.2,109.255,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,17.0,1.0,HARD,17.0,True,12,True,17.0,20.5,25.0,60.0,False,1.3,107.848,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,18.0,1.0,HARD,18.0,True,12,True,17.0,20.5,25.0,60.0,False,1.1,107.536,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,19.0,1.0,HARD,19.0,True,1,True,17.0,20.5,25.2,59.0,False,1.8,107.698,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,20.0,1.0,HARD,20.0,True,1,True,17.0,20.5,24.8,60.0,False,2.4,107.26,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,21.0,1.0,HARD,21.0,True,1,True,17.0,20.5,24.8,60.0,False,0.7,107.497,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,22.0,1.0,HARD,22.0,True,1,True,16.0,20.5,25.3,60.0,False,1.6,107.505,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,23.0,1.0,HARD,23.0,True,1,True,16.0,20.4,24.9,61.0,False,1.4,107.096,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,24.0,1.0,HARD,24.0,True,1,True,16.0,20.5,25.2,61.0,False,2.1,107.211,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,25.0,1.0,HARD,25.0,True,1,True,16.0,20.5,25.2,60.0,False,1.3,106.99,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,26.0,1.0,HARD,26.0,True,1,True,16.0,20.4,25.2,60.0,False,1.1,106.938,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,27.0,1.0,HARD,27.0,True,1,True,15.0,20.5,24.9,60.0,False,2.1,107.281,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,28.0,1.0,HARD,28.0,True,1,True,16.0,20.5,24.8,60.0,False,1.8,107.541,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,29.0,1.0,HARD,29.0,True,1,True,16.0,20.5,24.8,60.0,False,0.7,108.239,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,30.0,1.0,HARD,30.0,True,1,True,16.0,20.5,24.8,60.0,False,0.9,107.758,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,31.0,1.0,HARD,31.0,True,1,True,16.0,20.4,24.7,60.0,False,1.6,107.129,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,32.0,1.0,HARD,32.0,True,1,True,16.0,20.4,24.9,60.0,False,1.9,106.841,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,33.0,1.0,HARD,33.0,True,1,True,16.0,20.5,24.9,61.0,False,1.1,106.719,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,34.0,1.0,HARD,34.0,True,1,True,16.0,20.4,24.9,60.0,False,1.4,106.716,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,35.0,1.0,HARD,35.0,True,1,False,18.0,20.4,24.9,60.0,False,1.4,110.71,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,36.0,2.0,MEDIUM,1.0,True,1,False,19.0,20.4,25.2,60.0,False,1.9,124.665,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,37.0,2.0,MEDIUM,2.0,True,1,True,19.0,20.4,25.0,60.0,False,1.9,105.492,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,38.0,2.0,MEDIUM,3.0,True,1,True,19.0,20.5,24.9,60.0,False,1.5,105.636,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,39.0,2.0,MEDIUM,4.0,True,1,True,19.0,20.5,24.9,60.0,False,1.3,105.791,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,40.0,2.0,MEDIUM,5.0,True,1,True,19.0,20.5,24.9,60.0,False,2.1,105.714,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,41.0,2.0,MEDIUM,6.0,True,1,True,19.0,20.5,24.9,60.0,False,1.3,106.908,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,42.0,2.0,MEDIUM,7.0,True,1,True,19.0,20.5,25.0,60.0,False,1.3,106.49,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,43.0,2.0,MEDIUM,8.0,True,1,True,19.0,20.4,24.5,60.0,False,1.2,106.25,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,44.0,2.0,MEDIUM,9.0,True,1,True,19.0,20.5,24.8,60.0,False,1.3,106.973,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,45.0,2.0,MEDIUM,10.0,True,1,True,19.0,20.5,25.0,59.0,False,1.3,106.574,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,46.0,2.0,MEDIUM,11.0,True,1,True,19.0,20.5,24.6,59.0,False,0.8,106.106,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,47.0,2.0,MEDIUM,12.0,True,1,True,19.0,20.5,24.6,59.0,False,2.2,106.337,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,48.0,2.0,MEDIUM,13.0,True,1,True,18.0,20.5,24.5,59.0,False,2.1,108.051,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,49.0,2.0,MEDIUM,14.0,True,1,True,18.0,20.4,24.5,60.0,False,1.5,105.623,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+GAS,Alpine,50.0,2.0,MEDIUM,15.0,True,1,True,18.0,20.4,24.5,60.0,False,2.1,105.628,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,1.0,1.0,MEDIUM,1.0,True,124,False,14.0,20.5,26.6,61.0,False,1.8,148.905,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,2.0,1.0,MEDIUM,2.0,True,4,False,14.0,20.6,26.5,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,3.0,1.0,MEDIUM,3.0,True,4,False,14.0,20.6,26.3,60.0,False,2.0,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,4.0,1.0,MEDIUM,4.0,True,41,False,14.0,20.5,25.9,60.0,False,2.1,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,5.0,1.0,MEDIUM,5.0,True,1,True,13.0,20.5,25.9,60.0,False,1.1,112.759,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,6.0,1.0,MEDIUM,6.0,True,1,True,13.0,20.5,26.1,60.0,False,1.2,109.535,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,7.0,1.0,MEDIUM,7.0,True,12,True,13.0,20.5,25.9,60.0,False,1.4,108.843,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,8.0,1.0,MEDIUM,8.0,True,1,True,13.0,20.5,25.9,60.0,False,1.7,107.671,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,9.0,1.0,MEDIUM,9.0,True,1,True,13.0,20.5,25.6,60.0,False,2.2,107.998,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,10.0,1.0,MEDIUM,10.0,True,1,True,13.0,20.5,25.5,60.0,False,1.3,107.94,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,11.0,1.0,MEDIUM,11.0,True,1,True,13.0,20.5,25.6,61.0,False,1.9,107.73,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,12.0,1.0,MEDIUM,12.0,True,1,True,13.0,20.5,25.6,60.0,False,2.2,108.13,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,13.0,1.0,MEDIUM,13.0,True,1,True,13.0,20.5,25.5,60.0,False,1.7,107.873,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,14.0,1.0,MEDIUM,14.0,True,1,True,13.0,20.5,25.4,60.0,False,1.5,107.606,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,15.0,1.0,MEDIUM,15.0,True,1,True,13.0,20.5,25.3,60.0,False,0.8,108.678,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,16.0,1.0,MEDIUM,16.0,True,1,False,16.0,20.5,25.2,60.0,False,2.2,110.98,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,17.0,2.0,HARD,1.0,True,12,False,19.0,20.5,25.0,60.0,False,1.3,136.628,True,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,18.0,2.0,HARD,2.0,True,12,True,19.0,20.5,25.0,60.0,False,1.1,107.552,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,19.0,2.0,HARD,3.0,True,1,True,19.0,20.5,25.2,59.0,False,1.8,106.941,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,20.0,2.0,HARD,4.0,True,1,True,19.0,20.5,24.8,60.0,False,2.4,107.096,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,21.0,2.0,HARD,5.0,True,1,True,19.0,20.5,25.3,60.0,False,0.8,107.166,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,22.0,2.0,HARD,6.0,True,1,True,19.0,20.5,25.3,60.0,False,1.7,106.916,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,23.0,2.0,HARD,7.0,True,1,True,19.0,20.4,24.9,61.0,False,1.4,106.766,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,24.0,2.0,HARD,8.0,True,1,True,19.0,20.5,25.2,61.0,False,2.1,107.125,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,25.0,2.0,HARD,9.0,True,1,True,19.0,20.4,25.2,60.0,False,0.9,106.947,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,26.0,2.0,HARD,10.0,True,1,True,19.0,20.4,25.1,60.0,False,2.2,106.775,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,27.0,2.0,HARD,11.0,True,1,True,19.0,20.5,24.9,60.0,False,2.1,106.565,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,28.0,2.0,HARD,12.0,True,1,True,19.0,20.5,24.8,60.0,False,1.8,107.031,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,29.0,2.0,HARD,13.0,True,1,True,19.0,20.5,24.8,60.0,False,0.7,106.875,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,30.0,2.0,HARD,14.0,True,1,True,19.0,20.4,24.7,60.0,False,1.2,106.567,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,31.0,2.0,HARD,15.0,True,1,True,19.0,20.4,24.9,60.0,False,1.8,106.693,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,32.0,2.0,HARD,16.0,True,1,True,19.0,20.4,24.9,60.0,False,1.9,106.303,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,33.0,2.0,HARD,17.0,True,1,True,19.0,20.5,24.9,61.0,False,1.1,106.453,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,34.0,2.0,HARD,18.0,True,1,True,19.0,20.4,24.9,60.0,False,1.4,106.293,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,35.0,2.0,HARD,19.0,True,1,True,19.0,20.4,24.9,60.0,False,1.4,106.498,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,36.0,2.0,HARD,20.0,True,1,True,18.0,20.4,25.2,60.0,False,1.9,106.658,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,37.0,2.0,HARD,21.0,True,1,True,18.0,20.4,25.0,60.0,False,1.9,106.281,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,38.0,2.0,HARD,22.0,True,1,True,18.0,20.5,24.9,60.0,False,1.5,106.681,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,39.0,2.0,HARD,23.0,True,1,True,18.0,20.5,24.9,60.0,False,1.3,106.498,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,40.0,2.0,HARD,24.0,True,1,True,18.0,20.5,24.9,60.0,False,2.1,106.055,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,41.0,2.0,HARD,25.0,True,1,True,18.0,20.5,24.9,60.0,False,1.3,106.845,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,42.0,2.0,HARD,26.0,True,1,True,18.0,20.5,25.0,60.0,False,1.3,106.375,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,43.0,2.0,HARD,27.0,True,1,True,18.0,20.4,24.5,60.0,False,1.2,106.52,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,44.0,2.0,HARD,28.0,True,1,True,18.0,20.5,24.8,60.0,False,1.3,106.539,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,45.0,2.0,HARD,29.0,True,1,True,18.0,20.5,25.0,59.0,False,1.3,106.774,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,46.0,2.0,HARD,30.0,True,1,True,18.0,20.5,24.6,59.0,False,0.8,106.097,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,47.0,2.0,HARD,31.0,True,1,True,18.0,20.5,24.6,59.0,False,2.2,106.338,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,48.0,2.0,HARD,32.0,True,1,True,19.0,20.5,24.5,59.0,False,2.1,108.436,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,49.0,2.0,HARD,33.0,True,1,True,19.0,20.4,24.5,60.0,False,1.5,107.55,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+COL,Alpine,50.0,2.0,HARD,34.0,True,1,True,19.0,20.4,24.5,60.0,False,2.1,106.158,False,51,2025,17,Azerbaijan Grand Prix,2025_17
+PIA,McLaren,1.0,1.0,MEDIUM,1.0,True,124,False,,20.5,26.6,61.0,False,1.8,,False,51,2025,17,Azerbaijan Grand Prix,2025_17
