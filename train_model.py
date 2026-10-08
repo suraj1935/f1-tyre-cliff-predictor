@@ -1,9 +1,10 @@
-"""
-Train and compare models that predict whether the tyre cliff arrives within the next N laps.
-Input:  data/model_table.csv   (from build_features.py)
-Output: printed metrics, feature_importance.png
-Install first:  pip install xgboost scikit-learn
-"""
+ # Train and compare models that predict whether the tyre cliff arrives within the next N laps.
+# Input:  data/model_table.csv   (from build_features.py)
+# Output: printed metrics, feature_importance.png
+# Install first:  pip install xgboost scikit-learn
+import json
+import os
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -43,7 +44,7 @@ def make_logreg(ytr):
 
 
 def cv_predict(make_model, X):
-    """Out-of-fold probabilities. Every race is predicted by a model that never saw it."""
+    # Out-of-fold probabilities. Every race is predicted by a model that never saw it.
     oof = np.zeros(len(y))
     for tr, te in GroupKFold(n_splits=5).split(X, y, groups):
         m = make_model(y.iloc[tr])
@@ -78,6 +79,11 @@ X_nopit = X.drop(columns=["PitsNearby"])
 oof_nopit = cv_predict(make_xgb, X_nopit)
 report("XGBoost without PitsNearby", oof_nopit, 0.5)
 
+# 4b. Ablation: without recent-pace features. What can tyre age and conditions do alone?
+PACE_COLS = ["DeltaSoFar", "Delta3", "Slope3"]
+oof_nopace = cv_predict(make_xgb, X.drop(columns=PACE_COLS))
+report("XGBoost without pace features", oof_nopace, 0.5)
+
 # 5. Results by compound
 print("\nXGBoost PR-AUC by compound:")
 for comp in ["HARD", "MEDIUM", "SOFT"]:
@@ -95,3 +101,10 @@ plt.tight_layout()
 plt.savefig("feature_importance.png", dpi=150)
 print("\nTop features:", imp.sort_values(ascending=False).head(6).round(3).to_dict())
 print("Saved feature_importance.png")
+
+# 7. Save the model and what the backend needs to use it
+os.makedirs("model", exist_ok=True)
+final.save_model("model/cliff_model.json")
+with open("model/meta.json", "w") as f:
+    json.dump({"features": list(X.columns), "medians": X.median().to_dict()}, f)
+print("Saved model/cliff_model.json and model/meta.json")
